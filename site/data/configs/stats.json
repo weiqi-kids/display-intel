@@ -1,0 +1,101 @@
+{
+  "company_count": 17,
+  "topic_count": 6,
+  "alias_count": 69,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "corning",
+      "short_name": "Corning Incorporated",
+      "tier": ""
+    },
+    {
+      "id": "applied_materials",
+      "short_name": "Applied Materials",
+      "tier": ""
+    },
+    {
+      "id": "canon",
+      "short_name": "Canon Inc.",
+      "tier": ""
+    },
+    {
+      "id": "novatek",
+      "short_name": "聯詠科技",
+      "tier": ""
+    },
+    {
+      "id": "raydium",
+      "short_name": "瑞鼎科技",
+      "tier": ""
+    },
+    {
+      "id": "himax",
+      "short_name": "奇景光電",
+      "tier": ""
+    },
+    {
+      "id": "auo",
+      "short_name": "友達光電",
+      "tier": ""
+    },
+    {
+      "id": "innolux",
+      "short_name": "群創光電",
+      "tier": ""
+    },
+    {
+      "id": "lg_display",
+      "short_name": "LG Display",
+      "tier": ""
+    },
+    {
+      "id": "boe",
+      "short_name": "京東方科技",
+      "tier": ""
+    },
+    {
+      "id": "jdi",
+      "short_name": "Japan Display",
+      "tier": ""
+    },
+    {
+      "id": "csot",
+      "short_name": "TCL華星光電",
+      "tier": ""
+    },
+    {
+      "id": "samsung_elec",
+      "short_name": "Samsung Electronics",
+      "tier": ""
+    },
+    {
+      "id": "lg_elec",
+      "short_name": "LG Electronics",
+      "tier": ""
+    },
+    {
+      "id": "sony",
+      "short_name": "Sony Group",
+      "tier": ""
+    },
+    {
+      "id": "tcl",
+      "short_name": "TCL科技",
+      "tier": ""
+    },
+    {
+      "id": "vizio",
+      "short_name": "VIZIO Holding",
+      "tier": ""
+    }
+  ]
+}
