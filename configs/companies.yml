@@ -1,0 +1,327 @@
+# 面板供應鏈情報追蹤 - 公司清單
+
+companies:
+- id: corning
+  name: Corning Incorporated
+  aliases:
+  - 康寧
+  - Corning
+  ticker: GLW
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 玻璃基板
+  description: 全球最大顯示器玻璃基板供應商
+  downstream:
+  - auo
+  - innolux
+  - lg_display
+  - boe
+  - jdi
+- id: applied_materials
+  name: Applied Materials
+  aliases:
+  - 應材
+  - AMAT
+  ticker: AMAT
+  market: NASDAQ
+  currency: USD
+  position: upstream
+  role: 製程設備
+  description: 顯示器與半導體製程設備
+  downstream:
+  - auo
+  - innolux
+  - lg_display
+  - boe
+  - jdi
+- id: canon
+  name: Canon Inc.
+  aliases:
+  - 佳能
+  - Canon
+  ticker: 7751.T
+  market: TSE
+  currency: JPY
+  position: upstream
+  role: 曝光設備
+  description: 顯示器曝光設備供應商
+  downstream:
+  - auo
+  - innolux
+  - lg_display
+  - boe
+- id: novatek
+  name: 聯詠科技
+  aliases:
+  - Novatek Microelectronics
+  - 聯詠
+  ticker: 3034.TW
+  market: TWSE
+  currency: TWD
+  position: upstream
+  role: 驅動IC
+  description: 全球最大面板驅動 IC 設計公司
+  downstream:
+  - auo
+  - innolux
+  - lg_display
+  - boe
+  - samsung_elec
+- id: raydium
+  name: 瑞鼎科技
+  aliases:
+  - Raydium Semiconductor
+  - 瑞鼎
+  ticker: 3592.TWO
+  market: TPEx
+  currency: TWD
+  position: upstream
+  role: 驅動IC
+  description: 觸控與驅動整合 IC
+  downstream:
+  - auo
+  - innolux
+  - boe
+- id: himax
+  name: 奇景光電
+  aliases:
+  - Himax Technologies
+  - 奇景
+  - HIMX
+  ticker: HIMX
+  market: NASDAQ
+  currency: USD
+  position: upstream
+  role: 驅動IC
+  description: 顯示驅動 IC 與 WLO 技術
+  downstream:
+  - auo
+  - innolux
+  - lg_display
+  - boe
+  - jdi
+- id: auo
+  name: 友達光電
+  aliases:
+  - AU Optronics
+  - 友達
+  - AUO
+  ticker: 2409.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 面板製造
+  description: 台灣最大面板廠
+  upstream:
+  - corning
+  - applied_materials
+  - novatek
+  - raydium
+  - himax
+  downstream:
+  - samsung_elec
+  - lg_elec
+  - sony
+  - tcl
+- id: innolux
+  name: 群創光電
+  aliases:
+  - Innolux
+  - 群創
+  ticker: 3481.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 面板製造
+  description: 鴻海集團面板廠
+  upstream:
+  - corning
+  - applied_materials
+  - novatek
+  - raydium
+  - himax
+  downstream:
+  - samsung_elec
+  - lg_elec
+  - sony
+  - tcl
+- id: lg_display
+  name: LG Display
+  aliases:
+  - LGD
+  - 樂金顯示
+  ticker: 034220.KS
+  market: KRX
+  currency: KRW
+  position: midstream
+  role: 面板製造
+  description: 全球最大 OLED 面板供應商
+  upstream:
+  - corning
+  - applied_materials
+  - novatek
+  - himax
+  downstream:
+  - lg_elec
+  - sony
+  - samsung_elec
+- id: boe
+  name: 京東方科技
+  aliases:
+  - BOE Technology
+  - 京東方
+  - BOE
+  ticker: 000725.SZ
+  market: SZSE
+  currency: CNY
+  position: midstream
+  role: 面板製造
+  description: 全球最大液晶面板供應商
+  upstream:
+  - corning
+  - applied_materials
+  - novatek
+  - raydium
+  - himax
+  downstream:
+  - samsung_elec
+  - lg_elec
+  - tcl
+- id: jdi
+  name: Japan Display
+  aliases:
+  - JDI
+  ticker: 6740.T
+  market: TSE
+  currency: JPY
+  position: midstream
+  role: 面板製造
+  description: 日本中小尺寸面板廠
+  upstream:
+  - corning
+  - applied_materials
+  - himax
+  downstream:
+  - sony
+- id: csot
+  name: TCL華星光電
+  aliases:
+  - CSOT
+  - 華星光電
+  ticker: null
+  market: null
+  currency: CNY
+  position: midstream
+  role: 面板製造
+  description: TCL 集團旗下面板廠
+  upstream:
+  - corning
+  - applied_materials
+  - novatek
+  downstream:
+  - tcl
+  - samsung_elec
+- id: samsung_elec
+  name: Samsung Electronics
+  aliases:
+  - 三星電子
+  - 三星
+  - Samsung
+  ticker: 005930.KS
+  market: KRX
+  currency: KRW
+  position: downstream
+  role: 終端品牌
+  description: 全球最大電視與手機品牌
+  upstream:
+  - auo
+  - innolux
+  - lg_display
+  - boe
+  - novatek
+- id: lg_elec
+  name: LG Electronics
+  aliases:
+  - LG電子
+  - LG
+  ticker: 066570.KS
+  market: KRX
+  currency: KRW
+  position: downstream
+  role: 終端品牌
+  description: 全球前三大電視品牌
+  upstream:
+  - lg_display
+  - auo
+  - innolux
+  - boe
+- id: sony
+  name: Sony Group
+  aliases:
+  - 索尼
+  - Sony
+  ticker: 6758.T
+  market: TSE
+  currency: JPY
+  position: downstream
+  role: 終端品牌
+  description: 高階電視與影像感測器
+  upstream:
+  - lg_display
+  - auo
+  - innolux
+  - jdi
+- id: tcl
+  name: TCL科技
+  aliases:
+  - TCL Technology
+  - TCL
+  ticker: 000100.SZ
+  market: SZSE
+  currency: CNY
+  position: downstream
+  role: 終端品牌
+  description: 中國最大電視品牌之一
+  upstream:
+  - csot
+  - auo
+  - innolux
+  - boe
+- id: vizio
+  name: VIZIO Holding
+  aliases:
+  - VIZIO
+  ticker: VZIO
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 終端品牌
+  description: 美國平價電視品牌
+  upstream:
+  - auo
+  - innolux
+  - boe
+supply_chain_positions:
+  upstream:
+  - 玻璃基板
+  - 製程設備
+  - 曝光設備
+  - 驅動IC
+  midstream:
+  - 面板製造
+  downstream:
+  - 終端品牌
+topics:
+- id: panel_price
+  name: 面板價格
+- id: oled_penetration
+  name: OLED 滲透率
+- id: mini_led
+  name: Mini LED
+- id: it_panel_demand
+  name: IT 面板需求
+- id: automotive_display
+  name: 車用面板
+- id: earnings
+  name: 法說會

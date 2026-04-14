@@ -1,0 +1,72 @@
+{
+  "corning": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "applied_materials": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "canon": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "novatek": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 55
+  },
+  "himax": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "auo": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 55
+  },
+  "innolux": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 55
+  },
+  "lg_display": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 61
+  },
+  "boe": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 58
+  },
+  "jdi": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "samsung_elec": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 61
+  },
+  "lg_elec": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 61
+  },
+  "sony": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "tcl": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 58
+  }
+}

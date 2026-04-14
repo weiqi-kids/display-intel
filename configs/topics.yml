@@ -1,0 +1,110 @@
+# 面板供應鏈情報追蹤 - 主題清單
+
+topics:
+  panel_price:
+    display: 面板價格
+    keywords:
+    - panel price
+    - 面板價格
+    - 面板報價
+    - LCD price
+    - 液晶面板價格
+    - TV panel
+    - 電視面板
+    - monitor panel
+    - 顯示器面板
+    - WitsView
+    - TrendForce
+    - Omdia
+    sentiment_keywords:
+      positive:
+      - 上漲
+      - 漲價
+      - price hike
+      - panel rally
+      negative:
+      - 下跌
+      - 跌價
+      - price cut
+      - panel decline
+  oled_penetration:
+    display: OLED 滲透率
+    keywords:
+    - OLED
+    - AMOLED
+    - OLED penetration
+    - OLED 滲透率
+    - OLED TV
+    - OLED 電視
+    - OLED panel
+    - OLED 面板
+    - organic LED
+    - flexible OLED
+    - foldable display
+    - 摺疊螢幕
+  mini_led:
+    display: Mini LED
+    keywords:
+    - Mini LED
+    - MiniLED
+    - Mini LED backlight
+    - Mini LED 背光
+    - Micro LED
+    - MicroLED
+    - direct backlight
+    - 直下式背光
+    - COB
+    - chip on board
+  it_panel_demand:
+    display: IT 面板需求
+    keywords:
+    - IT panel
+    - IT 面板
+    - notebook panel
+    - 筆電面板
+    - monitor panel
+    - 顯示器面板
+    - tablet panel
+    - 平板面板
+    - PC demand
+    - PC 需求
+    - Chromebook
+    sentiment_keywords:
+      positive:
+      - 需求回升
+      - demand recovery
+      - shipment growth
+      negative:
+      - 需求疲弱
+      - demand weakness
+      - shipment decline
+  automotive_display:
+    display: 車用面板
+    keywords:
+    - automotive display
+    - 車用面板
+    - car display
+    - vehicle display
+    - instrument cluster
+    - 儀表板
+    - center stack
+    - 中控台
+    - head-up display
+    - HUD
+    - 抬頭顯示
+    - CID
+  earnings:
+    display: 法說會
+    keywords:
+    - earnings
+    - 法說會
+    - 財報
+    - quarterly results
+    - guidance
+    - outlook
+    - revenue
+    - 營收
+    - profit
+    - 獲利
+    - 毛利率
+    - gross margin

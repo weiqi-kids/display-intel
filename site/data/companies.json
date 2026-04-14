@@ -1,0 +1,380 @@
+{
+  "companies": [
+    {
+      "id": "corning",
+      "name": "Corning Incorporated",
+      "short_name": "康寧",
+      "position": "upstream",
+      "role": "玻璃基板",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "applied_materials",
+      "name": "Applied Materials",
+      "short_name": "應材",
+      "position": "upstream",
+      "role": "製程設備",
+      "x": 0.106,
+      "y": 0.34
+    },
+    {
+      "id": "canon",
+      "name": "Canon Inc.",
+      "short_name": "佳能",
+      "position": "upstream",
+      "role": "曝光設備",
+      "x": 0.163,
+      "y": 0.34
+    },
+    {
+      "id": "novatek",
+      "name": "聯詠科技",
+      "short_name": "聯詠",
+      "position": "upstream",
+      "role": "驅動IC",
+      "x": 0.219,
+      "y": 0.34
+    },
+    {
+      "id": "raydium",
+      "name": "瑞鼎科技",
+      "short_name": "瑞鼎",
+      "position": "upstream",
+      "role": "驅動IC",
+      "x": 0.275,
+      "y": 0.34
+    },
+    {
+      "id": "himax",
+      "name": "奇景光電",
+      "short_name": "奇景",
+      "position": "upstream",
+      "role": "驅動IC",
+      "x": 0.331,
+      "y": 0.34
+    },
+    {
+      "id": "auo",
+      "name": "友達光電",
+      "short_name": "友達",
+      "position": "midstream",
+      "role": "面板製造",
+      "x": 0.388,
+      "y": 0.34
+    },
+    {
+      "id": "innolux",
+      "name": "群創光電",
+      "short_name": "群創",
+      "position": "midstream",
+      "role": "面板製造",
+      "x": 0.444,
+      "y": 0.34
+    },
+    {
+      "id": "lg_display",
+      "name": "LG Display",
+      "short_name": "樂金顯示",
+      "position": "midstream",
+      "role": "面板製造",
+      "x": 0.5,
+      "y": 0.34
+    },
+    {
+      "id": "boe",
+      "name": "京東方科技",
+      "short_name": "京東方",
+      "position": "midstream",
+      "role": "面板製造",
+      "x": 0.556,
+      "y": 0.34
+    },
+    {
+      "id": "jdi",
+      "name": "Japan Display",
+      "short_name": "JDI",
+      "position": "midstream",
+      "role": "面板製造",
+      "x": 0.613,
+      "y": 0.34
+    },
+    {
+      "id": "csot",
+      "name": "TCL華星光電",
+      "short_name": "華星光電",
+      "position": "midstream",
+      "role": "面板製造",
+      "x": 0.669,
+      "y": 0.34
+    },
+    {
+      "id": "samsung_elec",
+      "name": "Samsung Electronics",
+      "short_name": "三星電子",
+      "position": "downstream",
+      "role": "終端品牌",
+      "x": 0.725,
+      "y": 0.34
+    },
+    {
+      "id": "lg_elec",
+      "name": "LG Electronics",
+      "short_name": "LG電子",
+      "position": "downstream",
+      "role": "終端品牌",
+      "x": 0.781,
+      "y": 0.34
+    },
+    {
+      "id": "sony",
+      "name": "Sony Group",
+      "short_name": "索尼",
+      "position": "downstream",
+      "role": "終端品牌",
+      "x": 0.838,
+      "y": 0.34
+    },
+    {
+      "id": "tcl",
+      "name": "TCL科技",
+      "short_name": "TCL科技",
+      "position": "downstream",
+      "role": "終端品牌",
+      "x": 0.894,
+      "y": 0.34
+    },
+    {
+      "id": "vizio",
+      "name": "VIZIO Holding",
+      "short_name": "VIZIO",
+      "position": "downstream",
+      "role": "終端品牌",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "corning",
+      "target": "auo",
+      "strength": 2
+    },
+    {
+      "source": "corning",
+      "target": "innolux",
+      "strength": 2
+    },
+    {
+      "source": "corning",
+      "target": "lg_display",
+      "strength": 2
+    },
+    {
+      "source": "corning",
+      "target": "boe",
+      "strength": 2
+    },
+    {
+      "source": "corning",
+      "target": "jdi",
+      "strength": 2
+    },
+    {
+      "source": "applied_materials",
+      "target": "auo",
+      "strength": 2
+    },
+    {
+      "source": "applied_materials",
+      "target": "innolux",
+      "strength": 2
+    },
+    {
+      "source": "applied_materials",
+      "target": "lg_display",
+      "strength": 2
+    },
+    {
+      "source": "applied_materials",
+      "target": "boe",
+      "strength": 2
+    },
+    {
+      "source": "applied_materials",
+      "target": "jdi",
+      "strength": 2
+    },
+    {
+      "source": "canon",
+      "target": "auo",
+      "strength": 2
+    },
+    {
+      "source": "canon",
+      "target": "innolux",
+      "strength": 2
+    },
+    {
+      "source": "canon",
+      "target": "lg_display",
+      "strength": 2
+    },
+    {
+      "source": "canon",
+      "target": "boe",
+      "strength": 2
+    },
+    {
+      "source": "novatek",
+      "target": "auo",
+      "strength": 2
+    },
+    {
+      "source": "novatek",
+      "target": "innolux",
+      "strength": 2
+    },
+    {
+      "source": "novatek",
+      "target": "lg_display",
+      "strength": 2
+    },
+    {
+      "source": "novatek",
+      "target": "boe",
+      "strength": 2
+    },
+    {
+      "source": "novatek",
+      "target": "samsung_elec",
+      "strength": 2
+    },
+    {
+      "source": "raydium",
+      "target": "auo",
+      "strength": 2
+    },
+    {
+      "source": "raydium",
+      "target": "innolux",
+      "strength": 2
+    },
+    {
+      "source": "raydium",
+      "target": "boe",
+      "strength": 2
+    },
+    {
+      "source": "himax",
+      "target": "auo",
+      "strength": 2
+    },
+    {
+      "source": "himax",
+      "target": "innolux",
+      "strength": 2
+    },
+    {
+      "source": "himax",
+      "target": "lg_display",
+      "strength": 2
+    },
+    {
+      "source": "himax",
+      "target": "boe",
+      "strength": 2
+    },
+    {
+      "source": "himax",
+      "target": "jdi",
+      "strength": 2
+    },
+    {
+      "source": "auo",
+      "target": "samsung_elec",
+      "strength": 2
+    },
+    {
+      "source": "auo",
+      "target": "lg_elec",
+      "strength": 2
+    },
+    {
+      "source": "auo",
+      "target": "sony",
+      "strength": 2
+    },
+    {
+      "source": "auo",
+      "target": "tcl",
+      "strength": 2
+    },
+    {
+      "source": "innolux",
+      "target": "samsung_elec",
+      "strength": 2
+    },
+    {
+      "source": "innolux",
+      "target": "lg_elec",
+      "strength": 2
+    },
+    {
+      "source": "innolux",
+      "target": "sony",
+      "strength": 2
+    },
+    {
+      "source": "innolux",
+      "target": "tcl",
+      "strength": 2
+    },
+    {
+      "source": "lg_display",
+      "target": "lg_elec",
+      "strength": 2
+    },
+    {
+      "source": "lg_display",
+      "target": "sony",
+      "strength": 2
+    },
+    {
+      "source": "lg_display",
+      "target": "samsung_elec",
+      "strength": 2
+    },
+    {
+      "source": "boe",
+      "target": "samsung_elec",
+      "strength": 2
+    },
+    {
+      "source": "boe",
+      "target": "lg_elec",
+      "strength": 2
+    },
+    {
+      "source": "boe",
+      "target": "tcl",
+      "strength": 2
+    },
+    {
+      "source": "jdi",
+      "target": "sony",
+      "strength": 2
+    },
+    {
+      "source": "csot",
+      "target": "tcl",
+      "strength": 2
+    },
+    {
+      "source": "csot",
+      "target": "samsung_elec",
+      "strength": 2
+    }
+  ],
+  "etfs": []
+}
