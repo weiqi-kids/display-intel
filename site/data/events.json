@@ -110,6 +110,57 @@
     "sources": []
   },
   {
+    "id": "samsung_elec-2026-04-15-037",
+    "date": "2026-04-15",
+    "companies": [
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung QD-OLED tops 5 million units; LG turns to rival supply - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzBOS0xjTENXbXJuSFVWNWMtUHpDOFl5R2pFOVl3N3dPMjZhcUtiRW91VGdUVm5naTVUNUFXNzBmYjAwRTZjdTB4NFdrT3pzbXJhX01QUlpzU3pPU0x2RFR1ZzF2UnNtRXYwc2Q2Xz",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-066",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Tong Hsing Electronic expects revenue acceleration as fiber optics drives expansion",
+    "summary": "Tong Hsing Electronic, a Taiwanese semiconductor packaging and substrate manufacturer specializing in CMOS image sensors, said on Monday that optical communication modules have become its fastest-grow",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-067",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Xiaomi TV S Mini LED series launched in India with QD Mini LED display, up to 1200 nits brightness... - Moneycontrol.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQUk9pcjlBSjVTMDdmMFNaa2NIYjJpdzNsZDY3N21wSVZ4UFAzVlhoV2JJSTh0eGVNUHVPSlAyM1NmZlZocDBSdmx4WGozcEQ5MDRQWF8yMm1hTHdEdUtVaW9aeFN6NjZELVFwMVhaVF",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-068",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Xiaomi TV S Mini LED Series launched in India, price starts at Rs 51,999 - The Times of India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ3ItRGNaWTBjRW5ER0tadWN0QnVSc2ZwX2wyZFZDZjNCdmZiQ1pVc29vRm1yUGZvOFltWXBIZzdlQ051cGY2WXZIVmtNY0tFTm0zQWY0Sk9YdnN5cVByRS1YTE9uRjZKRXNPeHc5eX",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-14-005",
     "date": "2026-04-14",
     "companies": [],
@@ -138,6 +189,45 @@
     "sources": []
   },
   {
+    "id": "canon-2026-04-14-010",
+    "date": "2026-04-14",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Inc. (7751.T) Stock Price, News & Analyst Forecast - eToro",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5tSVZDaWR3R3ZVY2xUcDdfSnlkcGRJbEs5N0pST2l5X3Iwb2h6N1ZSc3hIamhYeS1WbjlIVE96SVBxTUdNQk1KNng1T0Y?oc=5\" target=\"_blank\">Canon Inc. (7751.T) Stoc",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-031",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Panel makers lift 1Q26 sales on early orders; demand outlook turns cautious - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPMVJLRnZjZFZndXZOSG5uQ2lsMXItRDZsOWpwUDlIME9GekFxeVhkWVF4R1lIWDhZQ1FBMk01eGpJeDJZTWw4MmN4SVVxSGhWRGJVMjBOblZ0VGdSLVl5RXY0MUkwYXBNbXFzYzlFRk",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-14-038",
+    "date": "2026-04-14",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display advances with its plans to adopt eLEAP for IT OLED production, will make a final decision by end of 2026 - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ24ycWVNOUFJdWZYNVFfcVQxQm54SzZkOERzMG81X2g4TDZaTjYwQlNlYnlGZzFxbDluaW5pbnZzaEZaaWlta1lVQlI0azl2VE9PdGhMNXpZb0p2MjVfTnZVV2l5THpwbklWQVoxOV",
+    "sources": []
+  },
+  {
     "id": "sony-2026-04-13-039",
     "date": "2026-04-13",
     "companies": [
@@ -149,6 +239,21 @@
     "impact": "neutral",
     "title": "[News] Sony Revealed New “True RGB” Mini LED TV Technology - LEDinside",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE93SWpTaVEyWURwZi1xZlBYRmt4WTNETXJUSFJLSFRPS1ctMHZOQUlQRGVXMVNGdUFreldSOEJWcTcwX1cyXy1OOFZldEFnS0ttRmJxOFR6WFkyaTc0ajdPVw?oc=5\" target=\"_blan",
+    "sources": []
+  },
+  {
+    "id": "samsung_elec-2026-04-13-040",
+    "date": "2026-04-13",
+    "companies": [
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG in talks to buy QD-OLED panels from Samsung Display - FlatpanelsHD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5vOTZnR18yTmRCMVVXYTlfY3F4dnZRQnFDdjhocEtqU1BUZ3VDRmpINWhNV2lXS0VqejZXdVkxVWJ2eE9fOTNkTG1mZlhlU0NSM1BVR1VQVlZXWTZ1SzgwemVfZFdQSDQ3ckxkMWFpQz",
     "sources": []
   },
   {
@@ -173,6 +278,35 @@
     "impact": "neutral",
     "title": "Sidtek launches its OLED microdisplay module fab expansion project in Meishan",
     "summary": "<p><a href=\"https://www.oled-info.com/sidtek\">Sidtek</a> has formally launched its OLED Meishan microdisplay module fab expansion project. The company says that the first phase in this project is expe",
+    "sources": []
+  },
+  {
+    "id": "novatek-2026-04-11-012",
+    "date": "2026-04-11",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Novatek hits 1Q26 revenue target on SoC, edge AI growth - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPX09rQU5MMUxWME0tX0JRQlpzYS1xS1VmWVpldEVScHlyYlY1MzdqMzhOOXF3V2UtRUZLeVZGcGZEQ2VnYmZLZzJQYnpYR2JZd2tZRkt2Rld5Y043Q2VlZXJtbTltdFJTQjJ3dEJlYz",
+    "sources": []
+  },
+  {
+    "id": "innolux-2026-04-11-033",
+    "date": "2026-04-11",
+    "companies": [
+      "innolux",
+      "auo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Innolux, AUO say geopolitical and raw-material shocks are supporting short-term panel demand while clouding 2026 outlook - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFJhWTdvcEw0SE10bkpBeWlaY0FYd3hJelJDTUhfTkwzcXFsMGJKUVk3a1R4ZWFqVTVNUW5PWkJjUF9XQUljOHZHSGp2WllIeGlGTlh6eVdNcjloaWJ1RzJYR3pLX0otTFJHQmw4RX",
     "sources": []
   },
   {
@@ -223,6 +357,21 @@
     "impact": "neutral",
     "title": "Mini LED Market to Reach USD 83.5 Billion by 2035, Driven - openPR.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQb0wxWU0tNHQwdUdfZlc0RlkwWmlldDlFX2JBRVJ3NlRrMmtOT1JpQXNCX2dqTERoc1AycFZWdW9ZVU5Od3VYVjctSHc3bjQ5SllwWHhkY0J0MThTb0ZoOFB1TWNDMUxMM2N0WlloX0",
+    "sources": []
+  },
+  {
+    "id": "samsung_elec-2026-04-10-041",
+    "date": "2026-04-10",
+    "companies": [
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Electronics to Source QD-OLED Panels From Samsung Display for Monitors - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE51Qm1sVXFiM2w4ZkFiN2hqTVJXSGl6RERja01wdXdxTjctbDhfcFpiNXFZQUsySDNqaFByYWpwZGdZcjJQN2hKTHY4SDQ2YzlveEwySWJEWTZBU3BYcmgybUJLRktkdw?oc=5\" targe",
     "sources": []
   },
   {
@@ -306,6 +455,21 @@
     "impact": "neutral",
     "title": "Samsung Display reportedly achieve 80% yields at its A6 8.6-Gen production line, on track for mass production in June",
     "summary": "<p>A few weeks ago we <a href=\"https://www.oled-info.com/samsung-display-slowing-down-its-86-gen-it-amoled-line-ramp-reports-suggest\">reported</a> that Samsung Display may be delaying the A6 8.6-Gen r",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-09-039",
+    "date": "2026-04-09",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Article: LG Display, ETRI report growing patent royalty revenues - IAM Patent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1N5NURKVXVWcTdxTHZvVzI4LUc3ZHpfTnZqOXowaVdGdDNJUlVvbm1uallmV0FGRU1yTjdLMnlSdFg0djQ4YWV3aXFaUWc0Mkw2Q0pGaldrQ01kUUFVNWthSUo2SlRnRmFXWG9Edn",
     "sources": []
   },
   {
@@ -421,6 +585,36 @@
     "sources": []
   },
   {
+    "id": "boe-2026-04-06-050",
+    "date": "2026-04-06",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Article: BOE hit with largest Q1 jury verdict, but Apple’s defence victory is bigger surprise - IAM Patent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSXhUdU9Nd2s2cWt0ZVE4RDg4SVBfd2NpOWpKNFV2aFlMbmVwdFBFZXNCWlU3d0tiZFp0anJwSUNEb1lEX0VPYS14VEpjLW9kaDluODJPUXU4aVhfNmJnV2FqTG1IUE5yZW5sRHpoR0",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-06-069",
+    "date": "2026-04-06",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "panel_price",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "[News] LG Display Rumored to develop Micro LED Inspection and Repair Technologies - TrendForce",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS19rSEdhRGFtVWJEVTNWZ2tMS1BxZDdaVTBIT19WR0FMaWFQc2ZGUnFHUWhXQXVvdTlmU2RWV0xRZk5hUUFjazUwU3NkLU9kQVBwNjlEVXZ2dm50YjlsdWNVZlJqZndYNkxqMi12S1",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-03-021",
     "date": "2026-04-03",
     "companies": [],
@@ -444,6 +638,21 @@
     "impact": "neutral",
     "title": "Mini-LED vs. OLED: Which TV Tech Should You Get? - CNET",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOQXAtLVJDRndoVm5YNVZxUmdBLWlzUF9NN3VDeWxHcTVZbmZJZW9OVGR1ZS1fZjJPcTNaU3k5VkxnOWxfR3dKd2QzMVhZVWVfd1ktdEh2LUlGLXl2OWxxeGhramE3UzkwYlUyX3pqbk",
+    "sources": []
+  },
+  {
+    "id": "auo-2026-04-03-027",
+    "date": "2026-04-03",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "panel_price",
+      "it_panel_demand"
+    ],
+    "impact": "neutral",
+    "title": "AU Optronics Announce The World’s First 24″ 800Hz Refresh Rate Monitor Panel - TFTCentral",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUR0Wll5bWhMc2RNQTF1Y2FrTno1bXVsdjdoWFBSdXpJcC0wOUlMODAzTlBnNXBRU1NaUGF2LTlrOWVUMFg0QWJHYnRYRFlCV0VNX3Z3aEN6U25UcmhvTGFTYmdxZk9tbnB4dEpNd0",
     "sources": []
   },
   {
@@ -533,6 +742,77 @@
     "sources": []
   },
   {
+    "id": "boe-2026-03-31-049",
+    "date": "2026-03-31",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "BOE Technology Group Company: Net profit rose 10% to RMB5.86 billion on record revenue and strong innovation momentum - TradingView — Track All Markets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxQT1BTSXRxUDJkaVlSRWVqTFMwU0FTUXJubTY2cEl0SzZTdllfVVdBWVNLTjRZOHN0U3ZQaDdqejRkcGVhZVp0UzRaZF9oZ3hzQjdUS2d2Q3Y3UWZWT01mZHR6cVNxNEh6dzNWUWVRRX",
+    "sources": []
+  },
+  {
+    "id": "boe-2026-03-31-051",
+    "date": "2026-03-31",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BOE Technology Group Company Limited Reports Earnings Results for the Full Year Ended December 31, 2025 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeHViMmltRDd4NWlsdm4yT0EyT3VhZmQyVjQycGo0RENlRnlnbkpoZVl4TFJxTTFpX2d0TXNwVDY3d2Vyd2x4TDJVT05rSF9TbVBMZG5pYnExanZ1R1NnUUhUMGV5YWkwZE1qel9sTU",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-03-30-045",
+    "date": "2026-03-30",
+    "companies": [
+      "lg_elec",
+      "lg_display",
+      "jdi"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display dominates Apple Watch OLED supply after JDI exit - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NWnUyQzNkX3o1ZDFpWnVtSUlsT19nY3hva1J3Q0RGY2dpTy1YUDEwM1l6SXczY0JQUkFIa1RxTERHYlpBeTFVRkpIRVlyZVNta0h2V1hXYw?oc=5\" target=\"_blank\">LG Displa",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-03-29-044",
+    "date": "2026-03-29",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Smaller, but high-priced OLEDs, LG Display’s new growth engine - KED Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE55SnpGd2c0RnlpcXZPYlFmaVgzSzZDRGhfcUNqb3hnblU2NVY3Z055Wlh6YThzMkJCQ2dObjlrMTFlYTIzNi1qcFRic0RrZXZUQTd0b3JBQ1JkVkdRcTMwU05laEtQTjBiOGZ3RTV6Zz",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-29-070",
+    "date": "2026-03-29",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Highlights of the International Micro LED Display Conference - Section One - LEDinside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOGlLOWFrVnZlaEttMGxobVVKSXN6b0R1SEZKdEo4ZnNLbEE2eGRmRG5rYXRmWDZpMmhyRF9DOC0wYnFDRXJ6NkRUdGZXd3FPZUx0bTh4dGVEeFpMTVRGS2dPOTR2WDRlNXFtVTN2X1",
+    "sources": []
+  },
+  {
     "id": "samsung_elec-2026-03-28-004",
     "date": "2026-03-28",
     "companies": [
@@ -593,6 +873,34 @@
     "sources": []
   },
   {
+    "id": "jdi-2026-03-09-052",
+    "date": "2026-03-09",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Will Japan Display establish a $13 billion OLED display fab in the US? - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNbzJlWkl5anhJejRTVWVuTDFYeUlJTEtKVFA5WThzVk5mRkNmdFF2MllzTEZiMkZoYlpwTHVraVlMVzhUMWZOLXNmQ0ROdHh4TGE4QnhjOEZ4VDNtQUNza1BQRDNkRUlUUG1oT3JwVD",
+    "sources": []
+  },
+  {
+    "id": "himax-2026-02-25-024",
+    "date": "2026-02-25",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What Himax Technologies (HIMX)'s Soft 2025 Results and Q1 2026 Trough Outlook Mean For Shareholders - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOQUdGVUM1cXpsRjd2dXAyVVk5eTNEX0NPOXNZMWFEZlgzOHl3c2w3bDk3SnAxeEdVdVJrQmVKa0hBWmlob1NhU2RsUVFDcHZ2eTdQS3FMbEJXU1Y5cDMySUE1UHVndVh6TWZGdFZ5aV",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-02-20-048",
     "date": "2026-02-20",
     "companies": [],
@@ -605,6 +913,48 @@
     "sources": []
   },
   {
+    "id": "himax-2026-02-13-025",
+    "date": "2026-02-13",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) Valuation After Earnings Drop And Cautious Guidance - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOSzVrTEs5UTFUSWdrVF9GNV9MNWZqa2VuNWtSZTViZ1F5empsbmd6cWMtYTB2QWlvWHYwQUU3dHhwbE56cW1oVERVR1p2ZUg1a0hrbjdqcTk4dFR3YnpOTHB0UXpaOVZGbGcwanVtUn",
+    "sources": []
+  },
+  {
+    "id": "himax-2026-02-12-026",
+    "date": "2026-02-12",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies, Inc. Reports Fourth Quarter and Full Year 2025 Financial Results; Provides First Quarter 2026 Guidance - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM2M4THh6YWQtNVJjRFR6Z1l4TzVsUXpGRTNzS1l3bE9MMnMtTHBPemhxaUdsQjlKMGV1QVZjSXh3d2pZQ3hnTlg5d2RsdXFJR2lJaTN0ZHJudnZBdWRvUERDYmVvYXdUUWl3WnpzZV",
+    "sources": []
+  },
+  {
+    "id": "boe-2026-02-08-048",
+    "date": "2026-02-08",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "ISE 2022: BOE Technology Highlights Its P0.9 Chip-on-Glass (COG) miniLED Display - rAVe [PUBS]",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQeGpkNFFYTHhNampQdjZoQVBPVUxCVmdpd2pUemI5V21LUkhHc0Uya2ltR0hxUUdVLXlYNmxyR3ZHTVlnUG1uUnFzZjB2YnNfNE1IMFVVbEtMUXFDTWgwaW9YakNOUVJBRjdfVXNicE",
+    "sources": []
+  },
+  {
     "id": "samsung_elec-2026-02-05-002",
     "date": "2026-02-05",
     "companies": [
@@ -614,6 +964,33 @@
     "impact": "positive",
     "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
     "summary": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoi",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-29-036",
+    "date": "2026-01-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan tops auto display revenue while China dominates volume - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUUVzVkN6U0hCbGZpNXhxZUllTlg4bGVWWE50SkdxUE9oazZpOXVIWHVMN0RTYW1ibTBUaEZtNTNUQUNUelhYS0EtaGRtQWJXbGVFRzF1SU9YNTFrbV9CMHc1bjFoVko1S3N3dld2V2",
+    "sources": []
+  },
+  {
+    "id": "auo-2026-01-27-029",
+    "date": "2026-01-27",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "$76+ Billion Flexible Electronics Market Outlook, 2030: OLEDWorks, AU Optronics Corp., and Cymbet Corp. Lead the Industry - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdmgwYjFHektWMUZWc2d1ZDkzMnBzMUc0VFhFRHlHRU9SazVMS05fOFBHRkdBdnBfSEFCbDlDMnVTY1g1aDdCMm1WTF91ODFTWkoxcS0wMjU4dHNKUFdoU0VRMWk3Q0puQkh1eGhGcD",
     "sources": []
   },
   {
@@ -643,6 +1020,50 @@
     "sources": []
   },
   {
+    "id": "tcl-2026-01-07-058",
+    "date": "2026-01-07",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "98-inch HVA TV, sliding multi-curve car display banner new TCL offerings - GadgetMatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWk8xRjZfaC02TGV5RTcyT3RXdXFJVW41Tk50ZFpXTFFvaGhWbW5SRlk0VTJyTUpMN0VnVGowQkZWT0NWYWQ1dzluZl9XQzI0RTVQVi1xc2JfVGVqMjN2dDM0Vko4ZTBmcnVtSlhmZW",
+    "sources": []
+  },
+  {
+    "id": "auo-2026-01-06-028",
+    "date": "2026-01-06",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "CES 2026: AU Optronics debuts new smart cockpit and microLED innovations - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbUl3ZlVyZVBZanpxWldxZGlkMTdPVS13enRhcFZuM3ZiMGt1Q2pra2Z0RlFlZ1A0ZU8tUFQzeWtLaXRSeEJ2UHBiNU1sb0hHcmRuTE9JbElJQjBIbmZ1WDUzazNRZUNkdjBwaDdwNj",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-01-04-046",
+    "date": "2026-01-04",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to unveil strategic OLED lineup built on best-in-class technology at CES 2026 - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV0p2cFJENGpmSVl4eDVXT2RyR3pBLUh6VnB3T2U4Sk1UUmlZMHVJdGRzd0RiMVVGNXFSRnpWNVhTT2pZS3BtVGRxODMxbWFqeTBvVG5xZTlLSzhzb2p3R1JHRTZyamNyWmUwSmM3dF",
+    "sources": []
+  },
+  {
     "id": "samsung_elec-2025-12-26-027",
     "date": "2025-12-26",
     "companies": [
@@ -654,6 +1075,36 @@
     "impact": "neutral",
     "title": "Samsung might start using Chinese OLED displays in its flagship phones - PhoneArena",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWpOd01jRWlLdzhlVG5ZTnl6dXhTQmYtcnpCZ3RCSWNRaDBXMzBTWldQM1ZzaWp0UTJOSzdqV2F6VWZENWxVUjJfeDI2Z2ZqMDhESjBPX3oza1dLUGk5dFRFU3NSZ3dhc241Z3psck",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2025-12-25-043",
+    "date": "2025-12-25",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "CES 2026: LG Display announces Tandem WOLED/OLED technology brands by Jose Antunes - ProVideo Coalition - ProVideo Coalition",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPcVVXQmR4ODRpSFZsaXZPd05xRkJleDlsUlRyNnZwaHlBNURNR0tfN2xZUlBlVmxNRldRaG9wZ1hKMVF5MXZneHRIbW1Zb1lHVzhiZk5EV01jUGRVdjJFS3JCZ1NFTlZQWDB5Zk5ycT",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2025-12-23-042",
+    "date": "2025-12-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display unveils world’s first 240Hz RGB stripe OLED panel - LG Display Newsroom - LG Display Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNdVlDcHhVQ3RhWU1ZZEI4dkxKT2RENkxCbkF3b09LSVNIVEtUM1BORl9nN1FEZHJQMkdtMFdueTJjR0Q4X0F1dF9SUzJRbGwyam1uNzR2YXhLVzJJQU1CUmJmUlRoYURPNW9WM1oxak",
     "sources": []
   },
   {
@@ -672,6 +1123,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2025-12-12-035",
+    "date": "2025-12-12",
+    "companies": [],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "negative",
+    "title": "LCD TV panel market defies 4Q25 slowdown on 2026 demand bets - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNaWkzb1V2WlB5TkM2ZEs0VlhaWHpOaTN5ZEd3R2JQbmR5eFozeVdVTm9Tb2kyZFVwUkJsaWhYMDE2T2F1cmZFVXBOS2E3ekNKMFFXZ3VEOGU1S1BVTV9PM3d1MlFzSWNqUHZNZDlST0",
+    "sources": []
+  },
+  {
     "id": "lg_elec-2025-12-10-046",
     "date": "2025-12-10",
     "companies": [
@@ -683,6 +1146,35 @@
     "impact": "neutral",
     "title": "LG USA Unveils Magnit Active Micro LED Display Launching at CES - Media Play News",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNMWJyRkYxVkRIQnhXTXRZUllFeDJGNzJBTkFDdUFQTDdtTDROVHJIRXc2bFJoZXhkYnJZOUlFOUFGT0UzZllNdXpPRXlMQTExOXJYYW1hQWxCeEFzbnJKM0N6RnVkNVRZVnhsaGhiaG",
+    "sources": []
+  },
+  {
+    "id": "novatek-2025-12-10-014",
+    "date": "2025-12-10",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Novatek turns to ASIC as weak device demand drags November revenue - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNSEw5ZnJhUm1UcVh3MUhNUW1yeEU4WGxjX3ltZGdyY2kxclNJbEc4SHdaaVhPWTJ1RlNFUXM4alNOYUMtMEViSEhjSGZMOExKWHdudnRCNEtKblo0Qmo3R3JzVVRuZ3o4Vm1tQ3ZPSj",
+    "sources": []
+  },
+  {
+    "id": "innolux-2025-12-06-053",
+    "date": "2025-12-06",
+    "companies": [
+      "innolux",
+      "jdi"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Japan Display cancels its eLEAP OLED partnership with Innolux and CarUX - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1I0aU1lMEJfRTc1ZkZBN3k4LUFKYk5UamJqckREMU1HMzRqbDBxMmVDTEh4STM1bWpFLUtUQms5ZmNFbHZMUEE0U1E4QXk5SW5MaVhqV1NleDVqM2laR2xkMy1iSldETlVqeG8tTl",
     "sources": []
   },
   {
@@ -709,6 +1201,21 @@
     "impact": "neutral",
     "title": "LG 136-Inch MAGNIT Active Micro LED TV Promises True Cinematic Immersion - audioholics.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9BRW13aHM0ZXlkdy1acXAyWmtNRzlnNDdqOGhTMDBTbkpkTC1kcVB6eUJVU3UwN1hxcXFoQjVpbVFGalpDeEZ5UUV3UHZFQzI2WldzbzBjRk8teEpYbEU4RHduY29mZk5xS2hF?oc=5\"",
+    "sources": []
+  },
+  {
+    "id": "csot-2025-11-21-056",
+    "date": "2025-11-21",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Q&A: TCL CSOT reveals its latest OLED innovations - FlatpanelsHD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1CaGFPVS1GUDMxbnFQblkxUFR6alJ1bFY5Ty1IWW0zODdaa1BIbnA5VWtvS0pEQS1EWVlqc1lGSkNERUZvX2pSeTRzUDdsY3ZZdVdnSUV0UXNRSVRrQnV1WFVMbEtja21FVFU5OUlIS0",
     "sources": []
   },
   {
@@ -742,6 +1249,35 @@
     "sources": []
   },
   {
+    "id": "samsung_elec-2025-11-20-047",
+    "date": "2025-11-20",
+    "companies": [
+      "samsung_elec",
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display prevails in OLED patent battle with China’s BOE - KED Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1UTlNXaXRUZ3BLVkE3Tnp2SDlFam5XZm9tRXBmclhWc1pGa0RsbkFiQnFWMXNtM1gyY0tBYkdueG9GTzRLS1E3YTFYSUpnOTVnRnhJQ2lGS1lSeVlPMy0tc3pqZnlscF9IY1hGajBoZw",
+    "sources": []
+  },
+  {
+    "id": "novatek-2025-11-07-015",
+    "date": "2025-11-07",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Novatek braces for revenue dip in 2025, bets on AI ASICs to drive recovery - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQa29NMDNyVUFxemNSOTFWc080TERDUGhGQmRQRTk5SXo0aVo2M1A5bDlqTE1INmZzbl9DaDB5MnhDalJ3WXVfMkNPRGJLM0w2Mll4cng0aV9HZzJYMlpIT0pPdFhLb3haaF8zRHV0eT",
+    "sources": []
+  },
+  {
     "id": "unknown-2025-11-03-045",
     "date": "2025-11-03",
     "companies": [],
@@ -751,6 +1287,20 @@
     "impact": "neutral",
     "title": "Mini LED laptops – the complete list (and best gaming/work options) - Ultrabookreview.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnbHQ4aVhXbGZpQlREd1Y1RV9hT29pSm80UzhlUWtDRlBLd2ZYWkg2VU5LVjJNcWV2N2RtNHpNenJYWF90NjRON20xWmswRVN5Y3p3N1JRVXFTNFlsdU5rYUVHekJzUQ?oc=5\" targe",
+    "sources": []
+  },
+  {
+    "id": "tcl-2025-10-22-060",
+    "date": "2025-10-22",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "TCL China Star Breaks Ground on World's First Large-Scale 8.6-Gen Printed OLED Panel Factory - Yicai Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbzhwOVZNYTJ4a1Y4dU1IUUpwN0RYWmxOYk4xNXNqMGhHWG9Ualkyb2dhTjAtU1pKdUtwZ2VBcVhwYWhuTGFRdVcwR1J2ZDJDaGIxYmJaNkx1Q2pqMzRsUUZwSXhOcFl4NWZqcWNRRF",
     "sources": []
   },
   {
@@ -792,6 +1342,65 @@
     "sources": []
   },
   {
+    "id": "jdi-2025-09-25-055",
+    "date": "2025-09-25",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Japan Display may sell its Mobara display fab to China's HKC - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVBmMHJ6SmVMbGYzaWFqLWFGOWQ1d3Z5cExLSkRHUC1xUXhPSUpZU3Vnc2VuQlNRTHhrZVprZjJuNkxaTklFU21ON0F6dHVMS29QTkNJVjhleFVZbUdfbkk0SHJuNERydTEybUVfQ2",
+    "sources": []
+  },
+  {
+    "id": "csot-2025-09-23-059",
+    "date": "2025-09-23",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "Vuzix and TCL CSOT Expand Partnership to Deliver a Total Optical Solution Featuring Advanced, Compact, High-Brightness MicroLED and Production-Ready Waveguide Optics - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxPN1lJcXEtNkFveGd2Y2I2OFVhQU1oSXlZNnE4ZHp4dVBjaUhzRWFsSmItWXJGYk45R3NWOVJWRHVsU0hHZkxFbTNpXzNCMzlTMjZMUlB6RC0wLUlQMGYyVWhQb2RlSFh3cmZ6V0xNbE",
+    "sources": []
+  },
+  {
+    "id": "tcl-2025-09-15-057",
+    "date": "2025-09-15",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "TCL China Star to Invest USD4.1 Billion in New 8.6-Gen Printed OLED Panel Factory - Yicai Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQVjdIWDlyVXlpM0VHbDdZanAyUENfaUNIYlZnNVN2SDlfeDhnZHdtQ0hRMU1FVW5zV2Vmc1E1WmlESXZKUWlWS2RPbV83X1BOWE9WcHF3OWxOc0JlOU5hMTZyUklJbVlOUmt5QXVxNE",
+    "sources": []
+  },
+  {
+    "id": "auo-2025-09-04-030",
+    "date": "2025-09-04",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "AUO Is the Manufacturer Behind Garmin and the World’s First Wearable MicroLED Display - Garmin Rumors",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPZzdTNE1GZlZ0VDMyM1Y3YXpzMmhYRmNIQlk5NlN5Y0JRUDU3N3FjX214UkJ3VUJFVTVyVk5xM0RzMWVmcFd3X2JOck9KNlVBb01rWkIydHhwVTN5aFZGY1RFVl9QVG51ZWlMc0VFWE",
+    "sources": []
+  },
+  {
     "id": "boe-2025-08-13-026",
     "date": "2025-08-13",
     "companies": [
@@ -807,6 +1416,20 @@
     "sources": []
   },
   {
+    "id": "novatek-2025-08-07-013",
+    "date": "2025-08-07",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Novatek forecasts 9 percent less revenue in Q3 - Taipei Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBDS2RTdUZsUmJYSHh1RmZSUlVPQTZZSVgtUnpNS21pSlM5WE9oTkZNS0pheVRteHRSanh0SS1ERTZYRW1VZTgxamsyZXcyaVRtei1XOFRvcUNhb2F5eWdWS1hBUEhPR010Rm83VENqem",
+    "sources": []
+  },
+  {
     "id": "unknown-2025-08-06-032",
     "date": "2025-08-06",
     "companies": [],
@@ -816,6 +1439,34 @@
     "impact": "neutral",
     "title": "China vs. South Korea Engaged in Asynchronous OLED Display War - Display Daily",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPWVhjNVY4aVFpay1INk13UHd0LTJJLUp5UmpkQ0Qtemh6VVZlNXlfRmxmVHdMQ3ZYc1JRdE5LcGJKT0V4WDZCbjY5RWVGYTdXVWJIcE9xcFFBNUU4eG5WRFNNZlpyUmk2NnFucDRrbn",
+    "sources": []
+  },
+  {
+    "id": "canon-2025-08-04-011",
+    "date": "2025-08-04",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Canon receives top-level Supplier Engagement Leader award from international non-profit organization CDP program recognizing supplier engagement - Canon Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mNDgxZEVsT0UtSFVDZkJ0UUtUTEExQ3pqTnVYSEZaS1RLN3Z2ek41YWQyMGtMQTZIR1RTeUdwVUc3VUtFTjJ6b0x0QW5qUWF5U2VKWk1GZ0FHX0U?oc=5\" target=\"_blank\">Cano",
+    "sources": []
+  },
+  {
+    "id": "innolux-2025-08-04-034",
+    "date": "2025-08-04",
+    "companies": [
+      "innolux"
+    ],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "neutral",
+    "title": "Innolux edges past HKC in global LCD TV panel race, 1H25 shipments reshuffle rankings - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX3BOdjBkcTlHZ2wxaDRrcVlwWFg5aVdTc2FHVWJXREFlamhZUjlmMHI2UDZvRXZJc0RGcGtCaUhoS1Y5X2JRdG5PUE1TblhWRHc0d3JOaW5jYWlyQWJXVC1hbjVKYVp1OHk2SUxISD",
     "sources": []
   },
   {
@@ -835,6 +1486,34 @@
     "sources": []
   },
   {
+    "id": "innolux-2025-08-02-032",
+    "date": "2025-08-02",
+    "companies": [
+      "innolux"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FOPLP products to add NT$100m of revenue: Innolux - Taipei Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1ycTl6d1NxaV8ycXBCNmZSRVdQb2k5NUxzLVMtZWdXZjJyZS1pNW10NUh6aldXR3VXS1ZJU3NNNkI4eU52M0ZLYUJZZExwalZjd2pjSzJOZzA4S1ZmazZ6NXlEVk9jWlFPWGhiNDVtMn",
+    "sources": []
+  },
+  {
+    "id": "jdi-2025-07-27-054",
+    "date": "2025-07-27",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Japan Display to shut down OLED production at its Mobara fab, will no longer produce panels for the Apple Watch - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNNGJvTm8zWTFiMEJ6ZEZFRkhsUnNqdENJREYwdjdKNnR3WW11TjhYRDlYdk9ZWXVDMkRheDBFZWVSdW5vMUw0VGFNcGl3TnNOS1pldWxYdkN0WVF4TW5FUTdPbVRXWjFDZGhjU2twcE",
+    "sources": []
+  },
+  {
     "id": "boe-2025-07-02-033",
     "date": "2025-07-02",
     "companies": [
@@ -846,6 +1525,189 @@
     "impact": "neutral",
     "title": "BOE Poised to Become Apple’s Top MacBook Display Panel Supplier in 2025, Says Omdia - Business Wire",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRTVKTjQ4dGt2UVN2NFNfdnphRVhDTU9kQU1LQzhndnQ4OERXSTRna1pRNjc2bENweHZJSGZYZERWVUg2MVhRcDE5M3loWHh4RGFDemVWOE5lR1FTTGUtNk1yUFFxZjB1dm03UG04dG",
+    "sources": []
+  },
+  {
+    "id": "csot-2025-02-13-061",
+    "date": "2025-02-13",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "TCL CSOT Showcases Cutting-edge Professional Display Solutions at ISE 2025 - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxONURIeE53ME1JTXA4V0x5SWRiX0RTZWxrSDZZWnVDT0ZVOHNmbU5uc2RSeEE2N2kxUWxKT0JaT25MMkhwUXZ5UFhtS2J1MzFKZDdyTWhraUZYdUtXVS1fQ1NEM2syV29icGVtTk5oRH",
+    "sources": []
+  },
+  {
+    "id": "csot-2025-02-13-062",
+    "date": "2025-02-13",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "TCL CSOT Showcases Advanced Commercial Display Solutions at ISE 2025 - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNWmJ6Z19JSFBQcGtvVmRKeXM3UXJSR0tDSEJWWkI5Tlg2U2dOQ3ZHdGtTbWpJSjYyNEFOQjA5cHRhNkRIQk1NUHMxTkE1c2xobFl0MC1PV3I5OGx4dUg0T0dVem9IMUJXeEM1cUtaVT",
+    "sources": []
+  },
+  {
+    "id": "csot-2024-11-18-063",
+    "date": "2024-11-18",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "TCL CSOT Announces the Mass Production of Inkjet Printing OLED at DTC2024 - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeno1OHBrTF9oSDNUWmNXczdyZndmbjJZcEp4UUtrejRnbVFGUS1CSlBLREFSRVhxRzNLTTJiVnVtM3NNWlRRWGRfZlJ4M29HbURfRXh0VER6cHBnRjNxaHBuaWdkbU80Y2Y2V0FPQz",
+    "sources": []
+  },
+  {
+    "id": "raydium-2024-05-10-019",
+    "date": "2024-05-10",
+    "companies": [
+      "raydium"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Raydium expects slight revenue growth in 2Q24 - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmt5SjVHMUs2YTd5RDJaRjA3ZDNIWjMxQ2hZUXNRSFBiaUp1NVZzbEl0ZzVIUi10T1RoVzZWVVJzTklESElsS3pzbkJFSTVnbzN1TUN4ZUtDdDRjcDlmQjQtVGZMX05IblRWWlZSak",
+    "sources": []
+  },
+  {
+    "id": "novatek-2024-05-02-017",
+    "date": "2024-05-02",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Novatek sees OLED DDI orders for Apple increase in 2024 - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVluVUdxQlRZeVcyVXdhRF9lMTFYUVJOajFiMUpOangwcFVHME9qTnFSaGRYQWZWamxCYnNIM0NVX1ZBb2lHZ0g3ZmNiRXFOeW9BRHVfd1dnRXg0TlRfWEV0OERCYUZoZkc2TUc1Yk",
+    "sources": []
+  },
+  {
+    "id": "novatek-2024-04-16-018",
+    "date": "2024-04-16",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Novatek may enter iPhone OLED DDI supply chain - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRUFvaHJDbjdlMGlwV3owRHNxMjFkUkNTNkJ6NUtOMV9LVHlLX25BV0FNY1VGSnpmWkY5QTZPX3FPSl9EVzRTT21oZVhILXVwRzBRLUpnbjRheHdqQWlZMWJCc1lGbkhyc2J3c3NpQ0",
+    "sources": []
+  },
+  {
+    "id": "raydium-2024-03-01-021",
+    "date": "2024-03-01",
+    "companies": [
+      "raydium"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Raydium to see OLED DDI, automotive TDDI drive growth in 2024 - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNE5YbTdqdUxPMExIWm1QWmdNMmxwWjUyU3B2UU80aDlkZlE5Z05sRkhTY3Z4TTM5dTllTzY2Q0xHMkt1ZmNQTnFRMkNMcl85dF9PYjNGSmVJZGhORGJDSDBDTGxnZThiZ3A5ZnZjZT",
+    "sources": []
+  },
+  {
+    "id": "raydium-2024-02-27-020",
+    "date": "2024-02-27",
+    "companies": [
+      "raydium"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Raydium expects AMOLED DDI sales to grow significantly - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQNng2cDdsdVExbng2VGNRblEyV2ZxOU9UU2pCTl91YTVwcHU0R0VmTFoydTVpMjNfbktTWmlFYmlad0dadEZqTDY5MWZ6UDczZGgxNS05bU9ma21qQTR6WjJpUzJLaWVEQkpLLWNCOU",
+    "sources": []
+  },
+  {
+    "id": "csot-2024-01-12-064",
+    "date": "2024-01-12",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "TCL CSOT Unveils Newest IJP OLED and FMM-OLED Technologies at CES 2024 - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3NVSDhzSkQzSmY3SHpISWNVQzZlSFRjOERsMmNxTThDSjUwZ2M2QUU2QlhRdGNORFc1cEg1RFVhZ3RsT2FvanZHRzJCd3g4T28wRVg4eTdXVmh3YWI3NXRERUJkenlfaWREVjZhU0",
+    "sources": []
+  },
+  {
+    "id": "csot-2023-09-01-065",
+    "date": "2023-09-01",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL CSOT Showcases World's Largest QD-Mini LED TV with a 115-Inch HVA Screen and Full Range of Display Innovations at IFA 2023 - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPb3luTGZvR1VlOWR5MFV0WFVNZ2s4djFfQ0R4LTFfVFcxRUg3ejFwcXB6c2VOWHlWTERhZHlGblVYRTZLX0Vyb3N2YjdYWVROeEhYR044YkJVb2Ezdkx1TlJHX04tY3U3YkNhTWtvdz",
+    "sources": []
+  },
+  {
+    "id": "unknown-2023-08-31-022",
+    "date": "2023-08-31",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED adoption in cars to accelerate - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGd2R29kQjk3TVZUNjdzbU52UjJRYmx1ZHBfWmMyYy1aTGNXTktBTVM3N05raTVTNjdLbVdYalZONFE5Rk9NYjJpNjZsdEdvYXV0MjV4YVFkYzItNlhSanR2YW0tOFNiUzZaYVU3V0",
+    "sources": []
+  },
+  {
+    "id": "novatek-2023-08-09-016",
+    "date": "2023-08-09",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Novatek profit rises, but revenue to drop - Taipei Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBUQzk2bkNXWDZ2VTZLM3hMUVNjZzZmTzE2U3RJWGUtN2JOS3pDTGNCUTV3bWh2dzVBdHFTa21ySmJqci1fRGQ5T1F3dGowYkZKbm5GZ1BSdjhYTkFHcUlBdGliYUtRRTB5bHdUMml0VF",
+    "sources": []
+  },
+  {
+    "id": "unknown-2021-12-09-023",
+    "date": "2021-12-09",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED DDI demand ramping up - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zR2xESFFYclQ2MUpfTGpZSE1VVmdlY3prSFZWSGVZekpiM1FJckJtNW9YSzlMR2daRlF2cHpZWjZqdEw0aTM2MmJRQnZqUmF4cmFNQTVDT19HaThTbDl3?oc=5\" target=\"_blank\"",
     "sources": []
   }
 ]
