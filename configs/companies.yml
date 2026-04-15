@@ -12,6 +12,7 @@ companies:
   position: upstream
   role: 玻璃基板
   description: 全球最大顯示器玻璃基板供應商
+  rss_url: https://news.google.com/rss/search?q="Corning+Incorporated"&hl=en&gl=US&ceid=US:en
   downstream:
   - auo
   - innolux
@@ -47,6 +48,7 @@ companies:
   position: upstream
   role: 曝光設備
   description: 顯示器曝光設備供應商
+  rss_url: https://news.google.com/rss/search?q="Canon+Inc."&hl=en&gl=US&ceid=US:en
   downstream:
   - auo
   - innolux
@@ -63,6 +65,7 @@ companies:
   position: upstream
   role: 驅動IC
   description: 全球最大面板驅動 IC 設計公司
+  rss_url: https://news.google.com/rss/search?q="Novatek+Microelectronics"&hl=en&gl=US&ceid=US:en
   downstream:
   - auo
   - innolux
@@ -80,6 +83,7 @@ companies:
   position: upstream
   role: 驅動IC
   description: 觸控與驅動整合 IC
+  rss_url: https://news.google.com/rss/search?q="Raydium+Semiconductor"&hl=en&gl=US&ceid=US:en
   downstream:
   - auo
   - innolux
@@ -96,6 +100,7 @@ companies:
   position: upstream
   role: 驅動IC
   description: 顯示驅動 IC 與 WLO 技術
+  rss_url: https://news.google.com/rss/search?q="Himax+Technologies"&hl=en&gl=US&ceid=US:en
   downstream:
   - auo
   - innolux
@@ -114,6 +119,7 @@ companies:
   position: midstream
   role: 面板製造
   description: 台灣最大面板廠
+  rss_url: https://news.google.com/rss/search?q="AU+Optronics"&hl=en&gl=US&ceid=US:en
   upstream:
   - corning
   - applied_materials
@@ -136,6 +142,7 @@ companies:
   position: midstream
   role: 面板製造
   description: 鴻海集團面板廠
+  rss_url: https://news.google.com/rss/search?q="Innolux"+display+panel&hl=en&gl=US&ceid=US:en
   upstream:
   - corning
   - applied_materials
@@ -158,6 +165,7 @@ companies:
   position: midstream
   role: 面板製造
   description: 全球最大 OLED 面板供應商
+  rss_url: https://news.google.com/rss/search?q="LG+Display"&hl=en&gl=US&ceid=US:en
   upstream:
   - corning
   - applied_materials
@@ -179,6 +187,7 @@ companies:
   position: midstream
   role: 面板製造
   description: 全球最大液晶面板供應商
+  rss_url: https://news.google.com/rss/search?q="BOE+Technology"&hl=en&gl=US&ceid=US:en
   upstream:
   - corning
   - applied_materials
@@ -199,6 +208,7 @@ companies:
   position: midstream
   role: 面板製造
   description: 日本中小尺寸面板廠
+  rss_url: https://news.google.com/rss/search?q="Japan+Display"&hl=en&gl=US&ceid=US:en
   upstream:
   - corning
   - applied_materials
@@ -216,6 +226,7 @@ companies:
   position: midstream
   role: 面板製造
   description: TCL 集團旗下面板廠
+  rss_url: https://news.google.com/rss/search?q="CSOT+TCL"&hl=en&gl=US&ceid=US:en
   upstream:
   - corning
   - applied_materials
@@ -287,6 +298,7 @@ companies:
   position: downstream
   role: 終端品牌
   description: 中國最大電視品牌之一
+  rss_url: https://news.google.com/rss/search?q="TCL科技"+electronics+brand&hl=en&gl=US&ceid=US:en
   upstream:
   - csot
   - auo
@@ -302,6 +314,7 @@ companies:
   position: downstream
   role: 終端品牌
   description: 美國平價電視品牌
+  rss_url: https://news.google.com/rss/search?q="VIZIO+Holding"&hl=en&gl=US&ceid=US:en
   upstream:
   - auo
   - innolux
