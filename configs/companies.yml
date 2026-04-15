@@ -329,3 +329,9 @@ topics:
   name: 車用面板
 - id: earnings
   name: 法說會
+
+# ETF 追蹤
+etfs:
+- id: soxx
+  ticker: SOXX
+  name: iShares Semiconductor ETF

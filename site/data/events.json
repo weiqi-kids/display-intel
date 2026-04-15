@@ -1,5 +1,368 @@
 [
   {
+    "id": "unknown-2026-04-15-036",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Cooling fan makers remain optimistic about 2026 operations",
+    "summary": "Record revenues and aggressive liquid-cooling rollouts at leading fan makers signal shifting global demand, with server and automotive needs underpinning growth while consumer-linked segments face sup",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-037",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiwan cooling suppliers post record March revenue as AI demand lifts liquid cooling",
+    "summary": "<p class=\"P1\" data-start=\"287\" data-end=\"515\">Taiwan's leading thermal solution providers reported record revenue in March 2026, as AI-driven demand extended into general-purpose servers and network s",
+    "sources": []
+  },
+  {
+    "id": "samsung_elec-2026-04-15-038",
+    "date": "2026-04-15",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Samsung tipped to lead global chip profits as AI elevates memory, veteran exec predicts",
+    "summary": "Yoon-woo Lee, a semiconductor expert and former vice chairman of Samsung Electronics, believes Samsung may become the world's most profitable company by 2027&ndash;2028, driven by structural changes i",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-005",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "HKC starts planning a 6-Gen OLED production line, approaches OLED equipment makers",
+    "summary": "<p>Shenzhen-based <a href=\"https://www.oled-info.com/hkc\">HKC</a> is reportedly progressing with its plans to build a 6-Gen OLED production line in Mianyang, Sichuan Province, and has started to appro",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-14-006",
+    "date": "2026-04-14",
+    "companies": [
+      "lg_elec",
+      "lg_display",
+      "jdi"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display advances with its plans to adopt eLEAP for IT OLED production, will make a final decision by end of 2026",
+    "summary": "<p>Last year, we <a href=\"https://www.oled-info.com/lg-display-looking-adopting-jdis-eleap-maskless-deposition-technology-its-oled\">reported</a> that LG Display is looking into adopting <a href=\"https",
+    "sources": []
+  },
+  {
+    "id": "sony-2026-04-13-039",
+    "date": "2026-04-13",
+    "companies": [
+      "sony"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "[News] Sony Revealed New “True RGB” Mini LED TV Technology - LEDinside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE93SWpTaVEyWURwZi1xZlBYRmt4WTNETXJUSFJLSFRPS1ctMHZOQUlQRGVXMVNGdUFreldSOEJWcTcwX1cyXy1OOFZldEFnS0ttRmJxOFR6WFkyaTc0ajdPVw?oc=5\" target=\"_blan",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-11-007",
+    "date": "2026-04-11",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Researchers develop a high-efficiency soluble polymer MR-TADF hyperfluorescence OLED emitter system",
+    "summary": "<p>Researchers from Hanyang University, Gyeongsang National University, and Soongsil University have developed a high-efficiency soluble blue OLED emitter based on a hyperfluorescence architecture.</p",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-11-008",
+    "date": "2026-04-11",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Sidtek launches its OLED microdisplay module fab expansion project in Meishan",
+    "summary": "<p><a href=\"https://www.oled-info.com/sidtek\">Sidtek</a> has formally launched its OLED Meishan microdisplay module fab expansion project. The company says that the first phase in this project is expe",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-10-001",
+    "date": "2026-04-10",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "[Interview] How Jacob Kiplimo’s Galaxy Watch Turns Data Into World-Record Performance",
+    "summary": "When Jacob Kiplimo storms past the finish line, he’s not just running on talent — he’s running on data. The Ugandan long-distance star and TeamGalaxy athlete trains with Galaxy Watch8, which turns com",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-10-009",
+    "date": "2026-04-10",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Noctiluca accelerates R&D work on chemical compounds for the OLED industry",
+    "summary": "<p>OLED material developer <a href=\"https://noctiluca.eu/\">Noctiluca</a> announced that recently it has received several funding grants, that will enable it to accelerate its R&amp;D activities. The c",
+    "sources": []
+  },
+  {
+    "id": "samsung_elec-2026-04-10-010",
+    "date": "2026-04-10",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "The Google Pixel smartphone series will be the first to adopt Samsung's latest M16 OLED device stack",
+    "summary": "<p>Reports from Korea suggests that Samsung Display has finalized its latest OLED material stack (the M16 OLED stack), and it will be deployed first in the Google Pixel 11 series (or at least in some ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-09-011",
+    "date": "2026-04-09",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED-Info Pro launches its first Video Podcast: industry updates, and expert insights",
+    "summary": "<p>We’re happy to share that our <a href=\"https://www.oled-info.com/videos/oled-info-pro-video-podcast-e1-86-gen-it-oled-lines-2024-04\">second OLED-Info Pro video lecture is now live</a> — and it’s so",
+    "sources": []
+  },
+  {
+    "id": "samsung_elec-2026-04-09-012",
+    "date": "2026-04-09",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Reports suggest Apple reduces its foldable OLED orders from Samsung, signs an exclusive agreement",
+    "summary": "<p>Apple is moving forward with its first foldable OLED iPhone project, that will launch later in 2026, and it was previously reported that the US company has ordered <a href=\"https://www.oled-info.co",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-09-013",
+    "date": "2026-04-09",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Remember LG's rollable smartphone that almost launched in 2021? You can now watch a teardown of one of the prototypes produced back then",
+    "summary": "<p>Some years ago LG Electronics aimed to be the first company to release a rollable smartphone, <a href=\"https://www.oled-info.com/lg-teases-its-2021-rollable-oled-smartphone\">hoping to launch it by ",
+    "sources": []
+  },
+  {
+    "id": "samsung_elec-2026-04-09-014",
+    "date": "2026-04-09",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "panel_price",
+      "oled_penetration",
+      "it_panel_demand"
+    ],
+    "impact": "positive",
+    "title": "Samsung Display announced it has shipped over 5 million QD-OLED monitor panels",
+    "summary": "<p>Samsung Display announced today that it has shipped over 5 million QD-OLED monitor panels last month, about 4 years after the company commenced the mass production of QD-OLED monitor panels.</p><im",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-09-015",
+    "date": "2026-04-09",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "Counterpoint: OLED laptop shiupments to grow 33% in 2026 and gain market share over miniLEDs",
+    "summary": "<p>Counterpoint says that laptop display shipments grew 7% in 2025, and the advanced (OLED and miniLED) laptop segment grew 19%, driven by expanded adoption of AI PCs, upgrades at enterprises - and de",
+    "sources": []
+  },
+  {
+    "id": "samsung_elec-2026-04-09-016",
+    "date": "2026-04-09",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display reportedly achieve 80% yields at its A6 8.6-Gen production line, on track for mass production in June",
+    "summary": "<p>A few weeks ago we <a href=\"https://www.oled-info.com/samsung-display-slowing-down-its-86-gen-it-amoled-line-ramp-reports-suggest\">reported</a> that Samsung Display may be delaying the A6 8.6-Gen r",
+    "sources": []
+  },
+  {
+    "id": "samsung_elec-2026-04-08-002",
+    "date": "2026-04-08",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Receives New TÜV Rheinland Certifications for 2026 Micro RGB, OLED, Mini LED, Soundbars and More",
+    "summary": "Samsung Electronics today announced that approximately 34 models across its 2026 TV and soundbar lineup have received Product Carbon Reduction and Product Carbon Footprint certifications from TÜV Rhei",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-08-017",
+    "date": "2026-04-08",
+    "companies": [
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [
+      "panel_price",
+      "oled_penetration",
+      "it_panel_demand"
+    ],
+    "impact": "neutral",
+    "title": "LG Electronics reportedly in talks with Samsung Display for the supply of QD-OLED monitor panels",
+    "summary": "<p>According to reports in Korea, LG Electronics is considering using Samsung's <a href=\"https://www.oled-info.com/analyzing-past-present-and-future-qd-oled-architecture\">QD-OLED panels</a> in its fut",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-08-018",
+    "date": "2026-04-08",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Aumovio wins a major order to supply automotive OLED displays with an under-the-display camera",
+    "summary": "<p>Aumovio, an automotive technology company that was spun-off from Continental in 2025, announced that it has secured a major order to supply an automotive OLED display. This display will feature an ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-08-019",
+    "date": "2026-04-08",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "Is Universal Display turning into an attractive value stock? Is it an interesting takeover target?",
+    "summary": "<p>Over the past few months, several <a href=\"https://www.oled-info.com/oled-info-pro\">OLED-Info Pro</a> readers have asked me to revisit Universal Display Corporation (UDC) from a fresh perspective: ",
+    "sources": []
+  },
+  {
+    "id": "sony-2026-04-08-041",
+    "date": "2026-04-08",
+    "companies": [
+      "sony"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Sony teases its next-gen 'True RGB' Mini LED TV technology - Engadget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPaE1OWE93VkI5a1hmWlBuMF8yYWNldWY0YVdXVG9lSVpOaUlmcmlKdWo3QjBIeDJMamNaSURmOVRpcVF4dFhyeGhiM2dmWmFINGl4ejBSTk1ZS01xSVRzMmt5dU5COGU0emJuVEczY1",
+    "sources": []
+  },
+  {
+    "id": "samsung_elec-2026-04-07-003",
+    "date": "2026-04-07",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Electronics Announces Earnings Guidance for First Quarter 2026",
+    "summary": "Samsung Electronics today announced its earnings guidance for the first quarter of 2026. The above estimates are based on K-IFRS. Please note that Korean disclosure regulations do not allow earnings e",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-07-043",
+    "date": "2026-04-07",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Mini-LED over OLED is just common sense - Pocket-lint",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE04a1NrTzA0V2t1UWJ0TXBTTUNQWWR6U1VIaUZEdnR3N3ZiWGJBZHB0ODEzOC1adnFLUVVic2tCTGxsYlA5Z283aWIwWUJPZ3dxa09YSnltT1BEVW9wdnlkSnRfdTA?oc=5\" target=\"",
+    "sources": []
+  },
+  {
+    "id": "boe-2026-04-06-020",
+    "date": "2026-04-06",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration",
+      "it_panel_demand",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BOE shipped 150 million OLED panels in 2025, the company provides details on its OLED roadmap, demand for IT panels, and OLED profitability",
+    "summary": "<p>BOE's Chairman Chen Yanshun provided some interesting information in a recent investor communication event, providing an update and outlook for the company's OLED business.</p><img src=\"https://www",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-03-021",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UBI: the medium and large OLED display market will generate $11.5 billion in revenues in 2026, will grow to $20 billion by 2030",
+    "summary": "<p>UBI Research says that medium and large OLED display panel revenue will reach $11.5 billion in 2026, and will grow to $20 billion by 2030, a CAGR of 14.8%. These displays are utilized in tablets, m",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-03-040",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Mini-LED vs. OLED: Which TV Tech Should You Get? - CNET",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOQXAtLVJDRndoVm5YNVZxUmdBLWlzUF9NN3VDeWxHcTVZbmZJZW9OVGR1ZS1fZjJPcTNaU3k5VkxnOWxfR3dKd2QzMVhZVWVfd1ktdEh2LUlGLXl2OWxxeGhramE3UzkwYlUyX3pqbk",
+    "sources": []
+  },
+  {
     "id": "samsung_elec-2026-04-02-003",
     "date": "2026-04-02",
     "companies": [
@@ -9,6 +372,68 @@
     "impact": "neutral",
     "title": " GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ",
     "summary": "\n                             The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compe",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-02-022",
+    "date": "2026-04-02",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Introducing OLED-Info Pro Video Lectures!",
+    "summary": "<p>We’re excited to announce a new feature for OLED-Info Pro subscribers — Video Lectures.</p><img src=\"https://www.oled-info.com/sites/default/files/inline-images/OLED-Info%20Pro%20video%20primer.gif",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-02-023",
+    "date": "2026-04-02",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Korean researchers develop a flexible OLED patch for the treatment of chronic dermatitis",
+    "summary": "<p>Researchers from Kyung Hee University, in collaboration with colleagues from Gachon University and TENTECH Inc., have developed a flexible OLED patch that shows promise for chronic dermatitis photo",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-02-024",
+    "date": "2026-04-02",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "The Korean supreme court withholds SFC's blue OLED emitter patent, dismisses the claims by SK Materials JNC",
+    "summary": "<p>According to reports, the Korean Supreme Court upheld the validity of <a href=\"https://www.oled-info.com/sun-fine-chem\">SFC</a>'s blue OLED emitter patent, and did not accept the claims by SK Mater",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-02-025",
+    "date": "2026-04-02",
+    "companies": [],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "neutral",
+    "title": "China plans display sector consolidation; panel prices seen stabilizing, equipment orders at risk - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOR2tGRWJnd09BVTkyTkpoV0l1SWZnLXk2ZEdxOVI2SWZscExXUkJXT0J5c3ZvWlRLXy1MM0trcDFIV09UMFFISjJjTExoUHZkNnJiZzRDY1pWM1pZNjZkTGMyZ0JITVV5VWgtOWs5UV",
+    "sources": []
+  },
+  {
+    "id": "samsung_elec-2026-04-01-004",
+    "date": "2026-04-01",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "negative",
+    "title": "Samsung Study Highlights Rising Privacy Concerns in Public Smartphone Use",
+    "summary": "A new Samsung Electronics study reveals widespread exposure of personal content during public smartphone use across Europe. Surveying 11,000 people, the research found that 56% have accidentally viewe",
     "sources": []
   },
   {
@@ -72,6 +497,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-02-20-048",
+    "date": "2026-02-20",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED is no longer the king of displays — this new technology is - MakeUseOf",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQakw5c0lkVFNWbjhpWFRsdFFqcWFWdEFySjcwRldUTXJ1bG5oQUYySVozRWlTZG5GMXE3Y1Y4dk1CdFhxVEdHR0xncWpVUGs0MHlJSG45VXpWVzFfZ0NlR0pCdzJkaE9zNDE3eUEtbX",
+    "sources": []
+  },
+  {
     "id": "samsung_elec-2026-02-05-002",
     "date": "2026-02-05",
     "companies": [
@@ -81,6 +518,210 @@
     "impact": "positive",
     "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
     "summary": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoi",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-01-12-047",
+    "date": "2026-01-12",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Micro RGB Is 2026’s Darling TV Technology—and It Might Outshine OLED. So What Is it? - Popular Mechanics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQlZDOUlkZnNLNWhpcnNNZFRBNllhYzBNdnpjV3B3cm91cXNBdldraEJWc2pHc0tFd0NIcVdMMjB3SEhEc0pUN1kxOUxrdU9ZTUxIWnV4bXMwVDVsSy1QYnR6NEhobExiU1JZUnp3dj",
+    "sources": []
+  },
+  {
+    "id": "tcl-2026-01-07-042",
+    "date": "2026-01-07",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "negative",
+    "title": "TCL Unveils Breakthrough SQD-Mini LED Display Technology and AI-Driven Smart Living Innovations at CES 2026 - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT3NXb291V2hyQUhPeXNsNi1tcUVZOEpGdDlkdW5Tc3pQVUdsSk4xVTBGQW9rMzdBM2p5c29VWlJON21jbUNDbjBuYkgtcXBpVU5jOUVCVnNNYTA0RzFRN21KUnB2eFptdUdzb3M2ME",
+    "sources": []
+  },
+  {
+    "id": "samsung_elec-2025-12-26-027",
+    "date": "2025-12-26",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung might start using Chinese OLED displays in its flagship phones - PhoneArena",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWpOd01jRWlLdzhlVG5ZTnl6dXhTQmYtcnpCZ3RCSWNRaDBXMzBTWldQM1ZzaWp0UTJOSzdqV2F6VWZENWxVUjJfeDI2Z2ZqMDhESjBPX3oza1dLUGk5dFRFU3NSZ3dhc241Z3psck",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2025-12-10-046",
+    "date": "2025-12-10",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "LG USA Unveils Magnit Active Micro LED Display Launching at CES - Media Play News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNMWJyRkYxVkRIQnhXTXRZUllFeDJGNzJBTkFDdUFQTDdtTDROVHJIRXc2bFJoZXhkYnJZOUlFOUFGT0UzZllNdXpPRXlMQTExOXJYYW1hQWxCeEFzbnJKM0N6RnVkNVRZVnhsaGhiaG",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-12-03-034",
+    "date": "2025-12-03",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "iPhone 17e has same OLED screen as iPhone 16e, with slimmer bezels - AppleInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRnlyamdUbkNod19ONjZlYWFoeFdIbE1HeTNqUjBwYnFEUTNZNDdMVVhOemVITHZGN3pGRUFiYlRNd21jOWh5SGZJRk84M0xGZ1dPamlsZTBzWmFMdTFNZnhpYkZjdUZDNGs3ZHZpRX",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2025-12-03-044",
+    "date": "2025-12-03",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "LG 136-Inch MAGNIT Active Micro LED TV Promises True Cinematic Immersion - audioholics.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9BRW13aHM0ZXlkdy1acXAyWmtNRzlnNDdqOGhTMDBTbkpkTC1kcVB6eUJVU3UwN1hxcXFoQjVpbVFGalpDeEZ5UUV3UHZFQzI2WldzbzBjRk8teEpYbEU4RHduY29mZk5xS2hF?oc=5\"",
+    "sources": []
+  },
+  {
+    "id": "boe-2025-11-20-030",
+    "date": "2025-11-20",
+    "companies": [
+      "boe",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display, China’s BOE settle OLED patent and trade secret lawsuits - TechCrunch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOazhkN0Y2RHE0Vzh4RExHMjc5ODQ1eXhYZ0YwYVg3TC1GVmZtdEQySkhJak9GN0N0N1lGSFdfRGZoRXVxWUl4RTlBU3N2eUN1REJTSUFtWE9FLTZlWkdIVFNTUmdkYWxuLUl6ZWdSbm",
+    "sources": []
+  },
+  {
+    "id": "boe-2025-11-20-031",
+    "date": "2025-11-20",
+    "companies": [
+      "boe",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display and BOE settle ITC OLED patent lawsuit - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fX3l3LVBsT3FBQng1c1dkLTdNc3JMNnEwc2J5aG9DVkc3N0ltZU1vWEVKOS1hRGhBY195blVCNjR6VUtPZDl2QXlpRlBvN0d4UWk2RWtnOXJmeFZzb0YyLW5QRFNodw?oc=5\" targe",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-11-03-045",
+    "date": "2025-11-03",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Mini LED laptops – the complete list (and best gaming/work options) - Ultrabookreview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnbHQ4aVhXbGZpQlREd1Y1RV9hT29pSm80UzhlUWtDRlBLd2ZYWkg2VU5LVjJNcWV2N2RtNHpNenJYWF90NjRON20xWmswRVN5Y3p3N1JRVXFTNFlsdU5rYUVHekJzUQ?oc=5\" targe",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-10-16-028",
+    "date": "2025-10-16",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Xiaomi unveils the first smartphone featuring an S-stripe OLED display with 9.38 million subpixels - Omdia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV1VYRlpJTHBCbTV3TGpDOTlVdkkwZ0FuTUw4M2szUXRvZ3JNX2NWOWZzdlV1T3hDSXZmSlE3R2VDbHE3NFotVUNDbkEweW1hRmJUckJtcnlQVUNRTTg5ZU9uWlVKXy1SMjN3eEJhZD",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-10-16-029",
+    "date": "2025-10-16",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Display panel makers expand with edge in OLED - People's Daily Online",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnZGVNdzZwQkpmTXJvdmNTYzQ1TXJIdF9QRVVVcE1Hc1RReEwtNE1oeGVZVWo1VUJMTjRXSDJKMlc0SHE5akRBanlhRTlnSzdla1dxNURIcXZLS3U5U1I2MlY4azM?oc=5\" target=\"",
+    "sources": []
+  },
+  {
+    "id": "boe-2025-08-13-026",
+    "date": "2025-08-13",
+    "companies": [
+      "boe",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "BOE risks 15-year US OLED ban in Samsung dispute; Korean display stocks rally - KED Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5vdUNiYkJIV2h4TFJJbk5LNjRmTURCd01RRmhETGtkU2s2eGlPd29wM0pOV3cxR2dCa0VzZVpUSjN5S25ZYnBnRHJyMEZycHF0eGVuakFqZHlwZTQ0OHJCak44X2d6UWhnUG5tbG5hTQ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-08-06-032",
+    "date": "2025-08-06",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "China vs. South Korea Engaged in Asynchronous OLED Display War - Display Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPWVhjNVY4aVFpay1INk13UHd0LTJJLUp5UmpkQ0Qtemh6VVZlNXlfRmxmVHdMQ3ZYc1JRdE5LcGJKT0V4WDZCbjY5RWVGYTdXVWJIcE9xcFFBNUU4eG5WRFNNZlpyUmk2NnFucDRrbn",
+    "sources": []
+  },
+  {
+    "id": "boe-2025-08-02-035",
+    "date": "2025-08-02",
+    "companies": [
+      "boe",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display loses foldable OLED top spot to BOE; 1Q25 revenue rises 2% on non-phone demand - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPMHExQWs1NGR5c2tHMGgtV3ZrSEdCc2xYVlB3UC10WTNKRU1LbXExaXFiQ2lFTGZUWXhJMWxWS1pfR3NQNnZOclQ2cUJ5Q1RKQk1wX1Y3elh6dVVtLXY3dXJOcDRnN1dDLWZSVGdIeH",
+    "sources": []
+  },
+  {
+    "id": "boe-2025-07-02-033",
+    "date": "2025-07-02",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "neutral",
+    "title": "BOE Poised to Become Apple’s Top MacBook Display Panel Supplier in 2025, Says Omdia - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRTVKTjQ4dGt2UVN2NFNfdnphRVhDTU9kQU1LQzhndnQ4OERXSTRna1pRNjc2bENweHZJSGZYZERWVUg2MVhRcDE5M3loWHh4RGFDemVWOE5lR1FTTGUtNk1yUFFxZjB1dm03UG04dG",
     "sources": []
   }
 ]

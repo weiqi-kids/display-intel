@@ -1,0 +1,342 @@
+{
+  "updated_at": "2026-04-15T04:26:24.480928+00:00",
+  "companies": {
+    "corning": {
+      "name": "Corning Incorporated",
+      "short_name": "康寧",
+      "ticker": "GLW",
+      "holders": [
+        {
+          "holder": "Vanguard Group Inc",
+          "shares": 99283317,
+          "pct_held": 11.56,
+          "value": 17158143571
+        },
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 63584864,
+          "pct_held": 7.4,
+          "value": 10988736662
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 36788356,
+          "pct_held": 4.28,
+          "value": 6357763953
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 20411824,
+          "pct_held": 2.38,
+          "value": 3527571573
+        },
+        {
+          "holder": "Bank of America Corporation",
+          "shares": 17381978,
+          "pct_held": 2.02,
+          "value": 3003953565
+        },
+        {
+          "holder": "Capital Research Global Investors",
+          "shares": 16890802,
+          "pct_held": 1.97,
+          "value": 2919068525
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 15206561,
+          "pct_held": 1.77,
+          "value": 2627997983
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 14450509,
+          "pct_held": 1.68,
+          "value": 2497337071
+        },
+        {
+          "holder": "State Farm Mutual Automobile Insurance Co",
+          "shares": 13919847,
+          "pct_held": 1.62,
+          "value": 2405628060
+        },
+        {
+          "holder": "Wellington Management Group, LLP",
+          "shares": 12572185,
+          "pct_held": 1.46,
+          "value": 2172725103
+        }
+      ]
+    },
+    "applied_materials": {
+      "name": "Applied Materials",
+      "short_name": "應材",
+      "ticker": "AMAT",
+      "holders": [
+        {
+          "holder": "Vanguard Group Inc",
+          "shares": 76779340,
+          "pct_held": 9.67,
+          "value": 30376979202
+        },
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 75259089,
+          "pct_held": 9.48,
+          "value": 29775507074
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 37930623,
+          "pct_held": 4.78,
+          "value": 15006872239
+        },
+        {
+          "holder": "Capital Research Global Investors",
+          "shares": 32707049,
+          "pct_held": 4.12,
+          "value": 12940217345
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 18608698,
+          "pct_held": 2.34,
+          "value": 7362345549
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 11470835,
+          "pct_held": 1.45,
+          "value": 4538321327
+        },
+        {
+          "holder": "NORGES BANK",
+          "shares": 11123168,
+          "pct_held": 1.4,
+          "value": 4400770350
+        },
+        {
+          "holder": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
+          "shares": 10688232,
+          "pct_held": 1.35,
+          "value": 4228692265
+        },
+        {
+          "holder": "Ameriprise Financial, Inc.",
+          "shares": 10293252,
+          "pct_held": 1.3,
+          "value": 4072422372
+        },
+        {
+          "holder": "Northern Trust Corporation",
+          "shares": 8997927,
+          "pct_held": 1.13,
+          "value": 3559939970
+        }
+      ]
+    },
+    "canon": {
+      "name": "Canon Inc.",
+      "short_name": "佳能",
+      "ticker": "7751.T",
+      "holders": [
+        {
+          "holder": "Oregon Public Employees Retirement Fund",
+          "shares": 761700,
+          "pct_held": 0.06,
+          "value": 3386518200
+        }
+      ]
+    },
+    "himax": {
+      "name": "奇景光電",
+      "short_name": "奇景",
+      "ticker": "HIMX",
+      "holders": [
+        {
+          "holder": "Acadian Asset Management. LLC",
+          "shares": 6072291,
+          "pct_held": 3.48,
+          "value": 60601461
+        },
+        {
+          "holder": "Lazard Asset Management LLC",
+          "shares": 5718698,
+          "pct_held": 3.28,
+          "value": 57072603
+        },
+        {
+          "holder": "Robeco Institutional Asset Management B.V.",
+          "shares": 4400014,
+          "pct_held": 2.52,
+          "value": 43912137
+        },
+        {
+          "holder": "Handelsbanken Fonder AB",
+          "shares": 3429263,
+          "pct_held": 1.97,
+          "value": 34224043
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 1600126,
+          "pct_held": 0.92,
+          "value": 15969256
+        },
+        {
+          "holder": "Allianz Asset Management GmbH",
+          "shares": 1538000,
+          "pct_held": 0.88,
+          "value": 15349239
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 842263,
+          "pct_held": 0.48,
+          "value": 8405784
+        },
+        {
+          "holder": "Mitsubishi UFJ Asset Management Co., Ltd.",
+          "shares": 825971,
+          "pct_held": 0.47,
+          "value": 8243190
+        },
+        {
+          "holder": "Polunin Capital Partners Ltd",
+          "shares": 706750,
+          "pct_held": 0.41,
+          "value": 7053364
+        },
+        {
+          "holder": "Shaw D.E. & Co., Inc.",
+          "shares": 632045,
+          "pct_held": 0.36,
+          "value": 6307808
+        }
+      ]
+    },
+    "jdi": {
+      "name": "Japan Display",
+      "short_name": "JDI",
+      "ticker": "6740.T",
+      "holders": [
+        {
+          "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
+          "shares": 9015514,
+          "pct_held": 0.23,
+          "value": 856473830
+        },
+        {
+          "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
+          "shares": 6519472,
+          "pct_held": 0.17,
+          "value": 619349840
+        },
+        {
+          "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
+          "shares": 2495300,
+          "pct_held": 0.06,
+          "value": 237053500
+        },
+        {
+          "holder": "SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF",
+          "shares": 1563910,
+          "pct_held": 0.04,
+          "value": 148571450
+        },
+        {
+          "holder": "EQ Advisors Trust-EQ/International Equity Index Portfolio",
+          "shares": 861949,
+          "pct_held": 0.02,
+          "value": 81885155
+        },
+        {
+          "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Pacific Stock Index Fd.",
+          "shares": 696539,
+          "pct_held": 0.02,
+          "value": 66171205
+        },
+        {
+          "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Total World Stock Index Fd.",
+          "shares": 434300,
+          "pct_held": 0.01,
+          "value": 41258500
+        },
+        {
+          "holder": "VANGUARD WORLD FUND-Vanguard ESG International Stock ETF",
+          "shares": 92600,
+          "pct_held": 0.0,
+          "value": 8797000
+        },
+        {
+          "holder": "EQ Advisors Trust-EQ/International Value Managed Volatility Portfolio",
+          "shares": 17300,
+          "pct_held": 0.0,
+          "value": 1643500
+        }
+      ]
+    },
+    "samsung_elec": {
+      "name": "Samsung Electronics",
+      "short_name": "三星電子",
+      "ticker": "005930.KS",
+      "holders": [
+        {
+          "holder": "Aristotle Capital Management, LLC",
+          "shares": 1082113,
+          "pct_held": 0.02,
+          "value": 231842710250
+        },
+        {
+          "holder": "Stanley-Laman Group, Ltd.",
+          "shares": 35207,
+          "pct_held": 0.0,
+          "value": 7543099750
+        },
+        {
+          "holder": "Paradigm Asset Management Company, LLC",
+          "shares": 55000,
+          "pct_held": 0.0,
+          "value": 11783750000
+        },
+        {
+          "holder": "Pacer Advisors, Inc.",
+          "shares": 50748,
+          "pct_held": 0.0,
+          "value": 10872759000
+        },
+        {
+          "holder": "Chickasaw Capital Management, LLC",
+          "shares": 15000,
+          "pct_held": 0.0,
+          "value": 3213750000
+        }
+      ]
+    },
+    "sony": {
+      "name": "Sony Group",
+      "short_name": "索尼",
+      "ticker": "6758.T",
+      "holders": [
+        {
+          "holder": "Aristotle Capital Management, LLC",
+          "shares": 5215950,
+          "pct_held": 0.08,
+          "value": 17452568700
+        },
+        {
+          "holder": "Pacer Advisors, Inc.",
+          "shares": 1061078,
+          "pct_held": 0.02,
+          "value": 3550366988
+        },
+        {
+          "holder": "Gamma Investing LLC",
+          "shares": 3433,
+          "pct_held": 0.0,
+          "value": 11486818
+        }
+      ]
+    }
+  }
+}
