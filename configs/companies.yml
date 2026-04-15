@@ -29,6 +29,7 @@ companies:
   position: upstream
   role: 製程設備
   description: 顯示器與半導體製程設備
+  rss_url: https://ir.appliedmaterials.com/rss-feeds/news-releases
   downstream:
   - auo
   - innolux
@@ -234,6 +235,7 @@ companies:
   position: downstream
   role: 終端品牌
   description: 全球最大電視與手機品牌
+  rss_url: https://news.samsung.com/global/feed
   upstream:
   - auo
   - innolux
@@ -251,6 +253,7 @@ companies:
   position: downstream
   role: 終端品牌
   description: 全球前三大電視品牌
+  rss_url: https://www.lgnewsroom.com/feed
   upstream:
   - lg_display
   - auo
@@ -267,6 +270,7 @@ companies:
   position: downstream
   role: 終端品牌
   description: 高階電視與影像感測器
+  rss_url: https://www.sony.net/SonyInfo/News/Press/rss/en.xml
   upstream:
   - lg_display
   - auo
