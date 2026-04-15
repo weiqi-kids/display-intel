@@ -6,8 +6,8 @@
       "short_name": "康寧",
       "position": "upstream",
       "role": "玻璃基板",
-      "x": 0.5,
-      "y": 0.04
+      "x": 0.08,
+      "y": 0.17
     },
     {
       "id": "applied_materials",
@@ -15,8 +15,8 @@
       "short_name": "應材",
       "position": "upstream",
       "role": "製程設備",
-      "x": 0.5,
-      "y": 0.13
+      "x": 0.248,
+      "y": 0.17
     },
     {
       "id": "canon",
@@ -24,8 +24,8 @@
       "short_name": "佳能",
       "position": "upstream",
       "role": "曝光設備",
-      "x": 0.5,
-      "y": 0.21
+      "x": 0.416,
+      "y": 0.17
     },
     {
       "id": "novatek",
@@ -33,8 +33,8 @@
       "short_name": "聯詠",
       "position": "upstream",
       "role": "驅動IC",
-      "x": 0.05,
-      "y": 0.3
+      "x": 0.584,
+      "y": 0.17
     },
     {
       "id": "raydium",
@@ -42,8 +42,8 @@
       "short_name": "瑞鼎",
       "position": "upstream",
       "role": "驅動IC",
-      "x": 0.5,
-      "y": 0.3
+      "x": 0.752,
+      "y": 0.17
     },
     {
       "id": "himax",
@@ -51,8 +51,8 @@
       "short_name": "奇景",
       "position": "upstream",
       "role": "驅動IC",
-      "x": 0.95,
-      "y": 0.3
+      "x": 0.92,
+      "y": 0.17
     },
     {
       "id": "auo",
@@ -60,7 +60,7 @@
       "short_name": "友達",
       "position": "midstream",
       "role": "面板製造",
-      "x": 0.05,
+      "x": 0.08,
       "y": 0.5
     },
     {
@@ -69,7 +69,7 @@
       "short_name": "群創",
       "position": "midstream",
       "role": "面板製造",
-      "x": 0.23,
+      "x": 0.248,
       "y": 0.5
     },
     {
@@ -78,7 +78,7 @@
       "short_name": "樂金顯示",
       "position": "midstream",
       "role": "面板製造",
-      "x": 0.41,
+      "x": 0.416,
       "y": 0.5
     },
     {
@@ -87,16 +87,16 @@
       "short_name": "京東方",
       "position": "midstream",
       "role": "面板製造",
-      "x": 0.59,
+      "x": 0.584,
       "y": 0.5
     },
     {
       "id": "jdi",
       "name": "Japan Display",
-      "short_name": "JDI",
+      "short_name": "Japan Display",
       "position": "midstream",
       "role": "面板製造",
-      "x": 0.77,
+      "x": 0.752,
       "y": 0.5
     },
     {
@@ -105,7 +105,7 @@
       "short_name": "華星光電",
       "position": "midstream",
       "role": "面板製造",
-      "x": 0.95,
+      "x": 0.92,
       "y": 0.5
     },
     {
@@ -114,7 +114,7 @@
       "short_name": "三星電子",
       "position": "downstream",
       "role": "終端品牌",
-      "x": 0.05,
+      "x": 0.08,
       "y": 0.83
     },
     {
@@ -123,7 +123,7 @@
       "short_name": "LG電子",
       "position": "downstream",
       "role": "終端品牌",
-      "x": 0.275,
+      "x": 0.29,
       "y": 0.83
     },
     {
@@ -141,16 +141,16 @@
       "short_name": "TCL科技",
       "position": "downstream",
       "role": "終端品牌",
-      "x": 0.725,
+      "x": 0.71,
       "y": 0.83
     },
     {
       "id": "vizio",
       "name": "VIZIO Holding",
-      "short_name": "VIZIO",
+      "short_name": "VIZIO Holding",
       "position": "downstream",
       "role": "終端品牌",
-      "x": 0.95,
+      "x": 0.92,
       "y": 0.83
     }
   ],
@@ -375,6 +375,5 @@
       "target": "samsung_elec",
       "strength": 2
     }
-  ],
-  "etfs": []
+  ]
 }
