@@ -1,5 +1,137 @@
 [
   {
+    "id": "unknown-2026-04-16-004",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "\"Sleeping With the Enemy\" to Defend No. 1 in OLED Gaming Monitors - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHOWt2SE9fLVZjZ29id0lqanJTQkUtREVpLTRmaTdLcklGbzg5SzF0QXZLNjR4cnVpazFhQVpDcE4tV19FVW5WYWh1bTBIa2RDb1Y4?oc=5\" target=\"_blank\">\"Sleeping With ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-012",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "TSMC enters 2nm mass production, scales 3nm capacity",
+    "summary": "TSMC laid out its capacity expansion plans and advanced node progress at its first quarter 2026 earnings call. Chairman C.C. Wei reaffirmed Taiwan as the primary base for leading-edge production, citi",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-013",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Yageo posts 40% YoY profit rise in 1Q26, driven by AI demand, price hikes",
+    "summary": "Passive component manufacturer Yageo held its first-quarter 2026 online earnings call on April 15, reporting strong financial results. Company CEO David Wang said that robust demand from applications ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-014",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "TSMC guides over 15% 2Q26 revenue growth, N3 margins set to top average",
+    "summary": "TSMC posted a record profit of NT$572.48 billion (US$18.06 billion) in the first quarter of 2026, marking another high in overall performance. For the second quarter of 2026, TSMC guided revenue betwe",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-015",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiwan analog IC firms show varied 1Q26 revenue; motor control and DDR5 PMIC drive growth",
+    "summary": "Taiwanese analog IC companies have recently released their full revenue figures for the first quarter of 2026, revealing mixed performances. Firms with rapidly growing new businesses or market share g",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-016",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "MCU demand pull-in lifts first-quarter sales, inflation risk clouds outlook",
+    "summary": "<p class=\"P1\" data-start=\"85\" data-end=\"615\">The traditional off-season for consumer electronics showed unexpected strength in the first quarter of 2026, with microcontroller (MCU) suppliers reporting",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-017",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "EZconn posts 200% profit surge in March as high-fiber count shipments boost growth",
+    "summary": "Optical communication manufacturer EZconn announced a net profit after tax of NT$312 million (US$9.9 million) for March 2026, marking a 200% increase year on year and earnings per share (EPS) of NT$4.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-018",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "TSMC lifts full-year outlook above 30% as AI demand powers another record quarter",
+    "summary": "Fresh off a quarter in which it beat its own margin forecasts by a wide margin, TSMC issued second-quarter guidance that signals the AI-driven chip boom is accelerating rather than plateauing. The wor",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-019",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "TSMC 1Q26 earnings: AI demand sends profit up 58%, gross margin to all-time high",
+    "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) reported a first-quarter 2026 revenue of US$35.90 billion, a 40.6% jump from a year earlier, as insatiable demand for artificial intelligence (AI) pro",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-020",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "China's homegrown GPU startups gain ground in global AI chip race",
+    "summary": "<p class=\"P1\" data-start=\"82\" data-end=\"333\">China's domestic GPU industry is entering a new phase of rapid commercialization, as leading startups post strong revenue growth while intensifying investm",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-022",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Xiaomi TV S Mini LED series launched in India, price starts at Rs 51,999 - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV3JyMFhmNVVYT3l6QWJkdG9nRXBsTjM3X0E2R1ZGcTRpVHQwMnRkSmpUdFFGR2xHLWFUREhZZlhVZGlPR3c4MzVhb0VjUWh1aGdpN2RJZlJ6ZERvSmMxRlVMcDNNV0ZKSGFSSElqOW",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-15-036",
     "date": "2026-04-15",
     "companies": [],
@@ -161,6 +293,87 @@
     "sources": []
   },
   {
+    "id": "corning-2026-04-15-001",
+    "date": "2026-04-15",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning shares fall 3.2% amid profit-taking and fresh filing-related overhang - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEJmcm5EQS16MXgtVGxBSkpwV3JKRE9lSC0tZGF6THE4ei1rNjNlcU9raDY1eEhXSlRpZ1M0dnVjTVNYTmNJUFBpcHZYTGNDcDh4RWk1QnVKTzlWYTRsMEdtVzFkOE5UUzY0LVE4dH",
+    "sources": []
+  },
+  {
+    "id": "samsung_elec-2026-04-15-010",
+    "date": "2026-04-15",
+    "companies": [
+      "samsung_elec",
+      "jdi"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "Visionox starts to move in equipment at its V5 ViP production line",
+    "summary": "<p>Visionox announced that it has installed the first equipment in its upcoming <a href=\"https://www.oled-info.com/visionox-announces-plans-build-76-billion-86-gen-amoled-line-hefei\">$7.6 billion 8.6-",
+    "sources": []
+  },
+  {
+    "id": "tcl-2026-04-15-021",
+    "date": "2026-04-15",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Launches New QLED and Mini LED TVs in the UK Market - AndroidGuys",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQcmNSWnJKUEptMEdiYzkxb0pxaWtEeUVpczJJQkRFRkh1b19FLXV1NFlTNXE1SmVRUkZSUURaM3QyZG16MWVDbGxYYmhaYVVibGh0TmpVUnYxTXFEWmkyVHlGWmNNRExQazdiYVNqME",
+    "sources": []
+  },
+  {
+    "id": "tcl-2026-04-15-023",
+    "date": "2026-04-15",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Class X11K QD-Mini LED 4K UHD drops to $2999.99 - Technobezz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeFdqWENxVFJoTDBHMVNHdnRRdENsVlN6bmxsb29rRFo1cDYxQVB4b2xXQ0pNNnY4Nmkza29aV2tLd1JoOENERVg3emRPWElfRE9DbVB5ekxCdmc0WU03SGI1NGxaMjhMOWpPa3FwT3",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-024",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Bright, Bold, & Accessible: Xiaomi Just Dropped A Mini LED Bomb On The TV Market - smartprix.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1g3STVoRlI0Y2ZydnJPTzE2b2g4RElJcEI2SGt4RV8tT0NGSUh4OXZzdmh5X2pVR3liaVZMUkFMQVpyM2M4b2o5OW9NWE90Z3JoZWRCVVJvTkt6QkdJb0pYdEV1ckp5Z1ZiVS1LX1",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-025",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Tech Wrap April 15: OPPO F33 series, Xiaomi TV S Mini LED, BenQ 5K monitor - Business Standard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUHc2eGtwS3plX0Zpd3U4M3Z2M1JldERwUFYyWllmZ2dxNEJMcnBOeE1KYVN3b1ZvblN2YXNJS1A0bGxSZmJIRUpNem1oalNxa1JsYmg4VDhBZGVwc2tEMERYcm45MHZ3QWRGTk1kRj",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-14-005",
     "date": "2026-04-14",
     "companies": [],
@@ -228,6 +441,20 @@
     "sources": []
   },
   {
+    "id": "jdi-2026-04-14-007",
+    "date": "2026-04-14",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Sharp is considering collaborating with JDI on OLED panel technology to compete with South Korean company - Mashdigi",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNTW14UU02MjJ5YnZ4czhDZ3hBZkZqRFJ2RDFpSGE4T1lMaFBUNDRwOHVlVWg3ZDNSZENCUlhVSlJod0F0MzVmU01fOEdzdGRFT2U0YUlKMFBSVTR4bnp1RVpiSWNzejZkZDRGWWpkQW",
+    "sources": []
+  },
+  {
     "id": "sony-2026-04-13-039",
     "date": "2026-04-13",
     "companies": [
@@ -254,6 +481,48 @@
     "impact": "neutral",
     "title": "LG in talks to buy QD-OLED panels from Samsung Display - FlatpanelsHD",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5vOTZnR18yTmRCMVVXYTlfY3F4dnZRQnFDdjhocEtqU1BUZ3VDRmpINWhNV2lXS0VqejZXdVkxVWJ2eE9fOTNkTG1mZlhlU0NSM1BVR1VQVlZXWTZ1SzgwemVfZFdQSDQ3ckxkMWFpQz",
+    "sources": []
+  },
+  {
+    "id": "tcl-2026-04-13-026",
+    "date": "2026-04-13",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL 85-inch QM8K Mini LED TV drops to $1997.97 - Technobezz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQdnNfdnVfTVdSQV82bWtiODlNem9jVV9CZU54NHhkTGEwbTJTdVYza3dBWmRZRW5hVWlSYzgxamxUWWVxU3h5bHZIZ21wc2FVcFZxaGF4clAxb0ZyVnJHTzIwOUNSY0tXYkpzMDl0b2",
+    "sources": []
+  },
+  {
+    "id": "sony-2026-04-13-027",
+    "date": "2026-04-13",
+    "companies": [
+      "sony"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Sony 65 Mini LED QLED 4K Ultra drops to $1998 on Amazon - Technobezz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMmhmRkxkQWFLTXBvUEFZQk9wV0d4N09SdVItUkhDY1Rxd3I2cF9mci1KWWhzeDhrTEUweDljR3MxNmtvaC1VekRqYlRKeTRCTFpUaDZJTTZ2WkhaZ2w1QWtaSVluSmxKMVUwMFVOel",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-13-028",
+    "date": "2026-04-13",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "LG QNED85A Mini LED TV drops to $699.99 on Amazon - Technobezz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPS3VUYklkcTM5UHJSNmVCc2RyaDVlcFl4QmMxM3Jsb3dSWUlvVWN2WHR5d1Nmek5nU3FoMW9DWDFwRXJLaEpoLTJ0ME9qLTJFZlQ5Y3JoeUFpWHF0S3A0LXk4T3drLWE3ZUN5YUgya1",
     "sources": []
   },
   {
@@ -873,6 +1142,21 @@
     "sources": []
   },
   {
+    "id": "lg_elec-2026-03-20-005",
+    "date": "2026-03-20",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display (LPL) Secures Next‑Gen OLED Future Through Extended UDC Partnership - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0hOSUlvTnlGOGRuWUJzbkVXTjM0MTBoOENHZUs4SlJFUktPZ294MTdtMTRsaTYxVmFPYm8tZFh0OGVoc2FUWE5JTmhXYmttOThDUkFhX3ZrRE11bHhZZXRHS2tuXy1UYTI0M1FLaF",
+    "sources": []
+  },
+  {
     "id": "jdi-2026-03-09-052",
     "date": "2026-03-09",
     "companies": [
@@ -1264,6 +1548,21 @@
     "sources": []
   },
   {
+    "id": "samsung_elec-2025-11-20-006",
+    "date": "2025-11-20",
+    "companies": [
+      "samsung_elec",
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display, BOE settle 3-year OLED patent war - The Tech Buzz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQVmh5M0hscnJ5ZXM1WFo0OGFZYTJGZWRjWkhpQks2dnpxLUpfa0dzdHhGOEpKb2s4WmZna0JzNjFfZ1BmWHpSd1AtcTJQQW1JTlNpaURlTlNxMVN3RHhqSVgtdGF1Y2tlR3pkVXFYM1",
+    "sources": []
+  },
+  {
     "id": "novatek-2025-11-07-015",
     "date": "2025-11-07",
     "companies": [
@@ -1398,6 +1697,21 @@
     "impact": "neutral",
     "title": "AUO Is the Manufacturer Behind Garmin and the World’s First Wearable MicroLED Display - Garmin Rumors",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPZzdTNE1GZlZ0VDMyM1Y3YXpzMmhYRmNIQlk5NlN5Y0JRUDU3N3FjX214UkJ3VUJFVTVyVk5xM0RzMWVmcFd3X2JOck9KNlVBb01rWkIydHhwVTN5aFZGY1RFVl9QVG51ZWlMc0VFWE",
+    "sources": []
+  },
+  {
+    "id": "auo-2025-08-27-003",
+    "date": "2025-08-27",
+    "companies": [
+      "auo",
+      "innolux"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AUO, Innolux forecast to make modest profits: researcher - Taipei Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cDhUQ25SUEhRUnlWeGg0NEx1R1pBRnJ0WDN2LUpVNURTOFk4YTNuWW5sODNrZmtaaVF0MF93OTdxbjk0TzZfVWtPZmxIQWJndjZ4SllkbnY0Wk56MEVLUlR5c052R0VBZ2V3aTFqTD",
     "sources": []
   },
   {
@@ -1573,6 +1887,20 @@
     "sources": []
   },
   {
+    "id": "vizio-2024-08-07-008",
+    "date": "2024-08-07",
+    "companies": [
+      "vizio"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Vizio Posts 11% Revenue, 16% Gross Profit Growth in Q2 - Media Play News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR28yNjdhQ1RfSmVHT3VPU0gwcFVPdmI3cDF4cUEtQ1REaUY0RzRsNEE1b1YtaWMwaXU0cWJuOUpZU09QUEluRVBXeE1QRkxLbVZwMDRocGRzMXFkR1NWQnVBR1k0YjVtbkFoZjdDZF",
+    "sources": []
+  },
+  {
     "id": "raydium-2024-05-10-019",
     "date": "2024-05-10",
     "companies": [
@@ -1696,6 +2024,20 @@
     "impact": "neutral",
     "title": "Novatek profit rises, but revenue to drop - Taipei Times",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBUQzk2bkNXWDZ2VTZLM3hMUVNjZzZmTzE2U3RJWGUtN2JOS3pDTGNCUTV3bWh2dzVBdHFTa21ySmJqci1fRGQ5T1F3dGowYkZKbm5GZ1BSdjhYTkFHcUlBdGliYUtRRTB5bHdUMml0VF",
+    "sources": []
+  },
+  {
+    "id": "samsung_elec-2023-04-12-002",
+    "date": "2023-04-12",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED Display Driver IC Market to Get a New Boost | ROHM Semiconductor, Silicon Works, Samsung Electronics - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2pUUVY0bG5zWGZuUkYzT19qT1hnM1NyMWJPd0tTcjJ4bFdoNFZ6TFR3T2xkal92TDJwRmpyQTNHVDhkY3ByNGRrdElRdUhNNTU3RzhWcEIxbWVockdEUGNjSDY1bWFqbHoxT1Z3RX",
     "sources": []
   },
   {
