@@ -1,5 +1,32 @@
 [
   {
+    "id": "samsung_elec-2026-04-17-003",
+    "date": "2026-04-17",
+    "companies": [
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung, LG boost ties amid China’s OLED push - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ROHB2NE0yYWJlUjZFR253NUZSSnF0djFPMnNGZUk1SGM0UXlSUVgzZWRIeS11NXpGXzFaNGtqUG5kQndvNG5fSHhHWnVQRzZnSnhkbnVtbw?oc=5\" target=\"_blank\">Samsung, ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-17-009",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "Automotive Mini LED Market Set for Explosive Growth 81.80% CAGR (2026-2030) - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPRmZicHgzNllYRHRwY1lUSEQ2dkZlRVdoN0UwVVB2V05UNXBRZWF5U2IzNk9vQnAxdVdvQjRDWkpZWHNQaVNjcW96VmhmWTR4M3UwbkdfLWdlU0c2cnFpRUcyNENFajRjYkE1STRFeT",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-16-004",
     "date": "2026-04-16",
     "companies": [],
@@ -129,6 +156,60 @@
     "impact": "neutral",
     "title": "Xiaomi TV S Mini LED series launched in India, price starts at Rs 51,999 - MSN",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV3JyMFhmNVVYT3l6QWJkdG9nRXBsTjM3X0E2R1ZGcTRpVHQwMnRkSmpUdFFGR2xHLWFUREhZZlhVZGlPR3c4MzVhb0VjUWh1aGdpN2RJZlJ6ZERvSmMxRlVMcDNNV0ZKSGFSSElqOW",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-16-007",
+    "date": "2026-04-16",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "LG Chem seeks higher damages in its blue host material patent dispute with SFC",
+    "summary": "<p>According to a report in Korea, <a href=\"https://www.oled-info.com/lg-chem\">LG Chem</a> has increased its requested damages in its patent lawsuit against <a href=\"https://www.oled-info.com/sun-fine",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-008",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "The OLED Library keeps growing, OLED-Info Pro customers have access to close to 250 documents",
+    "summary": "<p>The OLED industry moves fast — and keeping track of every new presentation, datasheet, and company report can be a challenge. That’s why we created the<strong> </strong><a href=\"https://www.oled-in",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-16-011",
+    "date": "2026-04-16",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "LG's 27GM950B-B gaming monitor with Hyper Mini LED is now available for pre-order with 27-inch 5K resolution and up to 330Hz refresh rate. - Saiga NAK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lUE14MzYtclppUGpqc0RGTVoxTmlWRVcxUFBIeWpDOTVNQmx3OWJJN3VtTWxuQ1o5ejlZWE9KRmdRMU9CcHc5N25uVjZWeFh4S0JVYU54NnRtQnQwWkh0YmMyYzhicmvSAWxBVV95cU",
+    "sources": []
+  },
+  {
+    "id": "tcl-2026-04-16-014",
+    "date": "2026-04-16",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "What are TCL’s Super Quantum Dot Mini LED TVs like in person? - htxt.co.za",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPU0YyTnlOMjI3OWJtMlFma2ozZkI1dU5BRUQyR0dLTmVUakdIVU94SlFIX3pGR0I1WGU2UWloczBsdGhzM1ZxVTJGMTE1Mk1zdzRySVRlM1VIWG16bmxILTJjTktXSGZKTWwwb2dKN0",
     "sources": []
   },
   {
@@ -374,6 +455,30 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-04-15-012",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Xiaomi launches first Mini LED TV series in India - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPakUzT3lYMDA0SnFwdkFuQk0wSXJwemFidWYzTkZlaW1oRW42dGlFZG80aVBHSWRrWmRpM3ExdU1qOFRPaU5IeWVBcy1mYXhuN00tLTEtYkpTV0pOZ1JfWmFGbktQSWttaVB3SVNYVG",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-016",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Xiaomi debuts first Mini LED TV series in India at ₹51,999 - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTmVhcWJFZHdxVHQzZmFDSFFSZWhpSDlILUNZU2lQMDNrT1FCTExCN2lOVDBNc3NnTGhvQmcwSEtSbXE5eHdpb3R0NlF2SWRWN2VGT2F0SUEyZDVlaXI5Y21LNkZmdHhVUWNPcm83al",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-14-005",
     "date": "2026-04-14",
     "companies": [],
@@ -452,6 +557,30 @@
     "impact": "neutral",
     "title": "Sharp is considering collaborating with JDI on OLED panel technology to compete with South Korean company - Mashdigi",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNTW14UU02MjJ5YnZ4czhDZ3hBZkZqRFJ2RDFpSGE4T1lMaFBUNDRwOHVlVWg3ZDNSZENCUlhVSlJod0F0MzVmU01fOEdzdGRFT2U0YUlKMFBSVTR4bnp1RVpiSWNzejZkZDRGWWpkQW",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-010",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "The 3 Best Mini LED Monitors of 2026 - RTINGS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sSDdPeW8wRk44SWdOeVdmU21BT2VMVXRSLV9iQnFCMlplQW9fTGhQU2hrNHhhUWp0cHltRHhuTmVyaHpwck5QSHY0ZER2eFF0U2p6YWtIcXhmci1jb0FGTThn?oc=5\" target=\"_bl",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-015",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "2026 TV Lineup: The Year Of RGB Mini LED - RTINGS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kYTVfdllYTmhMOTRDRGF0cGhmQ2RJcUx4RzB4bU9CTFRQMlYxSjhYdk9YMGgwN2NIY3M5bEIydmtKMjZ4NzJ3RVp3algtWTZmRGY5SGtR?oc=5\" target=\"_blank\">2026 TV Lin",
     "sources": []
   },
   {
@@ -1157,6 +1286,20 @@
     "sources": []
   },
   {
+    "id": "jdi-2026-03-12-006",
+    "date": "2026-03-12",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "neutral",
+    "title": "Japanese government and JDI eye display factory in the US: Context, history, and possibilities - Omdia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVmJqbllZMmdVM1Q5MmMzUkh5aURER0Z5VlYzQVhDQjMxSnNFcldRdzFpQmlhd0NDUWp2Z29UNzVHV000V2ZuVWE0S2cxbkpTZzZlQnc2VUUtenUzdGxTMllpWnRtbm5HWWRxbzk2R1",
+    "sources": []
+  },
+  {
     "id": "jdi-2026-03-09-052",
     "date": "2026-03-09",
     "companies": [
@@ -1168,6 +1311,21 @@
     "impact": "neutral",
     "title": "Will Japan Display establish a $13 billion OLED display fab in the US? - OLED-Info",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNbzJlWkl5anhJejRTVWVuTDFYeUlJTEtKVFA5WThzVk5mRkNmdFF2MllzTEZiMkZoYlpwTHVraVlMVzhUMWZOLXNmQ0ROdHh4TGE4QnhjOEZ4VDNtQUNza1BQRDNkRUlUUG1oT3JwVD",
+    "sources": []
+  },
+  {
+    "id": "lg_display-2026-03-01-005",
+    "date": "2026-03-01",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Universal Display’s Renewed LG Display Deal Might Change The Case For Investing In Universal Display (OLED) - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNUlAxMWxRd0hMeXJvM2pPMm94TEQ4MDVjY3A1U0hQbWNaTWlyTnMwZ040X2VsSkFINVB0SWFKTFlzVDhNR2dla3dXOExsTTY4M25UNnNGREZJa1pfUkhsdks1VzZDdkd4dlI2MTN1SG",
     "sources": []
   },
   {
@@ -1392,6 +1550,21 @@
     "sources": []
   },
   {
+    "id": "lg_display-2025-12-23-004",
+    "date": "2025-12-23",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display unveils world’s first 240Hz RGB stripe OLED panel - LG Display Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNdVlDcHhVQ3RhWU1ZZEI4dkxKT2RENkxCbkF3b09LSVNIVEtUM1BORl9nN1FEZHJQMkdtMFdueTJjR0Q4X0F1dF9SUzJRbGwyam1uNzR2YXhLVzJJQU1CUmJmUlRoYURPNW9WM1oxak",
+    "sources": []
+  },
+  {
     "id": "boe-2025-12-16-005",
     "date": "2025-12-16",
     "companies": [
@@ -1574,6 +1747,20 @@
     "impact": "neutral",
     "title": "Novatek braces for revenue dip in 2025, bets on AI ASICs to drive recovery - digitimes",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQa29NMDNyVUFxemNSOTFWc080TERDUGhGQmRQRTk5SXo0aVo2M1A5bDlqTE1INmZzbl9DaDB5MnhDalJ3WXVfMkNPRGJLM0w2Mll4cng0aV9HZzJYMlpIT0pPdFhLb3haaF8zRHV0eT",
+    "sources": []
+  },
+  {
+    "id": "himax-2025-11-06-002",
+    "date": "2025-11-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies, Inc. Reports Third Quarter 2025 Financial Results; Provides Fourth Quarter Guidance - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNOFo5a05jTkEyY2FjTDdhQm1ndDFyd2M0UWQ2OE1hN3pMMVRBaVUySGRWZWVvYW5pQUpudHdaZW9wVGlXMG1oZEkyNlI3eGxKS3dGVXBVVGU3NC1sOUJpQmdFN3E4WlRveE5CR0xJXz",
     "sources": []
   },
   {
@@ -1884,6 +2071,21 @@
     "impact": "negative",
     "title": "TCL CSOT Announces the Mass Production of Inkjet Printing OLED at DTC2024 - PR Newswire",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeno1OHBrTF9oSDNUWmNXczdyZndmbjJZcEp4UUtrejRnbVFGUS1CSlBLREFSRVhxRzNLTTJiVnVtM3NNWlRRWGRfZlJ4M29HbURfRXh0VER6cHBnRjNxaHBuaWdkbU80Y2Y2V0FPQz",
+    "sources": []
+  },
+  {
+    "id": "novatek-2024-11-07-001",
+    "date": "2024-11-07",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Novatek expects revenue to drop before rebounding next year on OLED chips - Taipei Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE91b2NlUEN6bmpxV1ZWbkVUZmJDRE95QVdEWGwtdW02YlE2aHlXSFdRVk5aNkoxcXFmcUpLZkNDOWg5aFJmUGpRb3huLXRVYjY5cDdQTVZpU3NIQXlWS2EtbTFGbVpRUjNRYlBtVjVfaz",
     "sources": []
   },
   {
