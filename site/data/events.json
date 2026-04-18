@@ -1,5 +1,79 @@
 [
   {
+    "id": "unknown-2026-04-18-008",
+    "date": "2026-04-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "TSMC's Q1 2026 earnings call: five signals hidden in plain sight",
+    "summary": "TSMC's first-quarter 2026 earnings call delivered the expected headline numbers &mdash; $35.9 billion in revenue, a 66.2% gross margin, and full-year revenue growth guidance raised to above 30% in US ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-18-009",
+    "date": "2026-04-18",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "positive",
+    "title": "Taiwan's E-Lead expands beyond head-up displays into full smart cockpit systems",
+    "summary": "<p class=\"P1\" data-start=\"0\" data-end=\"315\">Taiwanese automotive electronics leader E-Lead Electronic is reshaping the future of smart cockpits through a combination of deep technological reinvention ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-18-010",
+    "date": "2026-04-18",
+    "companies": [],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "negative",
+    "title": "Memory price surge hits Xiaomi shipments, forces strategy shift",
+    "summary": "Rising memory prices are reshaping the global smartphone market. The shift is triggering a broad slowdown and accelerating structural shifts across China's handset industry. Data from Omdia and IDC po",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-18-011",
+    "date": "2026-04-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Securing the supply chain, CATL pushes into global mining assets",
+    "summary": "Contemporary Amperex Technology Co. Limited, China's dominant electric vehicle battery manufacturer, is accelerating its push up the supply chain, pairing strong earnings with an aggressive expansion ",
+    "sources": []
+  },
+  {
+    "id": "samsung_elec-2026-04-18-012",
+    "date": "2026-04-18",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Samsung launches voluntary retirement amid chip-device earnings gap",
+    "summary": "<p class=\"P1\" data-start=\"326\" data-end=\"551\">Samsung Electronics has initiated a workforce restructuring through a voluntary retirement program as strong semiconductor earnings contrast with weaker p",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-18-013",
+    "date": "2026-04-18",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "bEMC advances Micro LED optical transmission with key POC validation",
+    "summary": "The surge in AI data center demand is rapidly accelerating the need for high-speed data transmission, prompting LED manufacturers to target opportunities in optical communications. best-Epitaxy Manufa",
+    "sources": []
+  },
+  {
     "id": "samsung_elec-2026-04-17-003",
     "date": "2026-04-17",
     "companies": [
@@ -24,6 +98,98 @@
     "impact": "positive",
     "title": "Automotive Mini LED Market Set for Explosive Growth 81.80% CAGR (2026-2030) - openPR.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPRmZicHgzNllYRHRwY1lUSEQ2dkZlRVdoN0UwVVB2V05UNXBRZWF5U2IzNk9vQnAxdVdvQjRDWkpZWHNQaVNjcW96VmhmWTR4M3UwbkdfLWdlU0c2cnFpRUcyNENFajRjYkE1STRFeT",
+    "sources": []
+  },
+  {
+    "id": "corning-2026-04-17-001",
+    "date": "2026-04-17",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "JP Morgan Downgrades Corning (GLW) - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPdGNJbzZHRktNVllLaGNTXzg3YTdsaVk0UElaWHFmSDlQUjhSeG82SUNEMFd4ZGxUYTJKTEhPaVd0V0lsVUktXzd6QUU2MUNUVW1yN3hudTJWZGV1aVlsTEdoUHc4VlNpd2xIenVhRm",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-17-014",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "negative",
+    "title": "Honda plans deeper China capacity cuts, targets Guangzhou and Wuhan plants",
+    "summary": "Struggling with weak sales, Honda has decided to significantly scale back its vehicle production capacity in China, with cuts targeting plants in Guangzhou and Wuhan.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-17-015",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Lens Technology swings to loss on weak smartphone demand, FX pressure",
+    "summary": "Lens Technology reported a sharp earnings reversal in the first quarter of 2026, weighed down by softer demand for smartphones and PCs and rising financial costs, even as it continues to position itse",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-17-016",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Commentary: Robots are selling, but profits are not; data is the real prize",
+    "summary": "<p class=\"P1\" data-start=\"110\" data-end=\"234\">Capital is still pouring into humanoid robotics in 2026, but the industry's financials are telling a more complicated story.",
+    "sources": []
+  },
+  {
+    "id": "tcl-2026-04-17-017",
+    "date": "2026-04-17",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL's RGB-Mini LED TVs will start at $8,000 - Engadget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRFRJSlRzVlNXQ3VTU0k4LVNoYTlJMnR1MVJiMHU4ME5rLXZWXzdhSi1QUmpMUVB2LWhVOUh4VGZ5OTMzamdvZ0oyYUhoMjMyUTRKVWFXZ1BaSWJJUDNEdTE2Uk5hQ0VJbnlqRGF2TG",
+    "sources": []
+  },
+  {
+    "id": "tcl-2026-04-17-018",
+    "date": "2026-04-17",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL's First RGB-Mini LED TV is About to be the Industry's Best RGB-Mini LED TV - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0d2dTdtMHJHeG9ON1JtcFdzb092VGppVGpoWGlHaTNWZVhwRjhYSy1VcHRyaGNla3JFRks5R0lULXpRZWdYOGswUjl1QTVCbTBWLV9KSHFtTUlxSWt5RVhkSGRLV0FiT2dQS1Nkb0",
+    "sources": []
+  },
+  {
+    "id": "tcl-2026-04-17-019",
+    "date": "2026-04-17",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "TCL Turns Up the Color, Expanding its Groundbreaking SQD-Mini LED Lineup - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdHBPSFhnVEJ0clpEREpadnhMVEczTXJwXzQzSUx4QWdLTDE4clN1RjM2QjBSN3JDQmtGYWdfNG53RTMydElWVThZa0E3S2lNUkFTNkliS1JRelhNY0dYMXlDVEZ1TmhLYUE2ZThmQl",
     "sources": []
   },
   {
@@ -476,6 +642,18 @@
     "impact": "neutral",
     "title": "Xiaomi debuts first Mini LED TV series in India at ₹51,999 - MSN",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTmVhcWJFZHdxVHQzZmFDSFFSZWhpSDlILUNZU2lQMDNrT1FCTExCN2lOVDBNc3NnTGhvQmcwSEtSbXE5eHdpb3R0NlF2SWRWN2VGT2F0SUEyZDVlaXI5Y21LNkZmdHhVUWNPcm83al",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-020",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Xiaomi debuts first Mini LED TV series in India from ₹51,999 - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQeG9semFmTVhfcTViSnplWjJaREhfRFdvY2QtejJWc2FxZXZTWDdUODczZm1kc04xbzB3d1R2RnhaSGdqTjY0bDY1YWhITWVhdGFqTGdqZWRCRDdiOWZsZW9RQUxrT1lBM3VsUWxYTT",
     "sources": []
   },
   {
@@ -1286,6 +1464,21 @@
     "sources": []
   },
   {
+    "id": "lg_display-2026-03-13-006",
+    "date": "2026-03-13",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "From Premium to Entry-Level… LG Display Expands the OLED TV Market with New ‘SE’Panels - LG Display Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQYWVNQ3RWZENTamhWelEwYmEzYUlRWTBJaTd0TFdqNUlRaVMyekRCRU5fZ0M1M1RxVW5ZQlk5MTN6QmZ0cFphWWRWdnNCTy1zdjB0UGxUZF96cWhZa2hTZUs3X1dxY2JsVUowYTVlQl",
+    "sources": []
+  },
+  {
     "id": "jdi-2026-03-12-006",
     "date": "2026-03-12",
     "companies": [
@@ -1506,6 +1699,36 @@
     "sources": []
   },
   {
+    "id": "lg_display-2026-01-01-003",
+    "date": "2026-01-01",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display: world’s first 39-inch 5K2K OLED panel for video editors by Jose Antunes - ProVideo Coalition - ProVideo Coalition",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1VYd3NUUXhDdnFuR1Z3U1Y5VnJNUkVlR1VBaTIyOW4tZjgySWRfeHRDUWFrNVdoeEJRRU1IbHBfdm9DbG1hSEthYkZrWmJmYUJmaVZnTG1DTUthd0d0cDVzUzhHQ0FUMFo0YTItb3",
+    "sources": []
+  },
+  {
+    "id": "lg_display-2025-12-27-005",
+    "date": "2025-12-27",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "LG Display showcases wide lineup of world-first, leading OLED monitors - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPV2ZhMUE4RWdaLW9lSkZwTTBKb01IaHdtUUpCRmx3ZFB4Wk8zOEtKaUF2c1J4azJzdDF1ZjVIZUV2cnEyZ0l1LWJCby02dVVvVjhaOEk3SzdrUWZnLWJjaGlPZzBLV2w4OG14clhoVD",
+    "sources": []
+  },
+  {
     "id": "samsung_elec-2025-12-26-027",
     "date": "2025-12-26",
     "companies": [
@@ -1532,6 +1755,21 @@
     "impact": "neutral",
     "title": "CES 2026: LG Display announces Tandem WOLED/OLED technology brands by Jose Antunes - ProVideo Coalition - ProVideo Coalition",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPcVVXQmR4ODRpSFZsaXZPd05xRkJleDlsUlRyNnZwaHlBNURNR0tfN2xZUlBlVmxNRldRaG9wZ1hKMVF5MXZneHRIbW1Zb1lHVzhiZk5EV01jUGRVdjJFS3JCZ1NFTlZQWDB5Zk5ycT",
+    "sources": []
+  },
+  {
+    "id": "lg_display-2025-12-24-002",
+    "date": "2025-12-24",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "[Updated] LG Display Announce a New 27″ 4K OLED Panel with RGB-Stripe Layout - TFTCentral",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVEhXVmx2dGMxdTQ4ZTBiVkZsTGFva1JwS3h5LVFuMmh3akhmS2ktVVl3Y0NiUDRZVVVUTnFCUzdFYTdMZkt3ZTg1OHFUWjk4cEJtY3lobXcyNXJnbEFsM2F1UVlBeERVMXQ5MFlTXz",
     "sources": []
   },
   {
@@ -1562,6 +1800,21 @@
     "impact": "neutral",
     "title": "LG Display unveils world’s first 240Hz RGB stripe OLED panel - LG Display Newsroom",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNdVlDcHhVQ3RhWU1ZZEI4dkxKT2RENkxCbkF3b09LSVNIVEtUM1BORl9nN1FEZHJQMkdtMFdueTJjR0Q4X0F1dF9SUzJRbGwyam1uNzR2YXhLVzJJQU1CUmJmUlRoYURPNW9WM1oxak",
+    "sources": []
+  },
+  {
+    "id": "lg_display-2025-12-22-004",
+    "date": "2025-12-22",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display launches new OLED brands for first time in 13 years - LG Display Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3pvVmdhRDU1S1ZQQjdZREl1SEJqZElaM0ZULU5EOUdzenJRaU9GTGVOalZCREJDMGc4V2dpTFRPTWZXLTNDWE0wd254RjExU2ZLR0g3QUpVR0ozYkk4Nklyd3hNQ2dFQ2RpTFdCVD",
     "sources": []
   },
   {
@@ -1733,6 +1986,21 @@
     "impact": "neutral",
     "title": "Samsung Display, BOE settle 3-year OLED patent war - The Tech Buzz",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQVmh5M0hscnJ5ZXM1WFo0OGFZYTJGZWRjWkhpQks2dnpxLUpfa0dzdHhGOEpKb2s4WmZna0JzNjFfZ1BmWHpSd1AtcTJQQW1JTlNpaURlTlNxMVN3RHhqSVgtdGF1Y2tlR3pkVXFYM1",
+    "sources": []
+  },
+  {
+    "id": "lg_display-2025-11-16-007",
+    "date": "2025-11-16",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "LG Display wins two CES 2026 Innovation Awards with world-first automotive display technologies - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBXcFo3TVZqTjBHQ1NDZ2lLZkVFM0ZYYTJPdkZseGtzR01Fc1k3dkFSRjUwUno0Yk5QTXFFanYtUVh2MEZEdzY0bEZtQzVjb240VHl4cUlrNll2WEdKdFlCLS1wYXRoa2ZtYjh6Uk1hOD",
     "sources": []
   },
   {
