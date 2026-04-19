@@ -1,5 +1,17 @@
 [
   {
+    "id": "unknown-2026-04-19-006",
+    "date": "2026-04-19",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Laptop OLED is the next display battle with China. Korea is winning it for now. - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DOGZqWHNvQ2JxQkdyTjk4R0FET1lkWEF3TVRUNWR6V3VQNDFBN2hULXU0dUtvTlg1UnVwSFI4SnI1SUtzbFhVQnctSDdnQXR6VmcxSDRoTQ?oc=5\" target=\"_blank\">Laptop OL",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-18-008",
     "date": "2026-04-18",
     "companies": [],
@@ -71,6 +83,30 @@
     "impact": "positive",
     "title": "bEMC advances Micro LED optical transmission with key POC validation",
     "summary": "The surge in AI data center demand is rapidly accelerating the need for high-speed data transmission, prompting LED manufacturers to target opportunities in optical communications. best-Epitaxy Manufa",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-18-004",
+    "date": "2026-04-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Largan eyes FAU opportunity as smartphone downgrades loom",
+    "summary": "Optical lens giant Largan held its first quarter of 2026 earnings call on April 16, hosted by chairman En-Ping Lin. The company posted 7% year-on-year revenue growth &mdash; but headwinds are building",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-18-005",
+    "date": "2026-04-18",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "SQD-Mini LED is going to change TV tech forever - Here's how I know - Pocket-lint",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1FcVNnczB2V2lnejBkTTctRVJ3eXpPVVNFaDVCM21Sc0NiTUpBLWM3NWRGRmtyNzR6U0dWSU1hZ2s4ZUVWSEluVmRyMlRPNmhrMXRZRW1pTGYxMHgwa3N2SmVuMDBRUFpHTXFzSkgtQn",
     "sources": []
   },
   {
@@ -190,6 +226,18 @@
     "impact": "positive",
     "title": "TCL Turns Up the Color, Expanding its Groundbreaking SQD-Mini LED Lineup - PR Newswire",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdHBPSFhnVEJ0clpEREpadnhMVEczTXJwXzQzSUx4QWdLTDE4clN1RjM2QjBSN3JDQmtGYWdfNG53RTMydElWVThZa0E3S2lNUkFTNkliS1JRelhNY0dYMXlDVEZ1TmhLYUE2ZThmQl",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-17-007",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple to Upgrade These Two Devices With OLED Displays Later This Year - MacRumors",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOZURFMU9ZNElNOXJRS2FhMXl2ZUplb0hsc0h3U01GMmc1MllNTzFDNHZKOEdKX3JZU05SemE5UVl4Y3V2RXAwMzNaWXRMT2ZqSEdKLS0ydG9JdnlnXzBuQU52Y25rd3F1enlEbFBiYn",
     "sources": []
   },
   {
@@ -1232,6 +1280,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-04-03-002",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "Mini LED Backlight Chips Market Set to Witness Rapid Growth - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQTkNCZUhYWVBkREV6a2JzdEl2eWVsbXhpSjdvdHc3RlV2QURaSjY5X0o2ODdyaC0zcFFmUmdMcjI3UXpFTVAzNllDQkZmcFFsQnNVRHZWMDFaRkRKUGo3N1lNek8yc0RZQWZvNzAyRm",
+    "sources": []
+  },
+  {
     "id": "samsung_elec-2026-04-02-003",
     "date": "2026-04-02",
     "companies": [
@@ -1714,6 +1774,21 @@
     "sources": []
   },
   {
+    "id": "lg_elec-2025-12-30-003",
+    "date": "2025-12-30",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is LG Display (LPL) a 'Buy' Ahead of Its Upcoming Earnings Announcement? - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2ozeFFJWkJCNWZzZWFKUmZOcDB2TEJRQkdGa3BFWkZZTjZSWWVOTE5VRENyTk11clhlWWNqX1A5NXRGeVVJeUZLNkRnR1VfOG5tQlowZ1ZTVWFhZnZFR1RhNzE4X0ZfRzI5bXlfSF",
+    "sources": []
+  },
+  {
     "id": "lg_display-2025-12-27-005",
     "date": "2025-12-27",
     "companies": [
@@ -2001,6 +2076,20 @@
     "impact": "neutral",
     "title": "LG Display wins two CES 2026 Innovation Awards with world-first automotive display technologies - Yahoo Finance",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBXcFo3TVZqTjBHQ1NDZ2lLZkVFM0ZYYTJPdkZseGtzR01Fc1k3dkFSRjUwUno0Yk5QTXFFanYtUVh2MEZEdzY0bEZtQzVjb240VHl4cUlrNll2WEdKdFlCLS1wYXRoa2ZtYjh6Uk1hOD",
+    "sources": []
+  },
+  {
+    "id": "corning-2025-11-12-001",
+    "date": "2025-11-12",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Strong Results and Guidance Lifted Corning Incorporated (GLW) in Q3 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPNHVKbS1nbGc0Wld3d1Y2UjJOUm1ycEU2ZzBzdlRIRjk3dTMzNjVXaHQ5clJQNkxPOE1hUnY1T25nZWtsMzduMTRGaWdRajhuaE1EZGRtUnh6MExYel81MVN4c29WTzRaTy1uZmxFSm",
     "sources": []
   },
   {
