@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T08:52:48.610412+00:00",
+  "updated_at": "2026-04-20T09:57:59.098469+00:00",
   "companies": {
     "corning": {
       "name": "Corning Incorporated",
@@ -144,7 +144,7 @@
           "holder": "Oregon Public Employees Retirement Fund",
           "shares": 761700,
           "pct_held": 0.06,
-          "value": 3416224500
+          "value": 3420033000
         }
       ]
     },
@@ -224,55 +224,55 @@
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 9015514,
           "pct_held": 0.23,
-          "value": 991706540
+          "value": 1081861680
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 6519472,
           "pct_held": 0.17,
-          "value": 717141920
+          "value": 782336640
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 2495300,
           "pct_held": 0.06,
-          "value": 274483000
+          "value": 299436000
         },
         {
           "holder": "SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF",
           "shares": 1563910,
           "pct_held": 0.04,
-          "value": 172030100
+          "value": 187669200
         },
         {
           "holder": "EQ Advisors Trust-EQ/International Equity Index Portfolio",
           "shares": 861949,
           "pct_held": 0.02,
-          "value": 94814390
+          "value": 103433880
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Pacific Stock Index Fd.",
           "shares": 696539,
           "pct_held": 0.02,
-          "value": 76619290
+          "value": 83584680
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Total World Stock Index Fd.",
           "shares": 434300,
           "pct_held": 0.01,
-          "value": 47773000
+          "value": 52116000
         },
         {
           "holder": "VANGUARD WORLD FUND-Vanguard ESG International Stock ETF",
           "shares": 92600,
           "pct_held": 0.0,
-          "value": 10186000
+          "value": 11112000
         },
         {
           "holder": "EQ Advisors Trust-EQ/International Value Managed Volatility Portfolio",
           "shares": 17300,
           "pct_held": 0.0,
-          "value": 1903000
+          "value": 2076000
         }
       ]
     },
@@ -285,31 +285,31 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 1082113,
           "pct_held": 0.02,
-          "value": 233736408000
+          "value": 232113238500
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 55000,
           "pct_held": 0.0,
-          "value": 11880000000
+          "value": 11797500000
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 50748,
           "pct_held": 0.0,
-          "value": 10961568000
+          "value": 10885446000
         },
         {
           "holder": "Chickasaw Capital Management, LLC",
           "shares": 15000,
           "pct_held": 0.0,
-          "value": 3240000000
+          "value": 3217500000
         },
         {
           "holder": "Stanley-Laman Group, Ltd.",
           "shares": 35207,
           "pct_held": 0.0,
-          "value": 7604712000
+          "value": 7551901500
         }
       ]
     },
@@ -322,19 +322,19 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 5215950,
           "pct_held": 0.08,
-          "value": 17708150250
+          "value": 17650774800
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 1061078,
           "pct_held": 0.02,
-          "value": 3602359810
+          "value": 3590687952
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 3433,
           "pct_held": 0.0,
-          "value": 11655035
+          "value": 11617272
         }
       ]
     }

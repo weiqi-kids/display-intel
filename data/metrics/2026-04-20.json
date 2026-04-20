@@ -1,0 +1,29 @@
+{
+  "date": "2026-04-20",
+  "total_events": 6,
+  "by_company": {
+    "lg_elec": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lg_display": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "mini_led": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

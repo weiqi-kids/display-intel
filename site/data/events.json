@@ -1,5 +1,80 @@
 [
   {
+    "id": "lg_elec-2026-04-20-002",
+    "date": "2026-04-20",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display (LPL) to Release Quarterly Earnings on Thursday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGZVOFRSX3VHQklLd0dWckJpZ092RjNnOS03M01FdDNrZWtDR003eTlfOHF6SHA5UTAzeDFvNWRaR3BuV3VETFU1Y0NSVnR5UUEyczRTZ2FjVmpheURvdU9YS3hRSUtBTXVSQmNCSj",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-005",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Analysis: How TSMC avoids memory's boom-and-bust cycle",
+    "summary": "Ahead of TSMC's earnings call, <em>DIGITIMES</em> senior analyst Luke Lin explained that TSMC typically does not revise its full-year revenue forecast or capital expenditure during its first-quarter e",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-006",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Naura revenue climbs on China chip tool demand, margins tighten amid rising costs and competition",
+    "summary": "China semiconductor equipment maker Naura Technology delivered strong 2025 revenue growth on rising chip tool demand and domestic substitution, but weaker margins and intensifying competition signal a",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-007",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Global wafer foundry industry and status, 2026: AI-driven growth and fierce competition",
+    "summary": "Global wafer foundry revenue in 2026 is estimated to grow 23.5% year-over-year, expected to reach US$250 billion.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-008",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "South Korea's DeepX moves DX-M1 AI chip into mass production; builds up inventory to address supply constraints",
+    "summary": "South Korean AI semiconductor startup DeepX has entered mass production and supply for its in-house neural processing unit (NPU), the DX-M1, as it seeks to scale revenue amid tightening wafer capacity",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-009",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "Coocaa Launches 75-inch Mini LED Google TV on Flipkart and Amazon; Expands Premium Viewing Experience at an Accessible Price - TheWire.in",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNb0tURVg5Wk0zTUV1Vi1reGV5Q3F4Y3doNGxlVElDXy1TUnhfdzJDZXBCWFF0azlRc0NtcVdaSGpQbHFSbm5ZY2l5SS1vQ0NoYUZZdEJyXzhQOHVwTVJQYkRFUlVSWjl0dGt1VVRaWm",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-19-006",
     "date": "2026-04-19",
     "companies": [],
@@ -8,6 +83,30 @@
     ],
     "impact": "neutral",
     "title": "Laptop OLED is the next display battle with China. Korea is winning it for now. - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DOGZqWHNvQ2JxQkdyTjk4R0FET1lkWEF3TVRUNWR6V3VQNDFBN2hULXU0dUtvTlg1UnVwSFI4SnI1SUtzbFhVQnctSDdnQXR6VmcxSDRoTQ?oc=5\" target=\"_blank\">Laptop OL",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-19-003",
+    "date": "2026-04-19",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Smartphone slump squeezes Korea’s display makers as IT OLEDs cushion blow - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBBbTc5LU1KM0xZZGRiWGgwTkZMZ1F0WWNZOFd5blVrUnNOZ21OVEZZZGRxTml2RTFDTDZERUZQOUVpUWhmMThId1VuZVZJaVpmaDZCSDhUbGFPWFotMnFqaEZIeFJSb2lueWRtTDBfWW",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-19-010",
+    "date": "2026-04-19",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Laptop OLED is next phase of display battle with China. Korea is winning it for now. - The Korea Herald",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DOGZqWHNvQ2JxQkdyTjk4R0FET1lkWEF3TVRUNWR6V3VQNDFBN2hULXU0dUtvTlg1UnVwSFI4SnI1SUtzbFhVQnctSDdnQXR6VmcxSDRoTQ?oc=5\" target=\"_blank\">Laptop OL",
     "sources": []
   },
@@ -1689,6 +1788,20 @@
     "sources": []
   },
   {
+    "id": "corning-2026-01-27-001",
+    "date": "2026-01-27",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Meta Announces Up to $6 Billion Agreement With Corning to Support US Manufacturing - meta.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQR2Y0ajV4eHhydzRrZ3EzVk0wai1hY0RKb3R5cG5nUE9BMzV4Vko0UzBFVnBzVHNvNEh4SGIySFVSS1o1TWVSOFBZRER4Vjlfem9DbWtOakVnSEZJb2xVX1JOTmlreDhUdHdtMUotbV",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-01-12-047",
     "date": "2026-01-12",
     "companies": [],
@@ -2542,6 +2655,20 @@
     "impact": "neutral",
     "title": "TCL CSOT Unveils Newest IJP OLED and FMM-OLED Technologies at CES 2024 - PR Newswire",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3NVSDhzSkQzSmY3SHpISWNVQzZlSFRjOERsMmNxTThDSjUwZ2M2QUU2QlhRdGNORFc1cEg1RFVhZ3RsT2FvanZHRzJCd3g4T28wRVg4eTdXVmh3YWI3NXRERUJkenlfaWREVjZhU0",
+    "sources": []
+  },
+  {
+    "id": "vizio-2023-09-14-004",
+    "date": "2023-09-14",
+    "companies": [
+      "vizio"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "VIZIO (VZIO) Stock: Watching Platform+ To Become Double Plus - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNeG4zWUpxbmhudkFJSTRsV3lmd0dRUXBMb0RJUmNYTkNXN1pFWFZrWkhBUDRiU25fTjkxR0wyNTZ2RHJkWTdqS0VSNHNLdkcwQUNoR0RBZ1JyaVJ2NEVNWjVnTVp4VWxQVVVsckJzVW",
     "sources": []
   },
   {
