@@ -1,5 +1,80 @@
 [
   {
+    "id": "unknown-2026-04-21-007",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AP Memory posts 112% profit surge in March, expects stronger growth momentum in 2026",
+    "summary": "Niche memory design firm AP Memory announced a 112% year-over-year increase in its self-reported March 2026 revenue to NT$814 million (approx. US$25.9 million). Pre-tax net income rose 53% to NT$457 m",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-008",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ASML's memory revenue tops logic in 1Q26, AI-fueled HBM demand surges",
+    "summary": "ASML revealed during its first quarter 2026 earnings call that revenue from memory systems has, for the first time, exceeded that of logic chips. Against a backdrop of sustained AI infrastructure inve",
+    "sources": []
+  },
+  {
+    "id": "boe-2026-04-21-009",
+    "date": "2026-04-21",
+    "companies": [
+      "boe",
+      "samsung_elec"
+    ],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "positive",
+    "title": "BOE loses momentum as Samsung Display supplies nearly 60% of iPhone panels",
+    "summary": "According to<em> The Korea Economic Daily</em>, market research firm Omdia statistics show that in the 2025 iPhone display market, Samsung Display (SDC) ranked first with a 56.8% supply share, up abou",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-010",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Electronic system design industry sustains double-digit growth in 4Q25, driven by strong SIP and services demand",
+    "summary": "<p class=\"P1\" data-start=\"91\" data-end=\"563\">The global electronic system design industry closed 2025 on a strong footing, with revenue reaching US$5.47 billion in the fourth quarter&mdash;up 10.3% ye",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-011",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Global OLED shipments to hold steady in 2026 as memory cost inflation reshapes smartphone demand",
+    "summary": "Counterpoint Research expects overall OLED panel shipments to be flat year-over-year in 2026, a shift that tightens smartphone supply, boosts demand for premium and IT applications, and signals cost-d",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-012",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "[Insight] Touch Taiwan 2026- Micro LED Optical Communications and Interactive / Transparent Display - LEDinside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE95ajJfSlp2ZWJ3WG9DdldnWk1SUldSSmRTUXRXZUpEeGgtSDNiUXdTSlBYT3JaVE9TWWd4Q0J3aXJqYTdlVHBwLVhwUFM?oc=5\" target=\"_blank\">[Insight] Touch Taiwan 2",
+    "sources": []
+  },
+  {
     "id": "lg_elec-2026-04-20-002",
     "date": "2026-04-20",
     "companies": [
@@ -72,6 +147,60 @@
     "impact": "positive",
     "title": "Coocaa Launches 75-inch Mini LED Google TV on Flipkart and Amazon; Expands Premium Viewing Experience at an Accessible Price - TheWire.in",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNb0tURVg5Wk0zTUV1Vi1reGV5Q3F4Y3doNGxlVElDXy1TUnhfdzJDZXBCWFF0azlRc0NtcVdaSGpQbHFSbm5ZY2l5SS1vQ0NoYUZZdEJyXzhQOHVwTVJQYkRFUlVSWjl0dGt1VVRaWm",
+    "sources": []
+  },
+  {
+    "id": "auo-2026-04-20-003",
+    "date": "2026-04-20",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "it_panel_demand"
+    ],
+    "impact": "positive",
+    "title": "AUO expanded its LED-backlit panels for all applications - LEDinside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCRWVRb2V4dF9SeGliZlV0cWtra3RMNFlBOXZ0SWVQb19GaFNLd2puU1JIQ0NGYWpNVmlIUGZYejBCTVc0UEllUE41ZDBDMGhJX0NKT1labHZrNDBHbW1GZWtFQ01lVUU?oc=5\" targ",
+    "sources": []
+  },
+  {
+    "id": "tcl-2026-04-20-013",
+    "date": "2026-04-20",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL 85-inch Mini LED TV price drops to $999.99 - Technobezz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPaWhYZkkwRE1aZFU5RS03NWJyVzVXeVBnUjVJR0dpMXdGTG1mdEoxVVZHZy03eUpDRGZoZ21oRFMxVlFtSGJvTjd6emFnMS0weU9oNUxwM1JHV1Bzb1FJem4zR0hOSEhRd0xjaFU4bF",
+    "sources": []
+  },
+  {
+    "id": "tcl-2026-04-20-014",
+    "date": "2026-04-20",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL enters RGB-Mini LED race with RM9L series - GadgetMatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB2SXNTTGc2WS1GNTQ1S1hqTWdJSndZRi1zU1JISnYyRXZ3Y0lCZldwdHQ0bTNFSUJZMGN0WnhQMTFzWWwyOGZXTWFwQ3N2cTlUbFd3TGtwd2hQZUNiUk1UOFVwSTMtMEIwUGFnQi03Nl",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-015",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Huawei Vision Smart Screen S7 Pro Launch Featuring Super Mini LED Technology and HarmonyOS 4.3 - Technetbook",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQYnlHcFM4UWRoQk9XeUhZU1VSdkVsdl93Z1dCaUE1OGlNNW1HM3lHTDZONU4tU2NpZXZXVTNSTTZhY19ZbmlfNDRrRXhkUmhkd1l0M05qUlM3TDdBWGF2cGVvR1VvaE16REVLcmU2Yj",
     "sources": []
   },
   {
@@ -1266,6 +1395,20 @@
     "sources": []
   },
   {
+    "id": "canon-2026-04-08-001",
+    "date": "2026-04-08",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Canon Publishes Annual Report for the Year Ended Dec. 31, 2025 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSG1SbEpySVJlQk1zTXdBQURBaFlvLWZTUTRyV1hFQWJESmdKVmtoc3YwUmw3RmFReF91NG14Y1c3SnJDbm01SXhfMm9MaXp0R3hDeGJkVllfeGd5X1dSbm1oNW5vd0lHUDJuSkt1YT",
+    "sources": []
+  },
+  {
     "id": "samsung_elec-2026-04-07-003",
     "date": "2026-04-07",
     "companies": [
@@ -1474,6 +1617,21 @@
     "impact": "neutral",
     "title": "The 5 Best Mini LED TVs of 2026 - RTINGS.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KSzk3bTNXSXBOc1FSQnVrLXhORVdhZGc5UjBRaTIwdEZvVHFZaWMxUzVoYUR5ZF9yY3BVenM2Vk5ITHdPdkRXU0lVRk9kanVsVHZ5T0E5MUJGQWM?oc=5\" target=\"_blank\">The ",
+    "sources": []
+  },
+  {
+    "id": "lg_display-2026-04-01-005",
+    "date": "2026-04-01",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display (LPL) sets April 23, 2026 Q1 earnings results call - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxONmdiUUZxMEk1MFFPWUNNMEhNWHgwcXQ3NThEbEJrTzQtVC1ZTjJxX19oa1RtX2tIU2pOa3dpS0NlLUt4bk4zZHNKc0tjRHZtOExOV1cxYUlJLXI0X3JhVHBiM240eUtmUlVPRkJOOU",
     "sources": []
   },
   {
@@ -2192,6 +2350,21 @@
     "sources": []
   },
   {
+    "id": "lg_display-2025-11-16-004",
+    "date": "2025-11-16",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "LG Display wins two CES 2026 Innovation Awards with world-first automotive display technologies - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUWJvUTBIWE00OElZa0pFTHJYNFBneWdSRW9BdUNabFN5VEk4b216X0toVTdBaHh2dGh0ZmRjWGJYTjU3NUxCTndBdXRKZnlWWlA2T0RtOUxUU1FpRXgtUlRBam5PVTdROVhqWWRRan",
+    "sources": []
+  },
+  {
     "id": "corning-2025-11-12-001",
     "date": "2025-11-12",
     "companies": [
@@ -2736,6 +2909,18 @@
     "impact": "neutral",
     "title": "OLED DDI demand ramping up - digitimes",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zR2xESFFYclQ2MUpfTGpZSE1VVmdlY3prSFZWSGVZekpiM1FJckJtNW9YSzlMR2daRlF2cHpZWjZqdEw0aTM2MmJRQnZqUmF4cmFNQTVDT19HaThTbDl3?oc=5\" target=\"_blank\"",
+    "sources": []
+  },
+  {
+    "id": "unknown-2020-03-03-002",
+    "date": "2020-03-03",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "More players entering OLED DDI market - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qeGwwWGNBaVNlaW9TSTBWbGRDNi1YdTlPOEhfenozWXNLU1Z3X2xHR3RLazl5U2l3MWRvdzdZdkJUc0lrUzNwQnE1Vy1hYi1sUXVvcXh6YXNYT1FCY2Fv?oc=5\" target=\"_blank\"",
     "sources": []
   }
 ]
