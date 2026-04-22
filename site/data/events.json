@@ -1,5 +1,140 @@
 [
   {
+    "id": "auo-2026-04-22-002",
+    "date": "2026-04-22",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AUO (AUOTY) to Release Earnings on Wednesday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQeTQ2VkVHQXRaMFF2VDVGVDVqTkRNd2Z5WndSMWxKdzNKcDJPbTJuN1g4RHQ5X2k4eGE0cGM4cjAwUFVMZW9RZnZLUGh6TzUyWm5nRlM2V0tmS21KVmRLV0JBNjJoanFTd1pUUHp6en",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-22-004",
+    "date": "2026-04-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to invest $745 mln in OLED display infrastructure - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQWnBkdE1yNWhQSGY5WGtZQnJhOHNReWhZdnZUSHdIeXd1SS1OOFRiWjhHdTV5YUhNenpzTV9ZNEVuOGx6d1E0YTBpYV9WSGxzR2pmLTMxTi1oTXhpY3VKV0ltT2Vjb1JIdVJFc18tTU",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-22-005",
+    "date": "2026-04-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to invest $745 million in OLED display infrastructure - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPcEFHcXlyQmc4czd5dDJGQTh1ZkkzSE4tNDRfQllwQ2pTbzFXQVdES1FTRm9KRDFvd2ctd3FCZVFYc1I0MndQcDZRT0RhNHR5ZExocTNKWG1YZ0ZNYXpkMU4yaU5MdFRZRWVPRnJuNn",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-22-007",
+    "date": "2026-04-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to invest $745 million in OLED display infrastructure - CNA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPMW9FaVZodXJlNVlXN2JVR0lNQkJRdzZYRDZvcFNWZS05V3JfYmZ1bjFqdkJYM1RYT1RSMTNIWUxacTIxeTFfNkJMa1VxR2tVeXZVc2FXeFZYSGNVWTg4Wjd0Y0h4RTI3eTJhbUxjWE",
+    "sources": []
+  },
+  {
+    "id": "samsung_elec-2026-04-22-010",
+    "date": "2026-04-22",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display's QD-OLED panels received wide-viewing angle performance verification from UL Solutions",
+    "summary": "<p>Samsung Display announced that its <a href=\"https://www.oled-info.com/analyzing-past-present-and-future-qd-oled-architecture\">QD-OLED panels</a> have received verification from UL Solutions for the",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-011",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "A Walk Down Memory Lane - Q2 2026: OLED History from 20, 10, and 5 Years Ago",
+    "summary": "<p>In our <a href=\"https://www.oled-info.com/walk-down-memory-lane-q1-2026-oled-history-20-10-and-5-years-ago\">OLED history article series</a>, we look back 20, 10, and 5 years ago, and revisit the hi",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-014",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Brightek posts March loss as Nantong plant ramps up in 2H26",
+    "summary": "LED packaging maker Brightek reported consolidated revenue of NT$161 million (US$5.1 million) in the first quarter of 2026, down 9.7% year on year, impacted by the transition period at its new Nantong",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-015",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Powerchip DRAM foundry price hike to boost June revenue; IPD to drive Intel demand in 2H27",
+    "summary": "Powerchip Semiconductor Manufacturing (PSMC) held an earnings call on April 21 to address developments in memory and logic foundry services, as well as its future business outlook. PSMC president Mart",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-016",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "ASM International reports 16% growth in 1Q26 revenue driven by booming AI market",
+    "summary": "ASM International reported a <a href=\"https://www.asm.com/press-releases/3278259\">high revenue in the first quarter of 2026</a>, driven by surging AI demand and its need for advanced chips. The Dutch ",
+    "sources": []
+  },
+  {
+    "id": "tcl-2026-04-22-017",
+    "date": "2026-04-22",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL 55-inch Mini LED TV drops to $449.99 on Amazon - Technobezz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1lRZzJGZTVTY29Nci1sVlBTUFJYVFRITUpHeV9zZHRoLXJBcDBoaXAtWktiaC05dEU5cS00WGJROEt5M3JmOWZyM2FOcW1WSVlfbkp3SUVCUlV1UjQxWW1nWGxWT2tSQVhTaHhjSk",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-21-007",
     "date": "2026-04-21",
     "companies": [],
@@ -72,6 +207,101 @@
     "impact": "neutral",
     "title": "[Insight] Touch Taiwan 2026- Micro LED Optical Communications and Interactive / Transparent Display - LEDinside",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE95ajJfSlp2ZWJ3WG9DdldnWk1SUldSSmRTUXRXZUpEeGgtSDNiUXdTSlBYT3JaVE9TWWd4Q0J3aXJqYTdlVHBwLVhwUFM?oc=5\" target=\"_blank\">[Insight] Touch Taiwan 2",
+    "sources": []
+  },
+  {
+    "id": "corning-2026-04-21-001",
+    "date": "2026-04-21",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "positive",
+    "title": "Corning (GLW) Price Forecast: Bull Trend Pauses Near Record High - FXEmpire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNNXpKclpHLVFZb3Y2S1JjMzg3TnNtc2duNGo2V0FEeEtRdU81UE9JRkJ1dURWQ3hrUDNXZkVHUDloWTJ3OEY0UU04bXl1Nm9xT0RQS19ySGlSSjZYM09KUFJaUGlkMWI5ckdieElqZ2",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-21-006",
+    "date": "2026-04-21",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Co Ltd expected to post earnings of 12 cents a share - Earnings Preview - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPenk4VmUtU3RaYklVQThRaC1GTldGRWJobi0zVFphYVRmN2N4TWRrX1B4Y1VZM0NaaUowcDJDWllRdS1SYnNScnZxYUh2UUY2aDJHQlNHM1RrYWdkZUNhbkVQNjB6OHRSelgzam95YX",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-013",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Researchers at the Fraunhofer IPMS developed their highest resolution OLED microdisplay to date",
+    "summary": "<p>Researchers at the Fraunhofer Institute for Photonic Microsystems IPMS developed their highest resolution OLED microdisplay, and will demonstrate it soon at SID Displayweek 2026.</p><div class=\"ali",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-018",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Xiaomi TV S Mini LED (2026) 75-inch first impressions - The Times of India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNbW9MQ1FpMVlLdEJpbmxOb253Z25sbFNRMDdBWjVpaFJhNFdtVWZhRGc4TGZsdnFlUGtrR3l1TWpXQ1ZEMld4MjdPNnp0Z3BRSFMwd0xLY1h6VXpIdDFFekdabFF2MUZXRWxKeUR6WG",
+    "sources": []
+  },
+  {
+    "id": "tcl-2026-04-21-019",
+    "date": "2026-04-21",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL 75 Class QM9K Mini LED TV drops to $1799.99 - Technobezz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNUUZYTGMxLXNMWm5JdDdxNy1pWlhfRXpRRWRyclh0ZG93dmhRN1UzZGZhWVNQMHhET2N5Qm9zd0pnUEp5MFJDY3pVM1FYQjJvOXJZb1BUNXpCSlZBWnAwM0xMeVR1QmktTkEta0lhb0",
+    "sources": []
+  },
+  {
+    "id": "tcl-2026-04-21-020",
+    "date": "2026-04-21",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL 75 Class QM6K Mini LED TV price drops to $699.99 - Technobezz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNazlzeFg0VHFQZ2VkZDhrVjFkVWRjaC0zclp2R1JlN29hZUc4NWw2UU80b1p5ejFpSWFaU21XQ3A5MjFvdVRnYzVXdnl1MVA5Zm9lYVY3NnVySXZST0dJaDFEYUdQYXBlNmZSd2RKQl",
+    "sources": []
+  },
+  {
+    "id": "samsung_elec-2026-04-21-021",
+    "date": "2026-04-21",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung QN900B 85-inch 8K Mini LED TV drops to $4366.95 - Technobezz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPMFZ2a1Fya3BxM3o5Y2ZRenFxdjJ0Q0ZHc1pRWmdDRGFQcUFFMXBCU2dyUFc3V1puc1ZUUFpkTDdXWl83aUhrNzZtOUNPbEU5MmwyWFZveFBzQWtWUFFpRGFreWtfOHgwaHpTcEZUeT",
     "sources": []
   },
   {
@@ -1931,6 +2161,22 @@
     "sources": []
   },
   {
+    "id": "lg_elec-2026-01-28-008",
+    "date": "2026-01-28",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Co Ltd (LPL) Q4 2025 Earnings Call Highlights: Navigating Challenges with OLED ... - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBGempjREw0WGZreklaRjlRSzhCbERvVEFrRmhQUUNFYXd4cnAwS3lvaWwwVzR4QWI0Q2dmSDhKVk8ybGpPak4xQXZNd1NLbWRSWEM1all4NVJ1MUZkazVlNW95Q0pqUlpqSVdGdV9kQk",
+    "sources": []
+  },
+  {
     "id": "auo-2026-01-27-029",
     "date": "2026-01-27",
     "companies": [
@@ -2257,6 +2503,20 @@
     "impact": "neutral",
     "title": "LG 136-Inch MAGNIT Active Micro LED TV Promises True Cinematic Immersion - audioholics.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9BRW13aHM0ZXlkdy1acXAyWmtNRzlnNDdqOGhTMDBTbkpkTC1kcVB6eUJVU3UwN1hxcXFoQjVpbVFGalpDeEZ5UUV3UHZFQzI2WldzbzBjRk8teEpYbEU4RHduY29mZk5xS2hF?oc=5\"",
+    "sources": []
+  },
+  {
+    "id": "boe-2025-11-27-009",
+    "date": "2025-11-27",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Sunic's deposition tools clear top rating, enabling BOE's 8.6-gen OLED expansion - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOSHZ0d3lNLUI3SkRyUV9QcnFLZ0hrOWJVVlFXT1hMcjRWeFQ4X0J6VloySFllaVF6ZnMwbEdpd0NiNGxBUUtTdUY2SWFUOE1jTHVQVGVNdS1qNUJ3bUxOWXl6S1BUdnF3LUtyOTRMWF",
     "sources": []
   },
   {
@@ -2669,6 +2929,21 @@
     "impact": "neutral",
     "title": "BOE Poised to Become Apple’s Top MacBook Display Panel Supplier in 2025, Says Omdia - Business Wire",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRTVKTjQ4dGt2UVN2NFNfdnphRVhDTU9kQU1LQzhndnQ4OERXSTRna1pRNjc2bENweHZJSGZYZERWVUg2MVhRcDE5M3loWHh4RGFDemVWOE5lR1FTTGUtNk1yUFFxZjB1dm03UG04dG",
+    "sources": []
+  },
+  {
+    "id": "auo-2025-06-10-003",
+    "date": "2025-06-10",
+    "companies": [
+      "auo",
+      "innolux"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tariffs drive 2Q25 panel market volatility: Innolux and AUO May revenues show slight fluctuations - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxObmpIVzlvdThKbzI3c3BXRW5RS0hySFJtaFFaOW5QU2hZNm84S3I0NmJrS196bHZaMllVbG5SY3VXQUNNRzFXZU5hblo3QXFmMzNCdkVfMnpFYmJKbThaaVUyQVFELXJWcGp6QTRSeF",
     "sources": []
   },
   {
