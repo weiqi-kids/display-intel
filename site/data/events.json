@@ -1,5 +1,254 @@
 [
   {
+    "id": "canon-2026-04-23-001",
+    "date": "2026-04-23",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Canon: Q1 Earnings Snapshot - kens5.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2MxcHdTLW0zeVZScnVtVGRqLUoweFZSVjROUE1haVFkbkNnRUVjSVFQaDAzNUV0elA3NktYR3hSWEp6XzBCdThvZ2p0ai1hczRfNGlBNGVLSFE4Uk05eWp0aEVIdjBWSzM3a1pfaH",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-23-003",
+    "date": "2026-04-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "LG Display Q1 profit triples on OLED growth - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wd3RubjljSXlFNV81REFBYkIxc0dxSzFNMzFyUEg3TG5pUkM2T0hnaGVlQVJheTY2OG9jRWVvODF4LUd4TkQ4TDVJRFh4VkM5MUxfNEN1MA?oc=5\" target=\"_blank\">LG Displa",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-23-004",
+    "date": "2026-04-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "LG Display: Revenue fell but OLED-driven profitability improved; major OLED investment and restructuring underway - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxQU2pNUUh4MWJHY2thYXpIamRkRG5MekRJeTM3ZE1XdFBldzl0djVLVG15dU5hY205VWRuNXdPWlJndjlQTEE3S2ZEZlV1RW5tZ1RMeDd0UG5na2kwSWxFcUM2X3d3ZHhVeU4yY0EzNE",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-23-005",
+    "date": "2026-04-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display approves KRW1.1 trillion OLED infrastructure investment - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPOGROMjVoY1RWQmdvckl2d1BKWmpRdUNkbE92WFNvUk5UMDlJUFVSMDhDejF0TGhiNXRtajdGU1ZWVDFMVVFHNlhJVTNkM05ZdVlsM0pSNDNtOWt1aDMtb1lPQXBVZDllRFRHZ0Y2cl",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-23-007",
+    "date": "2026-04-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to invest $745 million in OLED display infrastructure - WHTC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnczSHdLaTNGZUxFSnBleTFlR3Y3YVBNTHdwdXhSdFdNX2NDWU45SVQwd3dsRXRia1BrVVVBOGd6TVV2WVF0NHBIUmR4cjBZblU2RDAtZWNQR0std1dOQnhZb2llWTltRFhiSHZhV3",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-23-008",
+    "date": "2026-04-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "LG Display Q1 2026 slides: OLED hits 60% of revenue amid decline By Investing.com - Investing.com South Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzZ0TGV0U0VoWXZqTXhyNXVSckZVSnVSVUgyVkJ2YzAzWGowaXBVVjQyQlMxRjZrRmY3ZEx1eFBiXy1NS1dodlc1Q2ZBQVJ3d3FqUHBZQWRROVpXeThKTmdfZ2o0enFSSW1zbTQ0cn",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-23-010",
+    "date": "2026-04-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Q1 profit jumps 338% despite revenue dip - Tech in Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQSnpOVUVJckVQY1loYnh4SjRydTBPcnpQd3BQR2RuYVZLN0ptSm1ORmZvZFhTWmNMelZTLUhnd0VwczlQdHpIU21UZEk2UnBUbzhiZHMyZk9Sbl9JdGtaUEVRdGstRG0yWXQtYWdGTT",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-23-011",
+    "date": "2026-04-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "(LEAD) LG Display's Q1 operating profit jumps over fourfold on OLED sales - Yonhap News Agency",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fejhkb2RlckNURWZ1emVGLVdLd3JyMkgxVEtUemM5NVU4QkItaUpHbVA4TExUZnRQWm5hcmdEUXExVnYtdDgwM2pTRUhkRWI1YmhwOFBoRnpsQQ?oc=5\" target=\"_blank\">(LEAD",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-23-012",
+    "date": "2026-04-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display extends profit streak as OLED strategy lifts Q1 results - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE05RVV0cWV4VGRTajRtUG05RmZSbGEyX0FkMU5WYTR5bFdMNk02Z1RWbTY5MU9EcU9wNDdCSUhFOUItY19hTlZmQTltWE5SUjIyZUdNY3BvQVo0V3RKN3plcDFsOGpZS01Qbl9OaVVNT2",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-23-013",
+    "date": "2026-04-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Premium Strategy Pays Off as Q1 Operating Profit Quadruples - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNNzRuV1BpSkdHenJZbmxySTFFZFpzc3BldllTWHFPNlZkVlN3cThNUWk4d0hNelZWZVBOZ0lKRlVjaXRsc2pyY2ExVEtQQ2xCNkxndmRaaXdhVTVqajhKYWFZUUZqQmJVQVktUFdPdT",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-23-017",
+    "date": "2026-04-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Breaking News: LG Display Q1 Operating Profit Jumps 338% to 146.7 Billion Won - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPSWw1U2JvaUdqQ3VwTzhXelhUSm04QU51U2tyU1JJbUkxVm5MbUoxUENBU0s5c2JlU3BGNHVCOTdSUG02NjMwUmdjSjNSbnRBMkpVQ2JVT1ZMWldDS1BPRzZDVjQxMUV4eXJQWnNGWm",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-022",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Financial outlook for top 4 CSPs: accelerating cloud revenues and record capex in 2026",
+    "summary": "Cloud business revenue enters a critical moment of accelerated growth; the top-4 CSPs revise their 2026 capex upwards to US$660 billion.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-023",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Machvision targets 70% high-end equipment share, eyes record 2026 revenue",
+    "summary": "Machvision's launch of advanced inspection tools for semiconductors and high-end printed circuit boards carries significant implications for global electronics supply chains, promising higher test thr",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-23-024",
+    "date": "2026-04-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display approves KRW1.1 trillion OLED infrastructure investment",
+    "summary": "LG Display approved an investment of KRW1.1 trillion (approx. US$740 million) to build OLED technology infrastructure. The move, running from April 22, 2026, to June 30, 2028, could affect global disp",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-025",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "it_panel_demand",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parade offsets weak PC demand with TTED, high-speed, and automotive growth",
+    "summary": "Parade Technologies' first-quarter 2026 results and revised outlook carry broader supply-chain and demand implications for global PC and electronics markets. Memory shortages and price hikes are depre",
+    "sources": []
+  },
+  {
+    "id": "tcl-2026-04-23-026",
+    "date": "2026-04-23",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "[News] TCL Turns Up the Color, Expanding its Groundbreaking SQD-Mini LED Lineup - LEDinside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE42d29LellualBDdXNIUXEyS2FZMzE2cHd1S2JqbC14WUFpVjVvUnVfUHlpWU1xLUM2aGFoZEVrTVNNaDFEZE5MeDBpNzhNLWxmbEFrS25iamM3LWZEZ1RITA?oc=5\" target=\"_blan",
+    "sources": []
+  },
+  {
+    "id": "tcl-2026-04-23-029",
+    "date": "2026-04-23",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL 98 Class QM6K Mini LED TV now available for $1499.99 - Technobezz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPTXkxQ21jejJ1OUg1Nk9zZExhVXFjMzl6YWEteWU4Yl9ncWFUWHl4bW9VSkgwTzVwQjcxZWRmMGRBT0N6cE9ES0V4X0NuZldnWERZaEtQNVlvQjU0Z1JmSjQ0UE44V0F0TlF3VmxnNE",
+    "sources": []
+  },
+  {
     "id": "auo-2026-04-22-002",
     "date": "2026-04-22",
     "companies": [
@@ -132,6 +381,150 @@
     "impact": "neutral",
     "title": "TCL 55-inch Mini LED TV drops to $449.99 on Amazon - Technobezz",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1lRZzJGZTVTY29Nci1sVlBTUFJYVFRITUpHeV9zZHRoLXJBcDBoaXAtWktiaC05dEU5cS00WGJROEt5M3JmOWZyM2FOcW1WSVlfbkp3SUVCUlV1UjQxWW1nWGxWT2tSQVhTaHhjSk",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-22-006",
+    "date": "2026-04-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display announces a plan to invest $745 million in building new OLED infrastructure - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUlzVGRlbXNZZURfTENrQk5GN2tSSDJwUHZDSG1FX1dzZ1YzRzRvdklUclZURGJDOTFRUUIzZG1qdjVQNTB5ZExxNHNCc2JNdDRuTVhvRTBhV2lNSlVFSkI4NVNOVDk1Z2tJRXhQN3",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-22-009",
+    "date": "2026-04-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to Invest 1.1 Trillion Won in Sixth-Generation OLED Line Expansion - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2cjVzMllYUVlONWpDLXB4dExDekFWSExQZDN0Qk8tajkxNkduN0ZDZ3p6cUtqcm5XRXJKWGNYSXplX05NTno0UktoTkE1UHprdld0SF9XUWYwOHNQdFB6amVkd3k?oc=5\" target=\"",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-22-014",
+    "date": "2026-04-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LPL (LG Display Co Ltd AMERICAN DEPOSITORY SHARES) climbs 4.5 percent despite sharp Q4 2025 earnings miss against analyst forecasts. - Surprise Factor - Xã Thanh Hà",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxOal9mbGsyMVlSRkI5SEdMR2xVclZxNXdVZ1Y1TVg0bWNMNTdCVjctek53VFpSM1diVTZURk8zU2sxWkVhNVRDbXotMm1qZUozUm5HMFBSQ0JGS0NfSXZiQzlHNHFQT0JjUGpWSk5iOU",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-22-015",
+    "date": "2026-04-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Commits KRW 1.1 Trillion to OLED Infrastructure Upgrade - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNZzZnem9RTXdzYzJWSU42cUgtUVJRcC02YWtjQjFLcXhhRVIyTjBfX3U0MFFIc1Ywb2w2Z2pScTFCbzhmMVZ0ei1Ial9Dc09KM0ZHM29DSWsxeWloMHVUTEF6WndoYldPdGM0ZnQ5bl",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-22-016",
+    "date": "2026-04-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to invest $745 mln in OLED display infrastructure - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1FEelM0ejlXbFRqallNVm1BeGVaRUdvc2JYV1BudjVvMzk2TXNQUFFreEdWdnZOT0hVSUMwVm1FV1N6OUw5Q2dkUTloZE1SODU1VU1yU2lpS0FteUdFMmJMWjcxcmpHaUJjaDlUWH",
+    "sources": []
+  },
+  {
+    "id": "csot-2026-04-22-020",
+    "date": "2026-04-22",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "ICD to supply TCL CSOT with dry etching systems for its 8.6-Gen OLED line",
+    "summary": "<p>Korean equipment maker <a href=\"https://www.oled-info.com/icd\">ICD</a> announced that it has signed a contract with TCL CSOT, to supply it with five dry etching systems. These systems will be deplo",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-22-021",
+    "date": "2026-04-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "LG Display announces a plan to invest $745 million in building new OLED infrastructure",
+    "summary": "<p>LG Display announced a new plan to invest $745 million in its OLED production facilities, to improve ‌its ⁠technological competitiveness.</p><p><a href=\"https://www.oled-info.com/sites/default/file",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-027",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "InfoComm 2025: ReveLux Group Reveals Perform 1.56 4-in-1 Mini LED Display With Flip Chip Technology - rAVe [PUBS]",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNX3hoVWFONklaaUhaZ0JkZ3ZYM1JuRzI1YzlXdEtTRzZXbDE5dEJxd1prR1puWUp2clFhaTZaay1ZOUhNWVZKbDBpdjdVN1l5cEFHUXpKcmdITHkzdjNoZmpueDU5SFhCZU1CSjVidk",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-028",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "RGB Mini LED is everywhere in 2026 – but this major TV brand says “OLED is still better” - What Hi-Fi?",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPNmVIT3poR2RGd01iOUdlTXlDZFV1OHUyMzY1NmZTN2lYTXg4OTFjelNyTzQtcEN5b3RPdkQ5MGhHemZXNHlmZmlrUzJTQXduS0xrTXJqRnVXSHpRQkI1S1dEMEJ3T1EzTkczdjU4LW",
+    "sources": []
+  },
+  {
+    "id": "tcl-2026-04-22-030",
+    "date": "2026-04-22",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL 85-inch Mini LED TV drops to $999.99 on Amazon - Technobezz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWRQNkhjRGNyb0RGM0xZYTlCTlVLa3lyLWpKc1JpRUw1Ny0wQTZGVVNtMjM3RV9fUVpicDVyRVphXzlpWkRhejI1MDFjQUxWaFZTcUFXYlVvLW5RX0VQTW1TQmFoWG9iNUZDckFfbm",
     "sources": []
   },
   {
@@ -1665,6 +2058,20 @@
     "sources": []
   },
   {
+    "id": "himax-2026-04-07-002",
+    "date": "2026-04-07",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies, Inc. Schedules First Quarter 2026 - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxQN0duTzlnMHBMMGxqbWpyR1ZCMFBEa3NfTFYxRG05Z1N2SWw1bS0xNGI0SUhGNFFMUFNyMG0zbEVlUng0S3E3WTYzaU5nQS1kVWUyWEFpdENtbU9XZ01Lcmo4eXhUdklIVjdCNlRyVF",
+    "sources": []
+  },
+  {
     "id": "boe-2026-04-06-020",
     "date": "2026-04-06",
     "companies": [
@@ -2069,6 +2476,21 @@
     "sources": []
   },
   {
+    "id": "boe-2026-02-28-019",
+    "date": "2026-02-28",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "panel_price",
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "BOE signals sustained TV panel price gains, speeds up OLED, packaging and perovskite push - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQRUgxNWFxYXpmTjd4QXZ3SnRFOFN6TExUbjRJc29pSy1jWTRLbTd3aUlQb0s2enRQdnlKdFNSLTVmVFItbFJFZy02dTZ4OUVRcFIyOG9Odl9pU0NrVU1tZlVDYUFRanJxWFkyU1BpRi",
+    "sources": []
+  },
+  {
     "id": "himax-2026-02-25-024",
     "date": "2026-02-25",
     "companies": [
@@ -2288,6 +2710,20 @@
     "impact": "neutral",
     "title": "LG Display: world’s first 39-inch 5K2K OLED panel for video editors by Jose Antunes - ProVideo Coalition - ProVideo Coalition",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1VYd3NUUXhDdnFuR1Z3U1Y5VnJNUkVlR1VBaTIyOW4tZjgySWRfeHRDUWFrNVdoeEJRRU1IbHBfdm9DbG1hSEthYkZrWmJmYUJmaVZnTG1DTUthd0d0cDVzUzhHQ0FUMFo0YTItb3",
+    "sources": []
+  },
+  {
+    "id": "boe-2025-12-31-018",
+    "date": "2025-12-31",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "neutral",
+    "title": "BOE to lead global TV panel shipments in 2026; industry forecasts remain mixed - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPSzI2MzNYZ2Q1VWhORFJrbVJ2WWM5dXB5Q1dwUElyQTNRU1BjRWFkYy1sV0lQS2xEMzd3bFlURm56bVVRYWNnNW1rWXBpSlpLRnl6WHl4VkpnSVdhdHFJNG4zdW5NWUxwbEg4SGx5V0",
     "sources": []
   },
   {
