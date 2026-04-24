@@ -1,0 +1,201 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T09:30:11.555732Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-04-24-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Q1 Earnings Call Highlights - MarketBeat",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_display-2026-04-24-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Earnings Call Balances OLED Gains, FX Pain - TipRanks",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_display-2026-04-24-007",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Eyes First Trillion-Won Profit In Five Years - Businesskorea",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-24-017",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The OLED Marketplace now lists military-grade 4\" AMOLED displays",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_display",
+        "count": 3
+      },
+      {
+        "id": "lg_elec",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "oled_penetration",
+        "count": 2
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為LGD、LG電子相關動態：「LG Display Q1 Earnings Call Highlights - MarketBeat」。主要關注主題為法說會、OLED 滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "LG Display Q1 Earnings Call Highlights - MarketBeat（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display Earnings Call Balances OLED Gains, FX Pain - TipRanks（OLED 滲透率、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

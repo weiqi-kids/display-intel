@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-24",
+  "total_events": 4,
+  "by_company": {
+    "lg_display": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "oled_penetration": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ]
+    }
+  ]
+}
