@@ -1,5 +1,19 @@
 [
   {
+    "id": "samsung_elec-2026-04-25-010",
+    "date": "2026-04-25",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Reports suggest Apple and Samsung are developing a quad-edge-curved OLED for the iPhone 20",
+    "summary": "<p>In 2027 Apple will release its 20th iPhone model, and it is reported that the company is working with Samsung to develop a special OLED display for the new device, which may be called the iPhone 20",
+    "sources": []
+  },
+  {
     "id": "lg_display-2026-04-24-003",
     "date": "2026-04-24",
     "companies": [
@@ -55,6 +69,101 @@
     "impact": "neutral",
     "title": "The OLED Marketplace now lists military-grade 4\" AMOLED displays",
     "summary": "<p>We are happy to update that the OLED Marketplace now lists a new <a href=\"https://marketplace.oled-info.com/view/265/Vsx392-10801240Mil\">military-grade AMOLED display</a>, a 3.92\" 1080x1240 panel.<",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-24-001",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "3 Telecom Stocks Likely to Surpass Q1 Earnings Estimates - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2paMGJOell2RXdHYUVXUE90WkwxUG5UdF9oV1RHU1FSYkNkTFptWmdiYlZ1VHVHaVhtaFQ1elRBSmd0MlFsdnlpa3Fyd2RpSW1MUS1ILUtFdURwMHNwZXZ5eFI3Mzg3dFdUMzAwNj",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-24-002",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "GLW Stock Before Q1 Earnings: Is it a Smart Buy or Risky Move? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxORkdGRGxWNll5TjktZ051SFNBTlJWdUtzei0zbTVaNG51blYzZVpkV1l0dVBNTW40cGctbmJ0dzhkZFVvM2xVbFBUYWcwdGEwUjhYODg0blhnUmp3cXFtTTh2Z1NoaS1tajVFM3Bodk",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-24-005",
+    "date": "2026-04-24",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Co., Ltd. (NYSE:LPL) Q1 2026 Earnings Call Transcript - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZU9RQVJCWGRyYTRjQ3VWNUprTVh3S1Q2a19yUFh6ZzluTWhFSWlXRGRIOWtUWlZqODJMM1RfbW0xVVQyQUVaNjB4eXlVSVAtM0xIX2QyQkxLUU5GOUFsOU8xUUpqc0RwUjV4TFJHSk",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-24-007",
+    "date": "2026-04-24",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display: Mixed Q1 Results And Guidance - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXlPdWphLWxmbHFWbDV2RUNGZUtyVGo0NlY4NXNNWEx4WnhhUHI5TE5mNnh3ajBTbXhRVUNKN2diNURqdUszdWpiWmpNNXpVTjlLQzJxN0t2d3hyQzFYX0YwRVFOZEk3UW9FWjVnOD",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-24-008",
+    "date": "2026-04-24",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Q1 Earnings Call Highlights - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPVjJ0SmlxQWFSUWpSNzJtMkw0QW5iZHZFd3J1aGpIcVg1M2REbEV1d0RMOXkyN2plTG5DWUE4ZEhWUjN2QTBkNDNOZW0zZndNVlNFbXBOc3hmb19xMXZWRlE0ZGJSc3ZfUjkwenBsVE",
+    "sources": []
+  },
+  {
+    "id": "tcl-2026-04-24-011",
+    "date": "2026-04-24",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Unveils A400 Pro NXTVISION TV: A Fusion of QD-Mini LED Technology and Artistic Design - AndroidGuys",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOWVNhanRoeTFHMm10V2pYWTJNeldITUk1WnJ6TVducWxCRmJVTUhwT1V6RTZnN2lrd0pWczlBN2lPbS1WblRWRTdXdlotSndWVVFWQnJqTDdWc2ZHYzZaQXFWNEFfdE1tTXB5elMwS2",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-24-012",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "We’re running 2026’s “OLED killer” head-to-head with the best TV our editor has ever tested - What Hi-Fi?",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZU5WU0tvakJMWFFQd3hsNkFOYmhhdXliYjJpZTNqVkdYdkl2M1FlNVJpUk9kWm5FWkpZUmxSQmdKNmw1UERsbEt6QUNxb1RZaTVkdTF2R1BhSHkwRWpudnFuR0NTZTJEcFZZd3YzTV",
     "sources": []
   },
   {
@@ -515,6 +624,35 @@
     "impact": "neutral",
     "title": "TCL announces \"world's first artistic TV with QD-Mini LED\" starting from £599 in the UK with 4K 144Hz spec - PC Guide",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPUVpIeEswczF4Z2lfc002MnVzWm9MQkJOTHBFNDBJLUxNUDA0U0FNOV9fZEEtLXZpelNreWk0TWd4dWpOUlVGckI5ZHRvUzBuTndGTkozWVdkdVQ4RE50a2I5dElZOU5RUU1ZZEdVam",
+    "sources": []
+  },
+  {
+    "id": "canon-2026-04-23-003",
+    "date": "2026-04-23",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Canon Inc. Reports Earnings Results for the First Quarter Ended March 31, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM1JaZmZQNkRUejIwVERScUp1QUJJaDlUemNZckhUMlFrM1Y0Z1I0eGFsem5VYW5NTm1BUjd5Tnpzcmp4WUNkNEZ2RVFsVHVyenROLUx2LXM4aWpoTDJ3NGpMZ1M3OVk0MmpUcEliNj",
+    "sources": []
+  },
+  {
+    "id": "lg_elec-2026-04-23-006",
+    "date": "2026-04-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display shares drop 14% after quarterly results - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQYVZBVENwTG1aWUU5cGNjcjRzMF9zQmpHUnp5SU03M2xkYjFSVlNCcTZUS3p3TGlHOHI3QnFWaGltQ0hqV1pYNERnemNLYnRJTjBLT012bVVUa0UwN29iVFd5UlNoUzdHQ2Iwbklndk",
     "sources": []
   },
   {
@@ -3707,6 +3845,21 @@
     "impact": "neutral",
     "title": "TCL CSOT Showcases Advanced Commercial Display Solutions at ISE 2025 - OLED-Info",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNWmJ6Z19JSFBQcGtvVmRKeXM3UXJSR0tDSEJWWkI5Tlg2U2dOQ3ZHdGtTbWpJSjYyNEFOQjA5cHRhNkRIQk1NUHMxTkE1c2xobFl0MC1PV3I5OGx4dUg0T0dVem9IMUJXeEM1cUtaVT",
+    "sources": []
+  },
+  {
+    "id": "csot-2024-11-26-009",
+    "date": "2024-11-26",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "TCL CSOT Announces the Mass Production of Inkjet Printing OLED at DTC2024 - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tY3JTbFdaODdpSHRUYm1SRkxGcnN6blNmUk5sNV9PWk9BVEhhRGpnSGgyZ2R1cHdpazZydDhQcjZId3NwWUp4ZkhSeVlTQjl2UDBVMmpLUG5LS0d6ZE1EXw?oc=5\" target=\"_blan",
     "sources": []
   },
   {
