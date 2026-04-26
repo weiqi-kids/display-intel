@@ -150,6 +150,64 @@
     ]
   },
   {
+    "id": "lg_display-2026-04-26-009",
+    "date": "2026-04-26",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Co., Ltd. (NYSE:LPL) Short Interest Down 49.0% in April - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXNTNkRwYWlJTnVNTGxyX1RtamUtTkUtUDNTV2djM3pVWTFtMG8tMkV3ZU1SSmNVV0RMbklwUTZaSWhKUEdLMkJvWlk3dHFkQmZFUzhLT2ZKS0R0NjdOYkJ2bk1VdmxSY1ZrRUg4dW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXNTNkRwYWlJTnVNTGxyX1RtamUtTkUtUDNTV2djM3pVWTFtMG8tMkV3ZU1SSmNVV0RMbklwUTZaSWhKUEdLMkJvWlk3dHFkQmZFUzhLT2ZKS0R0NjdOYkJ2bk1VdmxSY1ZrRUg4dWZWS2p0SzI1ekl3UC14eV9vN05BZUgzdEdSakVZNzUtRXFkeThxZUNyYXVKZUxweHZEN0RFQXZCVGdVZUZfc2FxNVN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-04-26-010",
+    "date": "2026-04-26",
+    "companies": [
+      "boe",
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Display virtually wins lawsuit against Chinese rival BOE Technology - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilANBVV95cUxQZXdETzdfNVh2UEdqX3laVGhpeE53SzU3eWY2TzlQajdWYlA2b0prYkJ4b1hkUi1PUndrNURwTk5ETUlnS0VBU3hNNFdFZllVVzk4UUZhNVRfNnFPWmFZcWRyMV9nMEJJWmZEMGo2U2",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQZXdETzdfNVh2UEdqX3laVGhpeE53SzU3eWY2TzlQajdWYlA2b0prYkJ4b1hkUi1PUndrNURwTk5ETUlnS0VBU3hNNFdFZllVVzk4UUZhNVRfNnFPWmFZcWRyMV9nMEJJWmZEMGo2U2NMN3lNWm1RVENDSTU4OHJxNFFtWi0tNldBbWtfQTZVX2ZRTUFhMktEdUhVeUFTRGlMMUc3TmRScWZCT1U1R1dJT3JUUVJUZzhKdjVFZGhMV1ZvcWhGZkZfYlg2ODItQ3FfSTVZVjlvWjhXRlFiU3V3SU9Kejg0RkwtYXdONXR0VlVva3JHRUFfcHh6d0tQRWVDR1FlVWkzcUZYeFBpVHNzZEVyN0VfWkJqQlJCb1AxZkdqbHdnLVp0bVVYT2JZZGFKVmZVRzJlVmNKVnNXUm13NHY0ZjVuMF9XeENGaDRsN3R4QTdzVFJEOHRFNkdVUVI0blRaLXh0MHZRaEhoblBrUDl3RW94VXlwWXlMTlV5ZHl2WTdUdW9YM3VmZVdfM19leDJPcA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-04-26-011",
+    "date": "2026-04-26",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Mini LED LG TV crashes to its cheapest thanks to this Amazon deal - PC Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUNJZkowTm82aUhhLWtyZlptMnlZUzdxWGV5ckk4bjVVZ2tzUkJ4U09ybUdlOGx5RklZNzZvc3ZoM0doN3ZVSk9hSWFaX3NKbEtlT2xGVWgxZ2F1TGFvUTlYMnVBLWZOLXFybmc1LU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUNJZkowTm82aUhhLWtyZlptMnlZUzdxWGV5ckk4bjVVZ2tzUkJ4U09ybUdlOGx5RklZNzZvc3ZoM0doN3ZVSk9hSWFaX3NKbEtlT2xGVWgxZ2F1TGFvUTlYMnVBLWZOLXFybmc1LUtTN0lJSjVFNVdtWUdHeDFwTWtscmc2YklSLUpXelhCRTAtSmtYMlVkVUM3Z3E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-04-25-010",
     "date": "2026-04-25",
     "companies": [
@@ -513,6 +571,27 @@
       {
         "name": "canon",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lMVZsUDNaNXV2N2pMaEx3bnJITFZJN1VYV3pYX0VTUi1oWHAzMlVHWkVYMnJQc1JCZWxab1hERjJKUk9TazdZSEdGVjY5aWp6R255dzNNTW5ISVZ0S3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-04-24-018",
+    "date": "2026-04-24",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Co., Ltd. (NYSE:LPL) Q1 2026 Earnings Call Transcript - insidermonkey.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZU9RQVJCWGRyYTRjQ3VWNUprTVh3S1Q2a19yUFh6ZzluTWhFSWlXRGRIOWtUWlZqODJMM1RfbW0xVVQyQUVaNjB4eXlVSVAtM0xIX2QyQkxLUU5GOUFsOU8xUUpqc0RwUjV4TFJHSk",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZU9RQVJCWGRyYTRjQ3VWNUprTVh3S1Q2a19yUFh6ZzluTWhFSWlXRGRIOWtUWlZqODJMM1RfbW0xVVQyQUVaNjB4eXlVSVAtM0xIX2QyQkxLUU5GOUFsOU8xUUpqc0RwUjV4TFJHSkRLQWlnNmgtVm9kaHRnOWt3UW9rT3JrQ2pJdDN6VlVVNlZxTnc5SGYzbjB2WTBDTG96ZF91Zw?oc=5",
         "type": "rss"
       }
     ]
@@ -1646,6 +1725,26 @@
       {
         "name": "samsung_elec",
         "url": "https://news.samsung.com/global/samsung-expands-kitchen-portfolio-with-intelligent-performance-and-refined-design",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-04-21-016",
+    "date": "2026-04-21",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG’s Cinematic Sound OLED Display Now Listed As Korean Standard - rAVe [PUBS]",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFUydWN6bDZ3RXF3U0tEbGJtWFJpQThMNVdheVFfbTg1RjRzZE9wRzYwV2VaMmZyMlFsQlBfUExMcDdBeXd3T25KSERORDg5Y3Q3cGh3VHhHZGRIWk80YzZNc3U2TE1hT3Ria183aW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFUydWN6bDZ3RXF3U0tEbGJtWFJpQThMNVdheVFfbTg1RjRzZE9wRzYwV2VaMmZyMlFsQlBfUExMcDdBeXd3T25KSERORDg5Y3Q3cGh3VHhHZGRIWk80YzZNc3U2TE1hT3Ria183aWMxeXNqSHpQdVBZOWdUX19BVXZnMk95X25SV0EzT9IBkgFBVV95cUxNYkNYZGxocW1tcjJGVFd5UUlvd2Jhb3l5VjNfNTc2cFVGbDZ2VjJ5U3R3a2p4dVZ4ZmVVaENmeFZEaUMwQW9tQzhLLWFRV1dXTE5fSzFGbDlUbmdlQURPSUszTjlvdkFubGRYaEVvU2MzWjlkMkowS2V3R3BGcFFMNGxOd2EyanpjcHVqV1hiRC0tUQ?oc=5",
         "type": "rss"
       }
     ]

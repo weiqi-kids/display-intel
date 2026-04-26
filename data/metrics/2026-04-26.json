@@ -1,14 +1,26 @@
 {
   "date": "2026-04-26",
-  "total_events": 8,
+  "total_events": 11,
   "by_company": {
     "jdi": {
       "count": 2,
       "sentiment_avg": 0.0
     },
     "samsung_elec": {
-      "count": 4,
-      "sentiment_avg": -0.12
+      "count": 5,
+      "sentiment_avg": -0.1
+    },
+    "lg_display": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "boe": {
+      "count": 1,
+      "sentiment_avg": 0.0
     }
   },
   "by_topic": {
@@ -19,6 +31,10 @@
     "earnings": {
       "count": 3,
       "sentiment_avg": 0.33
+    },
+    "mini_led": {
+      "count": 1,
+      "sentiment_avg": 0.0
     }
   },
   "baselines_used": {

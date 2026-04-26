@@ -1,77 +1,77 @@
 {
   "corning": {
-    "earliest": "2021-11-12",
+    "earliest": "2021-08-16",
     "latest": "2026-04-24",
-    "count": 1115
+    "count": 1178
   },
   "applied_materials": {
-    "earliest": "2021-11-12",
+    "earliest": "2021-08-16",
     "latest": "2026-04-24",
-    "count": 1115
+    "count": 1178
   },
   "canon": {
-    "earliest": "2021-11-17",
+    "earliest": "2021-08-19",
     "latest": "2026-04-24",
-    "count": 1085
+    "count": 1146
   },
   "novatek": {
-    "earliest": "2021-11-16",
+    "earliest": "2021-08-18",
     "latest": "2026-04-24",
-    "count": 1073
+    "count": 1134
   },
   "himax": {
-    "earliest": "2021-11-12",
+    "earliest": "2021-08-16",
     "latest": "2026-04-24",
-    "count": 1115
+    "count": 1178
   },
   "auo": {
-    "earliest": "2021-11-16",
+    "earliest": "2021-08-18",
     "latest": "2026-04-24",
-    "count": 1073
+    "count": 1134
   },
   "innolux": {
-    "earliest": "2021-11-16",
+    "earliest": "2021-08-18",
     "latest": "2026-04-24",
-    "count": 1073
+    "count": 1134
   },
   "lg_display": {
-    "earliest": "2021-11-12",
+    "earliest": "2021-08-17",
     "latest": "2026-04-24",
-    "count": 1086
+    "count": 1144
   },
   "boe": {
-    "earliest": "2021-11-12",
+    "earliest": "2021-08-16",
     "latest": "2026-04-24",
-    "count": 1078
+    "count": 1135
   },
   "jdi": {
-    "earliest": "2021-11-17",
+    "earliest": "2021-08-19",
     "latest": "2026-04-24",
-    "count": 1085
+    "count": 1146
   },
   "samsung_elec": {
-    "earliest": "2021-11-12",
+    "earliest": "2021-08-17",
     "latest": "2026-04-24",
-    "count": 1086
+    "count": 1144
   },
   "lg_elec": {
-    "earliest": "2021-11-12",
+    "earliest": "2021-08-17",
     "latest": "2026-04-24",
-    "count": 1086
+    "count": 1144
   },
   "sony": {
-    "earliest": "2021-11-17",
+    "earliest": "2021-08-19",
     "latest": "2026-04-24",
-    "count": 1085
+    "count": 1146
   },
   "tcl": {
-    "earliest": "2021-11-12",
+    "earliest": "2021-08-16",
     "latest": "2026-04-24",
-    "count": 1078
+    "count": 1135
   },
   "etf_soxx": {
-    "earliest": "2022-11-08",
+    "earliest": "2022-08-10",
     "latest": "2026-04-24",
-    "count": 867
+    "count": 930
   }
 }

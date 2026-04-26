@@ -4,7 +4,7 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T09:00:47.869804Z",
+  "generated_at": "2026-04-26T14:11:50.450718Z",
   "highlights": [
     {
       "rank": 1,
@@ -24,10 +24,10 @@
       "sentiment_this_week": 0.12
     },
     "mini_led": {
-      "this_week": 5,
+      "this_week": 6,
       "last_week": 7,
-      "week_over_week_change": "-29%",
-      "sentiment_this_week": 0.2
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.17
     },
     "panel_price": {
       "this_week": 1,
@@ -56,22 +56,22 @@
   },
   "company_7d_summary": {
     "lg_elec": {
-      "event_count": 18,
+      "event_count": 20,
       "sentiment_avg": 0.0,
       "rank": 1
     },
     "lg_display": {
-      "event_count": 18,
+      "event_count": 19,
       "sentiment_avg": 0.0,
       "rank": 2
     },
     "boe": {
-      "event_count": 1,
-      "sentiment_avg": 0.5,
-      "rank": 6
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 5
     },
     "samsung_elec": {
-      "event_count": 7,
+      "event_count": 8,
       "sentiment_avg": 0.0,
       "rank": 3
     },
@@ -93,15 +93,15 @@
     "jdi": {
       "event_count": 2,
       "sentiment_avg": 0.0,
-      "rank": 5
+      "rank": 6
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 52,
+        "this": 55,
         "last": 33,
-        "change_pct": 57.6
+        "change_pct": 66.7
       }
     }
   },
@@ -138,24 +138,24 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 8,
+      "event_count": 11,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-20 ~ 2026-04-26）共 52 則事件，重點為「LG Display (LPL) to Release Quarterly Earnings ...」。事件量較上週增加 58%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-20 ~ 2026-04-26）共 55 則事件，重點為「LG Display (LPL) to Release Quarterly Earnings ...」。事件量較上週增加 67%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "LG電子",
-        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
       },
       {
         "company": "LGD",
-        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
       },
       {
         "company": "三星電子",
-        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
       }
     ]
   },

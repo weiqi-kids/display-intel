@@ -1,9 +1,65 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T09:00:47.805514Z",
+  "generated_at": "2026-04-26T14:11:50.365221Z",
   "top_events": [
     {
       "rank": 1,
+      "event_id": "lg_display-2026-04-26-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Co., Ltd. (NYSE:LPL) Short Interest Down 49.0% in April - MarketBeat",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWXNTNkRwYWlJTnVNTGxyX1RtamUtTkUtUDNTV2djM3pVWTFtMG8tMkV3ZU1SSmNVV0RMbklwUTZaSWhKUEdLMkJvWlk3dHFkQmZFUzhLT2ZKS0R0NjdOYkJ2bk1VdmxSY1ZrRUg4dWZWS2p0SzI1ekl3UC14eV9vN05BZUgzdEdSakVZNzUtRXFkeThxZUNyYXVKZUxweHZEN0RFQXZCVGdVZUZfc2FxNVN3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "boe-2026-04-26-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung Display virtually wins lawsuit against Chinese rival BOE Technology - MSN",
+      "companies": [
+        "boe",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "boe"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQZXdETzdfNVh2UEdqX3laVGhpeE53SzU3eWY2TzlQajdWYlA2b0prYkJ4b1hkUi1PUndrNURwTk5ETUlnS0VBU3hNNFdFZllVVzk4UUZhNVRfNnFPWmFZcWRyMV9nMEJJWmZEMGo2U2NMN3lNWm1RVENDSTU4OHJxNFFtWi0tNldBbWtfQTZVX2ZRTUFhMktEdUhVeUFTRGlMMUc3TmRScWZCT1U1R1dJT3JUUVJUZzhKdjVFZGhMV1ZvcWhGZkZfYlg2ODItQ3FfSTVZVjlvWjhXRlFiU3V3SU9Kejg0RkwtYXdONXR0VlVva3JHRUFfcHh6d0tQRWVDR1FlVWkzcUZYeFBpVHNzZEVyN0VfWkJqQlJCb1AxZkdqbHdnLVp0bVVYT2JZZGFKVmZVRzJlVmNKVnNXUm13NHY0ZjVuMF9XeENGaDRsN3R4QTdzVFJEOHRFNkdVUVI0blRaLXh0MHZRaEhoblBrUDl3RW94VXlwWXlMTlV5ZHl2WTdUdW9YM3VmZVdfM19leDJPcA?oc=5"
+    },
+    {
+      "rank": 3,
       "event_id": "samsung_elec-2026-04-26-003",
       "importance_score": 0.75,
       "importance_reasons": [
@@ -27,7 +83,7 @@
       "source_url": "https://www.digitimes.com/news/a20260424PD230/samsung-harman-revenue-adas.html"
     },
     {
-      "rank": 2,
+      "rank": 4,
       "event_id": "unknown-2026-04-26-005",
       "importance_score": 0.75,
       "importance_reasons": [
@@ -49,7 +105,7 @@
       "source_url": "https://www.digitimes.com/news/a20260424VL218/asml-management-tsmc-high-na-outlook.html"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "event_id": "unknown-2026-04-26-007",
       "importance_score": 0.75,
       "importance_reasons": [
@@ -69,48 +125,6 @@
         "score": 0.5
       },
       "source_url": "https://www.digitimes.com/news/a20260423PD220/demand-bizlink-cpo-data-hardware.html"
-    },
-    {
-      "rank": 4,
-      "event_id": "jdi-2026-04-26-001",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "JDI accelerates exit from LTPS, reshaping automotive display panel landscape - digitimes",
-      "companies": [
-        "jdi"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "automotive_display"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjdiTTdjbEdkVVNKRDY0RzhVZEkyempJWmtma2tiZGxDT1ljSGZ1LWRBMTlIYS1BMnNhM2RZRzE5OVp5dzBSOWVSWEVJY0pON05WekQzTzJMRF9jOWF2ZWRIejhMTF9lMGttSjRqMER5VGNXXzUxTEpRbDVidkh4YnNLUEZ5OWNtdHVvaE13WndHbzFfS3gyeDQycw?oc=5"
-    },
-    {
-      "rank": 5,
-      "event_id": "samsung_elec-2026-04-26-002",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Samsung Galaxy’s Ocean Mode and Coral Reef Initiative Receive International Recognition and Awards",
-      "companies": [
-        "samsung_elec"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://news.samsung.com/global/samsung-galaxys-ocean-mode-and-coral-reef-initiative-receive-international-recognition-and-awards"
     }
   ],
   "anomalies": [],
@@ -134,24 +148,46 @@
       "consecutive_weeks_rising": 0,
       "sentiment_today": 0.33,
       "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 8,
+    "total_events": 11,
     "sentiment_distribution": {
       "positive": 2,
-      "neutral": 5,
+      "neutral": 8,
       "negative": 1
     },
     "top_companies": [
       {
         "id": "samsung_elec",
-        "count": 4
+        "count": 5
       },
       {
         "id": "jdi",
         "count": 2
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
       }
     ],
     "top_topics": [
@@ -162,18 +198,22 @@
       {
         "id": "automotive_display",
         "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 1
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 380,
-    "dup_title": 136,
-    "too_old": 180,
-    "gate1_blocked": 36,
-    "gate2_blocked": 24,
-    "passed": 4,
-    "pass_rate": "1.6%",
-    "gate2_block_rate": "9.8%",
+    "total_raw": 760,
+    "dup_title": 271,
+    "too_old": 360,
+    "gate1_blocked": 70,
+    "gate2_blocked": 50,
+    "passed": 9,
+    "pass_rate": "1.8%",
+    "gate2_block_rate": "10.2%",
     "gate2_samples": [
       "Corning Incorporated Just Opened a Financing Door After Its AI Stock Surge - TechStock²",
       "Corning Incorporated (NYSE: GLW) registers debt, warrants and equity on shelf - Stock Titan",
@@ -184,15 +224,15 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 8 則事件，焦點為三星電子、JDI相關動態：「Harman hits KRW15.78 trillion in revenue 10 years after S...」。整體情緒偏正面，市場信心回溫。",
+    "summary": "今日共 11 則事件，焦點為三星電子、JDI、LG電子相關動態：「LG Display Co., Ltd. (NYSE:LPL) Short Interest Down 49.0%...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
-        "text": "Harman hits KRW15.78 trillion in revenue 10 years after Samsung acquisition（法說會）",
-        "level": "yellow"
+        "text": "LG Display Co., Ltd. (NYSE:LPL) Short Interest Down 49.0% in April - MarketBeat",
+        "level": "red"
       },
       {
-        "text": "ASML cuts management layers due to restructuring; TSMC stance affects High-NA...（法說會）",
-        "level": "yellow"
+        "text": "Samsung Display virtually wins lawsuit against Chinese rival BOE Technology -...",
+        "level": "red"
       }
     ]
   },

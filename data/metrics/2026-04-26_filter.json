@@ -1,11 +1,11 @@
 {
-  "total_raw": 380,
-  "dup_title": 136,
+  "total_raw": 760,
+  "dup_title": 271,
   "no_date": 0,
-  "too_old": 180,
-  "gate1_fail": 36,
-  "gate2_fail": 24,
-  "passed": 4,
+  "too_old": 360,
+  "gate1_fail": 70,
+  "gate2_fail": 50,
+  "passed": 9,
   "gate2_samples": [
     "Corning Incorporated Just Opened a Financing Door After Its AI Stock Surge - TechStock²",
     "Corning Incorporated (NYSE: GLW) registers debt, warrants and equity on shelf - Stock Titan",
