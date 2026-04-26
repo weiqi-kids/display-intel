@@ -25,6 +25,24 @@
     "companies": [
       "samsung_elec"
     ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Galaxy’s Ocean Mode and Coral Reef Initiative Receive International Recognition and Awards",
+    "summary": "Samsung Electronics today announced that its “Coral in Focus” initiative, powered by Ocean Mode, an advanced camera feature on the newer Galaxy mobile phones, has received multiple awards for its cont",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-galaxys-ocean-mode-and-coral-reef-initiative-receive-international-recognition-and-awards",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-04-26-003",
+    "date": "2026-04-26",
+    "companies": [
+      "samsung_elec"
+    ],
     "topics": [
       "earnings"
     ],
@@ -40,7 +58,25 @@
     ]
   },
   {
-    "id": "unknown-2026-04-26-003",
+    "id": "samsung_elec-2026-04-26-004",
+    "date": "2026-04-26",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Samsung, Kingston reportedly lift SSD prices by over 10% as supply tightens",
+    "summary": "<p class=\"P1\" data-start=\"1831\" data-end=\"2089\">Samsung Electronics and Kingston Technology have reportedly notified distributors of price increases of more than 10% across their solid-state drive (SS",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260424VL217/samsung-kingston-ssd-price-inventory.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-005",
     "date": "2026-04-26",
     "companies": [],
     "topics": [
@@ -58,7 +94,7 @@
     ]
   },
   {
-    "id": "jdi-2026-04-26-004",
+    "id": "jdi-2026-04-26-006",
     "date": "2026-04-26",
     "companies": [
       "jdi"
@@ -73,6 +109,42 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260423PD214/jdi-ltps-panel-automotive-automotive-display.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-007",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "BizLink expands optical interconnect push, sees uncertain CPO ramp timing",
+    "summary": "<p class=\"P1\" data-start=\"1015\" data-end=\"1517\">The artificial intelligence boom continues to drive demand for related hardware, particularly as server power delivery and high-speed data transmission ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260423PD220/demand-bizlink-cpo-data-hardware.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-04-26-008",
+    "date": "2026-04-26",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung bets its HBM leverage can hold Nvidia's LPU orders &mdash; but TSMC is pushing back",
+    "summary": "The AI era has officially shifted from training to inference and agent-centric computing, prompting Nvidia's strategic acquisition of Groq to integrate LPUs into its own platform. This move not only e",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260423PD221/tsmc-samsung-nvidia-2026-ceo.html",
         "type": "rss"
       }
     ]
@@ -162,6 +234,24 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/summer-sprout-and-juhua-printing-demonstrate-high-performance-spin-coated-psf",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-04-25-006",
+    "date": "2026-04-25",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "MFS Technology Receives BOE Technology 2021 Quality Award - I-Connect007",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ1g0T2ZoZEg4T2lvNGFpS1BTLXdOZUJGSnpUel9hTWptWkZMd0JEM1FTWDBkcWlJWDYyaWdQLVJSU21XX0tCcWZKVk9Ca0RRS0JyWGJ2QktId3V4WjdYSmt2bTV5T2pxWi1OclBQSF",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ1g0T2ZoZEg4T2lvNGFpS1BTLXdOZUJGSnpUel9hTWptWkZMd0JEM1FTWDBkcWlJWDYyaWdQLVJSU21XX0tCcWZKVk9Ca0RRS0JyWGJ2QktId3V4WjdYSmt2bTV5T2pxWi1OclBQSFBjS3JTdmxhRHBtVmhPb2Q3eVNBbWdpcjJIN0RaZWI5T2lYY1FJdUdJcjN5dVp1UXBCSGZyeEQ2c21uUC16d0xsLXJQNA?oc=5",
         "type": "rss"
       }
     ]
@@ -318,6 +408,78 @@
     "title": "We’re running 2026’s “OLED killer” head-to-head with the best TV our editor has ever tested - What Hi-Fi?",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZU5WU0tvakJMWFFQd3hsNkFOYmhhdXliYjJpZTNqVkdYdkl2M1FlNVJpUk9kWm5FWkpZUmxSQmdKNmw1UERsbEt6QUNxb1RZaTVkdTF2R1BhSHkwRWpudnFuR0NTZTJEcFZZd3YzTV",
     "sources": []
+  },
+  {
+    "id": "himax-2026-04-24-012",
+    "date": "2026-04-24",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies (NASDAQ:HIMX) Trading 6.7% Higher - Should You Buy? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPaEFONk93cDh3RnFpa0JPOFpBSTlxNHB5ODV4VFFmSGNLS1JQOHVsZGJVS0FMdXpTYV9qdExhVnlzbFRiU1NnOHo2eDlkeDBqTUpQQm9fazhBQ0JVcnZNNTJHRE5XTFVod1lsSjhWS0",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaEFONk93cDh3RnFpa0JPOFpBSTlxNHB5ODV4VFFmSGNLS1JQOHVsZGJVS0FMdXpTYV9qdExhVnlzbFRiU1NnOHo2eDlkeDBqTUpQQm9fazhBQ0JVcnZNNTJHRE5XTFVod1lsSjhWS0x2Zi1yMlJRVnB6XzZUUEEySUhzalNRWHB5bmstWFpKeE5uUm1sX3dPdnFwUWhrbHgwcWdaVVlmLTRSbl9kVGpHVDRjaUhNVk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-04-24-013",
+    "date": "2026-04-24",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "3 lesser-known LG TV settings you'll be glad you changed - Pocket-lint",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2tFZzZpVHp6SmxkS3BqTUNIWEt3Mm1EclVhT0JwdTE0djRYekZMdHA3QWhyamtEMEJvSk9TVVhQNkFkempoQ0ZtNzNyWEE2c21wRHY3X0hkZ25NQzlUWlM3SDR2TW9xUF9HbjJUOE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2tFZzZpVHp6SmxkS3BqTUNIWEt3Mm1EclVhT0JwdTE0djRYekZMdHA3QWhyamtEMEJvSk9TVVhQNkFkempoQ0ZtNzNyWEE2c21wRHY3X0hkZ25NQzlUWlM3SDR2TW9xUF9HbjJUOEY0aFJYZGJUOFBiN0lqX3NtOTljM3RCVjFTc2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-04-24-014",
+    "date": "2026-04-24",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology To Buy Back Company B-Shares - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSnlsM3h2cFFEMnlBdTMzc2N3Y0dCaGd2Mm02UnJaQUlYRlM5ZVpyQS1fRmxfMWVNcmF2eG5pdlZtR0VsTmM3eUlRZHVWTHl2b1p2M1hXOEdLYnBlVHdoT2NhbFQwc3F4X18ycmNFVE",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSnlsM3h2cFFEMnlBdTMzc2N3Y0dCaGd2Mm02UnJaQUlYRlM5ZVpyQS1fRmxfMWVNcmF2eG5pdlZtR0VsTmM3eUlRZHVWTHl2b1p2M1hXOEdLYnBlVHdoT2NhbFQwc3F4X18ycmNFVE1iQ21MOE41Z2NRZl91OVJWbHo5SE5FX21OQ0tvVlFkNG9DUGNHb2dqcG1vemY4N0J3UGFJQnZuWUdISmlQajU2XzdVNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-04-24-015",
+    "date": "2026-04-24",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[Photo] Inside Samsung’s ‘Design Is an Act of Love’ Exhibition at Milan Design Week 2026",
+    "summary": "From April 20 to 26 at Milan Design Week 2026 in Milan, Italy, Samsung Electronics is hosting “Design is an Act of Love,” an exhibition exploring the human side of technology. Presented as an open lab",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/photo-inside-samsungs-design-is-an-act-of-love-exhibition-at-milan-design-week-2026",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "canon-2026-04-23-001",
@@ -809,6 +971,60 @@
     "sources": []
   },
   {
+    "id": "corning-2026-04-23-034",
+    "date": "2026-04-23",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning, Meta break ground on Hickory expansion tied to \"$6B\" AI data center deal - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB2RWh0Q093TlMyNlQyWWtxSkpvdTFSWGlsTnd0QW9SNUZ6QnZremI5VWc0Wjc3VENoOUpNU1F5UUNrTEpMaWs2MFN3bkE1WUVqU2FGWDltZEJWd2s1R0dpa05Mdl81akdYcVdPYUhzMV",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB2RWh0Q093TlMyNlQyWWtxSkpvdTFSWGlsTnd0QW9SNUZ6QnZremI5VWc0Wjc3VENoOUpNU1F5UUNrTEpMaWs2MFN3bkE1WUVqU2FGWDltZEJWd2s1R0dpa05Mdl81akdYcVdPYUhzMVBKVVhkZHVjbEJtYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-04-23-035",
+    "date": "2026-04-23",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Japan Display Hits Day Low of JPY 94 Amid Price Pressure - Markets Mojo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEIyMG9HTm1kVHo2NkEySEhDNUxmcHVvbXJLbHRCVmRybDJhZjdWRDBqZmpBQUdIcnNWdHd5MkJXZ1FaX1hmaUlPcWhVVHloLTQzR2NrTjJvVzdlSzNCajdkUHRyTTVvTHg0VGJRbX",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEIyMG9HTm1kVHo2NkEySEhDNUxmcHVvbXJLbHRCVmRybDJhZjdWRDBqZmpBQUdIcnNWdHd5MkJXZ1FaX1hmaUlPcWhVVHloLTQzR2NrTjJvVzdlSzNCajdkUHRyTTVvTHg0VGJRbXdMQU1EYW1zWWRSRVd3WG1xRFF2WVRIUGhEU1YtS3dIWndvYldOeGtlWlEyTzlVOWtLM2tyaUhnV2xKVUU4TklPVmNaTlo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-04-23-036",
+    "date": "2026-04-23",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Meet the Generation17 Young Leaders: The Story of Brigitta Gunawan",
+    "summary": "Brigitta Gunawan is a member of Generation17, a Samsung and United Nations Development Programme (UNDP) partnership empowering young people who are contributing to the Global Goals. Since 2020, Genera",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/meet-the-generation17-young-leaders-the-story-of-brigitta-gunawan",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "auo-2026-04-22-002",
     "date": "2026-04-22",
     "companies": [
@@ -1102,6 +1318,96 @@
     "sources": []
   },
   {
+    "id": "himax-2026-04-22-023",
+    "date": "2026-04-22",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies Unveils Advanced High-Contrast LCoS Microdisplay Technology for AR Glasses at Display Week 2026 - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS1VWSHhvNHB4Y3l2X3pjTElESmIwdTdFY2g0NkFFVUd1bXlCdU5tR2daUGtyVnJ2MlFFNVZxbUl2enNCc1pnQnFJQ1BpSkFyZWVwdnhtejAyVWFyS05UUEpjTUVuVVhGdWVfeFYwd3",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS1VWSHhvNHB4Y3l2X3pjTElESmIwdTdFY2g0NkFFVUd1bXlCdU5tR2daUGtyVnJ2MlFFNVZxbUl2enNCc1pnQnFJQ1BpSkFyZWVwdnhtejAyVWFyS05UUEpjTUVuVVhGdWVfeFYwd3JpcWdkOXNXNVQyTmdDem9JQncwT0tTeHllcm5VWTYxbVpKNkFWUTZMeDBpTURHSkViMFlBd2FieW1rYVpZUzR1ZXAtMVBnZ2E5ZmpzQ1UyM1J1OFcxTDA5NW9HcGZwRm9JOUR1WFRYODE4TUJ0TFdvTw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-04-22-024",
+    "date": "2026-04-22",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tranche Update on Himax Technologies, Inc.'s Equity Buyback Plan announced on December 4, 2024. - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlVwVmFWbFNQSWI1elMwVFNDXzFVN1ZQemFxc3BJLWRwTGV0Z19sQmg5VGp3LW9ZQXpWS2djdEszN2dCMnhSbnVoM3hGMGUtR0dtUUFLcU9INFNwME9RQWN6Ty11SGpvQmpNU1IwNm",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZlVwVmFWbFNQSWI1elMwVFNDXzFVN1ZQemFxc3BJLWRwTGV0Z19sQmg5VGp3LW9ZQXpWS2djdEszN2dCMnhSbnVoM3hGMGUtR0dtUUFLcU9INFNwME9RQWN6Ty11SGpvQmpNU1IwNmtHTVV4RzUyMFNfdEZzVWMwRnV1aXlSYmE2UEg1eHBMRVBuU1Y5RVpvN1Z1MFltTkN1Z2pCUUlCZlh5dTJhemQtWjhjVDRHRmRlY0pXNUdOSWxLZDljUFduWXpLa2N2QWwwenI4dFJyeVFzYkUz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-04-22-025",
+    "date": "2026-04-22",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Art Store Launches Tamara de Lempicka Collection Amid Art Deco Revival",
+    "summary": "Samsung Art Store introduces 22 works by Tamara de Lempicka, a defining Art Deco artist. Renewed interest in the style — often linked to a broader “Neo-Deco” revival — is bringing her signature aesthe",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-art-store-launches-tamara-de-lempicka-collection-amid-art-deco-revival",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-04-22-026",
+    "date": "2026-04-22",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG just announced the pricing for its first Micro RGB evo TV, and it's not cheap, but not as bad as you think - Tom's Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTm0zZ0lEUXE5NENOYVloV1dwU0NzTVhkWDhPb2tkNWNxRTBkYWJKNlJCbkpRNTJsZFk0UWNuRGU5ODc4WU8xdU00RC1OU0wwZjIta3p2NWlsRWcwU0xVUVAwc3ZYUEdJRGNpQXczQl",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTm0zZ0lEUXE5NENOYVloV1dwU0NzTVhkWDhPb2tkNWNxRTBkYWJKNlJCbkpRNTJsZFk0UWNuRGU5ODc4WU8xdU00RC1OU0wwZjIta3p2NWlsRWcwU0xVUVAwc3ZYUEdJRGNpQXczQlZ3VklmTWw3WmJ5UEdJSlctOW5vWEpNb2pBNjhaUlVqWjJYaEhWTlZUc29aSzRhWFcwb3NSTFdaT0hoQnRpRTZ0V2NyTXBuU002VERETFdnY0FNTllGeUstc05WWGoxM0J0UXZxdDJob1p6UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-04-22-027",
+    "date": "2026-04-22",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG's first RGB TV starts at $5,000 and is available to pre-order today - Engadget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeHFEMzFtckZnZTJnVXh2ZEVuMGZzaXByWHNNTlBwazVaRHZEY2x6LVh2TG5ILWJaVC1QdFk5S3pNRTJYeDIxRVljX0VGZmh1aXFMS1VYZ1FfRXFzMjBObEN1Yk5qQXZmNzhnaDJiQj",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeHFEMzFtckZnZTJnVXh2ZEVuMGZzaXByWHNNTlBwazVaRHZEY2x6LVh2TG5ILWJaVC1QdFk5S3pNRTJYeDIxRVljX0VGZmh1aXFMS1VYZ1FfRXFzMjBObEN1Yk5qQXZmNzhnaDJiQjdIT1NXNEV0UFUtcVUxZmxlV24tcFN4a3MzWnZka0hEcUZuTXo4ZGN6NlN1SDVReUhhMDNWOUNqZThmVnB5aVFhbEJNcEtUNjRjQ0VweWlwa25wT0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-21-007",
     "date": "2026-04-21",
     "companies": [],
@@ -1272,6 +1578,24 @@
     "sources": []
   },
   {
+    "id": "samsung_elec-2026-04-21-015",
+    "date": "2026-04-21",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung Expands Kitchen Portfolio With Intelligent Performance and Refined Design",
+    "summary": "Samsung Electronics today unveiled three new kitchen appliances — the Bespoke AI Single 1Door Fridge & Freezer, Bespoke AI Dishwasher and Extractor Induction Hob. Developed under a design philosophy t",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-expands-kitchen-portfolio-with-intelligent-performance-and-refined-design",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-04-20-002",
     "date": "2026-04-20",
     "companies": [
@@ -1401,6 +1725,60 @@
     "sources": []
   },
   {
+    "id": "canon-2026-04-20-012",
+    "date": "2026-04-20",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon and Ross Video announce partnership to deliver broadcast-grade PTZ solutions - Canon Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NVGw0UGlyc2xkbURSWU5ZTGhKYlNPZk9iQ1c5MGxkU1JUd3NEVkJ4R24wZjU4a3g0MDZTUHBwdE1iSjdqZE85QUJEbmo4RUZ3emZJR2l6bkZjcVE?oc=5\" target=\"_blank\">Cano",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NVGw0UGlyc2xkbURSWU5ZTGhKYlNPZk9iQ1c5MGxkU1JUd3NEVkJ4R24wZjU4a3g0MDZTUHBwdE1iSjdqZE85QUJEbmo4RUZ3emZJR2l6bkZjcVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-04-20-013",
+    "date": "2026-04-20",
+    "companies": [
+      "auo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AUO (OTCMKTS:AUOTY) Stock Price Down 4.9% - Time to Sell? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGtRekk1bkFIVDR1YjZNc1hSN1A0Si1ESEhySmo2TVJNUHhDZXJVaTVtOFdmazVBQS1lcGhIeW5RMjlva0tmOURQTHZmdnNyOXVwRlQwel9lemdKQkhKN3hUTW1KVFVDb0FIS0JHc0",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGtRekk1bkFIVDR1YjZNc1hSN1A0Si1ESEhySmo2TVJNUHhDZXJVaTVtOFdmazVBQS1lcGhIeW5RMjlva0tmOURQTHZmdnNyOXVwRlQwel9lemdKQkhKN3hUTW1KVFVDb0FIS0JHc0VPNEltZVhaU3FCWlRUQzhMRk5CbXc5WGkxcHNvLU1xcm1VdUhoZUpPdTdDSkJTVGY2OEFEdFZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-04-20-014",
+    "date": "2026-04-20",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Unveils ‘Design Is an Act of Love’ Exhibition at Milan Design Week 2026",
+    "summary": "Samsung Electronics today announced the opening of its “Design is an Act of Love” exhibition at Milan Design Week 2026. Structured across 12 immersive zones in the Samsung Design Open Lab at Superstud",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-unveils-design-is-an-act-of-love-exhibition-at-milan-design-week-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-19-006",
     "date": "2026-04-19",
     "companies": [],
@@ -1435,6 +1813,60 @@
     "title": "Laptop OLED is next phase of display battle with China. Korea is winning it for now. - The Korea Herald",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DOGZqWHNvQ2JxQkdyTjk4R0FET1lkWEF3TVRUNWR6V3VQNDFBN2hULXU0dUtvTlg1UnVwSFI4SnI1SUtzbFhVQnctSDdnQXR6VmcxSDRoTQ?oc=5\" target=\"_blank\">Laptop OL",
     "sources": []
+  },
+  {
+    "id": "boe-2026-04-19-004",
+    "date": "2026-04-19",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Group Co Ltd stock (CNE0000016L5): Is its display tech dominance strong enough to unl - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQa1RkNUJQRjlCdU8zUXEtWjJRX1BuanJ2d2hrZGJrTVVkTjZfLUstT3hIWHlHejBFT3VXc0dBcWJLLWZmV0VyNG83Vjhjek5tWmZxYlktbVY5Wm1iOE9xOW5DV0hpUjVvdzRvM2FTZ2",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa1RkNUJQRjlCdU8zUXEtWjJRX1BuanJ2d2hrZGJrTVVkTjZfLUstT3hIWHlHejBFT3VXc0dBcWJLLWZmV0VyNG83Vjhjek5tWmZxYlktbVY5Wm1iOE9xOW5DV0hpUjVvdzRvM2FTZ2lkMjJvYmZrS0d5UDBxbUxLMGlvTmp3WmxsYmttMTk2Rmx5cl85QmZaNFVEaVFzM2JiMGRDQjRyV0tCcFctcW9OODczbDlnT3Fxelh3NQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-04-19-005",
+    "date": "2026-04-19",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Receives Four Accolades at Prestigious Edison Awards 2026",
+    "summary": "Samsung Electronics today announced that it has been honored with two gold and two silver awards at the prestigious Edison Awards 2026, held April 15-16 in Fort Myers, Florida. Samsung’s award-winning",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-receives-four-accolades-at-prestigious-edison-awards-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vizio-2026-04-19-006",
+    "date": "2026-04-19",
+    "companies": [
+      "vizio"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "VIZIO Holding Corp. (VZIO) - Minichart",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tVThVSkpZZXhSY0FfNU9qWmt6RVhHYWVlaWRlajVIcWNndk9EQmUxRkZvSnVSYWVsUW02UnUtSVlwMUQ3ZFhFXzZnREZveDFGREt2cl9kNlp6b2pMZzZvRg?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "vizio",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tVThVSkpZZXhSY0FfNU9qWmt6RVhHYWVlaWRlajVIcWNndk9EQmUxRkZvSnVSYWVsUW02UnUtSVlwMUQ3ZFhFXzZnREZveDFGREt2cl9kNlp6b2pMZzZvRg?oc=5",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "unknown-2026-04-18-008",
