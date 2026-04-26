@@ -1,44 +1,45 @@
-# Display industry news feeds
-
 feeds:
-# --- Industry Media ---
 - id: oled_info
   name: OLED-Info
   url: https://www.oled-info.com/rss.xml
   description: World's leading OLED industry portal - news, market insights
-
 - id: google_news_display
   name: Google News - Display Panel
   url: https://news.google.com/rss/search?q=display+panel+OLED+LCD+BOE+LG+Display&hl=en
   description: Google News aggregation for display panel industry
-
 - id: digitimes_display
   name: Digitimes Daily
   url: https://www.digitimes.com/rss/daily.xml
   description: Digitimes daily news on semiconductor and display supply chain
-
 - id: google_news_mini_led
   name: Google News - Mini LED & Micro LED
   url: https://news.google.com/rss/search?q=Mini+LED+OR+Micro+LED+display+technology&hl=en
   description: Google News aggregation for Mini LED and Micro LED technology
-
-# --- Company Feeds ---
 - id: samsung_newsroom
   name: Samsung Global Newsroom
   url: https://news.samsung.com/global/feed
   description: Samsung Electronics official global newsroom
-
 - id: lg_newsroom
   name: LG Newsroom
   url: https://www.lgnewsroom.com/feed
   description: LG Electronics official newsroom - home appliances, displays
-
 - id: applied_materials_news
   name: Applied Materials News
   url: https://ir.appliedmaterials.com/rss-feeds/news-releases
   description: Applied Materials investor relations news releases
-
 - id: corning_news
   name: Corning News
   url: https://news.google.com/rss/search?q=%22Corning+Incorporated%22+glass+display&hl=en
   description: Google News for Corning display glass news
+- id: display_daily
+  name: Display Daily
+  url: https://www.displaydaily.com/feed/
+  description: Display Daily RSS feed
+- id: eetimes
+  name: EE Times
+  url: https://www.eetimes.com/feed/
+  description: EE Times RSS feed
+- id: semi_engineering
+  name: SemiEngineering
+  url: https://semiengineering.com/feed/
+  description: SemiEngineering RSS feed

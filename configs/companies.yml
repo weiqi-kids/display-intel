@@ -1,5 +1,3 @@
-# 面板供應鏈情報追蹤 - 公司清單
-
 companies:
 - id: corning
   name: Corning Incorporated
@@ -19,6 +17,7 @@ companies:
   - lg_display
   - boe
   - jdi
+  fetch_mode: http
 - id: applied_materials
   name: Applied Materials
   aliases:
@@ -37,6 +36,7 @@ companies:
   - lg_display
   - boe
   - jdi
+  fetch_mode: http
 - id: canon
   name: Canon Inc.
   aliases:
@@ -54,6 +54,7 @@ companies:
   - innolux
   - lg_display
   - boe
+  fetch_mode: http
 - id: novatek
   name: 聯詠科技
   aliases:
@@ -72,6 +73,7 @@ companies:
   - lg_display
   - boe
   - samsung_elec
+  fetch_mode: http
 - id: raydium
   name: 瑞鼎科技
   aliases:
@@ -88,6 +90,7 @@ companies:
   - auo
   - innolux
   - boe
+  fetch_mode: http
 - id: himax
   name: 奇景光電
   aliases:
@@ -107,6 +110,7 @@ companies:
   - lg_display
   - boe
   - jdi
+  fetch_mode: http
 - id: auo
   name: 友達光電
   aliases:
@@ -131,6 +135,7 @@ companies:
   - lg_elec
   - sony
   - tcl
+  fetch_mode: http
 - id: innolux
   name: 群創光電
   aliases:
@@ -154,6 +159,7 @@ companies:
   - lg_elec
   - sony
   - tcl
+  fetch_mode: http
 - id: lg_display
   name: LG Display
   aliases:
@@ -175,6 +181,7 @@ companies:
   - lg_elec
   - sony
   - samsung_elec
+  fetch_mode: http
 - id: boe
   name: 京東方科技
   aliases:
@@ -198,6 +205,7 @@ companies:
   - samsung_elec
   - lg_elec
   - tcl
+  fetch_mode: http
 - id: jdi
   name: Japan Display
   aliases:
@@ -215,6 +223,7 @@ companies:
   - himax
   downstream:
   - sony
+  fetch_mode: http
 - id: csot
   name: TCL華星光電
   aliases:
@@ -234,6 +243,7 @@ companies:
   downstream:
   - tcl
   - samsung_elec
+  fetch_mode: http
 - id: samsung_elec
   name: Samsung Electronics
   aliases:
@@ -253,6 +263,7 @@ companies:
   - lg_display
   - boe
   - novatek
+  fetch_mode: http
 - id: lg_elec
   name: LG Electronics
   aliases:
@@ -270,6 +281,7 @@ companies:
   - auo
   - innolux
   - boe
+  fetch_mode: http
 - id: sony
   name: Sony Group
   aliases:
@@ -287,6 +299,7 @@ companies:
   - auo
   - innolux
   - jdi
+  fetch_mode: http
 - id: tcl
   name: TCL科技
   aliases:
@@ -304,6 +317,7 @@ companies:
   - auo
   - innolux
   - boe
+  fetch_mode: http
 - id: vizio
   name: VIZIO Holding
   aliases:
@@ -319,6 +333,7 @@ companies:
   - auo
   - innolux
   - boe
+  fetch_mode: http
 supply_chain_positions:
   upstream:
   - 玻璃基板
@@ -342,8 +357,6 @@ topics:
   name: 車用面板
 - id: earnings
   name: 法說會
-
-# ETF 追蹤
 etfs:
 - id: soxx
   ticker: SOXX
