@@ -1,0 +1,162 @@
+{
+  "date": "2026-04-26",
+  "generated_at": "2026-04-26T03:20:19.490037Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_elec-2026-04-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Harman hits KRW15.78 trillion in revenue 10 years after Samsung acquisition",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260424PD230/samsung-harman-revenue-adas.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-26-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ASML cuts management layers due to restructuring; TSMC stance affects High-NA outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260424VL218/asml-management-tsmc-high-na-outlook.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "jdi-2026-04-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JDI accelerates exit from LTPS, reshaping automotive display panel landscape - digitimes",
+      "companies": [
+        "jdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automotive_display"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjdiTTdjbEdkVVNKRDY0RzhVZEkyempJWmtma2tiZGxDT1ljSGZ1LWRBMTlIYS1BMnNhM2RZRzE5OVp5dzBSOWVSWEVJY0pON05WekQzTzJMRF9jOWF2ZWRIejhMTF9lMGttSjRqMER5VGNXXzUxTEpRbDVidkh4YnNLUEZ5OWNtdHVvaE13WndHbzFfS3gyeDQycw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jdi-2026-04-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JDI accelerates exit from LTPS, reshaping automotive display panel landscape",
+      "companies": [
+        "jdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automotive_display"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260423PD214/jdi-ltps-panel-automotive-automotive-display.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automotive_display": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jdi",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automotive_display",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為JDI、三星電子相關動態：「Harman hits KRW15.78 trillion in revenue 10 years after S...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Harman hits KRW15.78 trillion in revenue 10 years after Samsung acquisition（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "ASML cuts management layers due to restructuring; TSMC stance affects High-NA...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

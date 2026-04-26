@@ -1,5 +1,83 @@
 [
   {
+    "id": "jdi-2026-04-26-001",
+    "date": "2026-04-26",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "JDI accelerates exit from LTPS, reshaping automotive display panel landscape - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjdiTTdjbEdkVVNKRDY0RzhVZEkyempJWmtma2tiZGxDT1ljSGZ1LWRBMTlIYS1BMnNhM2RZRzE5OVp5dzBSOWVSWEVJY0pON05WekQzTzJMRF9jOWF2ZWRIejhMTF9lMGttSjRqME",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMjdiTTdjbEdkVVNKRDY0RzhVZEkyempJWmtma2tiZGxDT1ljSGZ1LWRBMTlIYS1BMnNhM2RZRzE5OVp5dzBSOWVSWEVJY0pON05WekQzTzJMRF9jOWF2ZWRIejhMTF9lMGttSjRqMER5VGNXXzUxTEpRbDVidkh4YnNLUEZ5OWNtdHVvaE13WndHbzFfS3gyeDQycw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-04-26-002",
+    "date": "2026-04-26",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Harman hits KRW15.78 trillion in revenue 10 years after Samsung acquisition",
+    "summary": "Samsung Electronics executive chairman Lee Jae-yong's bold acquisition of premium audio brand Harman for KRW9.4 trillion (approx. US$6.3 billion) a decade ago has paid off, with the American subsidiar",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260424PD230/samsung-harman-revenue-adas.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-003",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "ASML cuts management layers due to restructuring; TSMC stance affects High-NA outlook",
+    "summary": "<p class=\"P1\" data-start=\"318\" data-end=\"551\">ASML is moving to eliminate a wide range of management roles as part of a broader effort to simplify its organization and improve execution, according to ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260424VL218/asml-management-tsmc-high-na-outlook.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-04-26-004",
+    "date": "2026-04-26",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "JDI accelerates exit from LTPS, reshaping automotive display panel landscape",
+    "summary": "Japan Display Inc. (JDI) is accelerating its withdrawal from the low-temperature polycrystalline silicon panel market by selling its Tottori plant to Yahata Toei Real Estate, a deal expected to close ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260423PD214/jdi-ltps-panel-automotive-automotive-display.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-04-25-010",
     "date": "2026-04-25",
     "companies": [
@@ -12,6 +90,81 @@
     "title": "Reports suggest Apple and Samsung are developing a quad-edge-curved OLED for the iPhone 20",
     "summary": "<p>In 2027 Apple will release its 20th iPhone model, and it is reported that the company is working with Samsung to develop a special OLED display for the new device, which may be called the iPhone 20",
     "sources": []
+  },
+  {
+    "id": "canon-2026-04-25-002",
+    "date": "2026-04-25",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Canon Inc. Just Missed Earnings - But Analysts Have Updated Their Models - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPeGwwR2Z2alBmcWN0R1lMRXdJbU9fQnJ4bHhqV2VnZzhHanJ6bU5fd0o0NTJJWDQ1MjNLbEo1UlVwZUhNSk9wOXlTU0RzcDZHMTBCY2N4aFFXaGI2NXhrVFVkSnAwT3dIMXA1aFJORV",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeGwwR2Z2alBmcWN0R1lMRXdJbU9fQnJ4bHhqV2VnZzhHanJ6bU5fd0o0NTJJWDQ1MjNLbEo1UlVwZUhNSk9wOXlTU0RzcDZHMTBCY2N4aFFXaGI2NXhrVFVkSnAwT3dIMXA1aFJORV9aM1RWYTNwQ1hrckxsSTZSQUtLamdVaG9heHVzdWtYTy1lbUhSSWk4OGd4QS1nc0VLbW0yMHd2Rll5bVpTSGQ3MzM5Rk1xLW5DektxdkVSMmZjN1FB0gHKAUFVX3lxTE9pSzg1QVJsejBQeDNZVFRaclV4RWdkVWtydGh3QlhnUWt0dFFGVVBMZlpmcTVHU1dlenVKSm1Md3J6dUw2a3hrUXFCYVhhV1ZrLTJKRjNEaXpaU1U1MXpoUmlKdXhwVHVOOHdJUVJUMEZhd1Roelh2cWZUZUM5U1pFZmtWY204MWxJcDcwMXdKcXc4d1Jkd2RxTUxWcjBXZzFpRUdPZWlLQVVVZnQ1cWNNc05DLThkVDVqZ09HblRQLWNxMjV4X0wzYkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-25-003",
+    "date": "2026-04-25",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "The OLED Marketplace now lists a 0.13\" 2.7 million nits VGA microLED Microdisplay",
+    "summary": "<p>The <a href=\"https://marketplace.oled-info.com/\">OLED Marketplace</a> is expanding its microLED display catalog, and now offers a new <a href=\"https://marketplace.oled-info.com/view/266/JBDLED013-6",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/oled-marketplace-now-lists-013-27-million-nits-vga-microled-microdisplay",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-25-004",
+    "date": "2026-04-25",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "BCDTek raises around $55 million in the final tranche of its Series A funding round",
+    "summary": "<p>OLED microdisplay developer <a href=\"https://www.oled-info.com/bcdtek\">BCDTek</a> announced that it has successfully completed its Series A1 financing round, led by Sichuan Xingchuan, and included ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/bcdtek-raises-around-55-million-final-tranche-its-series-funding-round",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-25-005",
+    "date": "2026-04-25",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Summer Sprout and Juhua Printing demonstrate high-performance spin-coated PSF OLED devices",
+    "summary": "<p><a href=\"https://www.oled-info.com/summer-sprout-technology\">Summer Sprout Technology</a>, in collaboration with <a href=\"https://www.oled-info.com/guangdong-juhua-printing-display-technology\">Juhu",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/summer-sprout-and-juhua-printing-demonstrate-high-performance-spin-coated-psf",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "lg_display-2026-04-24-003",
