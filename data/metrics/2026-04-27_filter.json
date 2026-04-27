@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 179,
+  "gate1_fail": 34,
+  "gate2_fail": 23,
+  "passed": 13,
+  "gate2_samples": [
+    "Corning Incorporated Just Opened a Financing Door After Its AI Stock Surge - TechStock²",
+    "Corning Incorporated (NYSE: GLW) registers debt, warrants and equity on shelf - Stock Titan",
+    "Jim Cramer’s Hurt By JPMorgan’s Coverage of Corning (GLW) Stock - Yahoo Finance",
+    "Morgan Stanley Lifts Corning (GLW) PT to $140 as Optical Stocks Hit New Highs - Insider Monkey",
+    "The Zacks Analyst Blog Sandisk, Monolithic Power Systems, Garmin and Corning - The Globe and Mail"
+  ]
+}

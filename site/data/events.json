@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung_elec-2026-04-27-001",
+    "date": "2026-04-27",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Wallet’s New ‘Trips’ Feature Enables Seamless Journeys for Global Travelers",
+    "summary": "Samsung Electronics today announced the launch of “Trips,” a new feature in Samsung Wallet designed to help Samsung Galaxy users organize and manage travel-related experiences in one place. Created fo",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-wallets-new-trips-feature-enables-seamless-journeys-for-global-travelers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "jdi-2026-04-26-001",
     "date": "2026-04-26",
     "companies": [
@@ -203,6 +221,195 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUNJZkowTm82aUhhLWtyZlptMnlZUzdxWGV5ckk4bjVVZ2tzUkJ4U09ybUdlOGx5RklZNzZvc3ZoM0doN3ZVSk9hSWFaX3NKbEtlT2xGVWgxZ2F1TGFvUTlYMnVBLWZOLXFybmc1LUtTN0lJSjVFNVdtWUdHeDFwTWtscmc2YklSLUpXelhCRTAtSmtYMlVkVUM3Z3E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-04-26-012",
+    "date": "2026-04-26",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies Q4 2025 earnings preview - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AJBVV95cUxOR2pueUd5c2pMb0R4dWlva0kwRFV5cVdnNHhFR3NXNW84S2hWOEFfLWVrQms5MGs5NWtUVExjQ1B6MEROU3pkQTdQZ012dGIxbWs4Ty1WUjJuNU1QR3JrMmdVWFk1SS1kbURFSU5Jbz",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOR2pueUd5c2pMb0R4dWlva0kwRFV5cVdnNHhFR3NXNW84S2hWOEFfLWVrQms5MGs5NWtUVExjQ1B6MEROU3pkQTdQZ012dGIxbWs4Ty1WUjJuNU1QR3JrMmdVWFk1SS1kbURFSU5Jbzh3SUp4bUdDcmptYVdjRUlPQTRheVYwblhlaVpPdHFydWo3bWdOTk9VQjF4X0txeTZMVmZfZm0tcmRDY09LMFJLTmpIYzl0LUVCcW9DRjNxNkQta1JmSV9sUEplLTNsaWZKSkhlM1hoa29LVmRnQ0dqOEh2cW9rbHl3dWVQWVZvam9TZjI5REdjM05ueEgwN3VOOGFUazVwR25kUDBydG0wZG5VQ2xvSGZrVmU1NWNlaVp6Z1dIY2ptZTh0ay11TlNYaXlFTHJraUEtSkJmLTdkOXJrYUFyWVBsZVhETGEtWTc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-04-26-013",
+    "date": "2026-04-26",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies Stock Rises as AR Microdisplay Launch Fuels Bullish Momentum - StocksToTrade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5ja0h6Wmc0MjVtZkJsLVJUMzJ4WXMzcjNxVDlMaUdhRjlhTG9Kb0hJdjNjZmpsck9nMThIcTNqVEtsNFZJemV5NkhRSWJDejNJamhmZ1phajVFQjNSd09CUlBVT2NFQzl3bi1WR0JZa0",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ja0h6Wmc0MjVtZkJsLVJUMzJ4WXMzcjNxVDlMaUdhRjlhTG9Kb0hJdjNjZmpsck9nMThIcTNqVEtsNFZJemV5NkhRSWJDejNJamhmZ1phajVFQjNSd09CUlBVT2NFQzl3bi1WR0JZa0NEaEpuM011VDdVT1ltQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-04-26-014",
+    "date": "2026-04-26",
+    "companies": [
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG is reportedly in talks to use Samsung QD-OLED panels for new gaming monitors - OC3D",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOWm4yQWJ3c2lBaEJCY0FpcE5leTdfVmlIOXhYeXYyV0Ffem9ZdC01d3NQdV9Pckl3V01EckQtRF9sS2txNGM4WEppT3JRZnh6bVAwaU9xWE9SMUVLZjJJcmR0UW5keWtjMlR6TTc1eG",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWm4yQWJ3c2lBaEJCY0FpcE5leTdfVmlIOXhYeXYyV0Ffem9ZdC01d3NQdV9Pckl3V01EckQtRF9sS2txNGM4WEppT3JRZnh6bVAwaU9xWE9SMUVLZjJJcmR0UW5keWtjMlR6TTc1eGpZS09MMGZ1Sl9Ha1hGaWtDcW5IdWZCZTZZTnZjSC1aTlp2anFyWmJSNTJLNjg0RU8xdVhlUDllRnMxcFhz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-04-26-015",
+    "date": "2026-04-26",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "US, Japan may partner with Japan Display for new US plant under investment package, sources say - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxQYXE0czVuNktsbnVxazJpcHBxdUkzRjd4NU1PMmsyOHdrQUZxWXljWW9VWmtwYVNhbXFfR2FOS2RNblc1dERhc2pJbnU2WVcyUFM3VkN3Tkp2dEptdWhMc2hpb1ZpMlh3Z01sOWQxY1",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQYXE0czVuNktsbnVxazJpcHBxdUkzRjd4NU1PMmsyOHdrQUZxWXljWW9VWmtwYVNhbXFfR2FOS2RNblc1dERhc2pJbnU2WVcyUFM3VkN3Tkp2dEptdWhMc2hpb1ZpMlh3Z01sOWQxY19LUFFadkxUZVJZUzlKQkdzY2ZXbktnS3F0RGdSclhMNHU4VG11M2Z0U0FOWS16V1JrOGJoWXNSNnFiSnFkbGtlQmtoRWZQX1VTSHA3OW5Ra1pMZ2tGeE9GcElhZFZRNTV3ZC05MTRkelpFRVRiSUQ4M1V5VGpGaXpEVlI0TnpJWlkwaWlMRXZHYkxheVJUQVpoRlZmNUQ4QzdfQ2hoaFVSZ3psbzcwY2dKUUJ0Snd0RzJWQlJWSFdKVE52dlBRaERCVVp5UFA3YzFmTXF2Z2ZkMTM2MEZZUFhYM1A3cVdkaUc4UHRmdEhLdEp1SVVaV2Z0QVg4TUNFelNZelgyYXZhbG9WNUdfNzZqQjVtbmlzYXdDQmI0ZVA2aGpqbHA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-04-26-016",
+    "date": "2026-04-26",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "South Korea's telecom giants unveil full-stack AI strategies at WIS 2026, highlighting agents, infrastructure, and 6G",
+    "summary": "South Korea's three leading telecom operators&mdash;SK Telecom (SKT), KT, and LG U+&mdash;signaled a decisive shift beyond connectivity at the World IT Show (WIS) 2026, held April 22&ndash;24 in Seoul",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260424PD221/south-korea-telecom-infrastructure-6g-ai-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-017",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tesla doubles down on robotaxi and FSD, recasting cars into revenue-generating assets",
+    "summary": "At its first-quarter 2026 earnings call, Tesla set out a clear shift in strategy: moving the auto industry away from ownership toward a usage-based mobility model. By aligning software, hardware, and ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260424PD222/tesla-2026-fsd-earnings-vehicle.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-018",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cerebras files for IPO after AI chip breakthrough, G42 partnership shapes supply chain",
+    "summary": "Cerebras Systems filed for an initial public offering (IPO) on April 17, 2026, aiming to list on the Nasdaq. The company reversed its fortunes with US$510 million in revenue and a net profit of US$87.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260424PD224/cerebras-ipo-supply-chain-g42-chips.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "innolux-2026-04-26-019",
+    "date": "2026-04-26",
+    "companies": [
+      "innolux"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "negative",
+    "title": "Innolux enters leading tier of advanced packaging with new RDL and TGV technology",
+    "summary": "Innolux is expanding into the advanced semiconductor packaging sector, leveraging display technology as its core platform to accelerate integration with semiconductor and IoT technologies. Building on",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260424PD201/innolux-packaging-foplp-technology-chips.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-04-26-020",
+    "date": "2026-04-26",
+    "companies": [
+      "sony"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "AI-led innovation, overseas growth and Sony venture: How screen champion sharpens its profitability - businesstimes.com.sg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUi01elJyTERrVDJBbEhSXzlLTzdSWTc4N2Q0VXRJZEdhWmJaajhGXy1nS2kxNExUVU1UcVU4QUkwWl83RXNVWXFTSjB0bHUwWHhHSHFPQlMwODJ1WEVWSVdDb2lRd2YydDJ3OFdJX0",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUi01elJyTERrVDJBbEhSXzlLTzdSWTc4N2Q0VXRJZEdhWmJaajhGXy1nS2kxNExUVU1UcVU4QUkwWl83RXNVWXFTSjB0bHUwWHhHSHFPQlMwODJ1WEVWSVdDb2lRd2YydDJ3OFdJX0dKMmJ2MkV2dmtzRUY0UU1JSnFoTTJsTG13cGR1SVdBT2dwRXVlYjhweFBUSlZEb21FeVRwcUtvMWN6SnNHXzVzeEV0VTVDdnJMNmxXWmZjSlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-04-26-021",
+    "date": "2026-04-26",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is Corning a strong bet for investors on Gorilla Glass innovations? - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gJBVV95cUxPMko3OGctVGJFSjlJV0tEeXBDVGZOUTRtcWhBRC10SVNuc3dFMEtndVBja1ZEWmszd01sTnFNWEFkUHBxcFFYb0lPeXhlV0xsdFliY0xNRWdMNU1ad2lyenlIUnZ5Nk1DQzFiNmNXMG",
+    "sources": [
+      {
+        "name": "corning_news",
+        "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPMko3OGctVGJFSjlJV0tEeXBDVGZOUTRtcWhBRC10SVNuc3dFMEtndVBja1ZEWmszd01sTnFNWEFkUHBxcFFYb0lPeXhlV0xsdFliY0xNRWdMNU1ad2lyenlIUnZ5Nk1DQzFiNmNXMGp4YkNOMGdFMnZGQmhQUC13M1E3VnJMMlNTSFV6amRWSTEyRmx5R3Y2X1pyT3dVR2l0LTk0cHBnQkI1TWFWM0IteDlVMDZWRG5xVUlNZi1XTkg0aEJyTWl6OFRGdVluOVlRWlF4Q2tzdzlJQ2QyTnFjZkxuYWpFem12d0hDYnRrUFhFcU81b3BWeTZrZ1pHVV9KallYa3o0M25kM3lmdjZMeFFwNXNUNzBWbTR5eGxwME96UUwzUGlCX0txVDB1SG1CRjViMTdTanN4NHNjY1lVOXRCQThMOHhPWWpQcGhUOFNka1hvWXh5Y09zeTk1VEhKOGxMY3BMdnZxdw?oc=5",
         "type": "rss"
       }
     ]
@@ -592,6 +799,24 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZU9RQVJCWGRyYTRjQ3VWNUprTVh3S1Q2a19yUFh6ZzluTWhFSWlXRGRIOWtUWlZqODJMM1RfbW0xVVQyQUVaNjB4eXlVSVAtM0xIX2QyQkxLUU5GOUFsOU8xUUpqc0RwUjV4TFJHSkRLQWlnNmgtVm9kaHRnOWt3UW9rT3JrQ2pJdDN6VlVVNlZxTnc5SGYzbjB2WTBDTG96ZF91Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-04-24-019",
+    "date": "2026-04-24",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies ADR clears key benchmark, hitting 90-plus RS rating - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNjRXcVRsZ3YtdkR1RkVxNEdjM1ZRbTJra3ZOWDJvS1hyc2ZCWnNkSXN4SVZUTm1SUnVaczhncHlzaXhxeXFDbGFwNW5HekNxNW9YSEpnakJuTm90d0h2U3BwcUJKYzJSNlFXbHVYWG",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNjRXcVRsZ3YtdkR1RkVxNEdjM1ZRbTJra3ZOWDJvS1hyc2ZCWnNkSXN4SVZUTm1SUnVaczhncHlzaXhxeXFDbGFwNW5HekNxNW9YSEpnakJuTm90d0h2U3BwcUJKYzJSNlFXbHVYWGVsMGlSVm1YamphVmk0TXgzUF8zLXUyYjVsbTlNazJmTU5GdXJ1TWRlVEZzcktPTTE1NWdaLVpiNDBLU0pzNlFkelJWN2JtRzM0cWkwTzBhRGFueDM5X3RFNVhFUzJkbnM1YlhqcC1kNmtsbUFLOU9fSWF1bw?oc=5",
         "type": "rss"
       }
     ]
@@ -1537,6 +1762,27 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWhzNkhqV3hKTWp5ZTZWLUdWOUtjbXIxYUcwckRkSTV0cy1hc2FIWHhZREFuM0ZnMmt0UGM1eUNteGVVVmRMRDhZU2FhaTdDbVhsZlJKZjVNZi1fcVRwZF9nR004aFdmX3VIM09IVjdGZkpCcW9TRVlNQUZIRE5XbDBLRGpwOXRmeWVtTmNzclJvZEJzaHBpZVRfeXNnVWpkLUVnYmJwR2JuakxMM3I4NnFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-04-22-029",
+    "date": "2026-04-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display investiert 745 Mio. Dollar in die Infrastruktur für OLED-Displays - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNdlJUajdhNW1jbXBvemxPNm1QNXNaX3NNWTQ1dFpxZzc5OEExNHViRVV0R1B5Qkw4U3VsdWhxRlhtR3hJWU42czFIMzA0VGgtdEZLWS04NU9mQWhIeGR1OGs3QmNQcmV1TDI1bEcyMl",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdlJUajdhNW1jbXBvemxPNm1QNXNaX3NNWTQ1dFpxZzc5OEExNHViRVV0R1B5Qkw4U3VsdWhxRlhtR3hJWU42czFIMzA0VGgtdEZLWS04NU9mQWhIeGR1OGs3QmNQcmV1TDI1bEcyMlFZX2UzeTRieWx2TlBWZzdxYw?oc=5",
         "type": "rss"
       }
     ]
