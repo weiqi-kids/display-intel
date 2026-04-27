@@ -54,6 +54,98 @@
     ]
   },
   {
+    "id": "himax-2026-04-27-004",
+    "date": "2026-04-27",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies Q2 2025 Earnings Preview - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wJBVV95cUxPTy1ueW5UOHJ2RUVaVDI5OEw1dXAwTzhKZW5jTm94RkpLQ05ieGRfMV9qSHpQd2xxTmFQQ1I4TnF3VTNhQWlZVVFUQXI1TDcwaHItWkMtUFVRTFEzUVZGQUdIeWZJUnNLVW9kWEFfYW",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPTy1ueW5UOHJ2RUVaVDI5OEw1dXAwTzhKZW5jTm94RkpLQ05ieGRfMV9qSHpQd2xxTmFQQ1I4TnF3VTNhQWlZVVFUQXI1TDcwaHItWkMtUFVRTFEzUVZGQUdIeWZJUnNLVW9kWEFfYWtLbUlQeFdtMHA0bmplOFpkS0FDS1NvMXp2ODVSWjFiSmp6Z0tfRmRQN2JUZ1hvV2J5Y1ZvWk85akl3Z0YyNzNOT1hoRDJlaGYtMk9USk5YUzdXc0kwdlItT1Rhb3A3NTA4Vmo2VVNaaU95UG5iaU1NVU1SRGhZVjVTdEtoUlJrQUtNeGxKX0RfV1RUSWNNYnB6RzVHaVlwWkVIWXM0SC1TcExnRUYtZ2Z5X0QteXVMb3JSMlFmcXpZWmktTkJTYlVDbDJwbmgxamR3cV9JN2l3YmZISGtXR2NWcHRqd19keVFUMzJYeUlkR0ozdFFPOGlnajA1dzJLamR2b2Y1OHlwRFhEOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-005",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiwan IPC players shift to edge AI solutions: Growth opportunities and supply chain challenges in 2026",
+    "summary": "Large Taiwanese IPC players begin reaping early edge AI deployment dividends in 2025, with estimated 2026 revenue growth of 12%.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260410RS401/ipc-taiwan-2026-ai-solutions-supply-chain.html?chid=2",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-006",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple's OLED transition tests backlight makers, with 2027 seen as turning point",
+    "summary": "<p class=\"P1\" data-start=\"76\" data-end=\"274\">Adoption of OLED by Apple is becoming inevitable, with Radiant Opto-Electronics Corp. (ROEC) chairman Justin Wang expecting the most visible impact to emer",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260427PD224/apple-oled-panel-backlight-radiant-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-007",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Tesla begins Cybercab production in Texas, targeting robotaxi revenue after 2027",
+    "summary": "Tesla began manufacturing its Cybercab autonomous taxi at its Texas Gigafactory, CEO Elon Musk said on April 24, signaling progress on the long-promised Robotaxi. The move could influence global auton",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260427PD229/tesla-production-texas-robotaxi-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-008",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Broadcom, Marvell set to benefit as 1.6T optical modules near mass production",
+    "summary": "1.6T optical communication modules are set for broad adoption in AI data centers in 2026, with optical transceiver vendors and key IC design houses preparing for shipments. Broadcom's digital signal p",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260427PD210/broadcom-marvell-production-chips-cpo.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "jdi-2026-04-26-001",
     "date": "2026-04-26",
     "companies": [
@@ -451,6 +543,26 @@
     ]
   },
   {
+    "id": "sony-2026-04-26-022",
+    "date": "2026-04-26",
+    "companies": [
+      "sony"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "AI-led innovation, overseas growth and Sony venture: How screen champion sharpens its profitability - The Business Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUi01elJyTERrVDJBbEhSXzlLTzdSWTc4N2Q0VXRJZEdhWmJaajhGXy1nS2kxNExUVU1UcVU4QUkwWl83RXNVWXFTSjB0bHUwWHhHSHFPQlMwODJ1WEVWSVdDb2lRd2YydDJ3OFdJX0",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUi01elJyTERrVDJBbEhSXzlLTzdSWTc4N2Q0VXRJZEdhWmJaajhGXy1nS2kxNExUVU1UcVU4QUkwWl83RXNVWXFTSjB0bHUwWHhHSHFPQlMwODJ1WEVWSVdDb2lRd2YydDJ3OFdJX0dKMmJ2MkV2dmtzRUY0UU1JSnFoTTJsTG13cGR1SVdBT2dwRXVlYjhweFBUSlZEb21FeVRwcUtvMWN6SnNHXzVzeEV0VTVDdnJMNmxXWmZjSlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-04-25-010",
     "date": "2026-04-25",
     "companies": [
@@ -566,6 +678,24 @@
     "topics": [],
     "impact": "neutral",
     "title": "Which Is a Better Investment, Corning Incorporated or Littelfuse, Inc. Stock? - AAII",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYzY2SG9sbE9faHBPcXB2dzJmY3RhOURnaW5GNkdIWDlmX3QtVDh5TFlhNF9rc0QyRXU2UGVkbUVIMFVmeklZMXJWS1o4RVpDSVBkbm9UdlBvak9lZUNZZjV6YlU0X1lwR0EyWTJEYV",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYzY2SG9sbE9faHBPcXB2dzJmY3RhOURnaW5GNkdIWDlmX3QtVDh5TFlhNF9rc0QyRXU2UGVkbUVIMFVmeklZMXJWS1o4RVpDSVBkbm9UdlBvak9lZUNZZjV6YlU0X1lwR0EyWTJEYVpuYVRyUmRtQl80WlRKVFZaN1o0RUhvVEFKTjdRN0ljbVRvNnNKRWxLM0Z6UGdmSUNHYnZfd1RlNjJPcWVTOGRTdTVTdHJXYUpJWWhsdldDVlFfUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-04-25-008",
+    "date": "2026-04-25",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Which Is a Better Investment, Corning Incorporated or Littelfuse, Inc. Stock? - AAII.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYzY2SG9sbE9faHBPcXB2dzJmY3RhOURnaW5GNkdIWDlmX3QtVDh5TFlhNF9rc0QyRXU2UGVkbUVIMFVmeklZMXJWS1o4RVpDSVBkbm9UdlBvak9lZUNZZjV6YlU0X1lwR0EyWTJEYV",
     "sources": [
       {
@@ -2210,6 +2340,24 @@
       {
         "name": "samsung_elec",
         "url": "https://news.samsung.com/global/samsung-unveils-design-is-an-act-of-love-exhibition-at-milan-design-week-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-04-20-015",
+    "date": "2026-04-20",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Launches ‘Raise the Bar’ Campaign With Joe Cole To Upgrade UK Pubs’ TV Experience",
+    "summary": "Samsung Electronics has launched the “Raise the Bar” campaign in the U.K., partnering with former England international football player, Joe Cole to support local pubs with upgraded TV technology ahea",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-launches-raise-the-bar-campaign-with-joe-cole-to-upgrade-uk-pubs-tv-experience",
         "type": "rss"
       }
     ]

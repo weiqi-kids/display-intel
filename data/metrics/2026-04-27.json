@@ -1,14 +1,22 @@
 {
   "date": "2026-04-27",
-  "total_events": 3,
+  "total_events": 8,
   "by_company": {
     "samsung_elec": {
       "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "himax": {
+      "count": 1,
       "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.3
+    },
+    "oled_penetration": {
       "count": 1,
       "sentiment_avg": 0.0
     }
