@@ -18,6 +18,42 @@
     ]
   },
   {
+    "id": "samsung_elec-2026-04-27-002",
+    "date": "2026-04-27",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "DIGITIMES Insight: Will TSMC's 3nm expansion put Samsung's 2nm bid on the back foot?",
+    "summary": "As the AI buildout accelerates and chipmakers race to secure advanced process capacity, TSMC finds itself in an increasingly commanding position.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260427PD214/tsmc-3nm-earnings-samsung-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-27-003",
+    "date": "2026-04-27",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "MediaTek ASIC revenue may overtake smartphone chips amid Google's TPU ramps",
+    "summary": "MediaTek's application-specific integrated circuit (ASIC) business is drawing market attention as volume production of Google's tensor processing units (TPUs) is expected to ramp from the second half ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260427PD208/mediatek-asic-revenue-google-tpu.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "jdi-2026-04-26-001",
     "date": "2026-04-26",
     "companies": [

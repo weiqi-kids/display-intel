@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T01:43:06.197284+00:00",
+  "updated_at": "2026-04-27T03:39:05.535224+00:00",
   "companies": {
     "corning": {
       "name": "Corning Incorporated",
@@ -144,7 +144,7 @@
           "holder": "Oregon Public Employees Retirement Fund",
           "shares": 761700,
           "pct_held": 0.06,
-          "value": 3068889300
+          "value": 3071936100
         }
       ]
     },
@@ -224,55 +224,55 @@
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 9015514,
           "pct_held": 0.23,
-          "value": 838442802
+          "value": 847458316
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 6519472,
           "pct_held": 0.17,
-          "value": 606310896
+          "value": 612830368
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 2495300,
           "pct_held": 0.06,
-          "value": 232062900
+          "value": 234558200
         },
         {
           "holder": "SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF",
           "shares": 1563910,
           "pct_held": 0.04,
-          "value": 145443630
+          "value": 147007540
         },
         {
           "holder": "EQ Advisors Trust-EQ/International Equity Index Portfolio",
           "shares": 861949,
           "pct_held": 0.02,
-          "value": 80161257
+          "value": 81023206
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Pacific Stock Index Fd.",
           "shares": 696539,
           "pct_held": 0.02,
-          "value": 64778127
+          "value": 65474666
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Total World Stock Index Fd.",
           "shares": 434300,
           "pct_held": 0.01,
-          "value": 40389900
+          "value": 40824200
         },
         {
           "holder": "VANGUARD WORLD FUND-Vanguard ESG International Stock ETF",
           "shares": 92600,
           "pct_held": 0.0,
-          "value": 8611800
+          "value": 8704400
         },
         {
           "holder": "EQ Advisors Trust-EQ/International Value Managed Volatility Portfolio",
           "shares": 17300,
           "pct_held": 0.0,
-          "value": 1608900
+          "value": 1626200
         }
       ]
     },
@@ -285,31 +285,31 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 1082113,
           "pct_held": 0.02,
-          "value": 240770142500
+          "value": 242934368500
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 55000,
           "pct_held": 0.0,
-          "value": 12237500000
+          "value": 12347500000
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 50748,
           "pct_held": 0.0,
-          "value": 11291430000
+          "value": 11392926000
         },
         {
           "holder": "Chickasaw Capital Management, LLC",
           "shares": 15000,
           "pct_held": 0.0,
-          "value": 3337500000
+          "value": 3367500000
         },
         {
           "holder": "Stanley-Laman Group, Ltd.",
           "shares": 35207,
           "pct_held": 0.0,
-          "value": 7833557500
+          "value": 7903971500
         }
       ]
     },
@@ -322,19 +322,19 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 5215950,
           "pct_held": 0.08,
-          "value": 16638880500
+          "value": 16597152900
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 1061078,
           "pct_held": 0.02,
-          "value": 3384838820
+          "value": 3376350196
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 3433,
           "pct_held": 0.0,
-          "value": 10951270
+          "value": 10923806
         }
       ]
     }
