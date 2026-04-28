@@ -1,0 +1,172 @@
+{
+  "date": "2026-04-28",
+  "date_range": {
+    "start": "2026-04-22",
+    "end": "2026-04-28"
+  },
+  "generated_at": "2026-04-28T10:14:16.838198Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lg_elec-2026-04-22-014",
+      "date": "2026-04-22",
+      "title": "LPL (LG Display Co Ltd AMERICAN DEPOSITORY SHARES) climbs 4.5 percent despite sharp Q4 2025 earnings miss against analyst forecasts. - Surprise Factor - Xã Thanh Hà",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 31,
+      "last_week": 28,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.15
+    },
+    "oled_penetration": {
+      "this_week": 18,
+      "last_week": 5,
+      "week_over_week_change": "+260%",
+      "sentiment_this_week": 0.06
+    },
+    "mini_led": {
+      "this_week": 4,
+      "last_week": 9,
+      "week_over_week_change": "-56%",
+      "sentiment_this_week": 0.12
+    },
+    "it_panel_demand": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "automotive_display": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.17
+    }
+  },
+  "company_7d_summary": {
+    "auo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "lg_elec": {
+      "event_count": 21,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "lg_display": {
+      "event_count": 19,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "samsung_elec": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 3
+    },
+    "tcl": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 4
+    },
+    "canon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "jdi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "boe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "himax": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "corning": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "sony": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 142,
+        "last": 95,
+        "change_pct": 49.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-22",
+      "event_count": 29,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-23",
+      "event_count": 36,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 19,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 8,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 24,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 16,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 10,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-22 ~ 2026-04-28）共 142 則事件，重點為「LPL (LG Display Co Ltd AMERICAN DEPOSITORY SHAR...」。法說會、OLED 滲透率、Mini LED為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "LG電子",
+        "reason": "本週出現 21 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "LGD",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星電子",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

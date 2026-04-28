@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 39,
+  "gate2_fail": 22,
+  "passed": 20,
+  "gate2_samples": [
+    "Corning Incorporated (GLW) Receives Rating Updates From BofA and Morgan Stanley - Yahoo Finance",
+    "Jim Cramer Explains Why Corning Is “Such an Important But Great” Stock - Insider Monkey",
+    "Corning Incorporated Just Opened a Financing Door After Its AI Stock Surge - TechStock²",
+    "Corning Incorporated (NYSE: GLW) registers debt, warrants and equity on shelf - Stock Titan",
+    "Morgan Stanley Lifts Corning (GLW) PT to $140 as Optical Stocks Hit New Highs - Insider Monkey"
+  ]
+}

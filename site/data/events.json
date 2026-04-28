@@ -1,5 +1,191 @@
 [
   {
+    "id": "corning-2026-04-28-001",
+    "date": "2026-04-28",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Gears Up For Q1 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOUlRMHpNdl93YlJvZDZOWUQyRkdtNHNmT2FKM3I4Y2kyNmpOb3didEJndkFGNmNyUTMwTHlFT0M4SnZjUmV2UE9BS1FURkxnemlSeDFqTk9wZmQza25hWUxRcVFjcXRXZGZkZ1RYbU",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOUlRMHpNdl93YlJvZDZOWUQyRkdtNHNmT2FKM3I4Y2kyNmpOb3didEJndkFGNmNyUTMwTHlFT0M4SnZjUmV2UE9BS1FURkxnemlSeDFqTk9wZmQza25hWUxRcVFjcXRXZGZkZ1RYbUFvNGQ2ZXFWZ2thLU5pN2NrQ2U3ZDZrTlFhV1RBVC1acmZvQURWTXNhaWxrVnZfa1VDZ1lrdmJsc3Y2VEtsVmlaTkRNZlJGNkRWQ1U1TjZ2SG84Z0JJUDFEUFJqcmQ1U1h6RGVxYUJOeVpCTDd0NjAxQzVrdDJzT2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-04-28-002",
+    "date": "2026-04-28",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies (NASDAQ:HIMX) Reaches New 12-Month High - Should You Buy? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaFhCNGMtZF84ZnQzdVBBUU5VaERHcW9saXlzd2tKVEl1U3dtQW1iYmxGRzRtMElwMUE5M25uejQ2WnlUajVsS194aW5Dd01iMERhSkFsWjVOcnpFWkN6THQ0bzJZUGMtdlF3TWRiTV",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaFhCNGMtZF84ZnQzdVBBUU5VaERHcW9saXlzd2tKVEl1U3dtQW1iYmxGRzRtMElwMUE5M25uejQ2WnlUajVsS194aW5Dd01iMERhSkFsWjVOcnpFWkN6THQ0bzJZUGMtdlF3TWRiTVJBSXNJaHpnaG9xbGVtamZ4RjJnb1pOWXhzWUlFZEpCT2YzY0I3eEk4V243dmwzUlhFcFcxVEhWaXpOQmNkTU43QTFiYk5sWjVlY0NTVUV4VXBEdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-04-28-003",
+    "date": "2026-04-28",
+    "companies": [
+      "lg_display",
+      "sony",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Direct View Light Emitting Diode (LED) Display Market is Going to Boom | LG Display, Sony Corporation, Daktronics - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPRXdyREY0cTR1SkNsYkdBZHBabUJjdGgtNlAzR1N1aXlNeTJ1VEhGWGdKTUlZNTZsQV9CaG9HbGRiSjFzTjVtQ0JuZm5kZXE2RXBmN0JDWFJ3Zkd4V3U0RmF5ckVyMmh2OTVNTHptdm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRXdyREY0cTR1SkNsYkdBZHBabUJjdGgtNlAzR1N1aXlNeTJ1VEhGWGdKTUlZNTZsQV9CaG9HbGRiSjFzTjVtQ0JuZm5kZXE2RXBmN0JDWFJ3Zkd4V3U0RmF5ckVyMmh2OTVNTHptdm5YVlFlV0t1aERrQWltZm5yWVBudk1RYk9oYU9XN1R3WTJkQnJmM0dSMTJDaV8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-04-28-004",
+    "date": "2026-04-28",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Samsung Wins Two ‘Best of the Best’ Honors at the Red Dot Design Award",
+    "summary": "Samsung Electronics today announced that it has earned a total of 16 awards, including Best of the Best honors for the OLED TV S95H and the Bespoke AI Laundry series, at the Red Dot Design Award demon",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-wins-two-best-of-the-best-honors-at-the-red-dot-design-award",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-04-28-005",
+    "date": "2026-04-28",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung Expands Award-Winning Spatial Signage Lineup With Global Launch of 32-Inch Model",
+    "summary": "Samsung Electronics today announced the global launch of the 32-inch Samsung Spatial Signage (SMHX model), adding a compact format to its glasses-free 3D commercial display lineup. Designed for narrow",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-expands-award-winning-spatial-signage-lineup-with-global-launch-of-32-inch-model",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-28-006",
+    "date": "2026-04-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Amkor records strong 1Q26, advanced packaging expected to triple YoY",
+    "summary": "Amkor Technology is off to a record start in 2026. First-quarter revenue hit US$1.68 billion, up 27% from the prior year, driven by record performance in AI data center applications and a fourth conse",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260428VL214/amkor-packaging-revenue-2026-arizona.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-28-007",
+    "date": "2026-04-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Empyrean draws retail inflows while profit falls, testing China EDA valuations",
+    "summary": "China's domestic EDA software developer Empyrean Technology is attracting a growing base of retail investors even as its earnings weaken, underscoring a widening gap between market enthusiasm for semi",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260428VL212/eda-profit-retail-software-design.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-28-008",
+    "date": "2026-04-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Macronix returns to profit in 1Q26, citing tighter supply and higher memory prices",
+    "summary": "Macronix's return to profitability in the first quarter of 2026 signals supply constraints and stronger memory pricing, with implications for global flash markets and customer supply chains. The Taiwa",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260428PD214/2026-profit-nand-revenue-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-04-28-009",
+    "date": "2026-04-28",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "positive",
+    "title": "LG reportedly plans to expand its India manufacturing footprint",
+    "summary": "<em>New Daily</em> reports that LG Electronics has decided to expand its manufacturing footprint in India, with a major investment of about KRW1.4 trillion (approximately US$1.0 billion) to upgrade it",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260428VL211/manufacturing-lg-investment-lg-electronics-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-28-010",
+    "date": "2026-04-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Restocking, cost pass-through lift Eternal Materials to 1Q26 profit gains",
+    "summary": "Eternal Materials's stronger March and first-quarter 2026 results signal resilience across global supply chains of synthetic resins and electronic materials. Rising sales, steady margins, and effectiv",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260428PD229/eternal-materials-cost-materials-profit-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-04-27-001",
     "date": "2026-04-27",
     "companies": [
@@ -141,6 +327,159 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260427PD210/broadcom-marvell-production-chips-cpo.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-04-27-009",
+    "date": "2026-04-27",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "From Gorilla Glass to AI Leader: How Corning Transformed Itself Into the Leader AI Data Center Stock - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeVBZVEh3ZWRTQkJvX3Z1M2g4UDhSNF9sWk1XQ2VWUjktWGQ0enNiZDkxdXZlRk1KZVFPTjYxUElrRXhnWXFIaFBDcmQ4Rll2aERpX29BZ2hxbEhRTElmOVFuU1A3NGdQMXNmR1NiYT",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeVBZVEh3ZWRTQkJvX3Z1M2g4UDhSNF9sWk1XQ2VWUjktWGQ0enNiZDkxdXZlRk1KZVFPTjYxUElrRXhnWXFIaFBDcmQ4Rll2aERpX29BZ2hxbEhRTElmOVFuU1A3NGdQMXNmR1NiYTFxWHJiOVdWUlBFX2ZJZ0JZdDhNckZ2bkNLTmc5MG9yLWszbXYyNXFVRWtxeDk5X29hUHh4Tk53TmxaMEI0UGZVN3VYdVFTbU5OTjg2QXlZeDdWMzFYMy1VOC1Eem5sSW56U2xla21hcUNMRXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-04-27-010",
+    "date": "2026-04-27",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning set to report earnings as AI fiber frenzy meets reality check - Investing.com Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZTRyQnNiUEViS1llQVV2eUdUYzJSeElPTEstaFJCdWs0VUVVdW9mWFEwdnJkVXlhZ09qSnpjc1dMZFNxZkNNWDlMS2Zicjd4YnlUSTA2WnNlbzcyVHg4dWRGbmhuYlFZZmk4eGFZST",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZTRyQnNiUEViS1llQVV2eUdUYzJSeElPTEstaFJCdWs0VUVVdW9mWFEwdnJkVXlhZ09qSnpjc1dMZFNxZkNNWDlMS2Zicjd4YnlUSTA2WnNlbzcyVHg4dWRGbmhuYlFZZmk4eGFZSTd1ckpMTjJxbFQ2TEh5bENQbElfT05yUXRIMEpzaEJKU2NOOG81THc1UGpXdzU2T0xRRjBzVWdCNERnU1F4dG9zWUNpeWdDaVhsYndXbl9n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-04-27-011",
+    "date": "2026-04-27",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Inc Stock (GLW) Moved Down by 3.61% on Apr 27: What Investors Need To Know - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ0JkTHZhQ3gyYTJSUm82UTl3TTAxOG1YUWVES3gzcjVQNThkc25mcFBhb0Y2RlB6cVhJQ2ZLLURTZUpQaGQ2QVRPT09oZ2xfX3RBQkJQeEQtc0NBRld0b3JsaG16Y2l5WlZUd0I2bm",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ0JkTHZhQ3gyYTJSUm82UTl3TTAxOG1YUWVES3gzcjVQNThkc25mcFBhb0Y2RlB6cVhJQ2ZLLURTZUpQaGQ2QVRPT09oZ2xfX3RBQkJQeEQtc0NBRld0b3JsaG16Y2l5WlZUd0I2bmFhd1BHcTVoZ0Z4YjBidzdLRTRCaFhGMTB4TGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-04-27-012",
+    "date": "2026-04-27",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Corning (GLW) a 'Buy' Ahead of Its Upcoming Earnings Announcement? - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQbldvM3R2UF9sOVZBeFM1NGI5Z1VoN0c5ekpTTHk5SlBIQzNKTUx2WXhGTl9yWTl0THNMS01GZzEtRWZXTWJwcXRCRU11T0JseENQY3BhZmhXNzBkVVA0WEhrQ3ZxQkZGQUN0cFprR2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbldvM3R2UF9sOVZBeFM1NGI5Z1VoN0c5ekpTTHk5SlBIQzNKTUx2WXhGTl9yWTl0THNMS01GZzEtRWZXTWJwcXRCRU11T0JseENQY3BhZmhXNzBkVVA0WEhrQ3ZxQkZGQUN0cFprR24wUU1IS040QzN5Q3hiWVFoQ0ZsMW5Jdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-04-27-013",
+    "date": "2026-04-27",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Which Is a Better Investment, Axcelis Technologies, Inc. or Himax Technologies, Inc. Stock? - AAII.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWXE4MmNCZ2VDZk50dm5Va0lnRkJuenBaZFBJTG5WNE1oZjBHWUpiUGhEQmszS0tNN0Myend1N2Z0OUthOWEtdnFJTlBOejRYeWdBZGJiYjBqRmc4cGlRNDZVWFRBbmdlWjkxTzJUVT",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWXE4MmNCZ2VDZk50dm5Va0lnRkJuenBaZFBJTG5WNE1oZjBHWUpiUGhEQmszS0tNN0Myend1N2Z0OUthOWEtdnFJTlBOejRYeWdBZGJiYjBqRmc4cGlRNDZVWFRBbmdlWjkxTzJUVTJtbGc1ajBPeGpzT3dVb2R3WHpCNm1wR2dHMHFmVG50RnNCRVl2aUZzSVR2ckxYR0l0UnhNWC0yZEVpQnNJbkc2OU9tZkd3aG9EX0xtWG15OExlNGVYY2tROTlkal82SXB0SGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-04-27-014",
+    "date": "2026-04-27",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies ADR Clears Technical Benchmark, Hitting 90-Plus RS Rating - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUThhQS1NdWpGTkpyMEcyNXZYSXRJZnR5Y0lCYzVSTTUzcG5TUWNsd1JBanFKenFkcFJ5Yjk3bnlnZ2R2NENFbHJaLUlnR2lCMUFLNDJSWENFRFlpOW5YUGEwQ0lXVG92LXNsc2liR0",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUThhQS1NdWpGTkpyMEcyNXZYSXRJZnR5Y0lCYzVSTTUzcG5TUWNsd1JBanFKenFkcFJ5Yjk3bnlnZ2R2NENFbHJaLUlnR2lCMUFLNDJSWENFRFlpOW5YUGEwQ0lXVG92LXNsc2liR0FzTU85U3ZXMTJIbzBENm5qdkR6N05QWjViX1NfTFZZQUtjbDVDN3Fvb1RjSjNUdEhWRmtQVlFXYTd6aVIySUt6WjRhdVp0ZGlMNmxj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-04-27-015",
+    "date": "2026-04-27",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display posts strongest 1Q26 profit in five years, signals end to job cuts - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1RzaExEc1hSQ1c1Z1lMdklCcWEtQThEM3JaX1R4X2s5SkVQc012M1RMcXdKaTk5WEdCOXBTb3ptYWxXdG1MQWdxajRSYjFEOE1nSFdJS2FQMHFhMFhPZHNZZElLMUh2OVFDMDJ5Zn",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1RzaExEc1hSQ1c1Z1lMdklCcWEtQThEM3JaX1R4X2s5SkVQc012M1RMcXdKaTk5WEdCOXBTb3ptYWxXdG1MQWdxajRSYjFEOE1nSFdJS2FQMHFhMFhPZHNZZElLMUh2OVFDMDJ5ZnE0U2Vqa3ZOdzI1OHlYbTRTdzc3dzdESGZLMmxoYnVzUDNPdlNyT1hHbEpqQ2Ixa01k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-04-27-016",
+    "date": "2026-04-27",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "As demand for IT AMOLEDs is not as high as expected, Samsung may start producing rigid low-cost OLED smartphone panels at its 8.6-Gen A6 fab",
+    "summary": "<p>Samsung is ramping up its A6 8.6-Gen IT AMOLED line, and starting to produce <a href=\"https://www.oled-info.com/apples-2026-oled-macbook-pro-be-companys-first-touch-enabled-laptop-according\">14\" an",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/demand-it-amoleds-not-high-expected-samsung-may-start-producing-rigid-low-cost",
         "type": "rss"
       }
     ]
@@ -558,6 +897,45 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUi01elJyTERrVDJBbEhSXzlLTzdSWTc4N2Q0VXRJZEdhWmJaajhGXy1nS2kxNExUVU1UcVU4QUkwWl83RXNVWXFTSjB0bHUwWHhHSHFPQlMwODJ1WEVWSVdDb2lRd2YydDJ3OFdJX0dKMmJ2MkV2dmtzRUY0UU1JSnFoTTJsTG13cGR1SVdBT2dwRXVlYjhweFBUSlZEb21FeVRwcUtvMWN6SnNHXzVzeEV0VTVDdnJMNmxXWmZjSlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-04-26-023",
+    "date": "2026-04-26",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Q1 2026 earnings preview - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxQeVJHaHJybG13azdmQ2g2UE1fS1hZaWVCLWVreDh6WDcybWwzclRUMUdEdXJlaGVZbWNLVjBoV19sQmo0YmxXU1E1TFByc1FfMmZNY2ZyLXFkczhTaEoweDNwWllKaDFNejNzMFU0M0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQeVJHaHJybG13azdmQ2g2UE1fS1hZaWVCLWVreDh6WDcybWwzclRUMUdEdXJlaGVZbWNLVjBoV19sQmo0YmxXU1E1TFByc1FfMmZNY2ZyLXFkczhTaEoweDNwWllKaDFNejNzMFU0M01Wd3ZGVEl0NjdPU2dEZVZHTDJ4SkNsTUNqdXVnbWFvMDVOaGpPMW51VWlXU0RaYlk3UVc1ejZWcnJiTTZydHllUnNUdzJRMW9URmMyY0xrRll2MUYwQUtZRnI2ZGdzVUJPRzBDQU5uQ2JIdndhOHI0RWhmeHpXZE4wTGdGWTlSdmpxMW1HWmJSRXpuZDN2Z3oyTjN4MktHYkg1amdjNi00RU5DVkhZUGJXSkdFbDNDUk9fSEJqWkdHd1JSVm1FakJ0ejBRaURzbUVQY09VUHVkNkdubGFvNEk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-04-26-024",
+    "date": "2026-04-26",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Electronics Launches Endangered Species Campaign in New York - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmaFM5Ui1PZG82V2xLdFA0bGEwdUR5Xy0zb1VnVEFLZlQwb1loejExaUYxQjFtM0t2eFFYdGc2N3VnNkMxZ185b2R4OUtPZ2M2UGdwMUZ4MDh3NUZfZGdnVGdtVGpTQQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmaFM5Ui1PZG82V2xLdFA0bGEwdUR5Xy0zb1VnVEFLZlQwb1loejExaUYxQjFtM0t2eFFYdGc2N3VnNkMxZ185b2R4OUtPZ2M2UGdwMUZ4MDh3NUZfZGdnVGdtVGpTQQ?oc=5",
         "type": "rss"
       }
     ]

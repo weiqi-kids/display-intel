@@ -1,0 +1,239 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T10:14:16.767904Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-04-28-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Direct View Light Emitting Diode (LED) Display Market is Going to Boom | LG Display, Sony Corporation, Daktronics - openPR.com",
+      "companies": [
+        "lg_display",
+        "sony",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "sony",
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRXdyREY0cTR1SkNsYkdBZHBabUJjdGgtNlAzR1N1aXlNeTJ1VEhGWGdKTUlZNTZsQV9CaG9HbGRiSjFzTjVtQ0JuZm5kZXE2RXBmN0JDWFJ3Zkd4V3U0RmF5ckVyMmh2OTVNTHptdm5YVlFlV0t1aERrQWltZm5yWVBudk1RYk9oYU9XN1R3WTJkQnJmM0dSMTJDaV8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-28-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Amkor records strong 1Q26, advanced packaging expected to triple YoY",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260428VL214/amkor-packaging-revenue-2026-arizona.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-28-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Empyrean draws retail inflows while profit falls, testing China EDA valuations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260428VL212/eda-profit-retail-software-design.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-28-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Macronix returns to profit in 1Q26, citing tighter supply and higher memory prices",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260428PD214/2026-profit-nand-revenue-growth.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-28-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Restocking, cost pass-through lift Eternal Materials to 1Q26 profit gains",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260428PD229/eternal-materials-cost-materials-profit-revenue.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 129,
+    "too_old": 170,
+    "gate1_blocked": 39,
+    "gate2_blocked": 22,
+    "passed": 20,
+    "pass_rate": "8.0%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "Corning Incorporated (GLW) Receives Rating Updates From BofA and Morgan Stanley - Yahoo Finance",
+      "Jim Cramer Explains Why Corning Is “Such an Important But Great” Stock - Insider Monkey",
+      "Corning Incorporated Just Opened a Financing Door After Its AI Stock Surge - TechStock²",
+      "Corning Incorporated (NYSE: GLW) registers debt, warrants and equity on shelf - Stock Titan",
+      "Morgan Stanley Lifts Corning (GLW) PT to $140 as Optical Stocks Hit New Highs - Insider Monkey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為LG電子、三星電子、康寧相關動態：「Direct View Light Emitting Diode (LED) Display Market is ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Direct View Light Emitting Diode (LED) Display Market is Going to Boom | LG D...",
+        "level": "red"
+      },
+      {
+        "text": "Amkor records strong 1Q26, advanced packaging expected to triple YoY（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
