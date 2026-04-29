@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-29",
+  "total_events": 22,
+  "by_company": {
+    "canon": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lg_display": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "boe": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 10,
+      "sentiment_avg": -0.05
+    },
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": 0.05
+    },
+    "automotive_display": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "panel_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mini_led": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 6,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ]
+}

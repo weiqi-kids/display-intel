@@ -1,0 +1,308 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T10:06:34.305430Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-04-29-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display's 27-inch DFR Gaming OLED panel wins SID's 'Display of the Year' - PR Newswire",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT3ZpT0VpRDVFMmw3eDRPSlc1RDZGbGgtT1hjdjlmSmc3Q3BZdUlqa2NNTG5IS1hIX1U2M3Via3hlNmJYbzMzVzRLMDBRcVNPVUdOclhOUEhzQnJjdk9MZUt5NE9tY0YzUHFpUlZWOWlZcnFkNnU3Mm5KbHR6M2hwWnFBamJFNTNueS0xUEJMTGZ5bm5aM3RfMTAyS3M0VnV0VDdzMmxhTGFJczZKdTFvQzJ6dkstZzhlc1NhT05qRWhBSlA4SXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_display-2026-04-29-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display wins ‘Display of the Year’ for ultra-fast OLED - The Korea Herald",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93TEhFbHFEeUlvNXBuYkxBdzRKd1B1YlJValdhRUZQejY0Z3FnNUNTNDlLVjBkSC1XTjVlbWJJcVViNzlJVzBQT0F1NXVWNUc0a2RENkI1Zw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_display-2026-04-29-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display’s 27-inch DFR Gaming OLED panelwins SID’s ‘Display of the Year’ - LG Display Newsroom - LG Display Newsroom",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM29XYVdPOC1DYnFERl9vUTNVY28wd01vaXpJSFZDOUhlWEQ2dF9nUTNDbXFfMzNpNTlVeUMtVjZrdWhCSmdWZG9FUXVGQ3l0WWFpNHcwOHFock5oclNhZDVkZmtBSFI2X0J0QURNc0ZOVEdfRjZnb3VYM2hFdmZJckJvcnM5Yy1ZRlozR284Y3RyT2ltdExScl9PN0s2NG5wM09YUWZwOGQxZFBTNkE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_display-2026-04-29-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display OLED Gaming Panel Wins SID Top Award - Businesskorea",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LRC1LMmtUcWRhbVpSU3dPLVJteU1aazMyVnZqbWh2X1p1ak9PYmFWWnNGSWF6MUpTRGNKSVZPYVVvMXBicUhzUzE0MnppX29LM0R4S0Z3Uk5kOXJ1aGpwcG04ZGtPVEVIUTZ3WXhLSkZWUDc4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_display-2026-04-29-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display gaming OLED wins SID Display of the Year award - 디지털투데이",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTW1xQ05SRGJqd2NSRmM5WUhLX2t1YUswWi14ODJlVFptN2p3NDVFQUxoZHR2ZjREYWQzaVdpNF9VazkzQWZzSmxELVhHWThzZ2tXV1ZZZXhWQkxJVkpPR1VTTTMzc2VLZ2tKLW94QVVaRHZRTy1zZXNZaUJGTTlUZVB4Wm5sdzhBUHdGeEx0SllBZXY3V05sNXY3UGlUT19fXzdETA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 6,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 19,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 7
+      },
+      {
+        "id": "lg_display",
+        "count": 6
+      },
+      {
+        "id": "canon",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 110,
+    "too_old": 161,
+    "gate1_blocked": 40,
+    "gate2_blocked": 25,
+    "passed": 44,
+    "pass_rate": "16.3%",
+    "gate2_block_rate": "9.3%",
+    "gate2_samples": [
+      "Research Alert: CFRA Maintains Buy Opinion On Shares Of Corning Incorporated - Moomoo",
+      "Corning Incorporated (GLW) Receives Rating Updates From BofA and Morgan Stanley - Insider Monkey",
+      "Corning faces weakness in non-optical segments as data-center business booms - marketscreener.com",
+      "(GLW) Corning Incorporated Expects Q2 Core EPS Range $0.73 - $0.77 - marketscreener.com",
+      "Canon publishes Integrated Report 2026 - Canon Global"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為LG電子、LGD、佳能相關動態：「LG Display's 27-inch DFR Gaming OLED panel wins SID's 'Di...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LG Display's 27-inch DFR Gaming OLED panel wins SID's 'Display of the Year' -...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display wins ‘Display of the Year’ for ultra-fast OLED - The Korea Herald（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

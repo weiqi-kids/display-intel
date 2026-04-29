@@ -1,77 +1,77 @@
 {
   "corning": {
-    "earliest": "2020-08-21",
-    "latest": "2026-04-27",
-    "count": 1426
+    "earliest": "2020-05-26",
+    "latest": "2026-04-28",
+    "count": 1489
   },
   "applied_materials": {
-    "earliest": "2020-08-21",
-    "latest": "2026-04-27",
-    "count": 1426
+    "earliest": "2020-05-26",
+    "latest": "2026-04-28",
+    "count": 1489
   },
   "canon": {
-    "earliest": "2020-08-26",
+    "earliest": "2020-05-28",
     "latest": "2026-04-28",
-    "count": 1387
+    "count": 1448
   },
   "novatek": {
-    "earliest": "2020-08-25",
-    "latest": "2026-04-28",
-    "count": 1375
+    "earliest": "2020-05-27",
+    "latest": "2026-04-29",
+    "count": 1438
   },
   "himax": {
-    "earliest": "2020-08-21",
-    "latest": "2026-04-27",
-    "count": 1426
+    "earliest": "2020-05-26",
+    "latest": "2026-04-28",
+    "count": 1489
   },
   "auo": {
-    "earliest": "2020-08-25",
-    "latest": "2026-04-28",
-    "count": 1375
+    "earliest": "2020-05-27",
+    "latest": "2026-04-29",
+    "count": 1438
   },
   "innolux": {
-    "earliest": "2020-08-25",
-    "latest": "2026-04-28",
-    "count": 1375
+    "earliest": "2020-05-27",
+    "latest": "2026-04-29",
+    "count": 1438
   },
   "lg_display": {
-    "earliest": "2020-08-25",
-    "latest": "2026-04-28",
-    "count": 1388
+    "earliest": "2020-05-27",
+    "latest": "2026-04-29",
+    "count": 1452
   },
   "boe": {
-    "earliest": "2020-08-24",
-    "latest": "2026-04-28",
-    "count": 1375
+    "earliest": "2020-05-26",
+    "latest": "2026-04-29",
+    "count": 1438
   },
   "jdi": {
-    "earliest": "2020-08-26",
+    "earliest": "2020-05-28",
     "latest": "2026-04-28",
-    "count": 1387
+    "count": 1448
   },
   "samsung_elec": {
-    "earliest": "2020-08-25",
-    "latest": "2026-04-28",
-    "count": 1388
+    "earliest": "2020-05-27",
+    "latest": "2026-04-29",
+    "count": 1452
   },
   "lg_elec": {
-    "earliest": "2020-08-25",
-    "latest": "2026-04-28",
-    "count": 1388
+    "earliest": "2020-05-27",
+    "latest": "2026-04-29",
+    "count": 1452
   },
   "sony": {
-    "earliest": "2020-08-26",
+    "earliest": "2020-05-28",
     "latest": "2026-04-28",
-    "count": 1387
+    "count": 1448
   },
   "tcl": {
-    "earliest": "2020-08-24",
-    "latest": "2026-04-28",
-    "count": 1375
+    "earliest": "2020-05-26",
+    "latest": "2026-04-29",
+    "count": 1438
   },
   "etf_soxx": {
-    "earliest": "2021-08-17",
-    "latest": "2026-04-27",
-    "count": 1178
+    "earliest": "2021-05-19",
+    "latest": "2026-04-28",
+    "count": 1241
   }
 }
