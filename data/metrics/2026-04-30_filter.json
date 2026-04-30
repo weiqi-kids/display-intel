@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 36,
+  "gate2_fail": 25,
+  "passed": 33,
+  "gate2_samples": [
+    "Corning's Angela Haneklau Named Inaugural Recipient of Graybar's WINGS Luminary Award - Morningstar",
+    "Corning Incorporated (GLW) Receives Rating Updates From BofA and Morgan Stanley - Yahoo Finance",
+    "Graybar gives first WINGS Luminary Award to Corning's Angela Haneklau - Stock Titan",
+    "Should You Investigate Corning Incorporated (NYSE:GLW) At US$153? - Moomoo",
+    "Research Alert: CFRA Maintains Buy Opinion On Shares Of Corning Incorporated - Moomoo"
+  ]
+}

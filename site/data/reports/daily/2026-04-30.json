@@ -1,0 +1,259 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T10:07:25.190541Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-30-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "MetaX GPU revenue jumps 75%, losses narrow on AI demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260430VL221/gpu-metax-revenue-demand-2026.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "himax-2026-04-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Himax Technologies (HIMX) to Release Quarterly Earnings on Thursday - MarketBeat",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOG0yLUdLZDNhX205anZNd19vRUxBQUxPTjhCakJ5VGhiOWVVd1k2SEVxY3hZM1dPMnNsTlNBeFpZTU5FTlVkSnFXZDk5dUIzcjRnVEcyUTVIaVBZWmYwRUdtN2FWS0V5OWpfZ2Fldk1GTHZXZExNRU1iRFBtLXFPZEFOSEIyVFVnb21NZVRlUExRYUl5NkhsV1QwcTFiMllwS0J0MWxJUWVBY3NGNlNDbzBvSkYzZnljWlhV?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_elec-2026-04-30-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Samsung Electronics Announces First Quarter 2026 Results",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.samsung.com/global/samsung-electronics-announces-first-quarter-2026-results"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-30-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan OSAT Powertech lifts capex to US$1.6bn, targets AI packaging growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260429PD241/packaging-growth-testing-powertech-taiwan.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-30-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ASE Technology sees seasonality fade as AI demand drives steady 2026 growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": -0.12
+      },
+      "source_url": "https://www.digitimes.com/news/a20260430PD200/2026-ase-growth-revenue-osat.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 7,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "auo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 127,
+    "too_old": 159,
+    "gate1_blocked": 36,
+    "gate2_blocked": 25,
+    "passed": 33,
+    "pass_rate": "13.0%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Corning's Angela Haneklau Named Inaugural Recipient of Graybar's WINGS Luminary Award - Morningstar",
+      "Corning Incorporated (GLW) Receives Rating Updates From BofA and Morgan Stanley - Yahoo Finance",
+      "Graybar gives first WINGS Luminary Award to Corning's Angela Haneklau - Stock Titan",
+      "Should You Investigate Corning Incorporated (NYSE:GLW) At US$153? - Moomoo",
+      "Research Alert: CFRA Maintains Buy Opinion On Shares Of Corning Incorporated - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為三星電子、康寧、Himax Technologies相關動態：「MetaX GPU revenue jumps 75%, losses narrow on AI demand」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "MetaX GPU revenue jumps 75%, losses narrow on AI demand（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Himax Technologies (HIMX) to Release Quarterly Earnings on Thursday - MarketBeat（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

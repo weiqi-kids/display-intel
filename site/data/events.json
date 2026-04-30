@@ -1,5 +1,318 @@
 [
   {
+    "id": "corning-2026-04-30-001",
+    "date": "2026-04-30",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "positive",
+    "title": "Corning reports first-quarter 2026 growth and advances portfolio restructuring under Springboard plan - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXBnSnU0NVhudDZLUUxieUc5XzUwVmREX0ZvbVJhRm9hc2RtYk5ZVlpPazVjbkhPRnZkLU5oeGRlX09SN21QdVV4MnpjcW81OWJoNERkVTFlX3RUWU9wQ0dodWRKX2hGSlZmeUpyMl",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXBnSnU0NVhudDZLUUxieUc5XzUwVmREX0ZvbVJhRm9hc2RtYk5ZVlpPazVjbkhPRnZkLU5oeGRlX09SN21QdVV4MnpjcW81OWJoNERkVTFlX3RUWU9wQ0dodWRKX2hGSlZmeUpyMlI4TFg5eTRVZEkzTndmQlJUcFk4RGdfajN6UWRiTjZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-04-30-002",
+    "date": "2026-04-30",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) to Release Quarterly Earnings on Thursday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOG0yLUdLZDNhX205anZNd19vRUxBQUxPTjhCakJ5VGhiOWVVd1k2SEVxY3hZM1dPMnNsTlNBeFpZTU5FTlVkSnFXZDk5dUIzcjRnVEcyUTVIaVBZWmYwRUdtN2FWS0V5OWpfZ2Fldk",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOG0yLUdLZDNhX205anZNd19vRUxBQUxPTjhCakJ5VGhiOWVVd1k2SEVxY3hZM1dPMnNsTlNBeFpZTU5FTlVkSnFXZDk5dUIzcjRnVEcyUTVIaVBZWmYwRUdtN2FWS0V5OWpfZ2Fldk1GTHZXZExNRU1iRFBtLXFPZEFOSEIyVFVnb21NZVRlUExRYUl5NkhsV1QwcTFiMllwS0J0MWxJUWVBY3NGNlNDbzBvSkYzZnljWlhV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-04-30-003",
+    "date": "2026-04-30",
+    "companies": [
+      "auo"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "AU Optronics posts slight first-quarter loss and warns of softer consumer electronics orders - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOXzZrRDF0NkswRzA5ZzJ4U0pfWDlDbTU3Tkt3QlJqNUtpRFJHWkNZT1Y1dlIxU0kybndTV2REdUNobGc4WG5JLXBsRzU4N0REcFhSOUVBNENHSWV4d18ta0M5OHJTWkNYSWFaSU13aH",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOXzZrRDF0NkswRzA5ZzJ4U0pfWDlDbTU3Tkt3QlJqNUtpRFJHWkNZT1Y1dlIxU0kybndTV2REdUNobGc4WG5JLXBsRzU4N0REcFhSOUVBNENHSWV4d18ta0M5OHJTWkNYSWFaSU13aHNvMzlEVllyQ203bjZ6eUtHbUxHbnJQQWNsX3RQdjhEa2dGZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-04-30-004",
+    "date": "2026-04-30",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Samsung Electronics Announces First Quarter 2026 Results",
+    "summary": "Samsung Electronics today reported financial results for the first quarter ended March 31, 2026. The Company posted KRW 133.9 trillion in consolidated revenue, an all-time quarterly high, representing",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-electronics-announces-first-quarter-2026-results",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-30-005",
+    "date": "2026-04-30",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Introducing OLED-Info AI,  a new AI-powered assistant built specifically for the OLED industry!",
+    "summary": "<p>We’re excited to introduce OLED-Info AI — a new AI-powered assistant built specifically for the OLED industry, based on our comprehensive OLED industry knowledge and data.</p><img src=\"https://www.",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/introducing-oled-info-ai-new-ai-powered-assistant-built-specifically-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-30-006",
+    "date": "2026-04-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiwan OSAT Powertech lifts capex to US$1.6bn, targets AI packaging growth",
+    "summary": "Memory packaging and testing provider Powertech Technology posted net profit of NT$1.84 billion (US$57 million) for the first quarter of 2026, its second-highest for the same period, and raised its fu",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260429PD241/packaging-growth-testing-powertech-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-30-007",
+    "date": "2026-04-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ASE Technology sees seasonality fade as AI demand drives steady 2026 growth",
+    "summary": "Global outsourced semiconductor assembly and test (OSAT) leader ASE Technology Holding (ASEH) held an earnings call on April 29, reporting a robust first quarter of 2026 that broke from the traditiona",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260430PD200/2026-ase-growth-revenue-osat.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-30-008",
+    "date": "2026-04-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "MetaX GPU revenue jumps 75%, losses narrow on AI demand",
+    "summary": "China-based GPU developer MetaX reported a solid start to 2026, underscoring how domestic high-performance GPUs are beginning to translate technical progress into tangible commercial traction.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260430VL221/gpu-metax-revenue-demand-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-30-009",
+    "date": "2026-04-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Meta's 1Q26 earnings redraw the AI hardware map",
+    "summary": "Meta Platforms' first-quarter 2026 earnings delivered one of the most consequential procurement signals in recent memory for Asia's technology supply chain.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260430VL219/meta-2026-earnings-hardware-infrastructure.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-04-30-010",
+    "date": "2026-04-30",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Memory crunch squeezes smartphone SoC market as Samsung gains share",
+    "summary": "<p class=\"P1\" data-start=\"1109\" data-end=\"1324\">Global smartphone system-on-chip (SoC) shipments fell 8% year-over-year in the first quarter of 2026, as a prolonged memory shortage weighed on handset ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260430VL220/smartphone-soc-samsung-exynos-mediatek.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-04-30-011",
+    "date": "2026-04-30",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung memory buyers lock in longer deals as 2027 demand comes early",
+    "summary": "<p class=\"P1\" data-start=\"948\" data-end=\"1180\">Samsung Electronics executives said major memory customers are seeking longer-term supply commitments and pulling forward demand for 2027, underscoring h",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260430VL218/samsung-demand-2027-dram-hbm.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-30-012",
+    "date": "2026-04-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiwan wafer maker Episil triples capex to scale silicon photonics for AI",
+    "summary": "Episil Precision will reallocate production toward larger-diameter silicon epitaxy and silicon photonics to improve profitability and meet AI supply chain demand, the company announced. The move inclu",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260430PD217/silicon-production-episil-photonics-capex.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-30-013",
+    "date": "2026-04-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Chunghwa Precision Test raises capex as HPC probe card orders hit 30% of sales",
+    "summary": "Chunghwa Precision Test Tech reported that strong demand from high-performance computing chip customers drove first-quarter 2026 revenue to NT$1.357 billion (US$43 million) and operating profit to NT$",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260430PD229/demand-chpt-hpc-probe-card-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-30-014",
+    "date": "2026-04-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Delta Electronics posts 34% revenue growth in 1Q26, invests NT$12.1B to expand Taoyuan plants",
+    "summary": "Delta Electronics reported strong first-quarter results and approved NT$12.1 billion (US$380 million) in plant investments, moves that signal expanded production capacity for AI servers and data cente",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260430PD203/delta-electronics-growth-plant-production-capacity-merger.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-30-015",
+    "date": "2026-04-30",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "South Korea's OLED share rebounds to 68.7% in 2025",
+    "summary": "South Korea's global OLED market share increased by 1.5pp to 68.7% in 2025, marking its first rise in a decade and drawing widespread attention. According to <em>Chosun Biz</em>, the Korea Display Ind",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260430PD224/south-korea-oled-panel-display-market-share-2025.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-30-016",
+    "date": "2026-04-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "NB plans plan to cut NRE and tooling fees, Chinese ODMs expand manufacturing footprint",
+    "summary": "Sources from the notebook (NB) supply chain stated that Taiwanese ODM manufacturers that once stood at the forefront of the market are gradually stepping back, with Chinese ODM manufacturers beginning",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260429PD211/odm-manufacturing-nre-supply-chain-brand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-30-017",
+    "date": "2026-04-30",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "[News] Over 10 Automobile Models Adopted Micro LED Headlamps in 2026, Mercedes-Benz and Audi Included - LEDinside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1ZlpQZ3M0b2JxXzNRNnpTc0k4T3VyOVlaZjN3a0Rpa1htSnJ4cEkzUlFFUjdreWFYNjFsRjUzWlU5Z0lnbmUxN01UNnY?oc=5\" target=\"_blank\">[News] Over 10 Automobil",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1ZlpQZ3M0b2JxXzNRNnpTc0k4T3VyOVlaZjN3a0Rpa1htSnJ4cEkzUlFFUjdreWFYNjFsRjUzWlU5Z0lnbmUxN01UNnY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-04-29-001",
     "date": "2026-04-29",
     "companies": [
@@ -414,6 +727,283 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS09fdnRoa0g1LTBqaXlrUVNHbHVtRTdFQ1NPb3JRekhOY21zc2JfSlAzX3ZWNFlvbUR1eVJVUE1CdnhfNElUbGgxVENVNVNrc2Z0OXU3cHA1MHVtR0dKeVlFV3Y5T2ZqQVpSbDRvZEh4TTFySjRzYTJfM0ZPcFdsLVU5bVItLVBXaFJ0NGFPQ2c4TWd4Zl9IUFJ4UzZ1d1Z4RmVZOUJPVVBoWWd5clozY0tVbEc0OWRTZUxEQkFWcEQtRTJ1bnJmTlJhd1NOY1hpb3pDSThzNmxjQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-04-29-023",
+    "date": "2026-04-29",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning Sees Long-Term Tailwinds In Optics, Underwhelmed With Guidance (NYSE:GLW) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNVjVzUWZTZkhaOFlWb2ZVVFkwUVNVWkFHWTROSkNYWFZ2UUdSMFd2WnZrMS01RW5QdF95OER2MEVrX1M0enk0eUltUTNwbkNnTXBKeTFtclVZZl9ZYVB3ZnduR2FJa3Fwb0J4RkxINH",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVjVzUWZTZkhaOFlWb2ZVVFkwUVNVWkFHWTROSkNYWFZ2UUdSMFd2WnZrMS01RW5QdF95OER2MEVrX1M0enk0eUltUTNwbkNnTXBKeTFtclVZZl9ZYVB3ZnduR2FJa3Fwb0J4RkxINHVUN1FUTUxoQjlFSXRnZmhVeTFZV3JBaTlTaThzQ1dwN2ZTVUNKWXRXclEzeWdvdDlLSldfZGh3YWhaRzlyNzJR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-04-29-024",
+    "date": "2026-04-29",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning Incorporated (NYSE:GLW) Q1 2026 Earnings Call Transcript - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM1ZZeXhpZDV1eDRyZkRwdnVFUmx6R2s3RWVhcGtwZl9XbXBxd0ZJRXdFbG9ZSE5BV2gwVmxjMkJQS0ZZdFN3aUdKWW11NlJ1aHhoWHF5QU9Wd2FhZHVqWkgxRlVfM3FrTHh3RXJvX3",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM1ZZeXhpZDV1eDRyZkRwdnVFUmx6R2s3RWVhcGtwZl9XbXBxd0ZJRXdFbG9ZSE5BV2gwVmxjMkJQS0ZZdFN3aUdKWW11NlJ1aHhoWHF5QU9Wd2FhZHVqWkgxRlVfM3FrTHh3RXJvX3dzYlotSEM2ZjNPQW1zQ1Z3amUzUkRybWVPTmN0eExnWFU3Tm84eEY4bEp3Z0c1UEZuM3J3Z3RCSDM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-04-29-025",
+    "date": "2026-04-29",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning (GLW), Meta (META) Break Ground on $6B Optical Cable Facility Expansion - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFRTN19wQkpYUzBTTUxpNjBFUWJjczd6UWY2OUhNZm5SNFYycURPMmU5RXVyTWFrTkV6ZWpPVjQtU08yaGROcWMwWk5kLUlyWFBwd3VyTWFwU01EQU5HNXgwd1QwWjh3VmdUVFpWeW",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFRTN19wQkpYUzBTTUxpNjBFUWJjczd6UWY2OUhNZm5SNFYycURPMmU5RXVyTWFrTkV6ZWpPVjQtU08yaGROcWMwWk5kLUlyWFBwd3VyTWFwU01EQU5HNXgwd1QwWjh3VmdUVFpWeW9pMmNldElyRVhiTThVNG8xMWNIa3RITlpHdEp6RUFPc0FyLXQ5NEl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-04-29-026",
+    "date": "2026-04-29",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Gaming OLED Monitor Wins SID Display of the Year - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJOVVUYlhrNnhhWDVRM0pnM0otX1pWM2N4TUtONWxxdlg3WUtwcGFDMnU4VU4tQ3lmZDNTYmljamg1bUkyT3Bha0dFUTEzUjJuZ2RQbXdtUnNBc1ZZUEo0WFY1SVEyaGc?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJOVVUYlhrNnhhWDVRM0pnM0otX1pWM2N4TUtONWxxdlg3WUtwcGFDMnU4VU4tQ3lmZDNTYmljamg1bUkyT3Bha0dFUTEzUjJuZ2RQbXdtUnNBc1ZZUEo0WFY1SVEyaGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-04-29-027",
+    "date": "2026-04-29",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "LG Display Q1 2026 slides: OLED hits 60% despite sharp loss - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3NTX3VTUHVSQzhnVnpQeXhaTFdyLTczbEpEdTJQSmw1LWhNODZzQ3ZzN2ozOHZIenVkRU9yUlA0S2FQWHNzRWdzc3duZVlLdGlyY01tMGd6cXc4RDBWWmx6SUNmMThZcEFGVGprbH",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3NTX3VTUHVSQzhnVnpQeXhaTFdyLTczbEpEdTJQSmw1LWhNODZzQ3ZzN2ozOHZIenVkRU9yUlA0S2FQWHNzRWdzc3duZVlLdGlyY01tMGd6cXc4RDBWWmx6SUNmMThZcEFGVGprbHNIWllXSEs3dUZSMmZ1MFJDN0VSMjNYWERocnAxdzFpNlotRlhTWXdqSzRpSXpwRlViZU1CMjZqcE5iQmZNS0dHeEtJQS0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-04-29-028",
+    "date": "2026-04-29",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "LG Electronics Q1 Revenue Hits Record, Profit Jumps 33% - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LdV9uaExOS0VzUENpZ05xbWNxVHBNbVhfVFp6QVJwWEJKQXJHanRhS0R5YjNwU2VCT0E0MFpDbHB0WnRJR0VrNlE5d2wtci1IUmVlaEttbHpIMkZuSVFROTBrNWNCWkk?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LdV9uaExOS0VzUENpZ05xbWNxVHBNbVhfVFp6QVJwWEJKQXJHanRhS0R5YjNwU2VCT0E0MFpDbHB0WnRJR0VrNlE5d2wtci1IUmVlaEttbHpIMkZuSVFROTBrNWNCWkk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-04-29-029",
+    "date": "2026-04-29",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BOE Technology Q1 Net Profit Up 5.8% Y/Y - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNSjdRX3VuUWp0dG83MlZtcTQ1NzIwbFQwRmVBWlUzbzhrMGJsSmNwQUJ3V1FEX01xV3FxbUlFTWkxX3g0QmVhZFhrVnR3QzNvMHpYdmR1TlFYUUExdE1MWnI5bDZnd0VJQzZwbm1pSk",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSjdRX3VuUWp0dG83MlZtcTQ1NzIwbFQwRmVBWlUzbzhrMGJsSmNwQUJ3V1FEX01xV3FxbUlFTWkxX3g0QmVhZFhrVnR3QzNvMHpYdmR1TlFYUUExdE1MWnI5bDZnd0VJQzZwbm1pSkl4MC1iWWktaVRBc3lRT1g2YjZtWV9rUDYyLUU3a2N3WkM2c3NuN0tCS1VVWDNRZUZnNFhMaURKbFFra2cwbnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-04-29-030",
+    "date": "2026-04-29",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BOE Technology Q1 net profit up 5.8% y/y - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVWZDTFUzOEJjclR2VnF5UGN1YXgzX2ZTTG9NaDhWeTM3UV9xX3I2NWtIVVFPUGtPUHpIRnhJbDlPMHJmRkRyWVowR1RCcV9ZZDIzWXh1am9TNURnWFhRTWJIWEkxZ1UxTXVqOHNCLV",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVWZDTFUzOEJjclR2VnF5UGN1YXgzX2ZTTG9NaDhWeTM3UV9xX3I2NWtIVVFPUGtPUHpIRnhJbDlPMHJmRkRyWVowR1RCcV9ZZDIzWXh1am9TNURnWFhRTWJIWEkxZ1UxTXVqOHNCLVJSZDA5bFo4UGZDOU11aXV4b2dzYUdFZGwtR2UteW5NZ1hFUzdCbjUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-04-29-031",
+    "date": "2026-04-29",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BOE Technology Group Company Limited Reports Earnings Results for the First Quarter Ended March 31, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxOUDFTS2NtLXRFZTU2RmpmYTZfd3o1eWVJY2ZLUXRWZTNyQWpXekpNSng1WEdibGhJcVZucVd0Vk9vTXBaMElONUpmVkdZVng0RmFDS0ZxWG1MSXZIYnZDbEtqZzBwcERsYkl2RnlTN2",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOUDFTS2NtLXRFZTU2RmpmYTZfd3o1eWVJY2ZLUXRWZTNyQWpXekpNSng1WEdibGhJcVZucVd0Vk9vTXBaMElONUpmVkdZVng0RmFDS0ZxWG1MSXZIYnZDbEtqZzBwcERsYkl2RnlTN2ZvZXFRMm1CeDJRcmdZTnJnalZUbmoxejQtUVQzakVpZFZvekR0Uk5lRDQ5aUMwbVd2dGo1Z044ekZmdG1JMlVSVEZEUmxiRVN3Z3c5VnhGVGo2SGRsbkNWb1FTc19QMnVfcndkc2FQeE5GN1N3dXZsN2l5UXNnb09XMXNjRnN2Y3E5MDBQRXhkRTdYeER3UG5jWkc4eUdVYzdnWlo4OUtfNm5FTGhxWEw3eXllRV96RHlvZWtwSURvYkxBOXU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-04-29-032",
+    "date": "2026-04-29",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Japan Display confirms it is looking into construcing display fabs in the US, but no decision has been made yet - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGN1d2dUcHA5Umx6OGM1bjhiNXk3YUZnajNlQ1lCX09rdTJRSGNCQW5oS21NbnI5WWZCM25VV1FwZndtU3VmOEFoOUlXUUNiYU9aRUstbHNYTHY5RzBBWmxXOWFiZW1vUVFyQTlTQW",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGN1d2dUcHA5Umx6OGM1bjhiNXk3YUZnajNlQ1lCX09rdTJRSGNCQW5oS21NbnI5WWZCM25VV1FwZndtU3VmOEFoOUlXUUNiYU9aRUstbHNYTHY5RzBBWmxXOWFiZW1vUVFyQTlTQWhJdHdqb0lPVEtxTDBsOUU4NlV0eXI1a21hWlE4eDRzNzdaOGtJaU5YclhEZF8zWXZfUGc5UUd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-04-29-033",
+    "date": "2026-04-29",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Japan Display confirms it is looking into construcing display fabs in the US, but no decision has been made yet",
+    "summary": "<p>Last month we <a href=\"https://www.oled-info.com/will-japan-display-establish-13-billion-oled-display-fab-us\">reported</a> that Japan Display (JDI) is considering constructing a display fab in the ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/japan-display-confirms-it-looking-construcing-display-fabs-us-no-decision-has",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-29-034",
+    "date": "2026-04-29",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Researcher design a high-performance asymmetric MR-TADF deep-blue OLED emitter",
+    "summary": "<p>Researchers from Tsinghua University and Taiyuan University of Technology developed a novel asymmetric MR-TADF deep-blue OLED emitter structure design, that offers high efficiency and narrow-band e",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/researcher-design-high-performance-asymmetric-mr-tadf-deep-blue-oled-emitter",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-04-29-035",
+    "date": "2026-04-29",
+    "companies": [
+      "lg_display"
+    ],
+    "topics": [
+      "panel_price",
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "KDIA: Korean OLED market share has risen 1.5% in 2025, for the first time since 2015",
+    "summary": "<p>The Korean Display Industry Association (KDIA) is quoting Omdia, saying that the OLED market share of Korean OLED panels (made by LGD and SDC) have increased 1.5% in 2025, to reach 68.7%. This is t",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/kdia-korean-oled-market-share-has-risen-15-2025-first-time-2015",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-29-036",
+    "date": "2026-04-29",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Streaming on an OLED TV is a waste of money - Pocket-lint",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CTkc0VnY3Z2lIbVpYYV9zNFhYS0xtckJUaEZLSDBrMkJLSUdlVmRULUx6LUQtYm9PVlBZam53MlZEOWFCazlrNHlMdmVmUExMd3lwcjhQdzB5ODlmTEwzUmtja3k?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CTkc0VnY3Z2lIbVpYYV9zNFhYS0xtckJUaEZLSDBrMkJLSUdlVmRULUx6LUQtYm9PVlBZam53MlZEOWFCazlrNHlMdmVmUExMd3lwcjhQdzB5ODlmTEwzUmtja3k?oc=5",
         "type": "rss"
       }
     ]
@@ -993,6 +1583,27 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/researchers-develop-worlds-most-efficient-blue-soluble-oled-device",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-04-28-031",
+    "date": "2026-04-28",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display’s 27-inch DFR Gaming OLED panel wins SID’s ‘Display of the Year’ - LG Corp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mbkxSU2dfZWEtYzQxeDRiWXZJNGdLLVE5dXBmcjczejhxVTFoRDc5QnZhOFFCbmxQYzFfU3dnZy1GenBLSTYwS2thZ0N3dzRXUV81Mg?oc=5\" target=\"_blank\">LG Display’s ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mbkxSU2dfZWEtYzQxeDRiWXZJNGdLLVE5dXBmcjczejhxVTFoRDc5QnZhOFFCbmxQYzFfU3dnZy1GenBLSTYwS2thZ0N3dzRXUV81Mg?oc=5",
         "type": "rss"
       }
     ]
@@ -1748,6 +2359,24 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmaFM5Ui1PZG82V2xLdFA0bGEwdUR5Xy0zb1VnVEFLZlQwb1loejExaUYxQjFtM0t2eFFYdGc2N3VnNkMxZ185b2R4OUtPZ2M2UGdwMUZ4MDh3NUZfZGdnVGdtVGpTQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-04-26-025",
+    "date": "2026-04-26",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE HC SemiTek Corporation announced that it expects to receive CNY 998 million in funding from BOE Technology Group Company Limited - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ2RwVXk3N1BQbnBzeWdaMllrWDFPb0VBZko3ak5BLW9CSmFZNE1UOVFVRjExbHJ1RmtRQzUwdHZybzU1Vm85UDdPTWR2VUs0QlV1amo3am43N3k2VEpQN2t1SGRIdGdFTkF0M3lESn",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ2RwVXk3N1BQbnBzeWdaMllrWDFPb0VBZko3ak5BLW9CSmFZNE1UOVFVRjExbHJ1RmtRQzUwdHZybzU1Vm85UDdPTWR2VUs0QlV1amo3am43N3k2VEpQN2t1SGRIdGdFTkF0M3lESnFnSUlsYXJEaHY4R2xZaHBTSHRGSTFLd0x1aENTU1FxZXI3T0VlRmlWQ0hSeTlRV2V4bFdoN0VvRXhBZlFnd2VabFBaZGRWNDFBWE1pMHBBNnFIcWw0bTVLalpPSC1NODZPOWZ1Z1pmY0l4d21udkphTnVXTGZHQWM?oc=5",
         "type": "rss"
       }
     ]
