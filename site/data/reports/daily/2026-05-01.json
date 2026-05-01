@@ -1,0 +1,227 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T09:46:39.089634Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_elec-2026-05-01-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Samsung strike threat highlights rising labor risk to AI chip supply chain and corporate pay models",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260428VL206/samsung-labor-strike-ai-chip-2026.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-01-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Apple's fiscal 2Q in numbers: iPhone surge, China rebound, margins hold",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260501VL200/apple-growth-iphone-revenue-tim-cook.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Universal Display reports lower results for Q1 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/universal-display-reports-lower-results-q1-2026"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Advantest beats on AI chip testing, cautious outlook dents shares",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260501VL206/advantest-earnings-outlook-revenue-testing.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Macronix eyes steady growth from 1Q26 amid eMMC supply gap",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260428PD225/emmc-growth-nand-macronix-international-2026.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.23,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 137,
+    "too_old": 163,
+    "gate1_blocked": 36,
+    "gate2_blocked": 22,
+    "passed": 22,
+    "pass_rate": "9.1%",
+    "gate2_block_rate": "9.1%",
+    "gate2_samples": [
+      "Jim Cramer Says “Corning Flew Too Close and Had Its Icarus Moment” - Yahoo Finance",
+      "Should You Investigate Corning Incorporated (NYSE:GLW) At US$153? - Moomoo",
+      "Research Alert: CFRA Maintains Buy Opinion On Shares Of Corning Incorporated - Moomoo",
+      "Corning Incorporated (GLW) Receives Rating Updates From BofA and Morgan Stanley - Yahoo Finance",
+      "Short Interest in Himax Technologies, Inc. (NASDAQ:HIMX) Rises By 19.8% - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為三星電子、TCL Technology、LG電子相關動態：「Samsung strike threat highlights rising labor risk to AI ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung strike threat highlights rising labor risk to AI chip supply chain an...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Apple's fiscal 2Q in numbers: iPhone surge, China rebound, margins hold（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

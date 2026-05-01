@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 137,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 36,
+  "gate2_fail": 22,
+  "passed": 22,
+  "gate2_samples": [
+    "Jim Cramer Says “Corning Flew Too Close and Had Its Icarus Moment” - Yahoo Finance",
+    "Should You Investigate Corning Incorporated (NYSE:GLW) At US$153? - Moomoo",
+    "Research Alert: CFRA Maintains Buy Opinion On Shares Of Corning Incorporated - Moomoo",
+    "Corning Incorporated (GLW) Receives Rating Updates From BofA and Morgan Stanley - Yahoo Finance",
+    "Short Interest in Himax Technologies, Inc. (NASDAQ:HIMX) Rises By 19.8% - MarketBeat"
+  ]
+}

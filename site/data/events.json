@@ -1,5 +1,228 @@
 [
   {
+    "id": "unknown-2026-05-01-001",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Universal Display reports lower results for Q1 2026",
+    "summary": "<p><a href=\"https://www.oled-info.com/universal_display_udc\">Universal Display Corporation</a> reported its financial results for Q1 2026, with revenues of $142 million, 14% lower than Q1 2025 - and a",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/universal-display-reports-lower-results-q1-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-002",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Advantest beats on AI chip testing, cautious outlook dents shares",
+    "summary": "<p class=\"P1\" data-start=\"447\" data-end=\"683\">Japan's Advantest closed its fiscal year with strong results, highlighting how AI-driven chip demand is reshaping semiconductor testing economics, even as",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260501VL206/advantest-earnings-outlook-revenue-testing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-01-003",
+    "date": "2026-05-01",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Electro-Mechanics weighs MLCC price hike of 5&ndash;10% as supply tightens",
+    "summary": "Samsung Electro-Mechanics is considering raising prices for multilayer ceramic capacitors (MLCCs) by about 5% to 10% as demand from artificial intelligence (AI) infrastructure tightens supply, accordi",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260429VL222/semco-price-mlcc-demand-murata.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-004",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Macronix eyes steady growth from 1Q26 amid eMMC supply gap",
+    "summary": "Memory maker Macronix (MXIC) is emerging from an operational slump in the first quarter of 2026, driven by explosive revenue growth in embedded multi-media cards (eMMCs) as major global players exit t",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260428PD225/emmc-growth-nand-macronix-international-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-01-005",
+    "date": "2026-05-01",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Samsung strike threat highlights rising labor risk to AI chip supply chain and corporate pay models",
+    "summary": "Samsung Electronics is facing its largest labor escalation in years after unions representing tens of thousands of workers voted to authorize strike action. The dispute centers on compensation structu",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260428VL206/samsung-labor-strike-ai-chip-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-006",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "KLA 3Q26: AI chip demand drives process control, guidance fails to clear bar",
+    "summary": "KLA Corporation's fiscal 3Q26 results underscore a familiar pattern in the current semiconductor cycle: strong execution tied to AI infrastructure demand, but investor expectations are rising even fas",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260501VL204/demand-process-control-kla-guidance-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-007",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SanDisk 3Q26: AI demand lifts NAND, long-term deals reshape profit model",
+    "summary": "SanDisk's fiscal 3Q26 results point to a decisive shift in the NAND industry, with AI-driven data center demand lifting both performance and pricing, while new long-term supply agreements begin to res",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260501VL203/sandisk-nand-demand-data-center-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-008",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Apple earnings call signals a supply-constrained handoff to the Ternus era",
+    "summary": "<p class=\"P1\" data-start=\"320\" data-end=\"622\">Apple's fiscal second-quarter earnings call was less about the beat and more about positioning the next phase of leadership. The message was controlled an",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260501VL201/apple-ceo-earnings-john-ternus-tim-cook.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-009",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Apple's fiscal 2Q in numbers: iPhone surge, China rebound, margins hold",
+    "summary": "<p class=\"P1\" data-start=\"479\" data-end=\"699\">Apple Inc. beat Wall Street expectations in its fiscal second quarter, with strong iPhone demand, resilient Services growth and a rebound in China driving",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260501VL200/apple-growth-iphone-revenue-tim-cook.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-05-01-010",
+    "date": "2026-05-01",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "TCL TECH 2025 Net Profit Surges 188.8%, Led by Strong Display Performance - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOUTZ5bkJ1MkdtMWZBclZKZG1DeFYxNGZ3eWJUc3o5dUxheU9TZC1EX213VEVrNDFjSWI5M3Y0ejQzRGlubzdpellkVTRzNEJnMTFkTGJLbVhSVC1lekRDUV9WSXdKMVZxWlJzMTJ4ZE",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUTZ5bkJ1MkdtMWZBclZKZG1DeFYxNGZ3eWJUc3o5dUxheU9TZC1EX213VEVrNDFjSWI5M3Y0ejQzRGlubzdpellkVTRzNEJnMTFkTGJLbVhSVC1lekRDUV9WSXdKMVZxWlJzMTJ4ZExkTzFoa1ZSYTZZc29FRkk0M05rajgwWG5YMEZ6ZUVkX1JKYjNnSGdlLWhlbmZsd2dGeTR5MEg4bnRXOEd4cVJsZUZIUXdVSVlGTzJfaG1CNGVyM2VYOVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-05-01-011",
+    "date": "2026-05-01",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "LG’s New 5K Gaming Monitor Is Trying to Fix Mini LED’s Biggest Problem - Man of Many",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFAwV3h0Vm5pR1JkR0l1T0REWFhiTEwwemIzRkduOEgxSDlJbFRCV3JLMlRzR25KSG1tR2l5enJQWHlBMkhSU1JieUFkMmdtYmQzaEhPNUJWbFhVbUItX3RCS3lCRlU5bVhrSnJ4NzRFWl",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwV3h0Vm5pR1JkR0l1T0REWFhiTEwwemIzRkduOEgxSDlJbFRCV3JLMlRzR25KSG1tR2l5enJQWHlBMkhSU1JieUFkMmdtYmQzaEhPNUJWbFhVbUItX3RCS3lCRlU5bVhrSnJ4NzRFWlVWWGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-012",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Chip Industry Week in Review",
+    "summary": "<p>Google's TPUs now for sale; 2/3nm capacity crunch; IC tool sales to China stopped; memory shortage widens in 2027; mega-earnings; Arm's agentic toolkit; Intel seeds universities; KAIST's liquid coo",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-week-in-review-136/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-04-30-001",
     "date": "2026-04-30",
     "companies": [
@@ -308,6 +531,204 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1ZlpQZ3M0b2JxXzNRNnpTc0k4T3VyOVlaZjN3a0Rpa1htSnJ4cEkzUlFFUjdreWFYNjFsRjUzWlU5Z0lnbmUxN01UNnY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-04-30-018",
+    "date": "2026-04-30",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Announces Quarterly Dividend - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPVTZJTWRtM2dQdDJ4MWtoLTJXQ0xGeFpWblNEOFNndEtia3ZIM2xmY3BFYjlnSjl0dEhkQzJFa1VVLXZsV0RnYnhuc2QxYmJjOHFPSmh3dU5tbnhtM0J3Njdwa21zN1E2R3FXbGxhbV",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVTZJTWRtM2dQdDJ4MWtoLTJXQ0xGeFpWblNEOFNndEtia3ZIM2xmY3BFYjlnSjl0dEhkQzJFa1VVLXZsV0RnYnhuc2QxYmJjOHFPSmh3dU5tbnhtM0J3Njdwa21zN1E2R3FXbGxhbVV4a2JhQkpJTG40bGxZWUZXdWtSQXE1Vm1Pbmp2RTZpV1lybW1fbEowMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-04-30-019",
+    "date": "2026-04-30",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings call transcript: Corning’s Q1 2026 results exceed forecasts - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNVG5BbGRGbEdCUFk0Zm9ndlc5Z09xMTFlTnI3LWpNSjBTUE05TzFDb29kVFI2YUo2R1dTZHJuT1RETTB2emExVFhWVURINVBiQm1NV3p2Nk55eWpyWHBLaU9lUUtJWV92SGtVMmVid3",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVG5BbGRGbEdCUFk0Zm9ndlc5Z09xMTFlTnI3LWpNSjBTUE05TzFDb29kVFI2YUo2R1dTZHJuT1RETTB2emExVFhWVURINVBiQm1NV3p2Nk55eWpyWHBLaU9lUUtJWV92SGtVMmVid3Eyam5UTHk2d1QxSGY5NkNjV1U2QlFrTUZIM0prZVVDb1M2VHd3aUNmZnpiTkVXSXNibndNTm9JbktpLTFYXzFiUC1qRWRocmx3UEp4eUZGWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-04-30-020",
+    "date": "2026-04-30",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AUO (OTCMKTS:AUOTY) Posts Quarterly Earnings Results, Misses Expectations By $0.04 EPS - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOU2ozTm95YllTbmJlSXQ2LWxRRGFUdTN1QUFmZFhKM3cza3FyWkh2dWs5dUdXQi1rUFkyc1pmZlhaUTMzTkc0UVR1QkNvN00tc29fQWZzbTU4WDcyUTF0d3NId0x4amZxMDFTMWxqSk",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU2ozTm95YllTbmJlSXQ2LWxRRGFUdTN1QUFmZFhKM3cza3FyWkh2dWs5dUdXQi1rUFkyc1pmZlhaUTMzTkc0UVR1QkNvN00tc29fQWZzbTU4WDcyUTF0d3NId0x4amZxMDFTMWxqSk0wTVY4MHhDUlBxR2txbjg4NzAxY2FLMENYWndWcXdZeUpxcDQxOV9tekY5OHNzRVVBOGx5dXA0SU9WSkdzWkp5ajRHbTZFaURaV1Z4aVhWdC1zaDVleGtUVS1HcGtCLTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-04-30-021",
+    "date": "2026-04-30",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AUO (OTCMKTS:AUOTY) Trading Down 7.1% on Disappointing Earnings - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQVTN3MVE3WDc0WEFjbDZxRDRQMUhrNkNIS2JoOGgzT3lfUmVlSG0wT2dwaTFFdjN0OWo4X2s4T3JBQ0ZzbW9nMXo4ME9SY2NqVndxY2hQbmJ0Q1VyeHpxUFlJLTVMbVJvdU5DLVN3NU",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVTN3MVE3WDc0WEFjbDZxRDRQMUhrNkNIS2JoOGgzT3lfUmVlSG0wT2dwaTFFdjN0OWo4X2s4T3JBQ0ZzbW9nMXo4ME9SY2NqVndxY2hQbmJ0Q1VyeHpxUFlJLTVMbVJvdU5DLVN3NUdmZlB2eE1mTThQUlNhX3JhYXdLeW1kR3h4clB2TnczUDVvbGtJNE1RdHpnR2NNMXpGWUJ5UkduOXhjekg3VENyWTVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-04-30-022",
+    "date": "2026-04-30",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Samsung Display reports its financial results for Q1 2026, with a decline in its small/medium OLED business and stable QD-OLED sales",
+    "summary": "<p>Samsung Display reported its financial results for the first quarter of 2026, with revenue of $4.5 billion, and a profit of $280 million.</p><div>\n  \n  <a href=\"https://www.oled-info.com/sites/defa",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-reports-its-financial-results-q1-2026-decline-its-smallmedium",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "applied_materials-2026-04-30-023",
+    "date": "2026-04-30",
+    "companies": [
+      "applied_materials"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Reinventing RGB OLEDoS: How Si2OLED Unlocks Power Efficiency, Brightness, color gamut, and Scalabilty [or: resolution]",
+    "summary": "<p class=\"text-align-center\"><em>Ths is a guest post by Ajit Krishnan, Director, New Business Development, Office of the CTO, Applied Materials, Max McDaniel, VP/CMO Display Business Unit, Applied Mat",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/reinventing-rgb-oledos-how-si2oled-unlocks-power-efficiency-brightness-color",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-30-024",
+    "date": "2026-04-30",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Reports suggest Apple is set to cancel its Vision Pro headset product line",
+    "summary": "<p>Two years after Apple started shipping its <a href=\"https://www.oled-info.com/apple-vision-pro\">Vision Pro headset</a>, there are reports that the company has decided to cancel the product line, an",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/reports-suggest-apple-set-cancel-its-vision-pro-headset-product-line",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-04-30-025",
+    "date": "2026-04-30",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "LG Opens Preorders for UltraGear Evo 5K Gaming Monitor with Hyper Mini LED - HotHardware",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjhvOVB1WFNSVDNNeHFoZXoxWTZVT2EtdXRaV0YyQnR5cmw2OEROdmhfdnVtQmhxNHh6NGpXTFg3OWlMZUY1VTg0Z2cyaFVIcWlDWTZseTFwcFB4TFdIRE1rVG82VDd3QTZNMmRRZG",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjhvOVB1WFNSVDNNeHFoZXoxWTZVT2EtdXRaV0YyQnR5cmw2OEROdmhfdnVtQmhxNHh6NGpXTFg3OWlMZUY1VTg0Z2cyaFVIcWlDWTZseTFwcFB4TFdIRE1rVG82VDd3QTZNMmRRZGdMZzdheUt3V1VzNVRTVHBfSmd6bVA5T3ZaaG91b2ZTaVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-04-30-026",
+    "date": "2026-04-30",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "LG launches its first UltraGear Evo Hyper Mini LED 5K Gaming Monitor - OC3D",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOdDA1bldrajVxV2tEQWJrOVVzaklXTFF2c0s2WmNtUXFrZ3pJZTF4SU9HOTFGTXIydTlhdnljTUx0RnVKOElfNEpXNFZ4ZVN5MEpTWW9NT2FZOHZfZHJBZ0IxNjVMWVQwVnhEbk5PT0",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdDA1bldrajVxV2tEQWJrOVVzaklXTFF2c0s2WmNtUXFrZ3pJZTF4SU9HOTFGTXIydTlhdnljTUx0RnVKOElfNEpXNFZ4ZVN5MEpTWW9NT2FZOHZfZHJBZ0IxNjVMWVQwVnhEbk5PT0VUZE9RVnRlUW0tVEZScjR0bWhLdVRCVG4ySDZScFBnZXFTMlVNR3c5T0NVNXJETmFiTnkxVUZHeE56TVN5am5oeQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-04-30-027",
+    "date": "2026-04-30",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "LG Electronics Introduces its First UltraGear evo Hyper Mini LED 5K Gaming Monitor - TechPowerUp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3Ztc04wQ2J0Y0wzUzhXS0QzeWVkS0daVUY2UlNLRXR0QTRzTk1EOXMzd0xGTG1kV1B0ZzhETFZSZVNnQ1hMbC1Pckl2eUp3RWZTdjg3Q0czYlh4dUQ2clhfVWs0SnM3RDVxeXdfZ0",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3Ztc04wQ2J0Y0wzUzhXS0QzeWVkS0daVUY2UlNLRXR0QTRzTk1EOXMzd0xGTG1kV1B0ZzhETFZSZVNnQ1hMbC1Pckl2eUp3RWZTdjg3Q0czYlh4dUQ2clhfVWs0SnM3RDVxeXdfZ0pDZ0lPLXYyU3c3cmk5S2tCc3RKZm5oa1VTaWVTN2hSckV1SjVubG10SFhaLWxLMVoxRXdRUnItbmE2c2hjcEE4THV2U1p2OUhr0gG-AUFVX3lxTE5TcVVKZUdZN3JKbEpoQUxMbUpSekN3empnb2oxTmhRb2FTRkxvQWNnR1dtZGcwNml6WXlUZWhfcmRnb1RzcFAtRG9PMGVuOGpMTHJlU3oybXNvQ2pucXJmc2FiaVRkNFZNamwwOHBaSU8xQ3pqcTlJcnBNc3dacWFvemVMWnd3T1lHZ2ZldFFzQXFqLWpVMkM2TVB6MUR3LTB3cl8wZC1NeHM1MjdBdzJ1UzdYMG9xb0tDY1k1NHc?oc=5",
         "type": "rss"
       }
     ]
