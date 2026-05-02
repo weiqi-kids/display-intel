@@ -1,5 +1,41 @@
 [
   {
+    "id": "corning-2026-05-02-001",
+    "date": "2026-05-02",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Jim Cramer’s a Believer in Corning (GLW) & Data Centers - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmhWelZycEotSjM3VXdMRHBQQm5RMFRtSTB3N1ByWlZMSFZqS2NkZThXNXNrdDZVby1pcm04MllFai1VWXY1MUlFTjVTV1pKN0ltWE5ZeFRRc0wyemx2dF9qbHFROUFJUUE2akdRQ2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmhWelZycEotSjM3VXdMRHBQQm5RMFRtSTB3N1ByWlZMSFZqS2NkZThXNXNrdDZVby1pcm04MllFai1VWXY1MUlFTjVTV1pKN0ltWE5ZeFRRc0wyemx2dF9qbHFROUFJUUE2akdRQ2ZFLTBibFBqTnJUMTlwX3NCdENPb2pxbmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-02-002",
+    "date": "2026-05-02",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Did Himax’s New Ultra-Bright AR Microdisplay Just Shift Its (HIMX) Long-Term Investment Narrative? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM3B3OE9laWZKMkpGa3hHNzNRV1Jkczhsek01STlNY2E3TXJ1MjZrRGRubkszYUpQajZSME10VTQxUGlfUWs1TUVWNWlycTFQUktWT2txVXhBUFNfZHF0X0d0UGZmWExyT29CZmFEQ0",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM3B3OE9laWZKMkpGa3hHNzNRV1Jkczhsek01STlNY2E3TXJ1MjZrRGRubkszYUpQajZSME10VTQxUGlfUWs1TUVWNWlycTFQUktWT2txVXhBUFNfZHF0X0d0UGZmWExyT29CZmFEQ0lybDN3Rnl2dnpoR1g2UXdwZFNSTHVsOFhQZEJvcHBaMk5pdjdyTzdvX3ZvTXl2cHRqSEhiakJoWU5LU0E3aWRVbzlCOVVjTHFHUElkVy0taU1OVG4tZ1cySm1iMlE4X1BBelpqOTRDLW12bktfRHVTVdIB4AFBVV95cUxNM3B3OE9laWZKMkpGa3hHNzNRV1Jkczhsek01STlNY2E3TXJ1MjZrRGRubkszYUpQajZSME10VTQxUGlfUWs1TUVWNWlycTFQUktWT2txVXhBUFNfZHF0X0d0UGZmWExyT29CZmFEQ0lybDN3Rnl2dnpoR1g2UXdwZFNSTHVsOFhQZEJvcHBaMk5pdjdyTzdvX3ZvTXl2cHRqSEhiakJoWU5LU0E3aWRVbzlCOVVjTHFHUElkVy0taU1OVG4tZ1cySm1iMlE4X1BBelpqOTRDLW12bktfRHVTVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-05-01-001",
     "date": "2026-05-01",
     "companies": [],
@@ -218,6 +254,119 @@
       {
         "name": "semi_engineering",
         "url": "https://semiengineering.com/chip-industry-week-in-review-136/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-01-013",
+    "date": "2026-05-01",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display’s 27-inch DFR Gaming OLED panel Wins SID’s ‘Display of the Year’ - Ink World magazine -",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkFNbGRkd3BLR3N0QmJKWW84VkRXV3JBR2g0eHRrOG16M3JmQjZ1REN2ODBTUk1PdzVoZkh0R3FGOXBqNXFxM2tRTWdMX00wUE5XdGtJUU1wdGJsbzNoZ1RDOHUtcDVmRXJNRkFLWW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNkFNbGRkd3BLR3N0QmJKWW84VkRXV3JBR2g0eHRrOG16M3JmQjZ1REN2ODBTUk1PdzVoZkh0R3FGOXBqNXFxM2tRTWdMX00wUE5XdGtJUU1wdGJsbzNoZ1RDOHUtcDVmRXJNRkFLWWN2UUlJNDJ0ZmpqTGRJVDF3WjltMU9xUzYxdVEzeTJkdEFDU1FZUC1jNEZjSTN1YXhXV3hwYnluZGdGOWh4VUFRdzdUYWJYd0lGSERF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-014",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Yageo AI revenue reaches 15% as chair says sector remains early in cycle",
+    "summary": "Yageo chairman Pierre Chen said the company has undergone a major transformation over the past eight years, driven in part by the rise of AI applications.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260430PD231/yageo-revenue-chairman-ai-applications-high-end.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-01-015",
+    "date": "2026-05-01",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Samsung Electro-Mechanics tops US$2 billion quarterly sales, flags ABF substrate shortage",
+    "summary": "Samsung Electro-Mechanics (Semco) reported its first-ever quarterly revenue exceeding KRW3 trillion (approx. US$2.2 billion), driven by expanding AI infrastructure investment and rising demand for aut",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260430PD230/semco-abf-substrate-mlcc-revenue-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-016",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Lite-On profit rises on surge in AI-driven cloud demand",
+    "summary": "<p class=\"P1\" data-start=\"193\" data-end=\"431\">Lite-On Technology reported first-quarter revenue of NT$43.4 billion (approx. US$1.35 billion), up 19% from a year earlier, as surging demand for AI infra",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260429PD243/lite-on-ai-infrastructure-demand-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-017",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Foxconn Industrial Internet posts 102% net profit growth in 1Q26 on AI GPU, ASIC demand",
+    "summary": "Benefiting from the continued expansion of artificial intelligence (AI) computing power demand, Foxconn Industrial Internet (FII), a subsidiary of Hon Hai Precision Industry (Foxconn), reported first-",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260429PD245/asic-profit-growth-fii-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-018",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "MediaTek lifts 2026 ASIC target to $2 billion despite smartphone market deterioration",
+    "summary": "MediaTek held its earnings call on April 30, expressing a cautious outlook for the 2026 smartphone market. Despite this, growth in other applications is expected to effectively offset the decline.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260430PD232/mediatek-revenue-2026-smartphone-asic.html",
         "type": "rss"
       }
     ]
@@ -729,6 +878,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3Ztc04wQ2J0Y0wzUzhXS0QzeWVkS0daVUY2UlNLRXR0QTRzTk1EOXMzd0xGTG1kV1B0ZzhETFZSZVNnQ1hMbC1Pckl2eUp3RWZTdjg3Q0czYlh4dUQ2clhfVWs0SnM3RDVxeXdfZ0pDZ0lPLXYyU3c3cmk5S2tCc3RKZm5oa1VTaWVTN2hSckV1SjVubG10SFhaLWxLMVoxRXdRUnItbmE2c2hjcEE4THV2U1p2OUhr0gG-AUFVX3lxTE5TcVVKZUdZN3JKbEpoQUxMbUpSekN3empnb2oxTmhRb2FTRkxvQWNnR1dtZGcwNml6WXlUZWhfcmRnb1RzcFAtRG9PMGVuOGpMTHJlU3oybXNvQ2pucXJmc2FiaVRkNFZNamwwOHBaSU8xQ3pqcTlJcnBNc3dacWFvemVMWnd3T1lHZ2ZldFFzQXFqLWpVMkM2TVB6MUR3LTB3cl8wZC1NeHM1MjdBdzJ1UzdYMG9xb0tDY1k1NHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-04-30-028",
+    "date": "2026-04-30",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning declares $0.28 quarterly dividend payable in June - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQdk9PMndIMkY1M2JxZkFZS1kweENIRXRDeS16ckdtN09kMmJKczBaT05ZTnZ6OXJWZklGWmxuSlo4NHJQeVNhM19GMFExTjBDSTlXbGd0OHN2VEp2NmE5M0tweUJYWDEtSWRMQW11U0",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdk9PMndIMkY1M2JxZkFZS1kweENIRXRDeS16ckdtN09kMmJKczBaT05ZTnZ6OXJWZklGWmxuSlo4NHJQeVNhM19GMFExTjBDSTlXbGd0OHN2VEp2NmE5M0tweUJYWDEtSWRMQW11U0RIRVBwcUV5TTZRTTJVSXRQdnF4NWk3YWx1YmFoWHBlNFVPVDMwdHlqMlRlZ3kyd25hYmZ2UVBqQTI4Wlh5M2w1eW1R?oc=5",
         "type": "rss"
       }
     ]
@@ -2025,6 +2192,24 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mbkxSU2dfZWEtYzQxeDRiWXZJNGdLLVE5dXBmcjczejhxVTFoRDc5QnZhOFFCbmxQYzFfU3dnZy1GenBLSTYwS2thZ0N3dzRXUV81Mg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-04-28-032",
+    "date": "2026-04-28",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Japan Display Inc - Statement Regarding Media Reports - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQSDJVTURpem9IVnY4enloY3NKRHlPYl9BLXFJZEdmU0lhTHdXNzVWalVMc0JFbHlLSWNjVVE3ckdUVkMzd25WcEtDRlhNcnNDUnB4UjZtaWxzMkNSRHJETnh1b2F1X2ZMYzhLUDE5dz",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSDJVTURpem9IVnY4enloY3NKRHlPYl9BLXFJZEdmU0lhTHdXNzVWalVMc0JFbHlLSWNjVVE3ckdUVkMzd25WcEtDRlhNcnNDUnB4UjZtaWxzMkNSRHJETnh1b2F1X2ZMYzhLUDE5dzdram4tYXVLUUtuZkJZVEZ0bzgtNC1XQk1Hai1mdXlzdUJLWmpyQ1p1MmQ1WVQwUWdfa1NWZTZWUDN3czBLQjZyT2hTNWU3YU1aQmMwRWdR?oc=5",
         "type": "rss"
       }
     ]

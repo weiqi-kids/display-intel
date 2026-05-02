@@ -1,0 +1,16 @@
+{
+  "total_raw": 379,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 34,
+  "gate2_fail": 23,
+  "passed": 10,
+  "gate2_samples": [
+    "Corning (NYSE: GLW) Q1 2026 sales jump 20% as Optical and Solar surge - Stock Titan",
+    "Should You Investigate Corning Incorporated (NYSE:GLW) At US$153? - Moomoo",
+    "Corning's Angela Haneklau Named Inaugural Recipient of Graybar's WINGS Luminary Award - Morningstar",
+    "Corning (NYSE: GLW) SVP nets 28,937 shares after equity vesting - Stock Titan",
+    "Corning Incorporated (GLW) Receives Rating Updates From BofA and Morgan Stanley - Yahoo Finance"
+  ]
+}

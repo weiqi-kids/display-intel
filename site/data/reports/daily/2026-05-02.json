@@ -1,0 +1,100 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T09:06:35.475466Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-05-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Jim Cramer’s a Believer in Corning (GLW) & Data Centers - Yahoo Finance UK",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmhWelZycEotSjM3VXdMRHBQQm5RMFRtSTB3N1ByWlZMSFZqS2NkZThXNXNrdDZVby1pcm04MllFai1VWXY1MUlFTjVTV1pKN0ltWE5ZeFRRc0wyemx2dF9qbHFROUFJUUE2akdRQ2ZFLTBibFBqTnJUMTlwX3NCdENPb2pxbmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "himax-2026-05-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Did Himax’s New Ultra-Bright AR Microdisplay Just Shift Its (HIMX) Long-Term Investment Narrative? - simplywall.st",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM3B3OE9laWZKMkpGa3hHNzNRV1Jkczhsek01STlNY2E3TXJ1MjZrRGRubkszYUpQajZSME10VTQxUGlfUWs1TUVWNWlycTFQUktWT2txVXhBUFNfZHF0X0d0UGZmWExyT29CZmFEQ0lybDN3Rnl2dnpoR1g2UXdwZFNSTHVsOFhQZEJvcHBaMk5pdjdyTzdvX3ZvTXl2cHRqSEhiakJoWU5LU0E3aWRVbzlCOVVjTHFHUElkVy0taU1OVG4tZ1cySm1iMlE4X1BBelpqOTRDLW12bktfRHVTVdIB4AFBVV95cUxNM3B3OE9laWZKMkpGa3hHNzNRV1Jkczhsek01STlNY2E3TXJ1MjZrRGRubkszYUpQajZSME10VTQxUGlfUWs1TUVWNWlycTFQUktWT2txVXhBUFNfZHF0X0d0UGZmWExyT29CZmFEQ0lybDN3Rnl2dnpoR1g2UXdwZFNSTHVsOFhQZEJvcHBaMk5pdjdyTzdvX3ZvTXl2cHRqSEhiakJoWU5LU0E3aWRVbzlCOVVjTHFHUElkVy0taU1OVG4tZ1cySm1iMlE4X1BBelpqOTRDLW12bktfRHVTVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "himax",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 379,
+    "dup_title": 145,
+    "too_old": 167,
+    "gate1_blocked": 34,
+    "gate2_blocked": 23,
+    "passed": 10,
+    "pass_rate": "4.3%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "Corning (NYSE: GLW) Q1 2026 sales jump 20% as Optical and Solar surge - Stock Titan",
+      "Should You Investigate Corning Incorporated (NYSE:GLW) At US$153? - Moomoo",
+      "Corning's Angela Haneklau Named Inaugural Recipient of Graybar's WINGS Luminary Award - Morningstar",
+      "Corning (NYSE: GLW) SVP nets 28,937 shares after equity vesting - Stock Titan",
+      "Corning Incorporated (GLW) Receives Rating Updates From BofA and Morgan Stanley - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為康寧、Himax Technologies相關動態：「Jim Cramer’s a Believer in Corning (GLW) & Data Centers -...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Jim Cramer’s a Believer in Corning (GLW) & Data Centers - Yahoo Finance UK",
+        "level": "green"
+      },
+      {
+        "text": "Did Himax’s New Ultra-Bright AR Microdisplay Just Shift Its (HIMX) Long-Term ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

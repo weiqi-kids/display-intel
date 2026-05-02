@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T09:46:36.315188Z",
+  "updated_at": "2026-05-02T09:06:32.562389Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -35,14 +35,14 @@
       "name": "京東方",
       "ticker": "000725.SZ",
       "currency": "CNY",
-      "ar": 32293002623,
-      "ar_prev": 36313963961,
-      "ar_qoq": "-11%",
-      "inventory": 27748526136,
-      "inv_prev": 27350631840,
-      "inv_qoq": "+1%",
+      "ar": 31800918705,
+      "ar_prev": 32293002623,
+      "ar_qoq": "-2%",
+      "inventory": 25523938823,
+      "inv_prev": 27748526136,
+      "inv_qoq": "-8%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "canon",
