@@ -1,0 +1,106 @@
+{
+  "date": "2026-03-30",
+  "date_range": {
+    "start": "2026-03-24",
+    "end": "2026-03-30"
+  },
+  "generated_at": "2026-05-03T02:37:57.330310Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lg_elec-2026-03-29-044",
+      "date": "2026-03-29",
+      "title": "Smaller, but high-priced OLEDs, LG Display’s new growth engine - KED Global",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "oled_penetration": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "mini_led": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "samsung_elec": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "sony": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "lg_elec": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 2
+    },
+    "lg_display": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 3
+    },
+    "jdi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 7,
+        "last": 3,
+        "change_pct": 133.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-25",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-27",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-28",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-29",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-30",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

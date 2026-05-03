@@ -1,0 +1,80 @@
+{
+  "date": "2026-03-09",
+  "date_range": {
+    "start": "2026-03-03",
+    "end": "2026-03-09"
+  },
+  "generated_at": "2026-05-03T02:37:55.208184Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "jdi-2026-03-09-052",
+      "date": "2026-03-09",
+      "title": "Will Japan Display establish a $13 billion OLED display fab in the US? - OLED-Info",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "oled_penetration": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "jdi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 3,
+        "change_pct": -66.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-04",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-05",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-06",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-07",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-08",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-09",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

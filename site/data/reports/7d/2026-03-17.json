@@ -1,0 +1,101 @@
+{
+  "date": "2026-03-17",
+  "date_range": {
+    "start": "2026-03-11",
+    "end": "2026-03-17"
+  },
+  "generated_at": "2026-05-03T02:37:55.846579Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lg_display-2026-03-13-006",
+      "date": "2026-03-13",
+      "title": "From Premium to Entry-Level… LG Display Expands the OLED TV Market with New ‘SE’Panels - LG Display Newsroom",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "panel_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "oled_penetration": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "jdi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "lg_display": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 2
+    },
+    "lg_elec": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 3
+    },
+    "boe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 1,
+        "change_pct": 200.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-12",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-13",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-17",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

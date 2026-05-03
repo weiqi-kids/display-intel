@@ -1,0 +1,73 @@
+{
+  "date": "2026-02-05",
+  "date_range": {
+    "start": "2026-01-30",
+    "end": "2026-02-05"
+  },
+  "generated_at": "2026-05-03T02:37:53.513158Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "samsung_elec-2026-02-05-002",
+      "date": "2026-02-05",
+      "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {},
+  "company_7d_summary": {
+    "samsung_elec": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 4,
+        "change_pct": -75.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-01-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-31",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-04",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-05",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

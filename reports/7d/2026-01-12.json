@@ -1,0 +1,97 @@
+{
+  "date": "2026-01-12",
+  "date_range": {
+    "start": "2026-01-06",
+    "end": "2026-01-12"
+  },
+  "generated_at": "2026-05-03T02:37:52.662756Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tcl-2026-01-07-042",
+      "date": "2026-01-07",
+      "title": "TCL Unveils Breakthrough SQD-Mini LED Display Technology and AI-Driven Smart Living Innovations at CES 2026 - PR Newswire",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "oled_penetration": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "mini_led": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "automotive_display": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "auo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "tcl": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 4,
+        "last": 4,
+        "change_pct": 0.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-01-06",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-07",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-08",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-09",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-10",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-12",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "date": "2025-09-23",
+  "date_range": {
+    "start": "2025-09-17",
+    "end": "2025-09-23"
+  },
+  "generated_at": "2026-05-03T02:37:46.375285Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "csot-2025-09-23-059",
+      "date": "2025-09-23",
+      "title": "Vuzix and TCL CSOT Expand Partnership to Deliver a Total Optical Solution Featuring Advanced, Compact, High-Brightness MicroLED and Production-Ready Waveguide Optics - PR Newswire",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "oled_penetration": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "mini_led": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "csot": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 1
+    },
+    "tcl": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 1,
+        "change_pct": 0.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-09-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-23",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

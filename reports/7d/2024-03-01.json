@@ -1,0 +1,80 @@
+{
+  "date": "2024-03-01",
+  "date_range": {
+    "start": "2024-02-24",
+    "end": "2024-03-01"
+  },
+  "generated_at": "2026-05-03T02:37:42.104802Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "raydium-2024-02-27-020",
+      "date": "2024-02-27",
+      "title": "Raydium expects AMOLED DDI sales to grow significantly - digitimes",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "oled_penetration": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "raydium": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 2,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2024-02-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-02-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-02-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-02-27",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-02-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-02-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-03-01",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

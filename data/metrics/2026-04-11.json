@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-11",
+  "total_events": 4,
+  "by_company": {
+    "novatek": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "innolux": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "auo": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

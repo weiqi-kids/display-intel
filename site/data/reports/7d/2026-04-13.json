@@ -1,0 +1,162 @@
+{
+  "date": "2026-04-13",
+  "date_range": {
+    "start": "2026-04-07",
+    "end": "2026-04-13"
+  },
+  "generated_at": "2026-05-03T02:37:59.735787Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lg_elec-2026-04-09-039",
+      "date": "2026-04-09",
+      "title": "Article: LG Display, ETRI report growing patent royalty revenues - IAM Patent",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "lg_elec",
+      "company_b": "samsung_elec",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 4,
+      "last_week": 5,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": -0.12
+    },
+    "oled_penetration": {
+      "this_week": 17,
+      "last_week": 6,
+      "week_over_week_change": "+183%",
+      "sentiment_this_week": 0.11
+    },
+    "automotive_display": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "mini_led": {
+      "this_week": 9,
+      "last_week": 3,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.17
+    },
+    "panel_price": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.25
+    },
+    "it_panel_demand": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "samsung_elec": {
+      "event_count": 9,
+      "sentiment_avg": 0.1,
+      "rank": 1
+    },
+    "himax": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "lg_elec": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "sony": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "canon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "lg_display": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "novatek": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 7
+    },
+    "innolux": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "auo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "tcl": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 30,
+        "last": 17,
+        "change_pct": 76.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-07",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-08",
+      "event_count": 6,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-09",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-10",
+      "event_count": 5,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-11",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-13",
+      "event_count": 5,
+      "sentiment_avg": 0
+    }
+  ]
+}

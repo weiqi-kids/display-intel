@@ -1,0 +1,85 @@
+{
+  "date": "2024-11-26",
+  "date_range": {
+    "start": "2024-11-20",
+    "end": "2024-11-26"
+  },
+  "generated_at": "2026-05-03T02:37:43.601760Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "csot-2024-11-26-009",
+      "date": "2024-11-26",
+      "title": "TCL CSOT Announces the Mass Production of Inkjet Printing OLED at DTC2024 - thelec.net",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "oled_penetration": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "csot": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 1
+    },
+    "tcl": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 1,
+        "change_pct": 0.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2024-11-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-11-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-11-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-11-23",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-11-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-11-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-11-26",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

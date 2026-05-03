@@ -1,0 +1,62 @@
+{
+  "date": "2024-03-01",
+  "generated_at": "2026-05-03T02:37:42.016970Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "raydium-2024-03-01-021",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Raydium to see OLED DDI, automotive TDDI drive growth in 2024 - digitimes",
+      "companies": [
+        "raydium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "raydium",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  }
+}

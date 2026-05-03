@@ -1,0 +1,29 @@
+{
+  "date": "2025-12-10",
+  "total_events": 2,
+  "by_company": {
+    "lg_elec": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "novatek": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "mini_led": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
