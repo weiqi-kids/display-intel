@@ -1,5 +1,98 @@
 [
   {
+    "id": "samsung_elec-2026-05-03-001",
+    "date": "2026-05-03",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Samsung restructures home appliance business after 90% profit erosion",
+    "summary": "Samsung Electronics is reportedly initiating a large-scale restructuring of its home appliance division aimed at reversing declining profitability by increasing outsourced production and streamlining ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260429PD238/samsung-home-appliance-business-production-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-03-002",
+    "date": "2026-05-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Silicon Motion posts record 1Q26 revenue driven by AI, new products to boost growth",
+    "summary": "Silicon Motion Technology reported a record quarterly revenue of US$342 million in the first quarter of 2026, up 23% from the previous quarter and soaring 105% year-over-year. The company posted a gro",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260429PD239/revenue-growth-silicon-motion-2026-market-share.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-03-003",
+    "date": "2026-05-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CSP capex push toward US$700B as AI race intensifies, but ASIC demand timing remains uncertain",
+    "summary": "At their latest earnings calls, all four major US cloud service providers (CSPs) offered updated views on their 2026 capital expenditure (capex) plans. While Amazon's AWS maintained its already elevat",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260430VL223/capex-earnings-asic-demand-csp.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-03-004",
+    "date": "2026-05-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Taiwan supplier JPC takes No. 2 spot in Nvidia Vera Rubin power cable certification",
+    "summary": "As artificial intelligence (AI) continues to drive power demands, investment in power-related sectors has become a key focus for component suppliers. Connector and cable supplier JPC Connectivity anno",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260429PD200/jpc-production-investment-cables-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-03-005",
+    "date": "2026-05-03",
+    "companies": [],
+    "topics": [
+      "it_panel_demand",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lite-On's AI power ramp lifts 2Q26, but cautious PC outlook tempers 2H26 visibility",
+    "summary": "Lite-on Technology is forecasting essential second-quarter revenue growth as next-generation AI power management products enter mass production, president Anson Chiu said, while warning that PC demand",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260430PD216/pc-recovery-revenue-production-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-05-02-001",
     "date": "2026-05-02",
     "companies": [
@@ -367,6 +460,25 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260430PD232/mediatek-revenue-2026-smartphone-asic.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-019",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Mini LED vs. OLED: I've tested dozens of TV with both display types, and this one's better - Yahoo Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHhERGZ6VUlDNnVhaHc1LWlQVXRCSUlHVThPazFRdXZQRG8tbVJ2a2t3TjZJcWpjdTQ4Yzc4cWNxcGlSQVJYRnZFZGhtdUtKMTlmbkRVNjJmZVgza1AteHVtNEJQYVc4RXh6bXlEYU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHhERGZ6VUlDNnVhaHc1LWlQVXRCSUlHVThPazFRdXZQRG8tbVJ2a2t3TjZJcWpjdTQ4Yzc4cWNxcGlSQVJYRnZFZGhtdUtKMTlmbkRVNjJmZVgza1AteHVtNEJQYVc4RXh6bXlEYU5KRUhxOFNZaGhIUFdXQUlPT182UGZWVzFaMzVSeUpSNkRiU085?oc=5",
         "type": "rss"
       }
     ]
@@ -896,6 +1008,24 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdk9PMndIMkY1M2JxZkFZS1kweENIRXRDeS16ckdtN09kMmJKczBaT05ZTnZ6OXJWZklGWmxuSlo4NHJQeVNhM19GMFExTjBDSTlXbGd0OHN2VEp2NmE5M0tweUJYWDEtSWRMQW11U0RIRVBwcUV5TTZRTTJVSXRQdnF4NWk3YWx1YmFoWHBlNFVPVDMwdHlqMlRlZ3kyd25hYmZ2UVBqQTI4Wlh5M2w1eW1R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-04-30-029",
+    "date": "2026-04-30",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Announces Quarterly Dividend - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOLS1NZlA4dThORFpScjZlSjdZN0o4U2pETnFjcjQwQ1ZvSlh3WXdobnBsYWU0d3ZPUXBRS29YWHUyTnFsTXpoT1p0Q09PZ3hrRFRPUzhIb2RSVzNpTVdxbV9XTDQ4bHhiRm9Nek1WZl",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLS1NZlA4dThORFpScjZlSjdZN0o4U2pETnFjcjQwQ1ZvSlh3WXdobnBsYWU0d3ZPUXBRS29YWHUyTnFsTXpoT1p0Q09PZ3hrRFRPUzhIb2RSVzNpTVdxbV9XTDQ4bHhiRm9Nek1WZlVKVlRmNnB3ZnQzSVIyTloxd2pWZk03QUVvZVBLOUFYZFd1bUE?oc=5",
         "type": "rss"
       }
     ]
@@ -2509,6 +2639,24 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/demand-it-amoleds-not-high-expected-samsung-may-start-producing-rigid-low-cost",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-04-27-017",
+    "date": "2026-04-27",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "A Look At Himax Technologies (HIMX) Valuation After AI Chip Optimism And AR Microdisplay Breakthrough - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPODUtdFZGd19YOURJR0stdGY4MGMySXZJZ1FPRlJ1WTJncHQ4dUs0aVNTaXc4TkFUUnRBYnlSZEloamdoV1FSMFpXQ2loaE9HVXdJVGpfYkEzOHpGU3VBWm94b3MwSGNxSEpjRkJ0cj",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPODUtdFZGd19YOURJR0stdGY4MGMySXZJZ1FPRlJ1WTJncHQ4dUs0aVNTaXc4TkFUUnRBYnlSZEloamdoV1FSMFpXQ2loaE9HVXdJVGpfYkEzOHpGU3VBWm94b3MwSGNxSEpjRkJ0cjRBRFBhM3VMWjFvRkhxdTgtcGVlYlRIaHgzN0RrTHFINjFiNThrY3NYTDVTaW54clpfbHQ0aUlUZ0NDRXRmS29GMGJBQVpzUklvUDhpVDBWUXdoMXB1QWlzcFMwYjJTYl9IN2plUDZhUWVXZjBXTGphd09XRlpYZw?oc=5",
         "type": "rss"
       }
     ]
