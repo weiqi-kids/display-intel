@@ -1,5 +1,170 @@
 [
   {
+    "id": "lg_display-2026-05-04-001",
+    "date": "2026-05-04",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Unveils a Host of Next-Generation Displays in the US - 동아사이언스",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBubGxPRWRuN3BQN283WEVON3YxNkpRMkxPeWx1VTF6ODRVelRhd1pnemttYmFjSmZnYWtVcnduWU5QdU9waE51MGw2UkhWQW80eTdXOQ?oc=5\" target=\"_blank\">LG Display Un",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBubGxPRWRuN3BQN283WEVON3YxNkpRMkxPeWx1VTF6ODRVelRhd1pnemttYmFjSmZnYWtVcnduWU5QdU9waE51MGw2UkhWQW80eTdXOQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-04-002",
+    "date": "2026-05-04",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Electronics Announces New Leadership at the Visual Display Business",
+    "summary": "Samsung Electronics today announced the appointment of President Won-Jin Lee as the new Head of the Visual Display Business. President Seok Woo Yong, who has led the business, will serve as advisor to",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-electronics-announces-new-leadership-at-the-visual-display-business",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-04-003",
+    "date": "2026-05-04",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ADT lands US AI chip deal using Samsung 4nm",
+    "summary": "ADTechnology said it has signed a KRW40 billion (US$27.1 million) turnkey contract with a US-based AI fabless company to develop and supply HPC SoC chiplets for AI data-center applications using Samsu",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260504VL214/4nm-ai-chip-samsung-development-soc.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-004",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Huawei targets US$12 billion in AI chip sales as China firms seek Nvidia alternatives",
+    "summary": "Huawei is set to capture the largest share of China's AI chip market this year, with revenue expected to rise at least 60% as Chinese technology companies accelerate orders for domestic alternatives t",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260504VL213/huawei-nvidia-ai-chip-market-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-005",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Taiwanese Micro LED suppliers race to tap optical links for AI data centers",
+    "summary": "Micro LED is emerging as a potential contender in AI optical communications as the industry shift toward \"optical replacing copper\" gathers pace.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260504PD219/transmission-data-technology-communications-ennostar.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-04-006",
+    "date": "2026-05-04",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Samsung reshuffles TV leadership amid Chinese rivalry and service pivot",
+    "summary": "Samsung Electronics has replaced the head of its Visual Display (VD) business in a rare mid-cycle reshuffle, responding to weakening demand and intensifying global competition in the television market",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260504VL204/samsung-tv-competition-business-hardware.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-007",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Apple's cash pivot: A new CEO and strategy for the AI arms race",
+    "summary": "In a landmark shift coinciding with its second quarter of fiscal 2026 results, Apple has announced that it will no longer maintain its formal \"net cash neutral\" target. This financial pivot comes as t",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260504VL206/apple-ceo-2026-hardware-tim-cook.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-04-008",
+    "date": "2026-05-04",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Samsung pulls ahead of SK Hynix as commodity DRAM prices surge",
+    "summary": "<p class=\"P1\" data-start=\"166\" data-end=\"425\">Samsung Electronics and SK Hynix are both riding a historic memory upcycle, but a profit gap of about KRW15 trillion (approx. US$10 billion) has opened be",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260504VL202/samsung-sk-hynix-dram-hbm4-price.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-04-009",
+    "date": "2026-05-04",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung foundry rebound gains steam as 4nm yield reportedly tops 80%",
+    "summary": "Samsung Electronics' foundry business is drawing renewed attention as its 4nm process reportedly reaches higher utilization, supported by HBM4 base-die demand and orders from global technology compani",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260504VL205/samsung-4nm-hbm4-business-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-05-03-001",
     "date": "2026-05-03",
     "companies": [
@@ -93,6 +258,66 @@
     ]
   },
   {
+    "id": "lg_display-2026-05-03-006",
+    "date": "2026-05-03",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "LG Display Q1 2026 slides: OLED shift advances amid revenue decline - Investing.com India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOSnU0YXRyV21jcjhocTdfdWZJTnlPazZkOEVqUXlQNjZiRERYR1dWYmxGd3hBOE1QTTRONzNOMHQ4Y1k3bWlPWXNHSWROZnhVQzhHRDJfN1pVd1ZSQXFUR3dyYk5FTWRkZHF2VUNOLV",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSnU0YXRyV21jcjhocTdfdWZJTnlPazZkOEVqUXlQNjZiRERYR1dWYmxGd3hBOE1QTTRONzNOMHQ4Y1k3bWlPWXNHSWROZnhVQzhHRDJfN1pVd1ZSQXFUR3dyYk5FTWRkZHF2VUNOLVJ3ZlBjOXdjVFYwcFFrNjFRd3FVNGVVNzBPYlVsMWhlQzh2NWc3OU5iX3h2cTdaREp6NHF0MG1BUGhCbERVOUJfREM4Y1RObVB6al84RjBFcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-05-03-007",
+    "date": "2026-05-03",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Beat: BOE Technology Group Company Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPZkRaUDNoNjVQbVBSa3NLRG16YjM4bkRmYjNkN2U2Wkd6ZlpuMUh5T0hPazY1a0NPeUxRQjFSMTBMaDYzNU5yZTJmSkVnWWlxRjRzSzBTdjBXdVJsaXM2TVNpMUgzck5oTlR0VHpWZj",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZkRaUDNoNjVQbVBSa3NLRG16YjM4bkRmYjNkN2U2Wkd6ZlpuMUh5T0hPazY1a0NPeUxRQjFSMTBMaDYzNU5yZTJmSkVnWWlxRjRzSzBTdjBXdVJsaXM2TVNpMUgzck5oTlR0VHpWZjJZMmlLcUdVQjRfdlNLTGJFYTNWUlpyaWlUQnYxcGZYa2loQ2NkeTdlSXd6V25YaGV4aFhySXJmMXUzZDNwUHpz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-03-008",
+    "date": "2026-05-03",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Your OLED TV is about to feel obsolete - MakeUseOf",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNVkdyNmRlY3VzSHRtVDYyRFNfRjlrNFlOM09HcnpjbGxwYUUwd1RtN0wtNXBBQkZraXljSW5ucXpEeWFTQ2w5VTFaQndmTDZ5NFUydm5EaXpjM1g1R3p5ZkE0ZkE4R0ZjMi1adGV2U2",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVkdyNmRlY3VzSHRtVDYyRFNfRjlrNFlOM09HcnpjbGxwYUUwd1RtN0wtNXBBQkZraXljSW5ucXpEeWFTQ2w5VTFaQndmTDZ5NFUydm5EaXpjM1g1R3p5ZkE0ZkE4R0ZjMi1adGV2U21nS0NpWV9JSkVKUFo3VjRGMGlGVzVaTkNkMGJ2bnpPb3g?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-05-02-001",
     "date": "2026-05-02",
     "companies": [
@@ -124,6 +349,24 @@
       {
         "name": "himax",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM3B3OE9laWZKMkpGa3hHNzNRV1Jkczhsek01STlNY2E3TXJ1MjZrRGRubkszYUpQajZSME10VTQxUGlfUWs1TUVWNWlycTFQUktWT2txVXhBUFNfZHF0X0d0UGZmWExyT29CZmFEQ0lybDN3Rnl2dnpoR1g2UXdwZFNSTHVsOFhQZEJvcHBaMk5pdjdyTzdvX3ZvTXl2cHRqSEhiakJoWU5LU0E3aWRVbzlCOVVjTHFHUElkVy0taU1OVG4tZ1cySm1iMlE4X1BBelpqOTRDLW12bktfRHVTVdIB4AFBVV95cUxNM3B3OE9laWZKMkpGa3hHNzNRV1Jkczhsek01STlNY2E3TXJ1MjZrRGRubkszYUpQajZSME10VTQxUGlfUWs1TUVWNWlycTFQUktWT2txVXhBUFNfZHF0X0d0UGZmWExyT29CZmFEQ0lybDN3Rnl2dnpoR1g2UXdwZFNSTHVsOFhQZEJvcHBaMk5pdjdyTzdvX3ZvTXl2cHRqSEhiakJoWU5LU0E3aWRVbzlCOVVjTHFHUElkVy0taU1OVG4tZ1cySm1iMlE4X1BBelpqOTRDLW12bktfRHVTVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-02-003",
+    "date": "2026-05-02",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Jim Cramer’s a Believer in Corning (GLW) & Data Centers - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUXE2LTNPRXl1NkNMR3VWS0phSlhWUGtodHlpOEM5eHk1WGlIZmk5VTYwUmJlbEh5UEZoNzZ2RjVUT3gxTWlZNmVqVjRPTHRCa3IweVhDQnlPcUlQZV80Z1pNU0hlYVp1SGFQa3pVT3",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUXE2LTNPRXl1NkNMR3VWS0phSlhWUGtodHlpOEM5eHk1WGlIZmk5VTYwUmJlbEh5UEZoNzZ2RjVUT3gxTWlZNmVqVjRPTHRCa3IweVhDQnlPcUlQZV80Z1pNU0hlYVp1SGFQa3pVT3VYejJwaFRXSkh1OU5yU1BkclhOLW1IbFVFTm1JZkN6V0trU0V2NHhOUjF4XzQ?oc=5",
         "type": "rss"
       }
     ]
@@ -479,6 +722,25 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHhERGZ6VUlDNnVhaHc1LWlQVXRCSUlHVThPazFRdXZQRG8tbVJ2a2t3TjZJcWpjdTQ4Yzc4cWNxcGlSQVJYRnZFZGhtdUtKMTlmbkRVNjJmZVgza1AteHVtNEJQYVc4RXh6bXlEYU5KRUhxOFNZaGhIUFdXQUlPT182UGZWVzFaMzVSeUpSNkRiU085?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-020",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Mini LED vs. OLED: I've tested dozens of TV with both display types, and this one's better - ZDNET",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPN04weE42bFowdGxvaW5vLXFocEIwM2NNcXlzTnR0bFgtNkRYQkV6QmZBUWJkOGloa3FqcFBNeHlFc0xPWS1aLTZJUUdMZ3lGejlGS0xNckNMTHU4QzcwOFl0bEE5QnlYdkx5UTRUdn",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN04weE42bFowdGxvaW5vLXFocEIwM2NNcXlzTnR0bFgtNkRYQkV6QmZBUWJkOGloa3FqcFBNeHlFc0xPWS1aLTZJUUdMZ3lGejlGS0xNckNMTHU4QzcwOFl0bEE5QnlYdkx5UTRUdnQ5VTZUbkhMeDA5cXBBaTBjTXpTVQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1722,6 +1984,45 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CTkc0VnY3Z2lIbVpYYV9zNFhYS0xtckJUaEZLSDBrMkJLSUdlVmRULUx6LUQtYm9PVlBZam53MlZEOWFCazlrNHlMdmVmUExMd3lwcjhQdzB5ODlmTEwzUmtja3k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-04-29-037",
+    "date": "2026-04-29",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Incorporated announces Quarterly dividend, payable on June 29, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQVEg2YjVBazUxR041MEUzNnY5dWpDaTVxR2JkdkJTc2xSVlJLMXZaMmRPN3JXVUZnVENBOW9XSjZjODU1V0s4RWRfVG5WYnNJOEdWOTJjbHJ1aVlQWjBhYlhDX1RJNlBYVDNKRGtnRD",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVEg2YjVBazUxR041MEUzNnY5dWpDaTVxR2JkdkJTc2xSVlJLMXZaMmRPN3JXVUZnVENBOW9XSjZjODU1V0s4RWRfVG5WYnNJOEdWOTJjbHJ1aVlQWjBhYlhDX1RJNlBYVDNKRGtnRDRGNFFnLUdBdTdNV2lzb3BqbFphQlFaNU1VUGJhSmtSV1JHUERTMHExb1RqbU1PbjBDZWlMUXk5U3VVcXpGcFRlVDU1cHhOMkR0MGtTOWRkMVJjYmhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-04-29-038",
+    "date": "2026-04-29",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display's 27-inch DFR Gaming OLED panel wins SID's 'Display of the Year' - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQRExKZE1RUkV3dHNpanczdFJwSmpKdmtiNGt2RHRKMl9ZTVB1YXZlNXJPZVBNSnplZVlQcUhFbnZMc0JfeUxjcmVKbnYweFRMTFZCS3NMekNjcXhJamh4YVBQb2xIdG9kZk5EZm5PT2",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRExKZE1RUkV3dHNpanczdFJwSmpKdmtiNGt2RHRKMl9ZTVB1YXZlNXJPZVBNSnplZVlQcUhFbnZMc0JfeUxjcmVKbnYweFRMTFZCS3NMekNjcXhJamh4YVBQb2xIdG9kZk5EZm5PT2dabW5VN3dpTDlnWUJZQkxLdVoyQlB3ZjlzeXlaYXhjcncxS2o0bDl3?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,16 @@
+{
+  "total_raw": 379,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 35,
+  "gate2_fail": 21,
+  "passed": 16,
+  "gate2_samples": [
+    "Is Corning Incorporated (GLW) A Good Stock To Buy Now? - Yahoo Finance",
+    "Is Corning Incorporated (GLW) A Good Stock To Buy Now? - Insider Monkey",
+    "Corning (NYSE: GLW) SVP nets 28,937 shares after equity vesting - Stock Titan",
+    "Should You Investigate Corning Incorporated (NYSE:GLW) At US$153? - Moomoo",
+    "Research Alert: CFRA Maintains Buy Opinion On Shares Of Corning Incorporated - Moomoo"
+  ]
+}

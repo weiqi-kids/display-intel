@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T09:24:07.118233+00:00",
+  "updated_at": "2026-05-04T10:14:53.847478+00:00",
   "companies": {
     "corning": {
       "name": "Corning Incorporated",
@@ -285,31 +285,31 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 1082113,
           "pct_held": 0.02,
-          "value": 238605916500
+          "value": 251591272500
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 55000,
           "pct_held": 0.0,
-          "value": 12127500000
+          "value": 12787500000
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 50748,
           "pct_held": 0.0,
-          "value": 11189934000
+          "value": 11798910000
         },
         {
           "holder": "Chickasaw Capital Management, LLC",
           "shares": 15000,
           "pct_held": 0.0,
-          "value": 3307500000
+          "value": 3487500000
         },
         {
           "holder": "Stanley-Laman Group, Ltd.",
           "shares": 35207,
           "pct_held": 0.0,
-          "value": 7763143500
+          "value": 8185627500
         }
       ]
     },
