@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 37,
+  "gate2_fail": 18,
+  "passed": 27,
+  "gate2_samples": [
+    "Corning Incorporated Hosts 2026 Investor Event to Highlight Gen AI Innovations and Springboard Plan ",
+    "Corning (NYSE: GLW) investors back board, say-on-pay and auditor, reject chair change - Stock Titan",
+    "Corning Inc Stock (GLW) Opened Up by 3.07% on May 4: What Signal Does It Send? - TradingKey",
+    "Should You Investigate Corning Incorporated (NYSE:GLW) At US$153? - Moomoo",
+    "Olympus and Canon Introduce the Aplio i800 EUS Premium Ultrasound System in the U.S. - PR Newswire"
+  ]
+}

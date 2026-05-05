@@ -1,5 +1,390 @@
 [
   {
+    "id": "novatek-2026-05-05-001",
+    "date": "2026-05-05",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Novatek Microelectronics says January-March net profit at T$3.77 bln - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUtKRFBoVkZfN2tFaGc0NE9xUTdneGhkWmFfMDZYYVBGWmhxWTh5am1lSXgxY2FpRGtsT2NkdXkzcVgyXzhhM1JzdEZjX3hxTVZqaDFSbVZqY0JnNjFmUEpJcFlobGVmbWUwUkV1Rm",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUtKRFBoVkZfN2tFaGc0NE9xUTdneGhkWmFfMDZYYVBGWmhxWTh5am1lSXgxY2FpRGtsT2NkdXkzcVgyXzhhM1JzdEZjX3hxTVZqaDFSbVZqY0JnNjFmUEpJcFlobGVmbWUwUkV1Rm5EcGtWQ1RLZVZackRVOEMxVy1Fel8zOXk0MEVhMTdRcnRQb3Voejl3dVZLeXBHWHB3RUtiaVQ1X3pNMDBELTBIUGRzbVBiSUZzM2Q5TjdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-05-002",
+    "date": "2026-05-05",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display presents future of displays with next-generation OLED technologies at SID Display Week 2026 - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxONkJTWTlGa1IxQ3FCNEMxdXFrYTd1OTY0U3VHN3J1b0xWbEVxcHZLV3FjQkNMTmpJRWtta2N6VWVVOWdWWDdfSVdLTmFNekJUeFBra0pjTW9HUXBWdXg2elBhclRGLWt5RkdicFAtZW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONkJTWTlGa1IxQ3FCNEMxdXFrYTd1OTY0U3VHN3J1b0xWbEVxcHZLV3FjQkNMTmpJRWtta2N6VWVVOWdWWDdfSVdLTmFNekJUeFBra0pjTW9HUXBWdXg2elBhclRGLWt5RkdicFAtZWVsbWVUS1YwbFRUS0dMbVNBdGtVbE51SXdISFRTWXU3ZUhDSWVacUJoMGJfSjRLSVhLdVFCdnlkNFo3aTBYalk4Nl9sdXpERW5MTVNDQV9VRFZPVGZLSk50RWRvMmZmSk5yTXhXenNSMFJXaV9jSVJBU29CaF9WSFNONEFNY2FUOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-05-003",
+    "date": "2026-05-05",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display unveils next-gen OLED for AI devices at SID 2026 - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE40SDlxaWVkOTdKQ0ZzOW1fR1UtNndFVlFVODIwRVN6bWdPM2NjWjdLUEJuU0E3S3VjcG1yeHFpVFJYUUd4THAwSldwOEw5cVZmNEY2OGN3Zw?oc=5\" target=\"_blank\">LG Displa",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE40SDlxaWVkOTdKQ0ZzOW1fR1UtNndFVlFVODIwRVN6bWdPM2NjWjdLUEJuU0E3S3VjcG1yeHFpVFJYUUd4THAwSldwOEw5cVZmNEY2OGN3Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-05-004",
+    "date": "2026-05-05",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display shows a wide range of new OLED displays and technologies at SID Displayweek 2026 - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1VUTFlKejFhNXRZNWR3SVYybVEyLVZUMnQxWnlhendhSGhZNzgyRkZiLUpmMGU3endPRHF5WDBfY1Q2MGYzNF9JeFQ4aGVfcGxNUElfeE4xR3kwUUx2cHFIeXR3TGYwYzNZNF9oYz",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1VUTFlKejFhNXRZNWR3SVYybVEyLVZUMnQxWnlhendhSGhZNzgyRkZiLUpmMGU3endPRHF5WDBfY1Q2MGYzNF9JeFQ4aGVfcGxNUElfeE4xR3kwUUx2cHFIeXR3TGYwYzNZNF9oYzZDelVtLWVkYnlpdGpZRjJ6QzdCZ0pQYzZ4RWZmUmo3d1FIR2UwdF9xSDFiM3I1eG96VERSZkFrQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-05-005",
+    "date": "2026-05-05",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display has a 27-inch 5K OLED screen. - The Verge",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ3h0QklYa25mRVFrZFFhbzVEOTNvc0VZb19jZU1HSy02alhEQVEzZEJJSnFiS2YyV0VyLUJKU2dvcnB5ek9EM1pURlpKeHdzYmRBaEpTSjdFZDV2ekppNUhaVU9TMUNPejZtb2RGTT",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ3h0QklYa25mRVFrZFFhbzVEOTNvc0VZb19jZU1HSy02alhEQVEzZEJJSnFiS2YyV0VyLUJKU2dvcnB5ek9EM1pURlpKeHdzYmRBaEpTSjdFZDV2ekppNUhaVU9TMUNPejZtb2RGTTh3MEpRMDI4clNzOUFQclJ5cUh2Vm9Ga1JBLVUwbnRWNXFWREJK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-05-006",
+    "date": "2026-05-05",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "panel_price",
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display brings 4,500-nit TV panels, 15,000-hour car OLEDs - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQS29aczZfS01WWFl3aWFGcER6MVlHVUNYXzVoVnd1SXJGel9wZTRKd0djNS1zVW0tREhDOVAwTC16eXBWal9qTUp4Y1VZM1ZPdU5CYU1zNEQ4eFROWFoycFFMYm1sTm94eUQydGtKYn",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS29aczZfS01WWFl3aWFGcER6MVlHVUNYXzVoVnd1SXJGel9wZTRKd0djNS1zVW0tREhDOVAwTC16eXBWal9qTUp4Y1VZM1ZPdU5CYU1zNEQ4eFROWFoycFFMYm1sTm94eUQydGtKYnl5eUI3S0VkYlVSVEdWMHczc05Cc3RLY2d2TkFGajlJV3lGSHh2eWJQcFM4SUpSTl9OMTJNeWRybjVUUnJOWk9LeDcwQnhDSGRKQ0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-05-007",
+    "date": "2026-05-05",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Unveils Next-Gen OLED Technologies At SID Display Week 2026 - Ubergizmo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEtfVGthVHRRVFhtcGVRTmVNd3RtQUwxSjc1Y1oyY3pNWU5ZN3lIN1dxSXdWZVJpdEt2WkpUX3FGaUllcnhrOGJGcnpNZnVqU3UzNGI2UW1qOVFFUmJ5dTRtdklyMExaQnhyNUw2ZW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEtfVGthVHRRVFhtcGVRTmVNd3RtQUwxSjc1Y1oyY3pNWU5ZN3lIN1dxSXdWZVJpdEt2WkpUX3FGaUllcnhrOGJGcnpNZnVqU3UzNGI2UW1qOVFFUmJ5dTRtdklyMExaQnhyNUw2ZWVRWkNneS1hM1pUeEowekRMa19FWTU2UFFkSlJMdnRhLVNYLXQwMjhXSGYzNEI4MTlEVDJYVVhxRmk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-05-008",
+    "date": "2026-05-05",
+    "companies": [
+      "samsung_elec",
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display, LG Display to showcase next-gen OLED tech in LA - The Korea Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYUdJOC1sVE5rT0NVRXJyQ0NkMVZXLVFFcm04VGY4ZG1DREMyTHFvU1Zva2Q2U2ZESlBzMGQxY25ITFBOdmF4Q1FWZk1xaWgyb09QamM0NHhtV29pUjk3QlkyTnFiOW5zX1U1NXc1NW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYUdJOC1sVE5rT0NVRXJyQ0NkMVZXLVFFcm04VGY4ZG1DREMyTHFvU1Zva2Q2U2ZESlBzMGQxY25ITFBOdmF4Q1FWZk1xaWgyb09QamM0NHhtV29pUjk3QlkyTnFiOW5zX1U1NXc1NWNJRzFCaE95ZV9GbnhjdUFVMFUwRFpsdFQ0TzkyUi1RdjhEeDd4bk5NWVoyVnp1eDRvRUJfVWNLQkFDcVlVWWRDWm1uMWp6N0JiVHRBOFhrVnV0Z9IBwgFBVV95cUxOYUdJOC1sVE5rT0NVRXJyQ0NkMVZXLVFFcm04VGY4ZG1DREMyTHFvU1Zva2Q2U2ZESlBzMGQxY25ITFBOdmF4Q1FWZk1xaWgyb09QamM0NHhtV29pUjk3QlkyTnFiOW5zX1U1NXc1NWNJRzFCaE95ZV9GbnhjdUFVMFUwRFpsdFQ0TzkyUi1RdjhEeDd4bk5NWVoyVnp1eDRvRUJfVWNLQkFDcVlVWWRDWm1uMWp6N0JiVHRBOFhrVnV0Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-05-009",
+    "date": "2026-05-05",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Unveils New OLED Products at U.S. Exhibition - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqbzlVeWV2Y0dzU3hOd2ZxZjlMUUZiSlNGTUhOdk5wTXVOeVA5cXJVdHgtLWR5NXd2SlhYcTFSWkp5dm9uaUx2YXNTenMxaEtpSGFR?oc=5\" target=\"_blank\">LG Display Unve",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqbzlVeWV2Y0dzU3hOd2ZxZjlMUUZiSlNGTUhOdk5wTXVOeVA5cXJVdHgtLWR5NXd2SlhYcTFSWkp5dm9uaUx2YXNTenMxaEtpSGFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-05-010",
+    "date": "2026-05-05",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display debuts 3rd-gen tandem OLED, boosts vehicle brightness and life - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE15UFl5OHZRZzdLcEJHbmJtS3NwX0pFRl9YNDhMeXZIN1lEVUp2cklybmtWckRydnpDa3RNQ0JIOWJiR3JQbUN1RGx2S2swUXFBMmRjRF9CTEdQT25RbFVDSWR5QlJvME4zMzhaVjRudn",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15UFl5OHZRZzdLcEJHbmJtS3NwX0pFRl9YNDhMeXZIN1lEVUp2cklybmtWckRydnpDa3RNQ0JIOWJiR3JQbUN1RGx2S2swUXFBMmRjRF9CTEdQT25RbFVDSWR5QlJvME4zMzhaVjRudnNhTEQ2OFFULURR0gGOAUFVX3lxTE5nY1ZBcGVSSVItOXl3bWVRTEEtUVdBUmh2LWtUMHVOMnFFQkJ4M0UxNkF3YlRxNWZQaUpDcm5ibm5kVkdMcmxOOWxzMUNPZ0g4aGpaRDdYT2h4OVc4R2VKMmF1SWhBSldQcDNaMlhJTkMyREpvNlAxVm14SG80RUZFLU1GTC05eWdBQW9VMEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-05-011",
+    "date": "2026-05-05",
+    "companies": [
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung, LG Clash Over Next-Generation OLED at SID Display Week - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGdFd2Z2QWZUQlVEMzlleTYwN19FX0tLeTgtX3Bzb3A2ejdQb2lBUEtKRkpEVXRPUU56WnV6cDJ5Y01mMlRIMWZ6V1UtcnNrYmlvbERjdFhwSmttR185N3RRSC1wVUN2X1BxU0xYdT",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGdFd2Z2QWZUQlVEMzlleTYwN19FX0tLeTgtX3Bzb3A2ejdQb2lBUEtKRkpEVXRPUU56WnV6cDJ5Y01mMlRIMWZ6V1UtcnNrYmlvbERjdFhwSmttR185N3RRSC1wVUN2X1BxU0xYdTZ0TUp0cDVKTHYzZk9HOGxqMC1rS05EU1pJdWxObU1uRE1RMmJDbnpFTWFiTjUtdVh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-05-012",
+    "date": "2026-05-05",
+    "companies": [
+      "samsung_elec",
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung and LG Display Unveil New OLED Technologies in the U.S. - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoQVBXbzQtc3JUSUZOUlFsV0xqVHdTMndxS2ViRVV1ZkY4ZGlEVnVFOFNkTDBMYW9EbE5tZ3J1aHBDcUpfd3ptUmtQdkxsZWtlc2sw?oc=5\" target=\"_blank\">Samsung and LG ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoQVBXbzQtc3JUSUZOUlFsV0xqVHdTMndxS2ViRVV1ZkY4ZGlEVnVFOFNkTDBMYW9EbE5tZ3J1aHBDcUpfd3ptUmtQdkxsZWtlc2sw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-05-013",
+    "date": "2026-05-05",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display shows new display prototypes at SID Displayweek 2026, including its first PSF OLED panel",
+    "summary": "<p>Samsung Display is showing its latest OLED displays, prototypes and technologies at SID Displayweek 2026.</p><div class=\"align-center\">\n  \n  <a href=\"https://www.oled-info.com/sites/default/files/2",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-shows-new-display-prototypes-sid-displayweek-2026-including-its",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-05-014",
+    "date": "2026-05-05",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display shows a wide range of new OLED displays and technologies at SID Displayweek 2026",
+    "summary": "<p>LG Display is showcasing a wide range of OLED displays and prototypes at SID Displayweek 2026. In this article we detail the most interesting demonstrations and technologies.</p><img src=\"https://w",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/lg-display-shows-wide-range-new-oled-displays-and-technologies-sid-displayweek",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-05-015",
+    "date": "2026-05-05",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tesla AI5 dual sourcing may not mean equal weight for Samsung",
+    "summary": "Tesla CEO Elon Musk has confirmed that the company's in-house AI5 chip has completed design tape-out and entered a critical pre-production validation stage. The move has drawn renewed attention from s",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260505PD229/tesla-chips-production-samsung.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-05-05-016",
+    "date": "2026-05-05",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "TCL reportedly in talks to sell majority stake in India display plant",
+    "summary": "China's TCL Electronics is reportedly in advanced discussions to sell a majority stake in its Indian display manufacturing business. The move underscores accelerating localization pressure on foreign ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260505VL210/tcl-display-localization-plant-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-017",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "SEMICON SEA 2026: the trillion-dollar chip era is already here",
+    "summary": "The global semiconductor industry is entering a \"multi-trillion-dollar\" growth cycle sooner than expected, SEMI President and CEO Ajit Manocha said, urging Southeast Asian countries to strengthen coop",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260505PD225/semiconductor-industry-2026-semi-growth-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-05-018",
+    "date": "2026-05-05",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Apple reportedly explores Intel and Samsung chip production to reshape advanced manufacturing strategy",
+    "summary": "Apple is exploring a significant shift in its semiconductor supply chain, holding early discussions with Intel and Samsung Electronics to produce the main processors used in its devices, according to ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260505VL211/apple-intel-samsung-ic-manufacturing-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-019",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiwan's TCC plots European listing as green revenues overtake home market",
+    "summary": "Taiwan Cement Corporation (TCC) Group Holdings is evaluating a listing in Europe as it expands its low-carbon cement and green energy businesses across the region. Europe already accounted for 44% of ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260505PD212/tcc-europe-demand-asia-2025.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_display-2026-05-04-001",
     "date": "2026-05-04",
     "companies": [
@@ -165,6 +550,117 @@
     ]
   },
   {
+    "id": "corning-2026-05-04-010",
+    "date": "2026-05-04",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[8-K] CORNING INC /NY Reports Material Event - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHhnbzNCWV9GVXpyQWNpQnE4akhGN1ZkaFNBZC1tZ0JMTEJveFZrVWtMWkJhLVU1Rmg3Z0lzeUJYcEdZZkFhQlh5cGs0SFR5SkFwY0g2alFhbE83NEVPc1Zla3RhR3ljZEkzYmRqUz",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHhnbzNCWV9GVXpyQWNpQnE4akhGN1ZkaFNBZC1tZ0JMTEJveFZrVWtMWkJhLVU1Rmg3Z0lzeUJYcEdZZkFhQlh5cGs0SFR5SkFwY0g2alFhbE83NEVPc1Zla3RhR3ljZEkzYmRqUzg2bmo1aFJzWEFaSXdrd1R4UUpORzVtZy1PdnI3MXhGSkM0VkJYQUZsSDJBY3Z3S09lX3ZIbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-04-011",
+    "date": "2026-05-04",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Jim Cramer Discusses Potential Stock Movement for Corning - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQWnBGTi02eU5NNFc1SEhrVHI1TWlrbDBwdHZfMWdnVW9oUVJTVTdBZDBxWVRnV09vSmlyWGY5cTcwTWViWndiUUgwdjJvM1BJMmxCVm5iWVNKRVBqSklXR0VhWVcwMV94dFFvUlFsYX",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWnBGTi02eU5NNFc1SEhrVHI1TWlrbDBwdHZfMWdnVW9oUVJTVTdBZDBxWVRnV09vSmlyWGY5cTcwTWViWndiUUgwdjJvM1BJMmxCVm5iWVNKRVBqSklXR0VhWVcwMV94dFFvUlFsYXYydmZtUkFBS2lqLXlfTGs3MkdVR040SDF1QzFZeGkzdTVPakJIUWFkaElhYXRCY1RJVkpv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-05-04-012",
+    "date": "2026-05-04",
+    "companies": [
+      "auo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AUO (OTCMKTS:AUOTY) Shares Gap Up - Still a Buy? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxONnFkQVpjck5wR1pXNEFwVWo0MF9kVmc0dEk2LVk1RktzclNrc2FxWTdiZVhGQzQ0dDNVaDNuSWhEV01XR2FLQ25qMjVaaXAwVmlOX0dKT3lSeWh4dFA5bWozcVpxUGFRWUNVeU9QWk",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONnFkQVpjck5wR1pXNEFwVWo0MF9kVmc0dEk2LVk1RktzclNrc2FxWTdiZVhGQzQ0dDNVaDNuSWhEV01XR2FLQ25qMjVaaXAwVmlOX0dKT3lSeWh4dFA5bWozcVpxUGFRWUNVeU9QWkZwNGw0THFsRDktSG1UOHhrZ1hFc2NlTHU4ZHp6amdkRGJBX0Rrb1o3aUlsSU8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-04-013",
+    "date": "2026-05-04",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display unveils 3rd Gen Tandem OLED and new panels - FlatpanelsHD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1DVTlkSVQwU2VMSGVZMUQ2VmNvRXJRaTQ5dDlCVHdsYnVjeXNhLTRWbm91UmxGeWdFS29rVDFyRVo5dGhldWUyTGJtYWE0dmpJVU5WUmpMTDg1ekd3cVZqRlI2OUt6M3Y1VnhIM2ZZcV",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DVTlkSVQwU2VMSGVZMUQ2VmNvRXJRaTQ5dDlCVHdsYnVjeXNhLTRWbm91UmxGeWdFS29rVDFyRVo5dGhldWUyTGJtYWE0dmpJVU5WUmpMTDg1ekd3cVZqRlI2OUt6M3Y1VnhIM2ZZcVpPQVVkbkFEYXVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-05-04-014",
+    "date": "2026-05-04",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "China's TCL in talks with local companies to sell 51% in Indian plant - The Economic Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPd25PS21RRC1kNGFWRDA2Qm9XT19JRXRwTWp3NlZYWWZacjdDWG51Rjl0Qk1fOS0zNlBCc3p4Snl6ekFGcDctVHVEMFJ0a2FDVm5FY1JjVjYwdDF6UGdSLU9sTXhXLUlSdTczUlBVX2",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPd25PS21RRC1kNGFWRDA2Qm9XT19JRXRwTWp3NlZYWWZacjdDWG51Rjl0Qk1fOS0zNlBCc3p4Snl6ekFGcDctVHVEMFJ0a2FDVm5FY1JjVjYwdDF6UGdSLU9sTXhXLUlSdTczUlBVX25NcmZHOFZpWVBHZ25SaUlnS2ZaeEFyLTdLQ1pFTTBHZE5vckRfQ210WlpCUExnX2RhcWJKQy1aQUtCaE53TWU5RTdBb1NsUnlGbmljajgzTmFSOWtuMW1ZV3BPdHdaQWVKM0I4WFNZWDRxTzR4V2tpRzFaM0pvQm1PTklJeU94YTlLUdIB8gFBVV95cUxPd25PS21RRC1kNGFWRDA2Qm9XT19JRXRwTWp3NlZYWWZacjdDWG51Rjl0Qk1fOS0zNlBCc3p4Snl6ekFGcDctVHVEMFJ0a2FDVm5FY1JjVjYwdDF6UGdSLU9sTXhXLUlSdTczUlBVX25NcmZHOFZpWVBHZ25SaUlnS2ZaeEFyLTdLQ1pFTTBHZE5vckRfQ210WlpCUExnX2RhcWJKQy1aQUtCaE53TWU5RTdBb1NsUnlGbmljajgzTmFSOWtuMW1ZV3BPdHdaQWVKM0I4WFNZWDRxTzR4V2tpRzFaM0pvQm1PTklJeU94YTlLUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-015",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "GUC and Wiwynn Collaborate on Silicon-to-System Infrastructure for Next-Gen Hyperscale AI",
+    "summary": "\n\t\t\t\t\t\t<p>Collaboration unites SoC design, optical I/O, and liquid-cooled rack integration to help hyperscalers accelerate AI infrastructure.</p>\n<p>The post <a href=\"https://www.eetimes.com/guc-and-w",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/guc-and-wiwynn-collaborate-on-silicon-to-system-infrastructure-for-next-gen-hyperscale-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-05-03-001",
     "date": "2026-05-03",
     "companies": [
@@ -313,6 +809,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVkdyNmRlY3VzSHRtVDYyRFNfRjlrNFlOM09HcnpjbGxwYUUwd1RtN0wtNXBBQkZraXljSW5ucXpEeWFTQ2w5VTFaQndmTDZ5NFUydm5EaXpjM1g1R3p5ZkE0ZkE4R0ZjMi1adGV2U21nS0NpWV9JSkVKUFo3VjRGMGlGVzVaTkNkMGJ2bnpPb3g?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-03-009",
+    "date": "2026-05-03",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is Corning Incorporated (GLW) A Good Stock To Buy Now? - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQTE9jNXozNHpqQmdJcVBza0RwTXRXMzNJZWgtcnlYN0tsYmg2RHMtM2pRVk5uZ2F6WWZ1WUNDMmtVRUJfc3VmWHZXdEtiVS14dHdWd0NkbEVyajV3MGxEVEgtWTRZeU9Nb3VZemduc0",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTE9jNXozNHpqQmdJcVBza0RwTXRXMzNJZWgtcnlYN0tsYmg2RHMtM2pRVk5uZ2F6WWZ1WUNDMmtVRUJfc3VmWHZXdEtiVS14dHdWd0NkbEVyajV3MGxEVEgtWTRZeU9Nb3VZemduc0dqRWVxMVpycjNHcllaQjVoYVlBRDM2OThRVlpfcUpEeWZHdHVmQlY5QmJUUHowd9IBpgFBVV95cUxNd1RTQVFGWmFzUndHMzd0M3NJc1U2R0lEWVEydjNHU20xQ0lfZ0l5ZFBQdG95SlBmdFFoNUh4LUpjUGxCUlpoSGxWMkVTaFJfLS00NHdxTkFGRC1SNVN5TTFrMEhRWHU3T3d6aEd4bHd4TWx6SF9yaVZUVUlaY1lnMFRsWF9raTZJbkNHOHNIZGdHTllRam9VNHFVcGctekpBNXUwaFN3?oc=5",
         "type": "rss"
       }
     ]
@@ -2023,6 +2537,27 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRExKZE1RUkV3dHNpanczdFJwSmpKdmtiNGt2RHRKMl9ZTVB1YXZlNXJPZVBNSnplZVlQcUhFbnZMc0JfeUxjcmVKbnYweFRMTFZCS3NMekNjcXhJamh4YVBQb2xIdG9kZk5EZm5PT2dabW5VN3dpTDlnWUJZQkxLdVoyQlB3ZjlzeXlaYXhjcncxS2o0bDl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-04-29-039",
+    "date": "2026-04-29",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display's 27-inch DFR Gaming OLED panel wins SID's 'Display of the Year' - The Norfolk Daily News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxONU54aF9abVVTaWtDWjJhbjFoX2VPZWRjZXItMTUxYUxNbWhSeC1CbURzdFBOdGo2UTFNUzFLaVFLV1hpLUE2aXJRLTFndE55NzlCRFBVVlBwQjhPX3RnZFY4ZjFCNXlHSkJfWjVuaE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONU54aF9abVVTaWtDWjJhbjFoX2VPZWRjZXItMTUxYUxNbWhSeC1CbURzdFBOdGo2UTFNUzFLaVFLV1hpLUE2aXJRLTFndE55NzlCRFBVVlBwQjhPX3RnZFY4ZjFCNXlHSkJfWjVuaEdmZXdoWGZ0TzFmODJZeTNqZkhZNUczZjZpUDBuTFhBZTBZazVacHRyVERLaEZvWGxCcU9TcHZaMTJiWklVcm1vYnh1U2wzcGZ6eURRSDZLZzYxanhGNnFUakljdV9VelpGTFNkeXBCT0pNYmFlb1NkeFNHV0l6a2kxSVVUb0RtLXNzQ1hHMV83RnRkZEpGbUpoZHB5QkRQaUkwcFgzRmc?oc=5",
         "type": "rss"
       }
     ]

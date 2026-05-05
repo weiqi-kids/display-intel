@@ -1,0 +1,173 @@
+{
+  "date": "2026-05-05",
+  "date_range": {
+    "start": "2026-04-29",
+    "end": "2026-05-05"
+  },
+  "generated_at": "2026-05-05T10:03:18.133464Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lg_elec-2026-04-29-027",
+      "date": "2026-04-29",
+      "title": "LG Display Q1 2026 slides: OLED hits 60% despite sharp loss - Investing.com",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "oled_penetration": {
+      "this_week": 26,
+      "last_week": 18,
+      "week_over_week_change": "+44%",
+      "sentiment_this_week": -0.03
+    },
+    "earnings": {
+      "this_week": 37,
+      "last_week": 31,
+      "week_over_week_change": "+19%",
+      "sentiment_this_week": 0.14
+    },
+    "automotive_display": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "panel_price": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.08
+    },
+    "mini_led": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "it_panel_demand": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "canon": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "lg_display": {
+      "event_count": 18,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "lg_elec": {
+      "event_count": 21,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "samsung_elec": {
+      "event_count": 19,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "boe": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 8
+    },
+    "corning": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 5
+    },
+    "himax": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "auo": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 9
+    },
+    "tcl": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 7
+    },
+    "novatek": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 134,
+        "last": 168,
+        "change_pct": -20.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-29",
+      "event_count": 39,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 29,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 20,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 9,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 15,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 19,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-29 ~ 2026-05-05）共 134 則事件，重點為「LG Display Q1 2026 slides: OLED hits 60% despit...」。TCL Technology、BOE Technology情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "BOE Technology",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "AU Optronics",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "TCL Technology",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
