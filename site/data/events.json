@@ -1,5 +1,261 @@
 [
   {
+    "id": "lg_display-2026-05-06-001",
+    "date": "2026-05-06",
+    "companies": [
+      "lg_display",
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung, LG Display unveil next-gen OLED tech at SID 2026 - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1POURQWU9EVEpUSDBLYTl1Z085cllwRzllUzlhSEppdUt6YXlxWjM2RUF5cVV3UDRReVo1NnViSURsVW8weE5rNXZnMnJaOEtKRlE?oc=5\" target=\"_blank\">Samsung, LG Disp",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1POURQWU9EVEpUSDBLYTl1Z085cllwRzllUzlhSEppdUt6YXlxWjM2RUF5cVV3UDRReVo1NnViSURsVW8weE5rNXZnMnJaOEtKRlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-002",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED equipment and chemical makers enter the perovskite era - why are industry specialists pivoting to solar?",
+    "summary": "<p>Recently, we have started to witness a new trend in the display manufacturing equipment industry - companies that supply deposition systems to OLED fabs are now actively developing, testing, and co",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/oled-equipment-makers-enter-perovskite-era-why-are-industry-deposition",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-003",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "VIS sees stronger growth in the AI boom and pricing power",
+    "summary": "Buoyed by robust demand for artificial intelligence and the early success of price increases, Vanguard International Semiconductor Corporation (VIS) is projecting a stronger performance for the second",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260506PD213/vis-demand-growth-2026-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-004",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Flex jumps on 2027 outlook beat, AI data-center unit spinoff plan",
+    "summary": "<p class=\"P1\" data-start=\"780\" data-end=\"1061\">Flex shares rose 13% in after-hours trading on May 5 after the electronics manufacturing services (EMS) provider forecast fiscal 2027 results above Wall ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260506VL214/flex-data-center-eps-outlook-revenue-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-005",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AMD earnings call: AI is turning CPUs back into the main event",
+    "summary": "<p class=\"P1\" data-start=\"72\" data-end=\"408\">AMD's fiscal first-quarter 2026 earnings call was not just a victory lap for another data center beat. It was a strategic argument from management: AI infr",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260506VL209/amd-earnings-ai-cpu-data-center-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-006",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "GlobalFoundries pivots toward high-growth chips as mobile slowdown reshapes revenue mix",
+    "summary": "GlobalFoundries is reporting a stark divergence in its primary end-markets, as the company pivots its manufacturing focus toward high-growth sectors like automotive and data centers to counter a cooli",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260506VL207/globalfoundries-mobile-revenue-growth-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-007",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "India approves new semiconductor and Mini/Micro LED projects",
+    "summary": "India's latest approvals could expand global display and chip sourcing as the country adds Mini/Micro LED GaN fabrication and large-scale packaging capacity. Global manufacturers and buyers may see ne",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260506VL211/display-gan-commercial-packaging-automotive.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-008",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Eris Technology posts record April revenue on AI robot and server demand",
+    "summary": "Power semiconductor maker Eris Technology reported consolidated revenue of NT$250 million (US$7.9 million) in April 2026, a company record and up 19% from a year earlier, executives said, as demand ti",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260506PD219/eris-tech-revenue-demand-2026-subsidiary.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-009",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Synnex posts record first-quarter revenue and profit as AI demand drives semiconductor and cloud sales",
+    "summary": "Synnex Technology International Corp. reported record consolidated results for the first quarter as accelerating AI commercialization drove triple-digit growth in data-center products and broad-based ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260506PD218/profit-revenue-synnex-demand-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-010",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Winbond beats full-year 2025 profit in 1Q26 with memory capacity fully loaded",
+    "summary": "Winbond Electronics posted strong first-quarter 2026 results, with consolidated revenue totaling NT$38.25 billion (approx. US$1.21 billion), up 43.7% from the previous quarter and 91.3% from the same ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260505PD237/winbond-profit-demand-revenue-2025.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-011",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "GlobalWafers prepares inventory buffer as geopolitical factors push up gallium prices",
+    "summary": "Semiconductor silicon wafer supplier GlobalWafers said during its May 5 earnings call that it is advancing its next-generation compound semiconductor strategy. In response to advanced packaging and th",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260505PD238/globalwafers-gan-inventory-silicon-wafer-supplier.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-012",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "RichWave sees Wi-Fi 7 growth outrunning memory price pressure",
+    "summary": "Radio frequency (RF) front-end chip maker RichWave said on May 4 that Wi-Fi 7 momentum will remain very strong in the first quarter of 2026, even as rising memory and component costs squeeze profitabi",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260505PD232/richwave-wi-fi-7-growth-price-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-013",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Largan April revenue rises 24% annually; May pull-in remains strong",
+    "summary": "Largan Precision on May 5 reported its self-calculated April consolidated revenue at NT$5.4 billion (US$169.7 million), down 1% from the previous month but up 24% from the same period in 2025. For the",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260505PD236/revenue-largan-precision-2025-2026-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-014",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Explainer: Why Supermicro's margins bounced back &mdash; one customer pulled back",
+    "summary": "Supermicro's third-quarter of fiscal 2026 gross margins snapped back to 10.1% non-GAAP, up from 6.4% in the second quarter of fiscal 2026. CEO Charles Liang attributed the recovery to product mix impr",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260506VL208/supermicro-recovery-revenue-xai.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "novatek-2026-05-05-001",
     "date": "2026-05-05",
     "companies": [
@@ -380,6 +636,188 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260505PD212/tcc-europe-demand-asia-2025.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-05-020",
+    "date": "2026-05-05",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Inc Stock (GLW) Moved Up by 3.20% on May 5: What Signal Does It Send? - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXJrQWVmX3d6OEM2a3R3c3FyVEVaSjhZY2d3WEhDdWJHTzFYTVIyLUV3eHNvaVF5XzB2ZnItRDBQSEYyYUlTTWxKWjZnZ1psc2FTaEY0MGRNalV2dW5CaXdhR2xJVlpJREt6M2dYYl",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXJrQWVmX3d6OEM2a3R3c3FyVEVaSjhZY2d3WEhDdWJHTzFYTVIyLUV3eHNvaVF5XzB2ZnItRDBQSEYyYUlTTWxKWjZnZ1psc2FTaEY0MGRNalV2dW5CaXdhR2xJVlpJREt6M2dYYlVKUElDZTVlZGtpZkRHd2M3cVhLX0dwenZjcHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-05-021",
+    "date": "2026-05-05",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies Inc expected to post earnings of 5 cents a share - Earnings Preview - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNczd6bFljUFk0Z1pqVXdGVks1WG9TdWRIQVlybWNCdjJwcEFYbFpzbDRLS3lZQUdYd2tTdE14MklwRHZiTG5GNDZLcnN2cl8xQmVsblozZjdXWVpMOUtGczJKMFgyMEowaTN6T0hEcm",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNczd6bFljUFk0Z1pqVXdGVks1WG9TdWRIQVlybWNCdjJwcEFYbFpzbDRLS3lZQUdYd2tTdE14MklwRHZiTG5GNDZLcnN2cl8xQmVsblozZjdXWVpMOUtGczJKMFgyMEowaTN6T0hEcm5fZDljVWhiZmhTZlFZTGUydWR5NmZHMUdDbkNaSUxINmc4SzNqVjBCaTN3aXJEdTZfT1VrU0hxXy12RUZ2Mk9KbWRrYUVXakJsUEpVbUthZ3NtRU0tTXpFTDZiUWNsWFRqT2JERHdXY2RELUtxZjM3WEtBbWMxV1pZb3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-05-022",
+    "date": "2026-05-05",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Turns Heads With RoboCop-Style OLED Humanoid - PCMag UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1FGdkJmdHZNV21uSE9LZ2QxbEZzME9Nc1BSQ0ZzVnBFLVBySUVRZ3lZTkU4U0gtQ1VMQk9IOGhlN2UybFV3dG1FZjV6YVZaN2w2bTcyM0RrTHNWREcyaVJ0dEdwM2lOaU9UeWJKdn",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1FGdkJmdHZNV21uSE9LZ2QxbEZzME9Nc1BSQ0ZzVnBFLVBySUVRZ3lZTkU4U0gtQ1VMQk9IOGhlN2UybFV3dG1FZjV6YVZaN2w2bTcyM0RrTHNWREcyaVJ0dEdwM2lOaU9UeWJKdnZlRTh3ZjhfOS05YzBERVEzMUphei1uLUpRRDhuZnJXa255Q0g2UGEw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-05-023",
+    "date": "2026-05-05",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display unveils 3rd gen Tandem OLED and new panels - FlatpanelsHD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1DVTlkSVQwU2VMSGVZMUQ2VmNvRXJRaTQ5dDlCVHdsYnVjeXNhLTRWbm91UmxGeWdFS29rVDFyRVo5dGhldWUyTGJtYWE0dmpJVU5WUmpMTDg1ekd3cVZqRlI2OUt6M3Y1VnhIM2ZZcV",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1DVTlkSVQwU2VMSGVZMUQ2VmNvRXJRaTQ5dDlCVHdsYnVjeXNhLTRWbm91UmxGeWdFS29rVDFyRVo5dGhldWUyTGJtYWE0dmpJVU5WUmpMTDg1ekd3cVZqRlI2OUt6M3Y1VnhIM2ZZcVpPQVVkbkFEYXVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-05-024",
+    "date": "2026-05-05",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display presents future of displays with next-generation OLED technologies at SID Display Week 2026 - LG Display Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNXhCNkloVjFJTlV6TWk4LWZlYkNYWE00Z1Y2bEhkT2pmWEVzd3ZIVXJ5WTBjd0ZDblhWUlRyckhZOVVVem5JUjdOTHViT29hRm1wYm80aTVCQU5XOURsMm1TcVMwS0Y0N0tyMG1ONG",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNXhCNkloVjFJTlV6TWk4LWZlYkNYWE00Z1Y2bEhkT2pmWEVzd3ZIVXJ5WTBjd0ZDblhWUlRyckhZOVVVem5JUjdOTHViT29hRm1wYm80aTVCQU5XOURsMm1TcVMwS0Y0N0tyMG1ONGFTOUhQU0lobW1iNlVBRDVaUFIxalpEQkRtWURhMUZlNl82UW5nYzJtUEFNX1pTa2tKTjN3UGtQZnVNNlFnSjJiSVpQY3J4UlRmWVRlNWxrS1VnSERqMl9kZzkzd2hvZ2dUSDQ3T2NKMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-05-05-025",
+    "date": "2026-05-05",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG’s Third-Gen Tandem OLED Slashes Power Draw By 18% While Doubling Durability, Hitting 1200 Nits And 15,000-Hour Lifespan - Wccftech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTW1YcmR1RnREeUQtMnNxYTNtUmx4Y3l0RFNpRlBjOUJRanBwUmxtX2JRcDQ5WWx0YlkxTkYzUktNS2M1aDlNX2VXN2M5MWpKRV85QXdQcnJndzVGX1RkLXJfOFFlQXhiMEpxdlRrM3",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTW1YcmR1RnREeUQtMnNxYTNtUmx4Y3l0RFNpRlBjOUJRanBwUmxtX2JRcDQ5WWx0YlkxTkYzUktNS2M1aDlNX2VXN2M5MWpKRV85QXdQcnJndzVGX1RkLXJfOFFlQXhiMEpxdlRrM3BmbGVCX1RiY0YyQWpxQTdsZ1Y3eF9TUUQ50gGOAUFVX3lxTE9abDY4Wl9BQVlWNDVoQXp6M0VReFdTSVB6TEdScUZlN1JqLUZhY3hBTlJsamNPd0EzM2s1bW9FV1RsS3pMR3pwbEp2aXFCbVZPdnRwMWNSV0NuYUlUclhVR2U2TkgzY0tfNTM2VjBDeTg0cHp0bFI0V0g3Rmt4RGtNa3NiZElCcTZ1LTk2Mmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-05-026",
+    "date": "2026-05-05",
+    "companies": [
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung, LG unveil next-gen OLED displays - 동아일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xeXdFc2RRMFFIZ0FMYVdLUl9IQ096QTZrcWhqNGJaTEZlQWJMcmcyQWNCUTNsbEg4M0l5MGFqSWgzTVdqcFh2a3VIdjRvS3NWWkVGZncwa0c5cHJ5cDBYZjZIRFp6dw?oc=5\" targe",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xeXdFc2RRMFFIZ0FMYVdLUl9IQ096QTZrcWhqNGJaTEZlQWJMcmcyQWNCUTNsbEg4M0l5MGFqSWgzTVdqcFh2a3VIdjRvS3NWWkVGZncwa0c5cHJ5cDBYZjZIRFp6dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-05-05-027",
+    "date": "2026-05-05",
+    "companies": [
+      "sony"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Giant 98-inch Sony Mini LED TV touches $4,000 in lowest price Amazon deal - WePC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOczdwc1A5d19zeHRjUTBwaFRObl8xWE85dHFOMklILVFxMmxMQ3RNZzZ2RVZ0Ty11YVZUZ2pJVGFRcl9xSWQ1dzdtbmRWb1kycTl5ZkpYLWlMNmpORlR0UFhlMDljQnlNdnBEMDZTbD",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczdwc1A5d19zeHRjUTBwaFRObl8xWE85dHFOMklILVFxMmxMQ3RNZzZ2RVZ0Ty11YVZUZ2pJVGFRcl9xSWQ1dzdtbmRWb1kycTl5ZkpYLWlMNmpORlR0UFhlMDljQnlNdnBEMDZTbDFGOUlHRm9ocmxUNXhlYkJhMWoyRUQwNU1SVVR5dDVFY3Jod1RXZnp6MkNyWGtYcUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-05-05-028",
+    "date": "2026-05-05",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "LG Introduces UltraGear evo GM9 (27GM950B) Hyper Mini LED 5K Gaming Monitor - Pokde.Net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPTzdJY1E2WEpmOWJJb1NtR3lnZzZYTnNDTVhkaEQ1a1lJY0wtYmIxOUZESDZZaDdNS1FiNXhWaUJSRmxjNzVIUGdsLWlfTjJLcGVBeGNJZk95UWZzbDZKNHBNSlJfc3VOd2RUcEJhUz",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTzdJY1E2WEpmOWJJb1NtR3lnZzZYTnNDTVhkaEQ1a1lJY0wtYmIxOUZESDZZaDdNS1FiNXhWaUJSRmxjNzVIUGdsLWlfTjJLcGVBeGNJZk95UWZzbDZKNHBNSlJfc3VOd2RUcEJhUzJnWGx5cnZYOGlDUDI2M1dHejR3?oc=5",
         "type": "rss"
       }
     ]

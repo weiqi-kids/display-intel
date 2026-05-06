@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 34,
+  "gate2_fail": 15,
+  "passed": 23,
+  "gate2_samples": [
+    "Corning (NYSE: GLW) investors back board, say-on-pay and auditor, reject chair change - Stock Titan",
+    "Corning (NYSE: GLW) SVP nets 28,937 shares after equity vesting - Stock Titan",
+    "Corning (NYSE: GLW) Q1 2026 sales jump 20% as Optical and Solar surge - Stock Titan",
+    "Canon and Local Organizations Celebrate Earth Day 2026 with Community Recycling Drives at Melville H",
+    "Olympus and Canon Introduce the Aplio i800 EUS Premium Ultrasound System in the U.S. - PR Newswire"
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T06:04:21.002019Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-05-06-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung, LG Display unveil next-gen OLED tech at SID 2026 - 매일경제",
+      "companies": [
+        "lg_display",
+        "samsung_elec",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec",
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1POURQWU9EVEpUSDBLYTl1Z085cllwRzllUzlhSEppdUt6YXlxWjM2RUF5cVV3UDRReVo1NnViSURsVW8weE5rNXZnMnJaOEtKRlE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "VIS sees stronger growth in the AI boom and pricing power",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260506PD213/vis-demand-growth-2026-production.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-06-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Flex jumps on 2027 outlook beat, AI data-center unit spinoff plan",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260506VL214/flex-data-center-eps-outlook-revenue-2027.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-06-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AMD earnings call: AI is turning CPUs back into the main event",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260506VL209/amd-earnings-ai-cpu-data-center-2026.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-06-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "GlobalFoundries pivots toward high-growth chips as mobile slowdown reshapes revenue mix",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260506VL207/globalfoundries-mobile-revenue-growth-manufacturing.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.21,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 6,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 134,
+    "too_old": 174,
+    "gate1_blocked": 34,
+    "gate2_blocked": 15,
+    "passed": 23,
+    "pass_rate": "9.3%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "Corning (NYSE: GLW) investors back board, say-on-pay and auditor, reject chair change - Stock Titan",
+      "Corning (NYSE: GLW) SVP nets 28,937 shares after equity vesting - Stock Titan",
+      "Corning (NYSE: GLW) Q1 2026 sales jump 20% as Optical and Solar surge - Stock Titan",
+      "Canon and Local Organizations Celebrate Earth Day 2026 with Community Recycling Drives at Melville H",
+      "Olympus and Canon Introduce the Aplio i800 EUS Premium Ultrasound System in the U.S. - PR Newswire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為LGD、三星電子、LG電子相關動態：「Samsung, LG Display unveil next-gen OLED tech at SID 2026...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung, LG Display unveil next-gen OLED tech at SID 2026 - 매일경제（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "VIS sees stronger growth in the AI boom and pricing power（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
