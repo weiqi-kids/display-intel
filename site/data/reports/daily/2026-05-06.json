@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T06:04:21.002019Z",
+  "generated_at": "2026-05-06T10:17:13.159915Z",
   "top_events": [
     {
       "rank": 1,
@@ -36,97 +36,133 @@
     },
     {
       "rank": 2,
-      "event_id": "unknown-2026-05-06-003",
-      "importance_score": 0.75,
+      "event_id": "samsung_elec-2026-05-06-015",
+      "importance_score": 0.9,
       "importance_reasons": [
-        "涉及財報"
+        "多公司提及",
+        "供應鏈上下游同時提及"
       ],
-      "title": "VIS sees stronger growth in the AI boom and pricing power",
-      "companies": [],
+      "title": "Samsung Display and LG Display Showcase Next-Generation OLED Technologies at SID 2026 - thelec.net",
+      "companies": [
+        "samsung_elec",
+        "lg_elec",
+        "lg_display"
+      ],
       "related": {
-        "customers": [],
-        "suppliers": []
+        "customers": [
+          "samsung_elec",
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
       },
       "topics": [
-        "earnings"
+        "oled_penetration"
       ],
       "sentiment": {
-        "label": "positive",
-        "score": 0.5
+        "label": "neutral",
+        "score": 0.0
       },
-      "source_url": "https://www.digitimes.com/news/a20260506PD213/vis-demand-growth-2026-production.html"
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2YTZRZ3BncnpCdGd0WXNPZk8yQktQMjMyV2t6bk5HdjFpZVF5ZkFqTEI4VXN0SnZsdVIwSHQtN3dWbzl4UE9PdjhjaEV3WVhveVI3Y1dHN3MzNHNSakVacThtY0czNGs?oc=5"
     },
     {
       "rank": 3,
-      "event_id": "unknown-2026-05-06-004",
-      "importance_score": 0.75,
+      "event_id": "lg_elec-2026-05-06-016",
+      "importance_score": 0.9,
       "importance_reasons": [
-        "涉及財報"
+        "多公司提及",
+        "供應鏈上下游同時提及"
       ],
-      "title": "Flex jumps on 2027 outlook beat, AI data-center unit spinoff plan",
-      "companies": [],
+      "title": "[News] LG Display’s 27-inch DFR Gaming OLED panel wins SID’s ‘Display of the Year’ - LEDinside",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
       "related": {
-        "customers": [],
-        "suppliers": []
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
       },
       "topics": [
-        "earnings"
+        "oled_penetration"
       ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
       },
-      "source_url": "https://www.digitimes.com/news/a20260506VL214/flex-data-center-eps-outlook-revenue-2027.html"
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvUEpLdG1jTmUxVnozcGc3OGs4NWVyLUNOVTUzNXYzLWVfZjNUSFdXc055MGsxcV84anc0RHlrSThaUS1oVWVKcVNnWQ?oc=5"
     },
     {
       "rank": 4,
-      "event_id": "unknown-2026-05-06-005",
-      "importance_score": 0.75,
+      "event_id": "lg_elec-2026-05-06-017",
+      "importance_score": 0.9,
       "importance_reasons": [
-        "涉及財報"
+        "多公司提及",
+        "供應鏈上下游同時提及"
       ],
-      "title": "AMD earnings call: AI is turning CPUs back into the main event",
-      "companies": [],
+      "title": "LG Display shows 720Hz gaming OLED, 39-inch 5K2K OLED and third-gen Tandem OLED - VideoCardz.com",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
       "related": {
-        "customers": [],
-        "suppliers": []
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
       },
       "topics": [
-        "earnings"
+        "oled_penetration"
       ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
       },
-      "source_url": "https://www.digitimes.com/news/a20260506VL209/amd-earnings-ai-cpu-data-center-2026.html"
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWmhYX01LWlJRZXJQQ0JEUnpSdUxvS29nZmxrTGNSYVIxQjNpQjJWVDVMQkIyLXBsZFZJM2pqbWJBN3hvX0ktZzZQOWt6YXhBVmMxR3ZvREtyeFFnOS1lSVgxNnZQNmdvOTdudXdIVFVfQURtNlRFdjB4Sy1iUWlyRkhfVTRhaVMzT1BieXhWeE9PNEowdWlOSFRwOWpYY1NFd0YtbUFBenRHdw?oc=5"
     },
     {
       "rank": 5,
-      "event_id": "unknown-2026-05-06-006",
-      "importance_score": 0.75,
+      "event_id": "samsung_elec-2026-05-06-018",
+      "importance_score": 0.9,
       "importance_reasons": [
-        "涉及財報"
+        "多公司提及",
+        "供應鏈上下游同時提及"
       ],
-      "title": "GlobalFoundries pivots toward high-growth chips as mobile slowdown reshapes revenue mix",
-      "companies": [],
+      "title": "Samsung Display, LG Display to Supply OLED Panels for Apple iPhone 18 Pro Models - thelec.net",
+      "companies": [
+        "samsung_elec",
+        "lg_elec",
+        "lg_display"
+      ],
       "related": {
-        "customers": [],
-        "suppliers": []
+        "customers": [
+          "samsung_elec",
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
       },
       "topics": [
-        "earnings"
+        "oled_penetration"
       ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
       },
-      "source_url": "https://www.digitimes.com/news/a20260506VL207/globalfoundries-mobile-revenue-growth-manufacturing.html"
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uOVkwdThma3psWEc1M1JRU2stOUVzWkR1eU9lYVdJaFRvdFFaX2hGcWs4aTdaaEhjdHNFcTB2VUdCOWE2RW9sY2pCQXMwNEhCVjFEcTZpVzR1alV3cElnNk9jU3BDNHM?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "oled_penetration": {
-      "today": 2,
+      "today": 6,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -136,71 +172,99 @@
       "sentiment_7d_avg": null
     },
     "earnings": {
-      "today": 11,
+      "today": 12,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.21,
+      "sentiment_today": 0.24,
       "sentiment_7d_avg": null
     },
     "mini_led": {
-      "today": 1,
+      "today": 2,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.5,
+      "sentiment_today": 0.25,
       "sentiment_7d_avg": null
     }
   },
-  "supply_chain_activity": [],
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 5,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "lg_display",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "lg_elec",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
   "stats": {
-    "total_events": 14,
+    "total_events": 20,
     "sentiment_distribution": {
-      "positive": 6,
-      "neutral": 6,
+      "positive": 7,
+      "neutral": 11,
       "negative": 2
     },
     "top_companies": [
       {
         "id": "lg_display",
-        "count": 1
-      },
-      {
-        "id": "samsung_elec",
-        "count": 1
+        "count": 5
       },
       {
         "id": "lg_elec",
-        "count": 1
+        "count": 5
+      },
+      {
+        "id": "samsung_elec",
+        "count": 4
       }
     ],
     "top_topics": [
       {
         "id": "earnings",
-        "count": 11
+        "count": 12
       },
       {
         "id": "oled_penetration",
-        "count": 2
+        "count": 6
       },
       {
         "id": "mini_led",
-        "count": 1
+        "count": 2
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 380,
-    "dup_title": 134,
-    "too_old": 174,
-    "gate1_blocked": 34,
-    "gate2_blocked": 15,
-    "passed": 23,
-    "pass_rate": "9.3%",
+    "total_raw": 749,
+    "dup_title": 277,
+    "too_old": 338,
+    "gate1_blocked": 76,
+    "gate2_blocked": 29,
+    "passed": 29,
+    "pass_rate": "6.1%",
     "gate2_block_rate": "6.1%",
     "gate2_samples": [
       "Corning (NYSE: GLW) investors back board, say-on-pay and auditor, reject chair change - Stock Titan",
@@ -212,15 +276,15 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 14 則事件，焦點為LGD、三星電子、LG電子相關動態：「Samsung, LG Display unveil next-gen OLED tech at SID 2026...」。整體情緒偏正面，市場信心回溫。",
+    "summary": "今日共 20 則事件，焦點為LGD、LG電子、三星電子相關動態：「Samsung, LG Display unveil next-gen OLED tech at SID 2026...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "Samsung, LG Display unveil next-gen OLED tech at SID 2026 - 매일경제（OLED 滲透率）",
         "level": "red"
       },
       {
-        "text": "VIS sees stronger growth in the AI boom and pricing power（法說會）",
-        "level": "yellow"
+        "text": "Samsung Display and LG Display Showcase Next-Generation OLED Technologies at ...（OLED 滲透率）",
+        "level": "red"
       },
       {
         "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",

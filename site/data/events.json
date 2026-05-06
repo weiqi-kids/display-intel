@@ -256,6 +256,130 @@
     ]
   },
   {
+    "id": "samsung_elec-2026-05-06-015",
+    "date": "2026-05-06",
+    "companies": [
+      "samsung_elec",
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display and LG Display Showcase Next-Generation OLED Technologies at SID 2026 - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2YTZRZ3BncnpCdGd0WXNPZk8yQktQMjMyV2t6bk5HdjFpZVF5ZkFqTEI4VXN0SnZsdVIwSHQtN3dWbzl4UE9PdjhjaEV3WVhveVI3Y1dHN3MzNHNSakVacThtY0czNGs?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2YTZRZ3BncnpCdGd0WXNPZk8yQktQMjMyV2t6bk5HdjFpZVF5ZkFqTEI4VXN0SnZsdVIwSHQtN3dWbzl4UE9PdjhjaEV3WVhveVI3Y1dHN3MzNHNSakVacThtY0czNGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-05-06-016",
+    "date": "2026-05-06",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "[News] LG Display’s 27-inch DFR Gaming OLED panel wins SID’s ‘Display of the Year’ - LEDinside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvUEpLdG1jTmUxVnozcGc3OGs4NWVyLUNOVTUzNXYzLWVfZjNUSFdXc055MGsxcV84anc0RHlrSThaUS1oVWVKcVNnWQ?oc=5\" target=\"_blank\">[News] LG Display’s 27-in",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvUEpLdG1jTmUxVnozcGc3OGs4NWVyLUNOVTUzNXYzLWVfZjNUSFdXc055MGsxcV84anc0RHlrSThaUS1oVWVKcVNnWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-05-06-017",
+    "date": "2026-05-06",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display shows 720Hz gaming OLED, 39-inch 5K2K OLED and third-gen Tandem OLED - VideoCardz.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWmhYX01LWlJRZXJQQ0JEUnpSdUxvS29nZmxrTGNSYVIxQjNpQjJWVDVMQkIyLXBsZFZJM2pqbWJBN3hvX0ktZzZQOWt6YXhBVmMxR3ZvREtyeFFnOS1lSVgxNnZQNmdvOTdudXdIVF",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWmhYX01LWlJRZXJQQ0JEUnpSdUxvS29nZmxrTGNSYVIxQjNpQjJWVDVMQkIyLXBsZFZJM2pqbWJBN3hvX0ktZzZQOWt6YXhBVmMxR3ZvREtyeFFnOS1lSVgxNnZQNmdvOTdudXdIVFVfQURtNlRFdjB4Sy1iUWlyRkhfVTRhaVMzT1BieXhWeE9PNEowdWlOSFRwOWpYY1NFd0YtbUFBenRHdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-06-018",
+    "date": "2026-05-06",
+    "companies": [
+      "samsung_elec",
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display, LG Display to Supply OLED Panels for Apple iPhone 18 Pro Models - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uOVkwdThma3psWEc1M1JRU2stOUVzWkR1eU9lYVdJaFRvdFFaX2hGcWs4aTdaaEhjdHNFcTB2VUdCOWE2RW9sY2pCQXMwNEhCVjFEcTZpVzR1alV3cElnNk9jU3BDNHM?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uOVkwdThma3psWEc1M1JRU2stOUVzWkR1eU9lYVdJaFRvdFFaX2hGcWs4aTdaaEhjdHNFcTB2VUdCOWE2RW9sY2pCQXMwNEhCVjFEcTZpVzR1alV3cElnNk9jU3BDNHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-06-019",
+    "date": "2026-05-06",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "'Chipflation' hits Samsung, boosts Apple results",
+    "summary": "As soaring memory prices fuel \"chipflation,\" Samsung Electronics and Apple are taking sharply different approaches. Samsung's Mobile eXperience (MX) division is trying to protect profitability by opti",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260506PD232/samsung-apple-operating-profit-smartphone.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-020",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Blog Review: May 6",
+    "summary": "<p>AI data center challenges; C-PHY's 18 wire state mode; changes in CFD; ITA inspection cobot.</p>\n<p>The post <a href=\"https://semiengineering.com/blog-review-may-6-3/\">Blog Review: May 6</a> appear",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/blog-review-may-6-3/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "novatek-2026-05-05-001",
     "date": "2026-05-05",
     "companies": [

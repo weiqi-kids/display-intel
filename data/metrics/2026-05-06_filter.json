@@ -1,11 +1,11 @@
 {
-  "total_raw": 380,
-  "dup_title": 134,
+  "total_raw": 749,
+  "dup_title": 277,
   "no_date": 0,
-  "too_old": 174,
-  "gate1_fail": 34,
-  "gate2_fail": 15,
-  "passed": 23,
+  "too_old": 338,
+  "gate1_fail": 76,
+  "gate2_fail": 29,
+  "passed": 29,
   "gate2_samples": [
     "Corning (NYSE: GLW) investors back board, say-on-pay and auditor, reject chair change - Stock Titan",
     "Corning (NYSE: GLW) SVP nets 28,937 shares after equity vesting - Stock Titan",
