@@ -1,0 +1,16 @@
+{
+  "total_raw": 379,
+  "dup_title": 110,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 43,
+  "gate2_fail": 23,
+  "passed": 41,
+  "gate2_samples": [
+    "Nvidia and Corning select North Carolina for future manufacturing site, hiring - The News & Observer",
+    "News | Race to build AI data centers prompts Nvidia, Corning to partner on fiber optics - CoStar",
+    "Why Is Corning Stock Gaining Today? - Corning (NYSE:GLW) - Benzinga",
+    "Nvidia, Corning partner to boost US manufacturing for AI infrastructure - Latest news from Azerbaija",
+    "Nvidia and Corning bolster optical capabilities for Artificial Intelligence - marketscreener.com"
+  ]
+}

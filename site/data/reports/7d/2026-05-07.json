@@ -1,0 +1,175 @@
+{
+  "date": "2026-05-07",
+  "date_range": {
+    "start": "2026-05-01",
+    "end": "2026-05-07"
+  },
+  "generated_at": "2026-05-07T10:25:45.107552Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lg_display-2026-05-03-006",
+      "date": "2026-05-03",
+      "title": "LG Display Q1 2026 slides: OLED shift advances amid revenue decline - Investing.com India",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "lg_display",
+      "company_b": "samsung_elec",
+      "co_mention_count": 5,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "oled_penetration": {
+      "this_week": 23,
+      "last_week": 17,
+      "week_over_week_change": "+35%",
+      "sentiment_this_week": 0.02
+    },
+    "earnings": {
+      "this_week": 37,
+      "last_week": 32,
+      "week_over_week_change": "+16%",
+      "sentiment_this_week": 0.17
+    },
+    "mini_led": {
+      "this_week": 5,
+      "last_week": 3,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.1
+    },
+    "it_panel_demand": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "automotive_display": {
+      "this_week": 4,
+      "last_week": 5,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.0
+    },
+    "panel_price": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "samsung_elec": {
+      "event_count": 21,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "tcl": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 4
+    },
+    "lg_elec": {
+      "event_count": 20,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "corning": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "himax": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "lg_display": {
+      "event_count": 17,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "novatek": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "raydium": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "csot": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 136,
+        "last": 169,
+        "change_pct": -19.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-01",
+      "event_count": 20,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 9,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 15,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 30,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 41,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "event_count": 18,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-01 ~ 2026-05-07）共 136 則事件，重點為「LG Display Q1 2026 slides: OLED shift advances ...」。康寧表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "三星電子",
+        "reason": "本週出現 21 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "TCL Technology",
+        "reason": "本週出現 4 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "LG電子",
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-07",
+  "total_events": 18,
+  "by_company": {
+    "corning": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "raydium": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "himax": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 3,
+      "sentiment_avg": 0.11
+    },
+    "csot": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tcl": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "oled_penetration": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "it_panel_demand": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "mini_led": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "automotive_display": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
