@@ -1,0 +1,261 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T09:19:37.316646Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_elec-2026-05-08-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung, LG Display pivot to high-value OLED for laptops and cars - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "samsung_elec",
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec",
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UbzRnS01JUkJuYzlwMVcwZ2FCUjBidVBYYUtEWDRBeE5ZMVR3M24tOXg2Q3A2SEd5bEpJU1RDSUUwY2F3a211eHBwMXVOY0otMlZ0bFpkd2pSX08xMmpQSkdkWHpJbThqNU5fcV9oQ0kzbG1BWWlfdWJR0gGOAUFVX3lxTE1VajNGcVFtVzNBMFZGNXZoNkV5SHlYQTBzMW10ZTJWUFVTOUNROVdTc2czYTVSV0c5dFozNW5NdVBHdUVQc25fWXRzR21uWkdpc2tGdU1Pa0FPb0FHakRLNEJZdW9KZjV3TUswVHRVNk9jMTlDblF4UzRJcnNJVzlweW9HNUpKUnZrRE4yYVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-08-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Chip Industry Week In Review",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://semiengineering.com/chip-industry-week-in-review-137/"
+    },
+    {
+      "rank": 3,
+      "event_id": "novatek-2026-05-08-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novatek Microelectronics' Profit Slumps 28% in Q1; Shares Rally 10% - marketscreener.com",
+      "companies": [
+        "novatek"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeGhrU1FqWDlmYWFuS3pNTllCYUYyeVZQVEFHWllEV0FiSUhxU0NkVDVqTExSblhaSlZYOUhqMDBoRHBsRTNDSzI0Z2I2Uy1DR3BwOXUwbEVlb3NIUkpHRHFmeVZ4ZDh1MXlER1B6cUtibkFhVDNPV2pUTTFIR0EyYVRqRlVOemJOMjlQaDF5QTJuUm15LTdYdmJaNkg1UjA0MlJwQmpiM2lhMUVaNFozOUl6UVVyVXM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "novatek-2026-05-08-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novatek raises margin outlook on stronger product mix and early shipments - digitimes",
+      "companies": [
+        "novatek"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQWVuUFhmMGNiSWhIekxtMnFyMXRrXzRDQjJuZHpucVIyVzJoX0tqZm10TVJJU2FBSkZpSjg1S3NxR1hJTmtmQ1dyTi1kVjFOdWx5anhHS3E3QXdvZ2RmSHJCZFVYQWlMZk9HQWM0WFFfcWFRMWd6YUxoc005QWZNb0xTRFhXd2NlWkdIT011QlJ2NGdJbkE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "himax-2026-05-08-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Himax Technologies Q1 Earnings Call Highlights - Yahoo Finance",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMUQ0WHlTQ0FzNlYwaDE3eUgxVngzc3FsUWpUS09RZ2w5eFBJVUswUmFGdWlabWN3dDNlQk53Y09PU3lyVUVGOVBBYUJiSDVteklBSWFibFZpNTRpanphaXRncG1HRmNWakM4ckhOM2xMaXBIeFJ2V3lmaE5uTlh5Nno4QllxYWZ0Y0VLeGNwMkpaVkI2VUE4Y3dnZzdIMzJyMWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "himax",
+        "count": 5
+      },
+      {
+        "id": "novatek",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "auo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 120,
+    "too_old": 150,
+    "gate1_blocked": 27,
+    "gate2_blocked": 27,
+    "passed": 36,
+    "pass_rate": "15.0%",
+    "gate2_block_rate": "11.2%",
+    "gate2_samples": [
+      "Corning Incorporated to ring the NYSE Closing Bell® on Thursday - WETM",
+      "Corning Incorporated Stock 12‑Month Price Target Raised to $202.31, Implies 11% Upside - TradingView",
+      "NVIDIA, Corning Expand U.S. Optical Manufacturing for AI Infrastructure Growth - The Fast Mode",
+      "Nvidia and Corning select North Carolina for future manufacturing site, hiring - Raleigh News & Obse",
+      "Light Speed Returns: Corning Cashes In on NVIDIA Growth - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為Himax Technologies、Novatek Microelectronics、三星電子相關動態：「Samsung, LG Display pivot to high-value OLED for laptops ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Samsung, LG Display pivot to high-value OLED for laptops and cars - CHOSUNBIZ...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Chip Industry Week In Review（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

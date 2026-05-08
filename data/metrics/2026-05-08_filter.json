@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 27,
+  "gate2_fail": 27,
+  "passed": 36,
+  "gate2_samples": [
+    "Corning Incorporated to ring the NYSE Closing Bell® on Thursday - WETM",
+    "Corning Incorporated Stock 12‑Month Price Target Raised to $202.31, Implies 11% Upside - TradingView",
+    "NVIDIA, Corning Expand U.S. Optical Manufacturing for AI Infrastructure Growth - The Fast Mode",
+    "Nvidia and Corning select North Carolina for future manufacturing site, hiring - Raleigh News & Obse",
+    "Light Speed Returns: Corning Cashes In on NVIDIA Growth - MarketBeat"
+  ]
+}

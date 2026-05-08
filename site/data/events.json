@@ -1,5 +1,277 @@
 [
   {
+    "id": "corning-2026-05-08-001",
+    "date": "2026-05-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning, NVIDIA announce major AI manufacturing partnership with thousands of new U.S. jobs - Fingerlakes1.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWhxTHFfU24wQjlwZkp3aUxGdV9WVXZTV0VPU2R0eF9ubVQ4MFlEZHZwWlNrSkhvVnJIUTZSWnpoUEp1cEZQZFRtT0l5cWo4SVFVbzNiQ3Q1VUxJNUhJNVlnUnVVQndkdE5wU2NsTz",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWhxTHFfU24wQjlwZkp3aUxGdV9WVXZTV0VPU2R0eF9ubVQ4MFlEZHZwWlNrSkhvVnJIUTZSWnpoUEp1cEZQZFRtT0l5cWo4SVFVbzNiQ3Q1VUxJNUhJNVlnUnVVQndkdE5wU2NsTzV4SVRKT25sbkpub1Z5OVhQcjY3dFZtWC1XelBGUnhic3l0NnRLVEc0ZngyOTBzRHkwZWZNZGRCbzRhZUowSmptTmU4OUdlRi05YXNyZGpZSTlXd2ZIRjNfZ0hR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-05-08-002",
+    "date": "2026-05-08",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Novatek Microelectronics' Profit Slumps 28% in Q1; Shares Rally 10% - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOeGhrU1FqWDlmYWFuS3pNTllCYUYyeVZQVEFHWllEV0FiSUhxU0NkVDVqTExSblhaSlZYOUhqMDBoRHBsRTNDSzI0Z2I2Uy1DR3BwOXUwbEVlb3NIUkpHRHFmeVZ4ZDh1MXlER1B6cU",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeGhrU1FqWDlmYWFuS3pNTllCYUYyeVZQVEFHWllEV0FiSUhxU0NkVDVqTExSblhaSlZYOUhqMDBoRHBsRTNDSzI0Z2I2Uy1DR3BwOXUwbEVlb3NIUkpHRHFmeVZ4ZDh1MXlER1B6cUtibkFhVDNPV2pUTTFIR0EyYVRqRlVOemJOMjlQaDF5QTJuUm15LTdYdmJaNkg1UjA0MlJwQmpiM2lhMUVaNFozOUl6UVVyVXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-05-08-003",
+    "date": "2026-05-08",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Novatek raises margin outlook on stronger product mix and early shipments - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNQWVuUFhmMGNiSWhIekxtMnFyMXRrXzRDQjJuZHpucVIyVzJoX0tqZm10TVJJU2FBSkZpSjg1S3NxR1hJTmtmQ1dyTi1kVjFOdWx5anhHS3E3QXdvZ2RmSHJCZFVYQWlMZk9HQWM0WF",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQWVuUFhmMGNiSWhIekxtMnFyMXRrXzRDQjJuZHpucVIyVzJoX0tqZm10TVJJU2FBSkZpSjg1S3NxR1hJTmtmQ1dyTi1kVjFOdWx5anhHS3E3QXdvZ2RmSHJCZFVYQWlMZk9HQWM0WFFfcWFRMWd6YUxoc005QWZNb0xTRFhXd2NlWkdIT011QlJ2NGdJbkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-08-004",
+    "date": "2026-05-08",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies Q1 Earnings Call Highlights - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPMUQ0WHlTQ0FzNlYwaDE3eUgxVngzc3FsUWpUS09RZ2w5eFBJVUswUmFGdWlabWN3dDNlQk53Y09PU3lyVUVGOVBBYUJiSDVteklBSWFibFZpNTRpanphaXRncG1HRmNWakM4ckhOM2",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMUQ0WHlTQ0FzNlYwaDE3eUgxVngzc3FsUWpUS09RZ2w5eFBJVUswUmFGdWlabWN3dDNlQk53Y09PU3lyVUVGOVBBYUJiSDVteklBSWFibFZpNTRpanphaXRncG1HRmNWakM4ckhOM2xMaXBIeFJ2V3lmaE5uTlh5Nno4QllxYWZ0Y0VLeGNwMkpaVkI2VUE4Y3dnZzdIMzJyMWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-08-005",
+    "date": "2026-05-08",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) Hits 4-Year High on Upbeat H2 Outlook - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOT0VlTXlaMmdKZXpUMzJFc3h4Z3doMGZCdnUtcUtlYXNEbU1BYzJ2UTBiVGFNa2FUM1RDbFdodnZ4bVJ2TDJYVmpNUVoxY3l1NXljb1VlZkdUVGg3S0V4RnZJZFk1eXBlbU4tSTJONX",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT0VlTXlaMmdKZXpUMzJFc3h4Z3doMGZCdnUtcUtlYXNEbU1BYzJ2UTBiVGFNa2FUM1RDbFdodnZ4bVJ2TDJYVmpNUVoxY3l1NXljb1VlZkdUVGg3S0V4RnZJZFk1eXBlbU4tSTJONXBHZlV1ZDh5U3BIUlNmdlZEY0U3TjFNQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-08-006",
+    "date": "2026-05-08",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "automotive_display",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies Q1 Earnings Call Highlights - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNKRE9IaDVqQ1hvdEQ4ZTg4aTVmeVFfbFpLdkc0d2J5bnJuMXRCM1hVaHVIeXNKb1NDV2pBVjFkd2pGbXFFeEJTaWI1VklvTnhUdXhqOE5DbDgyWGVJUWszRlFKX2VlSXRka1Exbz",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlNKRE9IaDVqQ1hvdEQ4ZTg4aTVmeVFfbFpLdkc0d2J5bnJuMXRCM1hVaHVIeXNKb1NDV2pBVjFkd2pGbXFFeEJTaWI1VklvTnhUdXhqOE5DbDgyWGVJUWszRlFKX2VlSXRka1Exbzg4X2lMbHFOVmI3dzFxWU1GRkh4RDNaamktdGhBem9PM0FLQkNKSmt0Tm94R2R4RjR3N3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-08-007",
+    "date": "2026-05-08",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies: Cash Dividend to Be Payable July 10 >HIMX - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQc0RLYVFJNldHZ1Y3ZE44dU00bTRxa2VwZ0R1dVE5TGw5T3RReUUzOUtoa3R5SVdndzE4aHR0S3UzZS1WNUZEWGZIcTZZX3ZsRFJiRzVFalBib0RxSlRIOVFfdGVmaUtfYzRVRXp1UG",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc0RLYVFJNldHZ1Y3ZE44dU00bTRxa2VwZ0R1dVE5TGw5T3RReUUzOUtoa3R5SVdndzE4aHR0S3UzZS1WNUZEWGZIcTZZX3ZsRFJiRzVFalBib0RxSlRIOVFfdGVmaUtfYzRVRXp1UGFnekhydjFvOGR0MG0wMnFUOFg4R01abFpmR2xnMFBJVlhLYkNEMTBNQ2ZHZzhSd2JjRGNN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-08-008",
+    "date": "2026-05-08",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies Q1 2026 Earnings Call Transcript - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPV2Q5MjZzOURaYnpYTEExYnBlSlZSYTVteHMwR0FrOE1ZRnZKVWJ1N0xpY1ZzZFRwYnFmYnJSWkdqNU5CUS15T1hjeVNlSGxSUzhKUWF2aFNONHI0Z0FjM1F4ZC1PN2RreUl4RW9abW",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV2Q5MjZzOURaYnpYTEExYnBlSlZSYTVteHMwR0FrOE1ZRnZKVWJ1N0xpY1ZzZFRwYnFmYnJSWkdqNU5CUS15T1hjeVNlSGxSUzhKUWF2aFNONHI0Z0FjM1F4ZC1PN2RreUl4RW9abWM5Tk5oSkRlY2U0cnBFQ0lIa0lHRnhveXhlLUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-05-08-009",
+    "date": "2026-05-08",
+    "companies": [
+      "auo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AUO tops US$3 billion in circular economy value - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVd5S1VjZTFZU2UtZG43N0p4N0k4UXhXb24yMF9IWllfOWdVaFJ5SEpoa0pJTk5rTWo2elNqV3ctRmJ3YzVUS3A2dzYtUkU0N1dsQXhhOEUwQUpEYjVWYWFmeUFHTks3Vkdsa3dQX1",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVd5S1VjZTFZU2UtZG43N0p4N0k4UXhXb24yMF9IWllfOWdVaFJ5SEpoa0pJTk5rTWo2elNqV3ctRmJ3YzVUS3A2dzYtUkU0N1dsQXhhOEUwQUpEYjVWYWFmeUFHTks3Vkdsa3dQX1h0dlJmVW5vbUw1TFUxd2lJeTNLQnVpWnpUYmJrQ3d4anZrc2tUUjBFd2Jn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-08-010",
+    "date": "2026-05-08",
+    "companies": [
+      "samsung_elec",
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung, LG Display pivot to high-value OLED for laptops and cars - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5UbzRnS01JUkJuYzlwMVcwZ2FCUjBidVBYYUtEWDRBeE5ZMVR3M24tOXg2Q3A2SEd5bEpJU1RDSUUwY2F3a211eHBwMXVOY0otMlZ0bFpkd2pSX08xMmpQSkdkWHpJbThqNU5fcV9oQ0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UbzRnS01JUkJuYzlwMVcwZ2FCUjBidVBYYUtEWDRBeE5ZMVR3M24tOXg2Q3A2SEd5bEpJU1RDSUUwY2F3a211eHBwMXVOY0otMlZ0bFpkd2pSX08xMmpQSkdkWHpJbThqNU5fcV9oQ0kzbG1BWWlfdWJR0gGOAUFVX3lxTE1VajNGcVFtVzNBMFZGNXZoNkV5SHlYQTBzMW10ZTJWUFVTOUNROVdTc2czYTVSV0c5dFozNW5NdVBHdUVQc25fWXRzR21uWkdpc2tGdU1Pa0FPb0FHakRLNEJZdW9KZjV3TUswVHRVNk9jMTlDblF4UzRJcnNJVzlweW9HNUpKUnZrRE4yYVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-05-08-011",
+    "date": "2026-05-08",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE, UNESCO introduce Asia-Pacific Science Club Network & 2026 Science Challenge - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPel96SjU3SXRhUUl6NUhfVWc4Rnd3VmFIelFTSHBTellnY0ZLcmJVSnlxSG5CM1ZaV0s2SlJLUXhEOGZOdVZlSXRxTHZ0cy1qbXEweGR4N0pfZWhaOFprOHVNT0k5bWhQanRBWFVUZE",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPel96SjU3SXRhUUl6NUhfVWc4Rnd3VmFIelFTSHBTellnY0ZLcmJVSnlxSG5CM1ZaV0s2SlJLUXhEOGZOdVZlSXRxTHZ0cy1qbXEweGR4N0pfZWhaOFprOHVNT0k5bWhQanRBWFVUZExVYWZRdFlvQ05FQWo5TWNWOTJ1LTVXS3Z2THJJaTJ2bUZ6Y0JZeklValJCaDIzdmwxR05FeFFpQ2ZnRkE3N3E2QlpiY3IzOEptZkxPVDdLWFI1Mk10N3J5MG9Qbk9TenM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-08-012",
+    "date": "2026-05-08",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung reportedly scales back Micro LED TV push as new TV chief takes over - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUVsUU1ob1M4bFJWYlBGMm9wOTljVUNwTzFUdlBIZGNndjVETzZyaXp0ZEFmbTRvbFRYLVZKQ09PWlhxaWNQQ0lZSWVIUWVySFVWcnlVUzBsQzZwZUd2QWctNk5abmRtVzdWbEZQV2",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUVsUU1ob1M4bFJWYlBGMm9wOTljVUNwTzFUdlBIZGNndjVETzZyaXp0ZEFmbTRvbFRYLVZKQ09PWlhxaWNQQ0lZSWVIUWVySFVWcnlVUzBsQzZwZUd2QWctNk5abmRtVzdWbEZQV2JCRFNSNV9PdGh2ekh3NFlIYXQ3Qm10TGZxMzV1THR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-013",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "India approves first Mini/MicroLED fab; can Crystal Matrix deliver on its big semiconductor promise? - Business Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTTdsa0Mxb204U0pKTHk5NW5DS1VZVmxOem9idS1GNnNBRDIycm1yNTh3R0hTd3RvT1lvd2FRd1liNjhtLVlfTy1oWUp0ZVRJOXBBNGI0aHVtQ2N6SVFrTGZmTTdCNmNYVk1UMkgwYV",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTTdsa0Mxb204U0pKTHk5NW5DS1VZVmxOem9idS1GNnNBRDIycm1yNTh3R0hTd3RvT1lvd2FRd1liNjhtLVlfTy1oWUp0ZVRJOXBBNGI0aHVtQ2N6SVFrTGZmTTdCNmNYVk1UMkgwYVNFSy1oaUN1N2JPRkFjNk5JZHlEUTUzU1h6ckhTY1lQX2pDNllaQUR5SlN2NFdEZ21Ob2dCNGxxc21fLTJrdk9fenoyVmZTbTJWMk9XTGU2Z1BfZEpVOXF4YldwZTlGbkhveTFiUmpBcVA3SUxYUGRocTg3VWNjeGY3d3pCWnBWaTlUQ03SAfgBQVVfeXFMT3dZelQ4eFVoLWt4Ykh0UzZhcDFodWJBNnMyUUR5dnhJRlVDU1U4SUJwQy1jLU9Cc3A2Y1FhNFdRQXVUTDdZeXAtWlBWbllOX0tzb2s2VDNZMnNmbnFkY09YVl9MdGxkUDI2ajZwdWdDaGZTTTV2bWxhSDVONjNZSndmd2JKNHdSd1FjNkdGQ0VydVRYYzJyMlF4enc2WmdMcEQxR3JkbXllRkctMER5RWotOUdQYVBWNWtsUGNSSmJaWGcwaTVnOGQ1TWZTZGR5VU5VZmpFZGo1VU96Zk43YTE5czhHaDgwUzl4blRCSTVRNjJsTWVobno?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-08-014",
+    "date": "2026-05-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Chip Industry Week In Review",
+    "summary": "<p>M&#038;A activity; GF's CPO solution; Apple looks beyond TSMC; EU chip companies map; strong earnings; MIT's new lidar chip; gallium production; AI inferencing at sea; quantum HW funding; PCIe 7 to",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-week-in-review-137/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-05-07-001",
     "date": "2026-05-07",
     "companies": [
@@ -332,6 +604,405 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNmhKWDA3VGY1amRDcTJNaTJucjhxcnEtdm5lMXhDd1RtWnRtMWVpTFIxZzE4Tm9HY0o0aFo2dFZoRG95WmFKRVBiR0w4bUxWY3c2d1MxRlhDMkpaTGYyVW9DNDh0REJQd1lHZHA0cWVENWxyaUVBVHNId1g5cTJsZFhIMUdtXzNILU5YNnpwT1QtY3RtWktJRjYzcy1xdkRTcFQwZzRnRGtqdGNOMHlRcWpXQ2ladVJRbnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-07-019",
+    "date": "2026-05-07",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "NVIDIA And Corning: Long-Term Partnership Expands U.S. AI Infrastructure Manufacturing - Pulse 2.0",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNY21ERlpVd1BwWC05NU9fQmx6Mjl3TnZCS2hmQ0JOa2xydTJMalVQMlhVWHJFd2VFdTVXTEpILVowaFgwWEUtM1pXM1U1eS14SzJYcE5sUGFRV3BpOEtPdy1GNVB4NkxXSEh1a3NhQU",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY21ERlpVd1BwWC05NU9fQmx6Mjl3TnZCS2hmQ0JOa2xydTJMalVQMlhVWHJFd2VFdTVXTEpILVowaFgwWEUtM1pXM1U1eS14SzJYcE5sUGFRV3BpOEtPdy1GNVB4NkxXSEh1a3NhQUdNdG16bkhoOUN0cmVwLXJEb0s1SG9OeGtSMDF4ZzBKcW5ZTjRubEtURlZqTTZHRF8xaUtjTzlkQdIBrAFBVV95cUxPZmt1Q2FQRmxoNzBpbWdycFg2YnZ6M3Y4OTkzcjEtTTEzb3lBMm1mMW9zMVp2UXpPSTJ2WlFZM0NEZmRIbkZsS2hVUE15R0dHd01IQjJvdjIwcS02eW9sRnVQTERta1g4a0pEeWFnUXh5RUFkQUlfc1ZQSzB0QmNHcmhxWk5qbEktNzNvLVVKT3J5d255RXAzWUJNb3VDV1ZMbDZsMjdRM0VIZGhp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-07-020",
+    "date": "2026-05-07",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "CFO at Corning (NYSE: GLW) sells 22,562 shares in market trade - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjVBa1JUUTRFa1BfZHRhSUdpRW1kT3FoX01ZSVc5el9sSy1hcXNKdHotc2tENGUtRHoxTEtMNVlkbkc5a1lJX2tqUFh4c1VEUXppVHZGMURkbUlVb3JhYmlJQjhfZEI1WVJUZi1XWm",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjVBa1JUUTRFa1BfZHRhSUdpRW1kT3FoX01ZSVc5el9sSy1hcXNKdHotc2tENGUtRHoxTEtMNVlkbkc5a1lJX2tqUFh4c1VEUXppVHZGMURkbUlVb3JhYmlJQjhfZEI1WVJUZi1XWmhVeC1uQlh0Mk1CWFI3SF9NbjhCd050VWsyOXoxSDg3VnNvZV9aQ2xYV2s0c3htOWpvTjRCcXlreVd0bFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-07-021",
+    "date": "2026-05-07",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nvidia funds construction of Corning plants, in addition to equity investment - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLV9aWVREMUtjc0tCZEtqY0pycjR3LWRTQ3pPbC1PazBJbm9INXdiRFpBTzVoVXZBRkV4ZExzZU13QXZ2WmdBQ3dlUWI0bkZSN3lRbUpMa0Z2RW1oWWNHTWhNV295MURVUFdOZlRhRj",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLV9aWVREMUtjc0tCZEtqY0pycjR3LWRTQ3pPbC1PazBJbm9INXdiRFpBTzVoVXZBRkV4ZExzZU13QXZ2WmdBQ3dlUWI0bkZSN3lRbUpMa0Z2RW1oWWNHTWhNV295MURVUFdOZlRhRjI5QUVGTEl1YW9sWVY2NElWT0xvTVhJa3JUVGFrU1VNVGZHVndNUzZNc3hSbkV5YUN6NzBFaVZBXy0xU3NjMFhJbXVrSTFraVFFcUJqZ1pFam9INDRZSFBydQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-07-022",
+    "date": "2026-05-07",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Corning and NVIDIA announce partnership to expand U.S. AI infrastructure manufacturing - WENY News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWkxadUp0Tm1velk2dmFiVl9ZZ0NrS2tFSEdVcGxraGxGajdDeW9qYmVIVW83VnkxVkYybmhkdUxsYVZCR2Z4QVBRMzR3QlVNc2pSQWN3d2RUdlV1RjlKTnZEd0ZIZWFqdDQtOVZtQ3",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWkxadUp0Tm1velk2dmFiVl9ZZ0NrS2tFSEdVcGxraGxGajdDeW9qYmVIVW83VnkxVkYybmhkdUxsYVZCR2Z4QVBRMzR3QlVNc2pSQWN3d2RUdlV1RjlKTnZEd0ZIZWFqdDQtOVZtQ3h3N3N6SWN3TExuVnBQZ0p3WVd1ZU9yaDJWRGNzcjMzeEZEb2FaUEYwUThNc1Z6aHpPOUJ4NkloLU5FMGc1VHZLdEF4WmlPOFI3OFpBZ2phRWlBYkF3ZjFYMXR1Vk9OTUEzMzRmYzQ2Q18waFpGMVVtbVUwRmphVVBsUkxjaFV1VXgwRHhMZmRfbGl3Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-05-07-023",
+    "date": "2026-05-07",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon U.S.A. Continues Support of Annual Japan Center Essay Competition at Stony Brook University - The Manila Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUkQxSGlpaHBtWC03RHlySjVhb1RYbDl4SHVBSkhKSERpWGVYd2txSlRlSUFaSFQ5bG5zcktoODh4R040SVdCRGNRUXQzMWh3RUZSQlRqdDJZSTBnYWNnb01EVEc0aGtlblBLdFozQm",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUkQxSGlpaHBtWC03RHlySjVhb1RYbDl4SHVBSkhKSERpWGVYd2txSlRlSUFaSFQ5bG5zcktoODh4R040SVdCRGNRUXQzMWh3RUZSQlRqdDJZSTBnYWNnb01EVEc0aGtlblBLdFozQm5tbUJXOGlWSmhJTDlYdmVPV1ZWZUllUmI5THZkNmlBTzd2Sm4zMHg1VkxVaV9QeVpBNjVyaXlrekpzaFNaZjRpblRGc2V1QThZQTFEUlpNOFlVbFJZSVc4ckpGNXFNUEMtQmpaNHc5Ni05WlRVbXJ2Yy0wSWZUNjBSR2g2TkxnY0k2Wjd1UTFzbWFlWDXSAYICQVVfeXFMT19GaVQ3MVRKVWE1UHRTYmNJUXBmbmM3dHAyOTV6Z3BDRFduWllZS3h2cGYtWnBNb05OMDNaZlRST1Q5WEIyeTNyejZiSEZDQWUtZWlLZ2pxSWVMeE55UGVjMjhSQkJlSWw4TXA4cEpmVHZFVUJjbl9YdjFXdEJUNEU1WkhQZXBkNUZ2QlMtNHk4YmxsZkh2eDZBS09icmRFS0xMT1YyRUZiM1BidWx4UDFLSVVjTy1FT1k2VlFUVW9nRWMxOFRPZ1ZKdG90a0NzVVpnbENtY0dKV3hzSDZpUzA3VVZncHNIWFJiRHhGNzRRUXB1TlVLOUQydTFRMnc0c2d3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-05-07-024",
+    "date": "2026-05-07",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Novatek predicts revenue rebound for this quarter - Taipei Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB3blR2ZDBUVktvS2lqeG9iWXdfVTdldzVTWVNMZWlqS05aUm9vYWQxaDI3MGE1QjNDTGJqNWJqRy0tal9aWDMxLThaTkwtdDFReGhnZ0FQZHlYa2JDcXRzdnlpOWs5TWd5b25XaDAzLU",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3blR2ZDBUVktvS2lqeG9iWXdfVTdldzVTWVNMZWlqS05aUm9vYWQxaDI3MGE1QjNDTGJqNWJqRy0tal9aWDMxLThaTkwtdDFReGhnZ0FQZHlYa2JDcXRzdnlpOWs5TWd5b25XaDAzLUNSU2ZUR3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-07-025",
+    "date": "2026-05-07",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "automotive_display",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Q2 Guidance Raise Puts Himax’s (HIMX) Automotive and AI Chip Momentum in Focus - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPOWR3OE5nc0V3WW1rSzd2Q0Rrb1hudmd6WEFNeXc3STQ2cjR2Y0stSnJ4Zm5DSnZRQktOVktVWEJpM0YyVjQtQ1o5U19nV2t2bnlQRkxMYm5LamRtcENCdnpiMXFXQm1fSkhmaWs4dU",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOWR3OE5nc0V3WW1rSzd2Q0Rrb1hudmd6WEFNeXc3STQ2cjR2Y0stSnJ4Zm5DSnZRQktOVktVWEJpM0YyVjQtQ1o5U19nV2t2bnlQRkxMYm5LamRtcENCdnpiMXFXQm1fSkhmaWs4dUtJWDlNd3psYUVMVW5aQzltV08xMy1TU040RlZyOExUUC1ONmZHMjNnUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-07-026",
+    "date": "2026-05-07",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "After a Q1 trough, Himax sees Q2 sales rising 10%-13% - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNc1JQbk9pOTNpbEU2bl9GemQ5S1ZfMHZuOW1HVFk4Rl9LUTdlbllZTFhuNW1fQWIxLTVwUHBTT3FrSlJkblR2a1VTRmdTZ0Z2RUw5dEc1Q1Mtb3hZNDRNNWh5YnpqRHUyRG9KVktJV0",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc1JQbk9pOTNpbEU2bl9GemQ5S1ZfMHZuOW1HVFk4Rl9LUTdlbllZTFhuNW1fQWIxLTVwUHBTT3FrSlJkblR2a1VTRmdTZ0Z2RUw5dEc1Q1Mtb3hZNDRNNWh5YnpqRHUyRG9KVktJV0FhNEgzWldNdFNJN3pTcjhCNm1YUERlR3dfR3hVYUJ1ckZWdjFjRVczeTR1Ni1DZDdISE1pUWFockJfU3pDZDJGRWdUYWVldXJEdFNpano2RQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-07-027",
+    "date": "2026-05-07",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Himax Technologies Tops Q1 2026 Guidance and Lifts Outlook on Automotive and AI Growth - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVhJYXhTY3BXSjZIOTBqZGZBQkhEYkYzSFdLVkk1MDNvd3ZwY19EbkxQZ2c1RFhyQkJyY3NJZ243VVFxai04UVJuVWE0UFU1WUdZMlJOeGtBbDZXUzRCb09rWU9VdV9Oa2ptZWVKOD",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVhJYXhTY3BXSjZIOTBqZGZBQkhEYkYzSFdLVkk1MDNvd3ZwY19EbkxQZ2c1RFhyQkJyY3NJZ243VVFxai04UVJuVWE0UFU1WUdZMlJOeGtBbDZXUzRCb09rWU9VdV9Oa2ptZWVKODFPamtjengzbU1LOXFqeU9MdHRSRURSQVIyXzhMSXI5RTlqSDhrRGl0cVJ5SVNSZ3laWU1KOTFCLUhxZms1NWhsanlxUy1TZFVlYzdMaHVpeFZ6RnBvRU1JQ0NmVHY3MGRLbGZ5cQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-07-028",
+    "date": "2026-05-07",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies surges as Q1 results beat guidance, Q2 outlook jumps, and a large dividend is declared - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbUlEWlYzcUphOE13dUF0WHBqWFo5ZTdhalNJNjd4aXljTXZTdnVBaTRnZFdvSW16WGdrb09XWHI1el95U01mMXFhY0swbFR0SV9FYXlpTzZERW5EWk5QeV83QkR1VmYybk1FdWw2ZE",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbUlEWlYzcUphOE13dUF0WHBqWFo5ZTdhalNJNjd4aXljTXZTdnVBaTRnZFdvSW16WGdrb09XWHI1el95U01mMXFhY0swbFR0SV9FYXlpTzZERW5EWk5QeV83QkR1VmYybk1FdWw2ZEJlX2tSazV1dElzWlB1aXUxc2NkM2dBdnRxQ1JhRVZnNTlCR1hzTmRPMjZpLUNIZnAyRy1LY29sSDNIY3owbGkxYlJjaEQ1OXZxc1VTaFlKbW0zbWdCWWgxX2ZISGx0cFBsMHIwOG05emFndw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-07-029",
+    "date": "2026-05-07",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "HIMAX TECHNOLOGIES ($HIMX) Releases Q1 2026 Earnings - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPazNSUzdmZXlZSE1rZXFvZkxPTFRMUmdhWVdEUi1pUG0tX3N2MGV5NlVxakQ4NjVZSVp3VUgxT3hZa1BFOWNwMFE4WVphczVpaTlWQjVBYlVGclg4VGpWZW5wR2hFdG91cC1JX1JDS2",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPazNSUzdmZXlZSE1rZXFvZkxPTFRMUmdhWVdEUi1pUG0tX3N2MGV5NlVxakQ4NjVZSVp3VUgxT3hZa1BFOWNwMFE4WVphczVpaTlWQjVBYlVGclg4VGpWZW5wR2hFdG91cC1JX1JDS21xdTF3NjYwTFJsd0FPSWJ4eXRxNEJWczIzeXc3WG5YTnd5bVZ5bVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-05-07-030",
+    "date": "2026-05-07",
+    "companies": [
+      "sony",
+      "auo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AUO Instead of Hon Hai to be Sony’s Contract Supplier for LCD TVs - LEDinside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBqNV8xMy1CeHhtMDVmQzBlZ1ZyWGVEcjZSQmotRmhSNzJyVUJFb2s4TkxvZmRzeUwyQm8tSVFEcFVJd2tOcTViQ0Q5SGozVVc0MDlYSUdWZFdTUE9hUnFpQk0xM0dXcm1ja3RBQVA0ak",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqNV8xMy1CeHhtMDVmQzBlZ1ZyWGVEcjZSQmotRmhSNzJyVUJFb2s4TkxvZmRzeUwyQm8tSVFEcFVJd2tOcTViQ0Q5SGozVVc0MDlYSUdWZFdTUE9hUnFpQk0xM0dXcm1ja3RBQVA0ak9pU1h4WFJF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-05-07-031",
+    "date": "2026-05-07",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "This giant LG OLED gaming monitor is over 50% off - PCWorld",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmRGWTNOWnhTQ3F3RkZpZC0yblhHVENzcHcwTzZWVjVUempPR0UycFlmV3JiZDg0cUJYU0loQ0YwSV9tZzJfSnQ0WWQ5dFhVTUQwLUF5TVBWRU11RnFnMGNvUkpoeDFlYWItM2djY2",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmRGWTNOWnhTQ3F3RkZpZC0yblhHVENzcHcwTzZWVjVUempPR0UycFlmV3JiZDg0cUJYU0loQ0YwSV9tZzJfSnQ0WWQ5dFhVTUQwLUF5TVBWRU11RnFnMGNvUkpoeDFlYWItM2djY28za1A0U1VFeXpSdTFiWEhiLWxMRnoyekFtOTZMNHd4b2J4ZkVuTTBDZlRpWkowYVB2WkhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-07-032",
+    "date": "2026-05-07",
+    "companies": [
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung LG OLED Rivalry at SID Display Week 2026: Capability vs Endurance - Gadget Hacks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNajE4djl5QTYxSm0xSncxOHFITXVaN3N5aklBbEpqX2hNYTFhVW5HNzBvZlNLc3hEWTJLazNhZlpUMEZONWdBWi0tNVVvUzlYWlNXeGh5Rk9hMkxHcE45R1R2QVFMdGstQ09vX3JfZn",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNajE4djl5QTYxSm0xSncxOHFITXVaN3N5aklBbEpqX2hNYTFhVW5HNzBvZlNLc3hEWTJLazNhZlpUMEZONWdBWi0tNVVvUzlYWlNXeGh5Rk9hMkxHcE45R1R2QVFMdGstQ09vX3JfZnliQkk0dTJXMzlpWmk3MjdacTh1VGNVNVBoM19nQXJ3WFlSaWdPOGRZUkxhS0dFUFJoaXlDbDU3blZZSnhHRzhJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-033",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Humanoid robot gets curved OLED display head with new tech to increase efficiency - Interesting Engineering",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2VOMHRlamxDLUY4VnB2TC1DNzdMU2p0OXpLVFJRYUctU3hzRkdodFFxbGwzN1NDSkpHcldRRG16N09zTDA2akxvVTZVcXptT3hGMlhLcjRoc1RPaXhCb1hiUmpLOFRGT0ZZQ2ZGQT",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2VOMHRlamxDLUY4VnB2TC1DNzdMU2p0OXpLVFJRYUctU3hzRkdodFFxbGwzN1NDSkpHcldRRG16N09zTDA2akxvVTZVcXptT3hGMlhLcjRoc1RPaXhCb1hiUmpLOFRGT0ZZQ2ZGQTRMdlRBeUNQNWwyYWZkd3dsZ09FVmNEUlhZdGNv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-05-07-034",
+    "date": "2026-05-07",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "BOE Technology Group Co., Ltd. (000725.SZ): The company's flexible AMOLED production line has not yet completed full depreciation. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNS3o3b2hOVHViOWVMaDdLWEs2bGNTd0Y0U3NVUWFmRTNTalc4MlY3dHFsYUhkX3FVSmZrU185ZUZmeVdVQWJUSy1zaENGalBWa3p4SURQNlZ4d3ozOGJYLThyM1pNNmI0c2tEUV92aH",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS3o3b2hOVHViOWVMaDdLWEs2bGNTd0Y0U3NVUWFmRTNTalc4MlY3dHFsYUhkX3FVSmZrU185ZUZmeVdVQWJUSy1zaENGalBWa3p4SURQNlZ4d3ozOGJYLThyM1pNNmI0c2tEUV92aHNUNnZyQm02cVVWenBiN1NNa0t6cEFLSU9ZQkU0T0Q4NGM2S2NCSDNz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-05-07-035",
+    "date": "2026-05-07",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Group Co., Ltd. (000725.SZ): Cumulatively repurchased 478 million A-shares. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT3U2emh6RUlQVm9uOFRvYlVuSS1kZzJiZmlkVGkza0RJR19XTDVwRGlYVTlQZUNBekdXd0JuZzFNYVdBMXBlcmNoX21ac0VlN1JYM3JxM1NreHVGZHRFWERxb0pVRk9vTmJ6cEM2Nl",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT3U2emh6RUlQVm9uOFRvYlVuSS1kZzJiZmlkVGkza0RJR19XTDVwRGlYVTlQZUNBekdXd0JuZzFNYVdBMXBlcmNoX21ac0VlN1JYM3JxM1NreHVGZHRFWERxb0pVRk9vTmJ6cEM2NlJfcHlTaDIyVktQVFpZd0ZJTXVSM2YyQTRXUTRyZWRaSXFVQ3RsZzRRbTA1ZHhvZTRyWllfeDZ2MDBRUWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "csot-2026-05-07-036",
+    "date": "2026-05-07",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL CSOT Unveils ‘APEX Pixel’ innovations at SID Display Week 2026 - GadgetMatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNzV0RnE4OXhGQTZlanNGT1duYmhTa0VJRElKRXlBTTQ3SEljSFd0d3pWNDMxV0FUZm5YRTdHTjIwVl94aVlYXzBNcXFQdkZ4bmNhQV9xRmVRN2I2VkhadjdlOFc1R3FLcGdRVDhaa3",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNzV0RnE4OXhGQTZlanNGT1duYmhTa0VJRElKRXlBTTQ3SEljSFd0d3pWNDMxV0FUZm5YRTdHTjIwVl94aVlYXzBNcXFQdkZ4bmNhQV9xRmVRN2I2VkhadjdlOFc1R3FLcGdRVDhaa3RnbVBkRDZmQUxaVTR0bU9IWTM5M3gyRFhtTktBZXNXUjJ1MUtxYTRlRA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-037",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Omdia: Inkjet printing carries many important advantages for OLED production, will be 30-35% cheaper than FMM for laptop panel production",
+    "summary": "<p>Omdia estimates that producing a laptop OLED panel using <a href=\"https://www.oled-info.com/will-oled-inkjet-printing-finally-take-2025-premium-article\">inkjet printing</a> is about 30-35% lower in",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/omdia-inkjet-printing-carries-many-important-advantages-oled-production-will-be",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-038",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "5K UltraGear monitor pushes Mini LED gaming to the next level - New Atlas",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9RazQ2bXdPQUY3eXpVWS1vVm9taDlGRm1wN09NbGp2TWxuMmstOEFJTEg0T2VhSlBtS0JvX0dFV0lUT2dndTJ2UDJzWll4bGVualpsQk1TODJvUzBJN1M4b0wtQTA1aldVLXgwUjRRRE",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RazQ2bXdPQUY3eXpVWS1vVm9taDlGRm1wN09NbGp2TWxuMmstOEFJTEg0T2VhSlBtS0JvX0dFV0lUT2dndTJ2UDJzWll4bGVualpsQk1TODJvUzBJN1M4b0wtQTA1aldVLXgwUjRRREZWdi1UN2U2SlFuaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-039",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Automotive and AI Lift Infineon Q2, Point to FY2026 Revenue Above $18B",
+    "summary": "\n\t\t\t\t\t\t<p> Infineon Q2 earnings rise 4% as the chipmaker reorganizes to target SDVs and power systems.</p>\n<p>The post <a href=\"https://www.eetimes.com/automotive-and-ai-lift-infineon-q2-point-to-fy20",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/automotive-and-ai-lift-infineon-q2-point-to-fy2026-revenue-above-18b/",
         "type": "rss"
       }
     ]
@@ -1719,6 +2390,28 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSldJOWtkazdQRGVwNmJrWk10OExqdTFUQmIxRTdkUzRUYXowMVlPWHVpUnVJNFQ1Z09aTUQ5a3R2Zm9SQ0pTcGJyZDZadE5mc3ZBNWpaOF9WNHdpOHA5ZlM3clRfcjV0MG5BeEtFMUFXemhySDdyWFJIM3daZE40eVRidktwd1lWQzJpWjNvYzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-05-031",
+    "date": "2026-05-05",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration",
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "LG Display presents future of displays with next-generation OLED technologies at SID Display Week 2026 - Nasdaq",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOWEszTkxoQ2F2N200RmpUNXNMWVRfWTdKN3hXU0ZldDhUdXlQVmhFTGp6R3k1U1ZMLTdWRTIwX2FtZGNRVzdZQXJybEdmMGVJeXBYb1lOQ2lOMDMzNmgtNzd5QU41cmU3OWVWclZBcD",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWEszTkxoQ2F2N200RmpUNXNMWVRfWTdKN3hXU0ZldDhUdXlQVmhFTGp6R3k1U1ZMLTdWRTIwX2FtZGNRVzdZQXJybEdmMGVJeXBYb1lOQ2lOMDMzNmgtNzd5QU41cmU3OWVWclZBcDhoUXVCTzZEQ2dZVXk0VlkzOTB0SDdic1pHTndDbmlsNWxybXI2TjdBSHBMX1Y2WXhPN0FsUmpDYW00anMxUEE1ODB3MUZlUjV2UXc?oc=5",
         "type": "rss"
       }
     ]
