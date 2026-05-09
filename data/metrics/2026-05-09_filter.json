@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 24,
+  "gate2_fail": 28,
+  "passed": 17,
+  "gate2_samples": [
+    "Corning Incorporated to ring the NYSE Closing Bell® on Thursday - WETM",
+    "Corning (NYSE: GLW) vice chair Steverson sells 27,750 shares - Stock Titan",
+    "NVIDIA and Corning expand U.S. optical manufacturing - Engineering.com",
+    "Corning Incorporated Stock 12‑Month Price Target Raised to $202.31, Implies 11% Upside - TradingView",
+    "Corning Jumps 7.2% After UBS Maintains Buy - AlphaStreet"
+  ]
+}
