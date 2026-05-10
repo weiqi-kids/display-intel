@@ -1,0 +1,94 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T09:29:31.006467Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "boe-2026-05-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BOE shifts OLED marketing from columns of figures to visual comfort|i… - igor´sLAB",
+      "companies": [
+        "boe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPaElVM1lpZDh4eFRrU1JydE1oZ0d1N3REcDVCcF9tQVpTT0ZLald1Tkd1em1uWVEtcmh6SzU0cDQzMGpnTXVaMDBla21vMEtDYWZtV3FKNU9KaURkOWRZYjgyb2lGUkk1dS1KOUNFZTZYTGZwZW5qQnROQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 359,
+    "dup_title": 152,
+    "too_old": 150,
+    "gate1_blocked": 22,
+    "gate2_blocked": 28,
+    "passed": 7,
+    "pass_rate": "3.4%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "Corning Incorporated (GLW) Discusses Upgrade and Extension of Springboard Plan, New Growth Phase, an",
+      "Corning Incorporated to ring the NYSE Closing Bell® on Thursday - WETM",
+      "Jim Cramer on Corning: “The Company’s More Relevant Than Ever” - Yahoo Finance",
+      "NVIDIA and Corning expand U.S. optical manufacturing - Engineering.com",
+      "Corning Incorporated Stock 12‑Month Price Target Raised to $202.31, Implies 11% Upside - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為BOE Technology相關動態：「BOE shifts OLED marketing from columns of figures to visu...」。主要關注主題為OLED 滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "BOE shifts OLED marketing from columns of figures to visual comfort|i… - igor...（OLED 滲透率）",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

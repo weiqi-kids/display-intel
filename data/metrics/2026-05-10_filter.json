@@ -1,0 +1,16 @@
+{
+  "total_raw": 359,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 22,
+  "gate2_fail": 28,
+  "passed": 7,
+  "gate2_samples": [
+    "Corning Incorporated (GLW) Discusses Upgrade and Extension of Springboard Plan, New Growth Phase, an",
+    "Corning Incorporated to ring the NYSE Closing Bell® on Thursday - WETM",
+    "Jim Cramer on Corning: “The Company’s More Relevant Than Ever” - Yahoo Finance",
+    "NVIDIA and Corning expand U.S. optical manufacturing - Engineering.com",
+    "Corning Incorporated Stock 12‑Month Price Target Raised to $202.31, Implies 11% Upside - TradingView"
+  ]
+}
