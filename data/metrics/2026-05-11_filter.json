@@ -1,0 +1,16 @@
+{
+  "total_raw": 379,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 30,
+  "gate2_fail": 32,
+  "passed": 16,
+  "gate2_samples": [
+    "Corning Incorporated to ring the NYSE Closing Bell® on Thursday - WETM",
+    "Corning Incorporated (GLW) Discusses Upgrade and Extension of Springboard Plan, New Growth Phase, an",
+    "GLW - Corning Inc Stock Price and Quote - Finviz",
+    "NVIDIA and Corning expand U.S. optical manufacturing - Engineering.com",
+    "Corning Incorporated Stock 12‑Month Price Target Raised to $202.31, Implies 11% Upside - TradingView"
+  ]
+}
