@@ -1,0 +1,246 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T10:32:21.265008Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-05-12-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "SID Display Week: LG Display Unveils Third-Generation OLED - Sixteen:Nine",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQXhmNU9vUnI4cHRWNGJRUXdlbnd3cl9PTE8za1h2bkZwQktiREo3YmpXX0VTZkV1RTFfQ0FOb25NZ0l4VDBfZDk1UjNDRDlxbHVPUXM0VndyWUFBZXFFSUVMVWlQY2d3U1JDWFR0cWtReGo4Ny1BOFE3ZnM3NU1MSVdxN3BXWklNcXlCT25uM1pDVWpCQlE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-05-12-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "[News] LG Display Presents Future of Displays with Next-Generation OLED Technologies at SID Display Week 2026 - LEDinside",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpcVFTM1ZnWG5EQzMxdFE5dk13ZUpDQmdCaEJuRldGQzdsUmxZRlhqWlFBOTRacHgyYUxnVElSTWZETHlFREtMNUhUckZTT0JmYWpTREZYUVBrTW1ITkwzTg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-12-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Aurotek posts record first-quarter revenue and profit as robot demand surges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260512PD236/profit-robot-revenue-demand-2026.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-12-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Taiwan AI testing boom lifts KYEC, MPI, and WinWay to record 2026 revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260512VL209/taiwan-monthly-tracker-king-yuan-mpi-winway-testing-revenue-2026.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "himax-2026-05-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Himax Technologies (HIMX) Hits All-Time High on Upbeat Outlook - Yahoo Finance",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa1ozRHA4Z2F6V3BhWU5FRC1HRi0wUDNaYXNrMXphdHNQSW9qVG9Eak9aZGFTT09PYlhPRWN5eGVxcG1XMVpTV0o1N254eVp6LWRxdUpydl9YRjAxZ3JPZW81MmVBa3YtcGxVNVFkUVk5T3FlYnRmRURVdXpwdzRWTng2bGZELVhISVZmUjJ4Ql9hUmZDS3IweFpjR2pFckk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.24,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 11,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "boe",
+        "count": 3
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "lg_display",
+        "count": 2
+      },
+      {
+        "id": "canon",
+        "count": 1
+      },
+      {
+        "id": "himax",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "oled_penetration",
+        "count": 7
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 143,
+    "too_old": 147,
+    "gate1_blocked": 34,
+    "gate2_blocked": 30,
+    "passed": 26,
+    "pass_rate": "11.0%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "Corning Incorporated to ring the NYSE Closing Bell® on Thursday - WETM",
+      "Corning Incorporated (GLW) Discusses Upgrade and Extension of Springboard Plan, New Growth Phase, an",
+      "NVIDIA and Corning expand U.S. optical manufacturing - Engineering.com",
+      "Corning Jumps 6.7% After Barclays Maintains Equal-Weight - AlphaStreet",
+      "Corning Incorporated Stock 12‑Month Price Target Raised to $202.31, Implies 11% Upside - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為BOE Technology、LG電子、LGD相關動態：「SID Display Week: LG Display Unveils Third-Generation OLE...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SID Display Week: LG Display Unveils Third-Generation OLED - Sixteen:Nine（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "[News] LG Display Presents Future of Displays with Next-Generation OLED Techn...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

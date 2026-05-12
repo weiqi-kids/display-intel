@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 34,
+  "gate2_fail": 30,
+  "passed": 26,
+  "gate2_samples": [
+    "Corning Incorporated to ring the NYSE Closing Bell® on Thursday - WETM",
+    "Corning Incorporated (GLW) Discusses Upgrade and Extension of Springboard Plan, New Growth Phase, an",
+    "NVIDIA and Corning expand U.S. optical manufacturing - Engineering.com",
+    "Corning Jumps 6.7% After Barclays Maintains Equal-Weight - AlphaStreet",
+    "Corning Incorporated Stock 12‑Month Price Target Raised to $202.31, Implies 11% Upside - TradingView"
+  ]
+}
