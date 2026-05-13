@@ -1,0 +1,16 @@
+{
+  "total_raw": 379,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 31,
+  "gate2_fail": 34,
+  "passed": 29,
+  "gate2_samples": [
+    "Corning Incorporated to ring the NYSE Closing Bell® on Thursday - WETM",
+    "Corning Incorporated (GLW) Discusses Upgrade and Extension of Springboard Plan, New Growth Phase, an",
+    "Corning Surges 137.4% Year to Date: How to Play the Stock - The Globe and Mail",
+    "Corning Insider Sold Shares Worth $674,870, According to a Recent SEC Filing - marketscreener.com",
+    "NVIDIA and Corning expand U.S. optical manufacturing - Engineering.com"
+  ]
+}

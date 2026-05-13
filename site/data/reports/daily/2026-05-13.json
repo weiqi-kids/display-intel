@@ -1,0 +1,221 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T10:26:30.517908Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "himax-2026-05-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Look At Himax Technologies (HIMX) Valuation After upbeat Guidance New Projects And Dividend Announcement - simplywall.st",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNREh6UVFDSlRXSG9wWGk1TDhJVUktWTg5dG5Ka2lDVlllelRaY09MNzlaVmIxU1U4WTdnR1p2WlJtNnVIY0swMS0yVXFHV3QtWmNRcG1FVFhFWWh4ODRYbF9lY2hSa2hLM3JYUXZtb0t5aEt2Q0RXVDU3aTRpUDRzbnFkblJ1S1ltcGhsZ3RWRHdYSkUtUFJjOHFQbkY5WHpWQWFYRmpwYnRnbHV5dTk2bnFtbU5MQllPWmxxd3NfLS1Sdi1aNFhBMG94dm5ZWnNPd0kycmd6d1ZaSmfSAeABQVVfeXFMT0hkMXZvekxSd01yUVhqdEZISGxBckNUenE5V2tvQjJ6MWRaTWVDOVFFd1VqZUxfSmhWckk4N2pvc0RIRUZQaHd6MEhQTGcwbHc0V0xBZWI3N3prWkZIS0F5cGM1TDM3VzFaMGctSVUxMm5QQm56MHdxTmJxX1R2RHJibEhSVXc0U3ZTdFZ1eFdySDdNNE8wbV9PWng1QkUxcS11TVBzczY2OXRvcm9JTzB1dVVEMkFsQlQtYnhSaUR1anFpVmdkSlNuZW5tcDZnN2ozdjRUc3BxdDl5c2ZaWDY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-13-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "From Perovskites to 8.6‑Gen: OLED‑Info Pro’s Ten Must‑Read New Reports",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/perovskites-86-gen-oled-info-pro-s-ten-must-read-new-reports"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-13-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PixArt targets 2Q26 growth as gaming mouse and console demand offset weak PC sales",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260513PD238/ic-design-pixart-pc-gaming-mouse.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-13-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Dixon Technologies sees margin pressure as stagnation offsets full-year growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": -0.17
+      },
+      "source_url": "https://www.digitimes.com/news/a20260513VL204/dixon-2026-growth-revenue-ems.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-13-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI demand lifts Zhen Ding as server and chip substrate sales surge",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://www.digitimes.com/news/a20260513PD242/zhen-ding-demand-revenue-sales-communications.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_elec",
+      "to": "samsung_elec",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 11,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 5
+      },
+      {
+        "id": "himax",
+        "count": 2
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "oled_penetration",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 379,
+    "dup_title": 145,
+    "too_old": 140,
+    "gate1_blocked": 31,
+    "gate2_blocked": 34,
+    "passed": 29,
+    "pass_rate": "12.4%",
+    "gate2_block_rate": "14.5%",
+    "gate2_samples": [
+      "Corning Incorporated to ring the NYSE Closing Bell® on Thursday - WETM",
+      "Corning Incorporated (GLW) Discusses Upgrade and Extension of Springboard Plan, New Growth Phase, an",
+      "Corning Surges 137.4% Year to Date: How to Play the Stock - The Globe and Mail",
+      "Corning Insider Sold Shares Worth $674,870, According to a Recent SEC Filing - marketscreener.com",
+      "NVIDIA and Corning expand U.S. optical manufacturing - Engineering.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為三星電子、Himax Technologies、LG電子相關動態：「A Look At Himax Technologies (HIMX) Valuation After upbea...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "A Look At Himax Technologies (HIMX) Valuation After upbeat Guidance New Proje...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "From Perovskites to 8.6‑Gen: OLED‑Info Pro’s Ten Must‑Read New Reports（OLED 滲透率、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
