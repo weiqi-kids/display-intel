@@ -1,0 +1,16 @@
+{
+  "total_raw": 381,
+  "dup_title": 137,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 34,
+  "gate2_fail": 35,
+  "passed": 34,
+  "gate2_samples": [
+    "Corning vs. Nokia: Which Connectivity Stock is the Better Buy Now? - Yahoo Finance",
+    "Corning Incorporated to ring the NYSE Closing Bell® on Thursday - WETM",
+    "Corning Incorporated (GLW) Discusses Upgrade and Extension of Springboard Plan, New Growth Phase, an",
+    "Corning Inc Stock (GLW) Moved Up by 5.33% on May 13: Facts Behind the Movement - TradingKey",
+    "NVIDIA and Corning expand U.S. optical manufacturing - Engineering.com"
+  ]
+}

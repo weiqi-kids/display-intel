@@ -1,0 +1,261 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T10:15:39.545835Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jdi-2026-05-14-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Japan Display Narrows Losses but Keeps Outlook on Hold Amid Financial Strain - TipRanks",
+      "companies": [
+        "jdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaUJMNEgtZUlJOGhwSmdTbUh1ZXdDdWVpZGJiOVptTkNjeVFoamZ5TmtzUTJ5MWJkN25YNDZsXzUyeEpiVmk4ZTJNbWZXeGVsa3FoUjd4cWVHZmdtaHJmU082RS10MU5Zc2xnRm5WS3FnT2NaMzdqd3kzdEpNTG9od3RrbmIxdWZ4TlN6U0NZTmV2V2hlS245b1hyTlpMTm56R214QWY0eU5MRDNlNnNSUnBHZWh3NmxyZXZnaVlPblVVNFlTSEF3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tcl-2026-05-14-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Will Samsung utilize AMOLEDs produced by BOE for its Galaxy S27 phone basic model?",
+      "companies": [
+        "tcl",
+        "csot",
+        "samsung_elec",
+        "boe"
+      ],
+      "related": {
+        "customers": [
+          "tcl",
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "csot",
+          "boe"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/will-samsung-utilize-amoleds-produced-boe-its-galaxy-s27-phone-basic-model"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-14-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Memory supply crunch pushes Phison to historic earnings",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260514PD240/phison-earnings-demand-inventory-nand-flash.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-14-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Appier posts record 1Q26 revenue and profit, lifts 2Q26 outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260514PD203/revenue-appier-profit-asia-guidance.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-14-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "QBit Semiconductor targets edge AI growth as copier chips turn oligopolistic",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260514PD233/asic-ic-design-chips-growth.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 15,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "jdi",
+        "count": 5
+      },
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "canon",
+        "count": 2
+      },
+      {
+        "id": "tcl",
+        "count": 2
+      },
+      {
+        "id": "boe",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "oled_penetration",
+        "count": 4
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 381,
+    "dup_title": 137,
+    "too_old": 141,
+    "gate1_blocked": 34,
+    "gate2_blocked": 35,
+    "passed": 34,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "Corning vs. Nokia: Which Connectivity Stock is the Better Buy Now? - Yahoo Finance",
+      "Corning Incorporated to ring the NYSE Closing Bell® on Thursday - WETM",
+      "Corning Incorporated (GLW) Discusses Upgrade and Extension of Springboard Plan, New Growth Phase, an",
+      "Corning Inc Stock (GLW) Moved Up by 5.33% on May 13: Facts Behind the Movement - TradingKey",
+      "NVIDIA and Corning expand U.S. optical manufacturing - Engineering.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為JDI、三星電子、佳能相關動態：「Japan Display Narrows Losses but Keeps Outlook on Hold Am...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Japan Display Narrows Losses but Keeps Outlook on Hold Amid Financial Strain ...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Will Samsung utilize AMOLEDs produced by BOE for its Galaxy S27 phone basic m...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
