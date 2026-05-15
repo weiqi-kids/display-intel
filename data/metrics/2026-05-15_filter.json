@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 28,
+  "gate2_fail": 34,
+  "passed": 13,
+  "gate2_samples": [
+    "Jim Cramer Shares Key Facts About Corning (GLW) - Insider Monkey",
+    "Corning Incorporated (GLW) Discusses Upgrade and Extension of Springboard Plan, New Growth Phase, an",
+    "Corning Jumps 6.7% After Barclays Maintains Equal-Weight - AlphaStreet",
+    "Corning Inc Stock (GLW) Moved Up by 5.33% on May 13: Facts Behind the Movement - TradingKey",
+    "NVIDIA and Corning expand U.S. optical manufacturing - Engineering.com"
+  ]
+}

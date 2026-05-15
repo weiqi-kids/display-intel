@@ -1,0 +1,173 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:23:34.911125Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tcl-2026-05-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TCL tightens grip on Guangzhou LCD hub, unleashes US$4 billion OLED expansion - digitimes",
+      "companies": [
+        "tcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbTRIYi05cV9lLUV1YnVNNnVDUk5BVFladkJZUjlmWFBDT0xkOVBOeUdqUnRPdXcwMi1wUjAxTjBEXzBKelNjYnJ1RFpGYkNaQVd3b3FCQ2ZOOGZDWUFwcnkwZXphNXhQUzRmWkl1WEN5R3JRMGVKUE52VkpUU3ZYWXV6bV9ZYTA3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "MicroLED industry and market updates (OLED-Info Pro Video Podcast E2, 2024-05)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration",
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/videos/microled-industry-and-market-updates-oled-info-pro-video-podcast-e2-2024"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why SQD-Mini LED represents a new phase in display technology - Gulf News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZDVaZVNrNkgtUlVoZ0hwY216cTBZUkptdGdGWVgyVmQwS292QzRJdlpfZ2FGWHdBUGFyWUhTS3o4TWNaWnFsczM5NlloYVdlQ3I1UzBuZGVZUl9LQ3Z2WDlOb2ViU0dvSjNyY0RKY0hqTGx4azBrREFQYTZrcVZjc0VnekFJNl9iVFRsbVdFNG5YWHM5SGN2Q28xNTJYaU5tZm9hbVlqaWh4NG9xdF9jSnlTV195MzZHY3VYVEVpR3E4NlhW0gHXAUFVX3lxTE9DR1J2VjJ0SldlVTVPVU9yZzBaTVhSbXB6eWdndS1GSUlwbndCaDFDNTlTY2k5aVNyQ29XQ2ZzTWhpUzFZUUsyVTJGamk3WlNYTTVPejF3V3NNTnEyb3lSWVFtWFNGS01Ma2hfVDkxNHYtRkRhTVJ0cjZOcDhHX3h2WWh3S21ScW13UkRQVnkyUjNOWTE5WnNLUVF4WktzR2laZV9pSTZ1LTF0aDYzNjlNa3Q4Yk9ndWh4cmppSS1zcDRtdU5QZXJQNk0xQUlUVHlhaGhId0dF?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SQD-Mini LED: Why immersive home entertainment is becoming the UAE’s next technology battleground - Khaleej Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUEFTMS12bmw2aVN1dFNETE9WUW85aEZwQ3lzMHlQZ0pSTGd3bE0wLVlxWVNBd3pmVGkzMDJCbGFEVGNsYTZHbkVjNVRwS21VcUhnc21NOXNwQWl0U09FcGI2czNyUlVrZnBPSFpZTnpfMzh0SUt6NUFGcFlJQW5Ia3lwb0pfRnhKSXJhUS1ZcU1tQVByOEVaVzE4dzlYemx4OElOZl9JZ21zU3c4R1dxRGFKb0dvMDR3VWxtNU9HamRXWThGWHZCN0FXemRualBORzkyY9IB3AFBVV95cUxONGNTTHFvZmFGM1FtaGhiZzZVUFFSdE1BNGRRbFY4dlNZWFBCYUFQejdhS1pKWTlDRm9LU3hzN1FaazVoQTZhcHFWQzFJR2daWkV0VkdPOWlhc2VKX2dBdXBhNVczNF9LRXpleHlERUhscWdvVnA0R0xEdWFEb2NPN0xNUi16RWRvN1VKdXdPUXlJZzdBX19sSzUyaWVtSUo4eElianU2OTRiWkdmVG9xVVlSYmloMkhKZnB6Mm9CUF8yQ1FERzdmbTlrZHlMT1N3bHZQLWJlTjZLOEVj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "mini_led",
+        "count": 3
+      },
+      {
+        "id": "oled_penetration",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 361,
+    "dup_title": 148,
+    "too_old": 138,
+    "gate1_blocked": 28,
+    "gate2_blocked": 34,
+    "passed": 13,
+    "pass_rate": "6.1%",
+    "gate2_block_rate": "16.0%",
+    "gate2_samples": [
+      "Jim Cramer Shares Key Facts About Corning (GLW) - Insider Monkey",
+      "Corning Incorporated (GLW) Discusses Upgrade and Extension of Springboard Plan, New Growth Phase, an",
+      "Corning Jumps 6.7% After Barclays Maintains Equal-Weight - AlphaStreet",
+      "Corning Inc Stock (GLW) Moved Up by 5.33% on May 13: Facts Behind the Movement - TradingKey",
+      "NVIDIA and Corning expand U.S. optical manufacturing - Engineering.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為TCL Technology相關動態：「TCL tightens grip on Guangzhou LCD hub, unleashes US$4 bi...」。主要關注主題為Mini LED、OLED 滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "TCL tightens grip on Guangzhou LCD hub, unleashes US$4 billion OLED expansion...（OLED 滲透率）",
+        "level": "green"
+      },
+      {
+        "text": "MicroLED industry and market updates (OLED-Info Pro Video Podcast E2, 2024-05)（OLED 滲透率、Mini LED）",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

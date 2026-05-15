@@ -1,5 +1,80 @@
 [
   {
+    "id": "tcl-2026-05-15-001",
+    "date": "2026-05-15",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "TCL tightens grip on Guangzhou LCD hub, unleashes US$4 billion OLED expansion - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbTRIYi05cV9lLUV1YnVNNnVDUk5BVFladkJZUjlmWFBDT0xkOVBOeUdqUnRPdXcwMi1wUjAxTjBEXzBKelNjYnJ1RFpGYkNaQVd3b3FCQ2ZOOGZDWUFwcnkwZXphNXhQUzRmWkl1WE",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbTRIYi05cV9lLUV1YnVNNnVDUk5BVFladkJZUjlmWFBDT0xkOVBOeUdqUnRPdXcwMi1wUjAxTjBEXzBKelNjYnJ1RFpGYkNaQVd3b3FCQ2ZOOGZDWUFwcnkwZXphNXhQUzRmWkl1WEN5R3JRMGVKUE52VkpUU3ZYWXV6bV9ZYTA3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-15-002",
+    "date": "2026-05-15",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "MicroLED industry and market updates (OLED-Info Pro Video Podcast E2, 2024-05)",
+    "summary": "<p>The second episode of the OLED-Info Pro Video Podcast, in which we discuss the updates from the microLED industry and market.</p><p>In this episode, we also look at the implications for the OLED in",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/videos/microled-industry-and-market-updates-oled-info-pro-video-podcast-e2-2024",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-15-003",
+    "date": "2026-05-15",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Why SQD-Mini LED represents a new phase in display technology - Gulf News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZDVaZVNrNkgtUlVoZ0hwY216cTBZUkptdGdGWVgyVmQwS292QzRJdlpfZ2FGWHdBUGFyWUhTS3o4TWNaWnFsczM5NlloYVdlQ3I1UzBuZGVZUl9LQ3Z2WDlOb2ViU0dvSjNyY0RKY0",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZDVaZVNrNkgtUlVoZ0hwY216cTBZUkptdGdGWVgyVmQwS292QzRJdlpfZ2FGWHdBUGFyWUhTS3o4TWNaWnFsczM5NlloYVdlQ3I1UzBuZGVZUl9LQ3Z2WDlOb2ViU0dvSjNyY0RKY0hqTGx4azBrREFQYTZrcVZjc0VnekFJNl9iVFRsbVdFNG5YWHM5SGN2Q28xNTJYaU5tZm9hbVlqaWh4NG9xdF9jSnlTV195MzZHY3VYVEVpR3E4NlhW0gHXAUFVX3lxTE9DR1J2VjJ0SldlVTVPVU9yZzBaTVhSbXB6eWdndS1GSUlwbndCaDFDNTlTY2k5aVNyQ29XQ2ZzTWhpUzFZUUsyVTJGamk3WlNYTTVPejF3V3NNTnEyb3lSWVFtWFNGS01Ma2hfVDkxNHYtRkRhTVJ0cjZOcDhHX3h2WWh3S21ScW13UkRQVnkyUjNOWTE5WnNLUVF4WktzR2laZV9pSTZ1LTF0aDYzNjlNa3Q4Yk9ndWh4cmppSS1zcDRtdU5QZXJQNk0xQUlUVHlhaGhId0dF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-15-004",
+    "date": "2026-05-15",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "SQD-Mini LED: Why immersive home entertainment is becoming the UAE’s next technology battleground - Khaleej Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUEFTMS12bmw2aVN1dFNETE9WUW85aEZwQ3lzMHlQZ0pSTGd3bE0wLVlxWVNBd3pmVGkzMDJCbGFEVGNsYTZHbkVjNVRwS21VcUhnc21NOXNwQWl0U09FcGI2czNyUlVrZnBPSFpZTn",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUEFTMS12bmw2aVN1dFNETE9WUW85aEZwQ3lzMHlQZ0pSTGd3bE0wLVlxWVNBd3pmVGkzMDJCbGFEVGNsYTZHbkVjNVRwS21VcUhnc21NOXNwQWl0U09FcGI2czNyUlVrZnBPSFpZTnpfMzh0SUt6NUFGcFlJQW5Ia3lwb0pfRnhKSXJhUS1ZcU1tQVByOEVaVzE4dzlYemx4OElOZl9JZ21zU3c4R1dxRGFKb0dvMDR3VWxtNU9HamRXWThGWHZCN0FXemRualBORzkyY9IB3AFBVV95cUxONGNTTHFvZmFGM1FtaGhiZzZVUFFSdE1BNGRRbFY4dlNZWFBCYUFQejdhS1pKWTlDRm9LU3hzN1FaazVoQTZhcHFWQzFJR2daWkV0VkdPOWlhc2VKX2dBdXBhNVczNF9LRXpleHlERUhscWdvVnA0R0xEdWFEb2NPN0xNUi16RWRvN1VKdXdPUXlJZzdBX19sSzUyaWVtSUo4eElianU2OTRiWkdmVG9xVVlSYmloMkhKZnB6Mm9CUF8yQ1FERzdmbTlrZHlMT1N3bHZQLWJlTjZLOEVj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-05-14-001",
     "date": "2026-05-14",
     "companies": [
@@ -404,6 +479,155 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2ZEOGwzal9WUUFzTjFxMEk2aGhYSmlLMFNuMjg5MjJhSGhyZk9nTnZlZ2JiQTlMVjNXeDRvdzNNRWtZZUVoNEgzOWYyYW9TQjF5UnRocFh4YllMcS1SRVBNcFlUbDFnWW1fUHUwVjlMUXpoam9JNFViSFhBRUpGRGkzOE5IUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-14-023",
+    "date": "2026-05-14",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning (NYSE: GLW) SVP Verkleeren sells 10,000 shares at $207.77 average - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0RmTmpGVThMTnMzcEJyM1RlSC03WEtEUUZhLV82bnNmeWFXa3pNT0VwZmptRlkyNHVJZFFtd2IxVHdOZW00OGdZdW5wdzRFSzNBaVVFSWI4SHM5YUwyZ1U0Q3VmUXJOMm1nQjVMRG",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0RmTmpGVThMTnMzcEJyM1RlSC03WEtEUUZhLV82bnNmeWFXa3pNT0VwZmptRlkyNHVJZFFtd2IxVHdOZW00OGdZdW5wdzRFSzNBaVVFSWI4SHM5YUwyZ1U0Q3VmUXJOMm1nQjVMRGRjMDVWTTEycEJ4R1hydEo1SE1HRFBxWmx5MHNhOTBiR2VRd1YzbUdWTjdSa3g1RTBwb3Nia1dTQ2VFd0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-14-024",
+    "date": "2026-05-14",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Jim Cramer Shares Key Facts About Corning (GLW) - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTZEdUJDVk1EVWwyLVV5UlpscUF3LW1IcTdVMHkwYl93NnlBSUpJREVBMGFhcFdVZFVaYjVJNVV3dHBjakhIUkx5aTlROWVkMS04d3hNNEtYREs0c3ljYnU2YVhKejI1X2x4Z1liMD",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTTZEdUJDVk1EVWwyLVV5UlpscUF3LW1IcTdVMHkwYl93NnlBSUpJREVBMGFhcFdVZFVaYjVJNVV3dHBjakhIUkx5aTlROWVkMS04d3hNNEtYREs0c3ljYnU2YVhKejI1X2x4Z1liMDc3cU10enl5LVlHX29JakZvLTZYN3dqVVdXQUYzS0pPSEpCcFJTaGV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-14-025",
+    "date": "2026-05-14",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Smartphone Cover Glass Market Expansion (2026-2033) | Corning - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQWERpb0Rjckx0cTU4TEZvUHlzVXZCQWhOZzJtSnpZZnBWblJlQWZLM2xsVWZYek1EUk9VVm12SjdLQnM5TlY4dFRlUUVoNE55ejNuazZnMHpnTGV5SmVHWUhuLVczTFlQTEZBNUM3bX",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWERpb0Rjckx0cTU4TEZvUHlzVXZCQWhOZzJtSnpZZnBWblJlQWZLM2xsVWZYek1EUk9VVm12SjdLQnM5TlY4dFRlUUVoNE55ejNuazZnMHpnTGV5SmVHWUhuLVczTFlQTEZBNUM3bXVOT19IVEVhcUJ3RUZyZ3BIZ0Y3OUdMVnVxN0dNZDUtM2F2U1UtbUQ0RQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-05-14-026",
+    "date": "2026-05-14",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Unveils Raman Analyzer, Enabling Advanced Recycling through Black Plastic Identification - mykxlg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxPbFFhX2JZdThyVFJWNjJWTFFpNXdjQ3dVX1pndXFPNEZWdmozY3JEcEtmd0lkRlRjOTdHaWJhTENFN2FHa0VveDQyclpZUmRyQzRBOXZDcUd0Nl9yXzZoZVZnWVdSMURmRHFFcUJjWX",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPbFFhX2JZdThyVFJWNjJWTFFpNXdjQ3dVX1pndXFPNEZWdmozY3JEcEtmd0lkRlRjOTdHaWJhTENFN2FHa0VveDQyclpZUmRyQzRBOXZDcUd0Nl9yXzZoZVZnWVdSMURmRHFFcUJjWXV1aWx0MjZzN1RVbXF4MUhxdGVaNXVRWmtVdExVTGJoYUVSREtHcU1jSzg5WWhlcUdSc2lyMG5mZHhRYUJ5alk1Z1lDZWEteWhmekNaUVRDWC1yM1dlb3ZzREFrTHV2OUFYVGk3N3NBQU82MS1DMGVSZkpxRGJHbHlBOGRUTFhBR29mT3dkRkdMakFJaHpscE00aEtUVWN2bXpOdUYzd3YwdkdaRUJSbElxVUpIV3RRUXRvZVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-14-027",
+    "date": "2026-05-14",
+    "companies": [
+      "samsung_elec",
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "BOE Begins Gen 8.6 OLED Production This Month, Beating Rival Samsung Display to Market - Tech Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT2x3UTAxa0p2dEVkeDh2N0ZTOExRZUlfb2RteEhJangwWnJBWnI3VjlsZk04dXBsczZ2ZDJiaDJZOUowMXkyeG41djZPS1RkeWQ1TjhFT2xvWWE3RGlBMXNrQU1HeGJxQnFiX0s5UF",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT2x3UTAxa0p2dEVkeDh2N0ZTOExRZUlfb2RteEhJangwWnJBWnI3VjlsZk04dXBsczZ2ZDJiaDJZOUowMXkyeG41djZPS1RkeWQ1TjhFT2xvWWE3RGlBMXNrQU1HeGJxQnFiX0s5UFRMaUY3ZmExMnRwdkdnZ3F3Q1RUUjE4SGRoTXVSQU9PTjYtRXNjSmFSY1MwVVQxY3RzdTNrcmo1cDAzX2ZNcEU3VEF2UjVwMlJIanB6OXA5ZkJ2aDUxQlJuLVlVQXV0WVc2NUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-05-14-028",
+    "date": "2026-05-14",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Japan Display Hits Day Low of JPY 71 Amid Price Pressure - Markets Mojo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUjJveHpSblc1dElrT21fRmZDbS1OYmh5ek55bnZSRTVDbXBPZnVTbG1vbnlNMjYzZmF4YWdHSFVLQVpuWm9BUzR3cDRlcnp6c0RzMVJwOTQ5NXVsclJzcUVTaFNkOUpPT1kyOTYwTj",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUjJveHpSblc1dElrT21fRmZDbS1OYmh5ek55bnZSRTVDbXBPZnVTbG1vbnlNMjYzZmF4YWdHSFVLQVpuWm9BUzR3cDRlcnp6c0RzMVJwOTQ5NXVsclJzcUVTaFNkOUpPT1kyOTYwTjZ4WUVqZ0lhRzdRQzNFMjFlYi1Hc0FzWDJvTnp4WXY1MFVVRFZxQVdQM1h2SnVjdmJFM2s4YWl3bi1WYWhxcjlwVHhDMEM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-14-029",
+    "date": "2026-05-14",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "4 Disadvantages Of Mini LED TVs You Should Know About - bgr.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5GYl90eTAzeGxPVGVvSkplOUJ1aUY4bDNRVG9QZmJZMzVHYlNfNmtKZVNhQl82VmJub1hYUnFmWTBaU2xZTExHdnpLZ2EtOUZPNWdUN2RGcVEyRy1wdXRHVHB0aHAwcC1lTnFRb2FUdH",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GYl90eTAzeGxPVGVvSkplOUJ1aUY4bDNRVG9QZmJZMzVHYlNfNmtKZVNhQl82VmJub1hYUnFmWTBaU2xZTExHdnpLZ2EtOUZPNWdUN2RGcVEyRy1wdXRHVHB0aHAwcC1lTnFRb2FUdHZuTkNXLVp3NElqdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-05-14-030",
+    "date": "2026-05-14",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Unveils New Generation of SQD-Mini LED Televisions - AndroidGuys",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOX096czg4V1B2TTUyUEZmRGR5V04xb08zMXloSU5mUTRBOGlHOFEzOE50eG9uN0ZVRDFkZWZKUk43aW9URDYzUVROUWRHTE5HeUFOemR0SzBsZXNaZWYwMXdHOW9paUlINFpIcDRpbG",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX096czg4V1B2TTUyUEZmRGR5V04xb08zMXloSU5mUTRBOGlHOFEzOE50eG9uN0ZVRDFkZWZKUk43aW9URDYzUVROUWRHTE5HeUFOemR0SzBsZXNaZWYwMXdHOW9paUlINFpIcDRpbGRlQ1RrTldHWm15eFdZb1BPS0YwQzAzUnpFLU93Y1NDcFhfSTRfV2VWa2ZnYw?oc=5",
         "type": "rss"
       }
     ]
@@ -1985,6 +2209,26 @@
       {
         "name": "boe",
         "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPTnVDYkZCNi1SUzN5aVVKclhkR0VFazJnaEVDWHZEVkk5TmdzRHduVHJ3VXNYalVJc0Q2MTJHano3WURNcVV0TEVJM3hOQkI0Mm01NWxoZUFySXBxUDVPbVhXQWRoR3dMcUt6VDg2b1N1aFpkWDluZnRNc0YxdTczTmhHTVlrY0ZYbFlBZkNUYzYtZmNjaEdVYmhGZi1hLWpvdHVjODVpYTBFdm5sRVN5QS1wVFhWOHhGcjFuMF9xR1hkaHMzTTY5aXJHQ3FnNGNYcG1zaXJLYklUZ0FwNFR5WlBDMnpuUmlaVXVuVm1CQmpPNmlCOW9OMmtoaGx1ZllZY2lmWWlRQk8yQTBLU0pTeThrNjRWMmRENE5UVmFnWkJqTU9XUVHSAaYCQVVfeXFMT051Q2JGQjYtUlMzeWlVSnJYZEdFRWsyZ2hFQ1h2RFZJOU5nc0R3blRyd1VzWGpVSXNENjEyR2p6N1lETXFVdExFSTN4TkJCNDJtNTVsaGVBcklwcVA1T21YV0FkaEd3THFLelQ4Nm9TdWhaZFg5bmZ0TXNGMXU3M05oR01Za2NGWGxZQWZDVGM2LWZjY2hHVWJoRmYtYS1qb3R1Yzg1aWEwRXZubEVTeUEtcFRYVjh4RnIxbjBfcUdYZGhzM002OWlyR0NxZzRjWHBtc2lyS2JJVGdBcDRUeVpQQzJ6blJpWlV1blZtQkJqTzZpQjlvTjJraGhsdWZZWWNpZllpUUJPMkEwS1NKU3k4azY0VjJkRDROVFZhZ1pCak1PV1FR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-09-007",
+    "date": "2026-05-09",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (NASDAQ:HIMX) Releases Quarterly Earnings Results, Beats Expectations By $0.02 EPS - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWnZhZ3NzOHNyS05hanRBTmRWaU1ZRGNiZWpUMnRaVDVnTURtWFcwX3ZGMTlMaGllOTVVZjVNUjhTY21LLUZJSVdaa181MF81ZnkycDE5Y1NvXzFHYUx4UnRBejdZT2EyaXFjeHc3em",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWnZhZ3NzOHNyS05hanRBTmRWaU1ZRGNiZWpUMnRaVDVnTURtWFcwX3ZGMTlMaGllOTVVZjVNUjhTY21LLUZJSVdaa181MF81ZnkycDE5Y1NvXzFHYUx4UnRBejdZT2EyaXFjeHc3emJzY0ZJdC1DWEtDRjBKWlFXZjVFWFhyd2JYejRpdTFRdWlnUXZzektjRXE5VnJEV29aTGRFUWo4UGE0ajg?oc=5",
         "type": "rss"
       }
     ]
