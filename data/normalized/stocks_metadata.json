@@ -1,77 +1,77 @@
 {
   "corning": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "applied_materials": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "canon": {
-    "earliest": "2016-03-29",
+    "earliest": "2015-12-30",
     "latest": "2026-05-15",
-    "count": 2494
+    "count": 2553
   },
   "novatek": {
-    "earliest": "2016-03-25",
+    "earliest": "2015-12-28",
     "latest": "2026-05-15",
-    "count": 2464
+    "count": 2519
   },
   "himax": {
-    "earliest": "2016-03-28",
-    "latest": "2026-05-14",
-    "count": 2549
+    "earliest": "2015-12-29",
+    "latest": "2026-05-15",
+    "count": 2610
   },
   "auo": {
-    "earliest": "2016-03-25",
+    "earliest": "2015-12-28",
     "latest": "2026-05-15",
-    "count": 2464
+    "count": 2519
   },
   "innolux": {
-    "earliest": "2016-03-25",
+    "earliest": "2015-12-28",
     "latest": "2026-05-15",
-    "count": 2464
+    "count": 2519
   },
   "lg_display": {
-    "earliest": "2016-03-25",
+    "earliest": "2015-12-28",
     "latest": "2026-05-15",
-    "count": 2482
+    "count": 2540
   },
   "boe": {
-    "earliest": "2016-03-24",
+    "earliest": "2015-12-25",
     "latest": "2026-05-15",
-    "count": 2460
+    "count": 2518
   },
   "jdi": {
-    "earliest": "2016-03-29",
+    "earliest": "2015-12-30",
     "latest": "2026-05-15",
-    "count": 2494
+    "count": 2553
   },
   "samsung_elec": {
-    "earliest": "2016-03-25",
+    "earliest": "2015-12-28",
     "latest": "2026-05-15",
-    "count": 2482
+    "count": 2540
   },
   "lg_elec": {
-    "earliest": "2016-03-25",
+    "earliest": "2015-12-28",
     "latest": "2026-05-15",
-    "count": 2482
+    "count": 2540
   },
   "sony": {
-    "earliest": "2016-03-29",
+    "earliest": "2015-12-30",
     "latest": "2026-05-15",
-    "count": 2494
+    "count": 2553
   },
   "tcl": {
-    "earliest": "2016-03-24",
+    "earliest": "2015-12-25",
     "latest": "2026-05-15",
-    "count": 2460
+    "count": 2518
   },
   "etf_soxx": {
-    "earliest": "2017-03-21",
-    "latest": "2026-05-14",
-    "count": 2301
+    "earliest": "2016-12-21",
+    "latest": "2026-05-15",
+    "count": 2362
   }
 }

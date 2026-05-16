@@ -1,0 +1,237 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T09:31:24.969319Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-05-16-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Co Ltd stock (KR7034220004): earnings pressure and OLED focus in the display cycle - AD HOC NEWS",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration",
+        "automotive_display",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYXFrczU2Yi1fNXdlTnVZZXU4MnJkdVV3SGw5S1dwdTYya2YtVGhCVzUtMC1tR2xEc09WVzhKNVhvWnFvdDRqLTVnZjBXU2dLQW01aURUSmtkMU9jbFd6bkU2TEwtNzFmY0l4R0ItMWhUd09oZTdTaTVjYmE5bHJtVjhkRmpJWmFxUVU4WlphWC1qSDhSZ29mTE5ZRUFhQ1M3RFZIREZXSXVmRmd6eEZfMUlTZkFxVUpYeTM3cC15OWo1ZVR5VEZR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "novatek-2026-05-16-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novatek Microelectronics stock (TW0003034005): recent earnings and display chip demand in focus - AD HOC NEWS",
+      "companies": [
+        "novatek"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeEFiSFFpRVVlR0kzQnZfbFZIcDFxTEd2WHlUVGItZGdCOXJkajV6WDN2cmVJT0lkTUYwQ0pSajBTZ2c0emc4U2VrM3pYYXlfcUZzbVpUajVyYzhzU1Rta3diMVJvcF9KRFNYMTRmeWVOTGstWF9SZmtZQkRLLVFIdUswd2MzMnVSWEQyZTJjeEY4ZE1vZWVubkRnOEU2bzBESkFmWTNCS1E0WGtTQm1rSEZvU0t2RC0wUGl3dHJEVEhPSTdsZzVGOHdR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "corning-2026-05-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corning Incorporated (GLW) Announces Participation in J.P. Morga - GuruFocus",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZTh1OFRxNTZ0U1U0ck03WVJFSU9ueXNjSlFpM2haT3lEWFVBTU1LUEp5MGNlUWpXY0xOQjdDdno4azRCa2ZoaUhlb2lxRnpVaEVyNExZelRPR2xjLXp2aWdpSTdHT1dPWFdmcmE0ZU5hSllqamhHT0FlVUZxd3k4Q2ZGdTBpUy1RdHZpVHNtOG1vWF8wLV8tWEFuTnlyU1cwOEdIdzJCZHVxMmczRXpKcUdqSmRHc0NxdW9oV0VOTmJOeXBwSnNEWnY2czV0VUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "boe-2026-05-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BOE Technology Group stock (CNE1000016L5): BOE says display demand stays supported - AD HOC NEWS",
+      "companies": [
+        "boe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb29FbFlENU5nVE1GUDFETVFQQ3JpVWZ1Yi1fYTdleGtkMk9uVGdHcU9vb3dUX09MUC1YNFU5R0FoS1pyOURwSUcwRVBFWnQxMHlSZE5RVzdsSDQ2dTk1MGYyM0tJMVFuS0dZZEZyZDBhdWQyU3F6SDBkX3Rta2hNc0xKT3o4S0J0SmMtRzJPVWNMZGFuN3FpRnF5VEd0OTBxZFFNRmFIZXAwcGNiUVl0NjRmd2JNUzZoZ2t2RmY5LU8zcms2U2Rr?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "boe-2026-05-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BOE Technology Group Co Ltd stock (CNE0000016L5): display maker in focus after recent quarterly upda - AD HOC NEWS",
+      "companies": [
+        "boe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYVdpNmlDWXBiSE9HdDM5Y2thX1RucGg3eGF5VUQ5MDlyNXp0dFZFd2dqUWwyTkx2VkhOM1Z5N2xXcnNlc1UyamlMcmc3ZGd6X0pmS3lhRm9NTkpCNWtyMzcydlNROWxJaDlZeDdab3pqdndsNS1iOWxZWjR0SFZwOFZJMm1rUWFmaXlONWFFU3pnS0I5WV9RaE0zZGpIU3lnejl1MnBVQ0JuRHROVG16NTg0U3lVR2R4dW91anFRSF85YndhU1Nj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "boe",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "novatek",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 361,
+    "dup_title": 157,
+    "too_old": 135,
+    "gate1_blocked": 24,
+    "gate2_blocked": 31,
+    "passed": 14,
+    "pass_rate": "6.9%",
+    "gate2_block_rate": "15.2%",
+    "gate2_samples": [
+      "$150.7 million budget, 2.56 percent tax levy, 3 open board seats in Corning school district election",
+      "Corning vs. Nokia: Which Connectivity Stock is the Better Buy Now? - Yahoo Finance",
+      "Corning Incorporated (GLW) Discusses Upgrade and Extension of Springboard Plan, New Growth Phase, an",
+      "Jim Cramer Shares Key Facts About Corning (GLW) - Insider Monkey",
+      "Corning (NYSE: GLW) SVP Fang Li exercises stock appreciation rights on 8,725 shares - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為BOE Technology、康寧、Novatek Microelectronics相關動態：「LG Display Co Ltd stock (KR7034220004): earnings pressure...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LG Display Co Ltd stock (KR7034220004): earnings pressure and OLED focus in t...（OLED 滲透率、車用面板、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Novatek Microelectronics stock (TW0003034005): recent earnings and display ch...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

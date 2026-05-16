@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 157,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 24,
+  "gate2_fail": 31,
+  "passed": 14,
+  "gate2_samples": [
+    "$150.7 million budget, 2.56 percent tax levy, 3 open board seats in Corning school district election",
+    "Corning vs. Nokia: Which Connectivity Stock is the Better Buy Now? - Yahoo Finance",
+    "Corning Incorporated (GLW) Discusses Upgrade and Extension of Springboard Plan, New Growth Phase, an",
+    "Jim Cramer Shares Key Facts About Corning (GLW) - Insider Monkey",
+    "Corning (NYSE: GLW) SVP Fang Li exercises stock appreciation rights on 8,725 shares - Stock Titan"
+  ]
+}

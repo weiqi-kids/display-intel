@@ -1,5 +1,102 @@
 [
   {
+    "id": "corning-2026-05-16-001",
+    "date": "2026-05-16",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Incorporated (GLW) Announces Participation in J.P. Morga - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQZTh1OFRxNTZ0U1U0ck03WVJFSU9ueXNjSlFpM2haT3lEWFVBTU1LUEp5MGNlUWpXY0xOQjdDdno4azRCa2ZoaUhlb2lxRnpVaEVyNExZelRPR2xjLXp2aWdpSTdHT1dPWFdmcmE0ZU",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZTh1OFRxNTZ0U1U0ck03WVJFSU9ueXNjSlFpM2haT3lEWFVBTU1LUEp5MGNlUWpXY0xOQjdDdno4azRCa2ZoaUhlb2lxRnpVaEVyNExZelRPR2xjLXp2aWdpSTdHT1dPWFdmcmE0ZU5hSllqamhHT0FlVUZxd3k4Q2ZGdTBpUy1RdHZpVHNtOG1vWF8wLV8tWEFuTnlyU1cwOEdIdzJCZHVxMmczRXpKcUdqSmRHc0NxdW9oV0VOTmJOeXBwSnNEWnY2czV0VUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-05-16-002",
+    "date": "2026-05-16",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Novatek Microelectronics stock (TW0003034005): recent earnings and display chip demand in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPeEFiSFFpRVVlR0kzQnZfbFZIcDFxTEd2WHlUVGItZGdCOXJkajV6WDN2cmVJT0lkTUYwQ0pSajBTZ2c0emc4U2VrM3pYYXlfcUZzbVpUajVyYzhzU1Rta3diMVJvcF9KRFNYMTRmeW",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeEFiSFFpRVVlR0kzQnZfbFZIcDFxTEd2WHlUVGItZGdCOXJkajV6WDN2cmVJT0lkTUYwQ0pSajBTZ2c0emc4U2VrM3pYYXlfcUZzbVpUajVyYzhzU1Rta3diMVJvcF9KRFNYMTRmeWVOTGstWF9SZmtZQkRLLVFIdUswd2MzMnVSWEQyZTJjeEY4ZE1vZWVubkRnOEU2bzBESkFmWTNCS1E0WGtTQm1rSEZvU0t2RC0wUGl3dHJEVEhPSTdsZzVGOHdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-16-003",
+    "date": "2026-05-16",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration",
+      "automotive_display",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "LG Display Co Ltd stock (KR7034220004): earnings pressure and OLED focus in the display cycle - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQYXFrczU2Yi1fNXdlTnVZZXU4MnJkdVV3SGw5S1dwdTYya2YtVGhCVzUtMC1tR2xEc09WVzhKNVhvWnFvdDRqLTVnZjBXU2dLQW01aURUSmtkMU9jbFd6bkU2TEwtNzFmY0l4R0ItMW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYXFrczU2Yi1fNXdlTnVZZXU4MnJkdVV3SGw5S1dwdTYya2YtVGhCVzUtMC1tR2xEc09WVzhKNVhvWnFvdDRqLTVnZjBXU2dLQW01aURUSmtkMU9jbFd6bkU2TEwtNzFmY0l4R0ItMWhUd09oZTdTaTVjYmE5bHJtVjhkRmpJWmFxUVU4WlphWC1qSDhSZ29mTE5ZRUFhQ1M3RFZIREZXSXVmRmd6eEZfMUlTZkFxVUpYeTM3cC15OWo1ZVR5VEZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-05-16-004",
+    "date": "2026-05-16",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Group stock (CNE1000016L5): BOE says display demand stays supported - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNb29FbFlENU5nVE1GUDFETVFQQ3JpVWZ1Yi1fYTdleGtkMk9uVGdHcU9vb3dUX09MUC1YNFU5R0FoS1pyOURwSUcwRVBFWnQxMHlSZE5RVzdsSDQ2dTk1MGYyM0tJMVFuS0dZZEZyZD",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb29FbFlENU5nVE1GUDFETVFQQ3JpVWZ1Yi1fYTdleGtkMk9uVGdHcU9vb3dUX09MUC1YNFU5R0FoS1pyOURwSUcwRVBFWnQxMHlSZE5RVzdsSDQ2dTk1MGYyM0tJMVFuS0dZZEZyZDBhdWQyU3F6SDBkX3Rta2hNc0xKT3o4S0J0SmMtRzJPVWNMZGFuN3FpRnF5VEd0OTBxZFFNRmFIZXAwcGNiUVl0NjRmd2JNUzZoZ2t2RmY5LU8zcms2U2Rr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-05-16-005",
+    "date": "2026-05-16",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Group Co Ltd stock (CNE0000016L5): display maker in focus after recent quarterly upda - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNYVdpNmlDWXBiSE9HdDM5Y2thX1RucGg3eGF5VUQ5MDlyNXp0dFZFd2dqUWwyTkx2VkhOM1Z5N2xXcnNlc1UyamlMcmc3ZGd6X0pmS3lhRm9NTkpCNWtyMzcydlNROWxJaDlZeDdab3",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYVdpNmlDWXBiSE9HdDM5Y2thX1RucGg3eGF5VUQ5MDlyNXp0dFZFd2dqUWwyTkx2VkhOM1Z5N2xXcnNlc1UyamlMcmc3ZGd6X0pmS3lhRm9NTkpCNWtyMzcydlNROWxJaDlZeDdab3pqdndsNS1iOWxZWjR0SFZwOFZJMm1rUWFmaXlONWFFU3pnS0I5WV9RaE0zZGpIU3lnejl1MnBVQ0JuRHROVG16NTg0U3lVR2R4dW91anFRSF85YndhU1Nj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tcl-2026-05-15-001",
     "date": "2026-05-15",
     "companies": [
@@ -70,6 +167,178 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUEFTMS12bmw2aVN1dFNETE9WUW85aEZwQ3lzMHlQZ0pSTGd3bE0wLVlxWVNBd3pmVGkzMDJCbGFEVGNsYTZHbkVjNVRwS21VcUhnc21NOXNwQWl0U09FcGI2czNyUlVrZnBPSFpZTnpfMzh0SUt6NUFGcFlJQW5Ia3lwb0pfRnhKSXJhUS1ZcU1tQVByOEVaVzE4dzlYemx4OElOZl9JZ21zU3c4R1dxRGFKb0dvMDR3VWxtNU9HamRXWThGWHZCN0FXemRualBORzkyY9IB3AFBVV95cUxONGNTTHFvZmFGM1FtaGhiZzZVUFFSdE1BNGRRbFY4dlNZWFBCYUFQejdhS1pKWTlDRm9LU3hzN1FaazVoQTZhcHFWQzFJR2daWkV0VkdPOWlhc2VKX2dBdXBhNVczNF9LRXpleHlERUhscWdvVnA0R0xEdWFEb2NPN0xNUi16RWRvN1VKdXdPUXlJZzdBX19sSzUyaWVtSUo4eElianU2OTRiWkdmVG9xVVlSYmloMkhKZnB6Mm9CUF8yQ1FERzdmbTlrZHlMT1N3bHZQLWJlTjZLOEVj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-15-005",
+    "date": "2026-05-15",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning (NYSE: GLW) execs to speak at J.P. Morgan 2026 conference - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPaTNIUG54clBfUkV6ZU93Tnl4Wi1JYkFkQ28zREZXREFTRWx5NUZCUVp0MWdxTUN3QUtYbmQ3dnJCd0xQNWdneWdRVWI2NTBsck4tVmR2bC1SbnA4UENyWXdQSmFyRFhfbVdCdjVKWV",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaTNIUG54clBfUkV6ZU93Tnl4Wi1JYkFkQ28zREZXREFTRWx5NUZCUVp0MWdxTUN3QUtYbmQ3dnJCd0xQNWdneWdRVWI2NTBsck4tVmR2bC1SbnA4UENyWXdQSmFyRFhfbVdCdjVKWVJQUWVIa0ZPZGxmMlNIUzh4elV3V1g1MW1IRktUZV8xYnUtdWlRT2VpRnlnS0tnQ3l5ZUxreg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-15-006",
+    "date": "2026-05-15",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Executives to Present at J.P. Morgan Conference - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGdfZ2c4UUs2aGtlRHRkd1Y1MkZQN3dyMGYwR18yZ2J0SUppR2JianJvQUNaN0h0Rm4tRWJZU3I3STJ3MWdBdUJlRE9samdabEMtNmN1em9ZWG41UnZ3Xzh0WFQ3SmFjTjlfakRGMG",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGdfZ2c4UUs2aGtlRHRkd1Y1MkZQN3dyMGYwR18yZ2J0SUppR2JianJvQUNaN0h0Rm4tRWJZU3I3STJ3MWdBdUJlRE9samdabEMtNmN1em9ZWG41UnZ3Xzh0WFQ3SmFjTjlfakRGMGgxWGJQeG55d3lnNzdXOHNYTnY4WUdYaXo3NHN2UW5zaUdRdDh5WENNaV9mU2psSGk3VTZEa1BHdExUZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-15-007",
+    "date": "2026-05-15",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "automotive_display",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display: Q1 Earnings Snapshot - KVUE",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxORktZQjJySkxod2k4ZVRlSmVoTnpTYS1mTjJLVFRZXzlLZlRJRVdERDRBZmNSSDBXLTZ5WlIwWFBXcDJ3enloMnVzd3NVNGw3UDVmOGJCNEJ1R3JYVGdDUmh6SFYya0NiSDJWZTBWWW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORktZQjJySkxod2k4ZVRlSmVoTnpTYS1mTjJLVFRZXzlLZlRJRVdERDRBZmNSSDBXLTZ5WlIwWFBXcDJ3enloMnVzd3NVNGw3UDVmOGJCNEJ1R3JYVGdDUmh6SFYya0NiSDJWZTBWWWFldzVyWG5XUVhudzhzTTJXVlQyekQ4a1dZZHhBcm1IaEhkVzlSZUFRdEJ1UkhhQ1pjcndLRTR3MEVHMGNwU3VYSmppeWpDNy1mTWdBbzhfdUk2bXppa3U1TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-15-008",
+    "date": "2026-05-15",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "LG Display (NYSE: LPL) posts Q1 2026 loss while ramping OLED investment - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnR5eVV1UXQ1WUhralRlOTl3ZnFjU01jS0Izdmc1dFZWN2Y3bWJ0OFhDT09kRVd3bjV0MWVzQWl6VkZoQXpHLWdKQm5KX0s4VzdydUhRNzJXYUhIT0lUaDltQXRRRTJtbzc5US0wZn",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnR5eVV1UXQ1WUhralRlOTl3ZnFjU01jS0Izdmc1dFZWN2Y3bWJ0OFhDT09kRVd3bjV0MWVzQWl6VkZoQXpHLWdKQm5KX0s4VzdydUhRNzJXYUhIT0lUaDltQXRRRTJtbzc5US0wZnVwSmJHbnZkT2VUak5uRFZEUTloejBlVF9tWExPSTRnWHF3ZjlSY0RFNnViX1VuN0E2ckNyVC1RcG5ZZEtpNk13NEJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-15-009",
+    "date": "2026-05-15",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "LG Display Posts Q1 2026 Loss and Maintains Dividend Freeze - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxORkYtdXRETlk1ZzhZTXBKbG1KNFhSOXpfOWUxOFg3WGE3aEg0eHhDc0U3X04ySkNYM0duYTRSU3RJYWMwMW9UMzE3X1lsVldCQUNiSHVVOWc3M0F6S0RKeG82bDNsTkhkLW55eDVIbV",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORkYtdXRETlk1ZzhZTXBKbG1KNFhSOXpfOWUxOFg3WGE3aEg0eHhDc0U3X04ySkNYM0duYTRSU3RJYWMwMW9UMzE3X1lsVldCQUNiSHVVOWc3M0F6S0RKeG82bDNsTkhkLW55eDVIbVJDaWQwaVRFTEZQdHJ1RzhKNFdKdkZENDhyZ2ZLX2luVVJFUmVtR1lKbmdJbTRqaHp1M3hLVGZ6eVBKcTN1WnZLNw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-15-010",
+    "date": "2026-05-15",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "ASUS ROG Strix SCAR 18 Debuts With 4K 240Hz Mini LED Display and 320W Power Limit - HotHardware",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOSHVwU1dqeEpLcmVMT21JRGY2VWxISFlFLTZVSHlTWjcxakJSRi1lMG9nbHRzQ2duY01XNTNVNFc5STROQjctOUNIRWRPdUhNcHR3VDVJem1KTDktZW9KRmtUVGZfdnotR3NNbDJhVF",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSHVwU1dqeEpLcmVMT21JRGY2VWxISFlFLTZVSHlTWjcxakJSRi1lMG9nbHRzQ2duY01XNTNVNFc5STROQjctOUNIRWRPdUhNcHR3VDVJem1KTDktZW9KRmtUVGZfdnotR3NNbDJhVFUxYU9wb1h3MUo2UGlwOGxoUkFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-15-011",
+    "date": "2026-05-15",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "ASUS Announces ROG Strix SCAR 18, Featuring 240Hz Mini LED Display With ROG Nebula ELMB - Wccftech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3piTDB1WGljYW5iRG13bWMxdTZoQzAzSlV0VXpNZWJVRXdYYjhDdWZtNXBOaWk2Mm9CYTRpRmpwbGZ3ZTl6RDY5RHpfTE9nTjg3Nk00OW1oeTNTUkdzaWdPS0VTTXdWdXFSWEdLRk",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3piTDB1WGljYW5iRG13bWMxdTZoQzAzSlV0VXpNZWJVRXdYYjhDdWZtNXBOaWk2Mm9CYTRpRmpwbGZ3ZTl6RDY5RHpfTE9nTjg3Nk00OW1oeTNTUkdzaWdPS0VTTXdWdXFSWEdLRkhlYWlOc0lTTTR3TnZkd3Y5eWp6dFMwVHpQSE00SDZnZHFERV9Pa2wzM09CU0ljWGxEOHAwdU85VmNrR19p0gGyAUFVX3lxTE9xQXluV1dQOTVjcUNqTkdtWkFCbUlWYkhjd09CV08xSktxbWgzMHlWMi1GQ3gzc2d1cEltOHZvbkNnVDNDOHcyS21zT0hhc0NaQjVJRC1vVm5SZ2ZxVjVFNS1sT0h6WDc2eC10Tzk1SERCSHNIZ3AzUFlOWGZYRVJicXUyT3N1cWw4a2Y3RmVwODVBSlEtVTRzbDI4a25PTmJUMHctQVFoSVJPS0JxLTdCOXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-05-15-012",
+    "date": "2026-05-15",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "TCL improves Mini LED with more quantum dots - pickr.com.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTlnWldZSzJQMjdJOURuTktFQWdTQjJuQUV0WWtTR0xhU0xzY280ZkR0enE0d2JjU3ZaRlJtUEF1SWNmS1JvZThpaDBUQlJmcU1abm9hUnhwZGgzdFo3WHhBdVdjOTZnMkxYOGNEaF",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTlnWldZSzJQMjdJOURuTktFQWdTQjJuQUV0WWtTR0xhU0xzY280ZkR0enE0d2JjU3ZaRlJtUEF1SWNmS1JvZThpaDBUQlJmcU1abm9hUnhwZGgzdFo3WHhBdVdjOTZnMkxYOGNEaFBTdnZvNkRpa21kMW15OHRsOFN2MDhxNnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-15-013",
+    "date": "2026-05-15",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Micro-Transfer Printing (MTP) As A Promising Scalable Approach to Heterogeneous Integration for Silicon Photonics (Ghent U., imec et al)",
+    "summary": "<p>A new technical paper, &#8220;Micro-Transfer Printing on Silicon Photonics: Tutorial, Recent Progress and Outlook,&#8221; was published by researchers at Ghent University, imec et al. Abstract &#82",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/micro-transfer-printing-mtp-as-a-promising-scalable-approach-to-heterogeneous-integration-for-silicon-photonics-ghent-u-imec-et-al/",
         "type": "rss"
       }
     ]
