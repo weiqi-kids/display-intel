@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T09:48:07.969433Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 167,
+    "too_old": 140,
+    "gate1_blocked": 39,
+    "gate2_blocked": 26,
+    "passed": 8,
+    "pass_rate": "3.8%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "$150.7 million budget, 2.56 percent tax levy, 3 open board seats in Corning school district election",
+      "Corning vs. Nokia: Which Connectivity Stock is the Better Buy Now? - Yahoo Finance",
+      "Corning (GLW) Is an AI Play with Strings Attached - TipRanks",
+      "Jim Cramer Shares Key Facts About Corning (GLW) - Insider Monkey",
+      "Corning Incorporated (GLW) Discusses Upgrade and Extension of Springboard Plan, New Growth Phase, an"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-05-17 無面板產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
