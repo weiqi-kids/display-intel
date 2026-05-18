@@ -1,0 +1,208 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T11:45:24.340618Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hiwin doubles robotics revenue share in 1Q26 on semiconductor automation demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260518PD217/revenue-demand-automation-taiwan-robotics.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pan Jit AI revenue hits 11% as orders stretch 6 months",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260518PD207/revenue-automotive-demand-2026-management.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-18-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TSMC's Japan fab signals a turning point for overseas manufacturing",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260518PD230/tsmc-fab-jasm-profit.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-18-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Lianyou Metals rides tungsten, cobalt squeeze to record quarter",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260518PD200/cobalt-profit-revenue-2026-market.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-05-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Art Store Welcomes the Wonderful World of the Moomins in New Global Collaboration",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/samsung-art-store-welcomes-the-wonderful-world-of-the-moomins-in-new-global-collaboration"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 159,
+    "too_old": 144,
+    "gate1_blocked": 34,
+    "gate2_blocked": 20,
+    "passed": 23,
+    "pass_rate": "10.4%",
+    "gate2_block_rate": "9.0%",
+    "gate2_samples": [
+      "Corning (NYSE: GLW) SVP Fang Li exercises stock appreciation rights on 8,725 shares - Stock Titan",
+      "Corning Incorporated $GLW Shares Sold by Bailard Inc. - MarketBeat",
+      "Securian Asset Management Inc. Reduces Holdings in Corning Incorporated $GLW - MarketBeat",
+      "Canon Introduces C2PA—Compliant Authenticity Imaging System for News Organizations - Canon Global",
+      "Novatek Microelectronics stock (TW0003034005): Taiwan semiconductor supplier with display driver foc"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為三星電子相關動態：「Hiwin doubles robotics revenue share in 1Q26 on semicondu...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hiwin doubles robotics revenue share in 1Q26 on semiconductor automation demand（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Pan Jit AI revenue hits 11% as orders stretch 6 months（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

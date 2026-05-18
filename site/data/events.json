@@ -1,5 +1,257 @@
 [
   {
+    "id": "samsung_elec-2026-05-18-001",
+    "date": "2026-05-18",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Art Store Welcomes the Wonderful World of the Moomins in New Global Collaboration",
+    "summary": "Samsung Electronics today announced a new global collaboration between Samsung Art Store and Moomins, introducing an exclusive digital art collection featuring the iconic and beloved Moomin characters",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-art-store-welcomes-the-wonderful-world-of-the-moomins-in-new-global-collaboration",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-002",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "TI says safety will decide 800V AI data center adoption and supplier wins",
+    "summary": "Pradeep S. Shenoy, a computing technology expert at Texas Instruments's (TI) US headquarters, recently shared his views on 800V architectures for AI data centers in a media appearance. He said 800V so",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260518PD232/texas-instruments-ai-data-center-adoption.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-003",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hiwin doubles robotics revenue share in 1Q26 on semiconductor automation demand",
+    "summary": "Taiwan precision motion-control leader Hiwin Technologies is accelerating growth on the back of semiconductor automation and robotics demand, with robot-related products emerging as a rapidly expandin",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260518PD217/revenue-demand-automation-taiwan-robotics.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-004",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Pan Jit AI revenue hits 11% as orders stretch 6 months",
+    "summary": "Pan Jit's growing confidence in AI and automotive demand is set to shape the global supply of power semiconductors, as data-center power management needs intensify and automotive orders shift away fro",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260518PD207/revenue-automotive-demand-2026-management.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-005",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "TSMC's Japan fab signals a turning point for overseas manufacturing",
+    "summary": "<p class=\"P1\" data-start=\"0\" data-end=\"184\">TSMC's semiconductor venture in Japan has posted its first quarterly profit since entering mass production, marking an important milestone in the company's ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260518PD230/tsmc-fab-jasm-profit.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-18-006",
+    "date": "2026-05-18",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung reportedly boosts 1b DRAM yields as Korean memory rivalry heats up",
+    "summary": "Samsung Electronics has significantly improved yields for its latest DRAM technologies used in high-bandwidth memory (HBM), according to <em>IT Chosun</em>, underscoring the intensifying race among me",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260518VL209/samsung-dram-hbm-capacity-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-007",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "Lianyou Metals rides tungsten, cobalt squeeze to record quarter",
+    "summary": "<p class=\"P1\" data-start=\"1929\" data-end=\"2162\">Lianyou Metals reported record first-quarter results in 2026, as tightening global supplies of tungsten and cobalt and stronger demand from semiconducto",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260518PD200/cobalt-profit-revenue-2026-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-18-008",
+    "date": "2026-05-18",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "South Korean court bars factory occupations and orders safety work during planned Samsung strike",
+    "summary": "A South Korean court granted Samsung Electronics an injunction on May 18, 2026, limiting union dispute actions and ordering that safety protection systems and wafer anti-deterioration operations remai",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260518PD226/samsung-strike-2026-wafer-ban.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-17-001",
+    "date": "2026-05-17",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Incorporated $GLW Shares Purchased by Security National Bank - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQd3FnQWdyaldpbTdRTTVZZlJmV2NqamVfSktFRFdLRi1kWm1XVHFPenRVQjRtOGJLWGRoVUZHS2pmalczcEFxZGp4RDlFcTNxYzlIRHF1SVMwMWFMcEkySXJHOUpvVkNyZzgxWGl2aX",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd3FnQWdyaldpbTdRTTVZZlJmV2NqamVfSktFRFdLRi1kWm1XVHFPenRVQjRtOGJLWGRoVUZHS2pmalczcEFxZGp4RDlFcTNxYzlIRHF1SVMwMWFMcEkySXJHOUpvVkNyZzgxWGl2aXVMd2xrNlhvR0lOc25leTFSYWpILVQwYnpwcm9qa3dXTzR0RWw2SDlCdFVkWGs3akF0RFFBVDhOeUdvTGVadWJzUWQ4bHNDMHI4YnlHUGdYbHZwOGxsLTVv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-17-002",
+    "date": "2026-05-17",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Incorporated $GLW Stake Trimmed by John G Ullman & Associates Inc. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQX19UcURMOFZRMGQxU0syX0szd3c2MHlqTzlMWTFnU1F6TE5KWFJmeENtTkJTQmRfeDMtNzd4QU1GZllILXctM3pPNUdYbEZiaEZmODg4YU4wcXZmOXpfTjBKaEFlNEdxMXgxcWZQOH",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX19UcURMOFZRMGQxU0syX0szd3c2MHlqTzlMWTFnU1F6TE5KWFJmeENtTkJTQmRfeDMtNzd4QU1GZllILXctM3pPNUdYbEZiaEZmODg4YU4wcXZmOXpfTjBKaEFlNEdxMXgxcWZQOHhmRm51NWphM2stSTZCNEQySF9WenhHaEdiREwya0JkM3hBRm5HOVlFSUdPV2E2a2hmS3d0VXE3VXdGWkRBMUFGNXdGT01saGNyNjVxY1IxQkt6SFdMWWtERVNXcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-17-003",
+    "date": "2026-05-17",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Incorporated $GLW Stock Position Reduced by Hendley & Co. Inc. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOSlBfdE5ZLWlTemQ4MUVpYVZuS19qV1JYYUhqTUdTTkVjcVJVVnRIb2hHaHhYdHdMXzJqQW9JLXRmeW1zV21BWW9sMTFOMmR2RzRJYVhMdVllQktrY2pMb0JwR203RE94R2M1WGR5eF",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSlBfdE5ZLWlTemQ4MUVpYVZuS19qV1JYYUhqTUdTTkVjcVJVVnRIb2hHaHhYdHdMXzJqQW9JLXRmeW1zV21BWW9sMTFOMmR2RzRJYVhMdVllQktrY2pMb0JwR203RE94R2M1WGR5eFliZXVMS3VpMjNTajZ3c2F1RWRIRjYtNnY1UDhRN2Fnb1ctanY5UVNXdlFBck9WUWpabGszQlJaV3JKUVoweThUeFdIM0NIa2E1VEtud2h5dlBMUFM3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-17-004",
+    "date": "2026-05-17",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Soltis Investment Advisors LLC Has $4.56 Million Stake in Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRDVyc1QwVnQ1U3RZOVM3MEhwQlloYXkwUE01Y3E3RU94Z0NGR1NiUVFvRDJnU3lrcUNQN2JIci1DZVdGYUR4MmVfU29LZk9qVDhjekJzNDhUOHEwZ19nOTl1M0FVN0tuX2VhTWtnTm",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRDVyc1QwVnQ1U3RZOVM3MEhwQlloYXkwUE01Y3E3RU94Z0NGR1NiUVFvRDJnU3lrcUNQN2JIci1DZVdGYUR4MmVfU29LZk9qVDhjekJzNDhUOHEwZ19nOTl1M0FVN0tuX2VhTWtnTmV4dS1fTnV0RmhBQmpQY0l5aFZVVlI1S2lLYnRhcldLY0kwRndiSmt6bFhmOFVjeHJmZ3BIT1dfdjVkMEtGTUQ1Z1ZTZURqSFF2bjN6QXp0eEkxREEwendwNjVBbk1FYXdkMkJjVXJWNVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-17-005",
+    "date": "2026-05-17",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Himax Technologies, Inc. - Depositary Receipt (HIMX) price target increased by 64.26% to 15.33 - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT29JMDZ0VGc2UkpoNVA4NGFZSUhUNUlCanNSNm5GUURSdXdZQjFDRnZ2YVNkQ3lzaERpNHFsSlR0R040V2JvWFc3dC15RVc5elFYR0tKQzVPWWEtSFQ1MHNJMDdXUFprZzJuY3liNl",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT29JMDZ0VGc2UkpoNVA4NGFZSUhUNUlCanNSNm5GUURSdXdZQjFDRnZ2YVNkQ3lzaERpNHFsSlR0R040V2JvWFc3dC15RVc5elFYR0tKQzVPWWEtSFQ1MHNJMDdXUFprZzJuY3liNl9PMVlsQnpKeTFCN0JTUHNIcTZIby1RNVdoMXlyajMxei1RSk5KRlQ0dTFJc2NHV0hITlhJVnI0dHFLbU5mcW01SWdoQ2JkZzhVMnNENFVxWEVKWGpTY2ZWUUZRMmZjanlwZUR1bGxHb20?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-17-006",
+    "date": "2026-05-17",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Multi Screen Super Glass Market Forecast Points Higher Toward 2035, Driven by Automotive Display Expansion - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQamRFbFp0YXhHUlVMZGVhQkVlVTlBbXZmRlloT2oxczctOU9SMk1VNXJULVJZaTNOR1B3RUJWMzc5T192akZuazJMMTd2M3RJSGtWVU00RnVwZGpzd19FU3lXV2FWSFJCT19GdFZMTE",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQamRFbFp0YXhHUlVMZGVhQkVlVTlBbXZmRlloT2oxczctOU9SMk1VNXJULVJZaTNOR1B3RUJWMzc5T192akZuazJMMTd2M3RJSGtWVU00RnVwZGpzd19FU3lXV2FWSFJCT19GdFZMTExDUVc5cmYzOE80OHZCazlHclgwczdkN0Iwek9GSjJBNlF5SWFIX1E4ZXVUZjI5OUdFaWRQTHdRb0o4RGhkT1J3cGp4R1owM0tvZWFnUHIzRVcwU0ZqSWxLOHdMMHJHeXZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-05-16-001",
     "date": "2026-05-16",
     "companies": [
@@ -204,6 +456,60 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14MUZ6SUdocWRrNF82dTlMSGJlX3FNRk9aVGdIRTZJSndqb3l3SllhSmdINnVHN0JyOXJTWlhzVkFEQUhUOF9HMmwzcGxuTEsyandFVkZBcS1tVGFoaDFaR0tPa1ZBeDdrZi1EYVAtRDZtR3pR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-16-012",
+    "date": "2026-05-16",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Incorporated $GLW Position Raised by Convergence Investment Partners LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRktFNURyWkJ3RFlKekkySDd2cFdYZHB2dWNfdUN1NmhHMWs2LWlEMHg4MlltQTNUNV9hVVludU5aYjFxbmhSTzBQWlBTbHhvYU9IbTBvWFRvMEFiekwxa1NmajBJLVZmdkp5UXdNWn",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRktFNURyWkJ3RFlKekkySDd2cFdYZHB2dWNfdUN1NmhHMWs2LWlEMHg4MlltQTNUNV9hVVludU5aYjFxbmhSTzBQWlBTbHhvYU9IbTBvWFRvMEFiekwxa1NmajBJLVZmdkp5UXdNWnRQel8ySzJPUW5aeWR5eFVfWWY0TUV4b1FjU3Y2M0N1TkI0ZE1lankzc0hXRTFkMG1HNHhjSkZQOTFvYURwZHh5ZEFyaDN5ZDNzbTlEaFRGaDdtY2JoNWM0dDVKYlZFN2E4OTlpTUp1UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-16-013",
+    "date": "2026-05-16",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lawood & Co. Buys Shares of 48,359 Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPYkpQdG9rdTlrWjVmTE05Q1dGR212MzdRdTBWelNtYVoteG55bEdKbF9TenNxel9IdXg2SUxzY3EzTWFzWFE5U2N3ZEtxYjE5LURKNWwzODJtdUhWeW5IcmUxd0NXXzJYaTlKMHliR2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYkpQdG9rdTlrWjVmTE05Q1dGR212MzdRdTBWelNtYVoteG55bEdKbF9TenNxel9IdXg2SUxzY3EzTWFzWFE5U2N3ZEtxYjE5LURKNWwzODJtdUhWeW5IcmUxd0NXXzJYaTlKMHliR29ZSXN4NVcwTmRzdDV5YzV5S0FZRFJxLWNDZG9sLWh5N0VFOXpJOTl2NkxyOHFBMVFWMldhYmFvYW5NeFRaUjZlSHowcU1FMnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-16-014",
+    "date": "2026-05-16",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AMJ Financial Wealth Management Buys Shares of 102,833 Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc2l4TTlJcmF3UXMtRFczbWc2SGpYeXZZdW8yR2VrM3h5ajVzTHB3LWJqWEhQOFVhSFFhYjBlT1pQRGdQMDJYbWtqVVR2UldsX01qWnZ3aC1FTjFQNWZodUNmNTZZVXg5SE5xWjZfYm",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc2l4TTlJcmF3UXMtRFczbWc2SGpYeXZZdW8yR2VrM3h5ajVzTHB3LWJqWEhQOFVhSFFhYjBlT1pQRGdQMDJYbWtqVVR2UldsX01qWnZ3aC1FTjFQNWZodUNmNTZZVXg5SE5xWjZfYmxPcTNCN1RJWmVRNHR6MGt6bkZZb1V6QkFhZ2o0R1RTU0dORnJWRmh5bkVhaFNfamdiTFVUMzlYNzJGR3p4cENZaWlxbHhaM1c1SXZzWHV0Ni1uTnV1alVteUlORVpCQjNHY2Z1SzVR?oc=5",
         "type": "rss"
       }
     ]
@@ -469,6 +775,24 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260515PD208/plant-everlight-profit-automotive-led-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-15-015",
+    "date": "2026-05-15",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Conning Inc. Has $31.93 Million Holdings in Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNWDNaUWtaMzMxb1dSMzZEYkJrcXFBSkU1QjViOHJNNEVWZTNBZmsxNWU1ZFdJRWdfdlN3V3J3c1FCcmNiR3RWemNaYXJwTk9mb3NOd2cycXVLbU5zY0c4UlZBS29jTTBzdGRFNjNZTU",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWDNaUWtaMzMxb1dSMzZEYkJrcXFBSkU1QjViOHJNNEVWZTNBZmsxNWU1ZFdJRWdfdlN3V3J3c1FCcmNiR3RWemNaYXJwTk9mb3NOd2cycXVLbU5zY0c4UlZBS29jTTBzdGRFNjNZTUJKSmVnUkprdnZtenNQdmJfcjFUcEthbTVyU1N1OTR1Wml0WFlPRFdvaXRXTHotdTg0Z0ZfakhvUGo5S0d4RVZsanlMdU9ZQWU3anNfTEdjbExaS2pZ?oc=5",
         "type": "rss"
       }
     ]
@@ -1032,6 +1356,60 @@
     ]
   },
   {
+    "id": "corning-2026-05-14-031",
+    "date": "2026-05-14",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Independent Advisor Alliance Has $4.41 Million Stock Position in Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRVpiZGJpTV9jUE9zZWJidUZiSThkVm52TWV2NmQ1NkRCN0dlaW5BMGJCeHZvMlRwT0dXTmFZMWVBQXJsa2ZPSXJkODFSeW9TYUJDTW5OOHRjRDNNSnc5alBCLVRVZVptMFNaTk9PeE",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRVpiZGJpTV9jUE9zZWJidUZiSThkVm52TWV2NmQ1NkRCN0dlaW5BMGJCeHZvMlRwT0dXTmFZMWVBQXJsa2ZPSXJkODFSeW9TYUJDTW5OOHRjRDNNSnc5alBCLVRVZVptMFNaTk9PeEI4SUlFSDIwbHd3RnVfbFNkbU5FTnBGQmNwTEZnejBzam1MamNsWUlRQnhqTGFJR1BJcmVlQWR0ZU1GdVg0WnZPd0xqb0lCZThXdmdOX0QxTTlfZzZlQW9famI4NnRSajd3dWIwcFdXb0tBT29jeEEzdGx3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-14-032",
+    "date": "2026-05-14",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Incorporated $GLW Shares Sold by Mesirow Financial Investment Management Inc. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUE9EU2d6YXN5eHhVVVRNWHNZbjlVejdDdEhnZ04xc1dOS2l4NDgyNkh4YTFGOWtBSm9ibG9udktYYUdjam5PTXExMEtqWFM1cG1kNzB4RU16Z0FGVnJNdzY2cEFfOEk4VmZjbHAzWD",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUE9EU2d6YXN5eHhVVVRNWHNZbjlVejdDdEhnZ04xc1dOS2l4NDgyNkh4YTFGOWtBSm9ibG9udktYYUdjam5PTXExMEtqWFM1cG1kNzB4RU16Z0FGVnJNdzY2cEFfOEk4VmZjbHAzWDFUQ3FDUGVBRVpCd3VWa3pQRGhOejhYRFBGelRzR0F3aGFCdXdvZ0c5OENyc19fUVhyd3lHUTFjS1lZbGtna0w4SFRUZnZjcWxlUERWeXB3aXk0MU5WQVFqNmVNaXhfdEQwcmpJZkNxUWpZS3dp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-05-14-033",
+    "date": "2026-05-14",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Unveils Raman Analyzer, Enabling Advanced Recycling through Black Plastic Identification - Carroll County Mirror-Democrat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFZjLXRvV0FhZ0E3OTM5bjhyYk1GREdmdFRFbzg1TENaOGcwUVhhN0tYSTZUbEJSMTRLUDBSanV2cUEzZXQyWUpEekczd3lvd3YzZ29Ha2hnTVZ5QVhQaEVKd0IwM3hGZ1BkbkdXOT",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFZjLXRvV0FhZ0E3OTM5bjhyYk1GREdmdFRFbzg1TENaOGcwUVhhN0tYSTZUbEJSMTRLUDBSanV2cUEzZXQyWUpEekczd3lvd3YzZ29Ha2hnTVZ5QVhQaEVKd0IwM3hGZ1BkbkdXOThCa2w1R2ZKWVpHWll1SmRwcjRvZ3NiME14NHJRbkoxVkhRd0VCc1FiN3hSZUd2eXh0MkRkVGVCRDJSRDZETjExdV9US3dVWjA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-05-13-001",
     "date": "2026-05-13",
     "companies": [
@@ -1557,6 +1935,42 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlNSaWhodkcwcFl3b29tbzJjb3RhZER0WFM4TFh1dWtFZkJ4QXFiWS1yeXBWTExaRHlwMGZzVnV2V1ZlQlRfSUV2R252MlFvaEM0aHpCeWg5WXFoWmhMejk0dFc2eDRyLUdFczJPcmVOMVZGSjUwcENvNVR4NktpWEZzUmtxT3FURDFETDR5WEhrRVVBUHZMYVJzYW1CZDc2ejk4TEh5ajZ0MlNQOHh4MnJiMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-13-029",
+    "date": "2026-05-13",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Community Bank N.A. Sells 25,864 Shares of Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNmlyTHRwd1FrejAyLWRvQ1RHbzBYNUdkVUg4Q3ZzZi1EWXp6OV9xRU16d1J0RnBBWWVXTllSZnY4NkJ2T3RCTmtpNGJXNkE2ampiRlh4ZmRRblA1TGptSTdMNGtDRlhvSzN1RE55NV",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNmlyTHRwd1FrejAyLWRvQ1RHbzBYNUdkVUg4Q3ZzZi1EWXp6OV9xRU16d1J0RnBBWWVXTllSZnY4NkJ2T3RCTmtpNGJXNkE2ampiRlh4ZmRRblA1TGptSTdMNGtDRlhvSzN1RE55NVotRWFxR3RMWDJiWXpvZHhfbGVxZnRpdXFMa0NrQVJDNHZQRzRudDg1NVcwaEtCcFZmUWQ4X1ZOOWlTU2Y4UG4xV2t4RjNGM1JmeENRTFVjOW9ZSDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-13-030",
+    "date": "2026-05-13",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Stonebridge Financial Group LLC MO Makes New $678,000 Investment in Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMEoxQlQ5Wll4bnhtNWk0aEsxM0QzcUhkVVA4WUZSdXJreUdVZTlTS285T0NqdVdMWnFDU1JpRllTbzlyajc1TE4wYlFmMFdkeEZjeGlISG01SzUyd0FYQnBWaVBHMjhYTkVZc1BYen",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMEoxQlQ5Wll4bnhtNWk0aEsxM0QzcUhkVVA4WUZSdXJreUdVZTlTS285T0NqdVdMWnFDU1JpRllTbzlyajc1TE4wYlFmMFdkeEZjeGlISG01SzUyd0FYQnBWaVBHMjhYTkVZc1BYenFHdUw4R29qZmlEQWkydnFGN1FaUzB0aklqLUZsR24tQmFBZ3BGS3ozNGNvTVE5cnltNXRYTkxRaGIwbTlkVG5yX3o3Q2JVbDkyZFM1TVdLV0RfcE55aUhZajNWVXU4VFYxUi1lNVlxaS1CRHJwZXdYNmI3SGgzUQ?oc=5",
         "type": "rss"
       }
     ]

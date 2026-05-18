@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 34,
+  "gate2_fail": 20,
+  "passed": 23,
+  "gate2_samples": [
+    "Corning (NYSE: GLW) SVP Fang Li exercises stock appreciation rights on 8,725 shares - Stock Titan",
+    "Corning Incorporated $GLW Shares Sold by Bailard Inc. - MarketBeat",
+    "Securian Asset Management Inc. Reduces Holdings in Corning Incorporated $GLW - MarketBeat",
+    "Canon Introduces C2PA—Compliant Authenticity Imaging System for News Organizations - Canon Global",
+    "Novatek Microelectronics stock (TW0003034005): Taiwan semiconductor supplier with display driver foc"
+  ]
+}
