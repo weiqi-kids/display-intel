@@ -1,0 +1,172 @@
+{
+  "date": "2026-05-19",
+  "date_range": {
+    "start": "2026-05-13",
+    "end": "2026-05-19"
+  },
+  "generated_at": "2026-05-19T11:02:50.464573Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lg_display-2026-05-15-007",
+      "date": "2026-05-15",
+      "title": "LG Display: Q1 Earnings Snapshot - KVUE",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 25,
+      "last_week": 40,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.1
+    },
+    "oled_penetration": {
+      "this_week": 12,
+      "last_week": 19,
+      "week_over_week_change": "-37%",
+      "sentiment_this_week": -0.0
+    },
+    "mini_led": {
+      "this_week": 8,
+      "last_week": 8,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.12
+    },
+    "it_panel_demand": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "automotive_display": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": -0.25
+    }
+  },
+  "company_7d_summary": {
+    "himax": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "samsung_elec": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "lg_elec": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 4
+    },
+    "canon": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "jdi": {
+      "event_count": 5,
+      "sentiment_avg": -0.4,
+      "rank": 2
+    },
+    "tcl": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "csot": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "boe": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 6
+    },
+    "corning": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "novatek": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "lg_display": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 120,
+        "last": 173,
+        "change_pct": -30.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-13",
+      "event_count": 30,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 33,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 15,
+      "sentiment_avg": -0.1
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 14,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 6,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 12,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 10,
+      "sentiment_avg": -0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-13 ~ 2026-05-19）共 120 則事件，重點為「LG Display: Q1 Earnings Snapshot - KVUE」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "JDI",
+        "reason": "本週情緒偏負面（-0.4），共 5 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "LGD",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Himax Technologies",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
