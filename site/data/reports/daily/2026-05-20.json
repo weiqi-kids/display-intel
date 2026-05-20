@@ -1,0 +1,244 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T10:51:15.628337Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "canon-2026-05-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Canon receives top-level Supplier Engagement Leader award from international non-profit organization CDP program - Canon Global",
+      "companies": [
+        "canon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CemI1Yl9FTFdpcUFEYjJNclZRbDZCSEtvTnhidXIzSVFBUVRJbDFrRnE1QTMzZEVfRVNoVlJIeWtxb1NHd0Rxcl85RDZLSFFmTkdoMU5EUDczMTA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "himax-2026-05-20-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Assessing Himax Technologies (HIMX) Valuation After Stronger Q2 Guidance And New Dividend Declaration - simplywall.st",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPX3JvM2NsSE1qUVBEdW1uTE45XzA1T1NId2x1ZVJITE14em15TllhcFI3cVNGdndlTGlnbUM0cEoyZnpkOW12VU51d2NNbTlWNWgxYmJQQUNUTXRlOG1leFloSVRoYTdNNDd0N3YwR21Id1A0ZUJWeEZUMmFDd25wb2dxNGdxRDJZS1V4TDFicUd3VFhGRUZhZUhxa2h1UmVuMkVmeDVQR2dINE1hYVZOOEx3TkYyYzI2cUhBUm9Jc2dnNXFjTi1aZ19DcElfVWI3cXRId1h0cjdNNHPSAeABQVVfeXFMTUFhZDBuTW9sVkl5T1BTdS1hb2hfSXdEaHdTVk90eHZyM0dNQVhBbFNEM1ZkYjJzZ0ZfVVl3dUp6bjBINUJCbzFaNlV5QWZyWG80aGxURDN6VENoOFZMWHRZOXRpcG1EMjJWTXU1bXNIRVJueUljcUZDNUVuRzl5aEJLSnpmNmhpUWd3STRmcDJZZzdWTFdvM19iU1dROEpBRWcxMTU3aHlHc3R4UG94VENtM0hNRkFJcnFUamEyaGZWbENYYWVnamc3MDJGNUdJUy1ILVFCalVMSE5Db0hYZjQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "corning-2026-05-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Handelsbanken Fonder AB Decreases Stock Holdings in Corning Incorporated $GLW - MarketBeat",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYnVOUWxraHY5bGIxNXVaN2tnZEE2eTVuY2RLWFNXWHVIcmxDU1pNYWZtcEZLRV95SzNpc25HMDhhSkgxVE9FVmtqQ0g5bUJRLVhZcjVXVUYtdzdlRVdoOUQydGR2bGJ6UDNVTGJJQjh3T1dIT2tMdWR6Z2dkdVpzSDNxaF9kT1NwcW4zQnB6UGlCcll6RnFXdUNIakZNVFhsQlJ1bWtFaG1RdjhBdS1jUjRVQ3pWMHZzV0x6R1JwRU5GTlVCbnhXcFFJT2dGVnQ0S2c4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "himax-2026-05-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax Technologies (HIMX) Climbs 6.6% on Strong Chip Demand - Insider Monkey",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automotive_display"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdHJka3N4TlpxcXVYWEhJSk5iN19GdFBJYkp3SWhlc19OWExKODYyTGR3dXJEMDRORENMbDFINjFuMGtRdlFHa3lzWnBBZV9ZeFFRRkljd2hCUGtkODJLbzdkdzhjRm1ISlBlSS1nMUNQVXZuc1hpNlhqcmJYM2stQ2hndExLM0V4NE9BVm9qeEtIU3NpUC1ySEZ2YjlvWXBQOGhUdXkxQXo1d9IBqgFBVV95cUxOdHJka3N4TlpxcXVYWEhJSk5iN19GdFBJYkp3SWhlc19OWExKODYyTGR3dXJEMDRORENMbDFINjFuMGtRdlFHa3lzWnBBZV9ZeFFRRkljd2hCUGtkODJLbzdkdzhjRm1ISlBlSS1nMUNQVXZuc1hpNlhqcmJYM2stQ2hndExLM0V4NE9BVm9qeEtIU3NpUC1ySEZ2YjlvWXBQOGhUdXkxQXo1dw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-05-20-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung and Google Give First Look at New Intelligent Eyewear",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/samsung-and-google-give-first-look-at-new-intelligent-eyewear"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "himax",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "canon",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 150,
+    "too_old": 152,
+    "gate1_blocked": 22,
+    "gate2_blocked": 22,
+    "passed": 14,
+    "pass_rate": "6.7%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Material Innovation in the Spotlight Featuring Xavier Lafosse, Corning Incorporated - Photonics Spec",
+      "Corning Incorporated Technical Analysis: Time To Buy GLW? - Corning (NYSE:GLW) - Benzinga",
+      "$150.7 million budget, 2.56 percent tax levy, 3 open board seats in Corning school district election",
+      "Mizuho Raises its Price Target on Corning (GLW) - Yahoo Finance",
+      "Corning Incorporated $GLW Shares Sold by Gabelli Funds LLC - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Himax Technologies、三星電子、康寧相關動態：「Canon receives top-level Supplier Engagement Leader award...」。主要關注主題為OLED 滲透率、法說會、車用面板，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Canon receives top-level Supplier Engagement Leader award from international ...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Assessing Himax Technologies (HIMX) Valuation After Stronger Q2 Guidance And ...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

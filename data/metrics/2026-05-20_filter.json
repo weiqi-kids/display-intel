@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 22,
+  "gate2_fail": 22,
+  "passed": 14,
+  "gate2_samples": [
+    "Material Innovation in the Spotlight Featuring Xavier Lafosse, Corning Incorporated - Photonics Spec",
+    "Corning Incorporated Technical Analysis: Time To Buy GLW? - Corning (NYSE:GLW) - Benzinga",
+    "$150.7 million budget, 2.56 percent tax levy, 3 open board seats in Corning school district election",
+    "Mizuho Raises its Price Target on Corning (GLW) - Yahoo Finance",
+    "Corning Incorporated $GLW Shares Sold by Gabelli Funds LLC - MarketBeat"
+  ]
+}
