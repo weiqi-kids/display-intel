@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T10:51:11.741254Z",
+  "updated_at": "2026-05-21T00:44:31.883908Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -63,13 +63,13 @@
       "name": "康寧",
       "ticker": "GLW",
       "currency": "USD",
-      "ar": 134000000,
-      "ar_prev": 330000000,
-      "ar_qoq": "-59%",
+      "ar": 2676000000,
+      "ar_prev": 2779000000,
+      "ar_qoq": "-4%",
       "inventory": 3279000000,
       "inv_prev": 3077000000,
       "inv_qoq": "+7%",
-      "alert": true,
+      "alert": false,
       "quarter_date": "2026-03-31"
     },
     {
@@ -119,9 +119,9 @@
       "name": "樂金顯示",
       "ticker": "034220.KS",
       "currency": "KRW",
-      "ar": 2776000000,
-      "ar_prev": 2790000000,
-      "ar_qoq": "-1%",
+      "ar": 2181682000000,
+      "ar_prev": 2359184000000,
+      "ar_qoq": "-8%",
       "inventory": 2786911000000,
       "inv_prev": 2545666000000,
       "inv_qoq": "+9%",
@@ -161,13 +161,13 @@
       "name": "三星電子",
       "ticker": "005930.KS",
       "currency": "KRW",
-      "ar": null,
+      "ar": 82285029000000,
       "ar_prev": 51127642000000,
-      "ar_qoq": "N/A",
-      "inventory": null,
+      "ar_qoq": "+61%",
+      "inventory": 58278373000000,
       "inv_prev": 52636828000000,
-      "inv_qoq": "N/A",
-      "alert": false,
+      "inv_qoq": "+11%",
+      "alert": true,
       "quarter_date": "2026-03-31"
     },
     {
