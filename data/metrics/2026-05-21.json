@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-21",
+  "total_events": 22,
+  "by_company": {
+    "corning": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "canon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "lg_display": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "boe": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tcl": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "sony": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "automotive_display": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "oled_penetration": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.19
+    },
+    "panel_price": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "mini_led": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 38,
+  "gate2_fail": 21,
+  "passed": 27,
+  "gate2_samples": [
+    "This Is Why Corning’s Stock Keeps Springing To The Upside (NYSE:GLW) - Seeking Alpha",
+    "Material Innovation in the Spotlight Featuring Xavier Lafosse, Corning Incorporated - Photonics Spec",
+    "$150.7 million budget, 2.56 percent tax levy, 3 open board seats in Corning school district election",
+    "ProShare Advisors LLC Buys 9,981 Shares of Corning Incorporated $GLW - MarketBeat",
+    "Corning Incorporated $GLW Shares Sold by Gabelli Funds LLC - MarketBeat"
+  ]
+}

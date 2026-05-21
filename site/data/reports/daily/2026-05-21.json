@@ -1,0 +1,268 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T11:23:21.095520Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-05-21-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Co Ltd stock (KR7034220004): earnings outlook and OLED focus after latest quarterly resul - AD HOC NEWS",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS0NjWmJoU1RKdkEzb1dPdE9QRWtDZkZoMklFdUxqRDF5RWNzUklJOXo3b2d2ZWxrbFdpTHVhM0pmQkRDZDV2MG9PQXRiSlA2YkJUdWtzcGx4MnBHOWoxcFBFWUZhd0Rab01wQTR1bHRXNXprQ1BZSFNNTTlXMWVNQlczRWxVek1JUFZuTmZ1bmduNkVOYTdvWS1XbmxxaFBTM2hpMHhMcFVmY0FBcGVfQ2V2N1NOa3JjR1EtQ1N5YkE1RFNQMVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-21-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "xFusion drives CNY58.2 billion revenue as China backs domestic AI supply chain",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260521VL224/huawei-xfusion-revenue-supply-chain-china.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-21-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Anthropic estimates show US$559 million operating profit on US$10.9 billion quarter",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260521VL219/anthropic-ai-operating-profit-revenue-growth.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-21-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Nvidia plans to sell Vera CPUs: Four deployment models explained",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260521VL220/nvidia-silicon-sales-expansion-processor.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-21-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nvidia targets long-term ACIE dominance as enterprise AI eclipses hyperscalers",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260521VL221/nvidia-industrial-data-center-market-revenue.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automotive_display": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 5
+      },
+      {
+        "id": "lg_elec",
+        "count": 3
+      },
+      {
+        "id": "tcl",
+        "count": 3
+      },
+      {
+        "id": "canon",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "oled_penetration",
+        "count": 5
+      },
+      {
+        "id": "mini_led",
+        "count": 4
+      },
+      {
+        "id": "automotive_display",
+        "count": 2
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 144,
+    "too_old": 150,
+    "gate1_blocked": 38,
+    "gate2_blocked": 21,
+    "passed": 27,
+    "pass_rate": "11.4%",
+    "gate2_block_rate": "8.9%",
+    "gate2_samples": [
+      "This Is Why Corning’s Stock Keeps Springing To The Upside (NYSE:GLW) - Seeking Alpha",
+      "Material Innovation in the Spotlight Featuring Xavier Lafosse, Corning Incorporated - Photonics Spec",
+      "$150.7 million budget, 2.56 percent tax levy, 3 open board seats in Corning school district election",
+      "ProShare Advisors LLC Buys 9,981 Shares of Corning Incorporated $GLW - MarketBeat",
+      "Corning Incorporated $GLW Shares Sold by Gabelli Funds LLC - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為康寧、LG電子、TCL Technology相關動態：「LG Display Co Ltd stock (KR7034220004): earnings outlook ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display Co Ltd stock (KR7034220004): earnings outlook and OLED focus after...（OLED 滲透率、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "xFusion drives CNY58.2 billion revenue as China backs domestic AI supply chain（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
