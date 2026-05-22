@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 36,
+  "gate2_fail": 24,
+  "passed": 19,
+  "gate2_samples": [
+    "HighTower Advisors LLC Sells 7,489 Shares of Corning Incorporated $GLW - MarketBeat",
+    "Wineglass 8K 2026 – Results, Corning NY - ski-nordique.net",
+    "Material Innovation in the Spotlight Featuring Xavier Lafosse, Corning Incorporated - Photonics Spec",
+    "Jim Cramer on Corning: “The Beatdown’s Not Enough to Entice Me to Buy” - Yahoo Finance",
+    "This Is Why Corning’s Stock Keeps Springing To The Upside (NYSE:GLW) - Seeking Alpha"
+  ]
+}

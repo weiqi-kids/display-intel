@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T10:50:45.230066Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-22-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NIO posts operating profit and strong revenue growth in Q1 of 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260522VL209/2026-revenue-growth-operating-profit-vehicle.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-22-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Emerging Display Technologies pivots to UMI, targets 2026 growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": -0.12
+      },
+      "source_url": "https://www.digitimes.com/news/a20260521PD211/edt-2026-growth-2025-revenue.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "corning-2026-05-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Csenge Advisory Group Purchases New Stake in Corning Incorporated $GLW - MarketBeat",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRlM3NjBjSzF3blFmZXNhMzUxVWJFQmFkTnZpNUpFZEJoRkRoZVVOQ0JuMFlmak1qdXg0SG9SWGlyRW5ueHhTYzRxbHhnUmhBNkJHT1lOT0t0bnF1OHdnZkdSUWZsdW1SczRoMWE5eGdjakM4X01fdFlYMUViRjhMVGh1bGdPVjFLVEVyN09GVkRrOUlwVVA5SkpwakZCcnYtTmdyYzNnR1V1c0dWRWluN0tWZHM1ZjVHU1dxWngzZVBHSEVwVDhkaERB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Memory shortage reaches smartphone OLED market as shipments fall 12% - digitimes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmxWa3NreHZSTkF6b0Qyeno2cUNXeW1rOFJYMXZVQ1lqdThEdEh0WXIydVRrVTVELTgzcTdUWjM4VU9oeTdVblVINXFfMERNMWcyOWhDbWZrSXdLYVNidFZsWjhjYW84SGVYdnMzM1ZZTzRsZU5UZmIxWHV5MTR4OThONGdFNGpDWWNKMHlUbEYzVC1lZGZqWXFXUXItbWdsU3dUdVlWOEN4X19wRk9feWFpQWF1Zmls?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-05-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung reaches commercial-level 90% yields at its A6 8.6-Gen line, on track to begin full scale production in June 2026",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.oled-info.com/samsung-reaches-commercial-level-90-yields-its-a6-86-gen-line-track-begin-full"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 147,
+    "too_old": 154,
+    "gate1_blocked": 36,
+    "gate2_blocked": 24,
+    "passed": 19,
+    "pass_rate": "8.2%",
+    "gate2_block_rate": "10.3%",
+    "gate2_samples": [
+      "HighTower Advisors LLC Sells 7,489 Shares of Corning Incorporated $GLW - MarketBeat",
+      "Wineglass 8K 2026 – Results, Corning NY - ski-nordique.net",
+      "Material Innovation in the Spotlight Featuring Xavier Lafosse, Corning Incorporated - Photonics Spec",
+      "Jim Cramer on Corning: “The Beatdown’s Not Enough to Entice Me to Buy” - Yahoo Finance",
+      "This Is Why Corning’s Stock Keeps Springing To The Upside (NYSE:GLW) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為康寧、三星電子相關動態：「NIO posts operating profit and strong revenue growth in Q...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "NIO posts operating profit and strong revenue growth in Q1 of 2026（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Emerging Display Technologies pivots to UMI, targets 2026 growth（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

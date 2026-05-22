@@ -1,5 +1,133 @@
 [
   {
+    "id": "corning-2026-05-22-001",
+    "date": "2026-05-22",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Csenge Advisory Group Purchases New Stake in Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNRlM3NjBjSzF3blFmZXNhMzUxVWJFQmFkTnZpNUpFZEJoRkRoZVVOQ0JuMFlmak1qdXg0SG9SWGlyRW5ueHhTYzRxbHhnUmhBNkJHT1lOT0t0bnF1OHdnZkdSUWZsdW1SczRoMWE5eG",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRlM3NjBjSzF3blFmZXNhMzUxVWJFQmFkTnZpNUpFZEJoRkRoZVVOQ0JuMFlmak1qdXg0SG9SWGlyRW5ueHhTYzRxbHhnUmhBNkJHT1lOT0t0bnF1OHdnZkdSUWZsdW1SczRoMWE5eGdjakM4X01fdFlYMUViRjhMVGh1bGdPVjFLVEVyN09GVkRrOUlwVVA5SkpwakZCcnYtTmdyYzNnR1V1c0dWRWluN0tWZHM1ZjVHU1dxWngzZVBHSEVwVDhkaERB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-002",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Memory shortage reaches smartphone OLED market as shipments fall 12% - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmxWa3NreHZSTkF6b0Qyeno2cUNXeW1rOFJYMXZVQ1lqdThEdEh0WXIydVRrVTVELTgzcTdUWjM4VU9oeTdVblVINXFfMERNMWcyOWhDbWZrSXdLYVNidFZsWjhjYW84SGVYdnMzM1",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmxWa3NreHZSTkF6b0Qyeno2cUNXeW1rOFJYMXZVQ1lqdThEdEh0WXIydVRrVTVELTgzcTdUWjM4VU9oeTdVblVINXFfMERNMWcyOWhDbWZrSXdLYVNidFZsWjhjYW84SGVYdnMzM1ZZTzRsZU5UZmIxWHV5MTR4OThONGdFNGpDWWNKMHlUbEYzVC1lZGZqWXFXUXItbWdsU3dUdVlWOEN4X19wRk9feWFpQWF1Zmls?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-22-003",
+    "date": "2026-05-22",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Samsung reaches commercial-level 90% yields at its A6 8.6-Gen line, on track to begin full scale production in June 2026",
+    "summary": "<p>According to the latest industry news, Samsung Display has managed to increase its A6 8.6-Gen IT OLED line yields to over 90%, with parts of the process achieving yields of over 95%. These are comm",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-reaches-commercial-level-90-yields-its-a6-86-gen-line-track-begin-full",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-004",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "EverDisplay appoints former Hua Hong executive as chairman in board overhaul",
+    "summary": "China AMOLED panel maker EverDisplay Optronics completed a board reshuffle and senior management overhaul after a board meeting on May 20, appointing a former Hua Hong Semiconductor executive as chair",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260522PD234/amoled-panel-chairman-market-technology.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-005",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "NIO posts operating profit and strong revenue growth in Q1 of 2026",
+    "summary": "Nio reported a return to operating profitability in the first quarter of 2026, marking its second consecutive profitable quarter as revenue and deliveries surged on stronger demand and an improved pro",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260522VL209/2026-revenue-growth-operating-profit-vehicle.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-006",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Emerging Display Technologies pivots to UMI, targets 2026 growth",
+    "summary": "Emerging Display Technologies is repositioning around integrated user-machine interface solutions, with plans to expand outside China and ramp up R&amp;D investment as it navigates forecast revenue an",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260521PD211/edt-2026-growth-2025-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-22-007",
+    "date": "2026-05-22",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "positive",
+    "title": "Forcelead Technology bets on stable 2026 as it expands into TDDI and new automotive displays",
+    "summary": "Forcelead Technology said it expects stable operations through 2026 as it rolls out a touch-TDDI product and pursues new automotive display opportunities, a development with implications for global su",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260522PD218/automotive-display-tddi-growth-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-05-21-001",
     "date": "2026-05-21",
     "companies": [
@@ -416,6 +544,195 @@
     ]
   },
   {
+    "id": "corning-2026-05-21-023",
+    "date": "2026-05-21",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Inc (GLW) Stock Price, Trades & News - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wQ2dweTFxXzd2OHNTZGFuMTE2Vm00QWwzNFNYZlFkbFpid25Od09SY3c5Vi1TM2RmdEdrNGRhQURsdVNaSGhmYXJ5ekxIODYxRXRWRGRB?oc=5\" target=\"_blank\">Corning Inc",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wQ2dweTFxXzd2OHNTZGFuMTE2Vm00QWwzNFNYZlFkbFpid25Od09SY3c5Vi1TM2RmdEdrNGRhQURsdVNaSGhmYXJ5ekxIODYxRXRWRGRB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-21-024",
+    "date": "2026-05-21",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Trajan Wealth LLC Lowers Stake in Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOci12VzFQOEw1aXpWdmQzb25zajBGOVY4a0xmTm8tV09tUDEzRWRXV243YVFvZGhnUXJPSkNjWGJZN2phSE4xNjZZTUJGRHlnZVJBZWNvclZjT3I2U3RlQnQ4LTh6Mk05N05fWHY1SX",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOci12VzFQOEw1aXpWdmQzb25zajBGOVY4a0xmTm8tV09tUDEzRWRXV243YVFvZGhnUXJPSkNjWGJZN2phSE4xNjZZTUJGRHlnZVJBZWNvclZjT3I2U3RlQnQ4LTh6Mk05N05fWHY1SXRwZ1lISkxxVkg0MnhDbGRCZXB1TGxHd3FjTFZ0TWNVZEVEWHhpaS04VWdEM25BX1lzeXhRNmtXMW5sTkZuVlMzUGFnazFKUjFnVFNz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-21-025",
+    "date": "2026-05-21",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Great Diamond Partners LLC Has $1.40 Million Stock Position in Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWnQtWldzR0RFT3d2emMtNjBBQWdnbW1JZ3plZFJjVlRTdFlSQ0lEWmxuSWQzZGJNekg4ZWlhdXhQUjEzaVc4NlJRX09kWVFaT2RXQVdMbjdpek1LZ2hmTmZRZ0J4T09odGw3TnVobX",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWnQtWldzR0RFT3d2emMtNjBBQWdnbW1JZ3plZFJjVlRTdFlSQ0lEWmxuSWQzZGJNekg4ZWlhdXhQUjEzaVc4NlJRX09kWVFaT2RXQVdMbjdpek1LZ2hmTmZRZ0J4T09odGw3TnVobXY4NVRsTGJXM0pNS1NrUGZsWnhiOU93c1ZvaGFVT05CYkQtbDJHOF8tQ3FwSFhkeUx0RFBzV0IxRXFfRUcwVHpNbEtLS1lPNHhNU1NsNnZZZFdiOW5jbE54TDRVMGJJU1VLOXRHZ0FRblBENzNRUEJF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-21-026",
+    "date": "2026-05-21",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A Look at Himax Technologies Inc (HIMX) After 6.2% Gain -- GF Value $7.13 vs Price $19.89 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTXBBdTRaYmdsZVBQSGxLWkh0clRzMTBUS25helpYdzV1UFU3WVBHUU1FZmdrU1oxNGhLSVVmZ28xX3JKZjdJampCU18tN25yT2w5bHFRVGFJeTJVemF2QVdVYW5nVmNUZzYtUHdxam",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTXBBdTRaYmdsZVBQSGxLWkh0clRzMTBUS25helpYdzV1UFU3WVBHUU1FZmdrU1oxNGhLSVVmZ28xX3JKZjdJampCU18tN25yT2w5bHFRVGFJeTJVemF2QVdVYW5nVmNUZzYtUHdxamZKbFpxMi1BRTVhUW1xWVpoOXlMaV95QmZSVkJTQ05FZ2Uya0RCS29CWWdlMnZxMU5panRLT29qdU9PTUtOT0RQekFnQm1jLXR0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-05-21-027",
+    "date": "2026-05-21",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why LG Display’s Stock Is Suddenly Taking Off - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUDlsdVV2Tk1sRHNvVUF0NnRhanNXNzlOZ2VDLUZ1eDBNb0JWdDNyZDE5ZHd0cVJKQl9OTzE0T3VKUWVXa0EtQTlvZjN4czMzYjBJVGVnOHpualZ6V1U5a0VkMnp0eTV2Uk5teHk0Q3",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUDlsdVV2Tk1sRHNvVUF0NnRhanNXNzlOZ2VDLUZ1eDBNb0JWdDNyZDE5ZHd0cVJKQl9OTzE0T3VKUWVXa0EtQTlvZjN4czMzYjBJVGVnOHpualZ6V1U5a0VkMnp0eTV2Uk5teHk0Q3NlWE1UUk5nTzVYenl5bEpDUW5Zbm1tbVZfeTJv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-21-028",
+    "date": "2026-05-21",
+    "companies": [
+      "corning",
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Says MoU With Corning Only Represents Cooperation Intentions - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeGkwSktPUGVMelYwUVc5aGNQMENrNGN3SW8teUdOWGdVTy1mNDUzNFdfUkMzaXZKem1TalozYWJWOGFTcDc2VmRRalZKbGs2NTUtQmlndXFkNUVSTWpXczIteXRnblBxLUxIYTktSE",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeGkwSktPUGVMelYwUVc5aGNQMENrNGN3SW8teUdOWGdVTy1mNDUzNFdfUkMzaXZKem1TalozYWJWOGFTcDc2VmRRalZKbGs2NTUtQmlndXFkNUVSTWpXczIteXRnblBxLUxIYTktSE1jZnN2RDBqTzM5dEJOc2Zid2dUUm8wUVZSMThHOFU5LWtwTmlJMVN5STl2aGdNWk9aQm95enA4X0NCMWh3V1V4Z19Tck5SM1B6UTVzMXg1TWRxZl9LQkdEemxkdnNnbjV5UmFVdDRkYXFaNTdSbXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-05-21-029",
+    "date": "2026-05-21",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BOE Technology Group stock (CNE1000016L5): display maker in focus after latest quarterly results - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPMUdNeUJob0JQelVuYjlwSHFHLWVYQ3Y3QnlJNklmWko3eGRTWXZuWGdiWDZGelRUZEIzTU43cWl5RFZZdWVBZElJUGVOdldBOUJYUGE0UE5TbVlxNTdUNmVXNHhyb2lqNk1peHhiaE",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMUdNeUJob0JQelVuYjlwSHFHLWVYQ3Y3QnlJNklmWko3eGRTWXZuWGdiWDZGelRUZEIzTU43cWl5RFZZdWVBZElJUGVOdldBOUJYUGE0UE5TbVlxNTdUNmVXNHhyb2lqNk1peHhiaERQWXhOWG1JdjN2ZU5BYTBOUW1oT3RodUMzLTM3YmpRMUVnX1FCNWNfaV9Ta1JTLTk1NHZyVnpkOE51M3JaQ3NQd2t3NU9Fb3A1UnNBUm5KUHR3ZlYtTGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-05-21-030",
+    "date": "2026-05-21",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BOE: No cooperation with NVIDIA; businesses such as glass substrates will not have a material impact on earnings in the next 2–3 years. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQak9kYnJIMm43bjRpbGREOUROc2ZVc0ZkNVI4X3czTFo1Q1hKaE9VZmR4aGpPMEt5UmRSdFgtR2pzUm1jVUE0MG9SeWwydERiVTBDMWh6Y3RiZmRaamN6OTloa2pyWXBhLVgyZmN5bE",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQak9kYnJIMm43bjRpbGREOUROc2ZVc0ZkNVI4X3czTFo1Q1hKaE9VZmR4aGpPMEt5UmRSdFgtR2pzUm1jVUE0MG9SeWwydERiVTBDMWh6Y3RiZmRaamN6OTloa2pyWXBhLVgyZmN5bEUzT1BvWUtWakNUOEFGRnVzT2dOYUZfQkd6cWNodXZpWW0tamV2RjdnVUp2LWdyLTlpUDVEcGRGRG1qeDIwclhFR0NZX254b2VLOGtpMXlhanh1R3BmUDFtdDRpbF9pMkxjWXRwMjlUcC1Edw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-05-21-031",
+    "date": "2026-05-21",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Dragon & Tiger List | Speculative capital goes all-in! Yunneng Holding is heavily bought, while Siming South Road pours RMB 158 million into BOE Technology - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1FCQWRjajBSWnY4Mlk4V1N0X0IwSFlKWnlBWEJkT3Y1S0FfNXMzTnNjRzl2eU9iX1B6R2RFYWx4aVJzUDJUWEkwTG55dERGTVp4VXJUSGpqN3U2TWVDTFA1aFFQX3ZkVHpUZVVCOC",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1FCQWRjajBSWnY4Mlk4V1N0X0IwSFlKWnlBWEJkT3Y1S0FfNXMzTnNjRzl2eU9iX1B6R2RFYWx4aVJzUDJUWEkwTG55dERGTVp4VXJUSGpqN3U2TWVDTFA1aFFQX3ZkVHpUZVVCOC1rQUdrUEUxd282bWtTczA0bktlZWxjLUliYXN5TFk1LXg0Yk81NkpTQm5XZWV6NF82MXRZLVNMWllWQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-21-032",
+    "date": "2026-05-21",
+    "companies": [
+      "corning",
+      "boe"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Limit-up order volume exceeded RMB 10 billion at its peak! BOE A signed agreement with Corning, stirring up the AI packaging supply chain. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQb2JKdHUxaU9NcVVxVnZwamVKOVY2Tkx3ODJldTVEeHZxRHRPdUxTVzRYUk1GdW5GWi1JdXkyUTNYNEN2U3NZVGd5U0Vtem40MFhGTm9UdWVLUXNOdTRDZ3JPLUZCZF9nZ3R3dUw1ak",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb2JKdHUxaU9NcVVxVnZwamVKOVY2Tkx3ODJldTVEeHZxRHRPdUxTVzRYUk1GdW5GWi1JdXkyUTNYNEN2U3NZVGd5U0Vtem40MFhGTm9UdWVLUXNOdTRDZ3JPLUZCZF9nZ3R3dUw1akV4eUZvMzJmeFpuNjF2TVZ2aWhoYlpReVgzTjZFazRHUDY1UlNYWDBXUElGejQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-05-20-001",
     "date": "2026-05-20",
     "companies": [
@@ -664,6 +981,42 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOR25wTE9qLWM0MDAtRmVNcWlpT2lkWDU5ZTczSmdjRGdBTTctak91NUtVZm1aUy1oUmN2T2pXd1VXUFgtX0FtT1FLQmVhNXhvS2NsYjNkbm9oQUpueVNXZGJGZ2dDdVFZdkJmaWpvSjh3R0dBajBIRVpNbEVsZFRsR0s2dlRzS1k5dGU3dC1GTHhfMUZ5NHMyVkpQV0h3bmdYeE5xbERPSnU2VDVrOThwQ29ha3N3WGN5akZ4b3ljMS1MNW5lSEcxVTIweUp4ZG96c0ZCX0Nfc2dJSnY5NWtFcWZQX2Y4LVEyUm1IbWx3dUlNdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-20-014",
+    "date": "2026-05-20",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Can Rising Demand for Fiber Optics Solutions Drive Corning's Growth? - qz.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQTDVVM21MeEJUMTNObHFEM0p0Q3NvTUxPMEpzX3EtNENZUVJ0WGVMeTBvMklOdmQ3MmdSNEtIYkdZMDBvSl9Qc1BVREZNalB2X1YyR2YyZk9KU0plaDlUMDFNdG1VWjVCQktEUnJjZD",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTDVVM21MeEJUMTNObHFEM0p0Q3NvTUxPMEpzX3EtNENZUVJ0WGVMeTBvMklOdmQ3MmdSNEtIYkdZMDBvSl9Qc1BVREZNalB2X1YyR2YyZk9KU0plaDlUMDFNdG1VWjVCQktEUnJjZDY2cEMzSTItbEpkSDJLQVJjOE5CeWtnM2g2UFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-20-015",
+    "date": "2026-05-20",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies Inc (HIMX) Stock Up 6.5% but GF Value Says Ov - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwJBVV95cUxOSFNQa2VHTmthRkZFR0JZME1kY2RycjhfNXBicU5UaWxVQUJvQm1ZanhpOFVOX3JEOGl3bUtJVkp0YXBBVDJLQ2dDNW1OQ3lnaHpXZ0E3MU5mWGVzcWtPV2FBVC1vYUlGSDhZS3lEMl",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOSFNQa2VHTmthRkZFR0JZME1kY2RycjhfNXBicU5UaWxVQUJvQm1ZanhpOFVOX3JEOGl3bUtJVkp0YXBBVDJLQ2dDNW1OQ3lnaHpXZ0E3MU5mWGVzcWtPV2FBVC1vYUlGSDhZS3lEMlRaUG1OVVpnZGMyNjIyRGwyWFM5a0lPQmc5dFZ4eVZ3eldQRmxlRGZfdUlqVFltbnFVdVRkU3k4U3diNFpzN0FJcV9RX0dOUkF1eTV0a3d4TjM5YjhfWk1fR1VXTnpJa3R0QUs0aFhZc1RJOEt1bXZVbTAwd04yVmlYU09nWkNDZ3ViOERYMkhsNUVBUm5pMV8zbHNDdkxKNG9lbk1xYTBGVUhGbEJ3NkpKeVZ2LXFZTFdTMmp1bXVqUWxkZnZKZl83Z0F5T2lVWDFLMkotbFYw?oc=5",
         "type": "rss"
       }
     ]
