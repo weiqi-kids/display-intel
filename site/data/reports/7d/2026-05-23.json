@@ -1,0 +1,174 @@
+{
+  "date": "2026-05-23",
+  "date_range": {
+    "start": "2026-05-17",
+    "end": "2026-05-23"
+  },
+  "generated_at": "2026-05-23T09:52:34.185458Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lg_elec-2026-05-19-012",
+      "date": "2026-05-19",
+      "title": "LG Display Co Ltd stock (KR7034220004): earnings outlook and US investor angle - AD HOC NEWS",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "boe",
+      "company_b": "corning",
+      "co_mention_count": 5,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automotive_display": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": 0.1
+    },
+    "earnings": {
+      "this_week": 18,
+      "last_week": 35,
+      "week_over_week_change": "-49%",
+      "sentiment_this_week": 0.06
+    },
+    "mini_led": {
+      "this_week": 9,
+      "last_week": 8,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": 0.11
+    },
+    "oled_penetration": {
+      "this_week": 12,
+      "last_week": 19,
+      "week_over_week_change": "-37%",
+      "sentiment_this_week": 0.08
+    },
+    "panel_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "samsung_elec": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 2
+    },
+    "corning": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "novatek": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "tcl": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "canon": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "himax": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "boe": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    },
+    "lg_elec": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "lg_display": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "sony": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 97,
+        "last": 143,
+        "change_pct": -32.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-17",
+      "event_count": 6,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 13,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 15,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 16,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 32,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-05-22",
+      "event_count": 12,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-05-23",
+      "event_count": 3,
+      "sentiment_avg": -0.17
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-17 ~ 2026-05-23）共 97 則事件，重點為「LG Display Co Ltd stock (KR7034220004): earning...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "三星電子",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "康寧",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "TCL Technology",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

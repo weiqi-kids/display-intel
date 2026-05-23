@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-23",
+  "total_events": 3,
+  "by_company": {
+    "himax": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tcl": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "mini_led": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

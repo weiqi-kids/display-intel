@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 41,
+  "gate2_fail": 21,
+  "passed": 9,
+  "gate2_samples": [
+    "Robust Results Boosted Corning’s (GLW) Performance in Q1 - Yahoo Finance",
+    "Material Innovation in the Spotlight Featuring Xavier Lafosse, Corning Incorporated - Photonics Spec",
+    "Wineglass 8K 2026 – Results, Corning NY - ski-nordique.net",
+    "This Is Why Corning’s Stock Keeps Springing To The Upside (NYSE:GLW) - Seeking Alpha",
+    "HighTower Advisors LLC Sells 7,489 Shares of Corning Incorporated $GLW - MarketBeat"
+  ]
+}

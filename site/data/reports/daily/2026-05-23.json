@@ -1,0 +1,154 @@
+{
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T09:52:34.053954Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-23-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lenovo revenue rises 27% as AI demand helps offset PC market strain",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260522PD238/lenovo-pc-revenue-market-demand.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "himax-2026-05-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Does Himax (HIMX) Pairing Automotive Wins With a Dividend Reveal a New Capital Strategy? - Yahoo Finance",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNHB3ZHM0Q3QzSl9GRlRkMjVxOENzaWNsR0Y3el8zYjM3ZVpTWk9MalE0X1J6YjVVN0dSTXJCWmZWaTlSMWFuOS05cGhFLXcyY2RJeDZ2SFhURVl1U0hHZllESlNrSTVoOEIwZjdWMlYzZklBUVBQR0VIdU53dlR6akFBd0NCU2VlamZfYjRQSEQtTjRzb043cng3MnZEanNO?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tcl-2026-05-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TCL Introduces Phase 1 Premium Television Range in India with Advanced QLED and Mini LED - Devdiscourse",
+      "companies": [
+        "tcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWW96OE5MVWRGcFFwVXR6T0NzQWVYdExVd3dwQkJ3cmhTNFdGZ2dsV2dON1FaMU9HYzVlZkt4T0RzYjJPRW44Sm84aGxlWDRYcjR1M0tPM21NMHlMbTMxS1EwSjAwWW5rZ3BiN3RDQmI3bTg1Tm91UThCTUhfdjVnU3dQbVNUTVU5ZHB0X05IUElIYUJqdlVCR3hnUE8wM0NsNE94aUJvRUpBUXA2ajVvbTFOaHI1TG1ndG9yTy1sWDJNMW1OM1RPQ3NIZWptdkFrTEp0dFhOYzV2NVJ20gHiAUFVX3lxTE95bGtOMkd0RnlqczVrWDhhQnpsd2F4WXQxVTdmOUpZMmZLT3lDN3JNT2oydXdfV1d2TFZrU1JlN1RUM1BVWFE5aHVkdzVnaGN3VzA1ZVVWTWJqa1BoY2tPa2c1eUdEOGpqcEdWNEJoLWl3VkREa1IxV3g1QlpDdnp0c3dvQmx6dW44TFlpeVJKN0o2dG9kTjE2WER4dTdGWVg3ZjlwMWZBdF83SVo4elVNbFM4cjNxb0t6VktkQUdkbVN2WlV0ZXpZMHpUa1BVS3pqZmNQcEItSGstRVhySlpOb0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 149,
+    "too_old": 160,
+    "gate1_blocked": 41,
+    "gate2_blocked": 21,
+    "passed": 9,
+    "pass_rate": "3.9%",
+    "gate2_block_rate": "9.1%",
+    "gate2_samples": [
+      "Robust Results Boosted Corning’s (GLW) Performance in Q1 - Yahoo Finance",
+      "Material Innovation in the Spotlight Featuring Xavier Lafosse, Corning Incorporated - Photonics Spec",
+      "Wineglass 8K 2026 – Results, Corning NY - ski-nordique.net",
+      "This Is Why Corning’s Stock Keeps Springing To The Upside (NYSE:GLW) - Seeking Alpha",
+      "HighTower Advisors LLC Sells 7,489 Shares of Corning Incorporated $GLW - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Himax Technologies、TCL Technology相關動態：「Lenovo revenue rises 27% as AI demand helps offset PC mar...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Lenovo revenue rises 27% as AI demand helps offset PC market strain（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Does Himax (HIMX) Pairing Automotive Wins With a Dividend Reveal a New Capita...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
