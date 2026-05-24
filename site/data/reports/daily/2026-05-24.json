@@ -1,0 +1,87 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T09:55:10.412113Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sunul Expands Precision Display Portfolio with Mini LED and Stretched LCD Solutions for Smart Retail - mykxlg.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOSjUtNGEwdVNVLTJxaVhPMEtaWVgwQXhvUE50S0RUSUVabHhsWjd6Rm5JTTFiVHpnakd5eUFzSzgwcVdCdDJJemZmMmhCaUJNWHlGSXZSZ0RxX2NIbHZ2X0k2Q2I1RDQ0Tk9jY1FZTmVmOURuOWhPd3RORjA1Q3R3VEsta0FwVmgxNVF1aGI4bVBfQnp4YzZYWTBjcVFfNVpIQjYtTVI0NFhNQjBCX3lJVVpYU0lkNlJlMFBhYTdwMkoyTXU2amMwSUF1NTJGbjFkY0R3c3IwVm45WmdrNEZwZ0RPUVpvVGNVZUotejJVUGZkNkNkdVI0eW9lNFA1ZDFrdmtmZ3BpZ082THhlcFhwR3dsLWxsNHl5UWZEOS10b1l0c0REWG5OTm1SVng?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 146,
+    "too_old": 162,
+    "gate1_blocked": 42,
+    "gate2_blocked": 25,
+    "passed": 5,
+    "pass_rate": "2.1%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "HighTower Advisors LLC Sells 7,489 Shares of Corning Incorporated $GLW - MarketBeat",
+      "Wineglass 8K 2026 – Results, Corning NY - ski-nordique.net",
+      "Robust Results Boosted Corning’s (GLW) Performance in Q1 - Yahoo Finance",
+      "Material Innovation in the Spotlight Featuring Xavier Lafosse, Corning Incorporated - Photonics Spec",
+      "This Is Why Corning’s Stock Keeps Springing To The Upside (NYSE:GLW) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Mini LED相關動態：「Sunul Expands Precision Display Portfolio with Mini LED a...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Sunul Expands Precision Display Portfolio with Mini LED and Stretched LCD Sol...（Mini LED）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
