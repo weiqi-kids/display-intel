@@ -1,5 +1,136 @@
 [
   {
+    "id": "samsung_elec-2026-05-25-001",
+    "date": "2026-05-25",
+    "companies": [
+      "samsung_elec",
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "BOE seeks Galaxy S27 OLED panel order by undercutting Samsung Display by US$5 - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOUUVNbDAzSmR1djZkOXNmUk5WWHZESFRHNzNGQUlhVFIxamJ3SjhhbTFRT212X0hfVnNQcFFEd3RTY0xzUzFxZHE0RjdDUXdkWkFpMXJKMW1PZTRTZ2x3N2xGdTBtc21DR2NidDFWb2",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUUVNbDAzSmR1djZkOXNmUk5WWHZESFRHNzNGQUlhVFIxamJ3SjhhbTFRT212X0hfVnNQcFFEd3RTY0xzUzFxZHE0RjdDUXdkWkFpMXJKMW1PZTRTZ2x3N2xGdTBtc21DR2NidDFWb2VSdVJnSENnbDJxWlppVGJfOWd1MTBtX29hYk4zTVdnRko?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-25-002",
+    "date": "2026-05-25",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Simulating blue PHOLED devices, by SCM",
+    "summary": "<p>In this lecture Bart Klumpers from SCM explores the company’s OLED simulation capabilities, including how blue PHOLED devices can be modeled.</p><p>Bart explains how software simulations serve as p",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/videos/simulating-blue-pholed-devices-scm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-25-003",
+    "date": "2026-05-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiwan, China wafer foundry industry, 2Q 2026: Cross-strait revenues to surge over 25%",
+    "summary": "Taiwan and China's wafer foundry industry off-season was not slow, and the price hike effect will drive up cross-strait industry revenues in the second quarter of 2026 and full-year 2026.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260522RS400/2026-wafer-taiwan-demand-revenue.html?chid=2",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-25-004",
+    "date": "2026-05-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Zeng Hsing boosts robotics and smart manufacturing push to underpin midterm growth",
+    "summary": "Zeng Hsing Industrial held its annual general meeting on May 25. It approved the 2025 business report and financial statements, the earnings distribution plan, amendments to the articles of incorporat",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260525PD233/smart-manufacturing-growth-robotics-2025-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-25-005",
+    "date": "2026-05-25",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Nvidia's Vera CPU push lifts LPDDR outlook for Samsung, SK Hynix",
+    "summary": "Nvidia's decision to sell its Vera CPU as a standalone chip could create a new source of demand for low-power DRAM, adding another pressure point to the already tight memory supply chain.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260525VL208/nvidia-cpu-samsung-sk-hynix-outlook.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-25-006",
+    "date": "2026-05-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AI servers drive order growth; Weltrend's fan motor driver IC visibility strong",
+    "summary": "At its earnings conference, Weltrend Semiconductor described the first quarter of 2026 as an exceptional one. Despite the period being historically slow, the company posted year-over-year and sequenti",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260525PD212/growth-earnings-weltrend-2026-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-25-007",
+    "date": "2026-05-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Geopolitics and AI push US energy storage to record-breaking quarter",
+    "summary": "The US energy storage industry achieved its most successful first quarter of 2026 to date, driven by surging AI computing demands and growing concerns over fossil fuel reliability. According to the US",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260525VL206/capacity-2026-fuel.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-05-24-001",
     "date": "2026-05-24",
     "companies": [],
@@ -13,6 +144,60 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOSjUtNGEwdVNVLTJxaVhPMEtaWVgwQXhvUE50S0RUSUVabHhsWjd6Rm5JTTFiVHpnakd5eUFzSzgwcVdCdDJJemZmMmhCaUJNWHlGSXZSZ0RxX2NIbHZ2X0k2Q2I1RDQ0Tk9jY1FZTmVmOURuOWhPd3RORjA1Q3R3VEsta0FwVmgxNVF1aGI4bVBfQnp4YzZYWTBjcVFfNVpIQjYtTVI0NFhNQjBCX3lJVVpYU0lkNlJlMFBhYTdwMkoyTXU2amMwSUF1NTJGbjFkY0R3c3IwVm45WmdrNEZwZ0RPUVpvVGNVZUotejJVUGZkNkNkdVI0eW9lNFA1ZDFrdmtmZ3BpZ082THhlcFhwR3dsLWxsNHl5UWZEOS10b1l0c0REWG5OTm1SVng?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-05-24-002",
+    "date": "2026-05-24",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Japan Display (TSE:6740) Valuation Check As Losses Deepen And Demand For Displays Softens - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFRJbklSSTZSVjdRMFdQay0zVXBvbUJHTEctYXlBbnlfTHh2N0I0a1FOcFdYemtBRlNRc09KM3Rkc084VnVCY1RONndUSDJKcWdkaDJIM0RuX0I3M2ExZFA5STltQ0x5d1N0eFFfbi",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFRJbklSSTZSVjdRMFdQay0zVXBvbUJHTEctYXlBbnlfTHh2N0I0a1FOcFdYemtBRlNRc09KM3Rkc084VnVCY1RONndUSDJKcWdkaDJIM0RuX0I3M2ExZFA5STltQ0x5d1N0eFFfbi1udVdVd0dBY0Z3Sk1VQWh3RXNQbC1tMDVMU2xWeG53UV9CUlpfVHpOcWptZ2U2cm1YNnZ0WThPRmd4X0FkTmtWSFZBckVOdVk1bmZLWkdrb1Njb3NTczNPODNhOVLSAdIBQVVfeXFMTm51VmxaQjRJXzJBY05UbkV5anZ3Qml4azBNUEFkbTZuYUI4a0JaUTAwUm9NeDV2eE5WWUZKejI1ZUxEZTVrbnJoWEh1ZmlNVnp4bU5NdEtnR1E1V1RvWW1rN1ZrdFV1dU9zY3NMZ2ZrNXFzZkFUOWpGdjVadUhQTW9ETVdsSTc3empnTGdmNUJoaUpSenZEdXh0NnpPVk1tLVJzbWhaMng1OXE4Q2VDTlBFaE1zUGNXSlN2ekFDM1o1S29pU2Z5ek5lQ25MUVpiU2VB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-24-003",
+    "date": "2026-05-24",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "O-Vision (Aoshi) Technology raises its Series-B funding round as it plans to scale up its photolithography-based OLED microdisplay production",
+    "summary": "<p><a href=\"https://www.oled-info.com/aoshi-technology-o-vision-technology\">Guangzhou O-vision (Aoshi) Technology</a> has successfully concluded its Series-B funding round, raising over 100 million RM",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/o-vision-aoshi-technology-raises-its-series-b-funding-round-it-plans-scale-its",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-24-004",
+    "date": "2026-05-24",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "Sunul Expands Precision Display Portfolio with Mini LED and Stretched LCD Solutions for Smart Retail - InsideNoVa.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgJBVV95cUxQVnZncmVVVnZxSFJXaFdyRTgyVVM2a3NQSmg4WmF2QV9CM19OMjFlTnZDQWJndVBjd1dzR1hVakJBZ3F0TmY4dndCNWR6MUNYYndFTHNhSDhaaFBLSHo1M21lMlVyNTVVZjVTcUdLbi",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQVnZncmVVVnZxSFJXaFdyRTgyVVM2a3NQSmg4WmF2QV9CM19OMjFlTnZDQWJndVBjd1dzR1hVakJBZ3F0TmY4dndCNWR6MUNYYndFTHNhSDhaaFBLSHo1M21lMlVyNTVVZjVTcUdLbi1UWkZRRHNZbW9SWHFxMnZMalhhemwtTldmczY2UnY0YU1ndzlTRzJsbC1WUlYtcTdjZWtuLU5fd2xtWTBSbW95d24wWFp6cjVTNWhfTWloUE9qanhhWkdWVWFOX3RiYnRzdmdBRDFad20xUFhVS1NxX0lvRVdsRmc0UWJrdlFwZzNoWFYwZ213cDdSSG5nZDVqaVFJR0g0S09Qcm9pcDBjQUdhTkcyMmVHLV9xdmZJTGIwTlltd2dMQnhXek1ldnU2cFE?oc=5",
         "type": "rss"
       }
     ]
@@ -1272,6 +1457,29 @@
       {
         "name": "himax",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTklZZGVlMGZ1SkExUm5uQzhvcFV5VHk1ZzdJVGhoZjY4NFpnRDU1emNPeHpSalpCU2oyeTlXcE43WXJzZFM2UnpJVGNWU2lxT0lyeHBVZmkxVktsLXlUNkdFdGV5SkVLcTJZTjRieFpGMzdzTmxIQTk5SkNtMENLa0d4ZmZXWmZ2SUxiVjVNeEMzU19SQTEtOXg3N2lrdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-05-20-017",
+    "date": "2026-05-20",
+    "companies": [
+      "lg_elec",
+      "lg_display",
+      "samsung_elec"
+    ],
+    "topics": [
+      "panel_price",
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Display Dynamics – May 2026: LG Display and Samsung Display show new tandem OLED TV displays at SID Display Week 2026 - Omdia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVHBjRGhiOXA4Q2FIQ1BlM2plNWFwVk9jSFJPRm1ETU5kM0lrUms0TFdNUTVlQ3NNRlNfWW43RVNWTk1BdGlCVE1uMWIySGlkZnVXYXhaRzdwU08tRVB2MmhMWGQtaFVhR09ZcUptMG",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVHBjRGhiOXA4Q2FIQ1BlM2plNWFwVk9jSFJPRm1ETU5kM0lrUms0TFdNUTVlQ3NNRlNfWW43RVNWTk1BdGlCVE1uMWIySGlkZnVXYXhaRzdwU08tRVB2MmhMWGQtaFVhR09ZcUptMGNGVlgxejhQMEpVN094LTVVamRrMkNSSVNfYjVQZkZILTE2czhiSmhmOVl4cl9BdFRKU2ZFRFc3OXFtR1dlNzNETm1OelZybHVvMjlUaVQ4anF6Ulh5Ql81V3A3UHVocVI0Mkk3UkEyY3FDemc5SXRtTkVvczBWNVJQLUVJ?oc=5",
         "type": "rss"
       }
     ]

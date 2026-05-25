@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-25",
+  "total_events": 7,
+  "by_company": {
+    "samsung_elec": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "boe": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.37
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
