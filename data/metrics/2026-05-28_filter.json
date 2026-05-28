@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 45,
+  "gate2_fail": 24,
+  "passed": 28,
+  "gate2_samples": [
+    "Prospera Financial Services Inc Increases Stock Position in Corning Incorporated $GLW - InsuranceNew",
+    "Samsung Galaxy S25 Ultra Introduces Corning® Gorilla® Armor 2, the Industry’s First Anti-Reflective ",
+    "Corning (GLW) slips as investors digest fresh insider-sale filing after a sharp AI-driven rally - Qu",
+    "Corning’s SWOT analysis: optical stock faces growth targets amid supply challenges - Investing.com",
+    "Corning (NYSE: GLW) tech chief Amin exercises options and sells shares - Stock Titan"
+  ]
+}

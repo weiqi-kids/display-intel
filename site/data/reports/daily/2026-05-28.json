@@ -1,0 +1,306 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T11:39:42.527811Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-05-28-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display begins mass production of world's first 240Hz RGB Stripe OLED, expanding premium monitor market - PR Newswire",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdXBZTjhUYzI1TjVyUndpazZsMkxnaVk0Y0lRVGVjeDhhaXFlZ1dzdV83MVJKV0FTX0p5TXRCUDRZYi1NVzd3WXB4RDNERmdzMHZQOUtfNUpVelVaMFFqX0VRVFlKZGlRZHJMbXM1TDNEU0s5TmI5dnl6Wmx6MWhNbmcyNFJyZlN3UWQ0aG9uc3JfT1hSMncyUW1rVkVyOVd5bVd4cm91VzUyNW9UMWdIYmdhN281eXR1Sl9IQ2c4V1dSTmtseUNZVFk1YXdmUWFxVWo0cEdrWkptc3BSM3ZvNjBfM1YzLVVwQzJLTGF0YkhlUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-05-28-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Commercializes 240Hz RGB Stripe OLED - Businesskorea",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LVGU1czFRaHlDbnRVQTE5VHA1cWNSbGsyUElpU3NpZWp2S3BhUEUtY1pQRDN6cTlZN3g5ejVoVFBrQmpGWl8tMUR4VV9sUFhVeklZZVRld1owZnlLeTlCZ0lwckEyX2VfNXB0SzJGY08xRjBD?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-05-28-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display launches mass production of 240Hz RGB stripe OLED monitors - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lM0VmdlNOUDAta2cwdEZCVmtKR1FMQ0pLRU95QXRFMzRiclM2YktSLVhqODlUclE1SDFTaDZINVpPbkRJUUUteFlIM2dRNkE2cUk1R2N2LUNvejE2RVJlZFpmTnV4ZFFQSl9JVzRTSVFhS1N1WFVrYzZB0gGOAUFVX3lxTE51LXRNVTg5aVIzc3ZOM2ZZX1lzejZBRU0wZGJVNjVjM2pVWXlaMEZ6Q2dxdW5Uc3pvbU93YjBsRDBzVzlDT00yMUxmbnl3aWdQZVFCUzROcGhmRF9uakU2cWM4WndTVzJRSTJyamJSdGRRY3BzZjlSbnlQMW9IbjkwQkV2Tk5CN1hiNXM5a3c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_elec-2026-05-28-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display starts mass production of 240Hz RGB Stripe OLED panels - FoneArena.com",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDk4dDVHWFF6MHlpVHR6TENjcU44eWVuR2Z2c0p4bFlUM0JvRmltcWwteG5SOEMySnY2RFN0eGJrWHZLM3BWYnJYTGtTbHp1eEw2Y0x6TjkyTmJGaW5mVFBjTHdSbGdfalV4ZHllSkt6N0ZhbWJRcGpHeVRfb29HNUh2d2JlWW1t0gGOAUFVX3lxTFA2QVZtVkRqSi0zX0lqeVBMMmcybEV1OGQ3QTltRGhRU1BIRHJhdnFuZmxDLWxDS1NSSF9fWmNNdWhrRHJFMnVaSHlXV2hCS2Z0M1NPMVZ3OG04LTdTNVZIUnNOTEIxaVZyazVRMXhodHhVQV85eVhYNzZuM0lJTUpVM1E5QmlnX3JtSmZlaWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_elec-2026-05-28-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Begins World's First Mass Production of 240Hz RGB Stripe OLED - Seoul Economic Daily",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkctWC1fWXh2YThIWnB0bUdfRHdWMmhMQWZUSDhkbzdYYjhoRnRYaDNHbjBuWHFvMU16ckxFRXlrRjJDOHNmUVRnUzhEcF9ZS0RvT05oajV4Szl3djlGZkZNWS05c0tOU3VLMHg1WVNnVTU4X1E1Vy1DclEwbW5abWpyeUMyYXVGMFE4SFZXRW1fbnZsM3ZJdEVTZWpRLVdtQVlN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 7,
+      "topics": [
+        "it_panel_demand",
+        "panel_price",
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 5,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 7
+      },
+      {
+        "id": "lg_display",
+        "count": 7
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      },
+      {
+        "id": "sony",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 7
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 109,
+    "too_old": 174,
+    "gate1_blocked": 45,
+    "gate2_blocked": 24,
+    "passed": 28,
+    "pass_rate": "10.3%",
+    "gate2_block_rate": "8.9%",
+    "gate2_samples": [
+      "Prospera Financial Services Inc Increases Stock Position in Corning Incorporated $GLW - InsuranceNew",
+      "Samsung Galaxy S25 Ultra Introduces Corning® Gorilla® Armor 2, the Industry’s First Anti-Reflective ",
+      "Corning (GLW) slips as investors digest fresh insider-sale filing after a sharp AI-driven rally - Qu",
+      "Corning’s SWOT analysis: optical stock faces growth targets amid supply challenges - Investing.com",
+      "Corning (NYSE: GLW) tech chief Amin exercises options and sells shares - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為LG電子、LGD、三星電子相關動態：「LG Display begins mass production of world's first 240Hz ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LG Display begins mass production of world's first 240Hz RGB Stripe OLED, exp...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display Commercializes 240Hz RGB Stripe OLED - Businesskorea（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
