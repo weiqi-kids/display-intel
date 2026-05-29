@@ -1,5 +1,226 @@
 [
   {
+    "id": "lg_elec-2026-05-29-001",
+    "date": "2026-05-29",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG's New OLED Redefines Displays for Gamers and Professionals - BriefGlance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNdVU2T3BfSThyanNDQW40Z1p0bHh4YzZQOGFnREVkd1VMUWp5ZFpiLWhRdzNlZ2FRdGU3Wld3RGNGWmpTVGF0R2NtaDViaVRCeEFRUERFd29TZDE4bzVSYkx1ZExaVDM0UTRuTGRJNk",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdVU2T3BfSThyanNDQW40Z1p0bHh4YzZQOGFnREVkd1VMUWp5ZFpiLWhRdzNlZ2FRdGU3Wld3RGNGWmpTVGF0R2NtaDViaVRCeEFRUERFd29TZDE4bzVSYkx1ZExaVDM0UTRuTGRJNkhyMEpKMkZrRHRyUk92dlI2REhiMG5CY3Q2cEJLSHBQMTlIMEVxVW5tYQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-29-002",
+    "date": "2026-05-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung Electronics Begins Shipment of Industry-First HBM4E Samples",
+    "summary": "Samsung Electronics, a global leader in advanced memory technology, today announced that it has begun shipping the industry’s first 12-layer HBM4E samples to major global customers, further strengthen",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-electronics-begins-shipment-of-industry-first-hbm4e-samples",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-29-003",
+    "date": "2026-05-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "[Infographic] Exploring the 2026 Samsung Odyssey G8 & G7 Models at a Glance: From the Industry-First 6K to OLED",
+    "summary": "Samsung Electronics, a global leader in the gaming monitor market, has unveiled its new lineup of Odyssey gaming monitors for 2026, elevating the gaming experience to impressive new heights. This exci",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/infographic-exploring-the-2026-samsung-odyssey-g8-g7-models-at-a-glance-from-the-industry-first-6k-to-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-05-29-004",
+    "date": "2026-05-29",
+    "companies": [
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Electronics and LG Uplus Collaborate on ISAC Technology for 6G",
+    "summary": "Samsung Electronics and LG Uplus signed a memorandum of understanding (MOU) to jointly research Integrated Sensing and Communication (ISAC) technology at LG Science Park in Magok, Seoul, on May 27. Sa",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-electronics-and-lg-uplus-collaborate-on-isac-technology-for-6g",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-005",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Compal accelerates server push with Texas plant and aims for 40% non-PC revenue",
+    "summary": "Compal Electronics said it was scaling up its server business and expects server revenue to reach 8-10% of total sales in 2026 as AI server rack-scale systems ramp and a new Texas plant begins operati",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260529PD237/compal-ai-server-texas-plant-revenue-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-006",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "MediaTek weighs price hikes, reaffirms TSMC partnership",
+    "summary": "MediaTek held its shareholders' meeting on May 29. Addressing the company's future outlook, Chairman Ming-Kai Tsai said that while the mobile phone market in 2026 has performed below expectations due ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260529PD234/mediatek-tsmc-price-2026-outlook.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-007",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "BYD unveils 4nm autonomous driving chip, expanding 'God's Eye' intelligent driving strategy",
+    "summary": "On May 28, BYD held a major technology launch event to strengthen consumer trust in intelligent driving and accelerate adoption of its three-tier \"God's Eye\" assisted-driving system &mdash; a push tha",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260529VL205/byd-4nm-technology-launch-vehicle.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-008",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "CPO to become the next major growth driver, says GSEO; future volumes could rival smartphone lenses",
+    "summary": "Genius Electronic Optical (GSEO) held its shareholders meeting on May 29, with chairman Jones Chen and president Ying-Li Guo in attendance. GSEO reported standalone revenue of NT$20.89 billion (approx",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260529PD245/gseo-cpo-growth-smartphone-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-009",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Quanta projects strong 2026 AI demand as it expands server and wearable production",
+    "summary": "Quanta said demand for artificial intelligence (AI) infrastructure would be very strong in 2026 as the company pushed deeper into servers and wearable devices, and that it was expanding production in ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260529PD241/quanta-servers-wearable-production-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-010",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Unimicron targets record 2026 revenue with ABF and AI system-board push",
+    "summary": "Unimicron said it will push advanced substrate and AI system-board upgrades in 2026 to capture accelerating demand for AI-related ASICs and switches, aiming for record revenue that would exceed its 20",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260529PD239/unimicron-revenue-2026-demand-substrate.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-011",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Foxconn chairman sets new profit target as 2025 earnings hit record high",
+    "summary": "Foxconn said its latest results highlight how technology manufacturing groups are reshaping supply chains for global customers. The company reported record earnings in 2025, raised dividends to a new ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260529PD238/foxconn-profit-2025-earnings-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-05-29-012",
+    "date": "2026-05-29",
+    "companies": [
+      "sony"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sony Bravia 7 II Review: Sony’s RGB LED TV Pushes Color Performance to a New Level - Tech Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTRGOGhnR1JTQTlsUmRFMGx5UmkzRngtcWZZR3Fza0plT3h0UWRkODFfNTRrQzMwdnJVbHBkMm0tRzV6SGV3OEI4WjFvVXd5R2ZHZGFMZUdWdVZQa2lLRzNUN0pFQk5zTHVOWUtQRT",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTRGOGhnR1JTQTlsUmRFMGx5UmkzRngtcWZZR3Fza0plT3h0UWRkODFfNTRrQzMwdnJVbHBkMm0tRzV6SGV3OEI4WjFvVXd5R2ZHZGFMZUdWdVZQa2lLRzNUN0pFQk5zTHVOWUtQRTJzc0ZJRmxlLTBpZ1V5YkI0Uko5YnQ5cktEZm5uT3I5eFZRV0YwVVRjNFgxM1RvM2RuWTMzRnhVNndpRTk0dVk0Q3JOSkp4bUFBc1gzUDZWcXVVVzNBc3J5MEpB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-05-28-001",
     "date": "2026-05-28",
     "companies": [
@@ -223,6 +444,177 @@
     ]
   },
   {
+    "id": "corning-2026-05-28-012",
+    "date": "2026-05-28",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Is Corning (GLW) Up 25.7% Since Last Earnings Report? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPejZZRmFoT0diR3ZoREhKYUV6Y1hOaHpPQjF5cDctY3Zvc2lJNmVOSDNCdklEZ0l0VlJPd3BoQW9SSm5WY0hRVjlFR1Vhc1VNMWc5UVgwUTNIYkt3SzlIRzVCNFNvdEgyZkRNSm9kNX",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPejZZRmFoT0diR3ZoREhKYUV6Y1hOaHpPQjF5cDctY3Zvc2lJNmVOSDNCdklEZ0l0VlJPd3BoQW9SSm5WY0hRVjlFR1Vhc1VNMWc5UVgwUTNIYkt3SzlIRzVCNFNvdEgyZkRNSm9kNXhVazFPbHAzdzNpSU1jYXFQX3Q4Vmt6RnV1azloNUNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-28-013",
+    "date": "2026-05-28",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Solar Momentum Keeps Markets Watching Russell 1000 - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQYm9Va3d4eFI3TXpRdzFPaXFERnZjVlpXeGJIRl9ieEN5MXdzcDY3YTllME1TQ2VSWEV0bUw2WmhCeVE4dnp1bEJnSEJ4TmdCZGd3Wk81QlU4SFBpbVMyTTZGNFNpcmY1N2ZsQXpaRG",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYm9Va3d4eFI3TXpRdzFPaXFERnZjVlpXeGJIRl9ieEN5MXdzcDY3YTllME1TQ2VSWEV0bUw2WmhCeVE4dnp1bEJnSEJ4TmdCZGd3Wk81QlU4SFBpbVMyTTZGNFNpcmY1N2ZsQXpaRGtXNDc3dm5LdTZMYzB1TURvdFRkTElKQV9BQ254cHJQYTdsTTBfemF2SERhZ0ZPUGVKNlJvN0p6QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-28-014",
+    "date": "2026-05-28",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Inc Stock (GLW) Moved Down by 3.21% on May 28: Facts Behind the Movement - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxObWhMQnd0bHhqUWowQ0ZJR2ZjOTBPMnpadkRRVnRmOGRQVFEyelYzTU9GMjJiSnhTekY4R1dJMTh0Q21YejVMQWZKY082Ql9QeFRWV2tyaWktT2w3QXNra0hfN3VqNXlkUHExc0xYZC",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWhMQnd0bHhqUWowQ0ZJR2ZjOTBPMnpadkRRVnRmOGRQVFEyelYzTU9GMjJiSnhTekY4R1dJMTh0Q21YejVMQWZKY082Ql9QeFRWV2tyaWktT2w3QXNra0hfN3VqNXlkUHExc0xYZC1JN0tUUjJqcDREV1RDcllUeThSNUg1S01KOXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-05-28-015",
+    "date": "2026-05-28",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Targets Premium Gaming Monitors With Industry's First 240Hz RGB Stripe OLED Panels - HotHardware",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBHRWZ6OEJTNmw5N2FIekhnOXM1My1LOWVidnpYMkFkM2dvSVNJYUs2blFHZFV5Y1d0QUVkWGxraFZ0aTlzSUxPQnJTeHdaWUpCWUhZN2wwMHlYR3dKUFZjN2tBRU9QNXc5UGtxMQ?oc=",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHRWZ6OEJTNmw5N2FIekhnOXM1My1LOWVidnpYMkFkM2dvSVNJYUs2blFHZFV5Y1d0QUVkWGxraFZ0aTlzSUxPQnJTeHdaWUpCWUhZN2wwMHlYR3dKUFZjN2tBRU9QNXc5UGtxMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-05-28-016",
+    "date": "2026-05-28",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "BOE Technology Stock Hits Day High with 10.09% Surge Amid Market Decline - Markets Mojo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZXQ3M0lJc1BBQ1pUeE5LMktVQlNPSE55bVJWSDliTHcxVGxaTU9RRFYtdjhoTFJJQkxKQWt1cE1odEc5N2FBRUpUNDQyZVBRdXFzNUFBVHRodDVjTTl4eUJEMWZ3UkpZQko4RU01bm",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZXQ3M0lJc1BBQ1pUeE5LMktVQlNPSE55bVJWSDliTHcxVGxaTU9RRFYtdjhoTFJJQkxKQWt1cE1odEc5N2FBRUpUNDQyZVBRdXFzNUFBVHRodDVjTTl4eUJEMWZ3UkpZQko4RU01bmc4MGpXcDdnUzJTM2YxWFg4b1AzY0JxcUVLVjNzNE5kQXE1UmlSekdMMklScXg4VlNPTmxrRERNMm1JdW53VTRFUURhdE11TkNkUVdEOU9TMnFEZWNZd1pN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-05-28-017",
+    "date": "2026-05-28",
+    "companies": [
+      "tcl",
+      "csot"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "YAS to supply evaporation sources for CSOT's 8.6-Gen IT AMOLED line",
+    "summary": "<p>Korean OLED equipment maker <a href=\"https://www.oled-info.com/yas\">YAS</a> is set to supply deposition equipment and evaporation sources for <a href=\"https://www.oled-info.com/tcl-csot-main-buildi",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/yas-supply-evaporation-sources-csots-86-gen-it-amoled-line",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-018",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "The Valve Steam Deck OLED is back in stock, but with a sharp price increase",
+    "summary": "<p>In February, Valve <a href=\"https://www.oled-info.com/memory-shortage-may-have-more-implications-oled-industry-valve-admits-it-cannot\">announced</a> that it is facing challenges in its memory suppl",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/valve-steam-deck-oled-back-stock-sharp-price-increase",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-019",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Hisense Launches World’s First RGB Mini LED Monitor, Boasting 4K@180Hz And Peak Brightness Of 2000 Nits - Wccftech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOaTNRZllZZGpBN1lfM0ZUVHo5ZU9MT3VISXpRQ2RLaEJ3Y210MjhuT2Z0a3NhZS13bmhxeDBIeUZfS2VXSkxXSzVNVGhFX0tmUVhLdllzMHk1X054YmF1OEJHOUlsZDNscVljaExmUW",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaTNRZllZZGpBN1lfM0ZUVHo5ZU9MT3VISXpRQ2RLaEJ3Y210MjhuT2Z0a3NhZS13bmhxeDBIeUZfS2VXSkxXSzVNVGhFX0tmUVhLdllzMHk1X054YmF1OEJHOUlsZDNscVljaExmUWpRSkhlcm9wUzA1clJFZ2ppZWthTU5CWlZOUGhuaU1lNkJGSmVMMkl0bUt0VHJpTm9aWU83UlRXSnpqQ0dyWHZZYUk5OGduRHJUSnNCODJSSdIBxAFBVV95cUxOeVpsZmR1Y0lvWjlsRW03SkZWYzU5a3FYMGRYNkN3WDdZNG9FcXJ1NENvQ201eVRVZklPWkpfYkpBTFR4VVRFQW5lRm9qRDhYTUpJTWtnYUVsWmJMX09HczZ6ZjZBdnVZX1p2ZjNDQ190VUttX01LdEtrMDFuUEc2cmNiOEVsQXhlczE0TjcyZ0FLbUlQVDhWdTNIRmtVcV8tOWozZTZzSzBuNjJGTzBRTE5FOXdLQklRekJqdTZ4YndmRXRk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-05-28-020",
+    "date": "2026-05-28",
+    "companies": [
+      "sony"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Sony's Next-Gen 'True RGB' TVs Could Give OLED A Run For Its Money - bgr.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPOGt2S2V5bFpIMVBzRXVqcW9UcUN1OTZ2dG02a19vbFlEamhDaGxTWjBsLUhmOUJJUWNoMXdhMmpPRmk0RklWdkt0RjU2Q2liRlFKcXNrVXZoOFUtbktSdWdmNWROV0swNGp0S0tkNG",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOGt2S2V5bFpIMVBzRXVqcW9UcUN1OTZ2dG02a19vbFlEamhDaGxTWjBsLUhmOUJJUWNoMXdhMmpPRmk0RklWdkt0RjU2Q2liRlFKcXNrVXZoOFUtbktSdWdmNWROV0swNGp0S0tkNGM3bWxTNm5uWkQtMldBb0VEa0RwZDlNVzFTOEJMV3lsTjc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-05-27-001",
     "date": "2026-05-27",
     "companies": [
@@ -387,6 +779,26 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5veWk1bmk0b0t3STBad1RtZ1AwUnRDRXZBQ3BkUkpnaGluekVjLWotUkdGWUlZc1U2dlNNRU44ZTVsSnZIdFpkY3pCNFdjVUNSd19MN0RoRHRvb3ZHQzNtdEZRc0pYM00tNG5YeWpDYy1NNTdIQmFN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-05-27-010",
+    "date": "2026-05-27",
+    "companies": [
+      "sony"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "I spent an hour testing Sony’s Bravia 9 II True RGB TV, and it’s pretty awesome – but my OLED isn’t going in the bin yet - What Hi-Fi?",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZDIzQ1JLVGhjNE5NS012UXZiTWhRZmxveUo1V0NlbHpDeEJtc3VsWGlxdUlrNFNlS0taYmkxQWhJWlBjek9oSng3UFdjN0d3aE1PM3BwZXNvSU55akk5RC1nUkJ1YWpKNjkzY2hSWn",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZDIzQ1JLVGhjNE5NS012UXZiTWhRZmxveUo1V0NlbHpDeEJtc3VsWGlxdUlrNFNlS0taYmkxQWhJWlBjek9oSng3UFdjN0d3aE1PM3BwZXNvSU55akk5RC1nUkJ1YWpKNjkzY2hSWnBvZkZpTDJ4WTRocTRDNVpEa2t6MWl1ZmUxVzdCZ2M2WGZzdzlnODVaUE04Q3FUYi1NWXBzb3lsRHdZSUpKQUszcndrOHRkRXp2OGF3NFd0aGFOTlNPN3VoNDFDX0lqLVpnUGtsTkZzT2lwaFVYd05CckNwdlZUZVNoZjZwUUtCdDdIMVVqWGJQV2dB?oc=5",
         "type": "rss"
       }
     ]
@@ -634,6 +1046,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdlA0cXR1MXo3OF85VHMwSklvMkhIT3JReGRZazJLSHZEYWRwQWVRQzRVRDh6Y1YzUDdUWmYtbWxMbklhWl81Yi1qNXEtSEhCRnJYUUVCdnRFS3hlN2gtRWVZWGhiblZPdE1HOGdWSVMxZmpvbGpsZzRlQ01FRlpCanNNMS0ySXJORk5JangwNnBsRWpnSHg5NkQzQWxPWHgxVjAyRmZPZGwwRWNEbUxpUUNIX2lFRmpBbjROUDNGel9DYk83aWhGb19wWkZLVDlsUktlbVBBVzAzYnpr0gHiAUFVX3lxTE5WR1ZwSl9jZXUzX1hmTXdaUWVPNVhwWFdnUjJjeFZkYkpMQllUWklGMlByYjNGNkJMTW42dmpianptZ3pCdEhQZEdHbEVVTFVfaVV1TVBJNjhxbTNhT2pYd0g3NDk4N3VucXh5QnZMalY0UlZaNGJFVkdRemltNzBINnNBQnR0NVE4ck5Uajh6R2R3VTdHZVNOVHE3bWpUajQxUTd6dlZtdklDclZoQVpjT2gyZ0UzT2o1VUN2X0dlZjRZTTBMZWxjZXBNMDZydnM5bzR5dWdkRjVTTHYwY1VmRFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-25-010",
+    "date": "2026-05-25",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Q1 Rundown: Himax (NASDAQ:HIMX) Vs Other Analog Semiconductors Stocks - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPeGkxMHBBNzB4RDBtbUs5NGRqc3YyM2JhMEY0cWpQOWIySU9Ob05jV3RNR3ZRYVNTejcweEFtcGJEcGR0bjVFcDdxdDg5TUJIVmJHNkdNZG5TR24yNTQ2bHpYT21XVWVRaVJyd1ZHaE",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeGkxMHBBNzB4RDBtbUs5NGRqc3YyM2JhMEY0cWpQOWIySU9Ob05jV3RNR3ZRYVNTejcweEFtcGJEcGR0bjVFcDdxdDg5TUJIVmJHNkdNZG5TR24yNTQ2bHpYT21XVWVRaVJyd1ZHaEZkT1dVR1R3V1lRWWh4Rk4ta2NGOFUyUTdCVmVzcDNndk14Ny1MbmdyNQ?oc=5",
         "type": "rss"
       }
     ]

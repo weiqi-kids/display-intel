@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 178,
+  "gate1_fail": 34,
+  "gate2_fail": 18,
+  "passed": 23,
+  "gate2_samples": [
+    "Corning Stock Is Up 288% in One Year: Here’s What’s Driving the Rally - TIKR.com",
+    "Prospera Financial Services Inc Increases Stock Position in Corning Incorporated $GLW - InsuranceNew",
+    "Corning (NYSE: GLW) tech chief Amin exercises options and sells shares - Stock Titan",
+    "Corning’s SWOT analysis: optical stock faces growth targets amid supply challenges - Investing.com",
+    "Corning (GLW) slips as investors digest fresh insider-sale filing after a sharp AI-driven rally - Qu"
+  ]
+}

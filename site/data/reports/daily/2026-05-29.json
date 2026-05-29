@@ -1,0 +1,210 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:28:46.784872Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-29-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Unimicron targets record 2026 revenue with ABF and AI system-board push",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260529PD239/unimicron-revenue-2026-demand-substrate.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-29-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Foxconn chairman sets new profit target as 2025 earnings hit record high",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260529PD238/foxconn-profit-2025-earnings-revenue.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Compal accelerates server push with Texas plant and aims for 40% non-PC revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260529PD237/compal-ai-server-texas-plant-revenue-2026.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-29-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "MediaTek weighs price hikes, reaffirms TSMC partnership",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260529PD234/mediatek-tsmc-price-2026-outlook.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-29-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BYD unveils 4nm autonomous driving chip, expanding 'God's Eye' intelligent driving strategy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260529VL205/byd-4nm-technology-launch-vehicle.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.36,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 4,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "sony",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "oled_penetration",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 127,
+    "too_old": 178,
+    "gate1_blocked": 34,
+    "gate2_blocked": 18,
+    "passed": 23,
+    "pass_rate": "9.1%",
+    "gate2_block_rate": "7.1%",
+    "gate2_samples": [
+      "Corning Stock Is Up 288% in One Year: Here’s What’s Driving the Rally - TIKR.com",
+      "Prospera Financial Services Inc Increases Stock Position in Corning Incorporated $GLW - InsuranceNew",
+      "Corning (NYSE: GLW) tech chief Amin exercises options and sells shares - Stock Titan",
+      "Corning’s SWOT analysis: optical stock faces growth targets amid supply challenges - Investing.com",
+      "Corning (GLW) slips as investors digest fresh insider-sale filing after a sharp AI-driven rally - Qu"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為三星電子、LG電子、索尼相關動態：「Unimicron targets record 2026 revenue with ABF and AI sys...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Unimicron targets record 2026 revenue with ABF and AI system-board push（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Foxconn chairman sets new profit target as 2025 earnings hit record high（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
