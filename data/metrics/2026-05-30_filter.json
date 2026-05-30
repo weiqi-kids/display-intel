@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 181,
+  "gate1_fail": 35,
+  "gate2_fail": 17,
+  "passed": 12,
+  "gate2_samples": [
+    "Prospera Financial Services Inc Increases Stock Position in Corning Incorporated $GLW - InsuranceNew",
+    "Corning Stock Is Up 288% in One Year: Here’s What’s Driving the Rally - TIKR.com",
+    "Corning Incorporated: - marketscreener.com",
+    "Corning (NYSE: GLW) tech chief Amin exercises options and sells shares - Stock Titan",
+    "Corning (GLW) slips as investors digest fresh insider-sale filing after a sharp AI-driven rally - Qu"
+  ]
+}

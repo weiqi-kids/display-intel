@@ -1,5 +1,26 @@
 [
   {
+    "id": "auo-2026-05-30-001",
+    "date": "2026-05-30",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "mini_led",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AUO Micro LED CPO enters sampling stage",
+    "summary": "AUO's entry into Micro LED co-packaged optics sampling could give the display maker a new growth path as it seeks to expand beyond panels. Chairman Paul Peng said the company is preparing optical comm",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260529PD218/auo-cpo-optics-technology-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-05-29-001",
     "date": "2026-05-29",
     "companies": [
@@ -216,6 +237,178 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTRGOGhnR1JTQTlsUmRFMGx5UmkzRngtcWZZR3Fza0plT3h0UWRkODFfNTRrQzMwdnJVbHBkMm0tRzV6SGV3OEI4WjFvVXd5R2ZHZGFMZUdWdVZQa2lLRzNUN0pFQk5zTHVOWUtQRTJzc0ZJRmxlLTBpZ1V5YkI0Uko5YnQ5cktEZm5uT3I5eFZRV0YwVVRjNFgxM1RvM2RuWTMzRnhVNndpRTk0dVk0Q3JOSkp4bUFBc1gzUDZWcXVVVzNBc3J5MEpB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-29-013",
+    "date": "2026-05-29",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Mass Produces 240Hz RGB Stripe OLED - Ink World magazine -",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmE5Q3V4QTZVRnJUblkwZ1MweGxFd19DYnJYczJ3S1pKNHRqUDBoMkozS1dlSENQd3UxbmJRWXNZZUI2SE5DRmRWcDRYNGhNN0Nvb3g4ZXN2eGFPZkRpSXMzX2xMTm56R3pTMWQ3R3",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmE5Q3V4QTZVRnJUblkwZ1MweGxFd19DYnJYczJ3S1pKNHRqUDBoMkozS1dlSENQd3UxbmJRWXNZZUI2SE5DRmRWcDRYNGhNN0Nvb3g4ZXN2eGFPZkRpSXMzX2xMTm56R3pTMWQ3R3lRNjdVcHp6c0xqYk94ZVFGcmdLbE4tOExVNXlxdkFUbUQxRkFfa1RBai1R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-05-29-014",
+    "date": "2026-05-29",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Group Co., Ltd. (000725.SZ): Cumulatively repurchased 1.005 billion A-shares - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT0d0R3Q5WnVoSkZXV0J6NVlFdmZmVThVRTZoUFFiZFhKQTJndTRWTWsyQXA0bUI4ODhQSHdGUnJfM1Q0bUhVUnRHR2xuTUlNLUJGODA0d2lWdzRJenBISC1HeUZwMGJhNUJmc1cxeX",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT0d0R3Q5WnVoSkZXV0J6NVlFdmZmVThVRTZoUFFiZFhKQTJndTRWTWsyQXA0bUI4ODhQSHdGUnJfM1Q0bUhVUnRHR2xuTUlNLUJGODA0d2lWdzRJenBISC1HeUZwMGJhNUJmc1cxeXpMMWp1d0laV2dQZGlMNFZLa2FncTYwcmRDQjhJQkRMejcycWpkYklZb0Q2Qy0yRWxKNWtTN3JNOEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-015",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Xiaomi 17T / 17T Pro / 17 Max",
+    "summary": "<p>The Xiaomi 17T smartphone offers a 6.59\" 1268x2576 120Hz 3500 nits (peak) AMOLED display, Mediatek Dimensity 8500 Ultra, 12GB Of RAM, and up to 512GB of storage.</p><img data-entity-uuid=\"b064f83f-",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/xiaomi-17t-17t-pro-17-max",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-016",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "The EU ban on PFAS materials in 2028 may challenge OLED producers, Korean makers ask for a 12 years grace period",
+    "summary": "<p>The European Union is planning to introduce new restrictions on per- and polyfluoroalkyl substances (PFAS) in 2028, which could pose problems for OLED producers.</p><img data-entity-uuid=\"35f47357-",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/eu-ban-pfas-materials-2028-may-challenge-oled-producers-korean-makers-ask-12",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-29-017",
+    "date": "2026-05-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "panel_price",
+      "oled_penetration",
+      "it_panel_demand"
+    ],
+    "impact": "neutral",
+    "title": "Samsung developed a 31.5-inch 4K 360Hz QD-OLED monitor panels",
+    "summary": "<p>Samsung Display announced that it has successfully developed the first QD-OLED for monitors to combine 4K resolution with a 360Hz refresh rate.</p><img data-entity-uuid=\"aed71f37-3baa-4710-bba9-d5a",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-developed-315-inch-4k-360hz-qd-oled-monitor-panels",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-29-018",
+    "date": "2026-05-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration",
+      "automotive_display"
+    ],
+    "impact": "negative",
+    "title": "Samsung Display looks to sell its Tianjin AMOLED module factory, as demand for rigid OLEDs in China is declining",
+    "summary": "<p>According to reports from Korea, Samsung Display has decided to sell its OLED module fab in Tianjin, China, as demand for its rigid AMOLED is <a href=\"https://www.oled-info.com/ubi-oled-smartphone-",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-looks-sell-its-tianjin-amoled-module-factory-demand-rigid-oleds",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-29-019",
+    "date": "2026-05-29",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AI boom strains optical supply chain as Nvidia, Corning expand fiber output",
+    "summary": "The global AI boom is pushing supply-chain pressure beyond memory chips and CPUs into optical communications, creating shortages across a less visible but increasingly critical layer of data-center in",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260527VL218/nvidia-corning-supply-chain-data-chips.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "innolux-2026-05-29-020",
+    "date": "2026-05-29",
+    "companies": [
+      "innolux"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Innolux turns to packaging, smart cockpits in higher-margin push",
+    "summary": "Innolux plans to accelerate its transformation in 2026, with chairman and CEO Jim Hung pointing to three priorities: advanced semiconductor packaging, smart cockpits, and higher-margin panel applicati",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260528PD214/innolux-packaging-2026-technology-automotive.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-05-29-021",
+    "date": "2026-05-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Samsung, SK Hynix trail Micron as automotive memory demand rises",
+    "summary": "Samsung Electronics and SK Hynix dominate the global memory chip market, but their weaker position in automotive memory is drawing new scrutiny as AI data centers absorb more DRAM and NAND supply.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260527VL213/samsung-automotive-sk-hynix-micron-demand.html",
         "type": "rss"
       }
     ]
@@ -615,6 +808,24 @@
     ]
   },
   {
+    "id": "boe-2026-05-28-021",
+    "date": "2026-05-28",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Soars 9.49%, Hits Intraday High of CNY 5.80 - Markets Mojo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNRUVIOHdGbXJ1dXozbTlZYlRUZEcyRkM1TjBmbWJySVd1X20ycEdQSGpQTW1DdlE3TDJIREdEVGJod1dodldrYkJyeHVldzBEc2ZBQl9NRHd0Mko1Mi1nanlNcm1YeF83WkxwMmsteE",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRUVIOHdGbXJ1dXozbTlZYlRUZEcyRkM1TjBmbWJySVd1X20ycEdQSGpQTW1DdlE3TDJIREdEVGJod1dodldrYkJyeHVldzBEc2ZBQl9NRHd0Mko1Mi1nanlNcm1YeF83WkxwMmsteExCcUJ3SEItLWV0czJGMGJGc3VvOFE5aTFha3otUjhOS3RvZlFCVXRUVEY2cmx2YXNRQ2RIeF9lNWFoOF90dENDWkFn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-05-27-001",
     "date": "2026-05-27",
     "companies": [
@@ -879,6 +1090,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93RWNmanU3WkdPX2tMTlMySV9NWnpRdV92WU9jRm94bUs4ZDFsbFU5ZzEwQjF3RFFJM3M2ZG0zTGRyOU1wUElGdXZQcU9UeUhmbG8xMEszaG1HcTdLWlBhSGN6TnppTTRHWER4d3FfWGV2UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-005",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED laptops – complete list (Best OLED for Gaming, 4K Tandem OLED Creator models) - Ultrabookreview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TZk9LdHZ2cnNsSEdYeXUzNDViSEd1VU5aWXhTYlBmcjJPUXVuVzZrUTJRQ0ZhZ0t1UEJQeld6bi1FQzJqQ1JDZXlsQWJDY2xKQkZDMHdWSkhTMmJNMWg5bw?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TZk9LdHZ2cnNsSEdYeXUzNDViSEd1VU5aWXhTYlBmcjJPUXVuVzZrUTJRQ0ZhZ0t1UEJQeld6bi1FQzJqQ1JDZXlsQWJDY2xKQkZDMHdWSkhTMmJNMWg5bw?oc=5",
         "type": "rss"
       }
     ]
