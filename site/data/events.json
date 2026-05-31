@@ -1,5 +1,79 @@
 [
   {
+    "id": "unknown-2026-05-31-001",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI demand and transport costs fuel continued price hikes in 2Q26",
+    "summary": "As the Middle East conflict escalates and demand for AI applications grows, product quotations continue to rise in the second quarter of 2026. Chen-Cheng Pan, chairman of silicone materials distributo",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260529PD233/demand-price-transportation-materials-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-05-31-002",
+    "date": "2026-05-31",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AUO sees automotive orders setting up revenue gains from 2026",
+    "summary": "AUO said its automotive business has entered a high-growth phase, with annual orders for in-vehicle products now exceeding current-year revenue. The company expects revenue benefits from orders secure",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260529PD217/auo-automotive-display-satellite-communications-revenue-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-003",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Senao Networks projects 2026 growth as ISP expansion offsets memory shortage risks",
+    "summary": "Networking equipment maker Senao Networks reported that shareholders approved its 2025 financial report and a cash dividend of NT$3 (US$0.096) per share at a meeting on May 28, 2026, and the company s",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260529PD201/sercomm-2025-equipment-2026-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-004",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Xiaomi TV FX Mini LED series India launch date announced, to come with Fire TV OS - Moneycontrol.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWmRGX285TnphUnhxY3c2M1BONnl0blZ1dDJ4RTNydVBGR0l4Y1lWMTdxZzdUenRtNlItQ24xcWFMTDg3LXJXYzFUbm9xaFdzNXpnYlNwcHJXLVhScHlUV2NzeU9mRzhwMVU1STlkTV",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWmRGX285TnphUnhxY3c2M1BONnl0blZ1dDJ4RTNydVBGR0l4Y1lWMTdxZzdUenRtNlItQ24xcWFMTDg3LXJXYzFUbm9xaFdzNXpnYlNwcHJXLVhScHlUV2NzeU9mRzhwMVU1STlkTVc3SC10UkxwMmk0NzhwanhBZHNPeTQ2TkNOOHdENTBRVDBDdTZQOHFEQTJVNG9icEJpYjg5T3JheDM0UUkzcm9oSUUzc2xTY2VPc25rZWx2cDBQYXVxeUwtWEhhT1FGWlEyS0VRYTllcnVIZ9IB3wFBVV95cUxQRjYwZ2tMSkx0cVMxQzg3dFZGd3lpZ1FRZzlKblZCOTF5Snc1MFI0MlJ1ekJ5SHdDWmdZN2NKSmJVVFhvU3AtTVA4Z2hGdFF5cEdTcWRKcTJ6OEdWZXNPZk80aXl6TDhmQ3ZzZXNqYWVsZ0QwNGg2T29GYVp0YXpIY29zc3Z6ZV9OalpKc052dzRYOVVTQ3ZmbnhMYlF0S0wyeXlnTGJ4eHNkMHNZWXk4R0tsSFR1bzI1NE1aMGkwWVEtZXIwNXkxb3R0UUZSVXM4Mk1RcTk5VnEwQXpyLVZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "auo-2026-05-30-001",
     "date": "2026-05-30",
     "companies": [
@@ -16,6 +90,79 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260529PD218/auo-cpo-optics-technology-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-05-30-002",
+    "date": "2026-05-30",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Jim Cramer Discusses the Tremendous Growth of Corning - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUM3a003d19kYnctU2FaRDlxRWlRbXB4ZTRQbXVteDZIYmUwV01QWW1sUTJvaVlGQ0JZS3ZTdy13emdwMk03LWdrcVkyRTdhMWpXLUprT213bUNrTW5sRFl3TWJZcUFPWUdrNm82aX",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVUM3a003d19kYnctU2FaRDlxRWlRbXB4ZTRQbXVteDZIYmUwV01QWW1sUTJvaVlGQ0JZS3ZTdy13emdwMk03LWdrcVkyRTdhMWpXLUprT213bUNrTW5sRFl3TWJZcUFPWUdrNm82aXVQVmFvaF9VSndsSUtOSzJKZjdac1pMYnZ5bkJ2TXM2NkxlYTJUTDFxMm9KS2ZBb0JfNzJIV0N30gGmAUFVX3lxTE5VQzdrTTd3X2Ridy1TYVpEOXFFaVFtcHhlNFBtdW14NkhiZTBXTVBZbWxRMm9pWUZDQllLdlN3LXd6Z3AyTTctZ2txWTJFN2ExalctSmtPbXdtQ2tNbmxEWXdNYllxQU9ZR2s2bzZpdVBWYW9oX1VKd2xJS05LMkpmN1pzWkxidnluQnZNczY2TGVhMlRMMXEyb0pLZkFvQl83MkhXQ3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-003",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "automotive_display",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI demand and chip investment lift Taiwan exports and business outlook",
+    "summary": "Taiwan's economic outlook improved in April 2026 as rising AI demand and receding Middle East geopolitical risks boosted manufacturers' business sentiment, the National Development Council (NDC) said ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260529PD203/taiwan-outlook-demand-business-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-004",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiwan Mobile sets sights on NT$1 trillion revenue as AI and enterprise services drive growth",
+    "summary": "Taiwan Mobile outlined plans to pursue a NT$1 trillion (US$31.88 billion) revenue target as it shifts emphasis to AI, enterprise services, and new technology businesses, executives said after the comp",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260529PD242/revenue-twm-growth-technology-expansion.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-005",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nan Ya Plastics targets three new business pillars to lift electronic materials to 60% by 2026",
+    "summary": "Nan Ya Plastics announced at its May 29 shareholders meeting that it would pivot into three new business areas &mdash; medical materials, semiconductor materials, and comprehensive power solutions &md",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260529PD236/nan-ya-plastics-materials-2026-business-revenue.html",
         "type": "rss"
       }
     ]
@@ -409,6 +556,47 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260527VL213/samsung-automotive-sk-hynix-micron-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "innolux-2026-05-29-022",
+    "date": "2026-05-29",
+    "companies": [
+      "innolux"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Innolux turns to packaging, smart cockpits in higher-margin push - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQdU01dEE1OHNYdGpCMmZITGM1MkFYV3dDdC10Q2tPM3JVUVFYZWZ3NmROQXFfNzNBeEQxV2VSNnd4Nkc3bktyX0pMTDBqTmxNMjBDQ1RVa0ZYaW56SXFvY3lkQzhVN2Y1VlRoOE1NcF",
+    "sources": [
+      {
+        "name": "innolux",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdU01dEE1OHNYdGpCMmZITGM1MkFYV3dDdC10Q2tPM3JVUVFYZWZ3NmROQXFfNzNBeEQxV2VSNnd4Nkc3bktyX0pMTDBqTmxNMjBDQ1RVa0ZYaW56SXFvY3lkQzhVN2Y1VlRoOE1NcFBSQmZyaWdhSmZCb29RSERNUzdFMkpyWFhyWG9vMmh2Q1pJdjRrSXI1b0V2QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-05-29-023",
+    "date": "2026-05-29",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "panel_price",
+      "oled_penetration",
+      "it_panel_demand"
+    ],
+    "impact": "positive",
+    "title": "LG Display starts mass production of first RGB-stripe OLED monitor panel - FlatpanelsHD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZRDk0MkN3eWVsTWJfRGxzd19EOThXN1hkby1qSk5vUkdHSDhRZDlGSEc0M3M1MXg2UkR4bk5yRk5vT3pKeVBMbUJBNTY1OHFvX1hmbGg5b2NxYVl5UmNuVlNBeUdRLW5rdmhHRHpCcT",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZRDk0MkN3eWVsTWJfRGxzd19EOThXN1hkby1qSk5vUkdHSDhRZDlGSEc0M3M1MXg2UkR4bk5yRk5vT3pKeVBMbUJBNTY1OHFvX1hmbGg5b2NxYVl5UmNuVlNBeUdRLW5rdmhHRHpCcTdyUFNuQmxLazd3?oc=5",
         "type": "rss"
       }
     ]

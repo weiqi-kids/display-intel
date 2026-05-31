@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 138,
+  "no_date": 0,
+  "too_old": 184,
+  "gate1_fail": 33,
+  "gate2_fail": 15,
+  "passed": 10,
+  "gate2_samples": [
+    "Jim Cramer Discusses the Tremendous Growth of Corning - Yahoo Finance",
+    "Prospera Financial Services Inc Increases Stock Position in Corning Incorporated $GLW - InsuranceNew",
+    "Corning Stock Is Up 288% in One Year: Here’s What’s Driving the Rally - TIKR.com",
+    "Corning Incorporated: - marketscreener.com",
+    "Corning (NYSE: GLW) tech chief Amin exercises options and sells shares - Stock Titan"
+  ]
+}
