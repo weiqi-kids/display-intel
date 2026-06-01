@@ -1,5 +1,420 @@
 [
   {
+    "id": "lg_display-2026-06-01-001",
+    "date": "2026-06-01",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Tease The First True Black 1000 OLED Panel and the Return of BFI for Computex 2026 - TFTCentral",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY3Z5WWpZQ3h2TXFmdWFZa1J4WFMxSzROY2FBQVFKcDVyQUZaM0FuLUZ4U3hmeHpGN1FNYkphenVsdDFQWWw3ZVNPRUwxZ2pyUlJmb01xek0ydVJ2cGtmWjZrdnpwWWIxVEY4cUFJRV",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY3Z5WWpZQ3h2TXFmdWFZa1J4WFMxSzROY2FBQVFKcDVyQUZaM0FuLUZ4U3hmeHpGN1FNYkphenVsdDFQWWw3ZVNPRUwxZ2pyUlJmb01xek0ydVJ2cGtmWjZrdnpwWWIxVEY4cUFJRVBtMDB6Q2MtMnJ5cS04eUNKN0thTGxpNmxMWVEycWU2WmIyc3g3dktreWVKV1RxRHJxdi1rbDFOMnItd0h4MTdFaVE4VklRZHRKanhFamdEbUs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-01-002",
+    "date": "2026-06-01",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to showcase world’s largest Gaming OLED lineup in Taiwan - LG Display Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR2Q2UTVDRWNYaGJOcG1hdkZwRm9fVnBBSWpJT3NWSjZzVURDVF8yemZhOVlTdm1FVjF5b21wVTg5TkhSYmI3SHJMQUh1ZXlaSk9oWVpkdEpVTmM3UnhOMHdFdm9DQnZkblMzMm9xMU",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR2Q2UTVDRWNYaGJOcG1hdkZwRm9fVnBBSWpJT3NWSjZzVURDVF8yemZhOVlTdm1FVjF5b21wVTg5TkhSYmI3SHJMQUh1ZXlaSk9oWVpkdEpVTmM3UnhOMHdFdm9DQnZkblMzMm9xMUpTemFjcGRPY1d4LUZDbU11MkhQaUNHdWNkZFdLS0IyQ01PZG5wTnJyYVZEdFdmWUt0YV90Ykdic2g?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-01-003",
+    "date": "2026-06-01",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG to showcase DisplayHDR TrueBlack 1000-class OLED and 27-inch 5K gaming panel - VideoCardz.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFRTU1JOaWVWbllvd3c5QjVXMWFPZ1VQcW50ZF9QX1J1Qlg2cUVod2JSZFpTVWZLR25aNnd4VkR2LTEwampzSXJ1SWhORlNvQjZGZFFnR3dwT0xJcTZxME16dmRkNm5mQkZ4eWFmRl",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZFRTU1JOaWVWbllvd3c5QjVXMWFPZ1VQcW50ZF9QX1J1Qlg2cUVod2JSZFpTVWZLR25aNnd4VkR2LTEwampzSXJ1SWhORlNvQjZGZFFnR3dwT0xJcTZxME16dmRkNm5mQkZ4eWFmRlRvbzRrM3YwWE5GUlltS0hmZWZqN2lrOTZpQzI5MDZGLVIzYUpIWFZ2c1Q3ZDlvaWlGYTRRekx3N0pPQUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-01-004",
+    "date": "2026-06-01",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration",
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to showcase world's largest Gaming OLED lineup in Taiwan - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPV1JMZzhudWhjWjBMUE5NZjZhS0hodm1ldkVHT0g1MWF0NDZybXhzci1OcjNzeWFCVlNVSVptXzFPcVpDR0lzc1dKRzF2UTJkNkgwRDdZVjhUd3NVUGpoOUwtdjlCSEwxUzk4d0NzdH",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV1JMZzhudWhjWjBMUE5NZjZhS0hodm1ldkVHT0g1MWF0NDZybXhzci1OcjNzeWFCVlNVSVptXzFPcVpDR0lzc1dKRzF2UTJkNkgwRDdZVjhUd3NVUGpoOUwtdjlCSEwxUzk4d0NzdHRzazFGNlZLcVYxbFROMTdldnJrU0ZXX2tCTGZrY051STJhSmRCZlZ0QWlEZGZ2TlBSVnJ3TWtBdlhrdlFEMXoyd3RxM19TajVBOFdxTDB4aw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-01-005",
+    "date": "2026-06-01",
+    "companies": [
+      "lg_display",
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display, LG Display Unveil Next-Generation Gaming OLEDs in Taiwan - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56b2pUeWgyejBKQlZvTURoUmN0Z2hvOU9seU9VM0lHLVNPbktoS0dUU2N0VVZ5SFdmQmpQVE5iUzg1QTdsSi10d2FWQ19FNUZWc1B4MEljRjE5S1g3QzNGLVVpWFhDOW8?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56b2pUeWgyejBKQlZvTURoUmN0Z2hvOU9seU9VM0lHLVNPbktoS0dUU2N0VVZ5SFdmQmpQVE5iUzg1QTdsSi10d2FWQ19FNUZWc1B4MEljRjE5S1g3QzNGLVVpWFhDOW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-01-006",
+    "date": "2026-06-01",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to showcase world's largest Gaming OLED lineup in Taiwan - Star Local Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNG41SGE3eXh1RmRIUGJQVHBmdG42RmNoQk9heGFmMXFPZUQ3WkpUc2s3RXlEaWJRSnFoVzJvWDNkYVR6RXgxNG4yUU5sRFhHa0U3MHk2MFBLSzNfMndJYno4d1hrMzNKTklBRDRicU",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNG41SGE3eXh1RmRIUGJQVHBmdG42RmNoQk9heGFmMXFPZUQ3WkpUc2s3RXlEaWJRSnFoVzJvWDNkYVR6RXgxNG4yUU5sRFhHa0U3MHk2MFBLSzNfMndJYno4d1hrMzNKTklBRDRicUZvWC1mNjJTdXA3TFVzVVh0NWNRakpraHB5NnRHZ1Z4eTVNdlZJZFdOZWZubEh1WjZFaW9SQ1ctQVdUbWJMZXRCcVluYlRkSlByMWRMRVpGOUJOejRZUHk5eDBPX09nbnIyRmQ5amFYNkJFVWIwd3lvcy13d2p6OVUzZnNZVlNmLUNkUGJ3T1pXeXdCMTcwUk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-01-007",
+    "date": "2026-06-01",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Inside LG Display's 39-inch 5K OLED push for high-end gamers - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQbWpnQUdBdjBoOXNlaU9yN1F5RDZWanZjRUFWNERiVkhqN21ZNmJYeUZNTXJIRk93NGZfZWFGYUNVUGhOYkRmamg0U01xT056elhJMDJqb2VIbktlZTB3YjNSX0lBWUdiaHJYUkFyWm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbWpnQUdBdjBoOXNlaU9yN1F5RDZWanZjRUFWNERiVkhqN21ZNmJYeUZNTXJIRk93NGZfZWFGYUNVUGhOYkRmamg0U01xT056elhJMDJqb2VIbktlZTB3YjNSX0lBWUdiaHJYUkFyWm90ZVc0OHZiSl9vS3pBeFVrUUtBSk9DNkdMVHZ5bHFiTWtqeUpVd1Y5YVBOcTNhOUJpYzI4Rlp2bmFXNDdvMzhLRmdqM0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-01-008",
+    "date": "2026-06-01",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Showcases Gaming OLEDs in Taiwan - Businesskorea",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1ielVDdFpfLTV2dlNaQThpZm5ZN1BFVF9HT2FaRWFqWTVLWGpxVmlZY1NKaHNCQmFyZWhxY1c3eHNqMWxrUGtWdjMtX2dfVkIwSmlDaGljOXdMZmw1SHMtQmRnZUp1c2pLUHNEdEw2eV",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ielVDdFpfLTV2dlNaQThpZm5ZN1BFVF9HT2FaRWFqWTVLWGpxVmlZY1NKaHNCQmFyZWhxY1c3eHNqMWxrUGtWdjMtX2dfVkIwSmlDaGljOXdMZmw1SHMtQmRnZUp1c2pLUHNEdEw2eVUxYnRJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-01-009",
+    "date": "2026-06-01",
+    "companies": [
+      "lg_display",
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung, LG Display Battle for OLED Monitor Crown in Taiwan - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDFNSnMxU1M3LXJ5VzRXNk5GTkdNY21MXzVNTGloUThPQzZOdERsMlpTbFZIczVyeEtObTVIYjZIRXM2QWxHM1o2ckhIekVhSWI0ZTh6cElybFlGd2tOS1ZKS1ROZnpqQm90UlRvNU",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDFNSnMxU1M3LXJ5VzRXNk5GTkdNY21MXzVNTGloUThPQzZOdERsMlpTbFZIczVyeEtObTVIYjZIRXM2QWxHM1o2ckhIekVhSWI0ZTh6cElybFlGd2tOS1ZKS1ROZnpqQm90UlRvNURhV05ldVo3TFI5S0JCRkZmeXo0STBWRlE1UWQ5NVJpOFppdU9TU2NyR21QenRvNng1VFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-01-010",
+    "date": "2026-06-01",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display unveils advanced Gaming OLED monitors with world-first 5K2K resolution and 240Hz refresh rate. - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPQVBHOE8tOGJaVG92cHNhS3R2MXB0ZkFNSWh0emJIZHllNjhQWUgtWC1nSkdpTUhQWTFTbF9IbnV5a1RaNldCQU9Qd2RlQlNHNDBVaWRPc24tTUlYaGotR1VoeGoyNGYteDR4T3hCWT",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQVBHOE8tOGJaVG92cHNhS3R2MXB0ZkFNSWh0emJIZHllNjhQWUgtWC1nSkdpTUhQWTFTbF9IbnV5a1RaNldCQU9Qd2RlQlNHNDBVaWRPc24tTUlYaGotR1VoeGoyNGYteDR4T3hCWThPanRBQnJNRG1MdGJqTEF3Mmp0Uk1mVF9wcHBTZEhCdks?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-01-011",
+    "date": "2026-06-01",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Unveils Next-Generation Gaming OLED at Taiwan Roadshow - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1ZaeEx5c3VObG9nb1ZGdFRreUVXcVlPUHFpNzR3SUt2TVpPbU52VnF4cThQdW50NWNrbUJKRVNCWm9Rc1g0VF80akZoMTR4bkdqS3R0WXhLQS0wc1VvNFN0dE85d3l1aUN4UHZyS0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN1ZaeEx5c3VObG9nb1ZGdFRreUVXcVlPUHFpNzR3SUt2TVpPbU52VnF4cThQdW50NWNrbUJKRVNCWm9Rc1g0VF80akZoMTR4bkdqS3R0WXhLQS0wc1VvNFN0dE85d3l1aUN4UHZyS0NRVUI5WXpObGgwdEF5bXJGTG5FNC1DVTYwV1p6eE1FS3BqMTRIckFqX3B3R0FEbXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-06-01-012",
+    "date": "2026-06-01",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Group stock (CNE1000016L5): Beijing space computing institute highlights China tech a - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNakkyWnN3VGQ2RDJQYXJJZUt0YkppaTBjMWNjS09nVHhBQ0t1MGJOSGNDUXJjSUVZS3NtSGZKV3hzcjhxeXZwZFA3VVRFd01MbjdlN0EtSzRPQTlFNXNQaTRtdnk5VHBaeF9PRVpVNS",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNakkyWnN3VGQ2RDJQYXJJZUt0YkppaTBjMWNjS09nVHhBQ0t1MGJOSGNDUXJjSUVZS3NtSGZKV3hzcjhxeXZwZFA3VVRFd01MbjdlN0EtSzRPQTlFNXNQaTRtdnk5VHBaeF9PRVpVNS1QdnB6Q1FXczFRNWlramI4dUI2MGc0UnVXM0M3SlRPUzNGUUJPTkhUeF9ucVktVlJMcjJrRmRjMk5xLS03UVJFOGRXdEY1VlFyX3B3eER3aw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-01-013",
+    "date": "2026-06-01",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[Interview] Where Sound Meets Design — Redefining the Audio Experience With Music Studio",
+    "summary": "As the demand for exceptional sound grows, the role of audio devices is evolving. Speakers are no longer confined to simple playback, now acting as sculptural elements that shape the atmosphere of a s",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/interview-where-sound-meets-design-redefining-the-audio-experience-with-music-studio",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-01-014",
+    "date": "2026-06-01",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung and MUNCH Museum Bring Rarely Seen Masterpieces to Samsung Art Store",
+    "summary": "Samsung Electronics today announced a new collaboration with MUNCH to add iconic artworks by Edvard Munch to Samsung Art Store. The digital collection makes 37 masterpieces such as “The Scream,” “The ",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-and-munch-museum-bring-rarely-seen-masterpieces-to-samsung-art-store",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-01-015",
+    "date": "2026-06-01",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display developed a 20% thinner gaming laptop AMOLED display",
+    "summary": "<p>Samsung Display is showcasing a new laptop OLED panel, that is 20% thinner compared to Samsung's currently produced laptop AMOLEDs.</p><div>\n  \n  <a href=\"https://www.oled-info.com/sites/default/fi",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-developed-20-thinner-gaming-laptop-amoled-display",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-016",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "SK Hynix Cheongju plant fire triggers HF leak",
+    "summary": "SK Hynix's Cheongju campus was hit by a fire on June 1, 2026, prompting the emergency evacuation of all 3,600 workers from the M15 and M15X plants. Seven people were taken to the hospital after hydrog",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260601PD237/sk-hynix-fire-plant-2026-hospital.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-017",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LianDe Holdings to mass produce liquid-cooling floating fittings for US chipmaker supply chain",
+    "summary": "LianDe Holdings-KY moved into AI server liquid-cooling components and secured a spot in a US chipmaker supply chain, the firm announced, with product validation underway and volume production slated t",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260601PD230/ai-server-liquid-cooling-production-revenue-supply-chain-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-018",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "RoboSense dominates LiDAR for robotics with 1,458.8% YoY shipment surge in 1Q26",
+    "summary": "RoboSense Technology, an AI-driven robotics technology company, announced a historic first quarter of the year in which the robotics business exceeded 50% of total LiDAR shipments for the first time i",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260531VL200/robosense-lidar-robotics-adas-2026-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-019",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Suntek maintains upbeat 2H26 outlook for Taiwan's auto market, as tariffs, energy prices remain key",
+    "summary": "PG Union Corporation, the Taiwanese distributor for the luxury car brand Alfa Romeo, launched the Alfa Romeo Junior on May 27, which comes in the Ibrida hybrid and Elettrica 280 Veloce pure electric h",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260528PD229/market-taiwan-suntek-outlook-brand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-020",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Compeq says AI infrastructure will drive sharp revenue and profit gains in 2027 and 2028",
+    "summary": "Compeq Manufacturing Co. told shareholders on May 28 that AI infrastructure demand has transformed the printed circuit board industry and will push high-end PCB manufacturing complexity, reliability r",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260528PD236/compeq-manufacturing-infrastructure-revenue-2028-profit.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-021",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Nvidia expects AI boom to keep supply tight beyond 2027",
+    "summary": "Nvidia chief executive Jensen Huang said the artificial intelligence industry is entering a rapid growth phase that could keep revenue rising sharply into 2027, while supply-chain bottlenecks are like",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260601PD212/nvidia-2027-growth-demand-intel.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-05-31-001",
     "date": "2026-05-31",
     "companies": [],
@@ -69,6 +484,62 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWmRGX285TnphUnhxY3c2M1BONnl0blZ1dDJ4RTNydVBGR0l4Y1lWMTdxZzdUenRtNlItQ24xcWFMTDg3LXJXYzFUbm9xaFdzNXpnYlNwcHJXLVhScHlUV2NzeU9mRzhwMVU1STlkTVc3SC10UkxwMmk0NzhwanhBZHNPeTQ2TkNOOHdENTBRVDBDdTZQOHFEQTJVNG9icEJpYjg5T3JheDM0UUkzcm9oSUUzc2xTY2VPc25rZWx2cDBQYXVxeUwtWEhhT1FGWlEyS0VRYTllcnVIZ9IB3wFBVV95cUxQRjYwZ2tMSkx0cVMxQzg3dFZGd3lpZ1FRZzlKblZCOTF5Snc1MFI0MlJ1ekJ5SHdDWmdZN2NKSmJVVFhvU3AtTVA4Z2hGdFF5cEdTcWRKcTJ6OEdWZXNPZk80aXl6TDhmQ3ZzZXNqYWVsZ0QwNGg2T29GYVp0YXpIY29zc3Z6ZV9OalpKc052dzRYOVVTQ3ZmbnhMYlF0S0wyeXlnTGJ4eHNkMHNZWXk4R0tsSFR1bzI1NE1aMGkwWVEtZXIwNXkxb3R0UUZSVXM4Mk1RcTk5VnEwQXpyLVZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-05-31-005",
+    "date": "2026-05-31",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Himax Technologies (HIMX) Valuation After 2026 Growth Outlook And New 100% Payout Dividend Policy - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2tlcEhqanV5OTBsbG95RmlBTDliWTgyUlNuSTFzZU1QUi1kanZRcC0yT0xZMVRoOTlqWk5VNlpUanpodEZCdnYxTDB4NkpVODNmajBvZ2tQUGZsQkhwci0wR2R5UDB5eTdYV1FZYz",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2tlcEhqanV5OTBsbG95RmlBTDliWTgyUlNuSTFzZU1QUi1kanZRcC0yT0xZMVRoOTlqWk5VNlpUanpodEZCdnYxTDB4NkpVODNmajBvZ2tQUGZsQkhwci0wR2R5UDB5eTdYV1FZYzJCNTU0eERnVzJ6VzhyV1ZjcGktOE81ZGpxOW5JTDIzOGM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-006",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "negative",
+    "title": "MSI unveils the MPG 271KRAW18 at Computex 2026, the world's first 5K dual-mode Mini-LED gaming monitor - TweakTown",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLUFfelkzY2Vxd1dYMXAzWlZkeXN6c21GQUFpdmwzd2ctUE1VajMwWlhFLUVHQWR5X3hUdlB2bmR5MFBpX2RRSnA1Z0NBU0xOT0xzWERDb1lzaUdFR3hzRVRZb1hRclh0ZEY2ZExrcz",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNLUFfelkzY2Vxd1dYMXAzWlZkeXN6c21GQUFpdmwzd2ctUE1VajMwWlhFLUVHQWR5X3hUdlB2bmR5MFBpX2RRSnA1Z0NBU0xOT0xzWERDb1lzaUdFR3hzRVRZb1hRclh0ZEY2ZExrczhpcTlFTUFuT09aQ0tKUmdpQlZpNFNYQUxWRGJ4b283S2oteTNyT1V5VXUyOUpISVdKU0pNWXk1a29FVGREZzZ5d0s1WVV4QnBuU0ViaU1PMm1mN3Z6ZFZuc3BWdEVqM2Vab2JqX3BEOE8wMXE4R2IzUlZRVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-007",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "MSI delivers 5K Gaming with its Mini LED Dual-Mode MPG 271KRAW18 monitor - OC3D",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxORl9Rb2RVemdCcUZ2WXRZUF9YVVNDTGwwSG9vV0VXTldLZEtUNGZaMHBueF9IOXdUTEhlMFFyWHV5T1dVUF9UbHBoeTZaREx4ZzNlRFYzVm0xdTNhSlc4YUJqN0I1OTF1MUNSMTJlTV",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORl9Rb2RVemdCcUZ2WXRZUF9YVVNDTGwwSG9vV0VXTldLZEtUNGZaMHBueF9IOXdUTEhlMFFyWHV5T1dVUF9UbHBoeTZaREx4ZzNlRFYzVm0xdTNhSlc4YUJqN0I1OTF1MUNSMTJlTVNQQmlyWldJMTB3eGdZUEZVdEVNMDVpaE15eU9ZQjdBZi03T0xMQi1ISDZMWHhkaTUyOHZxa1FvNFlMY0JDUGhGYUhSNXZqQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -602,6 +1073,44 @@
     ]
   },
   {
+    "id": "lg_elec-2026-05-29-024",
+    "date": "2026-05-29",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG's 39-Inch Ultrawide 5K2K OLED Display Officially Begins Shipping Next Week - MacRumors",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQMFB4d0VoOExTVEt2TEdCMWo4bHNUaFVhMDBsRk1ueUdDZFF3UUFHWW9uNjNKRklPRnNrZlRIMHo3RER2ZXBjczJndGNaeDlqTHAxdnZMWWlscVp1T3RHV3ZOcTF0SkszaFk5M1hFTk",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMFB4d0VoOExTVEt2TEdCMWo4bHNUaFVhMDBsRk1ueUdDZFF3UUFHWW9uNjNKRklPRnNrZlRIMHo3RER2ZXBjczJndGNaeDlqTHAxdnZMWWlscVp1T3RHV3ZOcTF0SkszaFk5M1hFTkVHZXB4bVMyWWxtTUR3dTNpUA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-05-29-025",
+    "date": "2026-05-29",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is LG Electronics' Google Partnership a Game-Changer for Investors - Kavout",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmFva193Mm1DZFhZMnhrdEFPZEFBbEpkZjZzaXd3Nk5NWUN3d3VIT2VFSTBELVRwZkRCRlI2MTVjVmgzQWVMdzNVeGEzdWUxbjdhOU1TTG1rUE9tUUlnYUxET2xUYndBQzh5OEZDOX",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmFva193Mm1DZFhZMnhrdEFPZEFBbEpkZjZzaXd3Nk5NWUN3d3VIT2VFSTBELVRwZkRCRlI2MTVjVmgzQWVMdzNVeGEzdWUxbjdhOU1TTG1rUE9tUUlnYUxET2xUYndBQzh5OEZDOXdNejNVWjY0UndXLXlsWEdPSGdUY29BcEJhYUdXWjZXLUptbm9EaDR4Z3BDZmx4UWpzRlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-05-28-001",
     "date": "2026-05-28",
     "companies": [
@@ -1009,6 +1518,27 @@
       {
         "name": "boe",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRUVIOHdGbXJ1dXozbTlZYlRUZEcyRkM1TjBmbWJySVd1X20ycEdQSGpQTW1DdlE3TDJIREdEVGJod1dodldrYkJyeHVldzBEc2ZBQl9NRHd0Mko1Mi1nanlNcm1YeF83WkxwMmsteExCcUJ3SEItLWV0czJGMGJGc3VvOFE5aTFha3otUjhOS3RvZlFCVXRUVEY2cmx2YXNRQ2RIeF9lNWFoOF90dENDWkFn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-05-28-022",
+    "date": "2026-05-28",
+    "companies": [
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG and Samsung Announce Two Very Different OLED Innovations on the Same Day - Digital Foundry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMklnalh5NWU5X0lyYU1ZVFpvY3Ezam5NckFiR2h0WVNWdTlabjlYWFFlQ0REUTdMR1Z2Y3FJM2NYVFRxQVpUSW1MTjlGZ1dzLVg2eWlDQW55QUM3eVdfWkZrbzVtd0NTa25TbjBIen",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMklnalh5NWU5X0lyYU1ZVFpvY3Ezam5NckFiR2h0WVNWdTlabjlYWFFlQ0REUTdMR1Z2Y3FJM2NYVFRxQVpUSW1MTjlGZ1dzLVg2eWlDQW55QUM3eVdfWkZrbzVtd0NTa25TbjBIendubktFNU5OSWpVa3ZJdm5yZ1JBekRRUXNBLTBuU0VOSTVfRVVZT3hBWUNiQmtEMm9VZndwX1oyZFd6VmQ5bS1qWHBWSWdKeUl3SmxV?oc=5",
         "type": "rss"
       }
     ]
