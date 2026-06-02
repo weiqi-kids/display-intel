@@ -1,0 +1,250 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T12:05:29.772364Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-06-02-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display demonstrates SDV technology leadership with ASPICE global automotive software recognition - PR Newswire",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "automotive_display"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcHVPTkdiTXJETEloaGxPYS15LWVQZWZOYnR6SzhudFlSbjFiSmdXX2Q2SzdBbnRKVUpaTGcyZ0tBUGRITEtEdUN2dXhwRGdaWEhUTWpEcE51S3gwMVZGWC1OZE9PRjBlRk5HQUNHQTAxdjR4VkplXzVvMjNSa0FQeWJYSG13am1HOGtLSU1XN3NSY3VQamFfdWJTVmQ5Q3Nod0FGRzRWd1d6RVhwZGs4cURaYkNTaTE3WHRoOHA0TGtJUGtON3NUc1VWOHp3NmJoVzFrZkZRd3RpMVgza0M3TTdGNk1WQkgxdnpZQw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_display-2026-06-02-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Showcases World’s Largest Gaming OLED Lineup in Taiwan - Ink World magazine -",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdHB0T09Yd096SmtMX0dLMmF4MUVaVXpCdzF5d2RtSHFrTHh5Z21EUDlYek0zcnBlTE5rRDF2R2l1OEZvQU4wamZTcENHM3ZmQUhTRV9BYUhaVUNJM2VaaVFLWjJoeF9fM05OUWtiQ3EzZ2JXTzRhSWhNMEFPa05CWUtTTm9mMVhUZmx5cl9ZTzAtdE5MWFNOY3UwSXhtdzVXSmF2ZWxEY2FpYmxxTTRkdVJ3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_display-2026-06-02-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Verifies HMO OLED on Gen-6 Line as Apple Eyes LTPO Successor for Apple Watch - Tech Times",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcmpLeVpJMGk0cFZWeEtLeE9lWGU5am1JYlYxcXQzYm8wQ3lqelM0TDNtaWN0UDFBZml0dFlwVTFaVzhLLVZ0WXVUNURrZk0ybUhlRWJDRXMxRGFaTUlvdmpXUWlsTGEwTGFUdFR1aTBzcm0xQ3F2eGVESF9XSkxMVlIzbFlBV1JCVVpOVE55LXVJV3dlVVRVSE5HMG8zU0I1d1JtX1dudnN0UTlIMlZDRWZ1YThzTkhwY0NhTWRfbU80cWRTM2xKZUhRUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "innolux-2026-06-02-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Display to semiconductor: Panel makers weaponize large glass substrates for FOPLP",
+      "companies": [
+        "innolux",
+        "auo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260525RS400/foplp-technology-packaging-ai-chip-panel.html?chid=2"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "2027 Apple Watch Could Adopt Next-Generation OLED Display Tech - MacRumors",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUnhnbGJTWnAwRUtadFQ5cjZ6VDJOTVlodDh0Q2RDRGdMWndMSUZBS3laVDFySzVzaExmYUY3ZWFsbWlIUVhGalA0QUgxQkVpWm1DU1dwOE44N2ZESkpFYTVVVVNUODQ1UmFMRXlWOTZOTkdNR1dpdDRVOV96VDZ5SGgxbkpoS2lLZ1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automotive_display": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "automotive_display",
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 4
+      },
+      {
+        "id": "lg_display",
+        "count": 3
+      },
+      {
+        "id": "boe",
+        "count": 1
+      },
+      {
+        "id": "innolux",
+        "count": 1
+      },
+      {
+        "id": "auo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 5
+      },
+      {
+        "id": "automotive_display",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 109,
+    "too_old": 180,
+    "gate1_blocked": 37,
+    "gate2_blocked": 19,
+    "passed": 15,
+    "pass_rate": "6.0%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "Corning Incorporated (GLW): Leopold Aschenbrenner Discloses New Holding - Yahoo Finance",
+      "Corning Stock Is Up 288% in One Year: Here’s What’s Driving the Rally - TIKR.com",
+      "Corning Incorporated: - marketscreener.com",
+      "Jim Cramer Discusses the Tremendous Growth of Corning - Yahoo Finance",
+      "Canon commercial printer designs win Red Dot Awards - Canon Global"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為LG電子、LGD、BOE Technology相關動態：「LG Display demonstrates SDV technology leadership with AS...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LG Display demonstrates SDV technology leadership with ASPICE global automoti...（車用面板）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display Showcases World’s Largest Gaming OLED Lineup in Taiwan - Ink World...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

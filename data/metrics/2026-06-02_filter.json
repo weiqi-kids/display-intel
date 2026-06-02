@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 180,
+  "gate1_fail": 37,
+  "gate2_fail": 19,
+  "passed": 15,
+  "gate2_samples": [
+    "Corning Incorporated (GLW): Leopold Aschenbrenner Discloses New Holding - Yahoo Finance",
+    "Corning Stock Is Up 288% in One Year: Here’s What’s Driving the Rally - TIKR.com",
+    "Corning Incorporated: - marketscreener.com",
+    "Jim Cramer Discusses the Tremendous Growth of Corning - Yahoo Finance",
+    "Canon commercial printer designs win Red Dot Awards - Canon Global"
+  ]
+}
