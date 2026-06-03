@@ -1,0 +1,16 @@
+{
+  "total_raw": 340,
+  "dup_title": 106,
+  "no_date": 0,
+  "too_old": 180,
+  "gate1_fail": 23,
+  "gate2_fail": 18,
+  "passed": 13,
+  "gate2_samples": [
+    "Corning Incorporated (GLW): Leopold Aschenbrenner Discloses New Holding - Yahoo Finance",
+    "Corning Inc Stock (GLW) Moved Up by 13.07% on Jun 2: A Full Analysis - TradingKey",
+    "Corning Surges 10.6% Amid Sector-Wide Rally - AlphaStreet",
+    "Corning Stock Is Up 288% in One Year: Here’s What’s Driving the Rally - TIKR.com",
+    "Corning Incorporated: - marketscreener.com"
+  ]
+}

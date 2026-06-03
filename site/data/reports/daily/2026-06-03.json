@@ -1,0 +1,208 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T12:43:10.621833Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-06-03-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Abaco Wins LG Display Order for Gen-6 OLED Deposition Automation Equipment - thelec.net",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZcG5UV1NDc0JVWVNnZFg0M0s5MTJKRTNPbFYyUlJhOVpsd3BnTG9iVjBuOFFyOVYxSzZyWUFNLVBoa0ktZ2ZKcjY3OXFCU2R4cjhxYUd1bjNKeE8wdzBUZFlEVmlaVms?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Display Firms Target Office Market With Advanced OLED Monitors - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcFFMMEZHWlhydmMzZS1MU1E0S2VZWGJGMmZDd3lNUXFYR2NCRWlPUEZEaWpMZGwwYlRfRUNTZjZMU3pUNFhTaWNKYlVzNUpiejRhaVRqM1A1Z0VZck83dTRZOF9VR1VjdlhEQzBpVjhfNGdrUFRBcm5YeWNucHpfUmNfNUZ5UDN4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-06-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NineTech Wins 25.4 Billion Won Display Equipment Order From LG Electronics - thelec.net",
+      "companies": [
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QWVJDczZYY29HRXp4bEVrZXk5Z3hYZ2xMdjlZdWxqbDJmY1BnckxKZWhVWDh2YmtIUU1ZRlphOUV5OGctU012dDNINm02OEh1OFNoMmpBMU1CMUhWWjk0Q2dUZUo3WjA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tcl-2026-06-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TCL TECH Unveils 2025 ESG Report: Driving Global Sustainability Transformation with Advanced Technology - TradingView",
+      "companies": [
+        "tcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWXF5RXlJc2VpcnE0dThNemRiSXlJeGJ5cHlxc1JzdEIwYW5PTFhGN2d6YlhveG9UV0hWWTRfSGhRSG9iTWJXNzJpTkZRdWVYQ1F5OXB3bUdFOF83VnFqcFQ0MW1wYTRrUGdLb0VJTmIwTUpzOHhjcG9qZUJ6WGhXd3Jtd2RBTXNmeWoxcWNoRWJudWNDX1hILWN4b3ZCNW44VFE2a3FYbGZ0RjhzXzVnRl84U0VqR3M0Q1dvaHdFdlUxTzlIMW80MDNDaVlkVEhsLTNYRXNDOVlBaDFndDI0RTl1ekNDV0lKUFVMb3lBZVp3ZjBockE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hisense Brings Real MiniLED Pitch To India’s Premium TV Buyers With U7SE - Prittle Prattle News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdC1qakZObGVGR1ZWUFB1bzV3NlBNYTh3X1JidUU4UVlSclBQSTQ2U2tmU3hKN1RhRGxrQk8wT1FnU2JVVUk0SmxTLTgtbmlmVmNaTnEwTVVQNXNpaDZIWHVEZlh5WWlCUmhvRXZLLUc5OXJ4RVlZdF82Y3ZLb3JSclpTNGpRVkhsLWxBVmxWek92QQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 340,
+    "dup_title": 106,
+    "too_old": 180,
+    "gate1_blocked": 23,
+    "gate2_blocked": 18,
+    "passed": 13,
+    "pass_rate": "5.6%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Corning Incorporated (GLW): Leopold Aschenbrenner Discloses New Holding - Yahoo Finance",
+      "Corning Inc Stock (GLW) Moved Up by 13.07% on Jun 2: A Full Analysis - TradingKey",
+      "Corning Surges 10.6% Amid Sector-Wide Rally - AlphaStreet",
+      "Corning Stock Is Up 288% in One Year: Here’s What’s Driving the Rally - TIKR.com",
+      "Corning Incorporated: - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為LG電子、LGD、TCL Technology相關動態：「Abaco Wins LG Display Order for Gen-6 OLED Deposition Aut...」。主要關注主題為OLED 滲透率、Mini LED，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Abaco Wins LG Display Order for Gen-6 OLED Deposition Automation Equipment - ...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Display Firms Target Office Market With Advanced OLED Monitors - 조선일보（OLED 滲透率）",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
