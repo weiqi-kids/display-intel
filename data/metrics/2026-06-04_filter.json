@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 181,
+  "gate1_fail": 23,
+  "gate2_fail": 14,
+  "passed": 20,
+  "gate2_samples": [
+    "Corning Incorporated (GLW): Leopold Aschenbrenner Discloses New Holding - Yahoo Finance",
+    "Corning Surges 10.6% Amid Sector-Wide Rally - AlphaStreet",
+    "Corning Inc Stock (GLW) Moved Up by 13.07% on Jun 2: A Full Analysis - TradingKey",
+    "Corning Stock Is Up 288% in One Year: Here’s What’s Driving the Rally - TIKR.com",
+    "Jim Cramer Discusses the Tremendous Growth of Corning - Yahoo Finance"
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T11:02:19.552495Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-06-04-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Unveils Top-Tier Gaming OLED Lineup in Taiwan - Seoul Economic Daily",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS1pvTTRqWHpuRms3NHpoZ2VtNTY3N2s0UWdkOGRRUF80eV9jSVctaUVhcEJjSzluUk5TRFpyaUo1UHJVckJHOUZ1cVFqR19fLWtIbFRpVTNSMHg1blJNQmJUSG5lZURmVFZHSVQyUlhHT0pZN3czcVNZejN4QnpYVkk1cFdLTVlwRlEzcTRrQzh3UDdIdHVjSC1IWDhhRGs?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_elec-2026-06-04-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Samsung, LG escalate Taiwan OLED race as AI era keeps focus on screens - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "samsung_elec",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NaWxEVjZjVHJTX1ZWNEpRQ2FkVjQxZTVMMlREMVQ3RVp2NTVvaG94cmw3Y3Etb1FLR0lvTEpTdUlEVG9RUVQ2SVBYYjVjTGxhQ05XdXdmSzgxd0ctLUdUUVRnYjlrU3BBZDVnb2lUNlRTY3QwV0xzdlZB0gGOAUFVX3lxTE04bmtVRjhhWEFzLWZWQV9wSDgtUXM2MG9ZVlNnQ2YtSTdfWHZsZmM3TmFpLXMwZTJvOUdEb2NMWU1QY2s2OUtqWjdWam8yTjJqOXdlNV9yTFFEWFdGU0t6aW9KSVBEUVVoOGpYZTJ1R2U0WjYtelZqTlJQVi1zNktGUjRZZzNoXzNybUFhWkE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "canon-2026-06-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Canon U.S.A., Inc. Expands imageFORCE Lineup with the Launch of imageFORCE C3100 and 4100 Series A3 Multifunction PrintersDesigned to Deliver Powerful Options for Businesses With Evolving Operational Needs - Industry Analysts, Inc.",
+      "companies": [
+        "canon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNeV9Wa0s4cFVlNEVoWmo0RDdsRWZDUTBXd21QZWtmQlEzMzlBb0NWTzFMMTRuc2VEUm5OZ3ZxdngzX0s3UlBFZnpFOUltY001ck10eGxvTmphSW5yZXZLak9haGZsYUFsbV81aG5CUVZFQUZfVzNpdDd2XzFSd2taZkZjWlhUT1FnYlI1SXFuRFpyck5LRzFENi1kaGplRXlsTHZLZWtzcHFkekNIb2RpY205QWJTTW81TWhQUlJJLXFNR0dnT2g3dnYyd2pvNXFLbTBZZkNZTGhlRHNxTnNkaUJHMEJfMXRZZkVzME03ZklfUjhpNHVmZkJ6d0FDWExLTXVadmRZVkhrbVRBS0w2WGZFcXBTN0Jscm1DdHg4VzhhUk5qM2hYd1JheHVNSk03dDhWUTRhVnZXUF9CM2l0NE9GN0VjNGNqSlE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_elec-2026-06-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "\"LG OLED game monitor is so immersed in the game\" - 매일경제",
+      "companies": [
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WbjJIa01KUGRtT1c2QTl6TnZrd2w1SjhQWXFhZzNTYmdUdW4wcmNjZDJnMGt1WFlDZ3RtMGhwSGlQYlU1THBWMEh0VGRQVm00VS1F?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-06-04-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Introduces Next-Gen Galaxy Watch Features for AI-Powered Everyday Health Companion",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/samsung-introduces-next-gen-galaxy-watch-features-for-ai-powered-everyday-health-companion"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "lg_elec",
+        "count": 3
+      },
+      {
+        "id": "canon",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 7
+      },
+      {
+        "id": "mini_led",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 361,
+    "dup_title": 123,
+    "too_old": 181,
+    "gate1_blocked": 23,
+    "gate2_blocked": 14,
+    "passed": 20,
+    "pass_rate": "8.4%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "Corning Incorporated (GLW): Leopold Aschenbrenner Discloses New Holding - Yahoo Finance",
+      "Corning Surges 10.6% Amid Sector-Wide Rally - AlphaStreet",
+      "Corning Inc Stock (GLW) Moved Up by 13.07% on Jun 2: A Full Analysis - TradingKey",
+      "Corning Stock Is Up 288% in One Year: Here’s What’s Driving the Rally - TIKR.com",
+      "Jim Cramer Discusses the Tremendous Growth of Corning - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為三星電子、LG電子、佳能相關動態：「LG Display Unveils Top-Tier Gaming OLED Lineup in Taiwan ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LG Display Unveils Top-Tier Gaming OLED Lineup in Taiwan - Seoul Economic Daily（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Samsung, LG escalate Taiwan OLED race as AI era keeps focus on screens - CHOS...（OLED 滲透率）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
