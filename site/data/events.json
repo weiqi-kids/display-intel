@@ -1,5 +1,44 @@
 [
   {
+    "id": "lg_elec-2026-06-05-001",
+    "date": "2026-06-05",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Faster, Clearer, Brighter— LG Display’s High-Performance Gaming OLED Full Lineup Captivates Global Customers in Taiwan - LG Display Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT3pRVDR5dzMzcWpZNXpUZEFJcGlIZEVNd0dGOWVxZTB4WGl1YlZra0tGd1Z0cm9aSmlBRnRKY1YzNDZFQnNTWE1vX0dRZ0cwUHhhSWhlV3hxMl9qd2J0TmYxaUJoRFNTU0JmclNubm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT3pRVDR5dzMzcWpZNXpUZEFJcGlIZEVNd0dGOWVxZTB4WGl1YlZra0tGd1Z0cm9aSmlBRnRKY1YzNDZFQnNTWE1vX0dRZ0cwUHhhSWhlV3hxMl9qd2J0TmYxaUJoRFNTU0JmclNubmhTS0JnREQzWWRua3luSy1CUGNrUTZibXY4QnJvMmg4Z1FyalNRRVFXcnZIQmJIZ0gyLWozS0RQTlRTaEhOUWRMdjFwYkN1Q2NTVlpyaEdlTmh4clBJOVNJc0p3RGtlRFF2N2dLV2M2ajBzR1RkZmYxbDlpNHRrQWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-05-002",
+    "date": "2026-06-05",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[Interview] Samsung Color E-Paper x PLEATSMAMA: When Retail Spaces Reflect Brand Values",
+    "summary": "In a fashion industry driven by rapid production and short product cycles, Korean brand PLEATSMAMA has made sustainability part of its approach to innovation. Known for its pleated bags, the brand was",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/interview-samsung-color-e-paper-x-pleatsmama-when-retail-spaces-reflect-brand-values",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-06-04-001",
     "date": "2026-06-04",
     "companies": [
@@ -224,6 +263,136 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0d3JUQWx6VXZOeTh2NXd0V1dGV3ZzS016aFIwSUFyRHN5YjM3NmFLenNJaFo1NFEzRkg2Q010cEpqOGVlWkJmQ2hwYnJ0QjYyUjNaV1ZGcnBYdXlBVERiVlRUYm1JMlRSRDJjQldYYmQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-04-013",
+    "date": "2026-06-04",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Surges 126.6% in Six Months: Should You Buy the Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQRFFudDh2TVlRblBjdTFYT2R3cnhyRWdiWUlMd3B3a1I3SllNWTM4cnN0TldTcEo2QjZJdzRMOVMtaU9uWkx1TG5mTUo4SEcyREFGbnJRTmpGRXBCaVkxU1hDMDJMdGpWa1BsOGlLal",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRFFudDh2TVlRblBjdTFYT2R3cnhyRWdiWUlMd3B3a1I3SllNWTM4cnN0TldTcEo2QjZJdzRMOVMtaU9uWkx1TG5mTUo4SEcyREFGbnJRTmpGRXBCaVkxU1hDMDJMdGpWa1BsOGlLaloyRnlYUm1OczhTZFFVenp4eTVycjNiOGlPOEdmTFpoUmRrelU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-06-04-014",
+    "date": "2026-06-04",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Launches New imageFORCE C3100 and 4100 Series A3 Multifunction Printers - The Cannata Report -",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5wdnZLUXNJV2xZRFZMSjZFdEh4SUhjWjBXbnF1NFo5Vlc1N0FiRUZ4cW9NbEljNFBnRnR6UlpQN3Bkd1ppbkZNTlA2UjNRZHk2Z21ZV042TWZtVmRXV1BiZFVaQ2ViYUVHYXc1aW52UH",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wdnZLUXNJV2xZRFZMSjZFdEh4SUhjWjBXbnF1NFo5Vlc1N0FiRUZ4cW9NbEljNFBnRnR6UlpQN3Bkd1ppbkZNTlA2UjNRZHk2Z21ZV042TWZtVmRXV1BiZFVaQ2ViYUVHYXc1aW52UHRYR3FlelA2WktsMW0tZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-06-04-015",
+    "date": "2026-06-04",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Top Trader List | Over RMB 1.4 billion aggressively bought BOE Technology Group A-shares; a trader from Northeast China snapped up RMB 290 million worth of Wogee Optics! - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNUjlHZFZjSkNWdUY5bFYyWEFUaV9BZnkyV3EtTWVVSHZCblRFOHN1WnVaQnBwVDZiblVyNmZ1RTJXZVdjdXlVU0lLb0xrb2ZRQUtfU1FxNDdTX0cyOEhLZm9UOGxDa3hCQW13TFNDVS",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUjlHZFZjSkNWdUY5bFYyWEFUaV9BZnkyV3EtTWVVSHZCblRFOHN1WnVaQnBwVDZiblVyNmZ1RTJXZVdjdXlVU0lLb0xrb2ZRQUtfU1FxNDdTX0cyOEhLZm9UOGxDa3hCQW13TFNDVS1KYi1IQnRTSDZyeVNDb2loX0lEZGhLQ3pUUjRSU3k4OVdKcGtITGczWnFhU0dSdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-04-016",
+    "date": "2026-06-04",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Applies its Award Winning QD-Mini LED Display Technology to Level Up Premium Gaming Monitors - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQMzl3M2ZGTVJUbVpRVldMbS04Z0NXN1V0MTdPSjRqem5EOXJvWi0xTWtoQWN1OHdEeXg5WUhTa0tzbm10dkUyUXFLTC03X0t6TTBOckl1WDJKQ3luSmdVY2Q4NC1vSjZQZlpEVnQ3Wk",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMzl3M2ZGTVJUbVpRVldMbS04Z0NXN1V0MTdPSjRqem5EOXJvWi0xTWtoQWN1OHdEeXg5WUhTa0tzbm10dkUyUXFLTC03X0t6TTBOckl1WDJKQ3luSmdVY2Q4NC1vSjZQZlpEVnQ3WkY5eWhKS0tOMTFxQU1YNVhGcVB1MXRRYmFzeU52aEtwRjZ5aFEzbWFENGhMTGQ3QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-04-017",
+    "date": "2026-06-04",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "TCL Unveils Expanded Monitor Lineup in Europe, Including its First Flagship OLED+ Monitor - PA Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxONmZOZXlIRmVFUXMtQmlmWVVtWHBVS3VkZEg3a3ZFc0J4eGpsOWJSbndiVXhHel9GdGtfVHdqUEl1bW1Gb0gyWDVCT1B1X2kyZHRxdi0wcnhfWWhNUG45R0FtNzdVTVk4TVFzY2QzTG",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONmZOZXlIRmVFUXMtQmlmWVVtWHBVS3VkZEg3a3ZFc0J4eGpsOWJSbndiVXhHel9GdGtfVHdqUEl1bW1Gb0gyWDVCT1B1X2kyZHRxdi0wcnhfWWhNUG45R0FtNzdVTVk4TVFzY2QzTGtJU3d1OGV4ZmtOclN5X282Q0JCWEcybVFEdUpzRF8xVllEZUV1alJiTGZNMDhycUJSaEJfUFVnYzlpSHVTLW1EQkRlajZMWDBUVTl1dFUwdlhmUnV6TUVUa0gtc2I3Vm5TRVNSRExR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-04-018",
+    "date": "2026-06-04",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Hisense surprises and launches the world's first monitor with RGB Mini LED: Model 32UX features a 32-inch 4K screen, 180 Hz refresh rate, 2,000 nits brightness, and promises advanced image quality without the risk of burn-in. - CPG Click Petróleo e Gás",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOLWNsSmM2MUJ2YnNuWGpIWDJIVzA2RmEzSjFpZ0lQa1k5eHNLODkxN0ZhTUlfR0w0aFBycVIzbDJWLV9mQ2hLeldDQVduSkJVVXVIUm9tNFRFQTNaQ1lLd2VOS0tMeTNXbmhKMS1SZ3",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOLWNsSmM2MUJ2YnNuWGpIWDJIVzA2RmEzSjFpZ0lQa1k5eHNLODkxN0ZhTUlfR0w0aFBycVIzbDJWLV9mQ2hLeldDQVduSkJVVXVIUm9tNFRFQTNaQ1lLd2VOS0tMeTNXbmhKMS1SZ3EzYXFYdExDMmwzdFJKNldpLXFreXhjLTdyOHk3d0p1OGVhaU5LYktLU2hsTkhFSjZvY2R5YkNvQ005QzE4WlVwRm5nTGpzcG82R01TelczZEJsYXlGZk1tWWZZVFhIaEtHQjREZzZZcUlxWmlCMzhLbmpIbWRFbUNVN0U3Nlh0QUFFdnExNGZkQ1g5Y2FXS0U0dW1wUk55d3cteW9BSGJfMGtR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-04-019",
+    "date": "2026-06-04",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Xiaomi TV FX Mini LED Series With QD Mini LED Display Technology, Cortex-A55 SoC Launched In India: Price, Specifications, Offers - ETV Bharat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUWJEMjg0M3pKZGNKZkZVRTI4R0UxUXRQS1lxZXdkQlBMNTFXc1gwMWNZU2JTN0xhdkZ5NnhYMERXcl90bS15SjZEemxDdTV1MFN0R2pjWE41NzJhbnJwNmJVVjFhclFreG9Vdl9iaj",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUWJEMjg0M3pKZGNKZkZVRTI4R0UxUXRQS1lxZXdkQlBMNTFXc1gwMWNZU2JTN0xhdkZ5NnhYMERXcl90bS15SjZEemxDdTV1MFN0R2pjWE41NzJhbnJwNmJVVjFhclFreG9Vdl9iajBhRlRUYm16UFo2c1hNc2FxSi16OUlPS0x4MldBcVZJbktPWTZkdTJkOUtiVzNZdkwtc2tFdDhpLWpEVDhNdzBsSjhLNEp4QTFsNkhMSTV1djlnR05WZHlWLdIBzgFBVV95cUxQdkE4UzRIcDNUM2FqaEFjU0FjaXNGUlh0dUpTT2hHbWliMGEtZUlENksxQUVEMWRrQlpiSENXSVV5NTVVRjBtSFFOclJ6dXEzNW1zWlMzc1JCVnNXUkdUWWlKSWNITlgyVU41N3V5MXhkemNFelRFSmhlY29rV1Nkc0pwV19VcHBDWlA0cUJvOFFVNEgzU0ZjTmlxSTUzNWk1enNlaXpJWmowX09YSXY0MWFaYnM0TUdta1I3MmxoaEExN1ZfU2hCSnRaSXpfZw?oc=5",
         "type": "rss"
       }
     ]
@@ -712,6 +881,27 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaVBMOFdzVE5vVXZHSzJoM19nWnM4QUJlTUtpYndHQWVCUHI3Mm9vTE01bE9UUlVIbERiUVJhazM3V25sXzEwTTBwQVlEQk9lOGZGQ2pfa0dkQnBMSGNla0liY192OFVjd0RzTGRNRWgxU3ZYWjRYeTBEVUw5dkhQVlNBS1dLcGZkbTRLTVpqeFRfOW9MV2VjWlVmRjEwYVNmcXdETjhTamtMMURuM0JVLUJKUXNWckNIWDdpRW1qNzRPZ09uUE5pc3FJd3dDd0t2T3NFZm9RbGo1ZXo3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-02-017",
+    "date": "2026-06-02",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Develops HMO Technology for OLED Displays Amid Apple Interest - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnFxMnhKOUJpSHZ6NDk0WHA4bFU0eTFpVlktNkZGX3RJQy1EY3ZOZGZKWXUwYnlELUc3MWNHeDducE9SYXNFeHZiYVF3am9WQXU5OFVvLWVPX1NFOTRNeGRxZGJUVnVFWDVsTTZacD",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnFxMnhKOUJpSHZ6NDk0WHA4bFU0eTFpVlktNkZGX3RJQy1EY3ZOZGZKWXUwYnlELUc3MWNHeDducE9SYXNFeHZiYVF3am9WQXU5OFVvLWVPX1NFOTRNeGRxZGJUVnVFWDVsTTZacDllU3hkaUdYaW42aC10MlF1N2IwOVozM2NXblZEY1JzOW9xdTEwQ05aWXo5Szg1LVNOSUJjemNuTWwtSXZ5WVhuczhScndyWl9ycElUREkyUUY?oc=5",
         "type": "rss"
       }
     ]
@@ -1312,6 +1502,27 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/reports-suggest-samsung-considering-expanding-its-flexible-and-foldable-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-01-031",
+    "date": "2026-06-01",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to showcase world's largest Gaming OLED lineup in Taiwan - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW5nQ1B0Q1FSYkxrVURKcVAzODlrMS04R1E4MmUtdXRHaHRwZTlNd243T19SamlRVU1WcXRqdDMwRjg1TzN1cVBkLVJXN055dHVVb1RUenBpdGwyUGtfclNUTmNoS0lsbGF2WWxMWH",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcW5nQ1B0Q1FSYkxrVURKcVAzODlrMS04R1E4MmUtdXRHaHRwZTlNd243T19SamlRVU1WcXRqdDMwRjg1TzN1cVBkLVJXN055dHVVb1RUenBpdGwyUGtfclNUTmNoS0lsbGF2WWxMWHZidEV4bFp5dm5UU21FSHFvYndjbW51RElyWFdjTXhBMENWUWxKMUtfcWR1eDBxaXY3TG1FWFZWbGdhZ3ZiVExxbw?oc=5",
         "type": "rss"
       }
     ]

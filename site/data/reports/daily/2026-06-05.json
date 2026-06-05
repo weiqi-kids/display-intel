@@ -1,0 +1,134 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:28:13.475643Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-06-05-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Faster, Clearer, Brighter— LG Display’s High-Performance Gaming OLED Full Lineup Captivates Global Customers in Taiwan - LG Display Newsroom",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT3pRVDR5dzMzcWpZNXpUZEFJcGlIZEVNd0dGOWVxZTB4WGl1YlZra0tGd1Z0cm9aSmlBRnRKY1YzNDZFQnNTWE1vX0dRZ0cwUHhhSWhlV3hxMl9qd2J0TmYxaUJoRFNTU0JmclNubmhTS0JnREQzWWRua3luSy1CUGNrUTZibXY4QnJvMmg4Z1FyalNRRVFXcnZIQmJIZ0gyLWozS0RQTlRTaEhOUWRMdjFwYkN1Q2NTVlpyaEdlTmh4clBJOVNJc0p3RGtlRFF2N2dLV2M2ajBzR1RkZmYxbDlpNHRrQWs?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_elec-2026-06-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "[Interview] Samsung Color E-Paper x PLEATSMAMA: When Retail Spaces Reflect Brand Values",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/interview-samsung-color-e-paper-x-pleatsmama-when-retail-spaces-reflect-brand-values"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 128,
+    "too_old": 183,
+    "gate1_blocked": 23,
+    "gate2_blocked": 15,
+    "passed": 11,
+    "pass_rate": "4.7%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "Corning (GLW) slides 5.3% as investors digest a sharp AI-optics run-up and renewed valuation worries",
+      "Corning Surges 10.6% Amid Sector-Wide Rally - AlphaStreet",
+      "Corning Inc Stock (GLW) Moved Up by 13.07% on Jun 2: A Full Analysis - TradingKey",
+      "Corning Incorporated (GLW): Leopold Aschenbrenner Discloses New Holding - Yahoo Finance",
+      "Jim Cramer Discusses the Tremendous Growth of Corning - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為LG電子、LGD、三星電子相關動態：「Faster, Clearer, Brighter— LG Display’s High-Performance ...」。主要關注主題為OLED 滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Faster, Clearer, Brighter— LG Display’s High-Performance Gaming OLED Full Lin...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "[Interview] Samsung Color E-Paper x PLEATSMAMA: When Retail Spaces Reflect Br...",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

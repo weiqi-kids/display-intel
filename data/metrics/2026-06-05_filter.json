@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 183,
+  "gate1_fail": 23,
+  "gate2_fail": 15,
+  "passed": 11,
+  "gate2_samples": [
+    "Corning (GLW) slides 5.3% as investors digest a sharp AI-optics run-up and renewed valuation worries",
+    "Corning Surges 10.6% Amid Sector-Wide Rally - AlphaStreet",
+    "Corning Inc Stock (GLW) Moved Up by 13.07% on Jun 2: A Full Analysis - TradingKey",
+    "Corning Incorporated (GLW): Leopold Aschenbrenner Discloses New Holding - Yahoo Finance",
+    "Jim Cramer Discusses the Tremendous Growth of Corning - Yahoo Finance"
+  ]
+}
