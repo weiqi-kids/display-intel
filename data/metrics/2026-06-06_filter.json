@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 40,
+  "gate2_fail": 20,
+  "passed": 14,
+  "gate2_samples": [
+    "Corning Incorporated (GLW): Leopold Aschenbrenner Discloses New Holding - Yahoo Finance",
+    "Corning (GLW): Company Profile, Stock Price, News, Rankings - Fortune",
+    "Corning Inc Stock (GLW) Closed Down by 10.11% on Jun 5: What Investors Need To Know - TradingKey",
+    "Nvidia and Corning partner to expand U.S. optical manufacturing - Investing.com",
+    "Corning (GLW) slides 5.3% as investors digest a sharp AI-optics run-up and renewed valuation worries"
+  ]
+}

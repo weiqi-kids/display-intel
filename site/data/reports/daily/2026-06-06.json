@@ -1,0 +1,184 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T10:04:30.610742Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "himax-2026-06-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Assessing Himax Technologies (HIMX) Valuation After New T2000 Color ePaper Role In E Ink Signage Platform - simplywall.st",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTl91Q0UtUGRGaURkQTZQRURIZGVoNU82WGVPS09CeFFiUWhPZmRsUjQyNjZHblhlWTlvZENXSzZHVjhnc01rM2NLeWF3QjVweDYxZlJpcTc4YVlFeTdJVTV5WVRhVmhiNjA5LWREdHk0OThJRkI0S0FoVE85Y3BJWmlRSkJRN0pMVnExTDllRnYyLW5xalAxTEQ5bVV6SnpzN01VcExmSUJVN25tTXpIbTBBa1ZDV3lPMHZNbG55N0tmNjRtN0VxWlFJSW50eW9sd0JKeFBsWVRVWVRlVWs00gHfAUFVX3lxTE9OX3VDRS1QZEZpRGRBNlBFREhkZWg1TzZYZU9LT0J4UWJRaE9mZGxSNDI2NkduWGVZOW9kQ1dLNkdWOGdzTWszY0t5YXdCNXB4NjFmUmlxNzhhWUV5N0lVNXlZVGFWaGI2MDktZER0eTQ5OElGQjRLQWhUTzljcElaaVFKQlE3SkxWcTFMOWVGdjItbnFqUDFMRDltVXpKenM3TVVwTGZJQlU3bm1NekhtMEFrVkNXeU8wdk1sbnk3S2Y2NG03RXFaUUlJbnR5b2x3Qkp4UGxZVFVZVGVVazQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "himax-2026-06-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax Wins E Ink Deal Raising Questions On Valuation And Growth Potential - Yahoo Finance",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdGpVaTUyR1V2R0JUUzBhNUp2MWN5QzZkekg1UFFYTVlVM3Q2VnF1UDFOc0JWYjJVUXkzMmdFRk5Sc0d1T0lWMXp0a1hkcDFoQ2ZKdVE0YUJBWnd0UVVJaFFVRk9xcFZyd3I5MVBWcWJSQUVyUXNELVdkc2w3eXpfWXRPUE4ydTlMci1FU1dzbw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Saudia and Azerbaijan Airlines both deploy Panasonic Avionic's Astrova 4K OLED displays",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/saudia-and-azerbaijan-airlines-both-deploy-panasonic-avionics-astrova-4k-oled"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_elec-2026-06-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AI demand squeezes mainstream DRAM supply as DDR5, DDR4 prices rise",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260603VL216/dram-ddr4-ddr5-demand-price.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-06-06-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "From Taiwan's supply chain to South Korea's Faker: how Jensen Huang reads different markets",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260606PD200/jensen-huang-taiwan-taiwan-supply-chain-gtc-nvidia.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "himax",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 129,
+    "too_old": 177,
+    "gate1_blocked": 40,
+    "gate2_blocked": 20,
+    "passed": 14,
+    "pass_rate": "5.6%",
+    "gate2_block_rate": "8.0%",
+    "gate2_samples": [
+      "Corning Incorporated (GLW): Leopold Aschenbrenner Discloses New Holding - Yahoo Finance",
+      "Corning (GLW): Company Profile, Stock Price, News, Rankings - Fortune",
+      "Corning Inc Stock (GLW) Closed Down by 10.11% on Jun 5: What Investors Need To Know - TradingKey",
+      "Nvidia and Corning partner to expand U.S. optical manufacturing - Investing.com",
+      "Corning (GLW) slides 5.3% as investors digest a sharp AI-optics run-up and renewed valuation worries"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Himax Technologies、三星電子、TCL Technology相關動態：「Assessing Himax Technologies (HIMX) Valuation After New T...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Assessing Himax Technologies (HIMX) Valuation After New T2000 Color ePaper Ro...",
+        "level": "green"
+      },
+      {
+        "text": "Himax Wins E Ink Deal Raising Questions On Valuation And Growth Potential - Y...",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

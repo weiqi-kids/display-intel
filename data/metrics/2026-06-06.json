@@ -1,0 +1,29 @@
+{
+  "date": "2026-06-06",
+  "total_events": 6,
+  "by_company": {
+    "himax": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "samsung_elec": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tcl": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

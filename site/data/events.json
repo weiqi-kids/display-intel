@@ -1,5 +1,113 @@
 [
   {
+    "id": "himax-2026-06-06-001",
+    "date": "2026-06-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Assessing Himax Technologies (HIMX) Valuation After New T2000 Color ePaper Role In E Ink Signage Platform - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTl91Q0UtUGRGaURkQTZQRURIZGVoNU82WGVPS09CeFFiUWhPZmRsUjQyNjZHblhlWTlvZENXSzZHVjhnc01rM2NLeWF3QjVweDYxZlJpcTc4YVlFeTdJVTV5WVRhVmhiNjA5LWREdH",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTl91Q0UtUGRGaURkQTZQRURIZGVoNU82WGVPS09CeFFiUWhPZmRsUjQyNjZHblhlWTlvZENXSzZHVjhnc01rM2NLeWF3QjVweDYxZlJpcTc4YVlFeTdJVTV5WVRhVmhiNjA5LWREdHk0OThJRkI0S0FoVE85Y3BJWmlRSkJRN0pMVnExTDllRnYyLW5xalAxTEQ5bVV6SnpzN01VcExmSUJVN25tTXpIbTBBa1ZDV3lPMHZNbG55N0tmNjRtN0VxWlFJSW50eW9sd0JKeFBsWVRVWVRlVWs00gHfAUFVX3lxTE9OX3VDRS1QZEZpRGRBNlBFREhkZWg1TzZYZU9LT0J4UWJRaE9mZGxSNDI2NkduWGVZOW9kQ1dLNkdWOGdzTWszY0t5YXdCNXB4NjFmUmlxNzhhWUV5N0lVNXlZVGFWaGI2MDktZER0eTQ5OElGQjRLQWhUTzljcElaaVFKQlE3SkxWcTFMOWVGdjItbnFqUDFMRDltVXpKenM3TVVwTGZJQlU3bm1NekhtMEFrVkNXeU8wdk1sbnk3S2Y2NG03RXFaUUlJbnR5b2x3Qkp4UGxZVFVZVGVVazQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-06-06-002",
+    "date": "2026-06-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Himax Wins E Ink Deal Raising Questions On Valuation And Growth Potential - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQdGpVaTUyR1V2R0JUUzBhNUp2MWN5QzZkekg1UFFYTVlVM3Q2VnF1UDFOc0JWYjJVUXkzMmdFRk5Sc0d1T0lWMXp0a1hkcDFoQ2ZKdVE0YUJBWnd0UVVJaFFVRk9xcFZyd3I5MVBWcW",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdGpVaTUyR1V2R0JUUzBhNUp2MWN5QzZkekg1UFFYTVlVM3Q2VnF1UDFOc0JWYjJVUXkzMmdFRk5Sc0d1T0lWMXp0a1hkcDFoQ2ZKdVE0YUJBWnd0UVVJaFFVRk9xcFZyd3I5MVBWcWJSQUVyUXNELVdkc2w3eXpfWXRPUE4ydTlMci1FU1dzbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-06-003",
+    "date": "2026-06-06",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Saudia and Azerbaijan Airlines both deploy Panasonic Avionic's Astrova 4K OLED displays",
+    "summary": "<p>Panasonic Avionics announced that two new airlines have deployed its Astrova 4K OLED entertainment systems. Saudia has installed the new systems aboard its new Airbus A321XLR aircraft.</p><img data",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/saudia-and-azerbaijan-airlines-both-deploy-panasonic-avionics-astrova-4k-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-06-004",
+    "date": "2026-06-06",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AI demand squeezes mainstream DRAM supply as DDR5, DDR4 prices rise",
+    "summary": "<p class=\"P1\" data-start=\"557\" data-end=\"840\">DRAM prices are climbing as Samsung Electronics, SK Hynix, and Micron Technology prioritize high-bandwidth memory, or HBM, for AI applications, tightening",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260603VL216/dram-ddr4-ddr5-demand-price.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-06-005",
+    "date": "2026-06-06",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "From Taiwan's supply chain to South Korea's Faker: how Jensen Huang reads different markets",
+    "summary": "Jensen Huang wrapped up his Taiwan run at GTC Taipei and Computex 2026 and flew to South Korea on June 5. His first stop was not Samsung or SK Hynix. It was Hongdae, where he met T1 star Faker &mdash;",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260606PD200/jensen-huang-taiwan-taiwan-supply-chain-gtc-nvidia.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-06-006",
+    "date": "2026-06-06",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL turns display innovation into premium viewing experience - InsiderPH",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPY3h3SUVpMXJvQkp2OEJIRjl0UVlZZ3B0dUNiZWFaNXZOclFmWEZXaGpYUGlZaVBoWWl0YzVEeHlHajlOcnpxUzgxbjNDWVpYeWI5b2kxS2ctV0doTlpSZjdNV3NieXhLbm91Y1JFTX",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY3h3SUVpMXJvQkp2OEJIRjl0UVlZZ3B0dUNiZWFaNXZOclFmWEZXaGpYUGlZaVBoWWl0YzVEeHlHajlOcnpxUzgxbjNDWVpYeWI5b2kxS2ctV0doTlpSZjdNV3NieXhLbm91Y1JFTXhGTm4wbFZkZXk1aU1MRjdGU0JrcDZDMWNUOGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-06-05-001",
     "date": "2026-06-05",
     "companies": [
@@ -34,6 +142,142 @@
       {
         "name": "samsung_elec",
         "url": "https://news.samsung.com/global/interview-samsung-color-e-paper-x-pleatsmama-when-retail-spaces-reflect-brand-values",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-06-05-003",
+    "date": "2026-06-05",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon U.S.A. Strengthens Production Printing Leadership Team - The Cannata Report -",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBWQ3FfRThpSlZrcW8tNm1NYWk0VkVWQ0M3cGw0amlMMVFiYmJTX1FBODh4YUQ0RGtEbTlqVXFvY1NaVVJpRG5vQzA5NjlVelBTSVk3X0QwOUlCY1hsajVYd3g3V1cxOWNYeUZPQzNjSW",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWQ3FfRThpSlZrcW8tNm1NYWk0VkVWQ0M3cGw0amlMMVFiYmJTX1FBODh4YUQ0RGtEbTlqVXFvY1NaVVJpRG5vQzA5NjlVelBTSVk3X0QwOUlCY1hsajVYd3g3V1cxOWNYeUZPQzNjSW5NbE5OOTNv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-05-004",
+    "date": "2026-06-05",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display orders Avaco's OLED deposition automation systems for its new OLED production lines - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxONV9XcU14OGZfbkc3U01FZkYtWjZWQTR5dmc1b05FUjJ1VVdLS2dpc0t2SnVlTThjWloteG96bjhoR3o4SGtjM0p0bkhPZ2VrTFJsZ2o5Y1l6d0VvQXRMQlMzc1o4c1FmLVBELVdvOH",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONV9XcU14OGZfbkc3U01FZkYtWjZWQTR5dmc1b05FUjJ1VVdLS2dpc0t2SnVlTThjWloteG96bjhoR3o4SGtjM0p0bkhPZ2VrTFJsZ2o5Y1l6d0VvQXRMQlMzc1o4c1FmLVBELVdvOHYwRTdfVmdJQW1uYk1zMTZJdnkwTkNrZ2l2MWFTdmU1VEtuQUUySmVHeG8xbzloQUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-05-005",
+    "date": "2026-06-05",
+    "companies": [
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG & Samsung unveil first 'DisplayHDR 1000 True Black' panels - FlatpanelsHD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9nUGZ5dXFuNU9RM01FWnZYZktEVkFNb2owMWg3Rm5UdmRhQUNSbFM3R3FlSWVfM3lBZlJUelBfLU9fekJpUTJtWVplamZmM3kwazVabm9RRnZBWm9YVlVwZWlSQzQ1TTA0STg1bVg1QU",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nUGZ5dXFuNU9RM01FWnZYZktEVkFNb2owMWg3Rm5UdmRhQUNSbFM3R3FlSWVfM3lBZlJUelBfLU9fekJpUTJtWVplamZmM3kwazVabm9RRnZBWm9YVlVwZWlSQzQ1TTA0STg1bVg1QU82Y2diMkFyaThB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-05-006",
+    "date": "2026-06-05",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "LG Display orders Avaco's OLED deposition automation systems for its new OLED production lines",
+    "summary": "<p>A few months ago, LG Display announced a new plan to invest $745 million in its OLED production facilities, to improve ‌its ⁠technological competitiveness, following a <a href=\"https://www.oled-inf",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/lg-display-orders-avacos-oled-deposition-automation-systems-its-new-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-05-007",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Foxconn posts record May revenue as AI rack demand fuels growth",
+    "summary": "Computex 2026 closed on June 5 with Nvidia CEO Jensen Huang reaffirming the scale of AI infrastructure demand in his keynote &mdash; and Foxconn, as the world's largest electronics contract manufactur",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260605PD239/foxconn-revenue-growth-2026-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-05-008",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "4K 4K Tv Market Growth Outlook to 2035: Demand Accelerates on OLED and Mini-LED Adoption - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdW01RTkzR0FfNGlpVzNnWHVnZjRtVWlpVjNBOV9WQ0pOZjdfM0FCSVNjQzVGSVJFb0s2WndXd0JsMy1TbVFFZDVPaUxSX3MwbXFNa0t4WlFkdTdWSXoyYkNFWDAzSjgxQWVGRDJmSn",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdW01RTkzR0FfNGlpVzNnWHVnZjRtVWlpVjNBOV9WQ0pOZjdfM0FCSVNjQzVGSVJFb0s2WndXd0JsMy1TbVFFZDVPaUxSX3MwbXFNa0t4WlFkdTdWSXoyYkNFWDAzSjgxQWVGRDJmSnpqNnU2NTltdXZmSVk5M25MdHJFMGwyMlpKSFVuNmhEancxUWhZLWRDSmk1NE1zX1hqV1BBQXdPSWh0NURhN0hBeG9KelJDRFVISWVvMEdSaVpxdFNFMzF4QVF0SWtHUHYyRzdxSw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-05-009",
+    "date": "2026-06-05",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "TCL Unveils Expanded Monitor Lineup in Europe, Including its First Flagship OLED+ Monitor - TechPowerUp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVW5fbUhOb2hKd1MtLWdOQnVBLXZyNmU1Y2gydU52YmoxS29QUS1qUWNwX0FmTmR2ZXJBamIwRVdtMzduSEY4QldLdnByYS11SDdqUnNQTU9WQVdQWkMzVmNXdFZDZ19wT0NDMHE5bU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVW5fbUhOb2hKd1MtLWdOQnVBLXZyNmU1Y2gydU52YmoxS29QUS1qUWNwX0FmTmR2ZXJBamIwRVdtMzduSEY4QldLdnByYS11SDdqUnNQTU9WQVdQWkMzVmNXdFZDZ19wT0NDMHE5bUhIYXNQS1JabzBnU0NsRnJrVmFHY1U4QTdnMzhfQXAzMWlVUS1laXpGWGFCSV9EQldUWFl1YzludlBxWmwwd2owTVk2dlF5Y0wtcnZlMWhzSjl6ZzU4b0JPTkY5QlRSSURvYjFDTw?oc=5",
         "type": "rss"
       }
     ]
@@ -578,6 +822,24 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/chinas-15th-five-year-plan-and-implications-oled-display-industry",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-06-03-011",
+    "date": "2026-06-03",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Canon U.S.A., Inc. Expands imageFORCE Lineup with the - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxQejBaUzI0dzd4ZzlGb3Nvc2xWU1hWcldEMGM2cy1oOHdxQ2pGZzhVRGZkNWNodXR6T2tJVFRxbTdXbXB3ZzJ3X2FQQTFCUVR1Zl9Ka2lLUFViNEhQRTdJZ3pldVNPV2M4cE1uVzNWa2",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQejBaUzI0dzd4ZzlGb3Nvc2xWU1hWcldEMGM2cy1oOHdxQ2pGZzhVRGZkNWNodXR6T2tJVFRxbTdXbXB3ZzJ3X2FQQTFCUVR1Zl9Ka2lLUFViNEhQRTdJZ3pldVNPV2M4cE1uVzNWa2wxeXY0SnVhWUZ6dDlZQTdUdmZWekZIdS1qVHBLTzVhVXQwb2VYNVk1TlpMTk1vTjE2TnNraGJ4NVhtRjd5czZuYkllM3lRM09JN0U0eGRwMHlfLUJTc1VJSk00WF91aE9CU1d4NFlKeUY0NXhKT20tSkN3cTZsRWNHMnBoV0hjbnNKYTZUT0V1emR0bHQ1LXNYNGg0VTVOdURUNDlHb2hKVWtjeEF3RmVoQzNR?oc=5",
         "type": "rss"
       }
     ]
