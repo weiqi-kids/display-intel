@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 39,
+  "gate2_fail": 16,
+  "passed": 10,
+  "gate2_samples": [
+    "Corning Incorporated (GLW): Leopold Aschenbrenner Discloses New Holding - Yahoo Finance",
+    "Corning (GLW) slides 5.3% as investors digest a sharp AI-optics run-up and renewed valuation worries",
+    "Corning Inc Stock (GLW) Closed Down by 10.11% on Jun 5: What Investors Need To Know - TradingKey",
+    "Corning Surges 126.6% in Six Months: Should You Buy the Stock? - The Globe and Mail",
+    "Corning Surges 10.6% Amid Sector-Wide Rally - AlphaStreet"
+  ]
+}

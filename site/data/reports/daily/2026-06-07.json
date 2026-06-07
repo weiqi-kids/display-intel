@@ -1,0 +1,187 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T10:29:57.530183Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_elec-2026-06-07-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Transcend says Samsung DDR4 supply secured through 2027 as memory prices rise",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260604PD212/transcend-revenue-ddr4-samsung-2027.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zhen Ding posts strongest May revenue as server optical module shipments surge",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260605PD242/zhen-ding-revenue-shipments-2026-ic-substrate.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-07-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sercomm posts record first five months as North America drives 2026 revenue surge",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260605PD225/sercomm-revenue-2026-north-america-demand.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-07-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI cooling lifts heat spreader shipments at Niching",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260605PD206/cooling-data-niching-transmission-shipments.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "boe-2026-06-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BOE says glass-based packaging substrate pilot line has yet to reach mass-production yield - digitimes",
+      "companies": [
+        "boe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQnJqU2sxUVpmcmx4YUE3WkgwRkhGWkI2V0dETXhDUkJpNlRLc0QwLWpSV2tPTlRibGJOMEtDVW44U1N6bFpYS1FHRUM2aDFSeUZkM1N4UlJEd3h0Y01CSDdCR2tVc1A1ajJSZlhsSzJwVGFtZUNWZmZJbzhiMUl5a2ZheEVoeXY2NHNYOXg5RThZX3FUazRURQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "boe",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 139,
+    "too_old": 176,
+    "gate1_blocked": 39,
+    "gate2_blocked": 16,
+    "passed": 10,
+    "pass_rate": "4.1%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "Corning Incorporated (GLW): Leopold Aschenbrenner Discloses New Holding - Yahoo Finance",
+      "Corning (GLW) slides 5.3% as investors digest a sharp AI-optics run-up and renewed valuation worries",
+      "Corning Inc Stock (GLW) Closed Down by 10.11% on Jun 5: What Investors Need To Know - TradingKey",
+      "Corning Surges 126.6% in Six Months: Should You Buy the Stock? - The Globe and Mail",
+      "Corning Surges 10.6% Amid Sector-Wide Rally - AlphaStreet"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為BOE Technology、三星電子相關動態：「Transcend says Samsung DDR4 supply secured through 2027 a...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Transcend says Samsung DDR4 supply secured through 2027 as memory prices rise（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Zhen Ding posts strongest May revenue as server optical module shipments surge（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

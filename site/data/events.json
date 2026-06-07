@@ -1,5 +1,133 @@
 [
   {
+    "id": "boe-2026-06-07-001",
+    "date": "2026-06-07",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE says glass-based packaging substrate pilot line has yet to reach mass-production yield - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQnJqU2sxUVpmcmx4YUE3WkgwRkhGWkI2V0dETXhDUkJpNlRLc0QwLWpSV2tPTlRibGJOMEtDVW44U1N6bFpYS1FHRUM2aDFSeUZkM1N4UlJEd3h0Y01CSDdCR2tVc1A1ajJSZlhsSz",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQnJqU2sxUVpmcmx4YUE3WkgwRkhGWkI2V0dETXhDUkJpNlRLc0QwLWpSV2tPTlRibGJOMEtDVW44U1N6bFpYS1FHRUM2aDFSeUZkM1N4UlJEd3h0Y01CSDdCR2tVc1A1ajJSZlhsSzJwVGFtZUNWZmZJbzhiMUl5a2ZheEVoeXY2NHNYOXg5RThZX3FUazRURQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-002",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Zhen Ding posts strongest May revenue as server optical module shipments surge",
+    "summary": "Zhen Ding Technology Group reported that May consolidated revenue reached a 2026 high as robust demand for high-end AI products drove significant year-over-year growth, the company said. The firm attr",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260605PD242/zhen-ding-revenue-shipments-2026-ic-substrate.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-07-003",
+    "date": "2026-06-07",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Foundry turns to 5nm, 8nm orders as 2nm comeback takes shape",
+    "summary": "<p class=\"P1\" data-start=\"1311\" data-end=\"1547\">Samsung Electronics is pursuing a two-track foundry strategy, accelerating its 2nm push for future customers while asking partners to step up sales of i",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260605VL203/samsung-2nm-samsung-foundry-5nm-tesla.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-06-07-004",
+    "date": "2026-06-07",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE says glass-based packaging substrate pilot line has yet to reach mass-production yield",
+    "summary": "<p class=\"P1\" data-start=\"664\" data-end=\"902\">BOE Technology Group's push into glass-based packaging substrates remains short of mass production, even as the Chinese display maker expands into new mat",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260605VL206/boe-packaging-display-production-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-07-005",
+    "date": "2026-06-07",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Transcend says Samsung DDR4 supply secured through 2027 as memory prices rise",
+    "summary": "<p class=\"P1\" data-start=\"800\" data-end=\"1015\">Transcend Information said revenue for April and May combined has already surpassed its first-quarter total, as tight memory supply and elevated prices c",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260604PD212/transcend-revenue-ddr4-samsung-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-006",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sercomm posts record first five months as North America drives 2026 revenue surge",
+    "summary": "Sercomm Corporation reported May 2026 revenue of NT$6.48 billion (approx. US$205 million), up 70% year-over-year, and said cumulative revenue from January to May reached NT$30 billion, a 55.3% increas",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260605PD225/sercomm-revenue-2026-north-america-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-007",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI cooling lifts heat spreader shipments at Niching",
+    "summary": "AI-driven high-speed computing and data transmission are driving up chip performance and cooling requirements worldwide, and Niching Industrial Corp. said its acquisition of Ming June Yuan will help i",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260605PD206/cooling-data-niching-transmission-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-06-06-001",
     "date": "2026-06-06",
     "companies": [
@@ -103,6 +231,46 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY3h3SUVpMXJvQkp2OEJIRjl0UVlZZ3B0dUNiZWFaNXZOclFmWEZXaGpYUGlZaVBoWWl0YzVEeHlHajlOcnpxUzgxbjNDWVpYeWI5b2kxS2ctV0doTlpSZjdNV3NieXhLbm91Y1JFTXhGTm4wbFZkZXk1aU1MRjdGU0JrcDZDMWNUOGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-06-007",
+    "date": "2026-06-06",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Gaming OLED Monitor Market: LG Display Targets 20% Share as Chinese Rivals Lag on Yield - Tech Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNdzNpUDJWd21qakRMeDU4aG4yM00xbm1oZWFpQ2ZmZFRpSmpmbWNtSGNpNm9MWlgxdmhxbklxNDVWcGVyWC1ROUdnQzc3S1g0ZFA4SVk3d2hFXzFjaHlxa3ZhNFdiU3lsSjlmYXoxXz",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdzNpUDJWd21qakRMeDU4aG4yM00xbm1oZWFpQ2ZmZFRpSmpmbWNtSGNpNm9MWlgxdmhxbklxNDVWcGVyWC1ROUdnQzc3S1g0ZFA4SVk3d2hFXzFjaHlxa3ZhNFdiU3lsSjlmYXoxXzVmMEowb3Y1QlVNdHA2clV5YVNGZHpsdHNZeXlLV09pSWlWbUphX19iUHhrRkl6VnV2MnZsUUhNSFdNWjkzQmlrenBJZWU0aW12OFI1dUlZX2RXMjBOQUVCcTY1cDE2cmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-06-008",
+    "date": "2026-06-06",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Display Driver Ic Market to Reach New Heights by 2035 Driven by OLED and Automotive Display Adoption - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPcm5fQmh1VHFPUmlZUnFESzgtZXE0TG9DNG0wbU9fWHVvVnZ0MU9pSWhnLWJya3NMRHJuNXllWlNOd0RFaTI4X0FmRHNucHFnM0g4aUVUcWhJMERTZEhWNDFUajRYTFlJbnBCWG84Uk",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcm5fQmh1VHFPUmlZUnFESzgtZXE0TG9DNG0wbU9fWHVvVnZ0MU9pSWhnLWJya3NMRHJuNXllWlNOd0RFaTI4X0FmRHNucHFnM0g4aUVUcWhJMERTZEhWNDFUajRYTFlJbnBCWG84UklJampwVmNkRUd0eloweW1jQlhJVzNiOGR4SVN4MDl2eFNOTnBfTVdPZGlrU2ExaGJJdG9sbC0xaUY2YXoySFozRTVNU1pZY01VYXFmSFYwek9IWkp0T1J5WFR3?oc=5",
         "type": "rss"
       }
     ]
@@ -1164,6 +1332,25 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnFxMnhKOUJpSHZ6NDk0WHA4bFU0eTFpVlktNkZGX3RJQy1EY3ZOZGZKWXUwYnlELUc3MWNHeDducE9SYXNFeHZiYVF3am9WQXU5OFVvLWVPX1NFOTRNeGRxZGJUVnVFWDVsTTZacDllU3hkaUdYaW42aC10MlF1N2IwOVozM2NXblZEY1JzOW9xdTEwQ05aWXo5Szg1LVNOSUJjemNuTWwtSXZ5WVhuczhScndyWl9ycElUREkyUUY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-02-018",
+    "date": "2026-06-02",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display demonstrates SDV technology leadership with ASPICE global automotive software recognition - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTI0eWJ4eVc1SXZCVTU0SGZBMkhBRDU1QXlJZDExNUltZWdaSXRXbmdjeU9scDBoSzJuUGREYjBaazVBTE5WeFRPRFZDaVdKbWZSeXJScGdocDRuWEp1QWxsWHIxMC1uTWY4YkNWWm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTI0eWJ4eVc1SXZCVTU0SGZBMkhBRDU1QXlJZDExNUltZWdaSXRXbmdjeU9scDBoSzJuUGREYjBaazVBTE5WeFRPRFZDaVdKbWZSeXJScGdocDRuWEp1QWxsWHIxMC1uTWY4YkNWWmpTbFpuUG81MjhCYVhRRGt4TEhDTkQyYlBVLTZnQU8zN2NacG5kUkFXWHk1RmlfZFVaYmQyNmRBVFlNY0E?oc=5",
         "type": "rss"
       }
     ]
