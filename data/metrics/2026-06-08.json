@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-08",
+  "total_events": 6,
+  "by_company": {
+    "lg_display": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "lg_elec": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "oled_penetration": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "panel_price": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "it_panel_demand": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

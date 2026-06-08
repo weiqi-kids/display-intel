@@ -1,0 +1,240 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T12:29:27.398316Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-06-08-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Co Ltd (ADR) stock (US5023351025): Earnings pressure, restructuring and opportunities in - AD HOC NEWS",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTmRObXdLMW9OaUVtdE04ZHVCekxwVjE0c3MtcTRUd1ptSDBEUmx5a2xQYm5CRVVUME8wWTRtQ0xrOTQ4MlhqM1RMbGRvVDhHRFNKUE5fMVFxc0tYemJ4RlFvVS1RRk1RamNjcnhtalZHTDBIdUdpV3RZSWZ4dHBncmdqdmZVdFN0T1RmN2xWd1U0Q0tkeU5TZEU5LXlRR1ZnM2VMekdYTWUzZ2NNV3Q1Wkc1NVNSM25t?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-08-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "LCD TV panel prices flatten as demand cools after early stockpiling",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "panel_price",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260608PD213/lcd-tv-panel-demand-panel-tv-brand.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-08-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Microloops May revenue rises 54% as CSP cooling module shipments start",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260607PD200/taiwan-microloops-cooling-module-shipments-revenue-2026.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-08-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Exclusive: Marvell says AI's copper wall is nearing, with custom silicon and optical I/O set to scale",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260608PD216/marvell-copper-ai-data-center-2026.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bright Side with Brannan | Open-Shell Emitters for OLEDs: A Radical Alternative?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/bright-side-brannan-open-shell-emitters-oleds-radical-alternative"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 2,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "panel_price",
+        "count": 2
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 128,
+    "too_old": 187,
+    "gate1_blocked": 37,
+    "gate2_blocked": 16,
+    "passed": 12,
+    "pass_rate": "4.8%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "Corning (GLW) slides 5.3% as investors digest a sharp AI-optics run-up and renewed valuation worries",
+      "Corning Inc Stock (GLW) Closed Down by 10.11% on Jun 5: What Investors Need To Know - TradingKey",
+      "Corning Surges 126.6% in Six Months: Should You Buy the Stock? - The Globe and Mail",
+      "Corning Surges 10.6% Amid Sector-Wide Rally - AlphaStreet",
+      "Nvidia and Corning partner to expand U.S. optical manufacturing By Investing.com - Investing.com UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為LGD、LG電子相關動態：「LG Display Co Ltd (ADR) stock (US5023351025): Earnings pr...」。主要關注主題為法說會、面板價格、OLED 滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "LG Display Co Ltd (ADR) stock (US5023351025): Earnings pressure, restructurin...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "LCD TV panel prices flatten as demand cools after early stockpiling（面板價格、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

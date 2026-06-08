@@ -1,5 +1,118 @@
 [
   {
+    "id": "lg_display-2026-06-08-001",
+    "date": "2026-06-08",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "LG Display Co Ltd (ADR) stock (US5023351025): Earnings pressure, restructuring and opportunities in - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTmRObXdLMW9OaUVtdE04ZHVCekxwVjE0c3MtcTRUd1ptSDBEUmx5a2xQYm5CRVVUME8wWTRtQ0xrOTQ4MlhqM1RMbGRvVDhHRFNKUE5fMVFxc0tYemJ4RlFvVS1RRk1RamNjcnhtal",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTmRObXdLMW9OaUVtdE04ZHVCekxwVjE0c3MtcTRUd1ptSDBEUmx5a2xQYm5CRVVUME8wWTRtQ0xrOTQ4MlhqM1RMbGRvVDhHRFNKUE5fMVFxc0tYemJ4RlFvVS1RRk1RamNjcnhtalZHTDBIdUdpV3RZSWZ4dHBncmdqdmZVdFN0T1RmN2xWd1U0Q0tkeU5TZEU5LXlRR1ZnM2VMekdYTWUzZ2NNV3Q1Wkc1NVNSM25t?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-08-002",
+    "date": "2026-06-08",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Bright Side with Brannan | Open-Shell Emitters for OLEDs: A Radical Alternative?",
+    "summary": "<p><em>We're excited to launch <strong>Bright Side with Brannan</strong>, a new column by Prof. Alexander Brannan of the University of Manchester. In this column, Prof. Brannan will explore the scienc",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/bright-side-brannan-open-shell-emitters-oleds-radical-alternative",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-08-003",
+    "date": "2026-06-08",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "it_panel_demand"
+    ],
+    "impact": "positive",
+    "title": "LCD monitor panel prices edge up as supply tightens and brand costs rise",
+    "summary": "Global readers are likely to feel the effects of a cooling display market, as tighter panel supply, higher component costs, and softer demand reshape pricing. LCD monitor panel makers are still pushin",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260608PD214/brand-monitor-panel-lcd-panel-cooling.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-08-004",
+    "date": "2026-06-08",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "LCD TV panel prices flatten as demand cools after early stockpiling",
+    "summary": "LCD TV panel prices have stopped rising as China's 618 Shopping Festival stockpiling and sports-event demand fade, leaving global TV supply chains in a more balanced position. For consumers and brands",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260608PD213/lcd-tv-panel-demand-panel-tv-brand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-08-005",
+    "date": "2026-06-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Microloops May revenue rises 54% as CSP cooling module shipments start",
+    "summary": "Cooling module maker Microloops reported May 2026 consolidated revenue of NT$330 million (approx. US$10.45 million), up 54.97% from a month earlier and down 10.76% from a year earlier. Revenue for the",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260607PD200/taiwan-microloops-cooling-module-shipments-revenue-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-08-006",
+    "date": "2026-06-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Exclusive: Marvell says AI's copper wall is nearing, with custom silicon and optical I/O set to scale",
+    "summary": "US chipmaker Marvell took a more visible stance at Computex 2026, with CEO Matt Murphy delivering a keynote speech and senior executives visiting Taiwan to lay out the company's outlook for AI data ce",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260608PD216/marvell-copper-ai-data-center-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "boe-2026-06-07-001",
     "date": "2026-06-07",
     "companies": [
@@ -123,6 +236,82 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260605PD206/cooling-data-niching-transmission-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-06-07-008",
+    "date": "2026-06-07",
+    "companies": [
+      "boe",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display, China’s BOE settle OLED patent and trade secret lawsuits - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wJBVV95cUxQRklGRW03b2gxQS1penpWc19XeVM3WVNhMl9vUU4yWE44YlVhREUzSkk1c1RBSlp6aXhGQXVsN3hjS2RNTXYyX1RHVW5yTTYzR3JTRGRzU2VMempfVVlwNXVUY19UUGVHN1Z3Q1E2Uk",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQRklGRW03b2gxQS1penpWc19XeVM3WVNhMl9vUU4yWE44YlVhREUzSkk1c1RBSlp6aXhGQXVsN3hjS2RNTXYyX1RHVW5yTTYzR3JTRGRzU2VMempfVVlwNXVUY19UUGVHN1Z3Q1E2Uk9GOVFkM3JmZHp0eFpacW5WeWw3VTlnYkplNGtzZHpxMFBOMVl2NVdsSkR4Qnpra3lLbVIyMFA0QVN6bzhSdk5kOHBqcDZPTW1IQ2lrTkpyeFl5c1pXNFRrSDRpZThSSldzbGJjN0taQjZlbEl4TzM2Njc5OE5YLTZ5NzI3MVVJSm9LRVRLOHFzdWdONmwwWVlfZnpnRUxqUDRxR2h0Z3BCMllrb1RTaEg5eGU3Ynp4MHNRTE9Ub1QtdnkybW1RTERTeGxQOGxJTUJ2NUxCTGZFQ3h4cTdlc0tEWEp5Z0tvOU5Kc2V5aWZYNmk1aw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-009",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "RGB LED could be the next big TV upgrade. Here's how it compares to Mini LED. - Business Insider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9ETUNqRWlVYXlVdW9kRHNGWWM1QjhkbWtVOTdLUXFQMmFaWnV0S1FqTVZMT2lLWkxuVGwtYTA2cmxCSnNxS2ppa3VqcXNPZTNWVFBDc250WXpPbkxwdWl3cGFUY1lIN1JpbkEtb2JpZG",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ETUNqRWlVYXlVdW9kRHNGWWM1QjhkbWtVOTdLUXFQMmFaWnV0S1FqTVZMT2lLWkxuVGwtYTA2cmxCSnNxS2ppa3VqcXNPZTNWVFBDc250WXpPbkxwdWl3cGFUY1lIN1JpbkEtb2JpZG8tUnRobGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-010",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "We need to talk about the QLED trap: Why I regret choosing it over OLED - Pocket-lint",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlZVB6aHlxZE15bWVsb3IzQUNJSjQzdTRVTkZfUFh5NmhQTnd1R3JsYmxNNVdoY0FUVmpTYzdVOGRUekJKWHdGTW9tX09ndnNJRnZyMUcxbmNwUlE2Ti1v?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlZVB6aHlxZE15bWVsb3IzQUNJSjQzdTRVTkZfUFh5NmhQTnd1R3JsYmxNNVdoY0FUVmpTYzdVOGRUekJKWHdGTW9tX09ndnNJRnZyMUcxbmNwUlE2Ti1v?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-011",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "negative",
+    "title": "[Round-up] Gigabyte Unveil their AORUS ELITE Monitor Series and New Glossy OLED and Mini LED Monitors at Computex 2026 - TFTCentral",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUHJieHVUb2k4REVmOUQ5ODIxWnFPcUNsWDFiVmxNLVJSZkNuRUZBQlJFVTM0NTM1ZEh0enRzM2pNck5hcmQ0TWMzMHRaZTU3R2kzRy00UWRtX01BVlctSjJhSUNhb2MyNFJMWl96Mk",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUHJieHVUb2k4REVmOUQ5ODIxWnFPcUNsWDFiVmxNLVJSZkNuRUZBQlJFVTM0NTM1ZEh0enRzM2pNck5hcmQ0TWMzMHRaZTU3R2kzRy00UWRtX01BVlctSjJhSUNhb2MyNFJMWl96MkdUS2dwNUhsV2EwbHpucjhMLTVlOHdHT3BkWS0tV1UtaEkzRWxmV2R3Z1hpdEpHMWNuVUFDVEw0cnNPcE1ld2syeDZkRWRpdEZadjhZdHA2dldXUDMtM29vbzQ2ZTFGMnJJUGMxY3dGZWZrVnlLU2ZpeXFCRk8?oc=5",
         "type": "rss"
       }
     ]
@@ -1351,6 +1540,43 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLTI0eWJ4eVc1SXZCVTU0SGZBMkhBRDU1QXlJZDExNUltZWdaSXRXbmdjeU9scDBoSzJuUGREYjBaazVBTE5WeFRPRFZDaVdKbWZSeXJScGdocDRuWEp1QWxsWHIxMC1uTWY4YkNWWmpTbFpuUG81MjhCYVhRRGt4TEhDTkQyYlBVLTZnQU8zN2NacG5kUkFXWHk1RmlfZFVaYmQyNmRBVFlNY0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-02-019",
+    "date": "2026-06-02",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display demonstrates SDV technology leadership with ASPICE global automotive software recognition - Nasdaq",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOS2JzdW1fQVhzRy0xVkVtZFJ3dnVfZ2pyU0lWRlJzSzdlWmlmeTNiSUhEMXhKLTJrRTVUQjViSzBGZEd1VUl0dzVuR0RtZllfXzV0dG9TQ25RaXE3bzFJZWViOENpendCYlQ2eDJNeD",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS2JzdW1fQVhzRy0xVkVtZFJ3dnVfZ2pyU0lWRlJzSzdlWmlmeTNiSUhEMXhKLTJrRTVUQjViSzBGZEd1VUl0dzVuR0RtZllfXzV0dG9TQ25RaXE3bzFJZWViOENpendCYlQ2eDJNeDRHNEpHZ0lWUldfa3FONjZ6dU0tWElZVTh2OXdqWWY2c0RGVUd3czRQODRYaDctWXE3cVJYVmpIWWFxWThWbFFWMlk0LTVsaXAyQnJCbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-06-02-020",
+    "date": "2026-06-02",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Hits Day High with Strong 4.89% Intraday Surge - MarketsMojo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV25VVzNEbUFwT0UwQmZ2ZzdoclhDeTJWb2haNmlzRVRPQUkxcEt0U2FWVGlTclNBdm5LUDhBRTdJS0tqN25wdGxUX3NLbU01RXJmc0xCc2t2Z25DZ1pYMlg1dVhWZUFMUHFTQW5hT2",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV25VVzNEbUFwT0UwQmZ2ZzdoclhDeTJWb2haNmlzRVRPQUkxcEt0U2FWVGlTclNBdm5LUDhBRTdJS0tqN25wdGxUX3NLbU01RXJmc0xCc2t2Z25DZ1pYMlg1dVhWZUFMUHFTQW5hT2stalYxMWVvV0NpeUFYNEozcTBfM2wtZGU0clZVNU96R0toZWpxRE5KcFJkcjZWZVZQeXRNRzJuSXNDRUF2Y0FvRWdjcWtVbGZr?oc=5",
         "type": "rss"
       }
     ]

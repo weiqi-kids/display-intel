@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 187,
+  "gate1_fail": 37,
+  "gate2_fail": 16,
+  "passed": 12,
+  "gate2_samples": [
+    "Corning (GLW) slides 5.3% as investors digest a sharp AI-optics run-up and renewed valuation worries",
+    "Corning Inc Stock (GLW) Closed Down by 10.11% on Jun 5: What Investors Need To Know - TradingKey",
+    "Corning Surges 126.6% in Six Months: Should You Buy the Stock? - The Globe and Mail",
+    "Corning Surges 10.6% Amid Sector-Wide Rally - AlphaStreet",
+    "Nvidia and Corning partner to expand U.S. optical manufacturing By Investing.com - Investing.com UK"
+  ]
+}
