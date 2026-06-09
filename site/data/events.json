@@ -1,5 +1,151 @@
 [
   {
+    "id": "samsung_elec-2026-06-09-001",
+    "date": "2026-06-09",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Samsung foundry profit rebound may come in 3Q26 as 2nm orders rise 130%",
+    "summary": "Samsung Electronics' foundry business may return to profit as early as the third quarter of 2026, ahead of its previous target of late 2026 to 2027, as improving yields, larger orders, and stronger de",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260609VL214/samsung-profit-2nm-business-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-002",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Adata, Macronix report record May revenue amid rising memory demand, prices",
+    "summary": "Memory manufacturers have reported revenue gains in May 2026, with Adata Technology posting NT$12.94 billion (approx. US$410.88 million), setting a new record for the third consecutive month. Macronix",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260608PD232/adata-macronix-international-memory-chips-demand-revenue-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-003",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "ELAN sees drone and AI PC push reshaping revenue mix",
+    "summary": "Taiwanese fabless chipmaker ELAN said its second-quarter 2026 outlook suggests revenue will hold near first-quarter levels, even as the company expands beyond PC orders into drones, AI PCs, and optica",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260609PD209/revenue-ai-pc-fabless-chipmaker-2026-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-004",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Chief Telecom eyes stronger second half on AI data center demand",
+    "summary": "Chief Telecom reported May 2026 revenue of NT$334 million (US$10.61 million), down 25.22% from a year earlier, but the decline largely reflected a high comparison base created by one-off income booked",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260609PD202/chief-telecom-revenue-2026-data-center-2025.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-005",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SuperAlloy targets semiconductor supply chain with recycled aluminum push",
+    "summary": "SuperAlloy reported that rising demand from global luxury and supercar manufacturers, alongside green procurement policies, drove higher sales of recycled aluminum in May, lifting group momentum into ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260609PD225/superalloy-aluminum-sales-equipment-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-006",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "VinFast spins off manufacturing arm, deepens Nvidia tie-up in autonomy push",
+    "summary": "During its first quarter 2026 earnings call, VinFast Auto Ltd. unveiled a series of significant corporate moves, including a transition in board leadership, a major restructuring of its manufacturing ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260609VL205/vinfast-2026-manufacturing-nvidia-autonomous-driving.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-007",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "VinFast revenue rises 42%, but losses widen sharply in 1Q26",
+    "summary": "Vietnam-based electric vehicle maker VinFast reported strong revenue and delivery growth in the first quarter of 2026, but its financial results showed that losses continued to widen significantly as ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260609PR201/vinfast-revenue-2026-vehicle-loss.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-09-008",
+    "date": "2026-06-09",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[News] LG Electronics Launches 2026 Micro and Mini RGB evo, Advancing High-Purity Color in Premium LCDs - LEDinside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKa09sU1dpZ3ctVGM4ek5kbl9LYWR5NmlKeDlndlB3R092bWc5cGt0Q3RnV3RXVEJPNXBqS2NlY19PMS1MMnQ5Y2lPbw?oc=5\" target=\"_blank\">[News] LG Electronics Lau",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKa09sU1dpZ3ctVGM4ek5kbl9LYWR5NmlKeDlndlB3R092bWc5cGt0Q3RnV3RXVEJPNXBqS2NlY19PMS1MMnQ5Y2lPbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_display-2026-06-08-001",
     "date": "2026-06-08",
     "companies": [
@@ -108,6 +254,226 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260608PD216/marvell-copper-ai-data-center-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-08-007",
+    "date": "2026-06-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amazon's multibillion-dollar deal with Corning creates 1,000 jobs in North Carolina - About Amazon",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNTzJ3Q1VMX3FNYVdMRlp4QVBPREpOdmJoNTI5TmVVOTRjRWhyTjQwbEY0RXY0cVlVVkd6TDZHb3UyR2FKdi1ySXFjQW9WOGh6VkNxZDdVZHlseTNFcXhBdWJqNm52QTZFc2tfOEZpZF",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTzJ3Q1VMX3FNYVdMRlp4QVBPREpOdmJoNTI5TmVVOTRjRWhyTjQwbEY0RXY0cVlVVkd6TDZHb3UyR2FKdi1ySXFjQW9WOGh6VkNxZDdVZHlseTNFcXhBdWJqNm52QTZFc2tfOEZpZFV4dFU1eXltUE1rVHhOZjd6dURnWlhDQ2o0ck5qV1V4dTV5SEc1RktDRUppSDN3enc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-08-008",
+    "date": "2026-06-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amazon’s data center push fuels 1,000-job fiber optic agreement with Corning - WECT | TV6",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeWZuTExTVUswZ0ZoOVhQRHFuT2tyYnR0emxpWER2TWoyS1ZwZmRTZHVyVHFQMXJIZEtkZl95THB4TmFnT2NkWGNwTGRhVWRlbnlRaFY2dDJvaVR0ZTUzWUp5RndvS2syNVdvWVZNdV",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeWZuTExTVUswZ0ZoOVhQRHFuT2tyYnR0emxpWER2TWoyS1ZwZmRTZHVyVHFQMXJIZEtkZl95THB4TmFnT2NkWGNwTGRhVWRlbnlRaFY2dDJvaVR0ZTUzWUp5RndvS2syNVdvWVZNdVhkRXlLMWZQRTRwXzhnLVBkeE1jS2c3SmpKVWhXSlJGS1gzOEwwYTh1OHd5QW5RMkpmQUxENHpWZy03eDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-08-009",
+    "date": "2026-06-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amazon enters multibillion-dollar fiber optic deal with Corning - Chain Store Age",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQMExsbzdudmdueUZkOEVqUU1QZ092QUpVc3c1TEUyRzgwMnFrV2F0XzJhUTZWamZXMUpuMTdFV1llOUZsdXRENWZ0bkVwc211bTF6R3dObjRrRWVEamhBWVJab25ZOFV0UWIzOVQ3WV",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMExsbzdudmdueUZkOEVqUU1QZ092QUpVc3c1TEUyRzgwMnFrV2F0XzJhUTZWamZXMUpuMTdFV1llOUZsdXRENWZ0bkVwc211bTF6R3dObjRrRWVEamhBWVJab25ZOFV0UWIzOVQ3WVdQeUNhbFoydno3ZUx3VW42UTRhN1ZzT3UwVEVWYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-08-010",
+    "date": "2026-06-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "1,000 jobs coming to Charlotte area and NC in new Corning, Amazon data center deal - Charlotte Observer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9WTHdlOTdua2tyVmxnRjNqUGtjcFUwYkJiRmp5dlpDUG0tV0VzQ1pZMnNUTFhwMVYwalAzbzZ2TU9hV250ak9idHpYdVJ2VzgxNVg1YXdoMUNCc0tuQVFqNkV1T2M4aFFmeVd1MnFMS0",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WTHdlOTdua2tyVmxnRjNqUGtjcFUwYkJiRmp5dlpDUG0tV0VzQ1pZMnNUTFhwMVYwalAzbzZ2TU9hV250ak9idHpYdVJ2VzgxNVg1YXdoMUNCc0tuQVFqNkV1T2M4aFFmeVd1MnFMS0J1R0t1NkZIRtIBeEFVX3lxTFBNYTJUdTdTQmtqVXB3MnVZVmZkby1HZXBDTTFDTkhiYzZvdVpLeEdzbEFfSTE3NU1jUjRsVXE1dDdLaEQxUzJyTnhTX1oxMjY0SS1mZjB1aFRJTlRUMHJJS1JaaDBIeGZ1WHRvTXM0SnB5RDVxUkhnNw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-08-011",
+    "date": "2026-06-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Inc. agrees to produce fiber optics for Amazon data centers in multi-billion dollar deal - WENY News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPcmxGTWY2TjMzNm94V1M4MEF6VERPcjk4T1FoM3paLXc5akpsbXVVT1lwbVhLZzU0VkU5bnFnQy02aWhtQ3JVcC1tUEJHcVl4RktWY1dDOUcwVnNqU2xCX1RMZmdjNjZKWTZBU0Z1UG",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPcmxGTWY2TjMzNm94V1M4MEF6VERPcjk4T1FoM3paLXc5akpsbXVVT1lwbVhLZzU0VkU5bnFnQy02aWhtQ3JVcC1tUEJHcVl4RktWY1dDOUcwVnNqU2xCX1RMZmdjNjZKWTZBU0Z1UGE3TVpUVFV0T19xWkUxWmp0S2FOSlk3SFJ1eEh3ZW9hOW10dXY1U0luT2RpOG9MOW1PbGJtLUwzbllfMUptOU00cHQzYXhwRVlKbE5jbS1qSkdHU1hXWUkzVFpXNXU4S2pxZURKbU5qT3c2NXBOcS1mXzVPemJ6TUc3bHdtMzVoN3FVQmc4Q1hQRThabE1vaFBqV2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-08-012",
+    "date": "2026-06-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amazon Corning fiber optic deal creates 1,000 jobs in North Carolina - qz.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1jNXhiUU9obnBrVjFpeTZuc2ZvbFRxeUZnTW52VTBBNDZpb0FRdzZXQmhERHkxc2Jqa2dPejZINnpNVDFCbWZRVUR5SXRNVmhBbnJPM1RlWDJyS3R6Ni0zWXd3YkdweTVLTmRNUHpKbj",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jNXhiUU9obnBrVjFpeTZuc2ZvbFRxeUZnTW52VTBBNDZpb0FRdzZXQmhERHkxc2Jqa2dPejZINnpNVDFCbWZRVUR5SXRNVmhBbnJPM1RlWDJyS3R6Ni0zWXd3YkdweTVLTmRNUHpKbjRRUnFmNEdXQXlsS2xZUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-08-013",
+    "date": "2026-06-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amazon Signs Multibillion-Dollar Corning Deal for AI Data Center Fiber, Creating 1,000 Jobs - MLQ.ai",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDR0MllvNkhIV0hmVWgwbWlJOGYzT2pnMnY0UVlxc0s1X0VEY3QyMUZHWEs0ZGtFc0lRNEpFLXNUd0pRQ1BUQ2pPSXFUbjVmLTFsUDhsMlBnd19kWnZydV9ROVdTa2o3bV92MUZtSX",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDR0MllvNkhIV0hmVWgwbWlJOGYzT2pnMnY0UVlxc0s1X0VEY3QyMUZHWEs0ZGtFc0lRNEpFLXNUd0pRQ1BUQ2pPSXFUbjVmLTFsUDhsMlBnd19kWnZydV9ROVdTa2o3bV92MUZtSXlXMmdEQmtqRVBUUG9BUDVldS1UOW8tNk0wb2dxRjdscUUzbFNnMkYwT0xCUWhUanE2MzNQYVRCcVluMmRkZEhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-08-014",
+    "date": "2026-06-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Inc Stock (GLW) Moved Up by 5.55% on Jun 8: What Signal Does It Send? - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQTFlWYlNiVmo5OWE2WmpPcmdRejI0N3JiSDdxTExJNHJ4dVIxdmljVXdCdVcyc0NQNlBrMWxjcVVPU0RTWVBvblVjSlY2Zk84aDNDdVRTS0F3b2h5cjZYRzV3ckFKQUtsUTBVQ1dVRm",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTFlWYlNiVmo5OWE2WmpPcmdRejI0N3JiSDdxTExJNHJ4dVIxdmljVXdCdVcyc0NQNlBrMWxjcVVPU0RTWVBvblVjSlY2Zk84aDNDdVRTS0F3b2h5cjZYRzV3ckFKQUtsUTBVQ1dVRmNYZU9ya1FJajBxNUFIQ1pLd1JVYUZUcnBJa3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-08-015",
+    "date": "2026-06-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amazon's Corning fiber deal: 1,000 jobs and a domestic supply chain push - PPC Land",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQLUFLLXd5QnBSZHRvSFBMbEYyMkpRTy1WUlB4QUI1Y203SFUxdWZuS2lmUVROeE1VRFZsVVJBZkFpXzVOcDdPSjRMZ1p4ZzdoMlVIY2NaVVpYalNTbHkwd2RyR0N0MTNuUlI4LW5Vbk",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLUFLLXd5QnBSZHRvSFBMbEYyMkpRTy1WUlB4QUI1Y203SFUxdWZuS2lmUVROeE1VRFZsVVJBZkFpXzVOcDdPSjRMZ1p4ZzdoMlVIY2NaVVpYalNTbHkwd2RyR0N0MTNuUlI4LW5VbkdVcE1YM1JHRGRiSGlTbFAyc1hJX0l6WnNTU0xiUmo3aWFQdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-08-016",
+    "date": "2026-06-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amazon Signs Multibillion-Dollar Fiber Deal with Corning - Let's Data Science",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQYTUzZFpuRWxIeHZsWnVOTEhLV2pVcVpTUnJJdmdWMHRnMjhPQmgzQmtxcld5U0Jkd1FPdktoMWVzaWpUZDZZdjZIZ1htVzVGNjdOOXVMczJveC12cHdMQVdVMThBNW9SM1REdXduVk",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYTUzZFpuRWxIeHZsWnVOTEhLV2pVcVpTUnJJdmdWMHRnMjhPQmgzQmtxcld5U0Jkd1FPdktoMWVzaWpUZDZZdjZIZ1htVzVGNjdOOXVMczJveC12cHdMQVdVMThBNW9SM1REdXduVkVYUDlUU1h4dXZwY0F3YUxSSU9vWE5meGJNd1BPWlRNYkY3b29UNm5iZWZKS2JnOHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-08-017",
+    "date": "2026-06-08",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Signs Investment Cooperation MOU with Hai Phong City - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xTDVWQUlYcmlKYksyUWNoWWJCMmc1WW8teHd0THpkNWQyWm1IcWVMZWk1NU10NnBUNTVUVkgxRGp3VnZLMjktN2dHcmR3LTFxQTV5THBjNmRjTjRhUnhWS25TQVFPeWM?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xTDVWQUlYcmlKYksyUWNoWWJCMmc1WW8teHd0THpkNWQyWm1IcWVMZWk1NU10NnBUNTVUVkgxRGp3VnZLMjktN2dHcmR3LTFxQTV5THBjNmRjTjRhUnhWS25TQVFPeWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-08-018",
+    "date": "2026-06-08",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL unveils new QD-Mini LED monitors and \"first OLED+ flagship\" up to 480Hz with Dual Mode display - PC Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbW1oS3B6Q0RHYnVsbUF2Y3J6QjhOQ1RlQXZlek12dUlWRDc3QjJuS1hvYk5WWFlHeGpkTkhOSHNTSC12VXJJZi1Kd21HdEVCazhWc1FDSEJhdEhmTXE5Y1FLTk16d0ZFSWFFQzgxX2",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbW1oS3B6Q0RHYnVsbUF2Y3J6QjhOQ1RlQXZlek12dUlWRDc3QjJuS1hvYk5WWFlHeGpkTkhOSHNTSC12VXJJZi1Kd21HdEVCazhWc1FDSEJhdEhmTXE5Y1FLTk16d0ZFSWFFQzgxX2ZGTFZOWVVHLWRQX1RJOU9uNmJieG84OVFOLU44aTY5VjVCYk9yOVRrUTdyN21UZzNmVERCT1czOUpiZUY5RGh2UmhEWW1jU3YzTnM0bWticUlnWXc?oc=5",
         "type": "rss"
       }
     ]
@@ -994,6 +1360,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUWJEMjg0M3pKZGNKZkZVRTI4R0UxUXRQS1lxZXdkQlBMNTFXc1gwMWNZU2JTN0xhdkZ5NnhYMERXcl90bS15SjZEemxDdTV1MFN0R2pjWE41NzJhbnJwNmJVVjFhclFreG9Vdl9iajBhRlRUYm16UFo2c1hNc2FxSi16OUlPS0x4MldBcVZJbktPWTZkdTJkOUtiVzNZdkwtc2tFdDhpLWpEVDhNdzBsSjhLNEp4QTFsNkhMSTV1djlnR05WZHlWLdIBzgFBVV95cUxQdkE4UzRIcDNUM2FqaEFjU0FjaXNGUlh0dUpTT2hHbWliMGEtZUlENksxQUVEMWRrQlpiSENXSVV5NTVVRjBtSFFOclJ6dXEzNW1zWlMzc1JCVnNXUkdUWWlKSWNITlgyVU41N3V5MXhkemNFelRFSmhlY29rV1Nkc0pwV19VcHBDWlA0cUJvOFFVNEgzU0ZjTmlxSTUzNWk1enNlaXpJWmowX09YSXY0MWFaYnM0TUdta1I3MmxoaEExN1ZfU2hCSnRaSXpfZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-04-020",
+    "date": "2026-06-04",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Surges 126.6% in Six Months: Should You Buy the Stock? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxORjVBUzQ1UWMzOGoyQmlIZTNRSVlWbG9VcmpVQlM0TWREdUZxVGdsa2NpRVB2OThrSWtFcW55RWpEeXBQQUowdG9pdGh2RktVbXdLbUtDS1FrbXNqdmEzU01HQVlEVG4wcFQxTFhqdz",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORjVBUzQ1UWMzOGoyQmlIZTNRSVlWbG9VcmpVQlM0TWREdUZxVGdsa2NpRVB2OThrSWtFcW55RWpEeXBQQUowdG9pdGh2RktVbXdLbUtDS1FrbXNqdmEzU01HQVlEVG4wcFQxTFhqdzM2OTBzdXJpNFY0S3BEUGFWNnNHX0Raano3MG9nTkg5ZndlYktNclhUM011ejRtQkN4OWVveWdHTDNIenI5cnkxQWMyek80Zw?oc=5",
         "type": "rss"
       }
     ]

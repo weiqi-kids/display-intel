@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 182,
+  "gate1_fail": 36,
+  "gate2_fail": 12,
+  "passed": 21,
+  "gate2_samples": [
+    "Amazon to work with Corning to create jobs in NC - Wilmington Star-News",
+    "Tech giants Amazon and Corning team up to create thousands of jobs in North Carolina - WCNC",
+    "Corning Expands U.S. Manufacturing With Amazon Fiber Agreement - Benzinga",
+    "Corning jumps as Amazon enters into pact on US-based fiber optics manufacturing (GLW:NYSE) - Seeking",
+    "Corning (GLW): Company Profile, Stock Price, News, Rankings - Fortune"
+  ]
+}
