@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-10",
+  "total_events": 9,
+  "by_company": {
+    "boe": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "automotive_display": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.75
+    },
+    "panel_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

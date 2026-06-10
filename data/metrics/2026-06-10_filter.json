@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 183,
+  "gate1_fail": 35,
+  "gate2_fail": 12,
+  "passed": 20,
+  "gate2_samples": [
+    "SUNY Chancellor King Continues SUNY Reconnect Tour with Visit to Corning Community College - SUNY - ",
+    "Corning Incorporated hosts Legacy in Action Impact Fair - WENY News",
+    "Amazon Partners with Corning to Power U.S. Fibre Optics Manufacturing - intlbm",
+    "Amazon to work with Corning to create jobs in NC - Wilmington Star-News",
+    "Corning Inc Stock (GLW) Moved Down by 7.90% on Jun 9: What Investors Need To Know - TradingKey"
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T11:40:05.513434Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-10-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "TSMC's May revenue grows 30% as AI demand and tight capacity support outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260610VL218/tsmc-revenue-demand-capacity-2026.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-10-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TXC eyes 30% optical module share by 2027",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260610PD245/txc-2027-automotive-2026-communications.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "boe-2026-06-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chinese Shares Down Amid Widening Inflation Split; BOE Technology Falls 7% - marketscreener.com",
+      "companies": [
+        "boe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUW43TjQyTHdwRHBzWlIzYjk0amIzZmpfTGJzNUZjX2FvMC1aWmthQmVlekpmcFhIVG9YbWJXN3kybWN3SVdIWHoyUGdNSUh6ZDhIRllfdnRlNFBGQ05NU2x3em5wNnFBdHhQd0RCamFMZDl1dDBVN19zRm40SUFUZjNlVDhLb2dJMkd0cDBWQm5iakdzaUpoQXpPM002cWFaMDdZaEs4TWR0N3E0US0yTmVETktrRW8xaF9Ja3RzR1VXdnc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_elec-2026-06-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "[Interview] How Samsung OLED TV Achieved Pantone® Validated ArtfulColor Certification",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/interview-how-samsung-oled-tv-achieved-pantone-validated-artfulcolor-certification"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SFC wins its civil patent lawsuit against SKMJ, for its fluorescent blue OLED emitter",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/sfc-wins-its-civil-patent-lawsuit-against-skmj-tor-its-fluorescent-blue-oled"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 130,
+    "too_old": 183,
+    "gate1_blocked": 35,
+    "gate2_blocked": 12,
+    "passed": 20,
+    "pass_rate": "8.0%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "SUNY Chancellor King Continues SUNY Reconnect Tour with Visit to Corning Community College - SUNY - ",
+      "Corning Incorporated hosts Legacy in Action Impact Fair - WENY News",
+      "Amazon Partners with Corning to Power U.S. Fibre Optics Manufacturing - intlbm",
+      "Amazon to work with Corning to create jobs in NC - Wilmington Star-News",
+      "Corning Inc Stock (GLW) Moved Down by 7.90% on Jun 9: What Investors Need To Know - TradingKey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為三星電子、BOE Technology相關動態：「TSMC's May revenue grows 30% as AI demand and tight capac...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "TSMC's May revenue grows 30% as AI demand and tight capacity support outlook（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "TXC eyes 30% optical module share by 2027（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

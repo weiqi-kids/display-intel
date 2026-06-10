@@ -1,5 +1,169 @@
 [
   {
+    "id": "boe-2026-06-10-001",
+    "date": "2026-06-10",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Chinese Shares Down Amid Widening Inflation Split; BOE Technology Falls 7% - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUW43TjQyTHdwRHBzWlIzYjk0amIzZmpfTGJzNUZjX2FvMC1aWmthQmVlekpmcFhIVG9YbWJXN3kybWN3SVdIWHoyUGdNSUh6ZDhIRllfdnRlNFBGQ05NU2x3em5wNnFBdHhQd0RCam",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUW43TjQyTHdwRHBzWlIzYjk0amIzZmpfTGJzNUZjX2FvMC1aWmthQmVlekpmcFhIVG9YbWJXN3kybWN3SVdIWHoyUGdNSUh6ZDhIRllfdnRlNFBGQ05NU2x3em5wNnFBdHhQd0RCamFMZDl1dDBVN19zRm40SUFUZjNlVDhLb2dJMkd0cDBWQm5iakdzaUpoQXpPM002cWFaMDdZaEs4TWR0N3E0US0yTmVETktrRW8xaF9Ja3RzR1VXdnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-10-002",
+    "date": "2026-06-10",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "[Interview] How Samsung OLED TV Achieved Pantone® Validated ArtfulColor Certification",
+    "summary": "Great art invites a closer look, where texture, tone and color all contribute to its depth and character. Preserving those qualities on a TV screen takes balance, subtlety and precision. S95H, the lat",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/interview-how-samsung-oled-tv-achieved-pantone-validated-artfulcolor-certification",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-003",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "SFC wins its civil patent lawsuit against SKMJ, for its fluorescent blue OLED emitter",
+    "summary": "<p>A couple of months ago we <a href=\"https://www.oled-info.com/korean-supreme-court-withholds-sfc-blue-oled-emitter-patent-dismisses-claims-sk\">reported</a> that &nbsp;the Korean Supreme Court upheld",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/sfc-wins-its-civil-patent-lawsuit-against-skmj-tor-its-fluorescent-blue-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-004",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "positive",
+    "title": "Advanced semiconductor demand fuels Liying's fluorine recycling expansion",
+    "summary": "As demand for AI chips continued to surge, utilization rates at advanced semiconductor process lines kept climbing, making the circular-economy treatment of waste hydrofluoric acid and calcium fluorid",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260610PD250/demand-circular-economy-chips-revenue-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-005",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "TXC eyes 30% optical module share by 2027",
+    "summary": "AI and optical communications demand are pushing frequency components toward higher frequencies, smaller sizes, lower power consumption, ultra-low jitter, and very high stability. Quartz component mak",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260610PD245/txc-2027-automotive-2026-communications.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-10-006",
+    "date": "2026-06-10",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Commentary: How AI boom gave Nokia and BlackBerry a second life",
+    "summary": "The artificial intelligence boom has created clear winners among semiconductor and memory manufacturers. Shares of companies such as Samsung Electronics, SK Hynix and Micron Technology have climbed as",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260610PD246/nokia-blackberry-infrastructure-demand-samsung.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-10-007",
+    "date": "2026-06-10",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Commentary: Nvidia CEO visit spotlights Samsung in HBM supply race",
+    "summary": "Nvidia CEO Jensen Huang's multi-day trip to South Korea put the \"triangle relationship\" among Samsung Electronics, SK Hynix, and Nvidia over high-bandwidth memory (HBM) in the spotlight, even as he to",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260610PD238/nvidia-samsung-hbm-ceo-sk-hynix.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-008",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "TSMC's May revenue grows 30% as AI demand and tight capacity support outlook",
+    "summary": "TSMC reported consolidated net revenue of about NT$416.98 billion (approx. US$13.2 billion) in May 2026, up 1.5% from April and 30.1% from a year earlier. The figure set a new monthly record and reinf",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260610VL218/tsmc-revenue-demand-capacity-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-009",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "neutral",
+    "title": "World Cup demand and advertising economics keep TV prices stable despite rising memory costs",
+    "summary": "Global TV shipments rose 6% year-over-year to 50.3 million units in the first quarter of 2026, driven by retailer inventory build-ups ahead of the FIFA World Cup and resilient consumer demand outside ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260610VL214/tv-shipments-advertising-demand-world-cup-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-06-09-001",
     "date": "2026-06-09",
     "companies": [
@@ -141,6 +305,170 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKa09sU1dpZ3ctVGM4ek5kbl9LYWR5NmlKeDlndlB3R092bWc5cGt0Q3RnV3RXVEJPNXBqS2NlY19PMS1MMnQ5Y2lPbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-09-009",
+    "date": "2026-06-09",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Deal with Amazon to add 1,000 jobs at Corning in North Carolina - Broadband Communities",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQOXF6MnoxQmF6TEhTclVTLU1zNkpkcV83YVhfbDU4TFRZcHVLRzI4NjVTWFlOTWxEYzNZMTdwQTlPQ1d2bkNsOFdJUlpOaXNNeVgyUTgxcUJZS05Tb0R5QVNWVnpJQlNxQjg1c1ZaNU",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOXF6MnoxQmF6TEhTclVTLU1zNkpkcV83YVhfbDU4TFRZcHVLRzI4NjVTWFlOTWxEYzNZMTdwQTlPQ1d2bkNsOFdJUlpOaXNNeVgyUTgxcUJZS05Tb0R5QVNWVnpJQlNxQjg1c1ZaNUFZQm9paFo5QzJLMDQ4bXpEWnFHSmdqMlJhYXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-09-010",
+    "date": "2026-06-09",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amazon and Corning deal adds fiber optics training program in North Carolina - EdTech Innovation Hub",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcEhkWlpfUG5WemtJWEJURnNqSGF5VFdfOWZoRmlQa2xmZm9zS1B3VUplejU5WHl2UHlNQVAwbUViTHp3Q2RMV2owc0NzRjVlOU1SekcxV0pSd1VhdDhyeXljU3R4VHpHdm9GRE04Zj",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcEhkWlpfUG5WemtJWEJURnNqSGF5VFdfOWZoRmlQa2xmZm9zS1B3VUplejU5WHl2UHlNQVAwbUViTHp3Q2RMV2owc0NzRjVlOU1SekcxV0pSd1VhdDhyeXljU3R4VHpHdm9GRE04ZjQzSTJ0N1FzV0pfNTdPaGRWalZ4VlRWTjZEVThfeWdVVm9rVzJaQlkybVJoZzl2QnA4U2VCNzU2R2ZFWGtaY3k3b1RKSzVDY3RJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-09-011",
+    "date": "2026-06-09",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Corning's Monumental Growth Won't Save It From Underperformance (Downgrade) (NYSE:GLW) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0NkMnlEcWNqMXRhMDVRTWtXaTVzT1luU1ZnVmJRaUl2T0dhOFN5SzA3emRCaDJRNC12aUc0cllYeTdUQjV4T1BNV0tHTC0tdmVjdkh4aTlVTlo0b0JwNmQ1cGtjMGhyR3g4aTNiVn",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0NkMnlEcWNqMXRhMDVRTWtXaTVzT1luU1ZnVmJRaUl2T0dhOFN5SzA3emRCaDJRNC12aUc0cllYeTdUQjV4T1BNV0tHTC0tdmVjdkh4aTlVTlo0b0JwNmQ1cGtjMGhyR3g4aTNiVnVqbV9HM0ltcGplck1UdWZ4T0N5SkN4LXZaSklneVYxYzgzR1o0WjFCVHRoYmJBMTROZ2JHYUJwR1pBczkw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-09-012",
+    "date": "2026-06-09",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning (GLW) CEO Wendell Weeks exercises 100k options and sells 100k shares - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWNkekNwUUZjdkg4dy1xYndfcmJWanlIRENQTlh2WUhGSU1wVWtvakxlUEJueVdhRE5ZT05MZ0VqNnNfaVFBSi1WTEdZc2wtR0c0VUtVNFR0RnVJbEJMWE02SkxNOXpwLUh6aEl2cE",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWNkekNwUUZjdkg4dy1xYndfcmJWanlIRENQTlh2WUhGSU1wVWtvakxlUEJueVdhRE5ZT05MZ0VqNnNfaVFBSi1WTEdZc2wtR0c0VUtVNFR0RnVJbEJMWE02SkxNOXpwLUh6aEl2cElTMUdQd3JUSnEyN1BKM0JLckplcFo0anVGcnBsMHJacFE1N19WdTRZeC1xdmNIR0ktTGNEWkhLb0FQakU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-09-013",
+    "date": "2026-06-09",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amazon agreement with Corning to bring 1,000 manufacturing jobs to North Carolina - WWAYTV3",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU1gtdkNZVndPcHlBeXp1NE9vYldKR0FGNEdIaF9KM1llbnRfQkstbmlHZjBKbm9ZRUtWSlhTSTdFdDdtUS1MSXYtb3pRMTc3Ry1TUmVfR3Fia2k2THlxZ2ZMdWRMYWY3dUJvTk5Gan",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU1gtdkNZVndPcHlBeXp1NE9vYldKR0FGNEdIaF9KM1llbnRfQkstbmlHZjBKbm9ZRUtWSlhTSTdFdDdtUS1MSXYtb3pRMTc3Ry1TUmVfR3Fia2k2THlxZ2ZMdWRMYWY3dUJvTk5GanYtYnpIanBpT1FtNVJXUjdJc3FHY3VIWHdIa3FPdktxSVBRSk5JQUdIMnR6QlpNeVdCQTdTeUNpbXE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-09-014",
+    "date": "2026-06-09",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Can Corning's Multibillion-Dollar AI Deal With Amazon Lift Its Shares? - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNRnREc0U3d0JQUDRlVTVlaGg5MDZNWENVZkRTTVpTdjdZa0Vuc1VuRHVHUHp3Z1puS3BGY3VPT0l3aHI2NE84ajlzZjRuNmEyTmU4YXhaQnBNNkFxNHdlbkhEQjZKNWFteFl6Sk5heG",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRnREc0U3d0JQUDRlVTVlaGg5MDZNWENVZkRTTVpTdjdZa0Vuc1VuRHVHUHp3Z1puS3BGY3VPT0l3aHI2NE84ajlzZjRuNmEyTmU4YXhaQnBNNkFxNHdlbkhEQjZKNWFteFl6Sk5heGxQcUVzZ1dOYWVRMjd4RVFxVTkzd1BjUjF1R2NrNm93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-09-015",
+    "date": "2026-06-09",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Joyce A. Jaynes Obituary (2026) - Corning, NY - Carpenter's Funeral Home - Corning - Legacy | Obituary Search",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxObWU1cjFoRzF1OVo5aHpVWjc0OFZDSGlwX1RLNlpjQ1dhbEZPQmVoUXZkeF9JVGRtbE90UlBFZ2lEaDd5VTFvV2s5c004T3lxNlRZYUtWVDVFRzB1M3JEQVVZOE9ob3g4bjB6REZEUm",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObWU1cjFoRzF1OVo5aHpVWjc0OFZDSGlwX1RLNlpjQ1dhbEZPQmVoUXZkeF9JVGRtbE90UlBFZ2lEaDd5VTFvV2s5c004T3lxNlRZYUtWVDVFRzB1M3JEQVVZOE9ob3g4bjB6REZEUmdERjc0M3ExdHVCNkhUeXlWMg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-06-09-016",
+    "date": "2026-06-09",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "How Himax Technologies Inc. (HIMX) Affects Rotational Strategy Timing - Stock Traders Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWR6cXFoMjhqRC1vcGtqdy1PRVRNV0NpUEc0X3hhSThkcVEySEZzNFliZG1HY3dQNHpOUHRzb1NIQ2ZudlVSVjd4Y2IzSnFZczFBNzFuN2VUdENOLXRmcEhndnJFSkVmVU5rT2lIOT",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWR6cXFoMjhqRC1vcGtqdy1PRVRNV0NpUEc0X3hhSThkcVEySEZzNFliZG1HY3dQNHpOUHRzb1NIQ2ZudlVSVjd4Y2IzSnFZczFBNzFuN2VUdENOLXRmcEhndnJFSkVmVU5rT2lIOTRzT01EbUUzRDV4YkxjNEoybWRJc3NndHAyWHBaS21rUHRYRFJHaXJjLUVCSVM5bWRsUGtaaWhua05xMzMzMXY5NzYyQkdzR3RvTVBHNmdKRGUyRFROSXpxM0hIMXIxS3hjaGJrRk1qNm5DOHhWZGh4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-09-017",
+    "date": "2026-06-09",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Electronics reduces its foldable smartphone shipments in 2026",
+    "summary": "<p>An interesting industry report suggests that Samsung is planning to ship 5-6 million foldable smartphones in 2026, from its new 8-Gen series (which will include the Galaxy Z Fold8, Z Flip8, and the",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-electronics-reduces-its-foldable-smartphone-shipments-2026",
         "type": "rss"
       }
     ]
@@ -474,6 +802,42 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbW1oS3B6Q0RHYnVsbUF2Y3J6QjhOQ1RlQXZlek12dUlWRDc3QjJuS1hvYk5WWFlHeGpkTkhOSHNTSC12VXJJZi1Kd21HdEVCazhWc1FDSEJhdEhmTXE5Y1FLTk16d0ZFSWFFQzgxX2ZGTFZOWVVHLWRQX1RJOU9uNmJieG84OVFOLU44aTY5VjVCYk9yOVRrUTdyN21UZzNmVERCT1czOUpiZUY5RGh2UmhEWW1jU3YzTnM0bWticUlnWXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-08-019",
+    "date": "2026-06-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amazon’s data center push fuels 1,000-job fiber optic agreement with Corning - WECT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeWZuTExTVUswZ0ZoOVhQRHFuT2tyYnR0emxpWER2TWoyS1ZwZmRTZHVyVHFQMXJIZEtkZl95THB4TmFnT2NkWGNwTGRhVWRlbnlRaFY2dDJvaVR0ZTUzWUp5RndvS2syNVdvWVZNdV",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeWZuTExTVUswZ0ZoOVhQRHFuT2tyYnR0emxpWER2TWoyS1ZwZmRTZHVyVHFQMXJIZEtkZl95THB4TmFnT2NkWGNwTGRhVWRlbnlRaFY2dDJvaVR0ZTUzWUp5RndvS2syNVdvWVZNdVhkRXlLMWZQRTRwXzhnLVBkeE1jS2c3SmpKVWhXSlJGS1gzOEwwYTh1OHd5QW5RMkpmQUxENHpWZy03eDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-08-020",
+    "date": "2026-06-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Amazon Signs Multibillion-Dollar Fiber Deal With Corning To Expand AI Data Center Network - RTTNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGJyZ3N6Ym1sMWljQ0h3WDNaNmVCTkhkSTJSa2RCa1dFSDVCOVF2c0U4S29fZUN4NzY1aFY5a1pKMEZWdHVkaEFZYW9xZVhPTUdUSE5kcGR2d0VVaTZ3clYyVFN3UmExRVpxdk4wOU",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGJyZ3N6Ym1sMWljQ0h3WDNaNmVCTkhkSTJSa2RCa1dFSDVCOVF2c0U4S29fZUN4NzY1aFY5a1pKMEZWdHVkaEFZYW9xZVhPTUdUSE5kcGR2d0VVaTZ3clYyVFN3UmExRVpxdk4wOUZNLUZ3Ulo1VGZxSlBXVm1JNURpeWZHRnI3UWZ1MWJEMVRLa0dmbmI3X3N4TUJDRW93TkJMa3pWbURnelk0dzhaeUFQcnhmZmZzYzlzNkJXZ0NkeElqNUxnMHNB?oc=5",
         "type": "rss"
       }
     ]
