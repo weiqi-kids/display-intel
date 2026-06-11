@@ -1,0 +1,224 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T12:11:12.361360Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-11-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Sercomm posts 55% jump in January-May revenue and forecasts 2026 operating growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260611PD233/revenue-2026-sercomm-growth-2025.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-11-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Niching Industrial sees heat spreader revenue hit record on AI server demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260611PD225/2026-cooling-materials-niching-revenue-sales.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "MSI sees CPU shortages easing as margins recover",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260611PD229/msi-cpu-gross-margin-2026-revenue.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-11-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Transsion turns from Africa phones to energy storage, but the harder fight is just starting",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260610VL209/transsion-africa-mobile-market-electronics.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-11-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Logistics Leaders Navigate Cost and Automation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.eetimes.com/logistics-leaders-navigate-cost-and-automation/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "applied_materials",
+        "count": 2
+      },
+      {
+        "id": "tcl",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 136,
+    "too_old": 179,
+    "gate1_blocked": 34,
+    "gate2_blocked": 13,
+    "passed": 18,
+    "pass_rate": "7.4%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "SUNY Chancellor King Continues SUNY Reconnect Tour with Visit to Corning Community College - SUNY - ",
+      "Corning Incorporated hosts Legacy in Action Impact Fair - WENY News",
+      "Amazon to work with Corning to create jobs in NC - Wilmington Star-News",
+      "Corning Vs. Prysmian: Better Reward Risk In Optics And Electricity Cable Supplier (GLW) - Seeking Al",
+      "Amazon and Corning sign nultibillion-dollar fiber infrastructure pact - grafa.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為應材、TCL Technology、三星電子相關動態：「Sercomm posts 55% jump in January-May revenue and forecas...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Sercomm posts 55% jump in January-May revenue and forecasts 2026 operating gr...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Niching Industrial sees heat spreader revenue hit record on AI server demand（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

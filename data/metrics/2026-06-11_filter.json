@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 136,
+  "no_date": 0,
+  "too_old": 179,
+  "gate1_fail": 34,
+  "gate2_fail": 13,
+  "passed": 18,
+  "gate2_samples": [
+    "SUNY Chancellor King Continues SUNY Reconnect Tour with Visit to Corning Community College - SUNY - ",
+    "Corning Incorporated hosts Legacy in Action Impact Fair - WENY News",
+    "Amazon to work with Corning to create jobs in NC - Wilmington Star-News",
+    "Corning Vs. Prysmian: Better Reward Risk In Optics And Electricity Cable Supplier (GLW) - Seeking Al",
+    "Amazon and Corning sign nultibillion-dollar fiber infrastructure pact - grafa.com"
+  ]
+}

@@ -1,5 +1,207 @@
 [
   {
+    "id": "unknown-2026-06-11-001",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Researchers developed a narrowband high-performance green phosphorescent OLED emitter with a lifetime of over 500,000 hours (LT90)",
+    "summary": "<p>Researchers from Zhejiang University of Technology have designed a high performance green phosphorescent OLED emitter, that offers a record lifetime of 540,100 hours, LT90 at 1,000 cd/m<sup>2</sup>",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/researchers-developed-narrowband-high-performance-green-phosphorescent-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-002",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "MSI sees CPU shortages easing as margins recover",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:283;101-383\">Micro-Star International (MSI) said its gross margin recovered to 15% in the first quarter of 2026, after tariff costs, foreign exchange swings, and me",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260611PD229/msi-cpu-gross-margin-2026-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "applied_materials-2026-06-11-003",
+    "date": "2026-06-11",
+    "companies": [
+      "applied_materials"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Applied Materials CEO: AI reshapes semiconductor innovation",
+    "summary": "Applied Materials said artificial intelligence (AI) is reshaping the global semiconductor industry and could drive years of heavy investment in chipmaking, packaging, and materials engineering. The sh",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260611PD202/applied-materials-ai-investment-demand-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "applied_materials-2026-06-11-004",
+    "date": "2026-06-11",
+    "companies": [
+      "applied_materials"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Applied Materials expands Singapore base as AI supply-chain bottlenecks loom",
+    "summary": "Applied Materials is expanding manufacturing and research in Singapore as artificial intelligence (AI) drives a wider shift in semiconductor planning, supply chains, and investment. The move highlight",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260611PD201/applied-materials-singapore-investment-equipment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-11-005",
+    "date": "2026-06-11",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Commentary: TSMC's pricing power stays intact as AI demand keeps fabs full",
+    "summary": "Market chatter about TSMC has intensified, with reports that its advanced process and packaging prices will rise again in the second half of 2026 and 2027, while some Google TPU production could shift",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260611PD221/tsmc-demand-price-packaging-advanced-process.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-006",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Sercomm posts 55% jump in January-May revenue and forecasts 2026 operating growth",
+    "summary": "Sercomm Corporation said its revenue for the first five months of 2026 hit a record NT$30 billion (US$950 million), up 55% from a year earlier, signaling continued momentum in telecom and networking m",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260611PD233/revenue-2026-sercomm-growth-2025.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-007",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Niching Industrial sees heat spreader revenue hit record on AI server demand",
+    "summary": "AI servers and high-performance computing demand are driving stronger cooling needs worldwide, and Niching Industrial said the trend is sharply lifting its heat spreader business. The company reported",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260611PD225/2026-cooling-materials-niching-revenue-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-008",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Transsion turns from Africa phones to energy storage, but the harder fight is just starting",
+    "summary": "Transsion Holdings, Africa's long-time \"king of mobile phones,\" is turning to energy storage as smartphone profits weaken. The question is whether its African channel empire can become a real energy b",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260610VL209/transsion-africa-mobile-market-electronics.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-11-009",
+    "date": "2026-06-11",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL unveils A400 Pro and A400M lifestyle TVs with QD-Mini LED displays - YugaTech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPUWE4YUV1MnNRUVJnX2F6cU1ycjIxYkM5S2EwTWYtMHZrR1pySmRwckdCeHpuVVA5SVEtblhLUFBKQzhqQXJRLTk4NmtGRlBFQkFkcElCX3c5VWJBUExyRTJGa3lOVlM0dEdqdjRLUm",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUWE4YUV1MnNRUVJnX2F6cU1ycjIxYkM5S2EwTWYtMHZrR1pySmRwckdCeHpuVVA5SVEtblhLUFBKQzhqQXJRLTk4NmtGRlBFQkFkcElCX3c5VWJBUExyRTJGa3lOVlM0dEdqdjRLUmhZTFpoVmwyLTZ2bTZra1dXOUF3bG8yc21DUzZZRThCaGhRWWJHNUNPWVltekc0SkFWcXFv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-11-010",
+    "date": "2026-06-11",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL pushes premium TV experience beyond specs with SQD Mini LED - speed.ph",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CaGNwejVaZUVHNXgzZ1ZyU21VWVQza1NXczZyemNDc2hfSVV1cFg0VE1teTM5NmNWOHl2SzJ2WVZtcUpQTmlVeDlnT3NXV2s?oc=5\" target=\"_blank\">TCL pushes premium T",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CaGNwejVaZUVHNXgzZ1ZyU21VWVQza1NXczZyemNDc2hfSVV1cFg0VE1teTM5NmNWOHl2SzJ2WVZtcUpQTmlVeDlnT3NXV2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-011",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Logistics Leaders Navigate Cost and Automation",
+    "summary": "\n\t\t\t\t\t\t<p>Gartner's VP analyst David Gonzalez shares strategies for profitability and technology in supply chain management.</p>\n<p>The post <a href=\"https://www.eetimes.com/logistics-leaders-navigate",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/logistics-leaders-navigate-cost-and-automation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "boe-2026-06-10-001",
     "date": "2026-06-10",
     "companies": [
@@ -159,6 +361,141 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260610VL214/tv-shipments-advertising-demand-world-cup-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-10-010",
+    "date": "2026-06-10",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning (GLW) Gained from Robust Demand in Optical Communications - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRERJeFIxT053OWtNVEJmOEJCdzI4QW5aeFBuVmRFQ1hBRzMyNWVuOEpyU0o0U3NoS1RsVkJjY2p2X1gyVXdwTWRIdDZmcUlGZ3RlVm5lTmNzRjJrTkNvbFVWTWxrWDJOOU1TSFpYSW",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRERJeFIxT053OWtNVEJmOEJCdzI4QW5aeFBuVmRFQ1hBRzMyNWVuOEpyU0o0U3NoS1RsVkJjY2p2X1gyVXdwTWRIdDZmcUlGZ3RlVm5lTmNzRjJrTkNvbFVWTWxrWDJOOU1TSFpYSWFuMEhTbHdqZlRBbjU4aGhtbk00VTZsZUstR1czdUxmUWdkTGE3bDNFU2FR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-10-011",
+    "date": "2026-06-10",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Inc Stock (GLW) Moved Down by 3.22% on Jun 10: Key Drivers Unveiled - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPbHVfbFkwTk5PcGNsNl9pb0hDS09zLVRvU2NURkQzYUhua2hfNTFmcGtHSUlvNTl5Rk1oSE1takZEbEVrWXNBS2w1Ty1UekhxTTZXNXpsMjZHazJTVUhvSXhiSFdabXFPY05mbnV3Y3",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbHVfbFkwTk5PcGNsNl9pb0hDS09zLVRvU2NURkQzYUhua2hfNTFmcGtHSUlvNTl5Rk1oSE1takZEbEVrWXNBS2w1Ty1UekhxTTZXNXpsMjZHazJTVUhvSXhiSFdabXFPY05mbnV3Y3NVaTFaR0dSdzlOSjBXX2VxeHR6Qm8wTEtwLXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-06-10-012",
+    "date": "2026-06-10",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Canon Receives Top-Level Supplier Engagement Leader Award from International Non-Profit Organization CDP Program - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOdDlzMzFudk9zSG5Tb29YTE1tZjdicURXU0V6Y0VETk80T0R2NWdFSE40WE41bjRvUEYwWUF4SjE1bGVnZGRDRVJDZ05yck1BMTlwNXFmWVpMY3NORko2TVlkOFZ1LW8yN1BKTWR3ZG",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdDlzMzFudk9zSG5Tb29YTE1tZjdicURXU0V6Y0VETk80T0R2NWdFSE40WE41bjRvUEYwWUF4SjE1bGVnZGRDRVJDZ05yck1BMTlwNXFmWVpMY3NORko2TVlkOFZ1LW8yN1BKTWR3ZGpSRVJHTW9pWlIzNVlHNHVRb2dkVVBTM205bWtENmtfYlVNcVU0MUdqVmdhMjJza0hjTGUzQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-06-10-013",
+    "date": "2026-06-10",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Canon Receives Top-Level Supplier Engagement Leader Award from International Non-Profit Organization CDP Program - lincolnjournal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxNMUJhNnJiN2dpN1FRNzNNd3BZWElibWFaLTRyNWRUWlNrajFGRXN1Nm5KMklwSlhFY2ltTnprTVpnMXhKMEd0YloxdDdDV2xabjVsUFNKT0U3SXE1dDhCdEVrNkJ4MUJQWU9OQ1JSdX",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMUJhNnJiN2dpN1FRNzNNd3BZWElibWFaLTRyNWRUWlNrajFGRXN1Nm5KMklwSlhFY2ltTnprTVpnMXhKMEd0YloxdDdDV2xabjVsUFNKT0U3SXE1dDhCdEVrNkJ4MUJQWU9OQ1JSdXZzbU85RUZ1YUZCQnNRemFveHI2aEZLaWR0b2lpUGNVMGJXSVU5SkF6QmEySEdlbXU3WkZDc2RzQU51Tmo3cmdJUmZZaVJhTG8wNTMtY1V6Qkw3V3VzVFdGMWhCTXQwVmlIM2dGZk92OHBweUptMm1BcTBfd0x3RnZOdkY1U29jcW5jeHBZUUlQZnVOU3A2ckdaWG9kOVdkRHJXWjJiU1NHLUwxZHBqSWtfb016N0xiQi14UFVhUjVsQUZsLWJnRjZjZUpaZjhxMV9JVVcyX2daRTVkOGxWX1U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-10-014",
+    "date": "2026-06-10",
+    "companies": [
+      "samsung_elec",
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Russia Rejects Samsung’s ‘Samsung IPS’ Trademark Over Similarity to LG Display Marks - 알파경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE4taGtzdUt6UTUycnhKTXZyQnV3TjVoQ2hjN19DUTQ1Smt5MzZiV3RkYmNDRkp3MktXVWlGYm5NeUxuTFpKM0tuUHhxSlp0N00xLWhGOV95amJmU2lDRDNGTXZwTnhFeWxvRkNOZm930g",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4taGtzdUt6UTUycnhKTXZyQnV3TjVoQ2hjN19DUTQ1Smt5MzZiV3RkYmNDRkp3MktXVWlGYm5NeUxuTFpKM0tuUHhxSlp0N00xLWhGOV95amJmU2lDRDNGTXZwTnhFeWxvRkNOZm930gFuQVVfeXFMTi1oa3N1S3pRNTJyeEpNdnJCdXdONWhDaGM3X0NRNDVKa3kzNmJXdGRiY0NGSncyS1dVaUZibk15TG5MWkozS25QeHFKWnQ3TTEtaEY5X3lqYmZTaUNEM0ZNdnBOeEV5bG9GQ05mb3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-10-015",
+    "date": "2026-06-10",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "Sigmaintell: flexible AMOLED fab utilization in China drops to 69% in early 2026",
+    "summary": "<p>According to Sigmaintell, the average utilization rates in Chinese 6-Gen flexible AMOLED production lines declined from around 80% in Q4 2025 to 69% in Q1 2026.&nbsp;</p><div class=\"align-center\">\n",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/sigmaintell-flexible-amoled-fab-utilization-china-drops-69-early-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-06-10-016",
+    "date": "2026-06-10",
+    "companies": [
+      "sony"
+    ],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Hisense UR9 vs Sony Bravia 8 II: can RGB Mini LED defeat the best OLED TV around? - What Hi-Fi?",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNekJ1RWwwYWc5SDBDUkd3UVZ0VXRWbWNFRGtOOUxXMmJVTnhRUzNhRWdxVF9IWndiMjNvVnNiN01sYWNCVzlkMFNSRlFkVWJZTHAzQTFfNU9UaDI1aDA2WmhiaU9GMVFmd3NDbWRPSl",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNekJ1RWwwYWc5SDBDUkd3UVZ0VXRWbWNFRGtOOUxXMmJVTnhRUzNhRWdxVF9IWndiMjNvVnNiN01sYWNCVzlkMFNSRlFkVWJZTHAzQTFfNU9UaDI1aDA2WmhiaU9GMVFmd3NDbWRPSlVFdlNpZnhQT1FMaHJGemhCdGlpQVpKS0toQzdZVFJPRVJpVjR5ZURhdmY0QlJvMmJxN2VTT1RHT0F2V2ZDYnFCTXlFekFZaUYwaVNNRlZ4RmJscFlhVXpja3VvZw?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-11",
+  "total_events": 11,
+  "by_company": {
+    "applied_materials": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "samsung_elec": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tcl": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.25
+    },
+    "mini_led": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
