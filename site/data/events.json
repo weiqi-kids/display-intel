@@ -1,5 +1,190 @@
 [
   {
+    "id": "himax-2026-06-12-001",
+    "date": "2026-06-12",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Semiconductor supplier Himax schedules shareholder meeting for Aug. 12, 2026 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQX3RJdnZOOTVKLXlsTzkxN3JOZzY4N0JVUVdIT2xBN18yZjVYcGZUY2dvMjNmTXpVc2h3c0RsQUxrc1F2TS10N0tOcDBYdXd1SmM3Nms5RkRiOUYwTDJVOXdaWVhnWnRoNHZaTnloeW",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX3RJdnZOOTVKLXlsTzkxN3JOZzY4N0JVUVdIT2xBN18yZjVYcGZUY2dvMjNmTXpVc2h3c0RsQUxrc1F2TS10N0tOcDBYdXd1SmM3Nms5RkRiOUYwTDJVOXdaWVhnWnRoNHZaTnloeWVzQlF3ZTlYSXVHeXFWRjFSMG5CZDY1eG40WHlzRUhacnRpUkxtWHYzSHRzNFJEZWNCWEhJWnhHazJKTS1pYnc4WnNCR29nWEk5UDdMUDVB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-12-002",
+    "date": "2026-06-12",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display and Tianma strike patent license deal, end OLED, LCD dispute - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHBHLVZSTFJ1d0xiSS1Rd0cxYXZFMHB4SU81SVlYWWoxSUtqVW5zX3QyTDlVVF9PVXVrM0tCdGxQRC1rcjlHdmJYZDBiVHpaazFsSnRUWXl0eVpTQ25jNWk5a1pUN1k3V1FMRERQdF",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHBHLVZSTFJ1d0xiSS1Rd0cxYXZFMHB4SU81SVlYWWoxSUtqVW5zX3QyTDlVVF9PVXVrM0tCdGxQRC1rcjlHdmJYZDBiVHpaazFsSnRUWXl0eVpTQ25jNWk5a1pUN1k3V1FMRERQdFQzcTFFdWRhc2tDV2VUQWdBdEQ5NWVZQjJQZS1uTzduN19EYk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-12-003",
+    "date": "2026-06-12",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Samsung's packaging gap clouds chip comeback as TSMC, Intel push ahead",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:253;106-358\">Samsung Electronics is regaining ground in high-bandwidth memory and foundry services, but advanced packaging remains a weak point in its bid to captur",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260611VL219/samsung-packaging-tsmc-intel-hbm.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-004",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "negative",
+    "title": "Second fire in less than two weeks disrupts SK Hynix's Cheongju chip campus",
+    "summary": "SK Hynix's latest fire at its Cheongju, South Korea, campus has again disrupted operations at a key memory-chip site and prompted evacuations of thousands of workers. The incident adds to a series of ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260612PD228/sk-hynix-fire-fab-equipment-hospital.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-005",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiwan compute suppliers rise on booming AI demand, with several firms extending strong growth",
+    "summary": "Taiwan's semiconductor and electronics supply-chain companies continued to post generally firm sales in May, according to monthly revenue data and company disclosures, with the strongest accumulated g",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260611VL208/growth-taiwan-demand-revenue-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-12-006",
+    "date": "2026-06-12",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "South Korea taps LG to localize robot simulation tech",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:271;89-359\">South Korea has launched a two-year, KRW34 billion (US$22.22 million) project to develop domestic world model and robot foundation model technologies, a",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260611VL220/robot-lg-data-manufacturing-technology.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-007",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Accton says AI networking demand is rising as it expands capacity for optical products",
+    "summary": "AI server and cloud data center growth is boosting demand for high-speed switches and optical communications, with global supply chains feeling the strain. Taiwan networking equipment maker Accton sai",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260612PD203/demand-accton-ai-server-growth-data-center.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-12-008",
+    "date": "2026-06-12",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Google weighs Samsung's role in next AI chip as TSMC capacity tightens",
+    "summary": "Google is considering using Samsung Electronics to manufacture part of a future artificial intelligence (AI) chip, a move that would mark a notable shift in the US tech group's supply chain as demand ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260612VL209/google-samsung-tsmc-ai-chip-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-009",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Sigurd revenue hits record as AI and chip demand lift operations",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:365;130-494\">Sigurd announced that its May revenue reached a historic high, driven by overseas customer expansion, stronger demand for AI-related chips, and rising ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260612PD214/sigurd-revenue-demand-capacity-chips.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-12-010",
+    "date": "2026-06-12",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL highlights Mini LED, AI-powered TVs in PH product push - Newsbytes.PH",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOLUhmSS1OUXZmQ2tHaWlGSlNYM25qcTA3bDJCZWFubWstZGQ0WEgyQTh2YVdZNG1vamExSmNmNzBtVHdOOHVBcFhwZndRdnZ2SmlDQ3NseGFyU1BLb2JQX05XYU5XNDZKclJacUU1SW",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLUhmSS1OUXZmQ2tHaWlGSlNYM25qcTA3bDJCZWFubWstZGQ0WEgyQTh2YVdZNG1vamExSmNmNzBtVHdOOHVBcFhwZndRdnZ2SmlDQ3NseGFyU1BLb2JQX05XYU5XNDZKclJacUU1SWtqajFycDMyR0tjeFl5YnBTOUVBckZQSDBrenozS3VQd2s3QjRS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-11-001",
     "date": "2026-06-11",
     "companies": [],
@@ -197,6 +382,81 @@
       {
         "name": "eetimes",
         "url": "https://www.eetimes.com/logistics-leaders-navigate-cost-and-automation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-012",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Researchers use MVDL technology to deposit high-performance, flexible and transparent metal mesh OLED electrodes",
+    "summary": "<p>Researchers from Seoul National University have developed high-performance flexible transparent electrodes, using selective metal deposition. They have successfully implemented these electrodes in ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/researchers-develop-metal-mesh-electrodes-enable-high-performance-flexible-and",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-013",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "Visionox ramps up ViP AMOLED production at its V3 pilot line, supplying wearable and smartphone OLEDs to Xiaomi and Honor",
+    "summary": "<p>Reports from Korea suggest that Visionox has increased its ViP AMOLED display capacity, at its low-volume pilot line, located at its V3 production line in Hebei, China.&nbsp;</p><div class=\"video-c",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/visionox-ramps-vip-amoled-production-its-v3-pilot-line-supplying-wearable-and",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-11-014",
+    "date": "2026-06-11",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL launches flagship OLED+ & Mini LED monitors in UK - ChannelLife UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1N2RkdLV3l5dUxmbjhYa0N6QXhidWJDMjRSMjY4SlptanB1OXRXYTI4dkRkUEFRODRLTnFGNWZvZThFZHJxZlIxUWE3blNIeFBTR3gxSVEzc2NicTZUazhUbnlRNTlwZEswdlVFNj",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1N2RkdLV3l5dUxmbjhYa0N6QXhidWJDMjRSMjY4SlptanB1OXRXYTI4dkRkUEFRODRLTnFGNWZvZThFZHJxZlIxUWE3blNIeFBTR3gxSVEzc2NicTZUazhUbnlRNTlwZEswdlVFNjREMHNwMFNHcFpJajdzZ3pfZ3V5UmJPbUFSYUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-11-015",
+    "date": "2026-06-11",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rebellions Bets on Memory-Centric Architecture as It Weighs IPO Options",
+    "summary": "\n\t\t\t\t\t\t<p>Rebellions leverages memory-centric AI chip designs with SK Hynix and Samsung to fuel IPO ambitions.</p>\n<p>The post <a href=\"https://www.eetimes.com/rebellions-bets-on-memory-centric-archit",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/rebellions-bets-on-memory-centric-architecture-as-it-weighs-ipo-options/",
         "type": "rss"
       }
     ]
@@ -496,6 +756,42 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNekJ1RWwwYWc5SDBDUkd3UVZ0VXRWbWNFRGtOOUxXMmJVTnhRUzNhRWdxVF9IWndiMjNvVnNiN01sYWNCVzlkMFNSRlFkVWJZTHAzQTFfNU9UaDI1aDA2WmhiaU9GMVFmd3NDbWRPSlVFdlNpZnhQT1FMaHJGemhCdGlpQVpKS0toQzdZVFJPRVJpVjR5ZURhdmY0QlJvMmJxN2VTT1RHT0F2V2ZDYnFCTXlFekFZaUYwaVNNRlZ4RmJscFlhVXpja3VvZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-10-017",
+    "date": "2026-06-10",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amazon-Corning deal considered 'validation' of optics demand, Wedbush says (GLW:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWc1UGk5akhldTIwaUJWZmhVM0NGamFoLXlweFBJVjE3bWloWGFUemtCQnRkWFNtaVJIT2RUUzVrSEl0YmllemdadFR6c045a20wOHNDb1dSeGtqRHNKekV4RzkyV255TWhINTA1YT",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWc1UGk5akhldTIwaUJWZmhVM0NGamFoLXlweFBJVjE3bWloWGFUemtCQnRkWFNtaVJIT2RUUzVrSEl0YmllemdadFR6c045a20wOHNDb1dSeGtqRHNKekV4RzkyV255TWhINTA1YTVYTjExSGpMQkJVZDAxeXRXR1ozbjBnTGFjejYtdXdqeTJRVHZzU3prZk41VFNkS3Mtd2ZPZWxrc2VqUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-06-10-018",
+    "date": "2026-06-10",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Himax (HIMX) Sees 6.2% Decline Amid Market Activity - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOS05zV2pwVGpPYmZKNEtHTEVFRkV1emlTSjE1OUtja1psU01qeHRJeXdWejVfUlVhdGpJTm1BUmdCbk1XVVFXeGVDWVNFalg4b2pwQnVEVnV3MGNyMDVzS28xbTI1bGR6bmpHcVNCYm",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS05zV2pwVGpPYmZKNEtHTEVFRkV1emlTSjE1OUtja1psU01qeHRJeXdWejVfUlVhdGpJTm1BUmdCbk1XVVFXeGVDWVNFalg4b2pwQnVEVnV3MGNyMDVzS28xbTI1bGR6bmpHcVNCYmdBVGZ6T1hlTEprckM2WXdyRElzVy16MU9lWnN4Q1F2cHRCVS01Y3JnTVFmM05ydFU?oc=5",
         "type": "rss"
       }
     ]
@@ -806,6 +1102,24 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/samsung-electronics-reduces-its-foldable-smartphone-shipments-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-09-018",
+    "date": "2026-06-09",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Can Corning's Multibillion-Dollar AI Deal With Amazon Lift Its Shares? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU3Nsd0tocFhocEFoWlRSSTV5MDdhbnY0Q2ExMzRHb0pVQk9fbFBHSmltcjlqd1haaXFfeElmTGxBWHpaUXlMZ3ZlTGtyVWZiU0hTdzUzYUhEc1QybWZOR2VTcm9FbXpVU1JCUmVfck",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU3Nsd0tocFhocEFoWlRSSTV5MDdhbnY0Q2ExMzRHb0pVQk9fbFBHSmltcjlqd1haaXFfeElmTGxBWHpaUXlMZ3ZlTGtyVWZiU0hTdzUzYUhEc1QybWZOR2VTcm9FbXpVU1JCUmVfcktaYzB1QmVOaXhXQVg2UU9vbGpUUHpJbkJlZ09UZ1RpclA3Z0ZaNWtGV3ZEQUkwdXJkcDBBdlBZSDI2cDBDeVMybUZ2UHhZWER0b3lZN1JJZFBIWndpOHFzY0UySXZWVXhaTWk1S2NEUnp6X2x4cWR3bzNlVWYxSl80?oc=5",
         "type": "rss"
       }
     ]

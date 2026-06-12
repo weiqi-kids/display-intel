@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 178,
+  "gate1_fail": 32,
+  "gate2_fail": 18,
+  "passed": 17,
+  "gate2_samples": [
+    "Southern Finger Lakes Pride Festival in downtown Corning June 12-13 - Corning Leader",
+    "Amazon to work with Corning to create jobs in NC - Wilmington Star-News",
+    "Tech giants Amazon and Corning team up to create thousands of jobs in North Carolina - WCNC",
+    "Amazon Partners with Corning to Power U.S. Fibre Optics Manufacturing - intlbm",
+    "Corning Vs. Prysmian: Better Reward Risk In Optics And Electricity Cable Supplier (GLW) - Seeking Al"
+  ]
+}

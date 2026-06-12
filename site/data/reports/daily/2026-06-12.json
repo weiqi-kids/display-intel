@@ -1,0 +1,251 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T11:45:52.627171Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-06-12-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display and Tianma strike patent license deal, end OLED, LCD dispute - digitimes",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHBHLVZSTFJ1d0xiSS1Rd0cxYXZFMHB4SU81SVlYWWoxSUtqVW5zX3QyTDlVVF9PVXVrM0tCdGxQRC1rcjlHdmJYZDBiVHpaazFsSnRUWXl0eVpTQ25jNWk5a1pUN1k3V1FMRERQdFQzcTFFdWRhc2tDV2VUQWdBdEQ5NWVZQjJQZS1uTzduN19EYk0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-12-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Sigurd revenue hits record as AI and chip demand lift operations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260612PD214/sigurd-revenue-demand-capacity-chips.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-12-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan compute suppliers rise on booming AI demand, with several firms extending strong growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260611VL208/growth-taiwan-demand-revenue-sales.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-12-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Accton says AI networking demand is rising as it expands capacity for optical products",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260612PD203/demand-accton-ai-server-growth-data-center.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "himax-2026-06-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Semiconductor supplier Himax schedules shareholder meeting for Aug. 12, 2026 - Stock Titan",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX3RJdnZOOTVKLXlsTzkxN3JOZzY4N0JVUVdIT2xBN18yZjVYcGZUY2dvMjNmTXpVc2h3c0RsQUxrc1F2TS10N0tOcDBYdXd1SmM3Nms5RkRiOUYwTDJVOXdaWVhnWnRoNHZaTnloeWVzQlF3ZTlYSXVHeXFWRjFSMG5CZDY1eG40WHlzRUhacnRpUkxtWHYzSHRzNFJEZWNCWEhJWnhHazJKTS1pYnc4WnNCR29nWEk5UDdMUDVB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.67,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 5,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 135,
+    "too_old": 178,
+    "gate1_blocked": 32,
+    "gate2_blocked": 18,
+    "passed": 17,
+    "pass_rate": "6.9%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "Southern Finger Lakes Pride Festival in downtown Corning June 12-13 - Corning Leader",
+      "Amazon to work with Corning to create jobs in NC - Wilmington Star-News",
+      "Tech giants Amazon and Corning team up to create thousands of jobs in North Carolina - WCNC",
+      "Amazon Partners with Corning to Power U.S. Fibre Optics Manufacturing - intlbm",
+      "Corning Vs. Prysmian: Better Reward Risk In Optics And Electricity Cable Supplier (GLW) - Seeking Al"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為LG電子、三星電子、Himax Technologies相關動態：「LG Display and Tianma strike patent license deal, end OLE...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display and Tianma strike patent license deal, end OLED, LCD dispute - dig...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Sigurd revenue hits record as AI and chip demand lift operations（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
