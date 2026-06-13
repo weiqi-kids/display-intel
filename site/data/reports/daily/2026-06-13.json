@@ -1,0 +1,227 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T10:29:50.128218Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-06-13-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display and Tianma settle their OLED and LCD patent dispute",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/lg-display-and-tianma-settle-their-oled-and-lcd-patent-dispute"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-13-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Commentary: The cost of over-concentration&mdash;How TSMC's liquidity dominance is reshaping Taiwan's banking system",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260612PD216/tsmc-capex-funding-taiwan-economy-2026.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-13-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI demand and grid upgrades are reshaping the outlook for Linkage's power equipment business",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260612PD204/power-components-equipment-business-taiwan.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Researchers utilize a nano-carbon framework to design high-performance narrowband blue MR-TADF emitters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.oled-info.com/researchers-utilize-nano-carbon-framework-design-high-performance-narrowband"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-06-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung to review strategy as memory boom pressures devices",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260612VL213/samsung-business-demand-market-2028.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 141,
+    "too_old": 180,
+    "gate1_blocked": 34,
+    "gate2_blocked": 14,
+    "passed": 11,
+    "pass_rate": "4.6%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "Is Corning Incorporated (GLW) A Good Stock To Buy Now? - Yahoo Finance",
+      "SUNY Chancellor King Continues SUNY Reconnect Tour with Visit to Corning Community College - SUNY - ",
+      "Corning Incorporated hosts Legacy in Action Impact Fair - WENY News",
+      "Amazon to work with Corning to create jobs in NC - Wilmington Star-News",
+      "Southern Finger Lakes Pride Festival in downtown Corning June 12-13 - Star-Gazette"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為LG電子、LGD、三星電子相關動態：「LG Display and Tianma settle their OLED and LCD patent di...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display and Tianma settle their OLED and LCD patent dispute（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Commentary: The cost of over-concentration&mdash;How TSMC's liquidity dominan...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

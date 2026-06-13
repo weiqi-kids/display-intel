@@ -1,5 +1,116 @@
 [
   {
+    "id": "lg_elec-2026-06-13-001",
+    "date": "2026-06-13",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display and Tianma settle their OLED and LCD patent dispute",
+    "summary": "<p>LG Display and Tianma settled their long LCD and OLED display global patent dispute. The two companies have notified the U.S. Patent Trial and Appeal Board (PTAB) of the settlement and agreed to wi",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/lg-display-and-tianma-settle-their-oled-and-lcd-patent-dispute",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-002",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Researchers utilize a nano-carbon framework to design high-performance narrowband blue MR-TADF emitters",
+    "summary": "<p>Researchers from Kyoto University, have developed a new molecular design concept for MR-TADF OLED emitters, that spatially expands and amplifies the multiple resonance effect.&nbsp;</p><div class=\"",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/researchers-utilize-nano-carbon-framework-design-high-performance-narrowband",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-13-003",
+    "date": "2026-06-13",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Samsung to review strategy as memory boom pressures devices",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:313;95-407\">Samsung Electronics is set to hold its semiannual global strategy meeting from June 16 to 18, with executives expected to review a split operating envir",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260612VL213/samsung-business-demand-market-2028.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-004",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AI demand and grid upgrades are reshaping the outlook for Linkage's power equipment business",
+    "summary": "As AI computing demand rises alongside grid modernization, power infrastructure is becoming more important across the heavy electrical sector. Linkage is positioning itself in the distribution segment",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260612PD204/power-components-equipment-business-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-005",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "neutral",
+    "title": "PCIM 2026: Why Western carmakers cannot have 'China-free' SiC at subsidized prices",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:500;120-619\">During a panel discussion between executives and research experts from Bosch, Infineon, Rohm Semiconductor, Nexperia, Wolfspeed, and Omdia at PCIM Euro",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260611VL223/panel-sic-2026-bosch-infineon.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-006",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Commentary: The cost of over-concentration&mdash;How TSMC's liquidity dominance is reshaping Taiwan's banking system",
+    "summary": "TSMC's financial dominance has reached unprecedented heights, with the world's leading foundry posting first-quarter 2026 profit of over NT$570 billion (approx. US$18.04 billion) and holding an immens",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260612PD216/tsmc-capex-funding-taiwan-economy-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-06-12-001",
     "date": "2026-06-12",
     "companies": [
@@ -180,6 +291,62 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLUhmSS1OUXZmQ2tHaWlGSlNYM25qcTA3bDJCZWFubWstZGQ0WEgyQTh2YVdZNG1vamExSmNmNzBtVHdOOHVBcFhwZndRdnZ2SmlDQ3NseGFyU1BLb2JQX05XYU5XNDZKclJacUU1SWtqajFycDMyR0tjeFl5YnBTOUVBckZQSDBrenozS3VQd2s3QjRS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-12-011",
+    "date": "2026-06-12",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Stretches Its UltraGear OLED Lineup To 45 Inches With Curved 800R Panels Hitting 1,300 Nits And 240Hz - Wccftech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE56Yk5LTWFpWjJFdVlFeHBucUR1Wk5IYm5LT0lzV28wQ3ZHb2hJeUNxMm9nWWtCSVdfaFAzdEhkQjlNdWRIY2lVZFdwR04tcHR6RGJvWTc1QVNSOGZVNG5QR1lkZmVEU2JObmh4WVFKZD",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56Yk5LTWFpWjJFdVlFeHBucUR1Wk5IYm5LT0lzV28wQ3ZHb2hJeUNxMm9nWWtCSVdfaFAzdEhkQjlNdWRIY2lVZFdwR04tcHR6RGJvWTc1QVNSOGZVNG5QR1lkZmVEU2JObmh4WVFKZDd6ZlczaFHSAXtBVV95cUxNWmRvc3J2dmlfV0JRbDVEV2g4aU8zZU5HVU1zOWJmMHd1MlVFemVxSFgtZWVwOXJzdWJRdi1feTRqdjFIaGN6UnZhR2pRd3RKYjZ3V1dHb05IcFoxOW9BMll6OXNKeVVKZnoyeHpVUVFvTFJIUFJfUnZiMjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-06-12-012",
+    "date": "2026-06-12",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Group Stock (CNE1000016L5): shares in focus after quiet trading week - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWU5cmFYRnIyYnNSYXozMzBEYWRFVndVa2U4d2NTSXY5ZE81QW5Pc3RILXJyTUFzMTc5V1lGbG1IOWNPM2NBclJxdmJwQWFYcU9ORDdocGlIRTV6UmFKcWJnSDNVYlVHWVZkOEpVYz",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVWU5cmFYRnIyYnNSYXozMzBEYWRFVndVa2U4d2NTSXY5ZE81QW5Pc3RILXJyTUFzMTc5V1lGbG1IOWNPM2NBclJxdmJwQWFYcU9ORDdocGlIRTV6UmFKcWJnSDNVYlVHWVZkOEpVYzN4TnlGQnV3MjZ5aUpIUk42V1doMHZqdTR1MXFBYXNNY05JZ3pGNkt0UHBBbVFzeVFURHc2bzJib2dQR3VocjBoX1FwSEJCVzhJaFhTU2RmWWg0ck9m?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-013",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "Why SQD-Mini LED is the display breakthrough we’ve been waiting for? - Dawn",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WQndoYnlRN1E3RU9SOUlOMmxrMC0xbkl3UlIxM1pwRTA3VWdWUkxjWDlYbGJIaGgxVXU2U005dmdYeEZydXhvUDZOVEdXQdIBTkFVX3lxTE5WQndoYnlRN1E3RU9SOUlOMmxrMC0xbk",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WQndoYnlRN1E3RU9SOUlOMmxrMC0xbkl3UlIxM1pwRTA3VWdWUkxjWDlYbGJIaGgxVXU2U005dmdYeEZydXhvUDZOVEdXQdIBTkFVX3lxTE5WQndoYnlRN1E3RU9SOUlOMmxrMC0xbkl3UlIxM1pwRTA3VWdWUkxjWDlYbGJIaGgxVXU2U005dmdYeEZydXhvUDZOVEdXQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -457,6 +624,24 @@
       {
         "name": "eetimes",
         "url": "https://www.eetimes.com/rebellions-bets-on-memory-centric-architecture-as-it-weighs-ipo-options/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-06-11-016",
+    "date": "2026-06-11",
+    "companies": [
+      "sony"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sony TVs are expensive, but these models deliver some of the best image quality I've seen - Business Insider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OQ3BfeVhHSEVublVxTk5sb2NyaVNwU2U4MmJsejk5YXBuQmtNbVpFNkN4RzR4YVlzZUJkSDBiQjZoUGg4TmE0UGl5RjVJdlpBN1BHcmNObDBIbklGVUV6WFNxRlVCQnVs?oc=5\" tar",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OQ3BfeVhHSEVublVxTk5sb2NyaVNwU2U4MmJsejk5YXBuQmtNbVpFNkN4RzR4YVlzZUJkSDBiQjZoUGg4TmE0UGl5RjVJdlpBN1BHcmNObDBIbklGVUV6WFNxRlVCQnVs?oc=5",
         "type": "rss"
       }
     ]
@@ -792,6 +977,24 @@
       {
         "name": "himax",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS05zV2pwVGpPYmZKNEtHTEVFRkV1emlTSjE1OUtja1psU01qeHRJeXdWejVfUlVhdGpJTm1BUmdCbk1XVVFXeGVDWVNFalg4b2pwQnVEVnV3MGNyMDVzS28xbTI1bGR6bmpHcVNCYmdBVGZ6T1hlTEprckM2WXdyRElzVy16MU9lWnN4Q1F2cHRCVS01Y3JnTVFmM05ydFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-06-10-019",
+    "date": "2026-06-10",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Controlling Unit to Withdraw Beijing Listing Application; Shares Fall 8% - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLTJoNXVReTcyUElqTVNwVXRaTDRYbFBvLThRc2VJcm15dldnRm9CQk5FOHFyTUhzNnNFc052YWc4ZlI3TnFrQTM0VW5QV0tCdkNZRndudU9GNVdMRFF4ODk4ckRMOXUwdzhwenUzSk",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLTJoNXVReTcyUElqTVNwVXRaTDRYbFBvLThRc2VJcm15dldnRm9CQk5FOHFyTUhzNnNFc052YWc4ZlI3TnFrQTM0VW5QV0tCdkNZRndudU9GNVdMRFF4ODk4ckRMOXUwdzhwenUzSkZRWERoWmM4cVRqdmlvZFAxREpSa1lvQmxxaUxtWEdHODI4S21zQklNWHF1VWNxREdOcjJ4YUJJRG5nbUFfY2VBeVh4OFpWb2J3dlpNOHF5aDNTaXdfLThWc2x1OWlYd3M1TnVaVg?oc=5",
         "type": "rss"
       }
     ]
