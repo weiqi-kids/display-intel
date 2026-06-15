@@ -1,0 +1,212 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T13:56:21.956701Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_elec-2026-06-15-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Samsung foundry chief sees 2028 profit path as bonus costs mount",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260615VL205/samsung-foundry-fab-business-profit-2028.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-15-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NPAQ pivots to AI infrastructure and satellite NTN amid memory market slump",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260615PD217/infrastructure-psa-walsin-market-2026.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_elec-2026-06-15-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "South Korea's chip equipment players ride the HBM4 wave",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260615PD206/equipment-2026-hbm4-capex-revenue.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-15-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Wus Printed Circuit sees turnaround on high-end PCB demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260615PD214/demand-pcb-high-end-chairman-production.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-15-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Exclusive: Wiwynn triples capital, president says it signals confidence",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260615PD223/wiwynn-server-odm-eps-taiwan.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 6
+      },
+      {
+        "id": "jdi",
+        "count": 2
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "oled_penetration",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 142,
+    "too_old": 176,
+    "gate1_blocked": 33,
+    "gate2_blocked": 16,
+    "passed": 13,
+    "pass_rate": "5.5%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Is Corning Incorporated (GLW) A Good Stock To Buy Now? - Yahoo Finance",
+      "Quick Update On Corning Incorporated Stock ($GLW) To See - Fathom Journal",
+      "Corning Incorporated hosts Legacy in Action Impact Fair - WENY News",
+      "Southern Finger Lakes Pride Festival in downtown Corning June 12-13 - Corning Leader",
+      "Amazon to work with Corning to create jobs in NC - Wilmington Star-News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為三星電子、JDI、LG電子相關動態：「Samsung foundry chief sees 2028 profit path as bonus cost...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung foundry chief sees 2028 profit path as bonus costs mount（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "NPAQ pivots to AI infrastructure and satellite NTN amid memory market slump（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

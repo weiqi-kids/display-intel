@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 142,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 33,
+  "gate2_fail": 16,
+  "passed": 13,
+  "gate2_samples": [
+    "Is Corning Incorporated (GLW) A Good Stock To Buy Now? - Yahoo Finance",
+    "Quick Update On Corning Incorporated Stock ($GLW) To See - Fathom Journal",
+    "Corning Incorporated hosts Legacy in Action Impact Fair - WENY News",
+    "Southern Finger Lakes Pride Festival in downtown Corning June 12-13 - Corning Leader",
+    "Amazon to work with Corning to create jobs in NC - Wilmington Star-News"
+  ]
+}
