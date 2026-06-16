@@ -1,5 +1,153 @@
 [
   {
+    "id": "samsung_elec-2026-06-16-001",
+    "date": "2026-06-16",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[Infographic] The Origin of Art TV: The Frame’s Journey in Bringing Art Into Everyday Life",
+    "summary": "Since its launch in 2017, Samsung The Frame has redefined the screen experience by seamlessly blending technology with interior design. As the pioneer of the Art TV, The Frame delivers select artworks",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/infographic-the-origin-of-art-tv-the-frames-journey-in-bringing-art-into-everyday-life",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-002",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Avaco launches next-generation low-damage OLED sputter technology for next-gen OLED processes",
+    "summary": "<p><a href=\"https://www.oled-info.com/avaco\">Avaco</a> has developed next-generation low-damage sputter technology, for both OLED display deposition and <a href=\"https://www.oled-info.com/oled-equipme",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/avaco-launches-next-generation-low-damage-oled-sputter-technology-next-gen-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-16-003",
+    "date": "2026-06-16",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung reportedly moves closer to 5nm-class MRAM as TSMC advances its roadmap",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:291;114-404\">Samsung Electronics has secured key technology for a 5nm-class magnetoresistive random-access memory cell, according to Korean financial daily <em>Seda",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260616VL214/samsung-mram-tsmc-technology-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-004",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "China AI chip hopeful Enflame nears IPO with fast revenue growth, heavy losses, and Tencent risk",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:226;106-331\">Shanghai Enflame Technology is nearing a STAR Market listing, bringing another Chinese AI chipmaker closer to public markets while losses, Tencent conc",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260616VL207/tencent-revenue-ai-chip-ipo-shanghai.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-005",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Walrus Pump sees stronger liquid cooling demand, eyes higher 2026 growth",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:352;128-479\">AI server liquid cooling is driving demand for pump makers, a shift that could boost supply-chain resilience and margins for Asia-based manufacturers a",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260616PD209/liquid-cooling-demand-2026-ai-server-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-16-006",
+    "date": "2026-06-16",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "LG UltraGear evo 27GM950B: 5K gaming monitor with Hyper Mini LED technology sets new standards - Basic Tutorials",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkF6eTYtTVh4NzdmQTlTV0FYSDhmMWZTWDNHS05VMXA3NkJ2QXNyV3drclhEaDNEaFBEWE9qT19yeERQeVRNMUdSWkVweFM2bU4xTmtfWjZwTVRjazRsaVBRQWp4aUN6MDhrZi1heV",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUkF6eTYtTVh4NzdmQTlTV0FYSDhmMWZTWDNHS05VMXA3NkJ2QXNyV3drclhEaDNEaFBEWE9qT19yeERQeVRNMUdSWkVweFM2bU4xTmtfWjZwTVRjazRsaVBRQWp4aUN6MDhrZi1heVptYlQ3QklrMWxLX212TlhKTWx0UnJRQ3otZEVkTGZwX0xXTlBlUEx4cFhGTEJrUmN2V0RELTA4d0hXbklsM1pYX3lRcV9Ua2MyNVoyc2ZRXzlMNXY3clE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-16-007",
+    "date": "2026-06-16",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung regains North America mini LED TV lead as World Cup spurs fight - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE10bzNBRWdnVmhYN2t6c0FUa1RFNmxPSFdIdjIxUzdxX0JtdnRtX1hXSkQwWDc2TmllRUt4dmRlWXNZQ3pncmVpWTJueF9UN3FmTWtCMVFmU3NtT3BCSjRDSUdyRWdDUGZ2UTdIbEMtUU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10bzNBRWdnVmhYN2t6c0FUa1RFNmxPSFdIdjIxUzdxX0JtdnRtX1hXSkQwWDc2TmllRUt4dmRlWXNZQ3pncmVpWTJueF9UN3FmTWtCMVFmU3NtT3BCSjRDSUdyRWdDUGZ2UTdIbEMtUUZZR3FlNXdvcHpB0gGOAUFVX3lxTE93RWtBZzRiT3VnQmxKaFdIWmM5aGhDMDVibVduTk9kbmE4RFgwcUc0a294M1ZGYVhJSTRFdkt5MEYyeXp1WXB4TlFDbGNvVDd2MHlZeWRoR1ItYXR1Yk9UNm1udG91dVJzYnBVZVdFd2M4QW9wQ2FzMGdqOWtLRkwwU2N4ZlhSdk15eUpiUGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-008",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Xiaomi TV FX Mini LED Series Review: Mini LED Meets Fire TV at a Price That Actually Makes Sense - gogi.in",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlZMT2M1RTJLMGVPd2pCNldZNVNtdlRSc3N1YWZiOC1WODFHd2ZteTF2cHR2U0RNc3ZNSGEwQ0pIZ2R4MzlNWUN5X1Jfb0dpS1VpT1UyU2RtWEdmMWpweEtlZG8wdE5PdmV5T2tvVH",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlZMT2M1RTJLMGVPd2pCNldZNVNtdlRSc3N1YWZiOC1WODFHd2ZteTF2cHR2U0RNc3ZNSGEwQ0pIZ2R4MzlNWUN5X1Jfb0dpS1VpT1UyU2RtWEdmMWpweEtlZG8wdE5PdmV5T2tvVHNvaWZZcEt2ZnVMMUpxdC1iMUZFWFl4T2xKWHVwSHdiUGRkNTlCazRibm5ZNW1vMzJyMzJiMDA2djU1Z1h6dURFaGp0aFFIY3lXNEhvVdIBwgFBVV95cUxQM05vdTEyWkpxUU8taG9BWWg3c3BDQzdsQXFQUGw2ZWRwSE5veExJalpsRUZBWmR3R2VxaGkycFVIaWhuRE9YckJ6ZlVHbEdqbm1EVVRqZUV6b2VSc0szeFRWOENLcDBNRE43ZHhWNWRKdzh6M0Q4RnlRUE1vQzJIX3k1Y3ZPZ1VucGVEVlR0aEE5WE9TNmF4M3dFMDhXeUdOc2NNWkl1TnR3QkRCc1Q0YlV4ZEQ5REduQ0xDblViZm9Odw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-06-15-001",
     "date": "2026-06-15",
     "companies": [
@@ -209,6 +357,63 @@
     ]
   },
   {
+    "id": "corning-2026-06-15-012",
+    "date": "2026-06-15",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amazon and Corning Incorporated enter US fiber optics manufacturing agreement - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wJBVV95cUxPeEZOWExDVEFMbTZGMzEzRU5fTDRwRWZLSkl6d0pneUlYSmZ4R0IyLWxOUEUwbXpTMVNHZnM1d2FQVEg5NHdHajJIVnFBVEJVcnlLWWU5QTg2NGJXUHg4cHFuelNvdGlkVXBGa3NxTV",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPeEZOWExDVEFMbTZGMzEzRU5fTDRwRWZLSkl6d0pneUlYSmZ4R0IyLWxOUEUwbXpTMVNHZnM1d2FQVEg5NHdHajJIVnFBVEJVcnlLWWU5QTg2NGJXUHg4cHFuelNvdGlkVXBGa3NxTVFydEFZam9FSGxiVmdXS1J1bFRDenFNSHpKdTFKUmFtNE9Da1V6VVNjLV9oZjV5QjdXYWhfd0tXbjNpem90aS1PcVhlcUo5cHdySnd2R0tXNV9iS2NFQnZYbjl1RmFWYTRhMHZEZGlIcFBHV0pnT1lYY1BaN1VKYVBkNktoOGw1R1N3dklPYW1iYU00U0l4TnVodWZ0eU51dklGbUNmV2R4U2tGZTV0UDcyZ241VVRyanNGdkRVeFB0QUJxUERkajlQRnVnY25TazN0OGZueno2RXhrZjlSQThlQ2h4Sl80bWZxcVFUOUk1b3MwVzBGdWJpNDcwWXZub2wtc3VPbllPLTUzRnVwb2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-06-15-013",
+    "date": "2026-06-15",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Group Stock (CNE1000016L5): shares in focus amid lack of fresh U.S. catalysts - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPbEZkRk0weFVnc3N2UWtRbEZYOF9KS3ZaT2lZWG1jSjk0NDJnN2xyS3dNWDhQN2RoZE9Fa2h3UFRhX2drZTZoVnRja2xCTGJnN255N3NLZG9PRDBwcWhNbEVyREJtblByMXZRckdMb3",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbEZkRk0weFVnc3N2UWtRbEZYOF9KS3ZaT2lZWG1jSjk0NDJnN2xyS3dNWDhQN2RoZE9Fa2h3UFRhX2drZTZoVnRja2xCTGJnN255N3NLZG9PRDBwcWhNbEVyREJtblByMXZRckdMb3U0TGJlSWdCbXdBU1Y4dGJJM1BPTUg5YU9IVkRKeVFwRnpEcng2ZmVOZWhwTUhVRmFDZ1NSNWFObnc2YkdhTkp4dnpZeDFQZ19POFVIVHB1em9uUE9fSWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-15-014",
+    "date": "2026-06-15",
+    "companies": [
+      "samsung_elec",
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung's TM Roh Reportedly Plans to Visit BOE in June Amid Galaxy S27 OLED Supply Talks - Gadgets 360",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXNQMGtTeGs3VHF4VTlrTG9vM2JMMjRYWTdycGhwb2NqQTUzTnpqc2VRb2NUU0tRWDduR19keTA2X2sxbVNBWG5fR0k5UkJUcnJsXzc5cFhMaHV5Z3VNV3RNUHpsalE5TnhBWUFzc2",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXNQMGtTeGs3VHF4VTlrTG9vM2JMMjRYWTdycGhwb2NqQTUzTnpqc2VRb2NUU0tRWDduR19keTA2X2sxbVNBWG5fR0k5UkJUcnJsXzc5cFhMaHV5Z3VNV3RNUHpsalE5TnhBWUFzc2phUlpQSEpRVnAwVmJSOU1DaFNIRXpHaVhOaUpLYTZoQV9RRTFDN2F2T2lxUVl1a3U3anNLaFFsUGp4ZWVRbTZNT1N3THJjdEczdS0wcXpIZUpFUTDSAcMBQVVfeXFMTnFzUDBrU3hrN1RxeFU5a0xvbzNiTDI0WFk3cnBocG9jakE1M056anNlUW9jVFNLUVg3bkdfZHkwNl9rMW1TQVhuX0dJOVJCVHJybF83OXBYTGh1eWd1TVd0TVB6bGpROU54QVlBc3NqYVJaUEhKUVZwMFZiUjlNQ2hTSEV6R2lYTmlKS2E2aEFfUUUxQzdhdk9pcVFZdWt1N2pzS2hRbFBqeGVlUW02TU9Td0xyY3RHM3UtMHF6SGVKRVEw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-06-14-001",
     "date": "2026-06-14",
     "companies": [
@@ -259,6 +464,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95c3dUdnVTWldkU3o4UkE0ckg3QTcxWHFnbkVXYnNIOFMzVE9TeUN4M1prTklrSE82cUNmVlkwLTVjWl9HZUlvR1hMU1pWQ09LNmd1VFZXSFpYWkdxcDV2UW9kb1Q4Y01lcnRjRXBn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-06-14-004",
+    "date": "2026-06-14",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "1 Thing to Watch at Himax Technologies - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGhCRTZROUkyMWc1T1h6UGVIZTR6WGxQUGRLbk8tbmNOQlVwU2ZYSF9oWnlsZUQwcS1pS0djUU1JWnVGTmdnU0hlTTViYlQ5VVdnR3pBVkFiVFFndzUyZ0wzLTdIdmtyNjVCV3NMX3",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGhCRTZROUkyMWc1T1h6UGVIZTR6WGxQUGRLbk8tbmNOQlVwU2ZYSF9oWnlsZUQwcS1pS0djUU1JWnVGTmdnU0hlTTViYlQ5VVdnR3pBVkFiVFFndzUyZ0wzLTdIdmtyNjVCV3NMX3g1aUpzaFI2UVUwYm1IOUhHcjFRUWw2UQ?oc=5",
         "type": "rss"
       }
     ]
@@ -611,6 +834,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WQndoYnlRN1E3RU9SOUlOMmxrMC0xbkl3UlIxM1pwRTA3VWdWUkxjWDlYbGJIaGgxVXU2U005dmdYeEZydXhvUDZOVEdXQdIBTkFVX3lxTE5WQndoYnlRN1E3RU9SOUlOMmxrMC0xbkl3UlIxM1pwRTA3VWdWUkxjWDlYbGJIaGgxVXU2U005dmdYeEZydXhvUDZOVEdXQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-06-12-014",
+    "date": "2026-06-12",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Group Company Limited Announces 2025 Final Cash Dividend Plan to Be Implemented on B Shares, Payable on June 23, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX2kzQ0tQamxJMkI1V19EZVNnb1A2NkVEZFVTVFM3MUtBb3ZSb1dGbDh6X2ZocW80QTJPUXZQVDQwd2Y2Y2pFcmNnR1NWdVhTU2p1SHh3RmFkQWxla2FoNlcyZDQ4YVVMNUFjUi1BNT",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX2kzQ0tQamxJMkI1V19EZVNnb1A2NkVEZFVTVFM3MUtBb3ZSb1dGbDh6X2ZocW80QTJPUXZQVDQwd2Y2Y2pFcmNnR1NWdVhTU2p1SHh3RmFkQWxla2FoNlcyZDQ4YVVMNUFjUi1BNTVWc1E3VmpCRHlsWUh3b3hObXZMQ2haandKeTFVd2YtdUZyMVBDRDZIc3RBRnNER2tBNkgxc0lKbEd3dWlzdjV2LTFJbWtPcmVBNzdSWEFmWWw2MWxFOGplYW9tQ2otdGNHNUtJZlZMN20xZFdMdnZqcnZBLWlTR1U?oc=5",
         "type": "rss"
       }
     ]

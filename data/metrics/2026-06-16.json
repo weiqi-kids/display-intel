@@ -1,0 +1,33 @@
+{
+  "date": "2026-06-16",
+  "total_events": 8,
+  "by_company": {
+    "samsung_elec": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.12
+    },
+    "mini_led": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,212 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T12:54:48.391291Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-16-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China AI chip hopeful Enflame nears IPO with fast revenue growth, heavy losses, and Tencent risk",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://www.digitimes.com/news/a20260616VL207/tencent-revenue-ai-chip-ipo-shanghai.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-16-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walrus Pump sees stronger liquid cooling demand, eyes higher 2026 growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260616PD209/liquid-cooling-demand-2026-ai-server-growth.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_elec-2026-06-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "[Infographic] The Origin of Art TV: The Frame’s Journey in Bringing Art Into Everyday Life",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/infographic-the-origin-of-art-tv-the-frames-journey-in-bringing-art-into-everyday-life"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Avaco launches next-generation low-damage OLED sputter technology for next-gen OLED processes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/avaco-launches-next-generation-low-damage-oled-sputter-technology-next-gen-oled"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-06-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung reportedly moves closer to 5nm-class MRAM as TSMC advances its roadmap",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260616VL214/samsung-mram-tsmc-technology-development.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "mini_led",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 134,
+    "too_old": 175,
+    "gate1_blocked": 39,
+    "gate2_blocked": 19,
+    "passed": 13,
+    "pass_rate": "5.3%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Is Corning Incorporated (GLW) A Good Stock To Buy Now? - Yahoo Finance",
+      "Corning Inc Stock (GLW) Closed Up by 4.21% on Jun 15: Facts Behind the Movement - TradingKey",
+      "Quick Update On Corning Incorporated Stock ($GLW) To See - Fathom Journal",
+      "Southern Finger Lakes Pride Festival in downtown Corning June 12-13 - Corning Leader",
+      "Corning Incorporated hosts Legacy in Action Impact Fair - WENY News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為三星電子、LG電子相關動態：「China AI chip hopeful Enflame nears IPO with fast revenue...」。主要關注主題為Mini LED、法說會、OLED 滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "China AI chip hopeful Enflame nears IPO with fast revenue growth, heavy losse...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Walrus Pump sees stronger liquid cooling demand, eyes higher 2026 growth（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
