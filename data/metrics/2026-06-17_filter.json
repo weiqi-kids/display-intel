@@ -1,0 +1,16 @@
+{
+  "total_raw": 379,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 36,
+  "gate2_fail": 23,
+  "passed": 18,
+  "gate2_samples": [
+    "Is Corning Incorporated (GLW) A Good Stock To Buy Now? - Yahoo Finance",
+    "Corning Inc Stock (GLW) Moved Down by 4.31% on Jun 16: What Investors Need To Know - TradingKey",
+    "Quick Update On Corning Incorporated Stock ($GLW) To See - Fathom Journal",
+    "Southern Finger Lakes Pride Festival in downtown Corning June 12-13 - Corning Leader",
+    "Corning Inc Stock (GLW) Closed Up by 4.21% on Jun 15: Facts Behind the Movement - TradingKey"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-17",
+  "total_events": 10,
+  "by_company": {
+    "himax": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "boe": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "sony": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "automotive_display": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "oled_penetration": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
