@@ -1,0 +1,157 @@
+{
+  "date": "2026-06-18",
+  "date_range": {
+    "start": "2026-06-12",
+    "end": "2026-06-18"
+  },
+  "generated_at": "2026-06-18T11:53:03.460723Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lg_display-2026-06-12-002",
+      "date": "2026-06-12",
+      "title": "LG Display and Tianma strike patent license deal, end OLED, LCD dispute - digitimes",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "oled_penetration": {
+      "this_week": 14,
+      "last_week": 6,
+      "week_over_week_change": "+133%",
+      "sentiment_this_week": 0.04
+    },
+    "automotive_display": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.25
+    },
+    "earnings": {
+      "this_week": 13,
+      "last_week": 22,
+      "week_over_week_change": "-41%",
+      "sentiment_this_week": 0.37
+    },
+    "mini_led": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.0
+    },
+    "panel_price": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "himax": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "lg_display": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "lg_elec": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "samsung_elec": {
+      "event_count": 16,
+      "sentiment_avg": -0.03,
+      "rank": 1
+    },
+    "tcl": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "jdi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "boe": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "sony": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 73,
+        "last": 102,
+        "change_pct": -28.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-12",
+      "event_count": 15,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-06-13",
+      "event_count": 7,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-06-14",
+      "event_count": 4,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-06-15",
+      "event_count": 15,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-16",
+      "event_count": 15,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-06-17",
+      "event_count": 14,
+      "sentiment_avg": -0.11
+    },
+    {
+      "date": "2026-06-18",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-12 ~ 2026-06-18）共 73 則事件，重點為「LG Display and Tianma strike patent license dea...」。OLED 滲透率、法說會、Mini LED為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "LGD",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "LG電子",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星電子",
+        "reason": "本週出現 16 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

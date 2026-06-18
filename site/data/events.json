@@ -1,5 +1,60 @@
 [
   {
+    "id": "lg_elec-2026-06-18-001",
+    "date": "2026-06-18",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display wins supply deal with Taiwan’s ASUS - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zLU4yRlpveTlBa3U4dldVal9wRnQ1S0NwNjdZQzhZWGFyU3RUaUhDam5OMzVEdFRURGZ6UkJZQXpYaGt2Z0RscWt1X3l2dS1IR3pkbA?oc=5\" target=\"_blank\">LG Display wi",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zLU4yRlpveTlBa3U4dldVal9wRnQ1S0NwNjdZQzhZWGFyU3RUaUhDam5OMzVEdFRURGZ6UkJZQXpYaGt2Z0RscWt1X3l2dS1IR3pkbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-06-18-002",
+    "date": "2026-06-18",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why BOE’s Smart System for Hospital Stretchers quietly changes a tough workflow - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLWpnZ1lJZVZfSzdCaUhTdTNzZ0dOdTJ0akttazlfYTZqd1dEd2dHMVlCSFNxTjVmNXRCWV93Q081eFFDMmJHWF9YUERVVlZvcmtaZkZocWx0NFE5Ml9HMGc2WWpuM0otTWpTaC11cF",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLWpnZ1lJZVZfSzdCaUhTdTNzZ0dOdTJ0akttazlfYTZqd1dEd2dHMVlCSFNxTjVmNXRCWV93Q081eFFDMmJHWF9YUERVVlZvcmtaZkZocWx0NFE5Ml9HMGc2WWpuM0otTWpTaC11cFVyRVAwa0dEZEFzdXZpZ1lHQXhPdVVSLWIxTmNYLVZiOU11cGZlNnFOZHdLTWg3WFllTUt3Mjd2Wlp3ZWNweTktd0xybTY5cmM5VUZsY3d3NURvN3puU0FQeQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-003",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "SOAR announces it has shipped over 1.3 million transparent PMOLED displays to date",
+    "summary": "<p><a href=\"https://www.oled-info.com/soar-corporation\">SOAR Corporation</a> announced that it has shipped over 1.3 million transparent PMOLED displays to date. The company says that this milestone sh",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/soar-announces-it-has-shipped-over-13-million-transparent-pmoled-displays-date",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-06-17-001",
     "date": "2026-06-17",
     "companies": [
@@ -184,6 +239,81 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260617PD216/shihlin-growth-business-taiwan-plant.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-06-17-011",
+    "date": "2026-06-17",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Canon Adds to Industry-leading Web-fed Production Inkjet Portfolio with New ColorStream 7000 Series - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNeGx3c1g3eFpPYWprSmQtN21xeWw1d05ORlZabDVNQXI2RUtqMi12R2ZXdUU2WS1GdWVURm5KQTBIWENZeGFzMTJNQ2FrQVB4TzVZOU9leTM5T3hnVkxDV01NSUdTTWh0SDBBVlVySz",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNeGx3c1g3eFpPYWprSmQtN21xeWw1d05ORlZabDVNQXI2RUtqMi12R2ZXdUU2WS1GdWVURm5KQTBIWENZeGFzMTJNQ2FrQVB4TzVZOU9leTM5T3hnVkxDV01NSUdTTWh0SDBBVlVySzA2Nkk2dHpMdGRJVGVtSy1LSUtvRXF1eXp3MU9FV2VjZkVIcHoxY0JoSmp2bEROazVTZXZaRzROaHBWZEFvT045ZFJWWlhrZGI2dmc2LTkwaVNoTDkzam9jcjdiZEMyWWxtYnQxbjVTcmxjeG1jbmRETVZIZUUtRkUyRkc2clZxS0VrTUlTU0lwU3c4RDl5bThL?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-06-17-012",
+    "date": "2026-06-17",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "thINK Ahead 2026 to Unite Canon Production Inkjet Leaders for Three Days of Breakthrough Innovation and Industry Collaboration - The Manila Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxPVDdHeE1MWVBnZDFyWXN1RDB2WGFqWUl5eU9TSUtENU9CMVpXdDlSanNETVZScU4zZTZJWkROSHVKZkZoVHZ2T09nYTUxX3R6SDB3YVNCdlRGZmN3eGxCbXNnNl95cERSVWVIdG53YV",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPVDdHeE1MWVBnZDFyWXN1RDB2WGFqWUl5eU9TSUtENU9CMVpXdDlSanNETVZScU4zZTZJWkROSHVKZkZoVHZ2T09nYTUxX3R6SDB3YVNCdlRGZmN3eGxCbXNnNl95cERSVWVIdG53YV9ibHAxaWFqcUhXT0dQMXlpNUNmTTRETXRFTGxoV193MFItckhMLTJ1LUF6TTRqT01ES0pyWjd4YzlSTFRxWW5XYjBfSnZ3c2J1MjVGRTFGbkJEdXQxSE82dTR0Z0ZCM280ZGlDU0Z3b2ZnUXZ1c1JZd0R1WUFjT0pvbmhad3Z1OFpORUVxVnhnVlJfUGFhNkhkOVlfLTNhV3Nod0tvWGFBazhIYjRMR1lUYWotcDFBWGQtRDZVQWlz0gGsAkFVX3lxTE5kZUJTeGdhUzYxNEljMVoyNklXaDBMb1pucHZiZUhOc1JZYUl1eS13UmZoaWZmTFFjYXBCU3Yxd3hFWXM1YXFjVE9ULUNHMXF2QXpQVmZjTTJLeVZZN0dmSjFEdy0xQjRlVHN1bWwyYms5dVA2TU4tUzZpUi1NcExUZHEtR3BPLWZoUHdGc3lJWTNxVzJGX2pHd3FrSi1WUFFmbExWVWxkMHZkWkh6eVNoSHVncjlWZ1IzbjZKQUVjZlRrajJIZjUxMWM5ZXFna0pJLU5iWkZTSjRiT29yNWVZOXRlMTV6emlIMzFRYW52OVhJV01iYUIxV013VWluQTlQTHYyVHd2RFMyMDM1NjZscmo2QkZHMWlvTW9oWDhlNE9UZ2hQaGZvd2kyRg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-06-17-013",
+    "date": "2026-06-17",
+    "companies": [
+      "auo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why AUO’s V1 mini-LED gaming monitor quietly stands out on the desktop - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0dJWkpqX0xvc25mZVp1TW5HVXl5b3hmSUYwZFFXZEQ0YzgyOGwyMzFEb0xLb0VMUFJ0aEtPU3NJQUVJVVdyWnlQcnBmVkd5bG1GcXVuQ1N3ZkltdXA3YVFnSk9qNnpWX1BUZ18xYV",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0dJWkpqX0xvc25mZVp1TW5HVXl5b3hmSUYwZFFXZEQ0YzgyOGwyMzFEb0xLb0VMUFJ0aEtPU3NJQUVJVVdyWnlQcnBmVkd5bG1GcXVuQ1N3ZkltdXA3YVFnSk9qNnpWX1BUZ18xYVVhWHZnckZPQkl6Y3FhYXNqekk0LTZJRkI2UkpESzlJZlhubzhLWGozWlhYNFhpMDhTRk4yTXg5S013VkI2bUcwT2pLclFGVksydHdKVDBNY0tzWm1KSmlLWg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-17-014",
+    "date": "2026-06-17",
+    "companies": [
+      "samsung_elec",
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "BOE officially starts mass producing IT AMOLED displays at its 8.6-Gen B16 fab in Chengdu",
+    "summary": "<p>BOE held a grand ceremony in Chengdu today, to mark the official launch of its B16 8.6-Gen IT AMOLED fab in Chengdu - which is now starting to mass produce commercial displays. This is an exciting ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/boe-officially-starts-mass-producing-it-amoled-displays-its-86-gen-b16-fab",
         "type": "rss"
       }
     ]
@@ -934,6 +1064,24 @@
     ]
   },
   {
+    "id": "himax-2026-06-13-007",
+    "date": "2026-06-13",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) Stock Valuation After New E Ink Color ePaper Controller Win - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLWRsa3drUThpUTlfUjJRcU91U0JvN3k2ZGxMQTRydnlubHdyN3Voa21HdUpsM1VkMUNpbGhIOFdFLWNpczlOenpoUGRMLU00ZVNDbndQdUotRjlTRHh5c01ZelBZQ1dRX3hsMmdJYU",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLWRsa3drUThpUTlfUjJRcU91U0JvN3k2ZGxMQTRydnlubHdyN3Voa21HdUpsM1VkMUNpbGhIOFdFLWNpczlOenpoUGRMLU00ZVNDbndQdUotRjlTRHh5c01ZelBZQ1dRX3hsMmdJYUUwMU5WaWhGX1NxQnZNVnZycnZyR09aczJmZWV6OVlRTlJZOWQ3QmhuTjdaSWlCX2hpeGdwY3I5UkRFbWpuNkJQVFhmRWNVVFFqcnRyMW1GNXo2Njh1Y1AtR2VjSjNubDBM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-06-12-001",
     "date": "2026-06-12",
     "companies": [
@@ -1188,6 +1336,24 @@
       {
         "name": "boe",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX2kzQ0tQamxJMkI1V19EZVNnb1A2NkVEZFVTVFM3MUtBb3ZSb1dGbDh6X2ZocW80QTJPUXZQVDQwd2Y2Y2pFcmNnR1NWdVhTU2p1SHh3RmFkQWxla2FoNlcyZDQ4YVVMNUFjUi1BNTVWc1E3VmpCRHlsWUh3b3hObXZMQ2haandKeTFVd2YtdUZyMVBDRDZIc3RBRnNER2tBNkgxc0lKbEd3dWlzdjV2LTFJbWtPcmVBNzdSWEFmWWw2MWxFOGplYW9tQ2otdGNHNUtJZlZMN20xZFdMdnZqcnZBLWlTR1U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-12-015",
+    "date": "2026-06-12",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Inc Shs Cert.Deposito Arg.Repr. 0.25 Shs Trade Ideas — BCBA:GLW.CI - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5yTks3cXgyQ3ZKWExmNDhzelpFd2JGMkVVUWNfVmp1YUR1NHpLeUo4dzRVckxqalRWTnZoR3RSUVNZaXpsOThuSmVGeU5PZXczeTU5TC1Ja1lKVHA2SUc0dHc1eFdzSF8tRXJrMW5B?o",
+    "sources": [
+      {
+        "name": "corning_news",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yTks3cXgyQ3ZKWExmNDhzelpFd2JGMkVVUWNfVmp1YUR1NHpLeUo4dzRVckxqalRWTnZoR3RSUVNZaXpsOThuSmVGeU5PZXczeTU5TC1Ja1lKVHA2SUc0dHc1eFdzSF8tRXJrMW5B?oc=5",
         "type": "rss"
       }
     ]
