@@ -1,0 +1,16 @@
+{
+  "total_raw": 379,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 41,
+  "gate2_fail": 19,
+  "passed": 11,
+  "gate2_samples": [
+    "Corning Jumps 7.8% Amid Sector-Wide Rally - AlphaStreet",
+    "Quick Update On Corning Incorporated Stock ($GLW) To See - Fathom Journal",
+    "Corning Inc Stock (GLW) Moved Down by 4.31% on Jun 16: What Investors Need To Know - TradingKey",
+    "Corning Inc Stock (GLW) Closed Up by 4.21% on Jun 15: Facts Behind the Movement - TradingKey",
+    "Is Corning Incorporated (GLW) A Good Stock To Buy Now? - Yahoo Finance"
+  ]
+}

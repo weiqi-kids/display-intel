@@ -1,5 +1,102 @@
 [
   {
+    "id": "corning-2026-06-19-001",
+    "date": "2026-06-19",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Incorporated (GLW) CEO’s Take on AI Boom - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlhpWmlBVm5hTmluZTRMaGRNalktNEhiQlhBdlFGT1dEUEZ6N244Y0NhRXIzajRRNXVWeGlDTnNyZG5JdEd4UmI3cTMwQnlVSHF3OG1tVGlYMi1Mb05NYkJ4TDNmNkNZWlhReFMwM1",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlhpWmlBVm5hTmluZTRMaGRNalktNEhiQlhBdlFGT1dEUEZ6N244Y0NhRXIzajRRNXVWeGlDTnNyZG5JdEd4UmI3cTMwQnlVSHF3OG1tVGlYMi1Mb05NYkJ4TDNmNkNZWlhReFMwM1NyYVN4UmluSUhrWjNfRnNFSk11WXk4ZFV3V0VzSEg0SlpzMTBjSlV3QUtOUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-06-19-002",
+    "date": "2026-06-19",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies Inc (HIMX) Dividends & Stock Splits: Historical Payouts and Event Timeline - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1yOG1FQjkxX2RfLXNFWktRZmhubVVzLTVQWGFtdEE4N3BFaW5SbG9Ca2hBa0lPWE52anhnRl83TUtIb3FGY1VMSGo4Y3BTR29vS3JTbThkSkQ3c1JuLVg0NXlkRm1iYnBDa0NuWHJKSV",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yOG1FQjkxX2RfLXNFWktRZmhubVVzLTVQWGFtdEE4N3BFaW5SbG9Ca2hBa0lPWE52anhnRl83TUtIb3FGY1VMSGo4Y3BTR29vS3JTbThkSkQ3c1JuLVg0NXlkRm1iYnBDa0NuWHJKSVd0NXN4bnZZUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-003",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI test demand drives broad recovery among Taiwan's semiconductor equipment suppliers in May",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:223;128-350\">Taiwan's semiconductor equipment, components, and solutions providers posted robust revenue growth through the first five months of 2026, with 34 of 43",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260617VL223/equipment-taiwan-demand-recovery-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-19-004",
+    "date": "2026-06-19",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Showcases Future Of TV Display Tech At Sydney SQD-Mini LED Event - SMBtech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZkotYXFwbVNjTjBjVWN1NnFkVWtVNnJwMEI4R3lRQ3hxVnY0QllrTXJEMnVBeUFaTkpLT09qM0VhVS1PeFYyRFhnLXVYSDByQWQ5S0QwTEVTUjNmTlNiVUFzd0tHMFZEWkIyY2VaWk",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZkotYXFwbVNjTjBjVWN1NnFkVWtVNnJwMEI4R3lRQ3hxVnY0QllrTXJEMnVBeUFaTkpLT09qM0VhVS1PeFYyRFhnLXVYSDByQWQ5S0QwTEVTUjNmTlNiVUFzd0tHMFZEWkIyY2VaWklyVDNISzlJcVItQm1kNXNGejF2TWJsWjdkQmY4Tm5oRTIxSHk1NUhPdA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-19-005",
+    "date": "2026-06-19",
+    "companies": [
+      "tcl",
+      "lg_elec",
+      "samsung_elec",
+      "sony"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Chinese TV giant showcases next-generation SQD-Mini LED technology in Sydney as analysts warn Samsung, LG and Sony can no longer ignore TCL’s rise - channelnews.com.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPYTF6TVNsN0JzQkVubnhoWndFUXJRY3dJMFc0dWtwMGswczRMUWJKVE1JWkZVLXRwbTVOcDNyM25kM05EcTJHS3dnRTZQUEFjWENaU0Y2VHRfY2RLNjBzRUdyWEhneEpqU2lwSm5VQ3",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYTF6TVNsN0JzQkVubnhoWndFUXJRY3dJMFc0dWtwMGswczRMUWJKVE1JWkZVLXRwbTVOcDNyM25kM05EcTJHS3dnRTZQUEFjWENaU0Y2VHRfY2RLNjBzRUdyWEhneEpqU2lwSm5VQ3JPaXZxdXM0MjFfY0lrUGthWmtZTjUyMDBPOHdlLVNJQkhQUkh3Vk5vNGkwZW9oeVh5Sng3QjM4N0hneTNxMWhCRHVISVJ1eUpKYjFHcFAybi11NHNnVWEzb0JnT1ZQS0hBVGRPVF9UdTZNeklvRkRjRkZ4VVFkUEtLZ2N1NWVPN2ZlYVhnUDZWMktQeDg2LURIaDlzN09XOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-06-18-001",
     "date": "2026-06-18",
     "companies": [
@@ -50,6 +147,80 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/soar-announces-it-has-shipped-over-13-million-transparent-pmoled-displays-date",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-18-004",
+    "date": "2026-06-18",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning stock jumps 10% as AI data-center fiber trade draws fresh bids - TechStock²",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOMlBfNWJzZ3hacEcxN1JpaF9vTlYtUzVxVU5PM3lfQUpNREtxU0dUT0Z1SVdDQVdfVjJLR0U1V0wzRGx6VkIzYzVZdVhoVnJZV1BaM2ZKVTRiRGc4eGNkandMMHg4QjgwU18yOHA0TW",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMlBfNWJzZ3hacEcxN1JpaF9vTlYtUzVxVU5PM3lfQUpNREtxU0dUT0Z1SVdDQVdfVjJLR0U1V0wzRGx6VkIzYzVZdVhoVnJZV1BaM2ZKVTRiRGc4eGNkandMMHg4QjgwU18yOHA0TWlzN190UUNoSjc0Z29yOER6S19taGZBWDVhY0dJaEFIbGVYVndn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-06-18-005",
+    "date": "2026-06-18",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "thINK Ahead 2026 to Unite Canon Production Inkjet Leaders - The Cannata Report -",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5KTGpQcHZhRkhUWjB5Wnc3N01WOW5WR2lyLXhieVFONlk2Wi0zVTJ3UWFaVFVwODNzalV4VVBHUjhwVGVyMU9VQTRnTEtYdUZ3S2JUMWVMTmQ1SG1QQkxSQzkyd25vcGgtOTc3VjlDR0",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KTGpQcHZhRkhUWjB5Wnc3N01WOW5WR2lyLXhieVFONlk2Wi0zVTJ3UWFaVFVwODNzalV4VVBHUjhwVGVyMU9VQTRnTEtYdUZ3S2JUMWVMTmQ1SG1QQkxSQzkyd25vcGgtOTc3VjlDR09icEhiQ1FmQ0NNZmVsdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-006",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "5 Reasons Why People Ditch Their Mini LED Monitors - bgr.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1pMjhvdEJSSnVKcUhnOWpnQ1RwWFF4Nl9mVmdlTmtCY2lTcGRkSUk2Um5pMFFCSjdLVGhnczFQdVRSSFBXczFyVG5LYXB4UFV0bTVVdHhaYzNFbjZ6Q3hwUmlPaTNMWlpISWdGTDZVam",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pMjhvdEJSSnVKcUhnOWpnQ1RwWFF4Nl9mVmdlTmtCY2lTcGRkSUk2Um5pMFFCSjdLVGhnczFQdVRSSFBXczFyVG5LYXB4UFV0bTVVdHhaYzNFbjZ6Q3hwUmlPaTNMWlpISWdGTDZVamxZZ1VDMzh6NnhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-18-007",
+    "date": "2026-06-18",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED vs. non-OLED: Choosing the right monitor - Samsung Business Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPMVFqM2FUbW55T1ZaS3VhMmROR05qc1B2Z095SWxid3BVdmgxR3p6Qmo0dVdDY0VBWGRlZlJzUnRwNW51TGF0d1BWcUV5aUJ5SnhoQTRYYXF4d0VKc1k2MHdtWjNFOUR1LXJkbk5NTE",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMVFqM2FUbW55T1ZaS3VhMmROR05qc1B2Z095SWxid3BVdmgxR3p6Qmo0dVdDY0VBWGRlZlJzUnRwNW51TGF0d1BWcUV5aUJ5SnhoQTRYYXF4d0VKc1k2MHdtWjNFOUR1LXJkbk5NTEkxaEZwSklDWjJHbm85RVMyMHRseVJvbm10WVIxdA?oc=5",
         "type": "rss"
       }
     ]
@@ -314,6 +485,24 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/boe-officially-starts-mass-producing-it-amoled-displays-its-86-gen-b16-fab",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-06-17-015",
+    "date": "2026-06-17",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon executive Liebman named to Long Island Power List again By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjFQT21tM0hOYUd1Vmo3MDlWQmFCMVBvZEVYUE9Zek9PeDh4LXFrZ1ZlM3pmd0ljNmQ0U0UxSDY4OURwMDVDXzZTS0N5ZHNmT2QwR2NHcW5TMHRaMF9SbUV2MjJkeFFmUFI2ak1kWn",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjFQT21tM0hOYUd1Vmo3MDlWQmFCMVBvZEVYUE9Zek9PeDh4LXFrZ1ZlM3pmd0ljNmQ0U0UxSDY4OURwMDVDXzZTS0N5ZHNmT2QwR2NHcW5TMHRaMF9SbUV2MjJkeFFmUFI2ak1kWnFMQmdmS2hwRzFwTU1sUHNuRlpKWXdmTUtIT0lRSlExLWZFWEtSMXFENWdmWUVRMlBQX1FlbHhORnREOGR6aWhlVFRFbEZmaWlET2RmN3FnNA?oc=5",
         "type": "rss"
       }
     ]
@@ -590,6 +779,24 @@
       {
         "name": "samsung_elec",
         "url": "https://news.samsung.com/global/samsung-launches-the-frame-hospitality-model-at-hitec-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-06-16-016",
+    "date": "2026-06-16",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon executive Liebman named to Long Island Power List again - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPMFNLTkZOQ3k0VEZFWVNSSjRwb2NRQ1NLbDZTdmVVLV9CMEotelVQVVVLMXYtNF9mVm51REpYcWtIME1XRkNZS2ZvLU5NemxOeVA0LU10LThfVlhvejNZc1JiV29hME1Da2t0Q0VHQ0",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMFNLTkZOQ3k0VEZFWVNSSjRwb2NRQ1NLbDZTdmVVLV9CMEotelVQVVVLMXYtNF9mVm51REpYcWtIME1XRkNZS2ZvLU5NemxOeVA0LU10LThfVlhvejNZc1JiV29hME1Da2t0Q0VHQ0E4ZVhPUFc5SXowSV9fR1M1SEVMOE5Xb2JId2JEb0M2dFdBSlVQSjdRYkNXRVktdkRHbHd1NW1HOExWM1k5Z25QU1ZHYXYtcDZSWmc?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,213 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T12:07:26.643633Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI test demand drives broad recovery among Taiwan's semiconductor equipment suppliers in May",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260617VL223/equipment-taiwan-demand-recovery-revenue.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "tcl-2026-06-19-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Chinese TV giant showcases next-generation SQD-Mini LED technology in Sydney as analysts warn Samsung, LG and Sony can no longer ignore TCL’s rise - channelnews.com.au",
+      "companies": [
+        "tcl",
+        "lg_elec",
+        "samsung_elec",
+        "sony"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYTF6TVNsN0JzQkVubnhoWndFUXJRY3dJMFc0dWtwMGswczRMUWJKVE1JWkZVLXRwbTVOcDNyM25kM05EcTJHS3dnRTZQUEFjWENaU0Y2VHRfY2RLNjBzRUdyWEhneEpqU2lwSm5VQ3JPaXZxdXM0MjFfY0lrUGthWmtZTjUyMDBPOHdlLVNJQkhQUkh3Vk5vNGkwZW9oeVh5Sng3QjM4N0hneTNxMWhCRHVISVJ1eUpKYjFHcFAybi11NHNnVWEzb0JnT1ZQS0hBVGRPVF9UdTZNeklvRkRjRkZ4VVFkUEtLZ2N1NWVPN2ZlYVhnUDZWMktQeDg2LURIaDlzN09XOA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "corning-2026-06-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corning Incorporated (GLW) CEO’s Take on AI Boom - Yahoo Finance",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlhpWmlBVm5hTmluZTRMaGRNalktNEhiQlhBdlFGT1dEUEZ6N244Y0NhRXIzajRRNXVWeGlDTnNyZG5JdEd4UmI3cTMwQnlVSHF3OG1tVGlYMi1Mb05NYkJ4TDNmNkNZWlhReFMwM1NyYVN4UmluSUhrWjNfRnNFSk11WXk4ZFV3V0VzSEg0SlpzMTBjSlV3QUtOUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "himax-2026-06-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax Technologies Inc (HIMX) Dividends & Stock Splits: Historical Payouts and Event Timeline - TradingKey",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yOG1FQjkxX2RfLXNFWktRZmhubVVzLTVQWGFtdEE4N3BFaW5SbG9Ca2hBa0lPWE52anhnRl83TUtIb3FGY1VMSGo4Y3BTR29vS3JTbThkSkQ3c1JuLVg0NXlkRm1iYnBDa0NuWHJKSVd0NXN4bnZZUg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tcl-2026-06-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TCL Showcases Future Of TV Display Tech At Sydney SQD-Mini LED Event - SMBtech",
+      "companies": [
+        "tcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZkotYXFwbVNjTjBjVWN1NnFkVWtVNnJwMEI4R3lRQ3hxVnY0QllrTXJEMnVBeUFaTkpLT09qM0VhVS1PeFYyRFhnLXVYSDByQWQ5S0QwTEVTUjNmTlNiVUFzd0tHMFZEWkIyY2VaWklyVDNISzlJcVItQm1kNXNGejF2TWJsWjdkQmY4Tm5oRTIxSHk1NUhPdA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tcl",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "mini_led",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 379,
+    "dup_title": 131,
+    "too_old": 177,
+    "gate1_blocked": 41,
+    "gate2_blocked": 19,
+    "passed": 11,
+    "pass_rate": "4.4%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Corning Jumps 7.8% Amid Sector-Wide Rally - AlphaStreet",
+      "Quick Update On Corning Incorporated Stock ($GLW) To See - Fathom Journal",
+      "Corning Inc Stock (GLW) Moved Down by 4.31% on Jun 16: What Investors Need To Know - TradingKey",
+      "Corning Inc Stock (GLW) Closed Up by 4.21% on Jun 15: Facts Behind the Movement - TradingKey",
+      "Is Corning Incorporated (GLW) A Good Stock To Buy Now? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為TCL Technology、康寧、Himax Technologies相關動態：「AI test demand drives broad recovery among Taiwan's semic...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AI test demand drives broad recovery among Taiwan's semiconductor equipment s...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Chinese TV giant showcases next-generation SQD-Mini LED technology in Sydney ...（Mini LED）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
