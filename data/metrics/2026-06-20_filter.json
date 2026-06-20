@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 137,
+  "no_date": 0,
+  "too_old": 175,
+  "gate1_fail": 40,
+  "gate2_fail": 17,
+  "passed": 11,
+  "gate2_samples": [
+    "Corning Inc Stock (GLW) Moved Up by 11.16% on Jun 19: Facts Behind the Movement - TradingKey",
+    "Corning Jumps 7.8% Amid Sector-Wide Rally - AlphaStreet",
+    "Quick Update On Corning Incorporated Stock ($GLW) To See - Fathom Journal",
+    "Corning Inc Stock (GLW) Moved Down by 4.31% on Jun 16: What Investors Need To Know - TradingKey",
+    "Why Novatek’s NT98566 automotive SoC quietly pushes camera cars forward - AD HOC NEWS"
+  ]
+}

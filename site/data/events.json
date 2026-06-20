@@ -1,5 +1,77 @@
 [
   {
+    "id": "samsung_elec-2026-06-20-001",
+    "date": "2026-06-20",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung weighs Boston Dynamics stake as humanoid AI race heats up",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:156;117-272\">Samsung Electronics is reportedly reviewing the possibility of investing in Boston Dynamics, the US robotics company controlled by Hyundai Motor Group.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260618PD217/samsung-boston-dynamics-robotics-hyundai-robot.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-20-002",
+    "date": "2026-06-20",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan LED makers look beyond lighting to AI optical communication",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:365;115-479\">Taiwan's LED industry is moving beyond lighting components into AI optical communication, Micro LED, sensing, and high-end optoelectronic semiconductor",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260618PD201/taiwan-lighting-technology-supply-chain-ennostar.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-20-003",
+    "date": "2026-06-20",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Techman Robot pushes lightweight cobots with built-in AI vision into Southeast Asia",
+    "summary": "Techman Robot brought a lineup of collaborative robots and AI vision automation systems to the ME Assembly &amp; Automation 2026 trade show in Bangkok this week, targeting manufacturers in Thailand's ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260618PD227/techman-asia-automation-packaging-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-20-004",
+    "date": "2026-06-20",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Massive TCL QLED TV has price crushed by over $1,300 in early Prime Day deal - PC Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnJscExiYXZXQUhBQ1ZYZlFjWnYwV3JvVlhlVF9aN0NDa2ZBRnJlWTRmV0Z2b21nMWNXcGFaTTFqUU5HNXp2Q2x5SHJLZEpLVDJDWmFYcEh4b3dkdHZjVGdIdVd6UW1tTWVCX0JOd3",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnJscExiYXZXQUhBQ1ZYZlFjWnYwV3JvVlhlVF9aN0NDa2ZBRnJlWTRmV0Z2b21nMWNXcGFaTTFqUU5HNXp2Q2x5SHJLZEpLVDJDWmFYcEh4b3dkdHZjVGdIdVd6UW1tTWVCX0JOd3hIZTFLWTNiNDF0c2xjd0xqV1RMQ0liNmFuVnUxSk5OUDUxTlplUUZrRVJ1NlhTOVBBTjQ1VDM1dnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-06-19-001",
     "date": "2026-06-19",
     "companies": [
@@ -92,6 +164,97 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYTF6TVNsN0JzQkVubnhoWndFUXJRY3dJMFc0dWtwMGswczRMUWJKVE1JWkZVLXRwbTVOcDNyM25kM05EcTJHS3dnRTZQUEFjWENaU0Y2VHRfY2RLNjBzRUdyWEhneEpqU2lwSm5VQ3JPaXZxdXM0MjFfY0lrUGthWmtZTjUyMDBPOHdlLVNJQkhQUkh3Vk5vNGkwZW9oeVh5Sng3QjM4N0hneTNxMWhCRHVISVJ1eUpKYjFHcFAybi11NHNnVWEzb0JnT1ZQS0hBVGRPVF9UdTZNeklvRkRjRkZ4VVFkUEtLZ2N1NWVPN2ZlYVhnUDZWMktQeDg2LURIaDlzN09XOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-19-006",
+    "date": "2026-06-19",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Rose 11% Today on Amazon’s AI Fiber Deal. Here’s Where the Stock Could Head in 2026 - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUldpUjNkNEJoTWtTc05FR1pNc1B2eDZtV1pwZGlRWkZCd1prVHFvWTYxdXktMzZLSEFfS2FsOUUwbkFucF9SRlRKbHdKYmZxZ1ZjRVJjT1hNY3d0RW82ZXdlX1R5bGh0c3hPSVZ6Ym",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUldpUjNkNEJoTWtTc05FR1pNc1B2eDZtV1pwZGlRWkZCd1prVHFvWTYxdXktMzZLSEFfS2FsOUUwbkFucF9SRlRKbHdKYmZxZ1ZjRVJjT1hNY3d0RW82ZXdlX1R5bGh0c3hPSVZ6Ym8yWlRrN2Z6M1MtWTNQRHY0bTg1UW4zSWJCdktJVHFHZm1Kc0xwbHN3S2JVQjJMWmNMZlViSnhYVGZ3eWpiSmhrOFB5dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-06-19-007",
+    "date": "2026-06-19",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "United Microelectronics Trims Novatek Stake via NT$1.39 Billion Exchangeable Bond Conversion - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQXp2R3RsRXdoUGl4aDdSQXlnOElxRkJyek5KSXRHR2lrVVFMeHQ0bVprTFdpUkU0OWg1OGVkenY1d0ZmQVJBS0JaTTVwTjhaR2hoMXJzYkVQOHVaRnhveXRLdzlza0F4eWVjTFVVeD",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQXp2R3RsRXdoUGl4aDdSQXlnOElxRkJyek5KSXRHR2lrVVFMeHQ0bVprTFdpUkU0OWg1OGVkenY1d0ZmQVJBS0JaTTVwTjhaR2hoMXJzYkVQOHVaRnhveXRLdzlza0F4eWVjTFVVeDJRY3JUOG50b1NUTWhGU1ZWaE5VLWtKekV3Z0taeUFpR0JoTm1NMzdkWDZYM21KWUY3VHZRZ0xyMzlPV0NWTFUtUnhQMmpxVG9EaG43eU5SVi1CU3lHNFRjaU9BajVtLWY4NGkycjBKZzl2cjFZcGNUS3hsek9CQk5XaWlHNTRzVHZPekQ5UWtjRUpOai1vYlBMek1DNEhiMVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-19-008",
+    "date": "2026-06-19",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display: Persistent Institutional Buys May Facilitate An Interesting Fundamental Trade - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdU5aWmpMVk9PNHU4QU9QZFNrMlBwT0FJeGVLTzNnNkdJTkpnQmE2RjVFVmZHR3BHZEpWMWg3RVNSbndGQ1dPeFdrLVlVeEcxbEZyY0RHa2YwbmtFcTJYMmxCQnp6RlhHT1BkTTFtbG",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdU5aWmpMVk9PNHU4QU9QZFNrMlBwT0FJeGVLTzNnNkdJTkpnQmE2RjVFVmZHR3BHZEpWMWg3RVNSbndGQ1dPeFdrLVlVeEcxbEZyY0RHa2YwbmtFcTJYMmxCQnp6RlhHT1BkTTFtbGs4aHRKeTc3RjBQQmhjZlZvQndQNWtGTnFZeE9rOGE4ZlZ3c19jeU9WVHpkQ3R3MjkyUG1yN1ZnUDlSeldaNVNPc2g5S0haWUtuTGZpa3VESXdlc1I4U3hvNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-19-009",
+    "date": "2026-06-19",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL Technology Group Stock - Friday sector check on Chinese electronics makers - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNTS1DMUtfTGVPb3dsS1JpSlJ0NHhVTWkxNTdFbGhwLS1YMExoMU5CX0h6d3lYTjFPaEhQVldONDdSUnI2TndockJrTHcyQlJhVVhuTUYyR3BjbHhPVEd4RUMwNHRXTFdnNms4UkhTdm",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTS1DMUtfTGVPb3dsS1JpSlJ0NHhVTWkxNTdFbGhwLS1YMExoMU5CX0h6d3lYTjFPaEhQVldONDdSUnI2TndockJrTHcyQlJhVVhuTUYyR3BjbHhPVEd4RUMwNHRXTFdnNms4UkhTdmlJU2U2eVlJQlRGLXBsam5aLVRPNkZydmFJb3UxUmFFQm1qZ0Vjcmw2RDd0LWQxc2VxNHl6WFBPdlVtam9ucWYyY19uc295djFQYkEwV1RIUGo5NThvOF9r?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-010",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Kopin sold off its stake at Lightning Silicon Technology",
+    "summary": "<p>In 2024, US-based microdisplay developer <a href=\"https://www.oled-info.com/kopin\">Kopin Corporation</a> spun-off its consumer OLED business unit to <a href=\"https://www.oled-info.com/lightning-sil",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/kopin-sold-its-stake-lightning-silicon-technology",
         "type": "rss"
       }
     ]
@@ -503,6 +666,44 @@
       {
         "name": "canon",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVjFQT21tM0hOYUd1Vmo3MDlWQmFCMVBvZEVYUE9Zek9PeDh4LXFrZ1ZlM3pmd0ljNmQ0U0UxSDY4OURwMDVDXzZTS0N5ZHNmT2QwR2NHcW5TMHRaMF9SbUV2MjJkeFFmUFI2ak1kWnFMQmdmS2hwRzFwTU1sUHNuRlpKWXdmTUtIT0lRSlExLWZFWEtSMXFENWdmWUVRMlBQX1FlbHhORnREOGR6aWhlVFRFbEZmaWlET2RmN3FnNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-06-17-016",
+    "date": "2026-06-17",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "How GuruFocus Overvaluation Alert and Insider Quiet May Shape Himax Technologies (HIMX) Investors’ View - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWVCQnBiM1hsQzZKaXFzQnZZRVNjeGVJUnYxa2lDeWtFaDN1SGJjQUlnSmNsUTZSZkF4UW1la0YyRjRrblVBZ0dpSldBamVDZENHUDBpcXRsVHJ4WE9lYnI3Y0JoRF8yQnJTUURKa3",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWVCQnBiM1hsQzZKaXFzQnZZRVNjeGVJUnYxa2lDeWtFaDN1SGJjQUlnSmNsUTZSZkF4UW1la0YyRjRrblVBZ0dpSldBamVDZENHUDBpcXRsVHJ4WE9lYnI3Y0JoRF8yQnJTUURKa3ZOWFozVmN4MmFjMGtTdUpsUXgxVHVuTFpYOGpvdWQwWTZrRy1GOThmTXhkRVVRV0trU083SnNLa05OWDhJcVhURFdTSnlyT0tpZl9mR2QxaHJzZ0VYdXV4OTFMSXZzNWFPdUdNcnRSQzdycVHSAeABQVVfeXFMUHU5RzdaVXhxNDR4UEZ3YmI3ODhhSEUzZEdfcEo1NUdZTXgxaTZqakNTczdqMDg3ZDNDSjE2WEFNRmhnc0hRWl9sZWQ2OV9vT3U5RHRWWjZ1WmxZQ0RhQWNuNFIyVkJLS0ZWVW16VnVTeENYeFZpUVU1WGcxdnJjVEJqUWVmZURYLWdVam0zRnRYWWozRFI5VWZ1akZwSEJBNHhQcnlkbzFrdmxkc3B3ZGxuN1BOXzIwUHRaclNfaGVZY3dXN3R5TWRaNTQtZC1UU3VxMmZxa1ZGWEhHUGxzbTY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-017",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Everything You Need To Know About SQD-Mini LED TV Technology - SA Music News Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPcl9IV2pXeTU5RDRETVZGaWNhdGNvVXMzZy02WkhTS3BhZWxPSk1sNlh4VzA0Q2pGWHZWUk1ST0d0eDM2SkJaTmtZM3lCYkhiZUtjWVUxLVRqSVFfa3VlMkhBbUEtZ1ZxRlVNWUxVeW",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcl9IV2pXeTU5RDRETVZGaWNhdGNvVXMzZy02WkhTS3BhZWxPSk1sNlh4VzA0Q2pGWHZWUk1ST0d0eDM2SkJaTmtZM3lCYkhiZUtjWVUxLVRqSVFfa3VlMkhBbUEtZ1ZxRlVNWUxVeWZQYy1KNDBNM1N6eUMwcVJKSnQzSnBJYkcybjRkWnkxS1EtMzM2U0w2cmNBbGd2SzA?oc=5",
         "type": "rss"
       }
     ]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T12:07:22.628293Z",
+  "updated_at": "2026-06-20T10:34:19.379721Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -211,17 +211,17 @@
       "name": "索尼",
       "ticker": "6758.T",
       "currency": "JPY",
-      "ar": 2213801000000,
-      "ar_prev": 2039581000000,
-      "ar_qoq": "+9%",
+      "ar": 1821916000000,
+      "ar_prev": 2213801000000,
+      "ar_qoq": "-18%",
       "ar_period": "QoQ",
-      "inventory": 1263689000000,
-      "inv_prev": 1676231000000,
-      "inv_qoq": "-25%",
+      "inventory": 1227351000000,
+      "inv_prev": 1263689000000,
+      "inv_qoq": "-3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "tcl",
