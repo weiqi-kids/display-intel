@@ -1,5 +1,61 @@
 [
   {
+    "id": "lg_elec-2026-06-21-001",
+    "date": "2026-06-21",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Koo Kwang-mo's 'One LG' Fruits...Electronics 3 Company's biggest earnings are just around the corner - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XNktLYW91RUVjQjVJQ25PSGpiSU1Yd1k0dU43NnIzeVowUWVGVWFfLTFpR3JtSTZxdGNHbVU5cDlrOUhHYzdSYnlCRG1DRDJFUnVZ?oc=5\" target=\"_blank\">Koo Kwang-mo's ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XNktLYW91RUVjQjVJQ25PSGpiSU1Yd1k0dU43NnIzeVowUWVGVWFfLTFpR3JtSTZxdGNHbVU5cDlrOUhHYzdSYnlCRG1DRDJFUnVZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-21-002",
+    "date": "2026-06-21",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "INT Tech demonstrates 150,000 nits direct-emission full-color OLED microdisplays",
+    "summary": "<p>Taiwan-based OLED microdisplay developer <a href=\"https://www.oled-info.com/int-tech\">INT-Tech</a> announced that it has developed a native RGB (direct-emission) full-color OLED microdisplay, that ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/int-tech-demonstrates-150000-nits-direct-emission-full-color-oled-microdisplays",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-21-003",
+    "date": "2026-06-21",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung pushes AI-powered TVs as hub for entertainment, smart home control - Newsbytes.PH",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWXlzRzdSYUVpajRhd3RaNVpNcm5wSlNCT3pQdW9FYmZmdVhOakJvd1RLVjVrTUR0TkQyM1pqTnBkQm1iX0RNazNmZHRpMTdvU0JrRDZUTjNKeElzTVRzdWdySHRNSkJ0ellXRUVBWl",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWXlzRzdSYUVpajRhd3RaNVpNcm5wSlNCT3pQdW9FYmZmdVhOakJvd1RLVjVrTUR0TkQyM1pqTnBkQm1iX0RNazNmZHRpMTdvU0JrRDZUTjNKeElzTVRzdWdySHRNSkJ0ellXRUVBWl9PM2RzNFVDNlNOOC1RazV4RUVkM2toMDFxWTVfdVZoTXBLTHNGZFQwWnA1YlpaTTdEdlBuNzBCbVRUQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-06-20-001",
     "date": "2026-06-20",
     "companies": [
@@ -67,6 +123,61 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnJscExiYXZXQUhBQ1ZYZlFjWnYwV3JvVlhlVF9aN0NDa2ZBRnJlWTRmV0Z2b21nMWNXcGFaTTFqUU5HNXp2Q2x5SHJLZEpLVDJDWmFYcEh4b3dkdHZjVGdIdVd6UW1tTWVCX0JOd3hIZTFLWTNiNDF0c2xjd0xqV1RMQ0liNmFuVnUxSk5OUDUxTlplUUZrRVJ1NlhTOVBBTjQ1VDM1dnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-06-20-005",
+    "date": "2026-06-20",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Group Stock - long-term display business under Saturday spotlight - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPZEpSR3lpWHd0ckhoMlM4dk9pRkhtQzdvLXp1N1FlNFFzYkZaSGtTcUNKbjdkMzN2Rk9sVURWclNVNkRrcFk3ODA2alhkNklpYURSZVdWWkFvLVAzV0pvcVFaZDNNRnRfUURLUk9mLU",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZEpSR3lpWHd0ckhoMlM4dk9pRkhtQzdvLXp1N1FlNFFzYkZaSGtTcUNKbjdkMzN2Rk9sVURWclNVNkRrcFk3ODA2alhkNklpYURSZVdWWkFvLVAzV0pvcVFaZDNNRnRfUURLUk9mLUZudjEtZ2swZUVMVzJlcFdjYm9TZDU0V0VReGtiTzJzSG05VHNlSmI1VUxoZWNVUmxXaWNIdUJYemxaZXJsc3diVEhlSzdibDQtSHVxTjBHMDdQQjd4Z3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-20-006",
+    "date": "2026-06-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan memory chip designers set for 245% revenue jump on AI storage demand",
+    "summary": "<p class=\"P1\" data-start=\"135\" data-end=\"367\">Taiwan's memory chip designers are heading into a sharply stronger 2026 as rising memory prices and a wave of AI-driven demand push the industry away from",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260618PD205/taiwan-memory-chips-nand-revenue-phison-silicon-motion-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-20-007",
+    "date": "2026-06-20",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Mini LED Vs. OLED: Which TV Type Is A Better Investment? - bgr.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFByM2ZWV3lUR0hvRmtOR3BmQ0hvNnRnS0U3UFZvbWhGbGRzQnVNTmt5amxlcmtNaGxsa2JPeHduLWYzeXVrZjhMcmxiSjNRd2ZOWmY3ZUxoZWVMU19WQlBsdjFmNFdObVRGRkc4WHROen",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByM2ZWV3lUR0hvRmtOR3BmQ0hvNnRnS0U3UFZvbWhGbGRzQnVNTmt5amxlcmtNaGxsa2JPeHduLWYzeXVrZjhMcmxiSjNRd2ZOWmY3ZUxoZWVMU19WQlBsdjFmNFdObVRGRkc4WHROenIyUV92YnhPSg?oc=5",
         "type": "rss"
       }
     ]
@@ -255,6 +366,24 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/kopin-sold-its-stake-lightning-silicon-technology",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-011",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Asus releases new gaming laptop globally with 1,600 nit Mini LED display and 175 W GPU - Notebookcheck",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNUTZkS2tfZXh3UDNScnNwZUFZUUpsZGltc0JQZEthNjV0cEYwZ2NuMmVwVjgyLUpXcGtQY3JkOHZUdmotdFVRek5ERmNkTE1rdnhpaXVmMHhXWlpXVUhfY1lMU19XOFpyQk5nMXFaX3",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUTZkS2tfZXh3UDNScnNwZUFZUUpsZGltc0JQZEthNjV0cEYwZ2NuMmVwVjgyLUpXcGtQY3JkOHZUdmotdFVRek5ERmNkTE1rdnhpaXVmMHhXWlpXVUhfY1lMU19XOFpyQk5nMXFaX3k1S204ZDlNTDVWa1I5UWlfQWh1Xy1pWG5fbk5DbFZDSUFYbnYxQk1XWjBJUmdGRmwzUVZQM01LYkY2bnh2V0F1LXNPS24xTllmQnRhNDdpVUQ4SVRRWmUxSnFMMA?oc=5",
         "type": "rss"
       }
     ]
@@ -1283,6 +1412,27 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZ1Fvby1mQ3d2d0hqbzVYMldnb2h3V3dUanYzeGNjVVlHZzkxMHVPNHB1Wm4xNmR4VmFkSHd2ZTZ0NkNYVFhHNE9zUHF5aGlOQ29sWXJxb2ZPMEtSV1djU3pNWllNbHFZbnIyaXBNWlYxWUZPb0VKQ29zVmtGekFQdnY1V1Y2SG8zTjFiZXhWQTB3czJ3anB0N2QwVTE4MDNrUkdwOEUxbHNPc2J3TGpPNTJSanpjemppMWRTWmhYcmQwR29zekViT2k2aFlSQkMwREJ1LVlMcE5PZXF3TE1KREVIT012cGNJZHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-15-016",
+    "date": "2026-06-15",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Trending Industry Today: LG Display Leads Gains Pre-Market In OLED Technology Stocks - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXljcEw3dnFGMjdnTHpJTV9leS10WUFMZ2dObkE0WkxwVkJPVzZfSm5UdU1pR2ozOVZQZGpaUng5V2VUUEFkZ1BGVnNmWk9DUlhrWHdTQkRudWpJbGYzR2k4YV85ZU5hYjdKYVBpM0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXljcEw3dnFGMjdnTHpJTV9leS10WUFMZ2dObkE0WkxwVkJPVzZfSm5UdU1pR2ozOVZQZGpaUng5V2VUUEFkZ1BGVnNmWk9DUlhrWHdTQkRudWpJbGYzR2k4YV85ZU5hYjdKYVBpM0FKMnRBd1ZRVE9Kb1EtWUNCQkZjNU1xUk9uSVQ5emVEMkJ0Q3d5N0Z0RTNQSVowMVBzODJEYw?oc=5",
         "type": "rss"
       }
     ]

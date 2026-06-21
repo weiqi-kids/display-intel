@@ -1,0 +1,160 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T11:16:50.759443Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-06-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Koo Kwang-mo's 'One LG' Fruits...Electronics 3 Company's biggest earnings are just around the corner - 매일경제",
+      "companies": [
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XNktLYW91RUVjQjVJQ25PSGpiSU1Yd1k0dU43NnIzeVowUWVGVWFfLTFpR3JtSTZxdGNHbVU5cDlrOUhHYzdSYnlCRG1DRDJFUnVZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-21-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "INT Tech demonstrates 150,000 nits direct-emission full-color OLED microdisplays",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.oled-info.com/int-tech-demonstrates-150000-nits-direct-emission-full-color-oled-microdisplays"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_elec-2026-06-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung pushes AI-powered TVs as hub for entertainment, smart home control - Newsbytes.PH",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWXlzRzdSYUVpajRhd3RaNVpNcm5wSlNCT3pQdW9FYmZmdVhOakJvd1RLVjVrTUR0TkQyM1pqTnBkQm1iX0RNazNmZHRpMTdvU0JrRDZUTjNKeElzTVRzdWdySHRNSkJ0ellXRUVBWl9PM2RzNFVDNlNOOC1RazV4RUVkM2toMDFxWTVfdVZoTXBLTHNGZFQwWnA1YlpaTTdEdlBuNzBCbVRUQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 144,
+    "too_old": 165,
+    "gate1_blocked": 37,
+    "gate2_blocked": 15,
+    "passed": 8,
+    "pass_rate": "3.6%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Corning Inc Stock (GLW) Moved Up by 11.16% on Jun 20: A Full Analysis - TradingKey",
+      "Corning Jumps 7.8% Amid Sector-Wide Rally - AlphaStreet",
+      "Corning Inc Stock (GLW) Moved Up by 11.16% on Jun 19: Facts Behind the Movement - TradingKey",
+      "Corning Inc Stock (GLW) Moved Down by 4.31% on Jun 16: What Investors Need To Know - TradingKey",
+      "Why Novatek’s NT98566 automotive SoC quietly pushes camera cars forward - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為LG電子、三星電子相關動態：「Koo Kwang-mo's 'One LG' Fruits...Electronics 3 Company's ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Koo Kwang-mo's 'One LG' Fruits...Electronics 3 Company's biggest earnings are...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "INT Tech demonstrates 150,000 nits direct-emission full-color OLED microdisplays（OLED 滲透率）",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
