@@ -1,0 +1,321 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T13:36:18.640025Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-06-22-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display OLED becomes world's first to achieve \"Perfect Color/Brightness\" certification - PR Newswire",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSk8za2FlMTNBSXUzQU1SUlFDTlBWdmlkRmVMbXQwZVhiSExpNjhpbXQ0eDJBSXNiQ3BXU25CQUg3YjI3OVhfNjg2ZV9qazJfbi1wNDRXNGFhNkdPMDZreV9ZeWFXeGlwMU1TdUV3OVF1R2RtaFhOM0MyUzNqeF9vSEdWSVh5dWNETERLLUU2LVk4X0VzbTRXMjBjYmVwTFhIc0xuMmtkam93eWdCZ0M5ckJlQzdUVVc2b1k5LVZHSWRTY2RnWnFLU1ZheWU3SWFQdEZXUHhTM3A?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-06-22-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display OLED panels first to clear Intertek’s color and brightness test - Stock Titan",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd04wV0k3UktTSjhrZTVkOTVidmRHMlZpQklkejc4MkMzMHVwR25FTGZ2YTAyb2p2a2FQRmcyLURUZWNMODlTUGZLVjRsZzRZekRIRGszbDhNcDR3UFpzWmNQNHlNN1N0SWwxYjJIZWk1MF9IUW92OUpNNVZpM1pYemZCRGNibDNWLVcwQjFjUVVVcVd0ejk2S0RQdWE3dDFZaDFMcndYYU1nTEZuZVJxb0Z4WWlXR1k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-06-22-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display's WOLEDs receive Intertek's Perfect Color/Brightness Accuracy up to 500 lux certification - OLED-Info",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeU9McHBsbDNlN0pHS2RJcFd4NnZVUU1lVEJpNHBlMnpSZ0FHZi15ZlRDM20wUlZUNWVncWJNRlNmck9OX0o0OHpJTDIxM1pDa09WVUZwMk9rSm0wNzFKOElfeXU3NndrUG9lVDluMG4wakVoM092S05SYlBPZ00wc2tUZXFoWG5Ea0VfQzZGZG1NU1ZUNjJVUXM5Z0lrazJ5?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_elec-2026-06-22-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "ASUS Picks LG Over BOE For World’s First 24.5″ OLED Monitor, Hitting A Blazing 540Hz At 1080p - Wccftech",
+      "companies": [
+        "lg_elec",
+        "boe"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "boe"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTFctVllUQjU2cVp0OGtsZG8xLWFwamdTUWlsZlJYbTBhRzJuRFA2TGhvUmk2RTNTTF9ZN0hyQ202STdURUFHU2ZUSUdpRzF6ak9MQ1p0T25hMmF1UHVmSElfOWYxbWlJSkRDSk1Fby1KbzAydV9WUUZFWkpnZVlxSm5lNUFpQXJKaFZRdUJkM3RuaGNjTk8yVzVjQkl6bHBWSldZaGNfMDM4eWpUUWUxY2dn0gG3AUFVX3lxTE1WSEhWZF9TNkZJdzMyYnFTYlVCUW9hbGYxTlgwbkI2QlR1VTZqYkZDYl9WbTlkU1FxRHFZQTEwOWotdkNER01pQmgtaC1MTWJvLWZsYzRVeHhYaHo1ZHpKMXh4MlpzSnJpRmVCM0t5eHNDa1F3NVRSMmZ1X1ZYTlZ4ek92LWlhMGxZN2tKUmVnMGhPZkhLalFESnJiODlwY1hlNHktYm1QWnhGM0pOeUt2eDQtZ3N2SQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_elec-2026-06-22-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display reportedly joins ASUS ROG gaming monitor panel supply chain - VideoCardz.com",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "panel_price",
+        "it_panel_demand"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUNzS1VuU0plQlNpMWhKQXQ4TlgyVVdHZFAzejNNNHdBbFp4VDI4WnVWNGtJM0E1MWFiam5HTG8xZUdnZUtRaDNIekZVOEs3ellGY0tLUjZQTTFrc1RYMTU1ZFd6S2dLTnhTdUxDMS14bXl3VDVlRmtaRDhnWHhEaGtUZHYwUU1ERC1EYUpBWmQyaUZucExFQ0NkLS16ZjA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 13,
+      "topics": [
+        "panel_price",
+        "oled_penetration",
+        "it_panel_demand"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 15
+      },
+      {
+        "id": "lg_display",
+        "count": 13
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 13
+      },
+      {
+        "id": "panel_price",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 121,
+    "too_old": 154,
+    "gate1_blocked": 41,
+    "gate2_blocked": 20,
+    "passed": 24,
+    "pass_rate": "10.0%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Here is why Corning Incorporated (GLW) is among the Most Overvalued Quantum Computing Stocks Accordi",
+      "Corning Inc Stock (GLW) Moved Up by 11.16% on Jun 21: What Signal Does It Send? - TradingKey",
+      "Corning Jumps 7.8% Amid Sector-Wide Rally - AlphaStreet",
+      "Corning Inc Stock (GLW) Moved Up by 11.16% on Jun 20: A Full Analysis - TradingKey",
+      "Corning Inc Stock (GLW) Moved Up by 11.16% on Jun 19: Facts Behind the Movement - TradingKey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為LG電子、LGD、康寧相關動態：「LG Display OLED becomes world's first to achieve \"Perfect...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display OLED becomes world's first to achieve \"Perfect Color/Brightness\" c...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display OLED panels first to clear Intertek’s color and brightness test - ...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

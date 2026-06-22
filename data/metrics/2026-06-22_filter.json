@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 41,
+  "gate2_fail": 20,
+  "passed": 24,
+  "gate2_samples": [
+    "Here is why Corning Incorporated (GLW) is among the Most Overvalued Quantum Computing Stocks Accordi",
+    "Corning Inc Stock (GLW) Moved Up by 11.16% on Jun 21: What Signal Does It Send? - TradingKey",
+    "Corning Jumps 7.8% Amid Sector-Wide Rally - AlphaStreet",
+    "Corning Inc Stock (GLW) Moved Up by 11.16% on Jun 20: A Full Analysis - TradingKey",
+    "Corning Inc Stock (GLW) Moved Up by 11.16% on Jun 19: Facts Behind the Movement - TradingKey"
+  ]
+}
