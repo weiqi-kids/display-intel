@@ -1,5 +1,190 @@
 [
   {
+    "id": "corning-2026-06-23-001",
+    "date": "2026-06-23",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "What is Corning Tokenized Stock (Ondo)(GLWON) Coin: everything you need to know, how to buy, and what to watch - WEEX",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaXQxeFlrbGhVdExISTJzWjVrOFNxU3hOQ3BlZEl4UnkzallCWmxhRk9qY2dWWjBVSWhOZHdrN3lOZTVmbHo0eFhUOU5iN0twbTBndjNZZGVGZFh1WFRJWXdZRXluSVM1bzhEbHRDU2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaXQxeFlrbGhVdExISTJzWjVrOFNxU3hOQ3BlZEl4UnkzallCWmxhRk9qY2dWWjBVSWhOZHdrN3lOZTVmbHo0eFhUOU5iN0twbTBndjNZZGVGZFh1WFRJWXdZRXluSVM1bzhEbHRDU2RfS3JhS0JDNGN5OGJIZFpxc2JfendYWEtiNnpQWnpKcDg3X2NlV3F2UXpEeG1lbFZfWHpPZjBDc3p4UW5TeXFOaWk3dm56MmxKeWV4OWpnTUE3ODFBQkVKT09VYXNQeFdRS0NqVnFVYk1HWHJHUTU4OGlhXzZ0cWVNTFdWVk1sRm1MUjRE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-23-002",
+    "date": "2026-06-23",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display OLED Achieves World’s First “Perfect Color/Brightness” Certification - Ink World magazine -",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWllhRHFiRUNGMUhKcVZoNXBLYXBtTEt0NGpPc1hkX2ZGQ1RsRWRQbnA5MHRCeHFOd1hQZ1hHMjdjd1RTWG9pTndJYWNjTkROMkVoSjhWcjQ4d0pFNVJxOF9JdGEtMUpmQUFHalFKRE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWllhRHFiRUNGMUhKcVZoNXBLYXBtTEt0NGpPc1hkX2ZGQ1RsRWRQbnA5MHRCeHFOd1hQZ1hHMjdjd1RTWG9pTndJYWNjTkROMkVoSjhWcjQ4d0pFNVJxOF9JdGEtMUpmQUFHalFKREQ5Z1RnVjFhY3p5d3diLS0zZU5NWHNWWmpSOWo2Wmg0ZEJ5Nkl1dGk0dGJLNExrQlh3eWtZMjFMX1JtMlNxTVdPYWJuVWhCbzc4d29sY2pIWWhwZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-23-003",
+    "date": "2026-06-23",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Unveils Industry’s Fastest UFS 5.0 Solution for Next-Gen On-Device AI Applications",
+    "summary": "Samsung Electronics, the world leader in advanced memory technology today announced that, for the first time in the industry, it has developed the industry’s fastest Universal Flash Storage (UFS) 5.0 ",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-unveils-industrys-fastest-ufs-5-0-solution-for-next-gen-on-device-ai-applications",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-004",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Honor launches the X80 Pro Max, the first phone to reach 10,000 nits brightness",
+    "summary": "<p>Honor launched its latest flagship phone, the <a href=\"https://www.oled-info.com/honor-x80-pro-max\">X80 Pro Max</a> - with a 6.8\" 120Hz 1280x270 LTPS AMOLED display.</p><img src=\"https://www.oled-i",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/honor-launches-x80-pro-max-first-phone-reach-10000-nits-brightness",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-005",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fulltech sees low DK2 shipments rising, starts M9 quartz cloth certification",
+    "summary": "Fulltech, a glass fiber yarn and cloth maker, said at its 2026 annual general meeting that demand for next-generation AI servers and high-speed switches is lifting specifications and demand for upstre",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260623PD223/fulltech-fiberglass-yarn-fiberglass-cloth-certification-quartz-shipments-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-006",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Smartphone demand and chip supply pressures cloud 2H26 peak season outlook",
+    "summary": "Market sentiment toward the smartphone industry remains subdued. On the demand side, global smartphone sales have declined for several consecutive weeks during the second quarter of 2026, with only Ap",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260623PD216/smartphone-component-shipments-demand-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-007",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Microsoft's Satya Nadella warns against AI profits being absorbed by just a few companies",
+    "summary": "Microsoft CEO Satya Nadella warned against allowing only a handful of companies to economically profit from the new AI era. In an interview with <em>Bloomberg</em>, he critiqued the current trajectory",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260623VL215/microsoft-ceo-ai-data.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-23-008",
+    "date": "2026-06-23",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung Electro-Mechanics rides Qualcomm's data center push into servers",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:260;106-365\">Samsung Electro-Mechanics has begun mass production of advanced package substrates for Qualcomm's first data center AI accelerator, extending the compa",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260623VL211/semco-qualcomm-data-center-fc-bga-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-23-009",
+    "date": "2026-06-23",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Last year’s TCL mini-LED TV plummets to its lowest price in Prime Day deal - PC Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZDl6UE4xdkFoY012NWRPbmpwM0xHTEtJUlpmdlQtNzk0XzI5Tzh2YWFRajJTNlJ5SmU2STZXVjFqWUdlUlNiSF80UVRuQkZhUjRFLWhoUlpCV0lWVm1FWUlBUFZJc2RrZHgyV3c4TT",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZDl6UE4xdkFoY012NWRPbmpwM0xHTEtJUlpmdlQtNzk0XzI5Tzh2YWFRajJTNlJ5SmU2STZXVjFqWUdlUlNiSF80UVRuQkZhUjRFLWhoUlpCV0lWVm1FWUlBUFZJc2RrZHgyV3c4TThyQVNxQ3dKWG5hNXVJa0liWElpOHJqMWk2TUFlUVdPZmZ5OUZseTJXTzNaTzlZSjh2cW1F?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-23-010",
+    "date": "2026-06-23",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL showcases SQD-Mini LED display technology at Sydney event - Appliance Retailer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNOHJBWWlLbDdFV3ZRWE5ncHFWa2R5c3VfR2NYd2tWRGVQYld0QzJnNGd6dFBWYk5Ra05Ya05VU0NTQTdfVWpMZGVMV1gyYmhiUlJaSmJwQVRtTGtBTllZRVJqZEMyS29hMTgzOGNjcH",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOHJBWWlLbDdFV3ZRWE5ncHFWa2R5c3VfR2NYd2tWRGVQYld0QzJnNGd6dFBWYk5Ra05Ya05VU0NTQTdfVWpMZGVMV1gyYmhiUlJaSmJwQVRtTGtBTllZRVJqZEMyS29hMTgzOGNjcHJrYVUzSFhOUWxwWnh4bVRjdHJjX3dxOUg3c2wtV0RuSnJxeXRfM0JZSm5uSEl2QzJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-06-22-001",
     "date": "2026-06-22",
     "companies": [
@@ -401,6 +586,65 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRWJybnNLUDl4OEd2a2s4MktZQ1c2elJfX1N5bERveVV3VVdfUGxiRWdhQnJxd2NPMTY2RGlmTjRHTDdqNkVza0ZnZlEzbFdmN3dqVFpET21YRm9sT3VhdF9jR1NRSUNIQTBQVWNJbnp0ZUVsVk1HZlRPTHF0OHJET0ZHV2hiQmRQWUREZGNXdlVzMHI3Tnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-22-021",
+    "date": "2026-06-22",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display OLED First to Earn Global Color Accuracy Certification - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxObFkzTGZGYWJmTlZsWnNDNVhmQ1hzTG1rUGRjaU1zbG92dEgxU2ZKNjBsSC1fbDZPS2Q5UjU2ck53cDROVHNuVXRWRm01anM0S1hJdDlLQTEtd2Q3X2ZmVFpvSFUxSlRnWmRNazBRdG",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObFkzTGZGYWJmTlZsWnNDNVhmQ1hzTG1rUGRjaU1zbG92dEgxU2ZKNjBsSC1fbDZPS2Q5UjU2ck53cDROVHNuVXRWRm01anM0S1hJdDlLQTEtd2Q3X2ZmVFpvSFUxSlRnWmRNazBRdGF3enF4Z3lueDVQYndZZzFGT3RNNXVPaEVK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-22-022",
+    "date": "2026-06-22",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple approves Samsung Display for OLED panel production for foldable iPhone - MacDailyNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlFTazlaVjBlN1RGQzBPNXdmeVN4aGlLY1F0VEpZRnJRYmxEblI0Y25IZWJMaGJxNlE5VkJ6bXJqVGlhX0RFV1RVS0g5N2hZcGJXU3dRRjNVYTBGNFlNcTg4d0pfSlpYeXB1cXpyZE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlFTazlaVjBlN1RGQzBPNXdmeVN4aGlLY1F0VEpZRnJRYmxEblI0Y25IZWJMaGJxNlE5VkJ6bXJqVGlhX0RFV1RVS0g5N2hZcGJXU3dRRjNVYTBGNFlNcTg4d0pfSlpYeXB1cXpyZEVybG5DQkFKMjBRUzczVzhVRE9jT2lYcVh1QURKS1VodzNfMGxVZk1tMk9NVy1Zc1VPa3VNbXBOWjF3QlJCMjBab1NyMNIBuAFBVV95cUxPSFRzdXE5cmYxV3B2b1NxMmZxSmd0c3lUOGJ4dzRrYlR6R2ZpajhvU3RTb3dIdHlYRkU0dGNsVjFZYTR1MmNGbDBUTHpGMWc1SHRsbnlsampKUjZkQWZyaWZ0Y1N5OHR2azVjWXZYYkp3MTNMVno3SXZBdW9YeWg0aG9abXExa19peWdVcWRTa2thVW9SRERYTTNsUXQtdm90eVdNR0VvRWJDX0dveE8xY3B5ZVRGa185?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-22-023",
+    "date": "2026-06-22",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL Mini-LED TV and soundbar bundle price axed by over $660 in early Prime Day deal - PC Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnJHYzZUOTRhZWJ3aExVM2Zfd2FzQ1k2TVlETGEzc3c5Ny1ZSVVMVW55V1RjRU1wTjhMNWIxbzR6UnJSZkRlQ0oyRlVfLW9FWG1qdkhSa0hpbUYzTUtiTF9BNV9hNnBXS2g1cENyST",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnJHYzZUOTRhZWJ3aExVM2Zfd2FzQ1k2TVlETGEzc3c5Ny1ZSVVMVW55V1RjRU1wTjhMNWIxbzR6UnJSZkRlQ0oyRlVfLW9FWG1qdkhSa0hpbUYzTUtiTF9BNV9hNnBXS2g1cENySTV4aU5DYVBYQnowWF9uZ3pPb0F3ckNoYXJiRHJqZmFLR200eWREWnc1c0dZLWZQT3JiS3hWZTlRbl9YOG1BUkYzbnk4MA?oc=5",
         "type": "rss"
       }
     ]
@@ -993,6 +1237,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMVFqM2FUbW55T1ZaS3VhMmROR05qc1B2Z095SWxid3BVdmgxR3p6Qmo0dVdDY0VBWGRlZlJzUnRwNW51TGF0d1BWcUV5aUJ5SnhoQTRYYXF4d0VKc1k2MHdtWjNFOUR1LXJkbk5NTEkxaEZwSklDWjJHbm85RVMyMHRseVJvbm10WVIxdA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-06-18-008",
+    "date": "2026-06-18",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Group Company Limited announces Annual dividend, payable on June 18, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxORjkxR0prbXVlcTV3azdGdmVaZ2l1d240MGFWR3FNQ1ZaSlkyX2RDeFk2RGQ5dHlMYWNCbl9jUjNFdTdyYkdDSmFrblZkd21XUXdPeGtRRFJoRGl2bU1hcU9keFhpUW01RHEyTlBtS0",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORjkxR0prbXVlcTV3azdGdmVaZ2l1d240MGFWR3FNQ1ZaSlkyX2RDeFk2RGQ5dHlMYWNCbl9jUjNFdTdyYkdDSmFrblZkd21XUXdPeGtRRFJoRGl2bU1hcU9keFhpUW01RHEyTlBtS05Bc2Vqb0ktLXppVkRMRFFjVTk2UlQyUldoS3M3eFlGQ1JHX3hVMnhqS3RNRHZ5LU0zQXJCLVNqbWVuNjlkVWppZjN0N0VDOEpRdVJqY21iWEpyLW5OaWVpSUtrVzZ2SXdRYnNNbjhn?oc=5",
         "type": "rss"
       }
     ]

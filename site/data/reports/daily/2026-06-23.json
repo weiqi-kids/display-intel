@@ -1,0 +1,236 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T11:16:47.007095Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-06-23-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display OLED Achieves World’s First “Perfect Color/Brightness” Certification - Ink World magazine -",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWllhRHFiRUNGMUhKcVZoNXBLYXBtTEt0NGpPc1hkX2ZGQ1RsRWRQbnA5MHRCeHFOd1hQZ1hHMjdjd1RTWG9pTndJYWNjTkROMkVoSjhWcjQ4d0pFNVJxOF9JdGEtMUpmQUFHalFKREQ5Z1RnVjFhY3p5d3diLS0zZU5NWHNWWmpSOWo2Wmg0ZEJ5Nkl1dGk0dGJLNExrQlh3eWtZMjFMX1JtMlNxTVdPYWJuVWhCbzc4d29sY2pIWWhwZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-23-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Fulltech sees low DK2 shipments rising, starts M9 quartz cloth certification",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260623PD223/fulltech-fiberglass-yarn-fiberglass-cloth-certification-quartz-shipments-2026.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-23-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Smartphone demand and chip supply pressures cloud 2H26 peak season outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.33
+      },
+      "source_url": "https://www.digitimes.com/news/a20260623PD216/smartphone-component-shipments-demand-2026.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-23-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Microsoft's Satya Nadella warns against AI profits being absorbed by just a few companies",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260623VL215/microsoft-ceo-ai-data.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "corning-2026-06-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What is Corning Tokenized Stock (Ondo)(GLWON) Coin: everything you need to know, how to buy, and what to watch - WEEX",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaXQxeFlrbGhVdExISTJzWjVrOFNxU3hOQ3BlZEl4UnkzallCWmxhRk9qY2dWWjBVSWhOZHdrN3lOZTVmbHo0eFhUOU5iN0twbTBndjNZZGVGZFh1WFRJWXdZRXluSVM1bzhEbHRDU2RfS3JhS0JDNGN5OGJIZFpxc2JfendYWEtiNnpQWnpKcDg3X2NlV3F2UXpEeG1lbFZfWHpPZjBDc3p4UW5TeXFOaWk3dm56MmxKeWV4OWpnTUE3ODFBQkVKT09VYXNQeFdRS0NqVnFVYk1HWHJHUTU4OGlhXzZ0cWVNTFdWVk1sRm1MUjRE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "tcl",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 381,
+    "dup_title": 132,
+    "too_old": 166,
+    "gate1_blocked": 47,
+    "gate2_blocked": 22,
+    "passed": 14,
+    "pass_rate": "5.6%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "Here is why Corning Incorporated (GLW) is among the Most Overvalued Quantum Computing Stocks Accordi",
+      "Corning Incorporated’s Stock Price Soars to $209.83, Marking a Robust 7.65% Increase - Smartkarma",
+      "Corning Inc Stock (GLW) Moved Up by 4.32% on Jun 22: What Signal Does It Send? - TradingKey",
+      "Truist raises Corning stock price target on optical, solar growth By Investing.com - Investing.com A",
+      "Corning Jumps 7.8% Amid Sector-Wide Rally - AlphaStreet"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為三星電子、TCL Technology、康寧相關動態：「LG Display OLED Achieves World’s First “Perfect Color/Bri...」。主要關注主題為法說會、OLED 滲透率、Mini LED，市場情緒中性。",
+    "signals": [
+      {
+        "text": "LG Display OLED Achieves World’s First “Perfect Color/Brightness” Certificati...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Fulltech sees low DK2 shipments rising, starts M9 quartz cloth certification（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
