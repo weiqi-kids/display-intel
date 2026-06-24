@@ -1,0 +1,73 @@
+{
+  "date": "2026-06-24",
+  "total_events": 12,
+  "by_company": {
+    "lg_display": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 8,
+      "sentiment_avg": -0.06
+    },
+    "boe": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "jdi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.17
+    },
+    "mini_led": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "boe",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "lg_elec",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "boe",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ]
+}

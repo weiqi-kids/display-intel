@@ -1,0 +1,280 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T10:50:14.905514Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-06-24-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung and LG Display Start OLED Production for Apple Premium Lineup as BOE Is Shut Out - Tech Times",
+      "companies": [
+        "lg_display",
+        "samsung_elec",
+        "boe",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec",
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display",
+          "boe"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkplV3JSNkxWOHRVS0Y2Yl9fekxlWHM1UEYtZmlncWdqYzQ4YjQ0V0IxTFdhTjFNNFBJZEJLcmtuUkZoaXVnQ1MwR3lfaWdpRDcyYmNwa2wyQWhheVJrcFJ2MHB2Z1FCWUFaVmliNjZZeENWWV9nRkM2WVdCbEhvU2lhUWYwU2dVQW5DOGw3VjUxcGZjUGNsdXRKLWQtc0dkX2M4TXpwanpFWXhMeXMyNjZpMmZXMVk3dVZ0amFqeU1lS041OTUwdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-06-24-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Apple Sends RFI for a 13.8-Inch OLED MacBook to Samsung, LG, and BOE - Tech Times",
+      "companies": [
+        "lg_elec",
+        "samsung_elec",
+        "boe"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec",
+          "lg_elec"
+        ],
+        "suppliers": [
+          "boe"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSUdQM1lOcU1JSkYzRko2MWhJODBYakxnU3pFQXFzZmdLVEduN1A3YjlCZHphS2xkOElwaXJ5anlnUFkxOFlzcjdmVHc4SjI2RTR3MkpLbE9NX3lEM1llVmh2T296d1R6ZVBHTWRnLWlMeGxqMlFzQVhvenB3WlB0SFpqMHlpLTVraVY3UXlIbDJCNXVtUmhvSXlVZkNXYTlpRHhKeVNYN1dLRkk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-24-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI supply chain boom fuels Taiwan's investment, exports as GDP growth tops 10% outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.33
+      },
+      "source_url": "https://www.digitimes.com/news/a20260624PD228/taiwan-growth-investment-exports-outlook.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-24-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Former SMIC CEO targets China photomask IPO after 12-inch wafer bet",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260624PD213/china-photomask-ipo-wafer-smic.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-06-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Apple may add Samsung-made foldable OLED display to iPhone lineup: Report - The Indian Express",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZFpnanBIZEhBejRQdnp4by1TVGVnNkZuSmZ1NHhkM1J5V2xLXzdrVm50b1dtbEI4QTI1aC05VHRmaWJyTU02NV9HU1hqR1NXZ3Y3dkN5TGRETmo1bkdEbUcyZFlBNGZtSDlqQThJU1YzdVYxWTZ1Y21GSkJlc2FnWTV2em9HeEVKU0Y0czFyZGdUd0pjS2VJa2dscnRJVExTRnVOU25Ba0U5dEFqSGdVaktIeEp5SFdNUEY3UE1hM2dEaDB2SlVfNkp4U2VXWWtOZmswYmZUdXhJR1VFWUlCaDJB0gHoAUFVX3lxTE5ic3E1TWprU2EwWTVhTDZJRF9IbC1KWnR1YlFFNnVMaDgyWG53bHdPM1RvTXJfVzBWOGRfMzdRN283Wnkzc1B2N25qLWRFNHFZT0JleTJnbXV5Z2E0QURxZklWYlJWa1hpb29LSncyZUo5RWgwQXU2SWhIbVJSUGI0MWVPNkdGMldUZlZMSVAzUWtSTS1LOV94NnpCZHowTVpsVXA4QWhqRFd4RDhTeUpUNUlYZ0NYSU5hY29LeUdob204QWtUVVVmQVB2RHg1aHQ3RDV4VGpveFcydmJMUVFnOU5BVjJmYlo?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "boe",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "lg_elec",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "boe",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 8
+      },
+      {
+        "id": "boe",
+        "count": 2
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "jdi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 361,
+    "dup_title": 103,
+    "too_old": 166,
+    "gate1_blocked": 45,
+    "gate2_blocked": 25,
+    "passed": 22,
+    "pass_rate": "8.5%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "Here is why Corning Incorporated (GLW) is among the Most Overvalued Quantum Computing Stocks Accordi",
+      "Corning Rides on Strong Operating Margin Growth: Will it Sustain? - The Globe and Mail",
+      "Corning Incorporated’s Stock Price Soars to $209.83, Marking a Robust 7.65% Increase - Smartkarma",
+      "Corning Jumps 7.8% Amid Sector-Wide Rally - AlphaStreet",
+      "Corning Inc Stock (GLW) Moved Up by 4.32% on Jun 22: What Signal Does It Send? - TradingKey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為三星電子、BOE Technology、LG電子相關動態：「Samsung and LG Display Start OLED Production for Apple Pr...」。主要關注主題為OLED 滲透率、法說會、Mini LED，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Samsung and LG Display Start OLED Production for Apple Premium Lineup as BOE ...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Apple Sends RFI for a 13.8-Inch OLED MacBook to Samsung, LG, and BOE - Tech T...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 45,
+  "gate2_fail": 25,
+  "passed": 22,
+  "gate2_samples": [
+    "Here is why Corning Incorporated (GLW) is among the Most Overvalued Quantum Computing Stocks Accordi",
+    "Corning Rides on Strong Operating Margin Growth: Will it Sustain? - The Globe and Mail",
+    "Corning Incorporated’s Stock Price Soars to $209.83, Marking a Robust 7.65% Increase - Smartkarma",
+    "Corning Jumps 7.8% Amid Sector-Wide Rally - AlphaStreet",
+    "Corning Inc Stock (GLW) Moved Up by 4.32% on Jun 22: What Signal Does It Send? - TradingKey"
+  ]
+}

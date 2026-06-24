@@ -1,5 +1,232 @@
 [
   {
+    "id": "lg_display-2026-06-24-001",
+    "date": "2026-06-24",
+    "companies": [
+      "lg_display",
+      "samsung_elec",
+      "boe",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung and LG Display Start OLED Production for Apple Premium Lineup as BOE Is Shut Out - Tech Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkplV3JSNkxWOHRVS0Y2Yl9fekxlWHM1UEYtZmlncWdqYzQ4YjQ0V0IxTFdhTjFNNFBJZEJLcmtuUkZoaXVnQ1MwR3lfaWdpRDcyYmNwa2wyQWhheVJrcFJ2MHB2Z1FCWUFaVmliNj",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkplV3JSNkxWOHRVS0Y2Yl9fekxlWHM1UEYtZmlncWdqYzQ4YjQ0V0IxTFdhTjFNNFBJZEJLcmtuUkZoaXVnQ1MwR3lfaWdpRDcyYmNwa2wyQWhheVJrcFJ2MHB2Z1FCWUFaVmliNjZZeENWWV9nRkM2WVdCbEhvU2lhUWYwU2dVQW5DOGw3VjUxcGZjUGNsdXRKLWQtc0dkX2M4TXpwanpFWXhMeXMyNjZpMmZXMVk3dVZ0amFqeU1lS041OTUwdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-24-002",
+    "date": "2026-06-24",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple may add Samsung-made foldable OLED display to iPhone lineup: Report - The Indian Express",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZFpnanBIZEhBejRQdnp4by1TVGVnNkZuSmZ1NHhkM1J5V2xLXzdrVm50b1dtbEI4QTI1aC05VHRmaWJyTU02NV9HU1hqR1NXZ3Y3dkN5TGRETmo1bkdEbUcyZFlBNGZtSDlqQThJU1",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZFpnanBIZEhBejRQdnp4by1TVGVnNkZuSmZ1NHhkM1J5V2xLXzdrVm50b1dtbEI4QTI1aC05VHRmaWJyTU02NV9HU1hqR1NXZ3Y3dkN5TGRETmo1bkdEbUcyZFlBNGZtSDlqQThJU1YzdVYxWTZ1Y21GSkJlc2FnWTV2em9HeEVKU0Y0czFyZGdUd0pjS2VJa2dscnRJVExTRnVOU25Ba0U5dEFqSGdVaktIeEp5SFdNUEY3UE1hM2dEaDB2SlVfNkp4U2VXWWtOZmswYmZUdXhJR1VFWUlCaDJB0gHoAUFVX3lxTE5ic3E1TWprU2EwWTVhTDZJRF9IbC1KWnR1YlFFNnVMaDgyWG53bHdPM1RvTXJfVzBWOGRfMzdRN283Wnkzc1B2N25qLWRFNHFZT0JleTJnbXV5Z2E0QURxZklWYlJWa1hpb29LSncyZUo5RWgwQXU2SWhIbVJSUGI0MWVPNkdGMldUZlZMSVAzUWtSTS1LOV94NnpCZHowTVpsVXA4QWhqRFd4RDhTeUpUNUlYZ0NYSU5hY29LeUdob204QWtUVVVmQVB2RHg1aHQ3RDV4VGpveFcydmJMUVFnOU5BVjJmYlo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-24-003",
+    "date": "2026-06-24",
+    "companies": [
+      "lg_elec",
+      "samsung_elec",
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple Sends RFI for a 13.8-Inch OLED MacBook to Samsung, LG, and BOE - Tech Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSUdQM1lOcU1JSkYzRko2MWhJODBYakxnU3pFQXFzZmdLVEduN1A3YjlCZHphS2xkOElwaXJ5anlnUFkxOFlzcjdmVHc4SjI2RTR3MkpLbE9NX3lEM1llVmh2T296d1R6ZVBHTWRnLW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSUdQM1lOcU1JSkYzRko2MWhJODBYakxnU3pFQXFzZmdLVEduN1A3YjlCZHphS2xkOElwaXJ5anlnUFkxOFlzcjdmVHc4SjI2RTR3MkpLbE9NX3lEM1llVmh2T296d1R6ZVBHTWRnLWlMeGxqMlFzQVhvenB3WlB0SFpqMHlpLTVraVY3UXlIbDJCNXVtUmhvSXlVZkNXYTlpRHhKeVNYN1dLRkk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-06-24-004",
+    "date": "2026-06-24",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Japan Display Inc. Approves Change in the Location of Its Registered Corporate Office - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeTI1LV9YZHJMN1diOHRKTDIwSHB4R0pXT0QySG5uclp3c0V0bEJsRlpoQ3ZrVFhRbnlWWVhNRzBsWWZSUDJuUUtTSE9SOUZBV1RONVJselpIMWJZbFJuakRjVTdfc2hMbXEyeDhpQ0",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeTI1LV9YZHJMN1diOHRKTDIwSHB4R0pXT0QySG5uclp3c0V0bEJsRlpoQ3ZrVFhRbnlWWVhNRzBsWWZSUDJuUUtTSE9SOUZBV1RONVJselpIMWJZbFJuakRjVTdfc2hMbXEyeDhpQ0ZpYmVMeDBCOVVyZ1J0aXZEZl9LUUdEV0RoODd4b0xLdXByd1BNa2NMLXNWaS1nNlY3TFBkWnRkX1otUFVNLWZYdlNWei1VTzBOb1lnZWVWQnBwNVVRbThoNXFNTkZmQTRBOFZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-24-005",
+    "date": "2026-06-24",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Partners With Alcedis To Advance Clinical Research Using Wearable-Based Endpoints",
+    "summary": "Samsung Electronics today announced a partnership with Alcedis, a digital-first clinical research organization (CRO) specializing in data-driven clinical trials, to translate biometrics collected by w",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-partners-with-alcedis-to-advance-clinical-research-using-wearable-based-endpoints",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-24-006",
+    "date": "2026-06-24",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Meet the Generation17 Young Leaders: The Story of José Francisco Ochoa",
+    "summary": "José Francisco Ochoa is a member of Generation17, a Samsung and United Nations Development Programme (UNDP) partnership empowering young people who are contributing to the Global Goals. Since 2020, Ge",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/meet-the-generation17-young-leaders-the-story-of-jose-francisco-ochoa",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-24-007",
+    "date": "2026-06-24",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Partners With Warner Bros. Pictures and DC Studios To Bring ‘Supergirl’ Experiences to Fans",
+    "summary": "Samsung Electronics today announced a global partnership with Warner Bros. Pictures and DC Studios to mark the theatrical release of this summer’s epic new superhero adventure “Supergirl” on June 24. ",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-partners-with-warner-bros-pictures-and-dc-studios-to-bring-supergirl-experiences-to-fans",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-24-008",
+    "date": "2026-06-24",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Imoo overtakes Samsung to become No. 4 smartwatch brand",
+    "summary": "Imoo beat Samsung Electronics, Oppo, and Garmin to rank as the world's No. 4 smartwatch brand in global smartwatch sales in the first quarter of 2026. In fact, imoo's global smartwatch shipments have ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260624PD236/smartwatch-brand-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-009",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI supply chain boom fuels Taiwan's investment, exports as GDP growth tops 10% outlook",
+    "summary": "Taiwan's economy is expected to maintain strong momentum through the second half of 2026, supported by accelerating AI-related investment, resilient exports, and robust demand across the semiconductor",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260624PD228/taiwan-growth-investment-exports-outlook.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-24-010",
+    "date": "2026-06-24",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Samsung, SK Hynix weigh new Korean chip belt as concerns mount for Yongin cluster",
+    "summary": "<p class=\"P1\" data-start=\"355\" data-end=\"712\">South Korea's government is in talks with Samsung Electronics and SK Hynix over a potential new phase of large-scale semiconductor investments, as the two",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260624VL213/samsung-sk-hynix-ic-manufacturing-investment-government.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-011",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Former SMIC CEO targets China photomask IPO after 12-inch wafer bet",
+    "summary": "Former SMIC CEO Tzu-yin Chiu is extending his semiconductor materials strategy into photomasks, one of the most critical upstream links in chip manufacturing. Guangzhou Xinrui Photomask Technology, al",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260624PD213/china-photomask-ipo-wafer-smic.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-012",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Xiaomi S Mini Led TV review: Great display and sound, and that one thing that could have been better - India Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPV2Y3THc0SkQ1TE5iQ1lrbmRlTnUtMXdZT1UzY19TMHJYaTY0dmZuYXNWanNOVUtFRUJuTzhDdGQ5N01YRU9zdm1Rajh0bUNlelZ6dUdpTzdkQXVlS2w5Vy1TN2hyWGRNWGdIMlQtdU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPV2Y3THc0SkQ1TE5iQ1lrbmRlTnUtMXdZT1UzY19TMHJYaTY0dmZuYXNWanNOVUtFRUJuTzhDdGQ5N01YRU9zdm1Rajh0bUNlelZ6dUdpTzdkQXVlS2w5Vy1TN2hyWGRNWGdIMlQtdUhSRk5KWUNxY1otMDdma3lIeTRkbjBCcURzN2FMMTBaeXIyM19iWGpvZHZRZjlsMDZtTG9FWm1ZbldFNUJoMkFJZ1B5ZHdnZjY5RFhobk1xN2FaVl94TXVuVDdNMHRWOGQ1VHFQcVZnNDBzQlVuQTdPSXF1NjRCMVh2Mmg4RDJCaTdnXzFHTU5IbjBuZW7SAYICQVVfeXFMT3AzNmxKemxfMDhpRXkxQ3FWaTJwaWhxOWFtQjhoR0N4Y01Ub1o1bzVUTjR4TnAtQ0J0Zmx6ZlpyMlYwRjRhaVJGdjdxVmx6WlRXRmNJV2NlckJkN1JiblRmZngzN05hWjJKa3RRMFVHUVVsanllaEFpM2R4c2s3THZXcEY3Yi13eEQwTFRVOFF5V3JMMzlYel9iMXhqSE11d0ZtNXNmYWlqbEJ2a18wUDZ6OGxvTDMtUVJUNG1PemY2eGxsc05IMll2M28yQW5IWWlWOTZvUjBJNnh0Sk52THdFZzVwUmpQSVZ1ZjFuQ05sb3FMVzVEN0ZtZWpMU0pPMG1n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-06-23-001",
     "date": "2026-06-23",
     "companies": [
@@ -180,6 +407,122 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOHJBWWlLbDdFV3ZRWE5ncHFWa2R5c3VfR2NYd2tWRGVQYld0QzJnNGd6dFBWYk5Ra05Ya05VU0NTQTdfVWpMZGVMV1gyYmhiUlJaSmJwQVRtTGtBTllZRVJqZEMyS29hMTgzOGNjcHJrYVUzSFhOUWxwWnh4bVRjdHJjX3dxOUg3c2wtV0RuSnJxeXRfM0JZSm5uSEl2QzJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-23-011",
+    "date": "2026-06-23",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Inc Stock (GLW) Closed Down by 7.35% on Jun 23: Key Drivers Unveiled - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOaW1qY2Fldm4tZTdjMWpiYTB1Z1B3eGcwZXdkbURMaE9jb2p2Um90WjVUclpaalNNMmpkSkhTbk1tdmN5b3RLSGVmaVRlUFM2bDNLZlc4YkxDakVMUkV6SmFuWTlJMWJBMEl4SkhQZT",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaW1qY2Fldm4tZTdjMWpiYTB1Z1B3eGcwZXdkbURMaE9jb2p2Um90WjVUclpaalNNMmpkSkhTbk1tdmN5b3RLSGVmaVRlUFM2bDNLZlc4YkxDakVMUkV6SmFuWTlJMWJBMEl4SkhQZTNWVWhYUmVMWVVURlJoUkQ5X04tenVXRG5rbkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-23-012",
+    "date": "2026-06-23",
+    "companies": [
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple’s 2026 OLED lineup will reportedly rely entirely on Samsung and LG - 9to5Mac",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZmNIVldoMWFtMUtGbVE3VU9mRG5rVWZaQTJWNF9NSm1GSkIwWVVQM2huT1ZuLTB6N0IzWEUzODZQQzB3bnZMUmpoQ09KR1I3Vl8zM0MySThjamlNV3owaWc5bjBNNlNSR0U0MkJjZT",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZmNIVldoMWFtMUtGbVE3VU9mRG5rVWZaQTJWNF9NSm1GSkIwWVVQM2huT1ZuLTB6N0IzWEUzODZQQzB3bnZMUmpoQ09KR1I3Vl8zM0MySThjamlNV3owaWc5bjBNNlNSR0U0MkJjZTRqN0RoUWJ0R3lBR0NUTVlHcFh4aFJoRjVqeXdXUWNvMFlsZ2xHWUxSRnlpVDNlX2FldmEwcDBB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-23-013",
+    "date": "2026-06-23",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG claims its OLED panels deliver perfect color and brightness accuracy - TechSpot",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQQzBLTWUzWXV0ejRRRWthNDdkX1NVckdqdkpyemdnWTJvbXBISVlKMHZNNE1FMW1KUUZ4aHlqd19rWVNVWEVxT0hXeHZYU1hpeGctcmZsbVJ6b3dnWm5ZakdNNVJSRlp0MkpkcTlNcX",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQzBLTWUzWXV0ejRRRWthNDdkX1NVckdqdkpyemdnWTJvbXBISVlKMHZNNE1FMW1KUUZ4aHlqd19rWVNVWEVxT0hXeHZYU1hpeGctcmZsbVJ6b3dnWm5ZakdNNVJSRlp0MkpkcTlNcXBRMWt2N1E3dENQOXVKZFlSUkRwZjhQbFpPcTRLemVTMnBlVVZDdEhZVEtmbjk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-23-014",
+    "date": "2026-06-23",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG’s OLED Panels Earn a “Perfect” Color Accuracy Cert – But What Does That Mean? - Gadget Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0E1dzF0VlZBVkw0OFhiZ0tPaWhNeXhBdGJZTm4tTDR5VlY2SU1sazFZME1qUjU2ZWpEaHFIYUMtRm1TOGZzTnRGazBrSl9lMEJ3WURHazd2TUV0ZzhzcWhkOWRHRWtrVlBVZzBrUF",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQ0E1dzF0VlZBVkw0OFhiZ0tPaWhNeXhBdGJZTm4tTDR5VlY2SU1sazFZME1qUjU2ZWpEaHFIYUMtRm1TOGZzTnRGazBrSl9lMEJ3WURHazd2TUV0ZzhzcWhkOWRHRWtrVlBVZzBrUFA4M204ZXV1RVQwNVZJZXhyZzIwOW5Yd0tjZUIxQzJDTDJVLWp1V3JVOEJJRHlPYkF5X2RkaVV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-015",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "4 Reasons Mini LED Beats OLED (And 4 Ways OLED Still Wins) - bgr.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GTi1qMC1hOGlSQy0ya3hVMFMzNUdqSTdpVzQwWkhtREdRbGxWc2RBVzRoUUgxZDNyTmR6Um5takxWcUphRmdCdjdxcnBBenphLXBubjFWcDU4RWhwNHlndWcyNXYyQQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GTi1qMC1hOGlSQy0ya3hVMFMzNUdqSTdpVzQwWkhtREdRbGxWc2RBVzRoUUgxZDNyTmR6Um5takxWcUphRmdCdjdxcnBBenphLXBubjFWcDU4RWhwNHlndWcyNXYyQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-23-016",
+    "date": "2026-06-23",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL Announces Major Prime Day Savings Across TVs, Mobile Devices and Audio Products - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMzBNOHZPXzZ0QS1uWEFreHp5VEpyV09CRzJPWGN3Zk45V1ppTVd6d3A1STU1bGpvQVVrTXk1UXFfRVFNSFl5VGtBVmk3ZWZKbnlxMDJ5d2o3MFBxU1VXYksyTjdYN3R4bTczVFk5b1",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMzBNOHZPXzZ0QS1uWEFreHp5VEpyV09CRzJPWGN3Zk45V1ppTVd6d3A1STU1bGpvQVVrTXk1UXFfRVFNSFl5VGtBVmk3ZWZKbnlxMDJ5d2o3MFBxU1VXYksyTjdYN3R4bTczVFk5b1B1SWJhNlRSMi05TlhNZWxtTWc0UkNGYjEyR2RIR0JXX0p5eDR6THdtZGlqWDBpUk1jbDg3V1NwWUhMX3R0TkZONmhaQm9rMXZ2VlFabGRMNHVQU1AyX3F0TlBPM0hrU3YxNXJ1eQ?oc=5",
         "type": "rss"
       }
     ]
@@ -907,6 +1250,24 @@
     ]
   },
   {
+    "id": "boe-2026-06-20-010",
+    "date": "2026-06-20",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Group Stock - long-term display business under Saturday spotlight - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPZEpSR3lpWHd0ckhoMlM4dk9pRkhtQzdvLXp1N1FlNFFzYkZaSGtTcUNKbjdkMzN2Rk9sVURWclNVNkRrcFk3ODA2alhkNklpYURSZVdWWkFvLVAzV0pvcVFaZDNNRnRfUURLUk9mLU",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZEpSR3lpWHd0ckhoMlM4dk9pRkhtQzdvLXp1N1FlNFFzYkZaSGtTcUNKbjdkMzN2Rk9sVURWclNVNkRrcFk3ODA2alhkNklpYURSZVdWWkFvLVAzV0pvcVFaZDNNRnRfUURLUk9mLUZudjEtZ2swZUVMVzJlcFdjYm9TZDU0V0VReGtiTzJzSG05VHNlSmI1VUxoZWNVUmxXaWNIdUJYemxaZXJsc3diVEhlSzdibDQtSHVxTjBHMDdQQjd4Z3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-06-19-001",
     "date": "2026-06-19",
     "companies": [
@@ -1113,6 +1474,24 @@
     ]
   },
   {
+    "id": "unknown-2026-06-19-012",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "5 Reasons Why People Ditch Their Mini LED Monitors - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOSDVTTjc2UzU0VmFrbG56c3pKNHJLaGNrV3hVTXhza2c1cGkxWHprY0FEX0Q3LUlJOGVZMktHNXJ4UTZlQXFqR1VGVWhpVXp0aTJnMjk3VDVrRC1Xc2tyNmExdmdwc0ZEM29kMTZXdW",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSDVTTjc2UzU0VmFrbG56c3pKNHJLaGNrV3hVTXhza2c1cGkxWHprY0FEX0Q3LUlJOGVZMktHNXJ4UTZlQXFqR1VGVWhpVXp0aTJnMjk3VDVrRC1Xc2tyNmExdmdwc0ZEM29kMTZXdWl6VWF3Rlp1djQ4VlhFeVBXcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-06-18-001",
     "date": "2026-06-18",
     "companies": [
@@ -1255,6 +1634,26 @@
       {
         "name": "boe",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORjkxR0prbXVlcTV3azdGdmVaZ2l1d240MGFWR3FNQ1ZaSlkyX2RDeFk2RGQ5dHlMYWNCbl9jUjNFdTdyYkdDSmFrblZkd21XUXdPeGtRRFJoRGl2bU1hcU9keFhpUW01RHEyTlBtS05Bc2Vqb0ktLXppVkRMRFFjVTk2UlQyUldoS3M3eFlGQ1JHX3hVMnhqS3RNRHZ5LU0zQXJCLVNqbWVuNjlkVWppZjN0N0VDOEpRdVJqY21iWEpyLW5OaWVpSUtrVzZ2SXdRYnNNbjhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-18-009",
+    "date": "2026-06-18",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED vs. non-OLED: Choosing the right monitor - samsung.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPMVFqM2FUbW55T1ZaS3VhMmROR05qc1B2Z095SWxid3BVdmgxR3p6Qmo0dVdDY0VBWGRlZlJzUnRwNW51TGF0d1BWcUV5aUJ5SnhoQTRYYXF4d0VKc1k2MHdtWjNFOUR1LXJkbk5NTE",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMVFqM2FUbW55T1ZaS3VhMmROR05qc1B2Z095SWxid3BVdmgxR3p6Qmo0dVdDY0VBWGRlZlJzUnRwNW51TGF0d1BWcUV5aUJ5SnhoQTRYYXF4d0VKc1k2MHdtWjNFOUR1LXJkbk5NTEkxaEZwSklDWjJHbm85RVMyMHRseVJvbm10WVIxdA?oc=5",
         "type": "rss"
       }
     ]
@@ -1575,6 +1974,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcl9IV2pXeTU5RDRETVZGaWNhdGNvVXMzZy02WkhTS3BhZWxPSk1sNlh4VzA0Q2pGWHZWUk1ST0d0eDM2SkJaTmtZM3lCYkhiZUtjWVUxLVRqSVFfa3VlMkhBbUEtZ1ZxRlVNWUxVeWZQYy1KNDBNM1N6eUMwcVJKSnQzSnBJYkcybjRkWnkxS1EtMzM2U0w2cmNBbGd2SzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-06-17-018",
+    "date": "2026-06-17",
+    "companies": [
+      "auo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why AUO’s V1 mini-LED gaming monitor quietly stands out on the desktop - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0dJWkpqX0xvc25mZVp1TW5HVXl5b3hmSUYwZFFXZEQ0YzgyOGwyMzFEb0xLb0VMUFJ0aEtPU3NJQUVJVVdyWnlQcnBmVkd5bG1GcXVuQ1N3ZkltdXA3YVFnSk9qNnpWX1BUZ18xYV",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0dJWkpqX0xvc25mZVp1TW5HVXl5b3hmSUYwZFFXZEQ0YzgyOGwyMzFEb0xLb0VMUFJ0aEtPU3NJQUVJVVdyWnlQcnBmVkd5bG1GcXVuQ1N3ZkltdXA3YVFnSk9qNnpWX1BUZ18xYVVhWHZnckZPQkl6Y3FhYXNqekk0LTZJRkI2UkpESzlJZlhubzhLWGozWlhYNFhpMDhTRk4yTXg5S013VkI2bUcwT2pLclFGVksydHdKVDBNY0tzWm1KSmlLWg?oc=5",
         "type": "rss"
       }
     ]
