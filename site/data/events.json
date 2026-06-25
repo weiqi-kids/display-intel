@@ -1,5 +1,214 @@
 [
   {
+    "id": "lg_display-2026-06-25-001",
+    "date": "2026-06-25",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Launches Job Training Program for Unemployed Young Adults - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51aUY5VHpZMlRLQkNYVjVQc1VaSXBtZm53cDEwdjU1TWdZVThMNmR5RjA5VWZJUlRMNFNHTXVtcTlpQ3BkT0lqZ3Z4ZGdPaUJaRTJiVTdkbnlUellkTUg3WVBwZDV6UXM?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51aUY5VHpZMlRLQkNYVjVQc1VaSXBtZm53cDEwdjU1TWdZVThMNmR5RjA5VWZJUlRMNFNHTXVtcTlpQ3BkT0lqZ3Z4ZGdPaUJaRTJiVTdkbnlUellkTUg3WVBwZDV6UXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-25-002",
+    "date": "2026-06-25",
+    "companies": [
+      "lg_display",
+      "lg_elec",
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "ASUS ROG OLED Monitors: LG Display to join BOE in 24.5-inch panels - igor´sLAB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxORk9VRFVLVlVIeTJSMHNMY2FrQmpqMS1WSkxmd1RqRFE2blRPOEFJLUlwNkFUeFpDTUQzcjY2T0E0cm5FWnBuNmQ1SjV4UnB6OU9Ga185bGxoekM1eGFxekM5NVdVaVNnYUJoa0RKMH",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORk9VRFVLVlVIeTJSMHNMY2FrQmpqMS1WSkxmd1RqRFE2blRPOEFJLUlwNkFUeFpDTUQzcjY2T0E0cm5FWnBuNmQ1SjV4UnB6OU9Ga185bGxoekM1eGFxekM5NVdVaVNnYUJoa0RKMHQzVHRwRnp2bDFyNnBCcFZMMzI0UEZDMHRr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-25-003",
+    "date": "2026-06-25",
+    "companies": [
+      "lg_display",
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display, LG Display Secure Approval for iPhone 18 OLED Modules as Pricing Talks Near End - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53blRxaWdsLXZVRGZ1V283bXZWaURwRjhOeXZqZkFZTnpKOWdBNDZHYzZlcXRyRnBDcnNqZkE4MndMb2wyRnRxWkVZcGx4LUpuSDhxdkNHQVNpTG04SENnVGU4cTA3ZWc?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53blRxaWdsLXZVRGZ1V283bXZWaURwRjhOeXZqZkFZTnpKOWdBNDZHYzZlcXRyRnBDcnNqZkE4MndMb2wyRnRxWkVZcGx4LUpuSDhxdkNHQVNpTG04SENnVGU4cTA3ZWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-25-004",
+    "date": "2026-06-25",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Finding Your Voice Anywhere: The Tech Behind Galaxy Buds4 Pro’s Crystal-Clear Calls",
+    "summary": "For anyone who relies on wireless earbuds on a daily basis, struggling to be heard on a phone call can be an all-too-familiar frustration. Whether you’re navigating a busy street or just dealing with ",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/finding-your-voice-anywhere-the-tech-behindgalaxy-buds4-pros-crystal-clear-calls",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-25-005",
+    "date": "2026-06-25",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Korea launches a project to develop a perovskite-QD OLED microdisplay platform",
+    "summary": "<p>The Korean Government is launching a new ecosystem technology challenge project, with an aim to advance the use of <a href=\"https://www.perovskite-info.com/\">perovskite materials</a> in the microdi",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/korea-launches-project-develop-perovskite-qd-oled-microdisplay-platform",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-25-006",
+    "date": "2026-06-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "IntelliEPI targets record 2026 revenue amid InP substrate shortages",
+    "summary": "Compound semiconductor epitaxial wafer maker IntelliEPI said AI-driven high-speed transmission demand continues to lift the indium phosphide (InP) market, and it expects revenue to keep rising in 2026",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260624PD240/inp-intelliepi-2026-substrate-wafer.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-25-007",
+    "date": "2026-06-25",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Samsung chairman reviews HBM4 supply as revenue tops US$1 billion",
+    "summary": "<p class=\"P1\" data-start=\"716\" data-end=\"1003\">Samsung Electronics chairman Lee Jae-yong visited the company's Cheonan plant on June 23 to review high-bandwidth memory production operations, as cumula",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260624VL220/samsung-hbm-chairman-revenue-hbm4.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-25-008",
+    "date": "2026-06-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Sigurd expands AI testing capacity as demand keeps facilities full",
+    "summary": "Sigurd is expanding testing and packaging capacity as AI demand and steady customer orders keep its facilities fully utilized. For global readers, the move underscores how supply chains for silicon ph",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260624PD217/sigurd-capacity-testing-demand-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-25-009",
+    "date": "2026-06-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Calin Tech eyes low-altitude economy opportunities, expands auto customer base in Europe, US, and Asia",
+    "summary": "Optical lens manufacturer Calin Technology stated at its shareholders' meeting on June 24 that global market growth has been weakened by economic volatility and US tariff policies. It reported consoli",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260625PD221/calin-optical-lens-revenue-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-25-010",
+    "date": "2026-06-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Qualcomm Forecasts Billions in Additional Revenue from New Data Center Solutions",
+    "summary": "\n\t\t\t\t\t\t<p>Qualcomm takes the data center by storm with networking, AI accelerators, and both custom and standard CPUs.</p>\n<p>The post <a href=\"https://www.eetimes.com/qualcomm-forecasts-billions-in-a",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/qualcomm-forecasts-billions-in-additional-revenue-from-new-data-center-solutions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-25-011",
+    "date": "2026-06-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Executive Outlook: Agentic AI’s Impact On Chip Design",
+    "summary": "<p>Can engineers trust AI to get everything right in semiconductor design and verification?</p>\n<p>The post <a href=\"https://semiengineering.com/executive-outlook-agentic-ais-impact-on-chip-design/\">E",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/executive-outlook-agentic-ais-impact-on-chip-design/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_display-2026-06-24-001",
     "date": "2026-06-24",
     "companies": [
@@ -222,6 +431,257 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPV2Y3THc0SkQ1TE5iQ1lrbmRlTnUtMXdZT1UzY19TMHJYaTY0dmZuYXNWanNOVUtFRUJuTzhDdGQ5N01YRU9zdm1Rajh0bUNlelZ6dUdpTzdkQXVlS2w5Vy1TN2hyWGRNWGdIMlQtdUhSRk5KWUNxY1otMDdma3lIeTRkbjBCcURzN2FMMTBaeXIyM19iWGpvZHZRZjlsMDZtTG9FWm1ZbldFNUJoMkFJZ1B5ZHdnZjY5RFhobk1xN2FaVl94TXVuVDdNMHRWOGQ1VHFQcVZnNDBzQlVuQTdPSXF1NjRCMVh2Mmg4RDJCaTdnXzFHTU5IbjBuZW7SAYICQVVfeXFMT3AzNmxKemxfMDhpRXkxQ3FWaTJwaWhxOWFtQjhoR0N4Y01Ub1o1bzVUTjR4TnAtQ0J0Zmx6ZlpyMlYwRjRhaVJGdjdxVmx6WlRXRmNJV2NlckJkN1JiblRmZngzN05hWjJKa3RRMFVHUVVsanllaEFpM2R4c2s3THZXcEY3Yi13eEQwTFRVOFF5V3JMMzlYel9iMXhqSE11d0ZtNXNmYWlqbEJ2a18wUDZ6OGxvTDMtUVJUNG1PemY2eGxsc05IMll2M28yQW5IWWlWOTZvUjBJNnh0Sk52THdFZzVwUmpQSVZ1ZjFuQ05sb3FMVzVEN0ZtZWpMU0pPMG1n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-24-013",
+    "date": "2026-06-24",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Incorporated Announces Quarterly Dividend, Payable on September 29, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPOEdKTEg0Yk50VjIwbklSZ3hDNWtkV19qTkdDTlRPLWxDMklGWW1UdzVLd2FsMkg1dUFvaUptMklnYUhjSTRkMWk3OFpCbV81MGVKZXFNRzNpUk1VVjFlUW16MjM1aEtCNzdHU3VIZE",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOEdKTEg0Yk50VjIwbklSZ3hDNWtkV19qTkdDTlRPLWxDMklGWW1UdzVLd2FsMkg1dUFvaUptMklnYUhjSTRkMWk3OFpCbV81MGVKZXFNRzNpUk1VVjFlUW16MjM1aEtCNzdHU3VIZEtGLWFXZXZxTG1Qdm5rbGEtNDlYX0d5NGpPalpNRVhhNjZqMldmQzduX0tKQVVqb3hfOUZUdzl1dXg1cGJCNzNSblFMXzNLdl84SmRFWXJsOWZZLUJ5RmNKMXJyOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-24-014",
+    "date": "2026-06-24",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Inc Stock (GLW) Moved Up by 4.19% on Jun 24: A Full Analysis - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPcVg0N3BQWGUwODZfQlNuM0V1LUxPRFNuR1ZXSWxrNjZDRWJVUXBwSDlfUTVmdHl4cGJfcE90V2R3NVo5ZE01b1l3ejdLZlVLRXdkT1FZaTc1dml0ckplUUdhV2xuVjJscG1kRFVOcD",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcVg0N3BQWGUwODZfQlNuM0V1LUxPRFNuR1ZXSWxrNjZDRWJVUXBwSDlfUTVmdHl4cGJfcE90V2R3NVo5ZE01b1l3ejdLZlVLRXdkT1FZaTc1dml0ckplUUdhV2xuVjJscG1kRFVOcDkzY0NBcndWRExabmxYNlFuWmxKZTA5NmptT2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-24-015",
+    "date": "2026-06-24",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "How Corning’s (GLW) Amazon Agreement Turns AI Data-Center Fiber Demand Into Domestic Capacity Expansion - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMlBGUGhGZjRtWkNzYkpEZEpnWWJ1VW9JN3l5czdQeWxHdk9nMG5NY19mRkpYVzZzNlNTVmFZV1J2NVdnXzM2Y0lPc09LN2dOOTJkWGxWa0VnS2dyMVc2dW1TZnBNaVVJelVHQVBMX2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMlBGUGhGZjRtWkNzYkpEZEpnWWJ1VW9JN3l5czdQeWxHdk9nMG5NY19mRkpYVzZzNlNTVmFZV1J2NVdnXzM2Y0lPc09LN2dOOTJkWGxWa0VnS2dyMVc2dW1TZnBNaVVJelVHQVBMX21SZ0gzTGo5ZWhTdkhrTzFEZlNBMGR4NjhxRjdj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-06-24-016",
+    "date": "2026-06-24",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Big South Conference and Canon U.S.A. Extend Marketing Partnership - Big South Conference",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYjUwaXJsY3VuRGg3SDVuMFFOQk5oYTdDVl9BZkZSQ3VGXzFHcnAwLW90WDNUaWZwQUpiSGx2Y3NJcVJkWi11SEcxUFByMV8yQUJOY3JKdU9qT3l5Mjl6T3J1RFJSa0ZERkpVM2xoS3",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYjUwaXJsY3VuRGg3SDVuMFFOQk5oYTdDVl9BZkZSQ3VGXzFHcnAwLW90WDNUaWZwQUpiSGx2Y3NJcVJkWi11SEcxUFByMV8yQUJOY3JKdU9qT3l5Mjl6T3J1RFJSa0ZERkpVM2xoS3pwN0ZVS0d2b1Y5cENwelJUVDloUTBWZnZzeXlBNUtpZXVELURRbmNPSk1YN0pyU25ydHVxRWY0TW9BRFcwZm9BVWlHdmtLTk9QLU1F?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-06-24-017",
+    "date": "2026-06-24",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Just Four Days Till Canon Inc. (TSE:7751) Will Be Trading Ex-Dividend - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOelBTT1hCOW9Ea1NMTGdvblVuOHQtYVplTGNod3U4YWNqZ1pYdDFxRmdTN09qS2JqRENleWVZQ3cxak9pWUxrMGU3ODAwS3BqTFhueW83eFJmcjVqOHQ0TmpZWVdQV2dVUzl5VnJNdD",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOelBTT1hCOW9Ea1NMTGdvblVuOHQtYVplTGNod3U4YWNqZ1pYdDFxRmdTN09qS2JqRENleWVZQ3cxak9pWUxrMGU3ODAwS3BqTFhueW83eFJmcjVqOHQ0TmpZWVdQV2dVUzl5VnJNdDBkUmxpLTNHdmZNOWR3SXR1ZmlRU1pNYzVfRTF4VzNnN1dPLWVRZXRZT2x1aTBqdm5NQ18wd2hjZ0ltZ2NmdTJqZXlxMHVvQWNPZWVuU29jazA3REIyZ0xv0gHHAUFVX3lxTE56UFNPWEI5b0RrU0xMZ29uVW44dC1hWmVMY2h3dThhY2pnWlh0MXFGZ1M3T2pLYmpEQ2V5ZVlDdzFqT2lZTGswZTc4MDBLcGpMWG55bzd4UmZyNWo4dDROallZV1BXZ1VTOXlWck10MGRSbGktM0d2Zk05ZHdJdHVmaVFTWk1jNV9FMXhXM2c3V08tZVFldFlPbHVpMGp2bk1DXzB3aGNnSW1nY2Z1MmpleXEwdW9BY09lZW5Tb2NrMDdEQjJnTG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-06-24-018",
+    "date": "2026-06-24",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "United Microelectronics Adjusts Dividend and Books Gain on Novatek Disposal as Profits Surge - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxNTC1YNmlfSXZCTkdkdXNOTmhTeTdtM29hWUl5X0gwQnpsSnlzOFVFUzRURW5UcW1ibDdOUkFHTk5QcHFKcVZyVWRZZjRnQlBDUFo0TFU3X21sckZjYkZSRG84VnQxT0hiQmExdS14eT",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTC1YNmlfSXZCTkdkdXNOTmhTeTdtM29hWUl5X0gwQnpsSnlzOFVFUzRURW5UcW1ibDdOUkFHTk5QcHFKcVZyVWRZZjRnQlBDUFo0TFU3X21sckZjYkZSRG84VnQxT0hiQmExdS14eTM5NlEydzN3WDctcjhlazlLT1JQNS1sdXEwS2ljc0FIaTZRbVBKR1NUQzlFUUFwNkNRY2ZNcXkzOVEyQnRidGxLd1h2RWQ3OUtVdkxIUW56X3hVWXRNN2lNRWJNRlNjcGZHV01kMWdXUkx4UE96Y1lhekJraTJXLWFsUFhrc0dReHAtV0dsTDRuNUMwN3dJMnNPWEE4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-24-019",
+    "date": "2026-06-24",
+    "companies": [
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung and LG Reportedly Start OLED Panel Production for Apple’s 2026 Lineup - The Mac Observer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGNBcWJFc0hrNlFaU3llQUR3bFBOZmxkeEJFM3dMaTZtaVNQNmdFc3VYR1BfdUh0UHFiaFlSczZCNTNuRTZsOU16QS10Zjc1d25ucVFORlNaUjVuZWlESXR1Qjd4SEVnLXBpSm1iUU",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGNBcWJFc0hrNlFaU3llQUR3bFBOZmxkeEJFM3dMaTZtaVNQNmdFc3VYR1BfdUh0UHFiaFlSczZCNTNuRTZsOU16QS10Zjc1d25ucVFORlNaUjVuZWlESXR1Qjd4SEVnLXBpSm1iUUhzaHdCT2wzVkNScHktRlBVMlQ1ZXlrVVFyM21XSnZfRVFJcHI1c1pIZFFDNmFrZjVkMXVNR0NOdEp4REJDQWRV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-020",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Researchers develop a unified framework to diagnose what really limits blue PHOLED lifetime",
+    "summary": "<p>Researchers from Kyung Hee University published a new study in Advanced Functional Materials that studies the the causses of the short operational lifetime of blue phosphorescent OLEDs.&nbsp;</p><i",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/researchers-develop-unified-framework-diagnose-what-really-limits-blue-pholed",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-24-021",
+    "date": "2026-06-24",
+    "companies": [
+      "samsung_elec",
+      "lg_elec",
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "For its new 2026 products, Apple to rely exclusively on AMOLEDs from Samsung and LG as BOE fails to enter its supply chain",
+    "summary": "<p>Towards the end of 2025 <a href=\"https://www.oled-info.com/boe-halted-some-its-iphone-amoled-production-its-b11-fab-december-it-suffers\">BOE suffered from disruptions at its B11 AMOLED production l",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/its-new-2026-products-apple-rely-exclusively-amoleds-samsung-and-lg-boe-fails",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-24-022",
+    "date": "2026-06-24",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display starts producing foldable OLEDs for Apple's first foldable iPhone",
+    "summary": "<p>According to reports from Korea, Samsung Display has started to mass produce foldable OLED panels to Apple's first foldable iPhone. SDC is producing the foldable panels in its Asan, Korea hub, whil",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-starts-producing-foldable-oleds-apples-first-foldable-iphone",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-24-023",
+    "date": "2026-06-24",
+    "companies": [
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "UBI Research: the OLED material market grew 7% in 2025 to $2.27 billion, but will slow down in 2026",
+    "summary": "<p>UBI Research says that the OLED stack materials market grew 7.1% in 2025, and reached $2.277 billion. Leading material providers are Universal Display, Qnity (DuPont), LG Chem, Samsung SDI, Merck, ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/ubi-research-oled-material-market-grew-7-2025-227-billion-will-slow-down-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-24-024",
+    "date": "2026-06-24",
+    "companies": [
+      "tcl",
+      "samsung_elec",
+      "sony"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Prime Day TV deals good enough to binge on: Shop Samsung, TCL, Sony, more - New York Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFB3SGc0WmF2aVNDVkk1UnJlSjBwcWNVUTNLblJwZjk4b0pQZFE5RThjd2N4ME0xZjl5T2NlbEVOdDNvZklBV2h6XzZnNTVqX0NtdkVtR1labVhHQkFlaGFVQTVTQ01CRnVCeTVHNlY4aV",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3SGc0WmF2aVNDVkk1UnJlSjBwcWNVUTNLblJwZjk4b0pQZFE5RThjd2N4ME0xZjl5T2NlbEVOdDNvZklBV2h6XzZnNTVqX0NtdkVtR1labVhHQkFlaGFVQTVTQ01CRnVCeTVHNlY4aVdFZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-025",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "4 Reasons Mini LED Beats OLED (And 4 Ways OLED Still Wins) - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZYkVKLTgwdEtjbTVtLUtKbXF3TzJTTXc0VE82TndKWF9MVWc0UXlSS19tZkZSVnJPOWRqV09hWGxsaW1rQnZUU2Nhbk5wc0duQ3dZRUtjUHV1MERTMThuclFDX1JIOHhvNWdfTUVxS1",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZYkVKLTgwdEtjbTVtLUtKbXF3TzJTTXc0VE82TndKWF9MVWc0UXlSS19tZkZSVnJPOWRqV09hWGxsaW1rQnZUU2Nhbk5wc0duQ3dZRUtjUHV1MERTMThuclFDX1JIOHhvNWdfTUVxS1o2WGxLSXh5QVNjeDIzUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -523,6 +983,26 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMzBNOHZPXzZ0QS1uWEFreHp5VEpyV09CRzJPWGN3Zk45V1ppTVd6d3A1STU1bGpvQVVrTXk1UXFfRVFNSFl5VGtBVmk3ZWZKbnlxMDJ5d2o3MFBxU1VXYksyTjdYN3R4bTczVFk5b1B1SWJhNlRSMi05TlhNZWxtTWc0UkNGYjEyR2RIR0JXX0p5eDR6THdtZGlqWDBpUk1jbDg3V1NwWUhMX3R0TkZONmhaQm9rMXZ2VlFabGRMNHVQU1AyX3F0TlBPM0hrU3YxNXJ1eQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-017",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Omdia: the OLED monitor market grew 74% in 2025, and will continue to grow 30% in 2026",
+    "summary": "<p>According to Omdia, the OLED monitor market grew by 74% in 2024 by revenues, generating around $2.8 billion (up from $1.6 billion in 2024). Omdia believes the market will continue to grow and reach",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/omdia-oled-monitor-market-grew-74-2025-and-will-continue-grow-30-2026",
         "type": "rss"
       }
     ]
@@ -988,6 +1468,27 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnJHYzZUOTRhZWJ3aExVM2Zfd2FzQ1k2TVlETGEzc3c5Ny1ZSVVMVW55V1RjRU1wTjhMNWIxbzR6UnJSZkRlQ0oyRlVfLW9FWG1qdkhSa0hpbUYzTUtiTF9BNV9hNnBXS2g1cENySTV4aU5DYVBYQnowWF9uZ3pPb0F3ckNoYXJiRHJqZmFLR200eWREWnc1c0dZLWZQT3JiS3hWZTlRbl9YOG1BUkYzbnk4MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-22-024",
+    "date": "2026-06-22",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display OLED becomes world's first to achieve \"Perfect Color/Brightness\" certification - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNazJpUFhZdjdtZUVsc3M2U1R2ZFc0UGQ2QV84WVpCX3lRVV9LM0ZLVEZ2REJDVmJpTlJubXdQZ3NXeGxwclAybkxxTXYxTTRHWHFSUERocU9OVDcxUmE1NXR1Nmk4Z3FwMG1jMmZ1NE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNazJpUFhZdjdtZUVsc3M2U1R2ZFc0UGQ2QV84WVpCX3lRVV9LM0ZLVEZ2REJDVmJpTlJubXdQZ3NXeGxwclAybkxxTXYxTTRHWHFSUERocU9OVDcxUmE1NXR1Nmk4Z3FwMG1jMmZ1NEVReG1WN2pwUGNuVGVoUHNQWkpwSlpUM3R2T2NPTXBTdmxmYl91ZnBsd3VGSXhSNnJJcVNFdmw4eS1zLUxUSHJaRXp1bHh5WjRhVmdVQU54WGJuMnZnSWhwNldmaw?oc=5",
         "type": "rss"
       }
     ]
@@ -1487,6 +1988,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSDVTTjc2UzU0VmFrbG56c3pKNHJLaGNrV3hVTXhza2c1cGkxWHprY0FEX0Q3LUlJOGVZMktHNXJ4UTZlQXFqR1VGVWhpVXp0aTJnMjk3VDVrRC1Xc2tyNmExdmdwc0ZEM29kMTZXdWl6VWF3Rlp1djQ4VlhFeVBXcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-19-013",
+    "date": "2026-06-19",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Think OLED monitors or laptops are too expensive? China's huge OLED screen factory is now rolling at full speed, and that's great news for pricing - TechRadar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxQNjhtUnktTzFDbktvZDNwWlVjV2dlQ0NialRBNWFlLS05c19rVnJqUnU4LTAzT1Z1TUtWQ1VWVU9EQ0ZhMGctM0hvckRzZHVET3Z3X3hSOUMzTHlLTGVZZzh3ejh6M1VRRXFzMFZUVD",
+    "sources": [
+      {
+        "name": "google_news_display",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNjhtUnktTzFDbktvZDNwWlVjV2dlQ0NialRBNWFlLS05c19rVnJqUnU4LTAzT1Z1TUtWQ1VWVU9EQ0ZhMGctM0hvckRzZHVET3Z3X3hSOUMzTHlLTGVZZzh3ejh6M1VRRXFzMFZUVDZPUUFMNjVMMHFvWDlTOWExZVlreVRWdHdhWWFPZW1vTFFWRW5xTFNSUlZUSE9yQU9uY2JuZXgwNjVTSl9rMVVwU0pmNmtranVtaFNoVkgtdHJ3eDhuOHZ2cGliTnZXWE9FQk93SERaV1VSTG5vZHNsNFVrTlAwQzVQTUIxMk1qVy1yajk5Z3YybDY1MUtVdEdFcW1kQkEzRG1BYV96Qm1ZcWZR?oc=5",
         "type": "rss"
       }
     ]

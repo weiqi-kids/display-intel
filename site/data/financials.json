@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-24T10:50:11.429465Z",
-  "quarter": "2025-09-30, 2025-12-31, 2026-03-31",
+  "updated_at": "2026-06-25T10:43:22.363909Z",
+  "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
       "id": "applied_materials",
@@ -126,17 +126,17 @@
       "name": "Japan Display",
       "ticker": "6740.T",
       "currency": "JPY",
-      "ar": 15962000000,
-      "ar_prev": 22800000000,
-      "ar_qoq": "-30%",
+      "ar": 17902000000,
+      "ar_prev": 15962000000,
+      "ar_qoq": "+12%",
       "ar_period": "QoQ",
-      "inventory": 39580000000,
-      "inv_prev": 44074000000,
-      "inv_qoq": "-10%",
+      "inventory": 27466000000,
+      "inv_prev": 39580000000,
+      "inv_qoq": "-31%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-09-30"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "lg_display",

@@ -1,0 +1,250 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T10:43:27.287866Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-06-25-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Launches Job Training Program for Unemployed Young Adults - thelec.net",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51aUY5VHpZMlRLQkNYVjVQc1VaSXBtZm53cDEwdjU1TWdZVThMNmR5RjA5VWZJUlRMNFNHTXVtcTlpQ3BkT0lqZ3Z4ZGdPaUJaRTJiVTdkbnlUellkTUg3WVBwZDV6UXM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_display-2026-06-25-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "ASUS ROG OLED Monitors: LG Display to join BOE in 24.5-inch panels - igor´sLAB",
+      "companies": [
+        "lg_display",
+        "lg_elec",
+        "boe"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display",
+          "boe"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORk9VRFVLVlVIeTJSMHNMY2FrQmpqMS1WSkxmd1RqRFE2blRPOEFJLUlwNkFUeFpDTUQzcjY2T0E0cm5FWnBuNmQ1SjV4UnB6OU9Ga185bGxoekM1eGFxekM5NVdVaVNnYUJoa0RKMHQzVHRwRnp2bDFyNnBCcFZMMzI0UEZDMHRr?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_display-2026-06-25-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung Display, LG Display Secure Approval for iPhone 18 OLED Modules as Pricing Talks Near End - thelec.net",
+      "companies": [
+        "lg_display",
+        "lg_elec",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec",
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53blRxaWdsLXZVRGZ1V283bXZWaURwRjhOeXZqZkFZTnpKOWdBNDZHYzZlcXRyRnBDcnNqZkE4MndMb2wyRnRxWkVZcGx4LUpuSDhxdkNHQVNpTG04SENnVGU4cTA3ZWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-25-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IntelliEPI targets record 2026 revenue amid InP substrate shortages",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://www.digitimes.com/news/a20260624PD240/inp-intelliepi-2026-substrate-wafer.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-06-25-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Samsung chairman reviews HBM4 supply as revenue tops US$1 billion",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260624VL220/samsung-hbm-chairman-revenue-hbm4.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lg_display",
+        "count": 3
+      },
+      {
+        "id": "lg_elec",
+        "count": 3
+      },
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "oled_penetration",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 381,
+    "dup_title": 115,
+    "too_old": 175,
+    "gate1_blocked": 46,
+    "gate2_blocked": 18,
+    "passed": 27,
+    "pass_rate": "10.2%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "Here is why Corning Incorporated (GLW) is among the Most Overvalued Quantum Computing Stocks Accordi",
+      "Corning Incorporated (GLW) Stock Price Today - MEXC Exchange",
+      "Corning Incorporated’s Stock Price Soars to $209.83, Marking a Robust 7.65% Increase - Smartkarma",
+      "Corning Rides on Strong Operating Margin Growth: Will it Sustain? - TradingView",
+      "Corning Inc Stock (GLW) Moved Up by 4.32% on Jun 22: What Signal Does It Send? - TradingKey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為LGD、LG電子、三星電子相關動態：「LG Display Launches Job Training Program for Unemployed Y...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display Launches Job Training Program for Unemployed Young Adults - thelec...",
+        "level": "red"
+      },
+      {
+        "text": "ASUS ROG OLED Monitors: LG Display to join BOE in 24.5-inch panels - igor´sLAB（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
