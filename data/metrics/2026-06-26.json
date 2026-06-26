@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-26",
+  "total_events": 11,
+  "by_company": {
+    "himax": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jdi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "automotive_display": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "it_panel_demand": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,5 +1,203 @@
 [
   {
+    "id": "himax-2026-06-26-001",
+    "date": "2026-06-26",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies, Inc. Sponsored ADR Actuals & Estimates (NASDAQ:HIMX) - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNaW5ybTV3Wlg4UHJVZmtaa1hXVGkwX2pqWnhJWnFJVE1idjRhUHUxVTB2bk9uN2hhMk50clpwellEOUF4cGhVOGlzZXo1M3R5aGNTQmlwMk82NVFJVUdIdjI1bm5hNEtsRW9WVkRROD",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaW5ybTV3Wlg4UHJVZmtaa1hXVGkwX2pqWnhJWnFJVE1idjRhUHUxVTB2bk9uN2hhMk50clpwellEOUF4cGhVOGlzZXo1M3R5aGNTQmlwMk82NVFJVUdIdjI1bm5hNEtsRW9WVkRRODFiOGV6cEZIZzZhRVpVQVRoU3hhajFSYkU4WHhFRVZ6ZU56RExJX2VMQTNrMTE1b28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-06-26-002",
+    "date": "2026-06-26",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Japan Display Inc. Actuals & Estimates (TSE:6740) - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOR3NVcW9IczFjVFk5WWR0X01OSkdTUW9PT1cxWF9sX2dySHRzNW83endNOS1LR2EzbDB0TWJrUU9RcndqRjNuQURuc1JrR3ZVZFVrVHdka1VJY3Q0STRhSW1vak85NmRJazVsak5pcT",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR3NVcW9IczFjVFk5WWR0X01OSkdTUW9PT1cxWF9sX2dySHRzNW83endNOS1LR2EzbDB0TWJrUU9RcndqRjNuQURuc1JrR3ZVZFVrVHdka1VJY3Q0STRhSW1vak85NmRJazVsak5pcTJQLXotbVNnVDhaRzF0S1hjZy1R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-26-003",
+    "date": "2026-06-26",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung SDI targets US battery supply chains with US$20M Forge Nano investment",
+    "summary": "Samsung SDI, a battery and electronic materials manufacturer, has entered an agreement to help US-based Forge Nano build a 3 GWh per year battery manufacturing site in Morrisville, North Carolina. The",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260626VL212/samsung-sdi-battery-manufacturing-materials-military-usa.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-004",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "negative",
+    "title": "SK Hynix fluorine leaks trigger safety inspections at 25 South Korean chip plants",
+    "summary": "South Korea's Ministry of Employment and Labor has launched chemical safety inspections at 25 semiconductor manufacturers, including SK Hynix, after a series of fluorine gas leaks at chip plants raise",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260626PD222/sk-hynix-industrial-fire-economy-semiconductor-industry.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-005",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiwan IPC maker IEI Integration's margin fell to 28% in Q1, but rebound is coming",
+    "summary": "IEI Integration said its first-quarter margin was squeezed by higher component costs and a changing product mix, but it expects a second-quarter rebound as high-end video conferencing shipments ramp u",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260626PD212/iei-integration-high-end-production-component-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-006",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "it_panel_demand"
+    ],
+    "impact": "negative",
+    "title": "Acer's distribution arm bets on MacBook Neo, software to offset weak PC demand",
+    "summary": "<p class=\"P1\" data-start=\"0\" data-end=\"176\">Acer channel arm Weblink International remains upbeat on the second half of 2026, even as the PC industry looks increasingly likely to see weaker demand tha",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260626PD223/acer-pc-weblink-growth-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-26-007",
+    "date": "2026-06-26",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung eyes Gwangju chip site as SK Hynix weighs regional and overseas options",
+    "summary": "<p class=\"P1\" data-start=\"220\" data-end=\"508\">South Korea's plan to push semiconductor investment beyond the greater Seoul area is taking clearer shape, with Samsung Electronics reportedly moving clos",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260626VL208/samsung-investment-sk-hynix-government-industrial.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-008",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Seres' US$25bn wipeout tests the price of Huawei's EV halo",
+    "summary": "Seres Group, once the clearest listed proxy for Huawei's EV ambitions, has lost more than CNY180 billion (US$25 billion) in A-share market value from its peak, despite strong sales and profit.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260626VL202/seres-huawei-price-market-2025.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-009",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "negative",
+    "title": "Taiwan to draft new drone budget after defense bill cuts",
+    "summary": "Taiwan's Executive Yuan has decided to draft a separate special bill to support drone development and procurement after the Legislative Yuan cut relevant items from the NT$1.25 trillion (approx. US$39",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260624PD233/taiwan-drone-national-defense-budget-supply-chain.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-26-010",
+    "date": "2026-06-26",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung's reported US$648 billion plan shifts focus to South Korea's chip belt",
+    "summary": "<p class=\"P1\" data-start=\"116\" data-end=\"464\">Samsung Group is expected to announce a domestic investment plan worth more than KRW1,000 trillion (approx. US$648 billion) on June 29, when South Korean ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260626VL207/samsung-south-korea-data-investment-production-region.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-011",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Exclusive: SK Hynix races to build Yongin memory megasite as supply crunch deepens",
+    "summary": "<p class=\"P1\" data-start=\"574\" data-end=\"848\">The global memory market is facing a structural supply-demand imbalance that shows little sign of easing. Micron's stronger-than-expected quarterly result",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260626PD209/sk-hynix-memory-chips-fab-capacity-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_display-2026-06-25-001",
     "date": "2026-06-25",
     "companies": [
@@ -204,6 +402,233 @@
       {
         "name": "semi_engineering",
         "url": "https://semiengineering.com/executive-outlook-agentic-ais-impact-on-chip-design/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-25-012",
+    "date": "2026-06-25",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Inc. honors retirees who started 50 and 75 years ago - WENY News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMU9ZZzBjcUZxdlVpa29ITWd3Slo1U2tDdmtIaDhFU2hSNTB0VGdYNXpkaG9OSGdJZUt4SUVucGRhSDQxczJvSEhfYTVWVURXQXNRcU1IMHMwV1FjWVBJSmdhX2NZSExOMGtKNUlMNm",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMU9ZZzBjcUZxdlVpa29ITWd3Slo1U2tDdmtIaDhFU2hSNTB0VGdYNXpkaG9OSGdJZUt4SUVucGRhSDQxczJvSEhfYTVWVURXQXNRcU1IMHMwV1FjWVBJSmdhX2NZSExOMGtKNUlMNmgzeG5qU3FnOGdnTngwWVYwYTB3QlpzTVlZWGZBNU1QTUhXNUZ5bG9FSWRQdWtzNHdzTXc1OUlyY21sQm56NGJNcktMcGI4T2s4WVlqRE5WdFpmUHFtangtYncxQ3JJM0I3Tjk1OG5kYWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-25-013",
+    "date": "2026-06-25",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning GLW Stock Jumps As Amazon AI Data Center Deal Lifts Outlook - StocksToTrade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE94dVFPZ3AwUjJRWFlXVzc5WG5oLWtwejdmTG9qelBtNncyV2Z3Nm1SSTFZazBwTkxGakpVTTQzVUlFcC1oQjhMRzFlR0JSYXJ2WnlaTEVWWUxOX1pPbFYyRnhITnZkOXJ6ckg3MWpPa1",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94dVFPZ3AwUjJRWFlXVzc5WG5oLWtwejdmTG9qelBtNncyV2Z3Nm1SSTFZazBwTkxGakpVTTQzVUlFcC1oQjhMRzFlR0JSYXJ2WnlaTEVWWUxOX1pPbFYyRnhITnZkOXJ6ckg3MWpPa1NIa2F5MmNhQ3J4UjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-25-014",
+    "date": "2026-06-25",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Is Corning Stock Surging On Thursday? - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGJWOFdpNDMta2JSMVRmOUJUYTJ2RnpwSnN6MDBDYnZ1bmVMbG5YYXQ3MlA4Z0JfeS1LLU4wY0ZXanJiQ2R1NVFoSWNQdF9qTWhrVGY3R1lTMF8xSmNwSDhlemtna2lpZ0Z0YmhSQk",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcGJWOFdpNDMta2JSMVRmOUJUYTJ2RnpwSnN6MDBDYnZ1bmVMbG5YYXQ3MlA4Z0JfeS1LLU4wY0ZXanJiQ2R1NVFoSWNQdF9qTWhrVGY3R1lTMF8xSmNwSDhlemtna2lpZ0Z0YmhSQkZNUGtoMUdyaEZnR3JCem5ja0lMZUhvaHg1MVFPbmlCN3JRMi1MX3daR2hmTGN4cHI5cUxZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-06-25-015",
+    "date": "2026-06-25",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "We Wouldn't Be Too Quick To Buy Himax Technologies, Inc. (NASDAQ:HIMX) Before It Goes Ex-Dividend - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRmxTNHZYamRrRjVNQnpEMF9Hem5ZWnFkRDVkVVlfeWMxR3dOSlFyUXM3X1pGc0IzYzVnc2NubkI0RDQ5cWtqeW1sZWxCM19ja0c0aU9JZ056ZktPUVhBR3FjaU5FdUs0QUt4N2F6VV",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRmxTNHZYamRrRjVNQnpEMF9Hem5ZWnFkRDVkVVlfeWMxR3dOSlFyUXM3X1pGc0IzYzVnc2NubkI0RDQ5cWtqeW1sZWxCM19ja0c0aU9JZ056ZktPUVhBR3FjaU5FdUs0QUt4N2F6VVloUEtzcV9Bc1FjLVE0dWxYSXRkTERaZU5lXzZtSllpdHVjXzdSZDl6d1FZa0V6ZzJhOTVjTmpfdl9saURrQnZ1ZFEyZ2VyQ0hEcXJaZ1M0ZE5va1lZQ3BHWFFmZkFiQjJ1UXNMSzh1a2dkVmPSAeABQVVfeXFMTlRsRlpDNjFrZ0xScl9Dbm8tZWI2Vms5eHJiMXBHWU5XdkZSbU9lN0otR1daOS1xaWFiRkJjYUo0LW02RFltS0k2OUhseXBNYzNtTHp5RkZwclctdUpZb0RpWXlCYmpPUGhBYU5YUUVsUVJ6c19yVFd6V1B5cUxUT0dfMXJ1QWN1dThhUThaQmJTUFNtZGxNdXZtU1ZXc3ZteVFBbjNiLWNzdlRaYm1ZWk91dXh3N1Q5YWR5VWlfWWdiejd4OGpmZkM4R1BrVHRrY184dEtDZnFwNXJDemR2QXg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-06-25-016",
+    "date": "2026-06-25",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Price to sales forward of Himax Technologies, Inc. – NASDAQ:HIMX - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPY094QlpuZVZrb3hOSnN3TGo5bi16S3FYZl9iSF9MVlJjc0E5REtIWEhkQmFJZEZrN1cyQ0Zhd0xLaWJVMmh5ZWxSQWxwZVI4eXhPRUEwSDlSNjBENEFFZEUxOTNpZmUyRmM3b0RFZ3",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY094QlpuZVZrb3hOSnN3TGo5bi16S3FYZl9iSF9MVlJjc0E5REtIWEhkQmFJZEZrN1cyQ0Zhd0xLaWJVMmh5ZWxSQWxwZVI4eXhPRUEwSDlSNjBENEFFZEUxOTNpZmUyRmM3b0RFZ3p0RVF6eTZOVl9wb0lRLXdBci1udlVWZFlGUEZvbGtXTG1tQUNTUTNaeEktRk1NUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-06-25-017",
+    "date": "2026-06-25",
+    "companies": [
+      "auo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AUO clears technical hurdle, shares trade above key moving average - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTy15a01lLWhNNXFYZkc5OGJQWkV6Nk96QU9zd1NzRzNXWGZZUV9FTjlWYXJTVFdRbk9mbEhHU01NUUdGVDhpZEp3cmM0alVqelczd1Z0TnpTV0hUUlJ5MEdZQTlNUFExOTVZTnVqbE",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTy15a01lLWhNNXFYZkc5OGJQWkV6Nk96QU9zd1NzRzNXWGZZUV9FTjlWYXJTVFdRbk9mbEhHU01NUUdGVDhpZEp3cmM0alVqelczd1Z0TnpTV0hUUlJ5MEdZQTlNUFExOTVZTnVqbEF3MmliZGVhMzRqTFRBaHBmVEVUdUtYUE44NXB0WHdUOGZiX3FZRUNxbWFuaU44MU93eUl1cHpjUlRTNHVMYTFNOW5XYnVCNGY0cVU3TlFCakV0dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-25-018",
+    "date": "2026-06-25",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG's New OLED TVs May Have Finally Solved One Of Their Biggest Real-World Problems - bgr.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOV3JYMU5QQXcta3NUVWQ2QzBVVFFuVF82QjBfN0JGM0RfUXJXYThXSjNsM2w3eTlvNE8wZ2hzSGd2MHh2RXNFcHh3Q0p2bG9BdTVpV1JmMXNQUmRkTVd3ZWtKM0xFaU9BNTRZUERpa2",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV3JYMU5QQXcta3NUVWQ2QzBVVFFuVF82QjBfN0JGM0RfUXJXYThXSjNsM2w3eTlvNE8wZ2hzSGd2MHh2RXNFcHh3Q0p2bG9BdTVpV1JmMXNQUmRkTVd3ZWtKM0xFaU9BNTRZUERpa2JMbFVDT01fUld6ekxWNjFWS0p5QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-25-019",
+    "date": "2026-06-25",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Hits 2Q Low, Set to Rebound... Annual Operating Profit to Double on OLED Surge in Second Half - 아시아경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE52ZnZZMUhZSUM5VkE0MGljVjRsd055Z1d2cV9HakMxUllDOHdYZHoteEVXUHFnRFE2b2NJTUw2MFFKX0JCVjVuVzhNSkxGaTRmS3pza3pGS2lGYVc1VjZhekxVQWE?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52ZnZZMUhZSUM5VkE0MGljVjRsd055Z1d2cV9HakMxUllDOHdYZHoteEVXUHFnRFE2b2NJTUw2MFFKX0JCVjVuVzhNSkxGaTRmS3pza3pGS2lGYVc1VjZhekxVQWE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-25-020",
+    "date": "2026-06-25",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Galaxy A27 5G Brings an Immersive Display and Awesome Intelligence to More Users",
+    "summary": "Samsung Electronics today announced Galaxy A27 5G, a device that refines everyday mobile use with an immersive display, reliable performance and thoughtfully integrated AI features. Building on the po",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-galaxy-a27-5g-brings-an-immersive-display-and-awesome-intelligence-to-more-users",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-25-021",
+    "date": "2026-06-25",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Omdia: RGB LED TVs forecast to account for 13% of global revenue by 2030 - Omdia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOLVFuS3RJOERGU25yRXBfY0piYlJyXzVRUnFRc3N3ZjZUcGxPYWtrZDM4TnFEcUVLel83VzNFUjI0SE1pMENYWi1uSHR3SnljaU5oa3E3c19HM1p4eC0tMVZBLW1XNGhZVmVXbzVlQ2",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLVFuS3RJOERGU25yRXBfY0piYlJyXzVRUnFRc3N3ZjZUcGxPYWtrZDM4TnFEcUVLel83VzNFUjI0SE1pMENYWi1uSHR3SnljaU5oa3E3c19HM1p4eC0tMVZBLW1XNGhZVmVXbzVlQ2MtbmpjRnY4M3YzeTJfZ0M0aUVLTWhVUms4MDZKejNwSEtKaVd5SjhvMm5DS2tjMXpYNF9jeGpISzRGcTIyZm9MTVBZWTlzUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-25-022",
+    "date": "2026-06-25",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Brings Next-Generation TV Innovation to Mumbai with Exclusive Mini LED Technology Showcase - MediaNews4U",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcG9yR1U3UUFHN1EtOHR5aUtDVjYwNTU3SzZQR04xeDJkSVRzTFA2QTA5OFVGUzhteGg3UngxbS1nZW5aRERpY1BRbEVzUjJ3amFqaXAtQ0pZTEZPbl9TcWk3Y1ZVb1pCSlQxeGNiZl",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcG9yR1U3UUFHN1EtOHR5aUtDVjYwNTU3SzZQR04xeDJkSVRzTFA2QTA5OFVGUzhteGg3UngxbS1nZW5aRERpY1BRbEVzUjJ3amFqaXAtQ0pZTEZPbl9TcWk3Y1ZVb1pCSlQxeGNiZlB3dmxxTWt1Q0xHR1MwMVgwOWtSVkdSLS12cFpUbm56OXE5clZnbHFEOExPa2F4Q3FDZUhqM3pQLUtVcl9lMlJTWEd4SVRjSVBnYXFqUFVyOTE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-25-023",
+    "date": "2026-06-25",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The Recently Launched, Feature-Rich TCL QM7L 4K SQD Mini-LED TV Is on Sale for Prime Day - Popular Mechanics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQenRmQ2JnUTdsN1lSVGxNUWQtZXNFRlZQR0FxTERMTVppd3l0TG4tU2dCajdnQzdfLUE4R1plVXhDNjY1WVhDdjl4S2UtTWtuVXg3b2pxV1k5Zk5Pcll2LVFjVkcxcTlzQXhtanRZMz",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenRmQ2JnUTdsN1lSVGxNUWQtZXNFRlZQR0FxTERMTVppd3l0TG4tU2dCajdnQzdfLUE4R1plVXhDNjY1WVhDdjl4S2UtTWtuVXg3b2pxV1k5Zk5Pcll2LVFjVkcxcTlzQXhtanRZMzFfSDYtU1BnVkhEcExtdGVBd0xGQTgxRm42Rm1GNklScG05anRNX0E?oc=5",
         "type": "rss"
       }
     ]
@@ -682,6 +1107,60 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZYkVKLTgwdEtjbTVtLUtKbXF3TzJTTXc0VE82TndKWF9MVWc0UXlSS19tZkZSVnJPOWRqV09hWGxsaW1rQnZUU2Nhbk5wc0duQ3dZRUtjUHV1MERTMThuclFDX1JIOHhvNWdfTUVxS1o2WGxLSXh5QVNjeDIzUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-24-026",
+    "date": "2026-06-24",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning declares $0.28 quarterly dividend per share By Investing.com - Investing.com Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNMmwwMnVYeHI0TmhIeTBfYk5fNHNHWHZmU2hjWmRNZzdNVHRGakF1VFpodWoxOWcxWXNCX3FEMGo5QUtRQXo1SzNIQnF3RV9TM3l0dm11RlJuZVROWTJQNVZoUE5BZUJwMWFoeWw3NX",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMmwwMnVYeHI0TmhIeTBfYk5fNHNHWHZmU2hjWmRNZzdNVHRGakF1VFpodWoxOWcxWXNCX3FEMGo5QUtRQXo1SzNIQnF3RV9TM3l0dm11RlJuZVROWTJQNVZoUE5BZUJwMWFoeWw3NXl1WHp6b1JUX196NlA1bjJpMWFyWGlxM3JmWTFPRFRoTHU3LW1jLW4yZHFpdTNBT2FwZk9WV2c3Tm9McnE3SmctNGI2VG1XTnQ5TktlQ1pZYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-06-24-027",
+    "date": "2026-06-24",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Digital Press Designs Win Red Dot Awards - The Manila Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcFdzMHdLVjVpQWpEeUUzemthWGRoUTNCYVAzUExMSERfZTNYa3dmMDluT1BYdDJ1RFZENGlxM0tzTzFJYm5ydzFoeUZNVWxvU0RXT1JreXpmVUlTZ3liRzJaNmhaT3BMOVh3ZXVCX3",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcFdzMHdLVjVpQWpEeUUzemthWGRoUTNCYVAzUExMSERfZTNYa3dmMDluT1BYdDJ1RFZENGlxM0tzTzFJYm5ydzFoeUZNVWxvU0RXT1JreXpmVUlTZ3liRzJaNmhaT3BMOVh3ZXVCX3l6MzBNb2xwelgwTGpqNXBDdFhZQVdGNm8za255NXZWcjNRcEJOVkhmMGZ5SDhBNTZHMEp3SHdmd2ZOXzk4VmVUNjUzd1NvWTZVU1prOTdGV19jUdIBwgFBVV95cUxQcFdzMHdLVjVpQWpEeUUzemthWGRoUTNCYVAzUExMSERfZTNYa3dmMDluT1BYdDJ1RFZENGlxM0tzTzFJYm5ydzFoeUZNVWxvU0RXT1JreXpmVUlTZ3liRzJaNmhaT3BMOVh3ZXVCX3l6MzBNb2xwelgwTGpqNXBDdFhZQVdGNm8za255NXZWcjNRcEJOVkhmMGZ5SDhBNTZHMEp3SHdmd2ZOXzk4VmVUNjUzd1NvWTZVU1prOTdGV19jUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-028",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "\"If Chinese panels are used, supplies to the U.S. military are blocked\"... a chance for Korean OLEDs - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2bHBuTGZ4OWxRSktLeEZCMkNORUEtYlBjbi1ZRnVvS1ozdGNmOGhKMEFHRjRWUEk1RWNCY1hzTl9HSmFXN0JHQkNrcG4zdW5OQlc0?oc=5\" target=\"_blank\">\"If Chinese pan",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2bHBuTGZ4OWxRSktLeEZCMkNORUEtYlBjbi1ZRnVvS1ozdGNmOGhKMEFHRjRWUEk1RWNCY1hzTl9HSmFXN0JHQkNrcG4zdW5OQlc0?oc=5",
         "type": "rss"
       }
     ]

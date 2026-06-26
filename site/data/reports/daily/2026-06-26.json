@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T10:51:27.706978Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-26-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan IPC maker IEI Integration's margin fell to 28% in Q1, but rebound is coming",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260626PD212/iei-integration-high-end-production-component-shipments.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-26-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Seres' US$25bn wipeout tests the price of Huawei's EV halo",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260626VL202/seres-huawei-price-market-2025.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-26-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Exclusive: SK Hynix races to build Yongin memory megasite as supply crunch deepens",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260626PD209/sk-hynix-memory-chips-fab-capacity-demand.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "himax-2026-06-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax Technologies, Inc. Sponsored ADR Actuals & Estimates (NASDAQ:HIMX) - TradingView",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaW5ybTV3Wlg4UHJVZmtaa1hXVGkwX2pqWnhJWnFJVE1idjRhUHUxVTB2bk9uN2hhMk50clpwellEOUF4cGhVOGlzZXo1M3R5aGNTQmlwMk82NVFJVUdIdjI1bm5hNEtsRW9WVkRRODFiOGV6cEZIZzZhRVpVQVRoU3hhajFSYkU4WHhFRVZ6ZU56RExJX2VMQTNrMTE1b28?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jdi-2026-06-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Japan Display Inc. Actuals & Estimates (TSE:6740) - TradingView",
+      "companies": [
+        "jdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR3NVcW9IczFjVFk5WWR0X01OSkdTUW9PT1cxWF9sX2dySHRzNW83endNOS1LR2EzbDB0TWJrUU9RcndqRjNuQURuc1JrR3ZVZFVrVHdka1VJY3Q0STRhSW1vak85NmRJazVsak5pcTJQLXotbVNnVDhaRzF0S1hjZy1R?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automotive_display": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "jdi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "automotive_display",
+        "count": 2
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 381,
+    "dup_title": 125,
+    "too_old": 165,
+    "gate1_blocked": 41,
+    "gate2_blocked": 24,
+    "passed": 26,
+    "pass_rate": "10.2%",
+    "gate2_block_rate": "9.4%",
+    "gate2_samples": [
+      "Enterprise value to EBITDA forward of Corning Incorporated – NYSE:GLW - TradingView",
+      "Here is why Corning Incorporated (GLW) is among the Most Overvalued Quantum Computing Stocks Accordi",
+      "Corning Inc Stock (GLW) Moved Up by 9.75% on Jun 25: Drivers Behind the Movement - TradingKey",
+      "Corning Incorporated’s Stock Price Soars to $209.83, Marking a Robust 7.65% Increase - Smartkarma",
+      "Corning Jumps 8.0% Amid Sector-Wide Rally - AlphaStreet"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為三星電子、Himax Technologies、JDI相關動態：「Taiwan IPC maker IEI Integration's margin fell to 28% in ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Taiwan IPC maker IEI Integration's margin fell to 28% in Q1, but rebound is c...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Seres' US$25bn wipeout tests the price of Huawei's EV halo（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "IT 面板需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
