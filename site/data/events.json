@@ -1,5 +1,99 @@
 [
   {
+    "id": "novatek-2026-06-27-001",
+    "date": "2026-06-27",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to EBITDA forward of Novatek Microelectronics Corp. – TWSE:3034 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeEFIcnh0NWRHYmdXM0FYQ1RvOHYxR1NsN2ZHLTNxaXVONlE5SnZva3lxMEhBaGptbDNCaVlKNGF4SEE5dGFCVWRLN1lWYWhsYnVCa2NaUXQwRXlhX3NrS3FfUVhHUDFUSmVGb3lrME",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeEFIcnh0NWRHYmdXM0FYQ1RvOHYxR1NsN2ZHLTNxaXVONlE5SnZva3lxMEhBaGptbDNCaVlKNGF4SEE5dGFCVWRLN1lWYWhsYnVCa2NaUXQwRXlhX3NrS3FfUVhHUDFUSmVGb3lrMEMyLVdFeUctVWZ0UjhZVExVdFZ4UHVicmprMnc5bFFPRlZ3a0xYenR5QThoOGE0TkItcFQ5bHc0VUJjWXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-06-27-002",
+    "date": "2026-06-27",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Japan Display Inc. – LSX:A1XEEQ - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWd0QmdVMFJwU3ZQTmp4bS1sX1NGa19hRmU4N1lnTEpQRkR2VHM5S3h3dlpGaXkyZFlQdGx1MzBUdWJSbTc4Nm43ZkpyYWJhbF81T2xUVmJPSHZDSklPelB1Z2pPT3QzZDJYbDFBVj",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWd0QmdVMFJwU3ZQTmp4bS1sX1NGa19hRmU4N1lnTEpQRkR2VHM5S3h3dlpGaXkyZFlQdGx1MzBUdWJSbTc4Nm43ZkpyYWJhbF81T2xUVmJPSHZDSklPelB1Z2pPT3QzZDJYbDFBVjRFVEJsWU80WEhtRGVubkpIbXJZQTVCUEV2b1NLZkJjUlNYdXAzVEd6bDJldEUwQ0Z6?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-003",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "The Tata Electronics leak is overwhelmingly an Apple data set, file index shows",
+    "summary": "Tata Electronics, the Indian contract manufacturer that assembles iPhones and supplies other global technology companies, has confirmed a cybersecurity incident after the extortion group World Leaks p",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260627VL200/apple-data-component-technology.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-004",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiwan motorcycle maker SYM's profit falls in 2025 despite record market share",
+    "summary": "SYM said its 2025 results held up despite global tariff shifts and supply-chain disruption, highlighting resilient motorcycle sales in Taiwan and overseas. For global readers, the outlook signals how ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260626PD216/sym-2025-2026-profit-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-27-005",
+    "date": "2026-06-27",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "LG pushes robot strategy from home to factory; data shortage remains a challenge",
+    "summary": "LG Electronics has in recent years expanded its push into physical AI, building an end-to-end robotics value chain under its \"One LG\" strategy comprising other units across the group, with products ra",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260626PD221/data-robot-lg-lg-electronics-robotics.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-06-26-001",
     "date": "2026-06-26",
     "companies": [
@@ -193,6 +287,179 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260626PD209/sk-hynix-memory-chips-fab-capacity-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-06-26-012",
+    "date": "2026-06-26",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Novatek Microelectronics details shareholder structure, shares tracked against Taiwan tech peers - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNenB5djZ5bThwTDlwWjNhYXZmUjdNWWg4RFN3ZU43UWVIYWxVbEhRbERRaklCN1dFWHlTbU96S3QtbXpCWTRnbTZxamM3MWkyMWYyWUhZSEpFaktzTFBfWjVtSGtkSWF1RnIzX1JPSU",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNenB5djZ5bThwTDlwWjNhYXZmUjdNWWg4RFN3ZU43UWVIYWxVbEhRbERRaklCN1dFWHlTbU96S3QtbXpCWTRnbTZxamM3MWkyMWYyWUhZSEpFaktzTFBfWjVtSGtkSWF1RnIzX1JPSUZxLTVGUV9zOHQ2VlZDREh2Nm9xM1cwcExiMzBkZ2dUTjZYNjVJTEdtTXNlVk4wR3o4dU1SLUwzSUpxRlAtQ1pQbC1fQnNxY1RaXzhiblVLdkpLU0ZLMGZJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-26-013",
+    "date": "2026-06-26",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG UltraFine 6K Review: A Premium 6K Display Designed With Mac Users in Mind - MacRumors",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9oV0pfbjh6V3kxX1dWMnVybDV3UTdfbTlNSWNGbVpzdm5QeUhFNVdxRmREVENmYkVHcjN5S01iUFpNRmR1dy14c0hJQk9wekdLY0pTSFhvRW9JTUozcnJCbHZxNE9uMWs5LXdWbjRjVz",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oV0pfbjh6V3kxX1dWMnVybDV3UTdfbTlNSWNGbVpzdm5QeUhFNVdxRmREVENmYkVHcjN5S01iUFpNRmR1dy14c0hJQk9wekdLY0pTSFhvRW9JTUozcnJCbHZxNE9uMWs5LXdWbjRjVzFhWW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-26-014",
+    "date": "2026-06-26",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Perfect Picture Quality Anywhere with LG Display Tandem WOLED™ - LG Display Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPLUNYRi1CUjZIUlFlYWRmdTBkNlFZcHBEalh2QXE3SE1ZVmxCSEVKZFpGTVFNX3R0dExLRTFhYzhzOXdhRGpyZ2ppWGlza3VGYkk4eTdtbjgzT01sRk1Fem51d1Y1NG55LWJkWHp5RX",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLUNYRi1CUjZIUlFlYWRmdTBkNlFZcHBEalh2QXE3SE1ZVmxCSEVKZFpGTVFNX3R0dExLRTFhYzhzOXdhRGpyZ2ppWGlza3VGYkk4eTdtbjgzT01sRk1Fem51d1Y1NG55LWJkWHp5RXZVV1p2VzhTLU5iUWNjTlB0eUdpLXg1SnV5VHp5QnNJaFE5XzREVjNTTl82ZXFyQjJEaGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-26-015",
+    "date": "2026-06-26",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "‘Sharper & Faster’ LG Display’s OLED drives the premium market - LG Display Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0pOS0drQWE1bVJ3elVwY0tNM2JhM0hmcUJ3VTgzYjZrcGVuRS1XbEF2cTFhMC1PMGtERW52cktUbTg5X2gxcW0yYnpvc3lybG92ZUR0bHFIUElDZ29UeFduZml6a2J3cjZJa0gtdG",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0pOS0drQWE1bVJ3elVwY0tNM2JhM0hmcUJ3VTgzYjZrcGVuRS1XbEF2cTFhMC1PMGtERW52cktUbTg5X2gxcW0yYnpvc3lybG92ZUR0bHFIUElDZ29UeFduZml6a2J3cjZJa0gtdGpmWVFwVWRGY0hibkxJNW5jRVFCbUdSMEl1djE0NHUxNXdsNGV5MFhRUWl1dXo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-26-016",
+    "date": "2026-06-26",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "One Monitor for Work and Gaming? LG Display Starts 240Hz RGB OLED Production - LG Display Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGpNVDE4NXl1VUZJa2M3NnFmbEFSY2ZDNUk4UzdYcTBoOVR0RXAybC13cDg3aDhoZ1kwMEVndEtaZ3Z4V2w1a0Vna0ttSkZicjBLYWp4Y3NKajhtNlBJU2xuU09YY2J2OGJTNHppdn",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSGpNVDE4NXl1VUZJa2M3NnFmbEFSY2ZDNUk4UzdYcTBoOVR0RXAybC13cDg3aDhoZ1kwMEVndEtaZ3Z4V2w1a0Vna0ttSkZicjBLYWp4Y3NKajhtNlBJU2xuU09YY2J2OGJTNHppdnhOc0NiMUY4aURxb2Q3SzlrNnRVQjZvSjRXOFk0NWhoTTd2Vl93Z1RzVFUtM0lDLWFTcjhsNWU3VmJOZnptYUZ2MDJKa3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-017",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "HKC goes public at the Shenzhen Stock Exchange, jumps over 300% in the first day of trading",
+    "summary": "<p>Shenzhen-based <a href=\"https://www.oled-info.com/hkc\">HKC</a> has finalized its IPO process, and the company's shares now trade at the Shenzhen Stock Exchange.</p><img data-entity-uuid=\"df4b7668-a",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/hkc-goes-public-shenzhen-stock-exchange-jumps-over-300-first-day-trading",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-018",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "DrayTek's revenue slide drags into 2026, company pins hopes on Wi-Fi 7 and cybersecurity",
+    "summary": "Taiwan networking equipment maker DrayTek held its shareholders' meeting on June 26, acknowledging its 2025 business and financial reports along with its profit distribution plan.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260626PD232/revenue-taiwan-wi-fi-7-2026-cybersecurity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-019",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Omdia forecasts RGB LED TVs to generate 13% of global TV revenue by 2030 - Broadband TV News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjJ1RXFwNkpPcU53cFFUZnB3bnFxQ092bDRzOVJSWUxhQm85Vm44LWpfaFlQY2pyQk5ZakphekhWM3BYc2kzdG40SmZvV1pjNzRrZFhCdDllNmxQM3BCck44RkVWZFVieWJndEVzdm",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjJ1RXFwNkpPcU53cFFUZnB3bnFxQ092bDRzOVJSWUxhQm85Vm44LWpfaFlQY2pyQk5ZakphekhWM3BYc2kzdG40SmZvV1pjNzRrZFhCdDllNmxQM3BCck44RkVWZFVieWJndEVzdmNxUmlwT3dQbFJFRnp2NkdGVUc0OXF3TkpaU0xRT0I1Y0VRS2VmQ045VjRpNk9TQ3pjLXI0c2U1b0RpWlpjNUdSdnZKZENWdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-020",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "RGB LED TVs forecast to account for 13% of global revenue by 2030, claims Omdia - Tech Digest",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPcDdlODVZRVJkd3B3c3lhVlhBcjZlanVsRTN4d2dBY0ZRRGE0UlgxdW1CZ0M4TThXbEMyVXJMakF6emZObXNRc3Fobkhyb25IRElsWUdOMHRBNHl2czJLOGxzZUFsaHVHRHQxWEpCal",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcDdlODVZRVJkd3B3c3lhVlhBcjZlanVsRTN4d2dBY0ZRRGE0UlgxdW1CZ0M4TThXbEMyVXJMakF6emZObXNRc3Fobkhyb25IRElsWUdOMHRBNHl2czJLOGxzZUFsaHVHRHQxWEpCalNfU1o3QU1mSEU3TW9Kb2ZtdWlpVVhnYkZsSmlZVXFzcEY2OXRaZTVxTUphRFppQTdBaUlXSFBRWkxJR3N4NU1wbmh2NExKT3c?oc=5",
         "type": "rss"
       }
     ]
@@ -1166,6 +1433,24 @@
     ]
   },
   {
+    "id": "corning-2026-06-24-029",
+    "date": "2026-06-24",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "How Corning’s (GLW) Amazon Agreement Turns AI Data-Center Fiber Demand Into Domestic Capacity Expansion - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmxiLTdySU8tLU5jMkdYeHVoLXBWbzZWLTd0dWcxbVphUGsyZ2hSX0djZEN3Ylg1c01Fc0RBdG1RSTk1UC05SzJJRUVqOVQwdUxoR3MyWFU0SnVHN2dMcUpqYVd3cWU1T3g4eEVrLU",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmxiLTdySU8tLU5jMkdYeHVoLXBWbzZWLTd0dWcxbVphUGsyZ2hSX0djZEN3Ylg1c01Fc0RBdG1RSTk1UC05SzJJRUVqOVQwdUxoR3MyWFU0SnVHN2dMcUpqYVd3cWU1T3g4eEVrLU9jNUgzUWNhUlVmMWktTWZxazdTdmxhS2xDdWpnMEhFbTJCaEs1YlMtaDRKSEJPSUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-06-23-001",
     "date": "2026-06-23",
     "companies": [
@@ -1968,6 +2253,26 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNazJpUFhZdjdtZUVsc3M2U1R2ZFc0UGQ2QV84WVpCX3lRVV9LM0ZLVEZ2REJDVmJpTlJubXdQZ3NXeGxwclAybkxxTXYxTTRHWHFSUERocU9OVDcxUmE1NXR1Nmk4Z3FwMG1jMmZ1NEVReG1WN2pwUGNuVGVoUHNQWkpwSlpUM3R2T2NPTXBTdmxmYl91ZnBsd3VGSXhSNnJJcVNFdmw4eS1zLUxUSHJaRXp1bHh5WjRhVmdVQU54WGJuMnZnSWhwNldmaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-22-025",
+    "date": "2026-06-22",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG OLEDs certified for real-world image accuracy - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsLWMteGVhNEFPS2FINDk4elNmWHU3eDRJeDhfVXJVdl9GaHBvbkh3MjVMT3VHM1pVYkZtMVl6bGF2eW1vZk9USnh6a2xOckFPWEMxWm84VQ?oc=5\" target=\"_blank\">LG OLEDs ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsLWMteGVhNEFPS2FINDk4elNmWHU3eDRJeDhfVXJVdl9GaHBvbkh3MjVMT3VHM1pVYkZtMVl6bGF2eW1vZk9USnh6a2xOckFPWEMxWm84VQ?oc=5",
         "type": "rss"
       }
     ]
