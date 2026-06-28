@@ -1,0 +1,154 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T10:28:40.917122Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Trusval reports record 2025 profit, eyes global growth in 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.33
+      },
+      "source_url": "https://www.digitimes.com/news/a20260624PD215/trusval-profit-revenue-2026.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-06-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Chem weighs CCL expansion as AI chip demand strains supply",
+      "companies": [
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260625VL221/lg-chem-ccl-expansion-demand-ai-chip.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "tcl-2026-06-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Budget TCL mini LED TV gets even cheaper with this Amazon deal - PC Guide",
+      "companies": [
+        "tcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRDVPUFVJVTZMTnJtd20yZ1htNkZ6OUdUSnZrRHJ0VVJ4bk1JdDZpaVJuUzhubk51bDJWcm1FaGFHd1diV2xFbUhIX2xvVUhSd09hYWdKMGI1dUR4aE5xdXZsY2VnS25iQTZqMGdRMTVVajM2dDVuVEtFTVlWV3VubjZXQ1VMc1JPeXc4SmZsem40ME9QNW80Yw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 381,
+    "dup_title": 134,
+    "too_old": 161,
+    "gate1_blocked": 46,
+    "gate2_blocked": 32,
+    "passed": 8,
+    "pass_rate": "3.2%",
+    "gate2_block_rate": "13.0%",
+    "gate2_samples": [
+      "Here is why Corning Incorporated (GLW) is among the Most Overvalued Quantum Computing Stocks Accordi",
+      "Corning Incorporated’s Stock Price Soars to $209.83, Marking a Robust 7.65% Increase - Smartkarma",
+      "GLW News | CORNING INC (NYSE:GLW) - ChartMill",
+      "Corning Inc Stock (GLW) Moved Up by 9.75% on Jun 25: Drivers Behind the Movement - TradingKey",
+      "Corning Inc Actuals & Estimates (NYSE:GLW) - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為LG電子、TCL Technology相關動態：「Trusval reports record 2025 profit, eyes global growth in...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Trusval reports record 2025 profit, eyes global growth in 2026（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "LG Chem weighs CCL expansion as AI chip demand strains supply",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

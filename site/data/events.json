@@ -1,5 +1,61 @@
 [
   {
+    "id": "lg_elec-2026-06-28-001",
+    "date": "2026-06-28",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "LG Chem weighs CCL expansion as AI chip demand strains supply",
+    "summary": "<p class=\"P1\" data-start=\"527\" data-end=\"741\">LG Chem is discussing whether to expand production of copper-clad laminate, or CCL, a core material used in semiconductor packaging, as demand tied to art",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260625VL221/lg-chem-ccl-expansion-demand-ai-chip.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-28-002",
+    "date": "2026-06-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Trusval reports record 2025 profit, eyes global growth in 2026",
+    "summary": "Trusval Technology reported record 2025 revenue and profit, signaling stronger demand for semiconductor-related construction and industrial systems that matter to global supply chains. The Taiwan-base",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260624PD215/trusval-profit-revenue-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-28-003",
+    "date": "2026-06-28",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Budget TCL mini LED TV gets even cheaper with this Amazon deal - PC Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNRDVPUFVJVTZMTnJtd20yZ1htNkZ6OUdUSnZrRHJ0VVJ4bk1JdDZpaVJuUzhubk51bDJWcm1FaGFHd1diV2xFbUhIX2xvVUhSd09hYWdKMGI1dUR4aE5xdXZsY2VnS25iQTZqMGdRMT",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRDVPUFVJVTZMTnJtd20yZ1htNkZ6OUdUSnZrRHJ0VVJ4bk1JdDZpaVJuUzhubk51bDJWcm1FaGFHd1diV2xFbUhIX2xvVUhSd09hYWdKMGI1dUR4aE5xdXZsY2VnS25iQTZqMGdRMTVVajM2dDVuVEtFTVlWV3VubjZXQ1VMc1JPeXc4SmZsem40ME9QNW80Yw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "novatek-2026-06-27-001",
     "date": "2026-06-27",
     "companies": [
@@ -89,6 +145,84 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260626PD221/data-robot-lg-lg-electronics-robotics.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-27-006",
+    "date": "2026-06-27",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of Corning Incorporated – NYSE:GLW - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQnI0Rm5OSHRPbWxnZ1QyMGxIamxWOUM4YldzOGVmeWl5T0ZyVkRRaXpkb2xrRWNqUmVZWkE3NC1hRHdtWUpUSTNOZlBTcHktak9JWDUweUNjU2ZnM3J1Q2hUQXdYNFM4akNpeTVxRn",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQnI0Rm5OSHRPbWxnZ1QyMGxIamxWOUM4YldzOGVmeWl5T0ZyVkRRaXpkb2xrRWNqUmVZWkE3NC1hRHdtWUpUSTNOZlBTcHktak9JWDUweUNjU2ZnM3J1Q2hUQXdYNFM4akNpeTVxRnphdk8temxqR2xmNTFrMTllaFhUQTlhN3BVSWtWVFhYaVhSWi1YZEVZMTFJbWE2OGJ5dkZ3LWUxUS0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-06-27-007",
+    "date": "2026-06-27",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Price to sales forward of Canon Inc. – TRADEGATE:CNN1 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQWGdZb1hkMHNVdVpIcm55TDVfRGdGRzVqMC1TRGY1OHJDMk0wMDBOQ2pEUnhKU0FBNEF2ZDVReEZIc1dFZ2dGeXdrdmVRbWRhMDV2anJvb3NfVzBDejBWdGJQOUJBMjhMUjFBaElOc3",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWGdZb1hkMHNVdVpIcm55TDVfRGdGRzVqMC1TRGY1OHJDMk0wMDBOQ2pEUnhKU0FBNEF2ZDVReEZIc1dFZ2dGeXdrdmVRbWRhMDV2anJvb3NfVzBDejBWdGJQOUJBMjhMUjFBaElOc3dqWktQcllCNnZ4cVppVk5uZ0lvNzJEWVY4ZzdEWXd6Y2ZzRFVRWi1DbEtiaG16YjhOVnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-27-008",
+    "date": "2026-06-27",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "98-Inch TCL Mini LED 4K TV With 144Hz Gaming $400 Off - The Inventory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQWlAzX2l6RGJsa1AyRGJQdTJJd3ZhWGNsUHFDdlFxWEtmU293THk3SWR1YUt5ejNqRE1DYUdwM2VVUmdqN3ZvcmM5RFFTWFF5Wk41a1V1bjR0azZaclNQZGFFTlRDOGdiWTdvS3F4UX",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWlAzX2l6RGJsa1AyRGJQdTJJd3ZhWGNsUHFDdlFxWEtmU293THk3SWR1YUt5ejNqRE1DYUdwM2VVUmdqN3ZvcmM5RFFTWFF5Wk41a1V1bjR0azZaclNQZGFFTlRDOGdiWTdvS3F4UXJwOXlVZmFfMmxfQUgzT3JCa0tn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-27-009",
+    "date": "2026-06-27",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "LG 65-Inch Gallery Mini LED TV With Frame—$100 Off - The Inventory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1pLQ1hnTTR4SXVBaVNjbE9GZ1JrdUpJYjhUTXRsUDRNZzJDblA1cjFpOHEwbEQ2RGUtc2lETC1mdkVDTTRJa2M5SVRGTEV2SkRlbV9vWVpLaEYtdzJLN2JDdWREd0RVVjRFT1N4YV",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1pLQ1hnTTR4SXVBaVNjbE9GZ1JrdUpJYjhUTXRsUDRNZzJDblA1cjFpOHEwbEQ2RGUtc2lETC1mdkVDTTRJa2M5SVRGTEV2SkRlbV9vWVpLaEYtdzJLN2JDdWREd0RVVjRFT1N4YVRrdUVxZ2ZyZjBlVHNrR2RxUjVUSQ?oc=5",
         "type": "rss"
       }
     ]
@@ -896,6 +1030,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenRmQ2JnUTdsN1lSVGxNUWQtZXNFRlZQR0FxTERMTVppd3l0TG4tU2dCajdnQzdfLUE4R1plVXhDNjY1WVhDdjl4S2UtTWtuVXg3b2pxV1k5Zk5Pcll2LVFjVkcxcTlzQXhtanRZMzFfSDYtU1BnVkhEcExtdGVBd0xGQTgxRm42Rm1GNklScG05anRNX0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-06-25-024",
+    "date": "2026-06-25",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Japan Display shares plunge on Tokyo debut - Digital Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQX3B6SXdtalNmbGdCRWVhbmdFTG9hbV91RVhEdVFNWUhORjN2Um5kdkVEUU0wMURNYTJVaE1DbDM2OGpuSklNal96Q3R5M0gzUl85VkNyTGpCYmlJRHZlRVRndGpUZDRsQjJOZUIxNG",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX3B6SXdtalNmbGdCRWVhbmdFTG9hbV91RVhEdVFNWUhORjN2Um5kdkVEUU0wMURNYTJVaE1DbDM2OGpuSklNal96Q3R5M0gzUl85VkNyTGpCYmlJRHZlRVRndGpUZDRsQjJOZUIxNGxxVjV0ZFp6V01EUUdxczdRNFhFMXYwOTFTMVE?oc=5",
         "type": "rss"
       }
     ]

@@ -1,33 +1,34 @@
 {
   "corning": {
-    "earliest": "2006-03-09",
+    "earliest": "2005-12-09",
     "latest": "2026-06-26",
-    "count": 5107
+    "count": 5167
   },
   "applied_materials": {
-    "earliest": "2006-03-09",
+    "earliest": "2005-12-09",
     "latest": "2026-06-26",
-    "count": 5107
+    "count": 5167
   },
   "canon": {
-    "earliest": "2006-03-13",
+    "earliest": "2005-12-13",
     "latest": "2026-06-26",
-    "count": 4994
+    "count": 5058
   },
   "novatek": {
-    "earliest": "2006-03-23",
+    "earliest": "2005-12-23",
     "latest": "2026-06-26",
-    "count": 4968
+    "count": 5025
   },
   "himax": {
     "earliest": "2006-03-31",
     "latest": "2026-06-26",
-    "count": 5091
+    "count": 5091,
+    "history_complete": true
   },
   "auo": {
-    "earliest": "2006-03-23",
+    "earliest": "2005-12-23",
     "latest": "2026-06-26",
-    "count": 4968
+    "count": 5025
   },
   "innolux": {
     "earliest": "2006-10-24",
@@ -36,14 +37,14 @@
     "history_complete": true
   },
   "lg_display": {
-    "earliest": "2006-03-07",
+    "earliest": "2005-12-07",
     "latest": "2026-06-26",
-    "count": 5013
+    "count": 5074
   },
   "boe": {
-    "earliest": "2006-03-23",
+    "earliest": "2005-12-23",
     "latest": "2026-06-26",
-    "count": 4925
+    "count": 4980
   },
   "jdi": {
     "earliest": "2014-03-19",
@@ -52,28 +53,28 @@
     "history_complete": true
   },
   "samsung_elec": {
-    "earliest": "2006-03-07",
+    "earliest": "2005-12-07",
     "latest": "2026-06-26",
-    "count": 5013
+    "count": 5074
   },
   "lg_elec": {
-    "earliest": "2006-03-07",
+    "earliest": "2005-12-07",
     "latest": "2026-06-26",
-    "count": 5013
+    "count": 5074
   },
   "sony": {
-    "earliest": "2006-03-13",
+    "earliest": "2005-12-13",
     "latest": "2026-06-26",
-    "count": 4994
+    "count": 5058
   },
   "tcl": {
-    "earliest": "2006-03-23",
+    "earliest": "2005-12-23",
     "latest": "2026-06-26",
-    "count": 4925
+    "count": 4980
   },
   "etf_soxx": {
-    "earliest": "2007-03-02",
+    "earliest": "2006-12-04",
     "latest": "2026-06-26",
-    "count": 4861
+    "count": 4920
   }
 }
