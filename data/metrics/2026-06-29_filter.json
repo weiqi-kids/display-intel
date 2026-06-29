@@ -1,0 +1,16 @@
+{
+  "total_raw": 382,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 42,
+  "gate2_fail": 33,
+  "passed": 15,
+  "gate2_samples": [
+    "Corning Incorporated(NYSE: GLW) dropped from Russell 1000 Value Benchmark - marketscreener.com",
+    "Here is why Corning Incorporated (GLW) is among the Most Overvalued Quantum Computing Stocks Accordi",
+    "GLW News | CORNING INC (NYSE:GLW) - ChartMill",
+    "Corning Incorporated(NYSE: GLW) added to Russell 3000E Growth Benchmark - marketscreener.com",
+    "Corning Inc Actuals & Estimates (NYSE:GLW) - TradingView"
+  ]
+}

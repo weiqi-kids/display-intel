@@ -1,0 +1,233 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T12:32:20.767217Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-06-29-002",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Nomura: LG Display’s Q2 loss may exceed expectations due to restructuring costs - Bitget",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKdVdBTkJIaEhuQ0hKdUwzMVF1RFc3dlE4cE1nY1l0TlViUEFjQ0syMHlZd08yYmJfSEVCM3RQWmxXdEZyaFZ2d1FOUDQ2MjhVbDl5dVN2bEN0MW5kanBEM0VPY9IBY0FVX3lxTFBKdVdBTkJIaEhuQ0hKdUwzMVF1RFc3dlE4cE1nY1l0TlViUEFjQ0syMHlZd08yYmJfSEVCM3RQWmxXdEZyaFZ2d1FOUDQ2MjhVbDl5dVN2bEN0MW5kanBEM0VPYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI demand drives Foundry 2.0 market revenue up 23% in 1Q26, says Counterpoint",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260629VL207/semiconductor-industry-advanced-packaging-ic-testing-demand.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_elec-2026-06-29-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Samsung could become HBM market share leader in 2027",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260629PD215/samsung-hbm-hbm4-market-share-2027.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_elec-2026-06-29-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Samsung Introduces New Education Tools for Interactive Displays at ISTELive 26",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.samsung.com/global/samsung-introduces-new-education-tools-for-interactive-displays-at-istelive-26"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_elec-2026-06-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG Electronics Unveils StanbyME 2 Max: an Immersive Personal Screen With a Larger 32-Inch 4K Display - TechPowerUp",
+      "companies": [
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONzRxYXpzZ2JaQ1VMQTRlN0JDc1F2VzdjdzFrYnBMWjBHNWlFZ2JxSkkzYWpVZERmU082eHBqdnFPR0xkT2lFcFdVT1N3RjRLSHhqMWZvUG5EMktmOEl2dXljRXZ4Yk1SQlI1MDlmMVVMWkstMXlJSnB3QmkzZjJsUnd4NUhPOFlZemdhNS1HU3BYVHc5eWNNT1BxM0hhUjc5ZHFBX3I1cHVxeTRyZjFXQjJPUG9GVGhfTGNPOHNDeGJETUJGYnJMNm9lU0tqSzDSAdQBQVVfeXFMTkpVanFwZnVnQTVmVUl3UkZmLTJNZFp5LU9YRXJWdDRTOTdRZmpTZzFrUkdkdGpmMXYyMmNUam1PclllQVJvVmNSOERURTExQUFpX1NCOUc1MGoyekUzRE95S2doU3J2U2tJV3g1UFBiRUs5SUdlNWxMNWg5OFhKTi05SzRFVUZjLWtKek5MQ3ZFWmU5RkhMMDJMRUx3bnR4bnpicnVrVV9vVUpKbGQ1bnVKTEJkX2ZqYXdDZTJyaENteHpGV0NpejFLcHNZS1dNQnpUTWY?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 5
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 382,
+    "dup_title": 127,
+    "too_old": 165,
+    "gate1_blocked": 42,
+    "gate2_blocked": 33,
+    "passed": 15,
+    "pass_rate": "5.9%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "Corning Incorporated(NYSE: GLW) dropped from Russell 1000 Value Benchmark - marketscreener.com",
+      "Here is why Corning Incorporated (GLW) is among the Most Overvalued Quantum Computing Stocks Accordi",
+      "GLW News | CORNING INC (NYSE:GLW) - ChartMill",
+      "Corning Incorporated(NYSE: GLW) added to Russell 3000E Growth Benchmark - marketscreener.com",
+      "Corning Inc Actuals & Estimates (NYSE:GLW) - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為三星電子、LG電子、LGD相關動態：「Nomura: LG Display’s Q2 loss may exceed expectations due ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nomura: LG Display’s Q2 loss may exceed expectations due to restructuring cos...",
+        "level": "red"
+      },
+      {
+        "text": "AI demand drives Foundry 2.0 market revenue up 23% in 1Q26, says Counterpoint（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

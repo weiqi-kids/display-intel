@@ -1,5 +1,190 @@
 [
   {
+    "id": "lg_elec-2026-06-29-001",
+    "date": "2026-06-29",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Electronics Unveils StanbyME 2 Max: an Immersive Personal Screen With a Larger 32-Inch 4K Display - TechPowerUp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxONzRxYXpzZ2JaQ1VMQTRlN0JDc1F2VzdjdzFrYnBMWjBHNWlFZ2JxSkkzYWpVZERmU082eHBqdnFPR0xkT2lFcFdVT1N3RjRLSHhqMWZvUG5EMktmOEl2dXljRXZ4Yk1SQlI1MDlmMV",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONzRxYXpzZ2JaQ1VMQTRlN0JDc1F2VzdjdzFrYnBMWjBHNWlFZ2JxSkkzYWpVZERmU082eHBqdnFPR0xkT2lFcFdVT1N3RjRLSHhqMWZvUG5EMktmOEl2dXljRXZ4Yk1SQlI1MDlmMVVMWkstMXlJSnB3QmkzZjJsUnd4NUhPOFlZemdhNS1HU3BYVHc5eWNNT1BxM0hhUjc5ZHFBX3I1cHVxeTRyZjFXQjJPUG9GVGhfTGNPOHNDeGJETUJGYnJMNm9lU0tqSzDSAdQBQVVfeXFMTkpVanFwZnVnQTVmVUl3UkZmLTJNZFp5LU9YRXJWdDRTOTdRZmpTZzFrUkdkdGpmMXYyMmNUam1PclllQVJvVmNSOERURTExQUFpX1NCOUc1MGoyekUzRE95S2doU3J2U2tJV3g1UFBiRUs5SUdlNWxMNWg5OFhKTi05SzRFVUZjLWtKek5MQ3ZFWmU5RkhMMDJMRUx3bnR4bnpicnVrVV9vVUpKbGQ1bnVKTEJkX2ZqYXdDZTJyaENteHpGV0NpejFLcHNZS1dNQnpUTWY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-29-002",
+    "date": "2026-06-29",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Nomura: LG Display’s Q2 loss may exceed expectations due to restructuring costs - Bitget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKdVdBTkJIaEhuQ0hKdUwzMVF1RFc3dlE4cE1nY1l0TlViUEFjQ0syMHlZd08yYmJfSEVCM3RQWmxXdEZyaFZ2d1FOUDQ2MjhVbDl5dVN2bEN0MW5kanBEM0VPY9IBY0FVX3lxTFBKdV",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKdVdBTkJIaEhuQ0hKdUwzMVF1RFc3dlE4cE1nY1l0TlViUEFjQ0syMHlZd08yYmJfSEVCM3RQWmxXdEZyaFZ2d1FOUDQ2MjhVbDl5dVN2bEN0MW5kanBEM0VPY9IBY0FVX3lxTFBKdVdBTkJIaEhuQ0hKdUwzMVF1RFc3dlE4cE1nY1l0TlViUEFjQ0syMHlZd08yYmJfSEVCM3RQWmxXdEZyaFZ2d1FOUDQ2MjhVbDl5dVN2bEN0MW5kanBEM0VPYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-29-003",
+    "date": "2026-06-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Rumors suggest Samsung may launch its first rollable OLED phone in 2028",
+    "summary": "<p>A new report from Korea says that Samsung Display and Samsung Electronics are in advanced discussions towards the supply of smartphone rollable OLED panels, as Samsung Electronics is considering la",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/rumors-suggest-samsung-may-launch-its-first-rollable-oled-phone-2028",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-29-004",
+    "date": "2026-06-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung chair backs Korea's southwest chip cluster, maps nationwide investment",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:297;99-395\">Samsung Electronics chairman Lee Jae-yong said Gwangju is being considered as a candidate site for Samsung's next semiconductor complex, lending corpora",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260629VL211/samsung-investment-region-government-chairman.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-005",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI demand drives Foundry 2.0 market revenue up 23% in 1Q26, says Counterpoint",
+    "summary": "Global revenue for the semiconductor industry's \"Foundry 2.0\" market reached US$86 billion in the first quarter of 2026, up 23% year-over-year, driven by strong demand for AI accelerators and advanced",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260629VL207/semiconductor-industry-advanced-packaging-ic-testing-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-29-006",
+    "date": "2026-06-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Samsung could become HBM market share leader in 2027",
+    "summary": "Samsung Electronics could overtake SK Hynix in the global high-bandwidth memory (HBM) market in 2027, driven by the competitive edge of HBM4, the sixth generation of HBM. Market watchers also expect S",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260629PD215/samsung-hbm-hbm4-market-share-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-29-007",
+    "date": "2026-06-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung, SK Hynix to build KRW800 trillion chip hub in South Korea&rsquo;s southwest",
+    "summary": "<p class=\"P1\" data-start=\"385\" data-end=\"717\">South Korea is pushing to establish a second national semiconductor production base in Gwangju and South Jeolla in the country's southwest, with Samsung E",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260629VL209/samsung-sk-hynix-ic-manufacturing-south-korea-region.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-008",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Xiaomi TV S Mini LED 55-inch review: Big-screen ambition, small compromises - Business Standard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0xmcUZOOHduSXZkUzZWRmJfQWhXc0hWYnhvS0RPV3NUXzRMYU93NlVSRkxmQXpmOE1OWENSM0xqeFotTTJxLXVLMWVDUGtaQWdHekQtZXRrMC1OZ21ORDEtZEpCY0tuSmlLYmxEdW",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0xmcUZOOHduSXZkUzZWRmJfQWhXc0hWYnhvS0RPV3NUXzRMYU93NlVSRkxmQXpmOE1OWENSM0xqeFotTTJxLXVLMWVDUGtaQWdHekQtZXRrMC1OZ21ORDEtZEpCY0tuSmlLYmxEdWRKa1Ixc0tqdWZ3N1VMZzNDcHlsUnU4UmFPdTJYaU0tYXBIa0xacFpTcS1VTDM4aUpJNWVRWXZ2V0PSAa4BQVVfeXFMUGFUNnA3SjdKUVNFNVVPS1BhR0tNZjhVQWh6a0pMVzZEZ2FRS180QzF3RkxTdzZUTHNTNF93S3BIZEJkS05pQVh6X0R5TnJ1YjdrcFVzc2dZXzRWUlVFU1pqeUFvZmo2VWNPZTl3MGhfdG43LXQ3VDhSZkk1TWxaUGFTeENEUkRGaHRvdnJTUi1uRTYtRjhVMkVaX1VQMlc3YURRYS1BdzB2VjlDZUtn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-29-009",
+    "date": "2026-06-29",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL Puts Display Innovation in the Spotlight with Exclusive Mumbai Technology Experience - Adgully.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMHNhX0lKekd4RTRSU2I1aU1ENWZLbzVUN1RFdjFxTUhzOUlfWkJwNV8xUTRjVmNHY0gxVFJacmN6dDBoemFJYjlZT0traWhqek5xUER0LXl6NTNtbXlwRXVtb3BRWWpTOHhkeUZIcH",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMHNhX0lKekd4RTRSU2I1aU1ENWZLbzVUN1RFdjFxTUhzOUlfWkJwNV8xUTRjVmNHY0gxVFJacmN6dDBoemFJYjlZT0traWhqek5xUER0LXl6NTNtbXlwRXVtb3BRWWpTOHhkeUZIcHhtdXhrWVgtQTJmZ0tFa3BHYlY5ZEljU0tMbV9pazFHZ2E5enVYNmlmb3FfS0RaUGV0aGF3VURVclMyd2VQS2NYaU8xZmJMVzdIRXM5N2lZcEo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-29-010",
+    "date": "2026-06-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Samsung Introduces New Education Tools for Interactive Displays at ISTELive 26",
+    "summary": "Samsung Electronics today announced new education solutions for its Android-based Samsung Interactive Display lineup, making shared classroom displays easier to personalize and manage. Announced and e",
+    "sources": [
+      {
+        "name": "samsung_newsroom",
+        "url": "https://news.samsung.com/global/samsung-introduces-new-education-tools-for-interactive-displays-at-istelive-26",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-06-28-001",
     "date": "2026-06-28",
     "companies": [
@@ -51,6 +236,28 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRDVPUFVJVTZMTnJtd20yZ1htNkZ6OUdUSnZrRHJ0VVJ4bk1JdDZpaVJuUzhubk51bDJWcm1FaGFHd1diV2xFbUhIX2xvVUhSd09hYWdKMGI1dUR4aE5xdXZsY2VnS25iQTZqMGdRMTVVajM2dDVuVEtFTVlWV3VubjZXQ1VMc1JPeXc4SmZsem40ME9QNW80Yw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-28-004",
+    "date": "2026-06-28",
+    "companies": [
+      "lg_elec",
+      "lg_display",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple clears Samsung Display and LG Display OLED modules for iPhone 18 Pro series - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbkxzS2F5bVNadzFMYV9IR05aVDAyWE9SZXlvdV9wU0sxZVpEaHJxRnFlTkFldVNIWDN4YmpHWWF1TzdYS05NdkpBaENTbGlVbzhOOUN2ZWJLMExEQVR3SHN2TE8tckp0SmZRZXpveG",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbkxzS2F5bVNadzFMYV9IR05aVDAyWE9SZXlvdV9wU0sxZVpEaHJxRnFlTkFldVNIWDN4YmpHWWF1TzdYS05NdkpBaENTbGlVbzhOOUN2ZWJLMExEQVR3SHN2TE8tckp0SmZRZXpveGJuRUgwbTBDNGNWcFVNT3Z4RmpCa2lveE5KYW9j?oc=5",
         "type": "rss"
       }
     ]
@@ -599,6 +806,24 @@
     ]
   },
   {
+    "id": "novatek-2026-06-26-021",
+    "date": "2026-06-26",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Novatek Microelectronics details shareholder structure, shares tracked against Taiwan tech peers - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNenB5djZ5bThwTDlwWjNhYXZmUjdNWWg4RFN3ZU43UWVIYWxVbEhRbERRaklCN1dFWHlTbU96S3QtbXpCWTRnbTZxamM3MWkyMWYyWUhZSEpFaktzTFBfWjVtSGtkSWF1RnIzX1JPSU",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNenB5djZ5bThwTDlwWjNhYXZmUjdNWWg4RFN3ZU43UWVIYWxVbEhRbERRaklCN1dFWHlTbU96S3QtbXpCWTRnbTZxamM3MWkyMWYyWUhZSEpFaktzTFBfWjVtSGtkSWF1RnIzX1JPSUZxLTVGUV9zOHQ2VlZDREh2Nm9xM1cwcExiMzBkZ2dUTjZYNjVJTEdtTXNlVk4wR3o4dU1SLUwzSUpxRlAtQ1pQbC1fQnNxY1RaXzhiblVLdkpLU0ZLMGZJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_display-2026-06-25-001",
     "date": "2026-06-25",
     "companies": [
@@ -1048,6 +1273,44 @@
       {
         "name": "jdi",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX3B6SXdtalNmbGdCRWVhbmdFTG9hbV91RVhEdVFNWUhORjN2Um5kdkVEUU0wMURNYTJVaE1DbDM2OGpuSklNal96Q3R5M0gzUl85VkNyTGpCYmlJRHZlRVRndGpUZDRsQjJOZUIxNGxxVjV0ZFp6V01EUUdxczdRNFhFMXYwOTFTMVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-06-25-025",
+    "date": "2026-06-25",
+    "companies": [
+      "auo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AUO clears technical hurdle, shares trade above key moving average - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTy15a01lLWhNNXFYZkc5OGJQWkV6Nk96QU9zd1NzRzNXWGZZUV9FTjlWYXJTVFdRbk9mbEhHU01NUUdGVDhpZEp3cmM0alVqelczd1Z0TnpTV0hUUlJ5MEdZQTlNUFExOTVZTnVqbE",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTy15a01lLWhNNXFYZkc5OGJQWkV6Nk96QU9zd1NzRzNXWGZZUV9FTjlWYXJTVFdRbk9mbEhHU01NUUdGVDhpZEp3cmM0alVqelczd1Z0TnpTV0hUUlJ5MEdZQTlNUFExOTVZTnVqbEF3MmliZGVhMzRqTFRBaHBmVEVUdUtYUE44NXB0WHdUOGZiX3FZRUNxbWFuaU44MU93eUl1cHpjUlRTNHVMYTFNOW5XYnVCNGY0cVU3TlFCakV0dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-25-026",
+    "date": "2026-06-25",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "LG 43-Inch Mini LED TV Just $330 – Premium Compact Display - The Inventory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5mR2N1VVJWOU5TYWFNQk1tUG8xeEdNb05vOVJIekxKVkhianRSTnFQeFpWMFJ0RDhqSmN1SmR5SHRLMktGZzlCaE5KTU9nV2xGZmJldGxNdm51ajROSnMzRFJGSHNhdWp3Ym8xRjF3cw",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mR2N1VVJWOU5TYWFNQk1tUG8xeEdNb05vOVJIekxKVkhianRSTnFQeFpWMFJ0RDhqSmN1SmR5SHRLMktGZzlCaE5KTU9nV2xGZmJldGxNdm51ajROSnMzRFJGSHNhdWp3Ym8xRjF3cw?oc=5",
         "type": "rss"
       }
     ]
@@ -1598,6 +1861,24 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmxiLTdySU8tLU5jMkdYeHVoLXBWbzZWLTd0dWcxbVphUGsyZ2hSX0djZEN3Ylg1c01Fc0RBdG1RSTk1UC05SzJJRUVqOVQwdUxoR3MyWFU0SnVHN2dMcUpqYVd3cWU1T3g4eEVrLU9jNUgzUWNhUlVmMWktTWZxazdTdmxhS2xDdWpnMEhFbTJCaEs1YlMtaDRKSEJPSUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-06-24-030",
+    "date": "2026-06-24",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning sets 28-cent quarterly dividend, payable Sept. 29 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ3gxR0h5TWc2N1lDNTFJeFI5dVNPeW1FU2VFT3l2dFRLRXpGR25fX0dzS1RJUnRhdDg5MF95aHdjMWFLcGFnUk92N1FsdDlCc25KQTBRQ3R4OTlMcUl5T0JnT0lMZU1ONUZUUTUzU1",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ3gxR0h5TWc2N1lDNTFJeFI5dVNPeW1FU2VFT3l2dFRLRXpGR25fX0dzS1RJUnRhdDg5MF95aHdjMWFLcGFnUk92N1FsdDlCc25KQTBRQ3R4OTlMcUl5T0JnT0lMZU1ONUZUUTUzU1dvM3BLdE9pM0Y4WlJrUEpWcHlDdi1PWTha?oc=5",
         "type": "rss"
       }
     ]
