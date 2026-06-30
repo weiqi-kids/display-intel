@@ -1,5 +1,136 @@
 [
   {
+    "id": "corning-2026-06-30-001",
+    "date": "2026-06-30",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning (GLW) Sets Date for New Dividend; Shares Up 15.6% - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNQkpnWncyRGNrTVU0Nnh0TURzMjZJX1k0VndrWnVlTDV0Ylg4ZnZwRkNEZjNmMFZoUXAyZ29WNXFkbG5oUnBxLVlrb3lZcms5R1RDXzU2aktkZTBUVmNTdy1zN2o1NUZrMVhQTnhOTW",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQkpnWncyRGNrTVU0Nnh0TURzMjZJX1k0VndrWnVlTDV0Ylg4ZnZwRkNEZjNmMFZoUXAyZ29WNXFkbG5oUnBxLVlrb3lZcms5R1RDXzU2aktkZTBUVmNTdy1zN2o1NUZrMVhQTnhOTW92anM5VV9mQTV0TFVwOTlkRjByYktiU3pPd1Q4WUJHYjRSUnVqb0Q5Wl9MZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "raydium-2026-06-30-002",
+    "date": "2026-06-30",
+    "companies": [
+      "raydium"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Enterprise value to EBITDA forward of Raydium Semiconductor Corp. – TWSE:3592 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSTdsaThJLThva3FWRXBwdklRSGhnR0U2TEl3ZjdfNkRGajJjeGNLR2s4d3ZKdVR3SHhmdFgzMTJSRmZEY1NhRVhVVWIzbE15N0p4Q3BPbXExTVNoOVc1RjVsdTYtRkNNVUE0ckw3UT",
+    "sources": [
+      {
+        "name": "raydium",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSTdsaThJLThva3FWRXBwdklRSGhnR0U2TEl3ZjdfNkRGajJjeGNLR2s4d3ZKdVR3SHhmdFgzMTJSRmZEY1NhRVhVVWIzbE15N0p4Q3BPbXExTVNoOVc1RjVsdTYtRkNNVUE0ckw3UThBbm5OV3FMaTRJdXhkVkpqTVBTRVl6TGhVcVI4YUU4YWJPdVdmT3NVZnhySlFsNGh4NHNfcU9xMHNLbms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-06-30-003",
+    "date": "2026-06-30",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies Launches HE Series iToF Depth Decoder ICs for Robotics and AI Vision Applications - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPdTJSYkNIRFdMTEpiQzVDeVltYWVZcjNWUFRnQzF6bTlmU3RWVkNfd1hyLUV6bDRCYjAyNDlMSHBVaFlSUFZXbjlqc1hPNW1WZnNlSzk4Sm9CVnF1NkxLV1RVRmdOTDdKWjROdThNdl",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdTJSYkNIRFdMTEpiQzVDeVltYWVZcjNWUFRnQzF6bTlmU3RWVkNfd1hyLUV6bDRCYjAyNDlMSHBVaFlSUFZXbjlqc1hPNW1WZnNlSzk4Sm9CVnF1NkxLV1RVRmdOTDdKWjROdThNdlEtNkhWVnl4aG5USGdrbHI2UXdlRl8tT0dfbEFBeXZPbXltdjVYbkZzWFUydmV4VEk4dklfTDllS0NNMUl4YUtsSzM5ZE9abXUyd2d6elhET3hIVzdONnFqS1dxUTBMUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-30-004",
+    "date": "2026-06-30",
+    "companies": [
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG copies Samsung's portable touchscreen TV for its StanbyME 2 Max - SamMobile",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSFBJVkZjYS1MdWdiVmdtQlBSQjRGV1d3UGVfSVBncFc4UWdyM3RYRmxFbk9yTGRzMVFMSHFiaTc0Wml1dkw5ZjRoSHFNRi1nT29jTnkyZlJGUGFGYXRlZnRoaTdsUnpKNjFibG15SG",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSFBJVkZjYS1MdWdiVmdtQlBSQjRGV1d3UGVfSVBncFc4UWdyM3RYRmxFbk9yTGRzMVFMSHFiaTc0Wml1dkw5ZjRoSHFNRi1nT29jTnkyZlJGUGFGYXRlZnRoaTdsUnpKNjFibG15SGwzVHd5OVItRnRWUWkyQnJYZWVkS3BaNzNMTU1KYm1aZkZMU0VYWHAwTVNLRGYxN01ucEVF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-30-005",
+    "date": "2026-06-30",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "85-Inch TCL Mini LED TV With 144Hz Gaming Drops to $998 - The Inventory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9Uc21CRDg1R3MwdXdwN3F2NHc3QU1lVXFvdTlvcHltOHh3amhLQ1lHWFV6blRLVTJVeXJCdE5kTkN5dXJ4aGlTeW8wUlhhNEpUZmp3UUYzdzBCdVJiZ3BRRTlXSGx1RklRNGU5M0FpMF",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Uc21CRDg1R3MwdXdwN3F2NHc3QU1lVXFvdTlvcHltOHh3amhLQ1lHWFV6blRLVTJVeXJCdE5kTkN5dXJ4aGlTeW8wUlhhNEpUZmp3UUYzdzBCdVJiZ3BRRTlXSGx1RklRNGU5M0FpMF8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-006",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "neutral",
+    "title": "2026 Global Automotive LED Market: Lighting and Display Product Trend - TrendForce",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ma2JZaHhkaGZzYTE4WnZRbXVqRXdDdWtUaUdYM25mZVlBRlc5dWxUSGt0LTlUaGN3MGhBR2ZzdFVfLUhPR2RSQVMxck1EV3dUaGVHM3pGXzA1N1UzTFNKZWpqLWt2Zw?oc=5\" targe",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ma2JZaHhkaGZzYTE4WnZRbXVqRXdDdWtUaUdYM25mZVlBRlc5dWxUSGt0LTlUaGN3MGhBR2ZzdFVfLUhPR2RSQVMxck1EV3dUaGVHM3pGXzA1N1UzTFNKZWpqLWt2Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-30-007",
+    "date": "2026-06-30",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "75-Inch TCL Mini LED TV With 144Hz Gaming Drops to $748 - The Inventory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9QeV9scUZWeW9LcEdOUWJBNFhXZ1ZHOXJDX0ZlTXJfRnpZTlZhSmRFSnVMQkU1RjYzbTU4clMwUGoyMHBvbl9ScXNtNXl2VzVxX2IxY2FKaFNyak91dE1PRDBTN3VONnFobGdERE9YcG",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QeV9scUZWeW9LcEdOUWJBNFhXZ1ZHOXJDX0ZlTXJfRnpZTlZhSmRFSnVMQkU1RjYzbTU4clMwUGoyMHBvbl9ScXNtNXl2VzVxX2IxY2FKaFNyak91dE1PRDBTN3VONnFobGdERE9YcGY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-06-29-001",
     "date": "2026-06-29",
     "companies": [
@@ -180,6 +311,66 @@
       {
         "name": "samsung_newsroom",
         "url": "https://news.samsung.com/global/samsung-introduces-new-education-tools-for-interactive-displays-at-istelive-26",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-29-011",
+    "date": "2026-06-29",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display OLED Screens Achieve World-First ‘Perfect Color/Brightness’ Certification - Forbes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPaTRqLVhWWWljZDJWeWFPbG5JNURJZFBPVVdoSzh4SFN4ZTBrcVI3emN2bFdkQlFCU0hxeGhmVXV2UlQyV1BUX3FmWHM5M2tYSk1CYzRsMnVpU3ZxcFlmblFXcUJtUFhwaE9WTkZubV",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaTRqLVhWWWljZDJWeWFPbG5JNURJZFBPVVdoSzh4SFN4ZTBrcVI3emN2bFdkQlFCU0hxeGhmVXV2UlQyV1BUX3FmWHM5M2tYSk1CYzRsMnVpU3ZxcFlmblFXcUJtUFhwaE9WTkZubVRHVmVGY0RQUUJOTEJIbDdVbFBaUHZkV1pYZmVBU19ROUV3by1aVVRrcnAyVFNpU2Voc3dqRmRGTG1sYTFWUWo4QnFMNlc1U25McTFuZUZWUHpLNTlQOEFkdVY1MkEtQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-012",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "OLED TV Shipments to Stall at 6.9 Million Through 2030 as Mini LED and RGB LED Surge - Tech Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdl8tR0tHWWFwRzZuc1lHczBXRkcwMTdzY3RVSFoyRkFfV2Z4czNzQUlnMkVuZzhFc1dMc1NpdERxUmJ4aFRaZlZtd1Q5SHcxczQxeU5hNGJoREFWZjJ3YklvckJzV0xpU2tvZjJvTz",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdl8tR0tHWWFwRzZuc1lHczBXRkcwMTdzY3RVSFoyRkFfV2Z4czNzQUlnMkVuZzhFc1dMc1NpdERxUmJ4aFRaZlZtd1Q5SHcxczQxeU5hNGJoREFWZjJ3YklvckJzV0xpU2tvZjJvTzRvaXB0YXlkRnVvZ1lseWQtYnYzVjkwWEdDTVZrVll5UWVjQUgyb0JOTzdlUkxPV3QwUjA5LTludk9vMmxjNzVuUklRM2Q3OHJXekxFbmM1RmdWcDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-29-013",
+    "date": "2026-06-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "100-Inch Samsung Mini LED TV $300 Off—Now $2,197 Renewed - The Inventory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1RdGxTa0JUTFhRMkhEQTZvclNYd1VwSXBPWVF0LU5oamNqemJMMHFUYXJZb3RUZ25NeGd1UmUxUkRVU21CWXpTRGRONnhWWTRlZDRUdlpadlg5RkdxMFl6UGNtQ1NlLXJKbjZyeWlmRj",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RdGxTa0JUTFhRMkhEQTZvclNYd1VwSXBPWVF0LU5oamNqemJMMHFUYXJZb3RUZ25NeGd1UmUxUkRVU21CWXpTRGRONnhWWTRlZDRUdlpadlg5RkdxMFl6UGNtQ1NlLXJKbjZyeWlmRjZlNUhT?oc=5",
         "type": "rss"
       }
     ]
@@ -430,6 +621,26 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1pLQ1hnTTR4SXVBaVNjbE9GZ1JrdUpJYjhUTXRsUDRNZzJDblA1cjFpOHEwbEQ2RGUtc2lETC1mdkVDTTRJa2M5SVRGTEV2SkRlbV9vWVpLaEYtdzJLN2JDdWREd0RVVjRFT1N4YVRrdUVxZ2ZyZjBlVHNrR2RxUjVUSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-06-27-010",
+    "date": "2026-06-27",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Japan Display Inc. – TSE:6740 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOOHJUZTVVZWJRU0tTUFRhQ0Q4Tmx2d0JZZWhlNHZZenBvSEFTcnc2cGc0T3IxckN1cDl6SkNUbFN5MGhoZFp6ZnIzd0R6ZERQYmFKdUdfM01TMnZwaEVDcU81bXVwakg2aVhmR1ZLVV",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHJUZTVVZWJRU0tTUFRhQ0Q4Tmx2d0JZZWhlNHZZenBvSEFTcnc2cGc0T3IxckN1cDl6SkNUbFN5MGhoZFp6ZnIzd0R6ZERQYmFKdUdfM01TMnZwaEVDcU81bXVwakg2aVhmR1ZLVVotc1B6elN5YjNBZXN6SFRYN1FPb1JmRy15UzduMm1BOFBsay1zX0tIWTFkQ09QZw?oc=5",
         "type": "rss"
       }
     ]

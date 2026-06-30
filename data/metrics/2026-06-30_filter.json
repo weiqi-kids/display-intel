@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 100,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 26,
+  "gate2_fail": 36,
+  "passed": 11,
+  "gate2_samples": [
+    "Corning Incorporated's Stock Price Skyrockets to $255.69, Marking a Colossal 15.67% Increase - Smart",
+    "Corning Inc Stock (GLW) Moved Up by 14.03% on Jun 29: Facts Behind the Movement - TradingKey",
+    "Corning Incorporated(NYSE: GLW) dropped from Russell Midcap Value Benchmark - marketscreener.com",
+    "Corning Incorporated(NYSE: GLW) dropped from Russell 1000 Value Benchmark - marketscreener.com",
+    "Corning Incorporated(NYSE: GLW) added to Russell 1000 Growth Benchmark - marketscreener.com"
+  ]
+}

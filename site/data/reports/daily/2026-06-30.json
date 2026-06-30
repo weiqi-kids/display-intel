@@ -1,0 +1,211 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T10:58:29.480601Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_elec-2026-06-30-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "LG copies Samsung's portable touchscreen TV for its StanbyME 2 Max - SamMobile",
+      "companies": [
+        "samsung_elec",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSFBJVkZjYS1MdWdiVmdtQlBSQjRGV1d3UGVfSVBncFc4UWdyM3RYRmxFbk9yTGRzMVFMSHFiaTc0Wml1dkw5ZjRoSHFNRi1nT29jTnkyZlJGUGFGYXRlZnRoaTdsUnpKNjFibG15SGwzVHd5OVItRnRWUWkyQnJYZWVkS3BaNzNMTU1KYm1aZkZMU0VYWHAwTVNLRGYxN01ucEVF?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-06-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corning (GLW) Sets Date for New Dividend; Shares Up 15.6% - Yahoo Finance",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQkpnWncyRGNrTVU0Nnh0TURzMjZJX1k0VndrWnVlTDV0Ylg4ZnZwRkNEZjNmMFZoUXAyZ29WNXFkbG5oUnBxLVlrb3lZcms5R1RDXzU2aktkZTBUVmNTdy1zN2o1NUZrMVhQTnhOTW92anM5VV9mQTV0TFVwOTlkRjByYktiU3pPd1Q4WUJHYjRSUnVqb0Q5Wl9MZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "raydium-2026-06-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enterprise value to EBITDA forward of Raydium Semiconductor Corp. – TWSE:3592 - TradingView",
+      "companies": [
+        "raydium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSTdsaThJLThva3FWRXBwdklRSGhnR0U2TEl3ZjdfNkRGajJjeGNLR2s4d3ZKdVR3SHhmdFgzMTJSRmZEY1NhRVhVVWIzbE15N0p4Q3BPbXExTVNoOVc1RjVsdTYtRkNNVUE0ckw3UThBbm5OV3FMaTRJdXhkVkpqTVBTRVl6TGhVcVI4YUU4YWJPdVdmT3NVZnhySlFsNGh4NHNfcU9xMHNLbms?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "himax-2026-06-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax Technologies Launches HE Series iToF Depth Decoder ICs for Robotics and AI Vision Applications - Quiver Quantitative",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdTJSYkNIRFdMTEpiQzVDeVltYWVZcjNWUFRnQzF6bTlmU3RWVkNfd1hyLUV6bDRCYjAyNDlMSHBVaFlSUFZXbjlqc1hPNW1WZnNlSzk4Sm9CVnF1NkxLV1RVRmdOTDdKWjROdThNdlEtNkhWVnl4aG5USGdrbHI2UXdlRl8tT0dfbEFBeXZPbXltdjVYbkZzWFUydmV4VEk4dklfTDllS0NNMUl4YUtsSzM5ZE9abXUyd2d6elhET3hIVzdONnFqS1dxUTBMUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "tcl-2026-06-30-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "85-Inch TCL Mini LED TV With 144Hz Gaming Drops to $998 - The Inventory",
+      "companies": [
+        "tcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Uc21CRDg1R3MwdXdwN3F2NHc3QU1lVXFvdTlvcHltOHh3amhLQ1lHWFV6blRLVTJVeXJCdE5kTkN5dXJ4aGlTeW8wUlhhNEpUZmp3UUYzdzBCdVJiZ3BRRTlXSGx1RklRNGU5M0FpMF8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tcl",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "raydium",
+        "count": 1
+      },
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "mini_led",
+        "count": 2
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 100,
+    "too_old": 164,
+    "gate1_blocked": 26,
+    "gate2_blocked": 36,
+    "passed": 11,
+    "pass_rate": "4.6%",
+    "gate2_block_rate": "15.2%",
+    "gate2_samples": [
+      "Corning Incorporated's Stock Price Skyrockets to $255.69, Marking a Colossal 15.67% Increase - Smart",
+      "Corning Inc Stock (GLW) Moved Up by 14.03% on Jun 29: Facts Behind the Movement - TradingKey",
+      "Corning Incorporated(NYSE: GLW) dropped from Russell Midcap Value Benchmark - marketscreener.com",
+      "Corning Incorporated(NYSE: GLW) dropped from Russell 1000 Value Benchmark - marketscreener.com",
+      "Corning Incorporated(NYSE: GLW) added to Russell 1000 Growth Benchmark - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為TCL Technology、康寧、Raydium Semiconductor相關動態：「LG copies Samsung's portable touchscreen TV for its Stanb...」。主要關注主題為Mini LED、面板價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "LG copies Samsung's portable touchscreen TV for its StanbyME 2 Max - SamMobile",
+        "level": "yellow"
+      },
+      {
+        "text": "Corning (GLW) Sets Date for New Dividend; Shares Up 15.6% - Yahoo Finance",
+        "level": "green"
+      },
+      {
+        "text": "面板價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
