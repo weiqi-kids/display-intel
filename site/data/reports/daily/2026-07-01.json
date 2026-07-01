@@ -1,0 +1,212 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T11:24:36.299022Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nvidia GPU-network ecosystem tops data center Ethernet switches",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260701PD224/nvidia-data-center-ethernet-idc.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-01-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Kinpo expects 2H revenue to exceed 1H amid plant ramp",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260701PD214/kinpo-revenue-materials-2026-gross-margin.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "himax-2026-07-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax Technologies Inc (HIMX) Stock Up 5.3% but GF Value Says Ov - GuruFocus",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcldYOWx1V3JQb1hwYzVmSXJ2OEp3ZHROTkt3SUdwVkZzWFR0RzA0NlJvNEtsOVY1Um82b3BnaUNaVEJDQVpvT2ZwX1pjMTFoZWEtdEt6NF9udkhQbFZ3QWdRZE14SHl4Wk5haHJ1U1dKc3lUTkc0WlduVHNJOHc1VHN6bmk1TWJ4b2FzaURUTk5obTNSbHE2eGl5RVc3QmZQZ1V2LUF0R0xXOVlqUm9iSU4yX0JfMk5xLXNzZ1UyYw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A Walk Down Memory Lane - Q3 2026: OLED History from 20, 10, and 5 Years Ago",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/walk-down-memory-lane-q3-2026-oled-history-20-10-and-5-years-ago"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-07-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung, SK Hynix southwest fab plans put Gwangju's silicon photonics ambitions in focus",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260701PD218/samsung-sk-hynix-siph-fab-region.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "himax",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 377,
+    "dup_title": 112,
+    "too_old": 171,
+    "gate1_blocked": 46,
+    "gate2_blocked": 33,
+    "passed": 15,
+    "pass_rate": "5.7%",
+    "gate2_block_rate": "12.5%",
+    "gate2_samples": [
+      "Corning Incorporated's Stock Price Skyrockets to $255.69, Marking a Colossal 15.67% Increase - Smart",
+      "Corning Incorporated(NYSE: GLW) dropped from Russell Midcap Value Benchmark - marketscreener.com",
+      "Corning Inc Stock (GLW) Moved Up by 14.03% on Jun 29: Facts Behind the Movement - TradingKey",
+      "Corning Incorporated(NYSE: GLW) dropped from Russell 1000 Value Benchmark - marketscreener.com",
+      "Corning Incorporated(NYSE: GLW) added to Russell 1000 Growth Benchmark - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為三星電子、Himax Technologies相關動態：「Nvidia GPU-network ecosystem tops data center Ethernet sw...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nvidia GPU-network ecosystem tops data center Ethernet switches（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Kinpo expects 2H revenue to exceed 1H amid plant ramp（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,133 @@
 [
   {
+    "id": "himax-2026-07-01-001",
+    "date": "2026-07-01",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies Inc (HIMX) Stock Up 5.3% but GF Value Says Ov - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOcldYOWx1V3JQb1hwYzVmSXJ2OEp3ZHROTkt3SUdwVkZzWFR0RzA0NlJvNEtsOVY1Um82b3BnaUNaVEJDQVpvT2ZwX1pjMTFoZWEtdEt6NF9udkhQbFZ3QWdRZE14SHl4Wk5haHJ1U1",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcldYOWx1V3JQb1hwYzVmSXJ2OEp3ZHROTkt3SUdwVkZzWFR0RzA0NlJvNEtsOVY1Um82b3BnaUNaVEJDQVpvT2ZwX1pjMTFoZWEtdEt6NF9udkhQbFZ3QWdRZE14SHl4Wk5haHJ1U1dKc3lUTkc0WlduVHNJOHc1VHN6bmk1TWJ4b2FzaURUTk5obTNSbHE2eGl5RVc3QmZQZ1V2LUF0R0xXOVlqUm9iSU4yX0JfMk5xLXNzZ1UyYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-002",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "A Walk Down Memory Lane - Q3 2026: OLED History from 20, 10, and 5 Years Ago",
+    "summary": "<p>In our <a href=\"https://www.oled-info.com/walk-down-memory-lane-q2-2026-oled-history-20-10-and-5-years-ago\">OLED history article series</a>, we look back 20, 10, and 5 years ago, and revisit the hi",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/walk-down-memory-lane-q3-2026-oled-history-20-10-and-5-years-ago",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-003",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia GPU-network ecosystem tops data center Ethernet switches",
+    "summary": "According to IDC's latest data, Nvidia's networking business has surged to the top, with the company becoming the revenue leader in the global data center Ethernet switch market for the first time in ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260701PD224/nvidia-data-center-ethernet-idc.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-01-004",
+    "date": "2026-07-01",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung, SK Hynix southwest fab plans put Gwangju's silicon photonics ambitions in focus",
+    "summary": "Samsung Electronics' and SK Hynix's planned memory investments in South Korea's southwest have mostly been viewed as a push to balance regional development and tap into local renewable energy.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260701PD218/samsung-sk-hynix-siph-fab-region.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-01-005",
+    "date": "2026-07-01",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Samsung Display to expand OLED capacity as foldable demand builds",
+    "summary": "Samsung Display (SDC) is preparing to expand 6th-generation OLED capacity at its A4 plant in Asan, South Chungcheong Province, marking its first new capacity move since the 8.6-generation IT OLED inve",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260701VL214/sdc-oled-panel-foldable-smartphone-capacity-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-006",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kinpo expects 2H revenue to exceed 1H amid plant ramp",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:357;121-477\">Kinpo Electronics said its core operations remained stable despite a first-quarter revenue drop, with global demand patterns, customer model changes, a",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260701PD214/kinpo-revenue-materials-2026-gross-margin.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-007",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "[News] Refond Mini LED Automotive Backlight Powers the NIO ES9 “Skyline Display” - LEDinside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HRkx3VzlVSTVwUHloeVhiTFhXVnVLUjg4ai1JQlpScUI0MDNVLTBVaGRMZnRHMDE0YmxYdUZsUWc3N2FlUVJiV01nbHk?oc=5\" target=\"_blank\">[News] Refond Mini LED A",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HRkx3VzlVSTVwUHloeVhiTFhXVnVLUjg4ai1JQlpScUI0MDNVLTBVaGRMZnRHMDE0YmxYdUZsUWc3N2FlUVJiV01nbHk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-06-30-001",
     "date": "2026-06-30",
     "companies": [
@@ -126,6 +254,146 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QeV9scUZWeW9LcEdOUWJBNFhXZ1ZHOXJDX0ZlTXJfRnpZTlZhSmRFSnVMQkU1RjYzbTU4clMwUGoyMHBvbl9ScXNtNXl2VzVxX2IxY2FKaFNyak91dE1PRDBTN3VONnFobGdERE9YcGY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-30-008",
+    "date": "2026-06-30",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of LG Display Co., Ltd Sponsored ADR – LS:A0B68Y - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQOWhFSUdTTUlEa3lVbURFT2tQdFlpbHlDb2xnOWxEaFJXODcySGY5elB6RF9BUXYzZ3hQaUk1cm4zbVc2SWwzNTZLcVJ1TkxPd1RjRXp1X1hLQ2NHUTRfZFJmU054U2tSOFpzMmhlWk",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOWhFSUdTTUlEa3lVbURFT2tQdFlpbHlDb2xnOWxEaFJXODcySGY5elB6RF9BUXYzZ3hQaUk1cm4zbVc2SWwzNTZLcVJ1TkxPd1RjRXp1X1hLQ2NHUTRfZFJmU054U2tSOFpzMmhlWkhuOVpNOUJuSEhBbTlKcWxKZlBtYVdsSHJXaXlIcFRPNzc2X3dWaGpFRGVaME9jeU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-30-009",
+    "date": "2026-06-30",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Releases 2026 ESG Report Highlighting Sustainability Achievements - Aju Press",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WakE3bnlLRmJYUWdNRElKc2c0MjUySlBxNzdBSzBwOEpidFRyTU8yQ2VYc1NIamgwUVY3OGRjVkFIT0tRMzh0ZWg4eDVjVU91Vi1ZZUthQdIBV0FVX3lxTE9WakE3bnlLRmJYUWdNRE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WakE3bnlLRmJYUWdNRElKc2c0MjUySlBxNzdBSzBwOEpidFRyTU8yQ2VYc1NIamgwUVY3OGRjVkFIT0tRMzh0ZWg4eDVjVU91Vi1ZZUthQdIBV0FVX3lxTE9WakE3bnlLRmJYUWdNRElKc2c0MjUySlBxNzdBSzBwOEpidFRyTU8yQ2VYc1NIamgwUVY3OGRjVkFIT0tRMzh0ZWg4eDVjVU91Vi1ZZUthQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-30-010",
+    "date": "2026-06-30",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Samsung Display to Expand a Gen-6 OLED Line in Asan for Apple's Foldable and Future iPhones - Tech Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR1FXQTRKLU81Nnhnb0ZOTXBBVGxrYllNLVo5bWxwMVpHRTNSeDZVU29PWmxVN3NvMGN6TGZKVkl4VUU2U0hFTG9JYU5rb2pWdWcwV0NSUlljWFF0WUFGWnRtd1cxRkdOUFlDVTJKNW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR1FXQTRKLU81Nnhnb0ZOTXBBVGxrYllNLVo5bWxwMVpHRTNSeDZVU29PWmxVN3NvMGN6TGZKVkl4VUU2U0hFTG9JYU5rb2pWdWcwV0NSUlljWFF0WUFGWnRtd1cxRkdOUFlDVTJKNWxicThoMTUzU3lsZkFCRXY1V1dCV1ZWaDdFUHZWMUd5bWYxdFlxcVd4T1FfTXV5UlZ6RTZlemJ0TWNoRFNVVFluamZlQ0k0b2s1d1JoeUdXSWx4ME83QlJRaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-06-30-011",
+    "date": "2026-06-30",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung and KDDI Successfully Complete AI-Powered Network Optimization Trial on Commercial 5G Standalone Network in Japan",
+    "summary": "Samsung Electronics today announced the successful trial of its AI-powered RAN Speed Optimizer (RSO) on KDDI’s commercial 5G Standalone (SA) network in Japan. The joint trial, which began in late 2025",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-and-kddi-successfully-complete-ai-powered-network-optimization-trial-on-commercial-5g-standalone-network-in-japan",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-06-30-012",
+    "date": "2026-06-30",
+    "companies": [
+      "tcl",
+      "boe",
+      "csot",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration",
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Samsung decides not to adopt BOE's AMOLEDs in its flagship S27 smartphone series, will use SDC panels exclusively",
+    "summary": "<p>Samsung Electronics, aiming to reduce its cost structure, recently <a href=\"https://www.oled-info.com/samsung-electronics-orders-15-million-oled-panels-tcl-csot-its-2026-a5-and-fe\">ordered 15 milli",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-decides-not-adopt-boes-amoleds-its-flagship-s27-smartphone-series-will",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-06-30-013",
+    "date": "2026-06-30",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "LG 65-Inch Mini LED 4K TV (Renewed) Just $648 on Amazon - The Inventory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBsTEpGV3gxMEdHZnN3OFFJNTNLYXVydUJXNlNmc05OUHRZLVdXQkdla0NfclRNUE9hdjlEcU1XUWdaMTQ4em1ybmlGYjQ2bG84aWJ1RlhfS0lxRVIxd1JFQi03YXVhRFdGdW9sQ2w3UW",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsTEpGV3gxMEdHZnN3OFFJNTNLYXVydUJXNlNmc05OUHRZLVdXQkdla0NfclRNUE9hdjlEcU1XUWdaMTQ4em1ybmlGYjQ2bG84aWJ1RlhfS0lxRVIxd1JFQi03YXVhRFdGdW9sQ2w3UW1kTjJleU1UcG93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-014",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Mini/Micro LED Industry Expert Liang Hong: A Three-Dimensional Approach Across Hardware, Software, and Industry Standards to Address Global Display Industry Pain Points - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AJBVV95cUxNYWx4UEwxRmRGcDNBeTh4bWNyZ1JEemtST0twX3NGM2M3UnhqaFE2T0EzSW1PTTE2N0NjWFJ1emtoYW1aSkc5NDF5eWRkUnBEXzhfU2pVNldDX1NZSlp2b0pMZ25xSy1tYUR6TmVhWl",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNYWx4UEwxRmRGcDNBeTh4bWNyZ1JEemtST0twX3NGM2M3UnhqaFE2T0EzSW1PTTE2N0NjWFJ1emtoYW1aSkc5NDF5eWRkUnBEXzhfU2pVNldDX1NZSlp2b0pMZ25xSy1tYUR6TmVhWllIYnVIaENSY0FJRlBoV09OYnBrLVQ3aHl5UnlTc3ZLd0pPVXF3eDY2bmRHdDNWTkJGVG5NMFRfM0ZNWDZsT3B1TVJQNVhzUjVtVG55OEUxaVlFeEwweDBSWDdqNFhWMVpsSUdJVGl3VEM5WjVTM093eFFnMDZoZW5VSnZocmxjUk5WcVBTUTdYS2ZOemNQY0dGSWxkc29VSm1HUUYyWlJJMG43LTBzR19Cdk5sYjR1bGpnVFBYY3ZNc1JiOUJJbEx1WGh5NTM1aFBpcGJ3dXNKMWxBMFFBc045U1QwNmVCYzg?oc=5",
         "type": "rss"
       }
     ]
@@ -371,6 +639,27 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RdGxTa0JUTFhRMkhEQTZvclNYd1VwSXBPWVF0LU5oamNqemJMMHFUYXJZb3RUZ25NeGd1UmUxUkRVU21CWXpTRGRONnhWWTRlZDRUdlpadlg5RkdxMFl6UGNtQ1NlLXJKbjZyeWlmRjZlNUhT?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-29-014",
+    "date": "2026-06-29",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display OLED Screens Achieve World-First ‘Perfect Color/Brightness’ Certification - Yahoo News Malaysia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQNG9qdGhrN2NkVjFnV3VrZTJCTklvSDhXNzYwMkFkOG4zSXBnQjlpMHg3WUttOEZEMW1aVGFFMG8tZ3hIZjQ2cUJDOXA2LTdWQUE5OXNSRUh4a3dNcHhnNGFzcHNkcnd6SFpuOUlvQk",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNG9qdGhrN2NkVjFnV3VrZTJCTklvSDhXNzYwMkFkOG4zSXBnQjlpMHg3WUttOEZEMW1aVGFFMG8tZ3hIZjQ2cUJDOXA2LTdWQUE5OXNSRUh4a3dNcHhnNGFzcHNkcnd6SFpuOUlvQkVRLUJEMkxuYlFRTFBKV01felBiaUI?oc=5",
         "type": "rss"
       }
     ]
