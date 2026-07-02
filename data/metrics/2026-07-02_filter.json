@@ -1,0 +1,16 @@
+{
+  "total_raw": 376,
+  "dup_title": 112,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 41,
+  "gate2_fail": 36,
+  "passed": 25,
+  "gate2_samples": [
+    "Corning (GLW) awards RSUs to director under deferred plan - Stock Titan",
+    "Corning Slides as Investors Reassess AI-Fueled Rally - Quiver Quantitative",
+    "Corning Incorporated's Stock Price Skyrockets to $255.69, Marking a Colossal 15.67% Increase - Smart",
+    "Corning Inc Stock (GLW) Moved Up by 14.03% on Jun 29: Facts Behind the Movement - TradingKey",
+    "Corning Incorporated(NYSE: GLW) dropped from Russell Midcap Value Benchmark - marketscreener.com"
+  ]
+}
