@@ -1,0 +1,234 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T10:36:16.235624Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-03-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan's Turvo confirms full management authority, reaffirms robotics expansion plans",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260702PD230/management-expansion-turvo-international-robot-earnings.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "boe-2026-07-03-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "BOE targets AI packaging with Micro LED optical interconnect and glass substrate CPO",
+      "companies": [
+        "boe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260703PD221/boe-glass-substrate-cpo-packaging-microled.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "himax-2026-07-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax Technologies (HIMX) Could Be 45% Undervalued After Its HE Series Launch - simplywall.st",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdDZ1bDdwc0RILUZFU254RHY5Z01UTUYteWxzbHVZZlRrMWJUQUduLVNYN2FMa1R3LTduMm9tdllxaFRuM29SdjhCWU1vaHgzSFVMSzBtZFNaRV95WkU0RGFjZHF6OURCcUhJeXBiTTVrSDI4TmF2dGJKRVNMQS1fRHYwLXk1T1lWVnc1RWo4VVJOaEpEaHFtS2lHcm9oTXB4dVpnSUJkSEJsbkMwbWg3THVoeDBNYk1xR0E0dEQzc2dzV1hpTjRIYkJMVzk4cGV3S3hfWGpMdEJ4VFFna3ZZT9IB4AFBVV95cUxQdDZ1bDdwc0RILUZFU254RHY5Z01UTUYteWxzbHVZZlRrMWJUQUduLVNYN2FMa1R3LTduMm9tdllxaFRuM29SdjhCWU1vaHgzSFVMSzBtZFNaRV95WkU0RGFjZHF6OURCcUhJeXBiTTVrSDI4TmF2dGJKRVNMQS1fRHYwLXk1T1lWVnc1RWo4VVJOaEpEaHFtS2lHcm9oTXB4dVpnSUJkSEJsbkMwbWg3THVoeDBNYk1xR0E0dEQzc2dzV1hpTjRIYkJMVzk4cGV3S3hfWGpMdEJ4VFFna3ZZTw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_elec-2026-07-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea bets on southwest semiconductor cluster, but key hurdles remain",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260702PD222/south-korea-government-semiconductors-investment.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "I couldn't decide which TV to buy. Understanding OLED, QLED and Mini LED made the choice much easier - Hindustan Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration",
+        "mini_led",
+        "automotive_display"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObloyS1NBaWhRS1FFbUh0NWFxTzBfTWpKOXdITzVpUnFNNEZROWlSRGtFNUZOX2NRekZESmNsc21VdzdPaFZkOVBwUFdIb2FlNUxRNk84LWxhalVzSS1hUVprVHZMZkVCYmlLV1VsTDk0SHhvbVdQdmRNbDI2RGFnZGFuSFo3MlhFMWVaOEFobUpkVUQxdVlJejZDMmFpYkJUdmxPcGI2eU8xdTU2UHlBMXU5WTIwNDkxVmtQNjFKcmlzeG5TaWcyX3ptMzhHWEFkQm1TRFpqTi1ObTNJV2drVXpkbzYwekl4amZlaGtkZGZfQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "mini_led",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 119,
+    "too_old": 169,
+    "gate1_blocked": 40,
+    "gate2_blocked": 34,
+    "passed": 14,
+    "pass_rate": "5.4%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "Jim Cramer Highlights Trimming Corning for the Charitable Trust - Insider Monkey",
+      "Corning (GLW) awards RSUs to director under deferred plan - Stock Titan",
+      "Corning Slides as Investors Reassess AI-Fueled Rally - Quiver Quantitative",
+      "Corning Incorporated's Stock Price Skyrockets to $255.69, Marking a Colossal 15.67% Increase - Smart",
+      "Corning Inc Stock (GLW) Moved Up by 14.03% on Jun 29: Facts Behind the Movement - TradingKey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Himax Technologies、三星電子、BOE Technology相關動態：「Taiwan's Turvo confirms full management authority, reaffi...」。主要關注主題為Mini LED、法說會、OLED 滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Taiwan's Turvo confirms full management authority, reaffirms robotics expansi...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "BOE targets AI packaging with Micro LED optical interconnect and glass substr...（Mini LED）",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

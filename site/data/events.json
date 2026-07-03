@@ -1,5 +1,117 @@
 [
   {
+    "id": "himax-2026-07-03-001",
+    "date": "2026-07-03",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) Could Be 45% Undervalued After Its HE Series Launch - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdDZ1bDdwc0RILUZFU254RHY5Z01UTUYteWxzbHVZZlRrMWJUQUduLVNYN2FMa1R3LTduMm9tdllxaFRuM29SdjhCWU1vaHgzSFVMSzBtZFNaRV95WkU0RGFjZHF6OURCcUhJeXBiTT",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdDZ1bDdwc0RILUZFU254RHY5Z01UTUYteWxzbHVZZlRrMWJUQUduLVNYN2FMa1R3LTduMm9tdllxaFRuM29SdjhCWU1vaHgzSFVMSzBtZFNaRV95WkU0RGFjZHF6OURCcUhJeXBiTTVrSDI4TmF2dGJKRVNMQS1fRHYwLXk1T1lWVnc1RWo4VVJOaEpEaHFtS2lHcm9oTXB4dVpnSUJkSEJsbkMwbWg3THVoeDBNYk1xR0E0dEQzc2dzV1hpTjRIYkJMVzk4cGV3S3hfWGpMdEJ4VFFna3ZZT9IB4AFBVV95cUxQdDZ1bDdwc0RILUZFU254RHY5Z01UTUYteWxzbHVZZlRrMWJUQUduLVNYN2FMa1R3LTduMm9tdllxaFRuM29SdjhCWU1vaHgzSFVMSzBtZFNaRV95WkU0RGFjZHF6OURCcUhJeXBiTTVrSDI4TmF2dGJKRVNMQS1fRHYwLXk1T1lWVnc1RWo4VVJOaEpEaHFtS2lHcm9oTXB4dVpnSUJkSEJsbkMwbWg3THVoeDBNYk1xR0E0dEQzc2dzV1hpTjRIYkJMVzk4cGV3S3hfWGpMdEJ4VFFna3ZZTw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-002",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan's Turvo confirms full management authority, reaffirms robotics expansion plans",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:580;138-717\">Following recent reports of significant management changes at Turvo International Co., Ltd, President Steven Tsai addressed investors ahead of the comp",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260702PD230/management-expansion-turvo-international-robot-earnings.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-03-003",
+    "date": "2026-07-03",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "South Korea bets on southwest semiconductor cluster, but key hurdles remain",
+    "summary": "South Korea on June 29 unveiled a large-scale investment plan for the country's Honam region in the southwest, which mainly covers the city of Gwangju and North and South Jeolla provinces, including s",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260702PD222/south-korea-government-semiconductors-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-07-03-004",
+    "date": "2026-07-03",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "BOE targets AI packaging with Micro LED optical interconnect and glass substrate CPO",
+    "summary": "<p class=\"P1\" data-start=\"0\" data-end=\"432\">BOE, China's leading display panel maker, is accelerating its move into next-generation packaging technologies for the AI era. The company recently disclose",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260703PD221/boe-glass-substrate-cpo-packaging-microled.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-005",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led",
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "I couldn't decide which TV to buy. Understanding OLED, QLED and Mini LED made the choice much easier - Hindustan Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxObloyS1NBaWhRS1FFbUh0NWFxTzBfTWpKOXdITzVpUnFNNEZROWlSRGtFNUZOX2NRekZESmNsc21VdzdPaFZkOVBwUFdIb2FlNUxRNk84LWxhalVzSS1hUVprVHZMZkVCYmlLV1VsTD",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObloyS1NBaWhRS1FFbUh0NWFxTzBfTWpKOXdITzVpUnFNNEZROWlSRGtFNUZOX2NRekZESmNsc21VdzdPaFZkOVBwUFdIb2FlNUxRNk84LWxhalVzSS1hUVprVHZMZkVCYmlLV1VsTDk0SHhvbVdQdmRNbDI2RGFnZGFuSFo3MlhFMWVaOEFobUpkVUQxdVlJejZDMmFpYkJUdmxPcGI2eU8xdTU2UHlBMXU5WTIwNDkxVmtQNjFKcmlzeG5TaWcyX3ptMzhHWEFkQm1TRFpqTi1ObTNJV2drVXpkbzYwekl4amZlaGtkZGZfQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-006",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "[News] Refond Mini LED Automotive Backlight Powers the AI Intelligent Cockpit of WEY V9X - LEDinside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFByY093LXNGWWl0VUdqYUs4NmVnLWpuYkMtWDFSaDFGV29UQ3pab2laSXMyd3MzRlBTQ0ticDZkckRUOWJmT1ZKME00RTA?oc=5\" target=\"_blank\">[News] Refond Mini LED A",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByY093LXNGWWl0VUdqYUs4NmVnLWpuYkMtWDFSaDFGV29UQ3pab2laSXMyd3MzRlBTQ0ticDZkckRUOWJmT1ZKME00RTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-07-02-001",
     "date": "2026-07-02",
     "companies": [
@@ -237,6 +349,80 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT0h4bl9LQUNRd0g3ZHlkWDZadG1rU3ZjNnppSzQxM1k2VVVibDZWS21QYkI4cGJJTXc5UzcybjVMczJXbG11RFNXc3RyNXlhYXMwaGFsaTBWTUNHTEdISk9OQl9sakYwNmRiMXdJcHlNbmI0eGxwYVRRY1hEaE0wdWIzRzBKOW9MZ3pDcTcwUGZVaXduRGpQVHVfbkJGZmpGLW5Yc0ZNbW5GR0NaVWFEWGxPRWJNazBtRVEw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-02-014",
+    "date": "2026-07-02",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning Just Dropped 13% in a Day. Is the AI Fiber Boom Cracking, or Is This Just Profit-Taking? - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLW1xckktdnpBb2NTWGZMd1JWX0hZUFlZYVNCbG5XN1RTT2hoSFJrSW9hNUQyZnZIV3ZnUi1NMTBwaEswanlHeVpRck1LTVZmTU1IWThUc21PbWtpZ0hsNWh6SmZwUlQ2Y1UtdWFnRm",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLW1xckktdnpBb2NTWGZMd1JWX0hZUFlZYVNCbG5XN1RTT2hoSFJrSW9hNUQyZnZIV3ZnUi1NMTBwaEswanlHeVpRck1LTVZmTU1IWThUc21PbWtpZ0hsNWh6SmZwUlQ2Y1UtdWFnRmVMbW9oc1ZYdHVhV0ZuSmF0X00zSkJWVm12aDBjc19uR2xGTl91NGRURUhLUzFGaENLamFubUkzdVJ1VlFVakVISXRNRWRCUnV2NTZ5MDhkb3o1Q28yNmhKY3FPMjJGRUliMUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-07-02-015",
+    "date": "2026-07-02",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "[Data Snapshot] BOE Technology Group (BOE A) sees fierce battle on the Dragon & Tiger List with RMB 1.9 billion in buying pressure, as multiple institutions and northbound capital engage in intense trading activity in Dorf Ketal - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ2QyWXZPZDZOSmlvN1FxRDBGVDg1ckhfVkFLZ0NKNVJweUJrVGRxQi1NdHZKWDQwdjJtU080czExblg1ZDBGaHEycU15ZjF1SFRMOTJONVBXdm5TMm0wemFuNHQ3cE1kNC1yTGJPX0",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ2QyWXZPZDZOSmlvN1FxRDBGVDg1ckhfVkFLZ0NKNVJweUJrVGRxQi1NdHZKWDQwdjJtU080czExblg1ZDBGaHEycU15ZjF1SFRMOTJONVBXdm5TMm0wemFuNHQ3cE1kNC1yTGJPX0FuTDZWamVKMXRGT3VvakNiemR5MEI4TEZLRnFFLVhOcFNoMkNrQ1hxd0JUQ3FfRzZEaXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-07-02-016",
+    "date": "2026-07-02",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "US, Japan eye $13 billion Japan Display plant as part of investment package, Nikkei Asia reports By Reuters - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOGE0bXZISTg5VGF4OW90NDg3UEptdS1HY0lMTDFKdUtuOHp2bzkzT1NXWEtWZ3pRelJ4NF9PUlVnSlNnNFVaQWxPYTZVb2Z2Q1Q1X2UyTzI5cVUtZ29NeGw2NjNZVWN3WnVta3ROVU",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOGE0bXZISTg5VGF4OW90NDg3UEptdS1HY0lMTDFKdUtuOHp2bzkzT1NXWEtWZ3pRelJ4NF9PUlVnSlNnNFVaQWxPYTZVb2Z2Q1Q1X2UyTzI5cVUtZ29NeGw2NjNZVWN3WnVta3ROVUFxTDNaQXdIZWN4T2s5RHdjRnBpR0Z0TDFiWGhFNFh5UUdweHpvdmZsNi1ialFlX1NlS0F6b2RhNmx4Z2pXR3o2RHlzajBTeEFPVDVDemhSbWlMNUlHNjZscnUtbVg0aUV5UkRhYUp4dUxfaXotQ09IbVFQb0Y?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-02-017",
+    "date": "2026-07-02",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "ETRI researchers develop a single-substrate QD-OLED deposition process",
+    "summary": "<p>Researchers from Korea's ETRI, working together with <a href=\"https://www.oled-info.com/gosan-tech\">Gosan Tech</a> and <a href=\"https://www.oled-info.com/ds-neolux\">Duksan Neolux</a>, developed a n",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/etri-researchers-develop-single-substrate-qd-oled-deposition-process",
         "type": "rss"
       }
     ]
@@ -533,6 +719,44 @@
       {
         "name": "boe",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcV9GbHZVQUl3Z3g0Nk1Ib1BYUHc5N0l4QVJ2SWZDVzJ2ZGxiNndBZ29WN2NNOVcxUzV4cWFGeVRnMEtKSHh3TFdYQlJyemtscFdNYnp1WkdzV1l1dkJYcW1TN2ZoRklINURlY2F6cXdqMW1WSjhfRERoWXlhNmxOT1Zpa3V6ZWZzUFRMLUhUWFpubFRYZGxtTlo0cm4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-07-01-017",
+    "date": "2026-07-01",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LPL Stock Price Prediction 2025-2026 | LG Display Co Ltd Forecast - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kWUwycUNicDgyTjlHbEI2eDRBNmhHNWstZjNQRjFkQmJNWEJPa194UDlmaDlhemRZaTJlbGxvN1lPcnFkOUNkcUJjck82VUhtbFJfcWpfUVpUY09WdjFiN2RnUQ?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kWUwycUNicDgyTjlHbEI2eDRBNmhHNWstZjNQRjFkQmJNWEJPa194UDlmaDlhemRZaTJlbGxvN1lPcnFkOUNkcUJjck82VUhtbFJfcWpfUVpUY09WdjFiN2RnUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-01-018",
+    "date": "2026-07-01",
+    "companies": [
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG's new portable TV is similar to Samsung's The Movingstyle display - SamMobile",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSFBJVkZjYS1MdWdiVmdtQlBSQjRGV1d3UGVfSVBncFc4UWdyM3RYRmxFbk9yTGRzMVFMSHFiaTc0Wml1dkw5ZjRoSHFNRi1nT29jTnkyZlJGUGFGYXRlZnRoaTdsUnpKNjFibG15SG",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSFBJVkZjYS1MdWdiVmdtQlBSQjRGV1d3UGVfSVBncFc4UWdyM3RYRmxFbk9yTGRzMVFMSHFiaTc0Wml1dkw5ZjRoSHFNRi1nT29jTnkyZlJGUGFGYXRlZnRoaTdsUnpKNjFibG15SGwzVHd5OVItRnRWUWkyQnJYZWVkS3BaNzNMTU1KYm1aZkZMU0VYWHAwTVNLRGYxN01ucEVF?oc=5",
         "type": "rss"
       }
     ]
@@ -860,6 +1084,45 @@
       {
         "name": "himax",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRzJGb2RNRk82QWRpQW1Cb0VzeU9WdGVQZ3d1RWtmdk5oYWdmWUh0R0lLNlhIeTNvbW9Da05VUnNOYU93VDFHTWxsTTU3QkNORWVsQkpzYmE1UG1CWGhjcTlvaXZ5T3dFVllScWJwcV96Rm5oZmhndXZFbWFkSklyVmExNWV4TW1sN2tDNEhjU3V3MkVFV25ZQUhDY0JOZm1MY0I5LXZ1RXdOZDRSMnBZbEJLSFYzLXh5aGNDazNlY3FMZGhoc2kyelp2RXVRMDkyTU4yY1A5WW5wY0Z2YTg3aGtDeTJidDM1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-06-30-018",
+    "date": "2026-06-30",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of LG Display Co., Ltd – KRX:034220 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjd6S2FqRm9HU3NHejR0Y18wVE1KMXZ3Z2VIMzVaVzJJamdkTms1eE5sVVF4b3NVMVBZZzZvYUxIQ0UxS0FhVnNzZkhmM2NKU3F4RVhMUXN2WTcwdmhNSkZhUHQ2cTNkSFZxYUZYVz",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjd6S2FqRm9HU3NHejR0Y18wVE1KMXZ3Z2VIMzVaVzJJamdkTms1eE5sVVF4b3NVMVBZZzZvYUxIQ0UxS0FhVnNzZkhmM2NKU3F4RVhMUXN2WTcwdmhNSkZhUHQ2cTNkSFZxYUZYVzNPLUNqSmktVl9pLXUxQmt0eURFclRPRjV4eHd0bkdtei1XdFRldU13YmxtR1ZrTmpf?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-06-30-019",
+    "date": "2026-06-30",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tranche Update on BOE Technology Group Company Limited's Equity Buyback Plan announced on March 31, 2026. - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeHNIWk5KWlNNZnJVNGNGVE5qb1QtOWRkVDlzc3pDVDAwN2RTUDN6RnRQOGdKcHg2N1MtRF9CbHJZamlPeUtGQUxiLUN5SFE0M0RuTXg4OUdORThiMTV2RkZsZ3pPZTBzcW9WMEJQYT",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeHNIWk5KWlNNZnJVNGNGVE5qb1QtOWRkVDlzc3pDVDAwN2RTUDN6RnRQOGdKcHg2N1MtRF9CbHJZamlPeUtGQUxiLUN5SFE0M0RuTXg4OUdORThiMTV2RkZsZ3pPZTBzcW9WMEJQYThSRnNfbk1lMW4xZmFpaTlGMzQ4TE93WUg2UnVJVWlJYzM0Q3FYbkV4U1hFc3dCSmZUS256bjViazJUZVhST2NtRExzWFFzRExsTlhxZ2hveXRwZk5KcUMwN0xlMXhWemlhUkFjQ1FmR2N3U1pjbUZ2UnRhd29IQQ?oc=5",
         "type": "rss"
       }
     ]

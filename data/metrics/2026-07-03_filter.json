@@ -1,0 +1,16 @@
+{
+  "total_raw": 376,
+  "dup_title": 119,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 40,
+  "gate2_fail": 34,
+  "passed": 14,
+  "gate2_samples": [
+    "Jim Cramer Highlights Trimming Corning for the Charitable Trust - Insider Monkey",
+    "Corning (GLW) awards RSUs to director under deferred plan - Stock Titan",
+    "Corning Slides as Investors Reassess AI-Fueled Rally - Quiver Quantitative",
+    "Corning Incorporated's Stock Price Skyrockets to $255.69, Marking a Colossal 15.67% Increase - Smart",
+    "Corning Inc Stock (GLW) Moved Up by 14.03% on Jun 29: Facts Behind the Movement - TradingKey"
+  ]
+}
