@@ -1,5 +1,59 @@
 [
   {
+    "id": "applied_materials-2026-07-05-001",
+    "date": "2026-07-05",
+    "companies": [
+      "applied_materials"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Applied Materials unveils integrated tools for HBM, chiplet, and 3D packaging scale-up",
+    "summary": "Applied Materials announced a new equipment platform aimed at addressing the memory bandwidth and energy-efficiency bottleneck confronting AI computing, unveiling tools across DRAM, advanced packaging",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260701PD231/applied-materials-hbm-equipment-production-bandwidth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-05-002",
+    "date": "2026-07-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI, HPC test interface demand drives CHPT June revenue to new monthly high",
+    "summary": "<p class=\"P1\" data-sourcepos=\"7:1-7:347;147-493\">Test interface supplier Chunghwa Precision Test Tech. Co., Ltd. (CHPT) reported its June 2026 revenue, marking its sixth consecutive monthly revenue re",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260703PD234/revenue-chpt-demand-supplier-test-interface.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-04-001",
+    "date": "2026-07-04",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "KFC is testing the use of transparent OLEDs in South Africa",
+    "summary": "<p>KFC is testing new technologies in its new flagship restaurant near South Africa's Johannesburg airport.</p><div class=\"align-center\">\n  \n  <a href=\"https://www.oled-info.com/sites/default/files/20",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/kfc-testing-use-transparent-oleds-south-africa",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-07-03-001",
     "date": "2026-07-03",
     "companies": [

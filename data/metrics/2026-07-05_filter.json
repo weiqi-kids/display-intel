@@ -1,0 +1,13 @@
+{
+  "total_raw": 90,
+  "dup_title": 34,
+  "no_date": 0,
+  "too_old": 18,
+  "gate1_fail": 33,
+  "gate2_fail": 2,
+  "passed": 3,
+  "gate2_samples": [
+    "[Interview] Art Made for the Senses: Karim Noureldin x Samsung Art Store",
+    "Infineon China pushes back after GaN products removed at Shanghai electronics show"
+  ]
+}

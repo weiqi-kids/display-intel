@@ -1,0 +1,112 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T10:14:54.279136Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-05-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "AI, HPC test interface demand drives CHPT June revenue to new monthly high",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260703PD234/revenue-chpt-demand-supplier-test-interface.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "applied_materials-2026-07-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Applied Materials unveils integrated tools for HBM, chiplet, and 3D packaging scale-up",
+      "companies": [
+        "applied_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260701PD231/applied-materials-hbm-equipment-production-bandwidth.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "applied_materials",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 90,
+    "dup_title": 34,
+    "too_old": 18,
+    "gate1_blocked": 33,
+    "gate2_blocked": 2,
+    "passed": 3,
+    "pass_rate": "5.4%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "[Interview] Art Made for the Senses: Karim Noureldin x Samsung Art Store",
+      "Infineon China pushes back after GaN products removed at Shanghai electronics show"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為應材相關動態：「AI, HPC test interface demand drives CHPT June revenue to...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AI, HPC test interface demand drives CHPT June revenue to new monthly high（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Applied Materials unveils integrated tools for HBM, chiplet, and 3D packaging...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
