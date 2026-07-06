@@ -1,0 +1,200 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T12:05:50.643737Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-06-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "UMC posts record first-half revenue and plans selective price hikes in second half",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260706PD240/umc-revenue-price-demand-2026.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-06-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Foxconn posts NT$821.8 billion June revenue as AI momentum stays strong",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260706PD223/foxconn-revenue-growth-2026-shipments.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "himax-2026-07-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Himax Technologies to Hold Second Quarter 2026 Earnings Conference Call on August 6 - Quiver Quantitative",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcXlNS1BCVVBXbjItNWFvOVdMUzhKQUF3ZDZTQzNzNXF5SFZDWTUzVDVNUnhveUV1ZlhMLWNzRE1YY3djTFpad2VpWTdud0h4bWYtaEptb1l0al9jaUVwVk50N3BkeUhYRXVmM0JrZWxtc3o3Qi1ISjhZRXhxXzF2REloTFgtd0lqVDQtTFZHQjhkTTZFU3JGT1dQb0JNTXpSX3o2Y19CWGQ3LUNmZVpUOWUtN0d5T28?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "himax-2026-07-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings call transcript: Himax Q1 2026 revenue beats forecasts, stock surges - Investing.com",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNm9VeHBrUG1IWDU2ZGs0OTdVQnd0MVFlWUJES3pSUGd0UVVmcWxNcVdTNEY2TmNGTFo4ZDZPZlVsbnc0R25ubXdQVnVQNTI3VVpHUFF0LU5VMXVSTEVSX0M2aXVmdkRtN0x1UTEwOTRqUGRBeC1ZZlNnWjJrV1ZBblI4c1k4Tjdhd3RvS1JodE1hOTVhX2w0Qnp0ajdKWXNVSWdsbDEybXFJaVVwNUNHSmMzeENGOW4yWmt1WGR4NkxTaFVkRHNQcGRkUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-06-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "FCC rule change drives Sporton to a three-year revenue high",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260706PD235/sporton-testing-revenue-high-end-fcc.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.34,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "himax",
+        "count": 2
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 356,
+    "dup_title": 103,
+    "too_old": 176,
+    "gate1_blocked": 37,
+    "gate2_blocked": 24,
+    "passed": 16,
+    "pass_rate": "6.3%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "Jim Cramer Says Corning’s Recent Decline “Seems Extreme” - Yahoo Finance",
+      "Corning (GLW) awards RSUs to director under deferred plan - Stock Titan",
+      "Corning Slides as Investors Reassess AI-Fueled Rally - Quiver Quantitative",
+      "Jim Cramer Highlights Trimming Corning for the Charitable Trust - Insider Monkey",
+      "Corning (GLW) director awarded restricted stock units and reports updated share holdings - Stock Tit"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Himax Technologies、LG電子、三星電子相關動態：「UMC posts record first-half revenue and plans selective p...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "UMC posts record first-half revenue and plans selective price hikes in second...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Foxconn posts NT$821.8 billion June revenue as AI momentum stays strong（法說會）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

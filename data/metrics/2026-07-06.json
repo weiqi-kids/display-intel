@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-06",
+  "total_events": 12,
+  "by_company": {
+    "corning": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "himax": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.34
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

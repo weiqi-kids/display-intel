@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T10:14:53.732009+00:00",
+  "updated_at": "2026-07-06T12:05:50.087959+00:00",
   "companies": {
     "corning": {
       "name": "Corning Incorporated",
@@ -144,7 +144,7 @@
           "holder": "Oregon Public Employees Retirement Fund",
           "shares": 761700,
           "pct_held": 0.06,
-          "value": 3244842000
+          "value": 3304254600
         }
       ]
     },
@@ -224,55 +224,55 @@
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 11835014,
           "pct_held": 0.28,
-          "value": 627255742
+          "value": 662760784
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 7760172,
           "pct_held": 0.18,
-          "value": 411289116
+          "value": 434569632
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 3016600,
           "pct_held": 0.07,
-          "value": 159879800
+          "value": 168929600
         },
         {
           "holder": "SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF",
           "shares": 853010,
           "pct_held": 0.02,
-          "value": 45209530
+          "value": 47768560
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Pacific Stock Index Fd.",
           "shares": 898039,
           "pct_held": 0.02,
-          "value": 47596067
+          "value": 50290184
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Total World Stock Index Fd.",
           "shares": 721300,
           "pct_held": 0.02,
-          "value": 38228900
+          "value": 40392800
         },
         {
           "holder": "VANGUARD WORLD FUND-Vanguard ESG International Stock ETF",
           "shares": 140100,
           "pct_held": 0.0,
-          "value": 7425300
+          "value": 7845600
         },
         {
           "holder": "EQ Advisors Trust-EQ/International Value Managed Volatility Portfolio",
           "shares": 17300,
           "pct_held": 0.0,
-          "value": 916900
+          "value": 968800
         },
         {
           "holder": "-SSgA SPDR ETFS Europe I-State Street SPDR MSCI World Small Cap UCITS ",
           "shares": 132500,
           "pct_held": 0.0,
-          "value": 7022500
+          "value": 7420000
         }
       ]
     },
@@ -285,31 +285,31 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 987850,
           "pct_held": 0.02,
-          "value": 305739575000
+          "value": 314136300000
         },
         {
           "holder": "Chickasaw Capital Management, LLC",
           "shares": 15000,
           "pct_held": 0.0,
-          "value": 4642500000
+          "value": 4770000000
         },
         {
           "holder": "Stanley-Laman Group, Ltd.",
           "shares": 35207,
           "pct_held": 0.0,
-          "value": 10896566500
+          "value": 11195826000
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 73831,
           "pct_held": 0.0,
-          "value": 22850694500
+          "value": 23478258000
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 55000,
           "pct_held": 0.0,
-          "value": 17022500000
+          "value": 17490000000
         }
       ]
     },
@@ -322,19 +322,19 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 4949950,
           "pct_held": 0.08,
-          "value": 16730831000
+          "value": 16938728900
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 1163977,
           "pct_held": 0.02,
-          "value": 3934242260
+          "value": 3983129294
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 3433,
           "pct_held": 0.0,
-          "value": 11603540
+          "value": 11747726
         }
       ]
     }
