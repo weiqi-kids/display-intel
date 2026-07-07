@@ -1,0 +1,16 @@
+{
+  "total_raw": 376,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 38,
+  "gate2_fail": 22,
+  "passed": 18,
+  "gate2_samples": [
+    "Is Corning Incorporated (GLW) One of the Best Long-Term Growth Stocks to Invest in Now? - Yahoo Fina",
+    "Corning (GLW) awards RSUs to director under deferred plan - Stock Titan",
+    "Corning Stock Rises 318.5% in a Year: Should You Invest Now? - TradingView",
+    "Corning (GLW) director awarded restricted stock units and reports updated share holdings - Stock Tit",
+    "Jim Cramer Says Corning’s Recent Decline “Seems Extreme” - Yahoo Finance"
+  ]
+}

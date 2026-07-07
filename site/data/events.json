@@ -1,5 +1,189 @@
 [
   {
+    "id": "samsung_elec-2026-07-07-001",
+    "date": "2026-07-07",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Electronics Announces Earnings Guidance for Second Quarter 2026",
+    "summary": "Samsung Electronics today announced its earnings guidance for the second quarter of 2026. The above estimates are based on K-IFRS. Please note that Korean disclosure regulations do not allow earnings ",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-second-quarter-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-002",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "AP Systems sees demand for next-gen OLED processes, develops ALD systems for HMO deposition and OCR inkjet printing equipment",
+    "summary": "<p><a href=\"https://www.oled-info.com/ap-systems\">AP Systems</a> announced that it is developing next-generation OLED mass production equipment, as it sees opportunities in the OLED sector to introduc",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/ap-systems-sees-demand-next-gen-oled-processes-develops-ald-systems-hmo",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-003",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI servers and MacBook demand push Quanta revenue to new record",
+    "summary": "<p class=\"P1\" data-sourcepos=\"7:1-7:401;162-562\">Strong AI demand lifted Quanta's revenue to a record high in June 2026 and pushed second-quarter sales to a new peak, with servers serving as the main ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260707PD238/quanta-demand-revenue-notebook-shipments-macbook.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-004",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Zhen Ding 2H26 outlook brightens on server and optical demand",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:174;118-291\">PCB maker Zhen Ding said June revenue climbed to a fresh 2026 high, extending strong year-over-year growth as demand for AI-related high-end applicatio",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260707PD227/zhen-ding-demand-pcb-revenue-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-005",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiwan wireless specialist Climax Technology set for mainboard listing as US, Europe orders drive record 1H26 revenue",
+    "summary": "Wireless communications specialist Climax Technology is preparing for a listing on the TWSE mainboard later this month after posting record first-half 2026 revenue, supported by broad-based demand acr",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260707PD223/revenue-taiwan-europe-wireless-communications.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-07-006",
+    "date": "2026-07-07",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "LGES posts higher second-quarter sales, supported by US production credits",
+    "summary": "LG Energy Solution (LGES) reported stronger second-quarter sales and a swing back to operating profit, a result that could matter for global investors tracking how policy incentives are shaping vehicl",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260707PR204/lges-sales-operating-profit-production-loss.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-007",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Adlink posts record 2Q revenue on rising edge AI demand",
+    "summary": "Adlink Technology reported record consolidated revenue for June and the second quarter of 2026, driven by stronger demand for edge AI applications and broader market expansion. The industrial computer",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260707PD219/adlink-revenue-demand-market-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-07-008",
+    "date": "2026-07-07",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LGES targets humanoid robot battery boom as Tesla Optimus supply looms",
+    "summary": "<p class=\"P1\" data-start=\"0\" data-end=\"231\">LG Energy Solution (LGES) is emerging as a key battery supplier for humanoid robots, as demand for high-performance batteries shifts from electric vehicles ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260707VL207/lges-battery-humanoid-robot-tesla-optimus-supplier.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-009",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "CATL's profit surge widens China's battery lead over global rivals",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:271;87-357\">China's battery industry is widening its lead at home and abroad. Market leader CATL posted record profits while expanding its dominance in overseas ele",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260707VL204/catl-profit-market-vehicle-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-010",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "The Synnex Mini LED Fine-Pitch Display - Synnex bets on immersive control rooms - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOS0ZfQk1UUklpNk9fWlE3aVo2Y21qWnlQWW9rei0tTTFJYnRuY0hfQlBua2dWbE40d1pRcFRZbkE4QlozbldDUjBPcGlXbm5JVFNCN2Y4Z05JX1F0MFlKR1NGUmpxamV0Vl9LU1NoWG",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS0ZfQk1UUklpNk9fWlE3aVo2Y21qWnlQWW9rei0tTTFJYnRuY0hfQlBua2dWbE40d1pRcFRZbkE4QlozbldDUjBPcGlXbm5JVFNCN2Y4Z05JX1F0MFlKR1NGUmpxamV0Vl9LU1NoWG5MLXB0TVBUeXpLaEhhRUdEdnJ4WlVnTDV4U2lrbmlNc1RyTkcxM2VLM2pZa1RFY0Q5SDVMbXlEVVVwblUzbFBoWjExN3l2Q1RnY2g1bl9tS09ncDgwUlMtR1Nn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-07-06-001",
     "date": "2026-07-06",
     "companies": [
@@ -222,6 +406,138 @@
     ]
   },
   {
+    "id": "corning-2026-07-06-013",
+    "date": "2026-07-06",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Incorporated Stock 12‑Month Price Target Raised to $214.69, Implies 9% Upside - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaldCZWJaa3VjZV9DcUZJVkxuaVN0TlZzUlJRTzZjMXdhLTl0cld0Znd1WGl2TnpfRzUyWlR3bmNlS00xdVlsUmFaVXhmejVSd3pjcmNXZzJlUGhHZjdoMWFCTnUtT1BJalBBc29TS3",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaldCZWJaa3VjZV9DcUZJVkxuaVN0TlZzUlJRTzZjMXdhLTl0cld0Znd1WGl2TnpfRzUyWlR3bmNlS00xdVlsUmFaVXhmejVSd3pjcmNXZzJlUGhHZjdoMWFCTnUtT1BJalBBc29TS3hSNXVHbW0zdzFTc0dDSS1iNU8tdFlIZHlEVndpM0RDWXNFNHVDU2t0dTl5SUV4dzBUSDJkbWxnRDVNOHFzWjZRcXk4NXl0ai1kRGFkSDVueU42N2RzdGpCOF9sNFVzOG5VQ0xQeDYtVWtWVHcy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-07-06-014",
+    "date": "2026-07-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies, Inc. Schedules Second Quarter 2026 Financial Results Conference Call on Thursday, August 6, 2026 at 8:00 AM EDT - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGttS3o2dWhydXBqMVZyUG40dkhveDdmUGE3c3pqajB2a3BHeGJFRngxSGZ5dEEwNVFmc0tZTnVLNW5LUXBDdFNnTjUxazgyMzRVVzZaRE5aeF8xLU1BcF9mcWxoTzZxcUFNNnlDMT",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGttS3o2dWhydXBqMVZyUG40dkhveDdmUGE3c3pqajB2a3BHeGJFRngxSGZ5dEEwNVFmc0tZTnVLNW5LUXBDdFNnTjUxazgyMzRVVzZaRE5aeF8xLU1BcF9mcWxoTzZxcUFNNnlDMTN2b3lKRDdhczVKVlhnTDJ3OFVNYUhEcTdrSzBBQUZLZGdZUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "innolux-2026-07-06-015",
+    "date": "2026-07-06",
+    "companies": [
+      "innolux"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Foreign Investors Snap Up 110,000 Lots of Innolux; Taiwan's Twin Display Tigers Surge on Heavy Volume, Delighting 950,000 Shareholders - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1nRXlKQmJpSjVGVHdFbVl0M3NXb3c3QS1zYmQ5UHBFUjhwak5iTFI0dFZyZ182dm5rNllZcTVyRWEtczV1aE03Rjd0Rm9kc2pXMTl5WTZQUC1JRF9LRlZoRTQ4dnBSc1NrbGhJTkxlck",
+    "sources": [
+      {
+        "name": "innolux",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nRXlKQmJpSjVGVHdFbVl0M3NXb3c3QS1zYmQ5UHBFUjhwak5iTFI0dFZyZ182dm5rNllZcTVyRWEtczV1aE03Rjd0Rm9kc2pXMTl5WTZQUC1JRF9LRlZoRTQ4dnBSc1NrbGhJTkxlckxBOUsyYmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-06-016",
+    "date": "2026-07-06",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Innotek, LX Semicon Enter Apple's iPad OLED DDI Supply Chain - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1iel9kYjRMcVZrWklRaDh4MnpWTFRoWVpfSEs2a19mNUxJV2NaUUVjN3dDdlZKRnZBUGFFYjYwb19SR0tXUWp4MGtUb04zbDdFdUJjX3B4QUQ0aWJuSjFVYmdjWDdsWC01WnkxenFlVU",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iel9kYjRMcVZrWklRaDh4MnpWTFRoWVpfSEs2a19mNUxJV2NaUUVjN3dDdlZKRnZBUGFFYjYwb19SR0tXUWp4MGtUb04zbDdFdUJjX3B4QUQ0aWJuSjFVYmdjWDdsWC01WnkxenFlVUlXVWFPaXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-06-017",
+    "date": "2026-07-06",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Sigmaintell: demand for OLED laptop panels is increasing sharply, market share to reach 19% by 2030",
+    "summary": "<p>According to Sigmaintell, the demand for gaming laptops in China is declining, but OLED gaming laptop panel shipments are increasing sharply. Global OLED laptop panel shipments reached 3.6 million ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/sigmaintell-demand-oled-laptop-panels-increasing-sharply-market-share-reach-19",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-06-018",
+    "date": "2026-07-06",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Jilin OLED Material Tech reports a sharp increase in revenue and profit in the first half of 2026",
+    "summary": "<p>China's <a href=\"https://www.oled-info.com/jilin-OLED-material-tech\">Jilin OLED Material Tech</a> released its interim results for the first half of 2026 - with a high increase in both revenues and",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/jilin-oled-material-tech-reports-sharp-increase-revenue-and-profit-first-half",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-07-06-019",
+    "date": "2026-07-06",
+    "companies": [
+      "sony",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Sony Punts On New Cheap LG OLED Display In Last Fling Effort - channelnews.com.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPTVVZdmVXb2VOMHBfM2JhS3ZINlNXcUt2ZUFrREZScjNjTGZlR1oyX3JJYzAwTl9zVUp2Q1NNSDIwY20tOUd3SVBXcC1HdzJRa1h0Y3hHWlM2Umt5SFgydFVyVFVwZlJ4R1A2WmRaZ3",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTVVZdmVXb2VOMHBfM2JhS3ZINlNXcUt2ZUFrREZScjNjTGZlR1oyX3JJYzAwTl9zVUp2Q1NNSDIwY20tOUd3SVBXcC1HdzJRa1h0Y3hHWlM2Umt5SFgydFVyVFVwZlJ4R1A2WmRaZ3A4ZlFUSURlaGZlcVFaNDhpZHo0Z2lnNnZIbGNGeGNLZklOTXJZNnBN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "applied_materials-2026-07-05-001",
     "date": "2026-07-05",
     "companies": [
@@ -295,6 +611,27 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zem1BVXI4SVdFdjhDeFpvS2std2hUdzE4UUVGM0cyM3NXWmN3QWZwTjBkdGk0WkswYjlWTW1CRms3ZEFTQmEyaHJ3d1U0VG5XeTlrZHNoM1dwZEhXUVc3WExWaC1HYXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-05-005",
+    "date": "2026-07-05",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "LG Display (LPL) Earns ASPICE Level 2 Certification for Automotive Displays - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzl0Rlc4TGE2dEx1UGs0VE54b0c4NGNlWGY3RllBSzRuTkJtS1hLak13WlJwakJqRTFzdnBiTnJMa3J6aTVmbEVVSlpuTXRPTnZSdnlxeFBPcHFSNFBpSGw2bkxYNlJUQVZXbUVfbm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzl0Rlc4TGE2dEx1UGs0VE54b0c4NGNlWGY3RllBSzRuTkJtS1hLak13WlJwakJqRTFzdnBiTnJMa3J6aTVmbEVVSlpuTXRPTnZSdnlxeFBPcHFSNFBpSGw2bkxYNlJUQVZXbUVfbm1kdTg0cXI3eWFXWXZRNVZrRzRtRjU0U0Nwb3ViWGVLOXNTSG9LN19LTXd4aG5XQmJnbmN3ODZwdWxGMG9LeHA4dU16NXoteU9BMkZtN0VzTDXSAcABQVVfeXFMTkM5dEZXOExhNnRMdVBrNFROeG9HODRjZVhmN0ZZQUs0bk5CbUtYS2pNd1pScGpCakUxc3ZwYk5yTGtyemk1ZmxFVUpabk10T052UnZ5cXhQT3BxUjRQaUhsNm5MWDZSVEFWV21FX25tZHU4NHFyN3lhV1l2UTVWa0c0bUY1NFNDcG91YlhlSzlzU0hvSzdfS013eGhuV0JiZ25jdzg2cHVsRjBvS3hwOHVNejV6LXlPQTJGbTdFc0w1?oc=5",
         "type": "rss"
       }
     ]

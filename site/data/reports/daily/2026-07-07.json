@@ -1,0 +1,223 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T10:56:04.364211Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-07-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Taiwan wireless specialist Climax Technology set for mainboard listing as US, Europe orders drive record 1H26 revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260707PD223/revenue-taiwan-europe-wireless-communications.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-07-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Adlink posts record 2Q revenue on rising edge AI demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260707PD219/adlink-revenue-demand-market-2026.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-07-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "CATL's profit surge widens China's battery lead over global rivals",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260707VL204/catl-profit-market-vehicle-revenue.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_elec-2026-07-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Samsung Electronics Announces Earnings Guidance for Second Quarter 2026",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-second-quarter-2026"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-07-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI servers and MacBook demand push Quanta revenue to new record",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://www.digitimes.com/news/a20260707PD238/quanta-demand-revenue-notebook-shipments-macbook.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.54,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 124,
+    "too_old": 174,
+    "gate1_blocked": 38,
+    "gate2_blocked": 22,
+    "passed": 18,
+    "pass_rate": "7.1%",
+    "gate2_block_rate": "8.7%",
+    "gate2_samples": [
+      "Is Corning Incorporated (GLW) One of the Best Long-Term Growth Stocks to Invest in Now? - Yahoo Fina",
+      "Corning (GLW) awards RSUs to director under deferred plan - Stock Titan",
+      "Corning Stock Rises 318.5% in a Year: Should You Invest Now? - TradingView",
+      "Corning (GLW) director awarded restricted stock units and reports updated share holdings - Stock Tit",
+      "Jim Cramer Says Corning’s Recent Decline “Seems Extreme” - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為LG電子、三星電子相關動態：「Taiwan wireless specialist Climax Technology set for main...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Taiwan wireless specialist Climax Technology set for mainboard listing as US,...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Adlink posts record 2Q revenue on rising edge AI demand（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
