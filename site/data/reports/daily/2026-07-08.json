@@ -1,0 +1,226 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:16:56.557787Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novatek-2026-07-08-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novatek beats second-quarter revenue guidance on strong customer stockpiling",
+      "companies": [
+        "novatek"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260707PD242/revenue-novatek-display-forecast-performance.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-08-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ELAN revenue hit the top of forecast as notebook and AI products gained traction",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260707PD241/revenue-2026-forecast-production-business.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-08-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TSMC earnings call could signal how long the AI boom can keep lifting its outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260708PD226/tsmc-earnings-outlook-demand-capacity.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-08-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI server maker MiTAC gears up for stronger 2H26 with new capacity after 44.8% revenue jump",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260708PD247/mitac-ai-server-growth-production-2026-revenue.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "corning-2026-07-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corning Inc Stock (GLW) Closed Down by 4.96% on Jul 7: What Investors Need To Know - TradingKey",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTA5MDg0YmxOZFU0NnFYaXdsVEt6cjRrTlNQQzJVV19HLXJXV1AwSFZoWHhwT2Z4MUYwZGQteTY1OEJfX0pQMF90cURldjZrbDFOTi1hZEM3aHRHbnM3LUlYLXZvcDFPVlNIQUxxc3ZjcDA1QTUzWWpwRU42bXpHRFdIck5GTVlMMkE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 4
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "novatek",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 123,
+    "too_old": 178,
+    "gate1_blocked": 38,
+    "gate2_blocked": 19,
+    "passed": 18,
+    "pass_rate": "7.1%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Is Corning Incorporated (GLW) One of the Best Long-Term Growth Stocks to Invest in Now? - Yahoo Fina",
+      "Broken screens are forcing Indians to replace smartphones sooner than planned, Corning survey finds ",
+      "Corning (GLW) awards RSUs to director under deferred plan - Stock Titan",
+      "Corning Stock Rises 318.5% in a Year: Should You Invest Now? - TradingView",
+      "Jim Cramer Says Corning’s Recent Decline “Seems Extreme” - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為三星電子、康寧、Novatek Microelectronics相關動態：「Novatek beats second-quarter revenue guidance on strong c...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Novatek beats second-quarter revenue guidance on strong customer stockpiling（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "ELAN revenue hit the top of forecast as notebook and AI products gained traction（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

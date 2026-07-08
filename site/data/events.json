@@ -1,5 +1,207 @@
 [
   {
+    "id": "corning-2026-07-08-001",
+    "date": "2026-07-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Inc Stock (GLW) Closed Down by 4.96% on Jul 7: What Investors Need To Know - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTA5MDg0YmxOZFU0NnFYaXdsVEt6cjRrTlNQQzJVV19HLXJXV1AwSFZoWHhwT2Z4MUYwZGQteTY1OEJfX0pQMF90cURldjZrbDFOTi1hZEM3aHRHbnM3LUlYLXZvcDFPVlNIQUxxc3",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWTA5MDg0YmxOZFU0NnFYaXdsVEt6cjRrTlNQQzJVV19HLXJXV1AwSFZoWHhwT2Z4MUYwZGQteTY1OEJfX0pQMF90cURldjZrbDFOTi1hZEM3aHRHbnM3LUlYLXZvcDFPVlNIQUxxc3ZjcDA1QTUzWWpwRU42bXpHRFdIck5GTVlMMkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-08-002",
+    "date": "2026-07-08",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Launches New Bespoke AI Washer Dryer That Cuts Energy Use While Delivering Smarter Fabric Care",
+    "summary": "Samsung Electronics today announced the launch of its new Bespoke AI Washer Dryer, a two-in-one laundry appliance that delivers Class A energy efficiency through AI Ecobubble™ technology and intellige",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-launches-new-bespoke-ai-washer-dryer-that-cuts-energy-use-while-delivering-smarter-fabric-care",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-08-003",
+    "date": "2026-07-08",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung Begins Mass Production of PM1763 SSD Optimized for Next-Generation AI Infrastructure",
+    "summary": "Samsung Electronics a global leader in advanced memory technology, today announced mass production of PM1763, the company’s PCIe® 6.0-based enterprise solid state drive (SSD) optimized for next-genera",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-begins-mass-production-of-pm1763-ssd-optimized-for-next-generation-ai-infrastructure",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-08-004",
+    "date": "2026-07-08",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[Invitation] Galaxy Unpacked July 2026: A New Shape Unfolds",
+    "summary": "On July 22, Samsung Electronics will host Galaxy Unpacked in London, U.K. — a city that moves forward, not by chasing trends, but by setting them. Join us as we unveil the newest additions to the Gala",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/invitation-galaxy-unpacked-july-2026-a-new-shape-unfolds",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-005",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED-Info Pro Video Interview - Mike Hack from Universal Display",
+    "summary": "<p>In our first OLED-Info Pro video interview we host Mike Hack, VP of Business Development at Universal Display.</p><p>In the interview we discuss the past, present and future of OLEDs, what's next f",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/videos/oled-info-pro-video-interview-mike-hack-universal-display",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-07-08-006",
+    "date": "2026-07-08",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Novatek beats second-quarter revenue guidance on strong customer stockpiling",
+    "summary": "Novatek reported June revenue of NT$10.023 billion, up 6.48% from the previous month and 18.96% from a year earlier, pushing second-quarter revenue to NT$28.66 billion. The chip designer's second-quar",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260707PD242/revenue-novatek-display-forecast-performance.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-007",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "ELAN revenue hit the top of forecast as notebook and AI products gained traction",
+    "summary": "ELAN reported June 2026 revenue of NT$1.059 billion, up 5.48% from the prior month and 7.13% from a year earlier. The Taiwanese chip maker said second-quarter 2026 revenue reached NT$3.368 billion, up",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260707PD241/revenue-2026-forecast-production-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-008",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "TSMC earnings call could signal how long the AI boom can keep lifting its outlook",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:375;135-509\">TSMC's July 16 earnings call is likely to test how far the chipmaker can extend its already upbeat guidance, as investors look for signs that AI demand",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260708PD226/tsmc-earnings-outlook-demand-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-009",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI server maker MiTAC gears up for stronger 2H26 with new capacity after 44.8% revenue jump",
+    "summary": "<p class=\"P1\" data-start=\"0\" data-end=\"298\">MiTAC is set to enter a new phase of growth in the second half of 2026 as new production facilities begin mass production, providing a meaningful boost to o",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260708PD247/mitac-ai-server-growth-production-2026-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-08-010",
+    "date": "2026-07-08",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung widens Nvidia Vera Rubin memory play with PCIe 6.0 eSSD",
+    "summary": "<p class=\"P1\" data-start=\"186\" data-end=\"467\">Samsung Electronics has started mass production of its PM1763 enterprise SSD, a PCIe 6.0-based drive built for AI infrastructure and slated for Nvidia's n",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260708VL220/samsung-pcie-ssd-nvidia-rubin-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-07-08-011",
+    "date": "2026-07-08",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL launches AI-Powered smart home appliances in Nigeria - TechCabal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNU3RoWjVOS24xVHVqbnF0d1RzdWZYRVJvX3VXUm83c3hpSHBFNlpFd29XYkJlbWhVUnM0WlZ0X2lWa2xKd3V4ZkRzcUFzUEhHS09qTENPcFJBTC1pY183QTNHY2ZUWjhlN0VtUjhPdF",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU3RoWjVOS24xVHVqbnF0d1RzdWZYRVJvX3VXUm83c3hpSHBFNlpFd29XYkJlbWhVUnM0WlZ0X2lWa2xKd3V4ZkRzcUFzUEhHS09qTENPcFJBTC1pY183QTNHY2ZUWjhlN0VtUjhPdF9vMVN6UDJyR3VXM1l1MWJqR0tIbHRYMUJ0b2JqTVB1LVNZZjRO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-07-07-001",
     "date": "2026-07-07",
     "companies": [
@@ -179,6 +381,102 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS0ZfQk1UUklpNk9fWlE3aVo2Y21qWnlQWW9rei0tTTFJYnRuY0hfQlBua2dWbE40d1pRcFRZbkE4QlozbldDUjBPcGlXbm5JVFNCN2Y4Z05JX1F0MFlKR1NGUmpxamV0Vl9LU1NoWG5MLXB0TVBUeXpLaEhhRUdEdnJ4WlVnTDV4U2lrbmlNc1RyTkcxM2VLM2pZa1RFY0Q5SDVMbXlEVVVwblUzbFBoWjExN3l2Q1RnY2g1bl9tS09ncDgwUlMtR1Nn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-07-011",
+    "date": "2026-07-07",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon imagePROGRAF GP-300 from Canon Inc. - entry-level 6?color poster printer leans into fluorescen - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPY25kVS1hVnp0UHpXUDRPTmRXRXhvQUZmbk0xU0V4NmtqR21kQlZhZEhacmdFZzA2a1FCdDVxbEEzdURkVDA2MHJEVERrd3kyY08zQVpVa0l5ZFlsTDNFR0hwUjU3cTZ3WWNjV0lFNF",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY25kVS1hVnp0UHpXUDRPTmRXRXhvQUZmbk0xU0V4NmtqR21kQlZhZEhacmdFZzA2a1FCdDVxbEEzdURkVDA2MHJEVERrd3kyY08zQVpVa0l5ZFlsTDNFR0hwUjU3cTZ3WWNjV0lFNFZZdVpVZ1dzU1VSZVRCaGFBcmxEOUJucWp0UVVicG1DaHdaMkwyTTU4elJIS2tzWVRDUFpxbV9kV2U4X0VmQ3hoN19PbjBwcHVZbHVSUFpJZlk0WWZh?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-07-07-012",
+    "date": "2026-07-07",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of Japan Display Inc. – DUS:1J4 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGlkbTh5ejZEM2JiazJmeEZPeElMamxLMXdxbUNCOFM1VzF6TVdRMUVCVU8wS1o2aGx0dUR4aUV4Z2FfeVJ3MmJWRTM2RUd6U2l5SUtWWXFoOEkyeFR0aVVoSkZCQ0ZIeFpQRlNlUj",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGlkbTh5ejZEM2JiazJmeEZPeElMamxLMXdxbUNCOFM1VzF6TVdRMUVCVU8wS1o2aGx0dUR4aUV4Z2FfeVJ3MmJWRTM2RUd6U2l5SUtWWXFoOEkyeFR0aVVoSkZCQ0ZIeFpQRlNlUjNFbWFVV1YyQ2RZMlA4dkRyWFBFbFFiQTIzQ2ZYTlpteC03V0s5RzNqcTZ5UUdKNXNPb0l2V05Ldw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-013",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Summer Sprout plans to IPO at the Shanghai Stock Exchange and raise $88 million to accelerate its OLED materials development",
+    "summary": "<p>China-based OLED material developer and producer <a href=\"https://www.oled-info.com/summer-sprout-technology\">Summer Sprout Technology</a> has filed for an IPO at the Shanghai Stock Exchange. The s",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/summer-sprout-plans-ipo-shanghai-stock-exchange-and-raise-88-million-accelerate",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-07-014",
+    "date": "2026-07-07",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung 85M70H 85-Inch Mini LED TV Deal - The Inventory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE54WWRWbldWQVNmdy0zZXFNeFByS3ZsM0FFWWJWWDY3S1AzaDRUVlZsbHNETEM0dXJidzNZLVhsS0pOQWo4QzZRRTBoTFRrZDJvaGducnRRVW00OG5zWUxMQ1ZpcF9BbnBubmxHXzBjMU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54WWRWbldWQVNmdy0zZXFNeFByS3ZsM0FFWWJWWDY3S1AzaDRUVlZsbHNETEM0dXJidzNZLVhsS0pOQWo4QzZRRTBoTFRrZDJvaGducnRRVW00OG5zWUxMQ1ZpcF9BbnBubmxHXzBjMUtIUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-07-015",
+    "date": "2026-07-07",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung 75-Inch Mini LED TV Drops to $648 on Amazon - The Inventory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBQN1RyclYtWlZINzZxUnh4SThuNXFKYVNMYjJHTDhBQU1ieFFfejVrMnM3SzVvQTgxSmVRLUxlSWx4eWtpTGNReHgxdWhyX3B6b3pJN0VJYWR2QXlVcnN4TDBIbnIxQ2NQRGoydzdmSn",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQN1RyclYtWlZINzZxUnh4SThuNXFKYVNMYjJHTDhBQU1ieFFfejVrMnM3SzVvQTgxSmVRLUxlSWx4eWtpTGNReHgxdWhyX3B6b3pJN0VJYWR2QXlVcnN4TDBIbnIxQ2NQRGoydzdmSnk1UQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1272,6 +1570,24 @@
     ]
   },
   {
+    "id": "canon-2026-07-02-019",
+    "date": "2026-07-02",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon – Colorado XL-series: Printhead Technology - Industry Analysts, Inc.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkxnZGREQVhsQndGUUxwUXo3dExyUjJMVkRWcFNkNVFNVVR5NTNESElUaVFqTUhnLThHcTc3MmVXNmFsRldlb2hHbUFiWUhjVWgzbGtKeGNKS1E4X2dLdDFzNnFNRzU3eFhUU2tJRE",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkxnZGREQVhsQndGUUxwUXo3dExyUjJMVkRWcFNkNVFNVVR5NTNESElUaVFqTUhnLThHcTc3MmVXNmFsRldlb2hHbUFiWUhjVWgzbGtKeGNKS1E4X2dLdDFzNnFNRzU3eFhUU2tJREJYaUp5MzJraERNTDB5TUJzOQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-07-01-001",
     "date": "2026-07-01",
     "companies": [
@@ -1639,6 +1955,24 @@
       {
         "name": "himax",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ0s3NHJQODlWMEtUR05sWnR2VmY3dHVLaUI5TzRSVjhRSXZGaWFfbl9PdzN5STBVS3d2c0htMlhMLW95UUk0WldJcEltQ1M3S2lISXlqcDF3TE5lb0lCLThfb2k0X21saHM4WVpjV19qS0RrQWQ2ZDBKYjNSTzhmVEQ2RUh6dU40dkFSQU1valZmLXRucjhQQXhkSGJ0eTJGZERldU0zX2o2NS1vWFBwdG8zSTFtWDF4MHBsdmxPb1hDUm1FM3ktMHpWVjBhcnpEUnFzT0pNbUdrT2_SAeABQVVfeXFMTzJVOU9McE1IWXJHYXJ4RDZFdl9feHZreUFjS0w3NEFJNklQdjZGMXNPbV9YU2xieWlDTlNfdzNtejFDXzB6T2dqRDdmZDFNMDJKTE15cTV4SkpYeFktRE9DdzU2UXFjTm02YlZnNXlELVVpLVF0NXJDWE1wQjVhMjVTT1k2UHlfM3Z2cU5ta3RTRjNJUzJ3SUNfMjhiMi1oZmF3OG9wenBaVHJrWGg3V3JCdGZla0dGZThIUWkxOEw4QjZNNGNPY2xReVIwTXgxdFI4SUVwMXpReldkdVZKdG0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-07-01-021",
+    "date": "2026-07-01",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies, Inc. Announces Proposed Disposal of Investment in Equity-Method Investee - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaDc4RzI1TGxoTjRTV0haWXJkRFhIM2huZ3lzbks1QXlQNVpKbFY5T2FUTDYtRUNoXzVsdTVKNF9GcENQMExHR2QzYWFQSWxCanQyeXJVdVNtcUEzeWdBTjJMMVBEcDFBaHdoOVdLM2",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaDc4RzI1TGxoTjRTV0haWXJkRFhIM2huZ3lzbks1QXlQNVpKbFY5T2FUTDYtRUNoXzVsdTVKNF9GcENQMExHR2QzYWFQSWxCanQyeXJVdVNtcUEzeWdBTjJMMVBEcDFBaHdoOVdLM2huVGxYLVVEUmVaNm9iVEZEQXRaYmVid0dwbzVBMmNkSERUczVwdmRTMXdseXRSd1JUUFY4TVRyRXpzdw?oc=5",
         "type": "rss"
       }
     ]
