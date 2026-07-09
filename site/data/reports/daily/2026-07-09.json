@@ -1,0 +1,278 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T10:57:00.850401Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-07-09-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display reveals experimental study results on Gaming OLED performance - PR Newswire",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdEgxWGwxNjNoTzBpX3BLX3Y1N1pGYWh4VGJwQXVCQkFjOGthRGJHTDMtcmZFQXBUbVloSndFMTFTTjZmWTZQZFJJU3RvSzhFQzFSdVNQbXFIUDBNWEp6V2VZbmhOdEwzUmE4MmFFVGdGa0YyelczM1YyOHU3VUNlM1BsU1NHaFV6WXhEdUg1MHhmSVNnWVdvMFk3RE04Wlp3clB6OUwtdzgwMU1vMTNaRGFlakhlS1B0dl9PS2g5QmMwN0VYZFA0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-07-09-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display study links higher refresh rates to better gaming performance - The Korea Times",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN0tpYkx6bVpZYkczTk5VTm43cnY3UkNoelZDQWh4OWhfT1NvXzN6dXZWal9jWjVvMHAzalhJNGt5cXBmeU9icFk3ek4wMG90UFBHc3cxTm9saHdXcjU4ZU1GS0x2OVpDa0hFejFuSmt0X1BrQmIzWEtQaXdNd3NndG8tV1dwVFR6X2xoUmpEZWlnNkhzMEU5WUx4aUttTXJNeTE4VlVBQV90dzVRTmhHX0dKS1lQM085Y3lYOVdlWWdYOUtZWjBSLWo1UUlmd9IBzgFBVV95cUxQN0tpYkx6bVpZYkczTk5VTm43cnY3UkNoelZDQWh4OWhfT1NvXzN6dXZWal9jWjVvMHAzalhJNGt5cXBmeU9icFk3ek4wMG90UFBHc3cxTm9saHdXcjU4ZU1GS0x2OVpDa0hFejFuSmt0X1BrQmIzWEtQaXdNd3NndG8tV1dwVFR6X2xoUmpEZWlnNkhzMEU5WUx4aUttTXJNeTE4VlVBQV90dzVRTmhHX0dKS1lQM085Y3lYOVdlWWdYOUtZWjBSLWo1UUlmdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-07-09-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display says 480Hz OLED cut input lag by 10 ms in gaming test - Stock Titan",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNUhaeTBMS2RBWWpWQkRBZEN4QXBfVkJza1RKTXhDNGtNa1dVQ3JSV1EzUmZsMGtlajRwQXBfMGo5Y3lVaXVkellPY0ZJOU4ybGtPZm1BTTRjRnNWZGtrTkNfbWI2Q3RCRWFfTFVaOWF1dmJBWWdXTGdtQnZBZ2ZWM0ZEOTBmQjFPMlUyQTV4SjBuWFliM0VGV0dwQzVCNU5LRUc5TnBvMU5EUFRhaHlidEJ5OFY?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_elec-2026-07-09-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Study Shows 480Hz OLED Monitors Boost Gaming Performance 38% - 조선일보",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3h0Yy00a0xUQUpuLUhtSGEtbGxGb1A0WkU0Ny1ZZnpTeDR6V293UDlyeVBGUTE0c1pUa29CbEJNbHNjV0tBMkd2YnJJRExaTHNFVS1QaXYyWjYxQm5EdnlIMUxNaUE1VmRES3psaWJvdXl2Y3FtOFVHWTMzR2NKZGlOT1hMdnl2?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_elec-2026-07-09-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "\"Higher Refresh Rates Boost Win Rates\"... LG Display Publishes OLED Monitor Performance Study - 아시아경제",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zUXJEQTcxa2h4SU1pUkRlUUM3cWxkU1QtVGc4d1JzekZzaEhoeGNBdlJVaXROek0yQ296TWtZY1Yxa3N3dkFDUGxwZnB4YnhVS1hMcUlVU0R3WkcyWlptZHRCY2Nzc2lJTWRQRFgta1ctVkRHYTkzRw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 8,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 14,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 8
+      },
+      {
+        "id": "lg_display",
+        "count": 8
+      },
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "boe",
+        "count": 2
+      },
+      {
+        "id": "himax",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "oled_penetration",
+        "count": 9
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 377,
+    "dup_title": 107,
+    "too_old": 177,
+    "gate1_blocked": 34,
+    "gate2_blocked": 17,
+    "passed": 42,
+    "pass_rate": "15.6%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "Is Corning Incorporated (GLW) One of the Best Long-Term Growth Stocks to Invest in Now? - Yahoo Fina",
+      "Corning Stock Rises 318.5% in a Year: Should You Invest Now? - TradingView",
+      "Jim Cramer Says Corning’s Recent Decline “Seems Extreme” - Yahoo Finance",
+      "Canon Introduces New imageFORMULA R40II Office Document Scanner Receipt Edition - GlobeNewswire",
+      "Enterprise value to EBITDA forward of Canon Inc. – TSE:7751 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為LG電子、LGD、三星電子相關動態：「LG Display reveals experimental study results on Gaming O...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display reveals experimental study results on Gaming OLED performance - PR...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display study links higher refresh rates to better gaming performance - Th...",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 377,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 34,
+  "gate2_fail": 17,
+  "passed": 42,
+  "gate2_samples": [
+    "Is Corning Incorporated (GLW) One of the Best Long-Term Growth Stocks to Invest in Now? - Yahoo Fina",
+    "Corning Stock Rises 318.5% in a Year: Should You Invest Now? - TradingView",
+    "Jim Cramer Says Corning’s Recent Decline “Seems Extreme” - Yahoo Finance",
+    "Canon Introduces New imageFORMULA R40II Office Document Scanner Receipt Edition - GlobeNewswire",
+    "Enterprise value to EBITDA forward of Canon Inc. – TSE:7751 - TradingView"
+  ]
+}

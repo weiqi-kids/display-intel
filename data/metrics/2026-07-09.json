@@ -1,0 +1,55 @@
+{
+  "date": "2026-07-09",
+  "total_events": 25,
+  "by_company": {
+    "himax": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 8,
+      "sentiment_avg": 0.12
+    },
+    "lg_display": {
+      "count": 8,
+      "sentiment_avg": 0.12
+    },
+    "boe": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "samsung_elec": {
+      "count": 3,
+      "sentiment_avg": -0.33
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 9,
+      "sentiment_avg": 0.11
+    },
+    "earnings": {
+      "count": 12,
+      "sentiment_avg": 0.17
+    },
+    "automotive_display": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 8,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ]
+}
