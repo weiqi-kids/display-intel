@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T10:54:02.008321Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "boe-2026-07-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BOE First-Half Net Profit Seen Surging Over 50% as Glass Substrate Innovation Emerges as New Battleground for Display Giants - finance.biggo.com",
+      "companies": [
+        "boe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50cW9NY2lKS1p1V245dWRJbWpLbHFYRENyNVdLZzhlRDBNX1VWSC1ZbHZjb3ZiU3VmTWZaMWNkeEI3dnR0NFdMbkZ2ZVdfZ0NyVzlVQ0haZkd1UW9lU0MzcjdpenV2Qy1hanZ0cHpTZDRGWmtFeWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "canon-2026-07-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The 15th Canon x McDull Inter-school Ink Cartridge Recycling Award Presentation Ceremony Advancing Environmental Education with Collective Efforts - News-Press NOW",
+      "companies": [
+        "canon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQRktqQy1nSHhwRTRKUGFJdWs3MXBxMzFDWjZlaktXckhTbUduWVNsZk13aWd1cWdLX1liQTNKcXl4N0VaTkVDOFNMQ1VHdjZ2RjBPVUtUR3JHbmVYU09IRWVXRG9RdjVRZUJFRWdmM1MtdjJ2Z2JqemJmSHlpa2xjbVhPVEhZdU40V05qT01Rb3lMSVIyd2k1a0xPa09MXzM1Yzh3SUpydHJfSkZJcmZBYWg2MGVXY1V1V1E4R1kxMEgxNktzd3ktN3pnaTM4U2M5d0JvdVZfM0Njak0wd3dvVEU1V05FY25IX2tPcmlhdGtUNWFMUEdSNzJnZjU5dnJ6SDZaYU5OT1llcVdISzhzRGwzMUh2N2diekZXZ3pzWWVrTzRVOHhEUnhJR2QtQ3V5RnBkWE1xWEFoc19ZRGwyZA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jdi-2026-07-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Japan Display to close HK sales subsidiary as part of overseas operations restructuring - digitimes",
+      "companies": [
+        "jdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON0tnSk1KWlBZVnJsUTN2UmJFNU1iQlEtbVpFTzNXcXZvSFpxcWZKRGRXRWJZWWRoNTJsSExTWnJPNFJXVDdvNE9jRXcxUFBfSG5CMndrTWNleUtOWjlNX3laSEJLMGhmczVQa2FKSTZ2aUZ1Y0VNRFBMR1hKZTdiOEdSbXliZGtOeld0TA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_elec-2026-07-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "[Infographic] Where Culture Meets Innovation: Galaxy Unpacked’s Journey Through Global Cities",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/infographic-where-culture-meets-innovation-galaxy-unpackeds-journey-through-global-cities"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-10-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "VESA launches the DisplayHDR True Balck 1400 flagship specification as OLED display performance increases",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.oled-info.com/vesa-launches-displayhdr-true-balck-1400-flagship-specification-oled-display"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "canon",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      },
+      {
+        "id": "jdi",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 357,
+    "dup_title": 128,
+    "too_old": 169,
+    "gate1_blocked": 25,
+    "gate2_blocked": 15,
+    "passed": 20,
+    "pass_rate": "8.7%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "Corning Inc Stock (GLW) Moved Up by 7.07% on Jul 9: Drivers Behind the Movement - TradingKey",
+      "Is Corning Incorporated (GLW) One of the Best Long-Term Growth Stocks to Invest in Now? - Yahoo Fina",
+      "Jim Cramer Says Corning’s Recent Decline “Seems Extreme” - Yahoo Finance",
+      "What's Going on With Corning Stock Monday? - Corning (NYSE:GLW) - Benzinga",
+      "Canon U.S.A., Inc. Earns the Most Energy Efficient Toner-Based A3 and A4 Brand Awards from Keypoint "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為佳能、BOE Technology、JDI相關動態：「BOE First-Half Net Profit Seen Surging Over 50% as Glass ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BOE First-Half Net Profit Seen Surging Over 50% as Glass Substrate Innovation...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "The 15th Canon x McDull Inter-school Ink Cartridge Recycling Award Presentati...",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

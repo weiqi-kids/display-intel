@@ -1,0 +1,16 @@
+{
+  "total_raw": 357,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 25,
+  "gate2_fail": 15,
+  "passed": 20,
+  "gate2_samples": [
+    "Corning Inc Stock (GLW) Moved Up by 7.07% on Jul 9: Drivers Behind the Movement - TradingKey",
+    "Is Corning Incorporated (GLW) One of the Best Long-Term Growth Stocks to Invest in Now? - Yahoo Fina",
+    "Jim Cramer Says Corning’s Recent Decline “Seems Extreme” - Yahoo Finance",
+    "What's Going on With Corning Stock Monday? - Corning (NYSE:GLW) - Benzinga",
+    "Canon U.S.A., Inc. Earns the Most Energy Efficient Toner-Based A3 and A4 Brand Awards from Keypoint "
+  ]
+}
