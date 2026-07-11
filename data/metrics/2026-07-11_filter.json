@@ -1,0 +1,16 @@
+{
+  "total_raw": 377,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 33,
+  "gate2_fail": 22,
+  "passed": 25,
+  "gate2_samples": [
+    "Corning: 30% Cheaper Is Not Good Enough (NYSE:GLW) - Seeking Alpha",
+    "What's Going on With Corning Stock Monday? - Corning (NYSE:GLW) - Benzinga",
+    "Is Corning Incorporated (GLW) One of the Best Long-Term Growth Stocks to Invest in Now? - Yahoo Fina",
+    "Corning Inc Stock (GLW) Moved Up by 7.07% on Jul 9: Drivers Behind the Movement - TradingKey",
+    "Corning: Strong Fundamentals Wrapped In An Unverifiable Multiple (NYSE:GLW) - Seeking Alpha"
+  ]
+}

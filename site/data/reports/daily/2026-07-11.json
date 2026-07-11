@@ -1,0 +1,249 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:29:11.834835Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-11-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Song Chuan hits record June revenue on AI power and storage demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260709PD237/revenue-demand-supplier-2026-acquisition.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-11-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Lianyou Metals posts record second-quarter revenue as tungsten supply tightens",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260709PD240/revenue-plant-demand-growth-production.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan connector maker Bellwether turns high-current design into patent licensing moat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260709PD226/bellwether-connector-design-patent-licensing.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Flytech lifts second-quarter revenue 38% on box PC and POS demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260709PD235/revenue-2026-flytech-demand-pc.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-11-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "WITS posts record first-half revenue as AI and chip design drive growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.67
+      },
+      "source_url": "https://www.digitimes.com/news/a20260709PD241/wistron-revenue-growth-finance-semiconductors.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.55,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 377,
+    "dup_title": 128,
+    "too_old": 169,
+    "gate1_blocked": 33,
+    "gate2_blocked": 22,
+    "passed": 25,
+    "pass_rate": "10.0%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "Corning: 30% Cheaper Is Not Good Enough (NYSE:GLW) - Seeking Alpha",
+      "What's Going on With Corning Stock Monday? - Corning (NYSE:GLW) - Benzinga",
+      "Is Corning Incorporated (GLW) One of the Best Long-Term Growth Stocks to Invest in Now? - Yahoo Fina",
+      "Corning Inc Stock (GLW) Moved Up by 7.07% on Jul 9: Drivers Behind the Movement - TradingKey",
+      "Corning: Strong Fundamentals Wrapped In An Unverifiable Multiple (NYSE:GLW) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為三星電子、LG電子相關動態：「Song Chuan hits record June revenue on AI power and stora...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Song Chuan hits record June revenue on AI power and storage demand（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Lianyou Metals posts record second-quarter revenue as tungsten supply tightens（Mini LED、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,245 @@
 [
   {
+    "id": "lg_elec-2026-07-11-001",
+    "date": "2026-07-11",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "LG study: 480Hz OLED monitors increase FPS hit accuracy by 38% over 60Hz - Notebookcheck",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNX1d3SmFKZXBOY2ZPYUlaSDZiS2R2cjcwUzN0NWY1a2RJT1VkUmp6cUpiM0NxUk9oeWlJaWlMVkRrVzR4ZEJMdFZvdTFUTVRPcjh4eTFDNC01dWlETGIzbG5Cb0JSX2tZRnEwMVBYND",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX1d3SmFKZXBOY2ZPYUlaSDZiS2R2cjcwUzN0NWY1a2RJT1VkUmp6cUpiM0NxUk9oeWlJaWlMVkRrVzR4ZEJMdFZvdTFUTVRPcjh4eTFDNC01dWlETGIzbG5Cb0JSX2tZRnEwMVBYNDBGeW51SlNFMnBQclhaa19uRGdZME9nYzRobzNZQTdVMDg2RTRnelJoVXRrZlRZX0ZvWm5oQjNyNUVqZFgwdjJSZlJyOTlQUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-002",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan connector maker Bellwether turns high-current design into patent licensing moat",
+    "summary": "<p class=\"P1\" data-start=\"0\" data-end=\"442\">Bellwether Electronic has evolved from a connector and wire harness manufacturer into a technology developer shaping industry standards and generating paten",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260709PD226/bellwether-connector-design-patent-licensing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-003",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Flytech lifts second-quarter revenue 38% on box PC and POS demand",
+    "summary": "Flytech Technology reported stronger June 2026 and second-quarter revenue as demand in the Americas and the commercial computing market continued to support shipments. The industrial computer maker sa",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260709PD235/revenue-2026-flytech-demand-pc.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-004",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Song Chuan hits record June revenue on AI power and storage demand",
+    "summary": "Relay supplier Song Chuan Precision reported record June 2026 revenue as customer orders rose and its acquisition of solenoid valve maker Tai Hsing Electronics was folded into its books. The company s",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260709PD237/revenue-demand-supplier-2026-acquisition.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-005",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "mini_led",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Lianyou Metals posts record second-quarter revenue as tungsten supply tightens",
+    "summary": "Lianyou Metals, a rare metals recycler focused on tungsten and cobalt, said its June consolidated revenue reached NT$750 million (US$23.36 million), up 22% from May and 555% from a year earlier. The T",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260709PD240/revenue-plant-demand-growth-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-006",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "WITS posts record first-half revenue as AI and chip design drive growth",
+    "summary": "WITS reported consolidated revenue of NT$1.233 billion (US$38.41 million) in June, up 7.3% from May and 37.1% from a year earlier. The Taiwan-based IT services provider also said second-quarter revenu",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260709PD241/wistron-revenue-growth-finance-semiconductors.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-11-007",
+    "date": "2026-07-11",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Record chip profits mask a widening divide inside Samsung",
+    "summary": "Samsung Electronics' preliminary results for the second quarter of 2026 again underscore a striking split inside the company: surging semiconductor profits driven by AI server demand are lifting overa",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260709PD247/samsung-business-electronics-2026-operating-profit.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-008",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "negative",
+    "title": "TV panel prices fall in July as weak demand expected to hit 3Q26",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:469;125-593\">The global LCD TV panel market moved into a down cycle in July after prices held flat in the second quarter of 2026. With pre-build demand cooling amon",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260709PD248/demand-market-lcd-tv-panel-tv-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-009",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "positive",
+    "title": "Interview: Why Geckos bets materials, not chips, will decide the next AI performance leap",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:486;119-604\">As generative AI fuels rapid growth in demand for high-performance computing (HPC), the semiconductor industry is shifting from a process race to a mat",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260708PD229/materials-ai-chip-growth-copper-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-11-010",
+    "date": "2026-07-11",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung's CXL 3.1 memory delay lays bare Intel, AMD server platform lag",
+    "summary": "<p class=\"P1\" data-start=\"88\" data-end=\"402\">Samsung Electronics has postponed mass production of its CXL 3.1 memory modules after delays to next-generation server processors from Intel and AMD pushed",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260708VL214/samsung-cxl-production-amd-intel.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-011",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "China's display makers raise billions to close the OLED gap &mdash; and South Korea is watching",
+    "summary": "Chinese display panel and materials companies are tapping capital markets to fund next-generation OLED, oxide and Mini LED technologies, drawing close attention from South Korea's display industry.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260710PD228/materials-display-hkc-panel-equipment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-012",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Amtran posts 13% 1H26 revenue growth citing product mix shift",
+    "summary": "Amtran Technology reported a June 2026 consolidated revenue of NT$2.5 billion (US$78.0 million), up 23% from a year earlier, as the Taiwanese display and peripherals maker said its product mix transfo",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260710PD227/revenue-2026-growth-shipments-display.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-013",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Laster lifts second-quarter revenue 13% as new vehicle launches approach",
+    "summary": "LED automotive lighting module maker Laster reported June consolidated revenue of NT$500 million (US$15.58 million), down 31.67% from May and 29.48% year on year. Even so, second-quarter revenue climb",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260710PD224/revenue-laster-automotive-vehicle-lighting.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-07-10-001",
     "date": "2026-07-10",
     "companies": [
@@ -87,6 +327,83 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/vesa-launches-displayhdr-true-balck-1400-flagship-specification-oled-display",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-10-006",
+    "date": "2026-07-10",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Corning: AI Partnerships Mounting, Making The 30% Plunge Buyable (NYSE:GLW) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQYTlNSW9UYU1yY2hhSnJ3bmptbkJ6UXNtM3hVWTdFUDdQS3JZU2xOQjVIaVQ4Mjg0eGpTZ19ISUtMZjZBN0g1V2JLUlk0bkRwdFJxcjljU19EUGk5bUtqelVFRHFMZ2s4YzNZY0swRW",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYTlNSW9UYU1yY2hhSnJ3bmptbkJ6UXNtM3hVWTdFUDdQS3JZU2xOQjVIaVQ4Mjg0eGpTZ19ISUtMZjZBN0g1V2JLUlk0bkRwdFJxcjljU19EUGk5bUtqelVFRHFMZ2s4YzNZY0swRWF2NEdzZGhTRXhKSkJPWUNwSnV1ZjZxZDlMa3E5c1Rfbmg5TFhRdkowRVBPcEs1X0hzaEhKLWx1WGk4T1NLZUNr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-10-007",
+    "date": "2026-07-10",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Traders Purchase High Volume of Call Options on LG Display (NYSE:LPL) - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPa1Vhekc0blhrRTZWY0ZzQnlQTUJtZzYzeFhNR3BvMmZBMmo2N1JoaklWVUh1Mm9ITk5laHdSZHNiUi1sa2RRYkdsOWNkd1dTVGl2QnVPSUpab09TSWV0RVJ3WEh5emY0OGZ4cTFLaW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa1Vhekc0blhrRTZWY0ZzQnlQTUJtZzYzeFhNR3BvMmZBMmo2N1JoaklWVUh1Mm9ITk5laHdSZHNiUi1sa2RRYkdsOWNkd1dTVGl2QnVPSUpab09TSWV0RVJ3WEh5emY0OGZ4cTFLaWdVaXBTakxrSVppcEh5Vl9QUF9Nc2V0cmIyVEhJM1FuUkJpVW9NdHYyTFlDOXllVDluSGd3SFpwUnZEd25xSmdxSmJabEp3dlJfa0xKYg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-07-10-008",
+    "date": "2026-07-10",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "BOE Technology Group Co., Ltd. (000725.SZ): Positive on the growth potential of businesses related to glass-based packaging substrates, perovskite, and Micro LED optical interconnects, and actively expanding in these areas. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxORHp4MHBMX19IejBXck9Zb2ZweGdjc3JFQjZHZW9rb0s2OEJkSjlpTzhDelNxWDdrN3k4V2xJQ3RrVHI5ajY3Y1JiUmpfYnpWMWltaFpZaS16ZWxIUk9vbUp2MDdldXQ5UWxBUngwbU",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHp4MHBMX19IejBXck9Zb2ZweGdjc3JFQjZHZW9rb0s2OEJkSjlpTzhDelNxWDdrN3k4V2xJQ3RrVHI5ajY3Y1JiUmpfYnpWMWltaFpZaS16ZWxIUk9vbUp2MDdldXQ5UWxBUngwbU5LZ3drb3g2LTJDMWFSeHJ5TXVNLXR2aWtJbDBSSTdmd2VXdVhPdU9lMVp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-10-009",
+    "date": "2026-07-10",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Samsung Display aims to increase its OLED gaming laptop market share in China, launches dedicated OBLYX OLED brand",
+    "summary": "<p>Samsung Display is looking to increase its market share in the Chinese OLED gaming laptop market. The company has made its first appearance at the Bilibili World 2026 gaming and anime conference, a",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-aims-increase-its-oled-gaming-laptop-market-share-china",
         "type": "rss"
       }
     ]
@@ -1282,6 +1599,78 @@
     ]
   },
   {
+    "id": "canon-2026-07-08-030",
+    "date": "2026-07-08",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Publishes 2026 Sustainability Report - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVZrMVZZTmhtdEx1WU1yMVU5U0FfUHFKaUVIYlZpNDItazJVTk5nODRVMDF6R2FxSTVUZjU4M0RHVmxYM0pIemp6MlYtWENLMnZtQmd2bE43NXNEN0ZoMldJMU9vSF8tN0tDbGtLM0",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVZrMVZZTmhtdEx1WU1yMVU5U0FfUHFKaUVIYlZpNDItazJVTk5nODRVMDF6R2FxSTVUZjU4M0RHVmxYM0pIemp6MlYtWENLMnZtQmd2bE43NXNEN0ZoMldJMU9vSF8tN0tDbGtLM0taZlVPcmhtQ0w4aDVBX29UYUpxTWNfLWlpWktPcExDRkVJMHlfZUp1NXF0eDBWcmVFbjdVdm5n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-07-08-031",
+    "date": "2026-07-08",
+    "companies": [
+      "auo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AUO outlines display strategy as investors assess global demand - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTktNbjN6azdPcHhyQWplWmo0SHR3amxkZDdMekJ0RXh2a1V3VGxUREYzYUk3UC1mMU5ra0NwaXE0SXhXRVh3R1dKZzR4RldEQ1c3WHNmVmJQLTBqZlpXVldKLWY1YkJQbDZqRjVyb2",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTktNbjN6azdPcHhyQWplWmo0SHR3amxkZDdMekJ0RXh2a1V3VGxUREYzYUk3UC1mMU5ra0NwaXE0SXhXRVh3R1dKZzR4RldEQ1c3WHNmVmJQLTBqZlpXVldKLWY1YkJQbDZqRjVyb2RTX25XUW5IOGplZWE0ci1sSUtrckFycjc4Z2JYZmJ2STFZR2pmNnNUUVR4TEs1VUhzbzd3VW5scFBjMzVvY0h5ZnhPNVM0YXItTEJRQk14aw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-07-08-032",
+    "date": "2026-07-08",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Group highlights display leadership amid growing global demand - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxORUdOVTlCZGdTQklKTG9oaHpzMEYwRVg1ZUZUNVJpdDFvbTAwS1k1U1preHRxNXhyUWdLVmRXY003bGxhOTU2Ukh2a1FFRnV0d19nWXFPWFhkbkxnYjBfSDhJWWZCb0tsRU84ZVFfdD",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORUdOVTlCZGdTQklKTG9oaHpzMEYwRVg1ZUZUNVJpdDFvbTAwS1k1U1preHRxNXhyUWdLVmRXY003bGxhOTU2Ukh2a1FFRnV0d19nWXFPWFhkbkxnYjBfSDhJWWZCb0tsRU84ZVFfdDFWZ0ExdzVSTDFmS0otNWZNMkhSNU1mSm1tMEpQaE9CTGZPYW93TzZXNm1rNHdUX2RuUVVSRl9iUEwwRUpLNjcxVDFuN2FraVFyZFU3UGpmV1lGUUdKNzlKNQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-07-08-033",
+    "date": "2026-07-08",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "BOE Technology Group highlights its display business. Long-term growth story remains tied to screens - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQU3RDSGQyR29iNU9FbWl1TS0yT0x3ckRaTV9BQlJRcnFoaHpSYmQxb1k1YllkRnc4LXVXMDB6Sm4xWWxyYktWbzYyeWlCVEhFM2RJN2VGNVFPY2lsbTFXZU1BY1RIOGREVFA5QWY2S0",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU3RDSGQyR29iNU9FbWl1TS0yT0x3ckRaTV9BQlJRcnFoaHpSYmQxb1k1YllkRnc4LXVXMDB6Sm4xWWxyYktWbzYyeWlCVEhFM2RJN2VGNVFPY2lsbTFXZU1BY1RIOGREVFA5QWY2S042WGJKRVp1a1lLeHNDMVJDX3Z6N1ZoOEZjZngzeHBPZWhxNXZsMk9ULU0zUmJ5TmJZajR0TXJ0S0I5QTZhVFFKVHBoQ2RuSE1aeHBtbFBRT2R6cy1PWExN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-07-07-001",
     "date": "2026-07-07",
     "companies": [
@@ -1952,6 +2341,26 @@
     ]
   },
   {
+    "id": "himax-2026-07-06-021",
+    "date": "2026-07-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies to Hold Second Quarter 2026 Earnings Conference Call on August 6 | HIMX Stock News - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPcXlNS1BCVVBXbjItNWFvOVdMUzhKQUF3ZDZTQzNzNXF5SFZDWTUzVDVNUnhveUV1ZlhMLWNzRE1YY3djTFpad2VpWTdud0h4bWYtaEptb1l0al9jaUVwVk50N3BkeUhYRXVmM0JrZW",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcXlNS1BCVVBXbjItNWFvOVdMUzhKQUF3ZDZTQzNzNXF5SFZDWTUzVDVNUnhveUV1ZlhMLWNzRE1YY3djTFpad2VpWTdud0h4bWYtaEptb1l0al9jaUVwVk50N3BkeUhYRXVmM0JrZWxtc3o3Qi1ISjhZRXhxXzF2REloTFgtd0lqVDQtTFZHQjhkTTZFU3JGT1dQb0JNTXpSX3o2Y19CWGQ3LUNmZVpUOWUtN0d5T28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "applied_materials-2026-07-05-001",
     "date": "2026-07-05",
     "companies": [
@@ -2051,6 +2460,26 @@
     ]
   },
   {
+    "id": "tcl-2026-07-05-006",
+    "date": "2026-07-05",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL’s RM9L RGB-Mini LED Is Worth the Price - WIRED",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jcWUxSERVSEZ4dEpIaFlDaDR0VjNteTJva0FRZjhiZFN0UWtxU25Fczg5a05CSlBybkotc2gzemRrQnNLSWd0cThaT0F0Q1E?oc=5\" target=\"_blank\">TCL’s RM9L RGB-Mini ",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jcWUxSERVSEZ4dEpIaFlDaDR0VjNteTJva0FRZjhiZFN0UWtxU25Fczg5a05CSlBybkotc2gzemRrQnNLSWd0cThaT0F0Q1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-04-001",
     "date": "2026-07-04",
     "companies": [],
@@ -2135,6 +2564,44 @@
     ],
     "impact": "neutral",
     "title": "AUO outlook and strategy as display demand evolves - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdG5uWjk1eW5JU211cnNqeUlBNTkzSDdSNDRFUllWSENZNGl5MF84MGxCSDJhSFRJTURYUEJ3RHBHcWtKeXZRRWIwb3lUSXJJeTQycWc4NlYzWGEtcUxLZEpXbkoxQTllZWg2cTNSOD",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdG5uWjk1eW5JU211cnNqeUlBNTkzSDdSNDRFUllWSENZNGl5MF84MGxCSDJhSFRJTURYUEJ3RHBHcWtKeXZRRWIwb3lUSXJJeTQycWc4NlYzWGEtcUxLZEpXbkoxQTllZWg2cTNSODZUb0ZkZ0Z1YkJxNDBwbUhEZ0JvRk5KOUNwaGFiTkhMSEJ3el9UXzZELUQxN0VjTTlDeG9JdXAtVU1YZEVpWkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-07-04-006",
+    "date": "2026-07-04",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Novatek Microelectronics expands display driver reach as global chip demand stays resilient - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVZRWFdyNGFQYXBFZjVNUmd5S05lbW1vbzZOZHBhQlprVnZ1Z1FKS0dKSlB6c1pIbVl4RmwwZjZWMU1lc0JVMU85Ui1Sa29fb2dRb2U5MkpMck1CaUZwSVVlUnQ0cEVJazVXRHNqWn",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVZRWFdyNGFQYXBFZjVNUmd5S05lbW1vbzZOZHBhQlprVnZ1Z1FKS0dKSlB6c1pIbVl4RmwwZjZWMU1lc0JVMU85Ui1Sa29fb2dRb2U5MkpMck1CaUZwSVVlUnQ0cEVJazVXRHNqWndIaFE3TER5UzQtd1NKU2xEajdHUlhyMHR4NUlrU2EyUGtxdDBzNk51Z2twVmpsc0RBVzh4cndQY3RTWTNibUlqNU5oTmV4dUUxRW5LRmduOUJKd3l4M2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-07-04-007",
+    "date": "2026-07-04",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AUO outlook and strategy as display demand evolves - ad-hoc-news.de",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOdG5uWjk1eW5JU211cnNqeUlBNTkzSDdSNDRFUllWSENZNGl5MF84MGxCSDJhSFRJTURYUEJ3RHBHcWtKeXZRRWIwb3lUSXJJeTQycWc4NlYzWGEtcUxLZEpXbkoxQTllZWg2cTNSOD",
     "sources": [
       {
