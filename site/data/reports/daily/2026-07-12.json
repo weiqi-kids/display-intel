@@ -1,0 +1,216 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T09:51:49.913736Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jdi-2026-07-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Enterprise value to revenue forward of Japan Display Inc. – FWB:1J4 - TradingView",
+      "companies": [
+        "jdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXFHNFBBWmZVYU1xM1BteGFneVM0LU4tQmJVWU1MUEVvYTNiT2xIQW8wY08yLWdNNlVLUnBfTnN0Q2kyd01nYS14dHRRb0lwUnZNYlM1N0dxcUhvSGtkeHRBenN6MXVXZHVXQlhybWNxWFFRb0g1b3NSMjc0bEJtY2dSQmRkYWJxMENSQURyQ04wWUlzNzM3aEVWS1ZleVFjaEI4YXlSUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-12-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Coretronic's second quarter revenue topped NT$10 billion as display weakness persisted",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260710PD220/revenue-coretronic-shipments-electronics-monitor.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-12-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Greenfiltec revenue climbed 19% in 1H26 on stronger AMC filter shipments",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260710PD203/revenue-2026-shipments-market-materials.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-12-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hermes Testing's June revenue more than doubles as advanced chip test demand surges",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260710PD232/revenue-demand-testing-2026-equipment.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "himax-2026-07-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax Technologies (HIMX) Launches HE Series Depth ICs, Is The Stock Still Cheap? - simplywall.st",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automotive_display"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbkhjdmgwdnRsYWZycE5FdkdyamFVdklFU1hBZGVpem5oWnFLWW9YeUpHQll4eF92VWMyam1pU2JEZ3VKU2FiOTNUYXViM0N2ZExMZVkzT0J4cElpaDV2cW4zMlVqRmZNTEhaWW9IQWJBLXI5ZU9RTUxZRUVDZjl3N0k2dVZsU0p0Ni1PMGs0cTEtNnBieThrMVNFOTVtNWJTNHFaYTI1Z1ZoM3FsZVV2TkNxWFo1SUlLQXQ5bXJwRXpFXzlJdlZ2NWttVlpvelVOYnlQN2RiLWxHUdIB3wFBVV95cUxOeXNIOG5aT0tjMi14Njg0RFFua2RnRi1RMzc5U3Jwdmd5YURyc2JCUGdsSFA0YUhZUG53Y2gyc0w5ZjlHT2Y3dVAyU1huUEY3Y2I4c1hWWkF6a2pyX0dJdGJGUTB6VF9qVUZiV1BjMFFKQUxhb2dTM1Vxa1Q0a2pqM2l6OEhFbjdtRm1FVVVDWi16MEhUeTRIOExUWlJDYnFnLS1sX1c2UU1INEUwR0tRQjNMTmVOMUVTSllKbUNPd09tVkwzQ0VES1lWNXNGY3dGRkZhUGtqSThiSW41dTVj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "jdi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 378,
+    "dup_title": 137,
+    "too_old": 182,
+    "gate1_blocked": 31,
+    "gate2_blocked": 17,
+    "passed": 11,
+    "pass_rate": "4.6%",
+    "gate2_block_rate": "7.1%",
+    "gate2_samples": [
+      "Corning: 30% Cheaper Is Not Good Enough (NYSE:GLW) - Seeking Alpha",
+      "53% Indians replaced smartphones early after broken glass: Corning study - Storyboard18",
+      "What's Going on With Corning Stock Monday? - Corning (NYSE:GLW) - Benzinga",
+      "Is Corning Incorporated (GLW) One of the Best Long-Term Growth Stocks to Invest in Now? - Yahoo Fina",
+      "Corning: Strong Fundamentals Wrapped In An Unverifiable Multiple (NYSE:GLW) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Himax Technologies、JDI相關動態：「Enterprise value to revenue forward of Japan Display Inc....」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Enterprise value to revenue forward of Japan Display Inc. – FWB:1J4 - Trading...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Coretronic's second quarter revenue topped NT$10 billion as display weakness ...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
