@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 180,
+  "gate1_fail": 27,
+  "gate2_fail": 16,
+  "passed": 5,
+  "gate2_samples": [
+    "Corning: 30% Cheaper Is Not Good Enough (NYSE:GLW) - Seeking Alpha",
+    "Is Corning Incorporated (GLW) One of the Best Long-Term Growth Stocks to Invest in Now? - Yahoo Fina",
+    "Corning: Strong Fundamentals Wrapped In An Unverifiable Multiple (NYSE:GLW) - Seeking Alpha",
+    "Canon U.S.A., Inc. Earns the Most Energy Efficient Toner-Based A3 and A4 Brand Awards from Keypoint ",
+    "Enterprise value to EBITDA forward of Canon Inc. – TSE:7751 - TradingView"
+  ]
+}

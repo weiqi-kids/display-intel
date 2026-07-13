@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T11:01:27.081029Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "boe-2026-07-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BOE’s Nanjing WOLED Conversion Project Stalls in Regulatory Review - thelec.net",
+      "companies": [
+        "boe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BRWRSOWlfMzRrRTJSakVIUElWOEdQbDhFS3h5NGhDV05BelFxOFdrSGo4cHZDR3FvVnhiVUEyTENiNUVGdGtHYnZnZ0gyZVhHYTBjenIzMktvUmwzN2JKOVo5SU4xNXM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "5 Of The Biggest Drawbacks Of Mini LED TVs - SlashGear",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1leFdBMXRrTmg5WHk4OHNSNmZqZEhvbTRuelpnOUk5OGpfX1I1czg3RGdOcnJ4YThON1dYQlowZWtDMjV0TEdSTTJWcEhhVHpsdm8zTl80Wk9sTFg0WE9PbW9oYmJncHB1LU1YYWJEdkk4dWNEMG9j?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 132,
+    "too_old": 180,
+    "gate1_blocked": 27,
+    "gate2_blocked": 16,
+    "passed": 5,
+    "pass_rate": "2.2%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Corning: 30% Cheaper Is Not Good Enough (NYSE:GLW) - Seeking Alpha",
+      "Is Corning Incorporated (GLW) One of the Best Long-Term Growth Stocks to Invest in Now? - Yahoo Fina",
+      "Corning: Strong Fundamentals Wrapped In An Unverifiable Multiple (NYSE:GLW) - Seeking Alpha",
+      "Canon U.S.A., Inc. Earns the Most Energy Efficient Toner-Based A3 and A4 Brand Awards from Keypoint ",
+      "Enterprise value to EBITDA forward of Canon Inc. – TSE:7751 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為BOE Technology相關動態：「BOE’s Nanjing WOLED Conversion Project Stalls in Regulato...」。主要關注主題為OLED 滲透率、Mini LED，市場情緒中性。",
+    "signals": [
+      {
+        "text": "BOE’s Nanjing WOLED Conversion Project Stalls in Regulatory Review - thelec.net（OLED 滲透率）",
+        "level": "green"
+      },
+      {
+        "text": "5 Of The Biggest Drawbacks Of Mini LED TVs - SlashGear（Mini LED）",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
