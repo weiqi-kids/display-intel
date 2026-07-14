@@ -1,0 +1,16 @@
+{
+  "total_raw": 379,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 39,
+  "gate2_fail": 21,
+  "passed": 24,
+  "gate2_samples": [
+    "Corning Incorporated Stock 12‑Month Price Target Raised to $217.38, Implies 14% Upside - TradingView",
+    "Corning (GLW) Proxy filing Summary - Quartr",
+    "Corning: 30% Cheaper Is Not Good Enough (NYSE:GLW) - Seeking Alpha",
+    "Corning: Strong Fundamentals Wrapped In An Unverifiable Multiple (NYSE:GLW) - Seeking Alpha",
+    "Canon U.S.A., Inc. Earns the Most Energy Efficient Toner-Based A3 and A4 Brand Awards from Keypoint "
+  ]
+}

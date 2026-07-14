@@ -1,0 +1,250 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T09:58:33.789612Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-07-14-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "BOE Fires Up A$13.4 Billion OLED Mega Plant As Brands Queue Up, Pressure Mounts On LG And Samsung - channelnews.com.au",
+      "companies": [
+        "lg_elec",
+        "boe",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec",
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "boe"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObG9UeThhaENEWUFBZ24zMnR3b1ZlWTV5N2RLdTdQWVY3YVVoOGtoZVJqb2NJaVFCT05DTExCTGdDc1VqcC1WM1BpbEp0cU9QMjc1M0phdk11b3F3eENqV2tMZllRS1B3UG9zWHdjMFg0ZF8yUzViSWR1OE5YbEdZSzd4SVEwbTlOc1dia2dFRmNGbnUxOGMyZHhBaXNxcDNKMDRmeWVfMFRabWR4TlRpWm9EMXpuMVl5M01ERHJHa2ttUWY3T2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-14-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Huaqin expects first-half net profit to jump over 50%, but core earnings growth stays modest",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260714PR201/huaqin-profit-earnings-growth-2026.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-14-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ingenic's first-half profit set to jump more than 400% as memory super-cycle lifts chip prices",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260714PR202/dram-profit-chips-earnings-2026.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-14-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Gogolook revenue jumps 36% in June to record high",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://www.digitimes.com/news/a20260713PD238/gogolook-revenue-technology-2026-expansion.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-14-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Huatian Technology guides first-half 2026 net profit up 231-275%, lifted by IC demand and investment gains",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260714PR203/packaging-demand-profit-2026-investment.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "canon",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 379,
+    "dup_title": 121,
+    "too_old": 174,
+    "gate1_blocked": 39,
+    "gate2_blocked": 21,
+    "passed": 24,
+    "pass_rate": "9.3%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "Corning Incorporated Stock 12‑Month Price Target Raised to $217.38, Implies 14% Upside - TradingView",
+      "Corning (GLW) Proxy filing Summary - Quartr",
+      "Corning: 30% Cheaper Is Not Good Enough (NYSE:GLW) - Seeking Alpha",
+      "Corning: Strong Fundamentals Wrapped In An Unverifiable Multiple (NYSE:GLW) - Seeking Alpha",
+      "Canon U.S.A., Inc. Earns the Most Energy Efficient Toner-Based A3 and A4 Brand Awards from Keypoint "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為三星電子、LG電子、佳能相關動態：「BOE Fires Up A$13.4 Billion OLED Mega Plant As Brands Que...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "BOE Fires Up A$13.4 Billion OLED Mega Plant As Brands Queue Up, Pressure Moun...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Huaqin expects first-half net profit to jump over 50%, but core earnings grow...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

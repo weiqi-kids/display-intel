@@ -1,5 +1,244 @@
 [
   {
+    "id": "canon-2026-07-14-001",
+    "date": "2026-07-14",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Earns Two 2026 PRINTING United Alliance Pinnacle Awards for Innovation - Industry Analysts, Inc.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFpFZU9QTzA0ajlidXdnQzBjWkVKUnppSHlfWGJVVW41bUduMlp2dHNwUk5WQ09fZFN0WFpjLUxnTXQ4ZDRXM2xnS0RjTGxBRFZtaGoxSEtCaVVrTWw4RkJaamZ1TFVISHk5ZlpES1",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFpFZU9QTzA0ajlidXdnQzBjWkVKUnppSHlfWGJVVW41bUduMlp2dHNwUk5WQ09fZFN0WFpjLUxnTXQ4ZDRXM2xnS0RjTGxBRFZtaGoxSEtCaVVrTWw4RkJaamZ1TFVISHk5ZlpES1o3cFdtZGFHMXl2N1Nwd0ZSWGlYQ04weXM0MktuWUd4d1poSWxSd2swSXAwemRZb3NuRm1jWUJsYTNPZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-14-002",
+    "date": "2026-07-14",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[News] LG Innotek Files 30 Foldable Backplate Patents, Reportedly Eyeing Apple’s Future Devices - LEDinside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKeHk4bXg2U2VuaXZsZ3dzYTNwcC1EZTBWeFIwSDZwdmlGUXJSb2NQNFVBdHd3bkpfRUNDcnNSaHgxYi1IVmJ4dTdpMEY?oc=5\" target=\"_blank\">[News] LG Innotek Files ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKeHk4bXg2U2VuaXZsZ3dzYTNwcC1EZTBWeFIwSDZwdmlGUXJSb2NQNFVBdHd3bkpfRUNDcnNSaHgxYi1IVmJ4dTdpMEY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-14-003",
+    "date": "2026-07-14",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Launches New Bespoke AI Washer and Dryer Lineup With AI-Enhanced Fabric Care and Seamless Connectivity",
+    "summary": "Samsung Electronics today announced the launch of its new Bespoke AI Washer and Dryer lineup, designed to meet growing consumer demand for appliances that can reduce everyday effort, help manage energ",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-launches-new-bespoke-ai-washer-and-dryer-lineup-with-ai-enhanced-fabric-care-and-seamless-connectivity",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-14-004",
+    "date": "2026-07-14",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Wins Two Red Dot Award: Design Concept ‘Best of the Best’ Awards",
+    "summary": "Samsung Electronics today announced that it has earned a total of eight awards, including Red Dot Award: Design Concept Best of the Best honors for Samsung Home Appliances Accessories and Samsung Kids",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-wins-two-red-dot-award-design-concept-best-of-the-best-awards",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-005",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Nintendo may soon begin developing a OLED version of its popular Switch 2 gaming console",
+    "summary": "<p>In 2021, Nintendo launched its first OLED gaming console, the <a href=\"https://www.oled-info.com/nintendo-switch-oled\">Nintendo Switch OLED</a>. This was a big success for Nintendo, that <a href=\"h",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/nintendo-may-soon-begin-developing-oled-version-its-popular-switch-2-gaming",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-14-006",
+    "date": "2026-07-14",
+    "companies": [
+      "lg_elec",
+      "boe",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "BOE Fires Up A$13.4 Billion OLED Mega Plant As Brands Queue Up, Pressure Mounts On LG And Samsung - channelnews.com.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxObG9UeThhaENEWUFBZ24zMnR3b1ZlWTV5N2RLdTdQWVY3YVVoOGtoZVJqb2NJaVFCT05DTExCTGdDc1VqcC1WM1BpbEp0cU9QMjc1M0phdk11b3F3eENqV2tMZllRS1B3UG9zWHdjMF",
+    "sources": [
+      {
+        "name": "google_news_display",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObG9UeThhaENEWUFBZ24zMnR3b1ZlWTV5N2RLdTdQWVY3YVVoOGtoZVJqb2NJaVFCT05DTExCTGdDc1VqcC1WM1BpbEp0cU9QMjc1M0phdk11b3F3eENqV2tMZllRS1B3UG9zWHdjMFg0ZF8yUzViSWR1OE5YbEdZSzd4SVEwbTlOc1dia2dFRmNGbnUxOGMyZHhBaXNxcDNKMDRmeWVfMFRabWR4TlRpWm9EMXpuMVl5M01ERHJHa2ttUWY3T2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-007",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "it_panel_demand"
+    ],
+    "impact": "negative",
+    "title": "Treading the market slowdown: IT panel demand cools as Taiwan display makers pivot to AI",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:471;157-627\">As early inventory stocking by brand customers winds down, China's 618 Shopping Festival delivers weaker-than-expected sales, and LCD TV panel prices b",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260713PD219/display-demand-panel-inventory-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-008",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Huaqin expects first-half net profit to jump over 50%, but core earnings growth stays modest",
+    "summary": "Chinese contract-manufacturing giant Huaqin Technology expects its net profit for the first half of 2026 to rise between 53.5% and 61.5% year-over-year, to a range of CNY2.9 billion (approx. US$427.73",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260714PR201/huaqin-profit-earnings-growth-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-009",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ingenic's first-half profit set to jump more than 400% as memory super-cycle lifts chip prices",
+    "summary": "Chinese chip designer Ingenic Semiconductor expects its net profit for the first half of 2026 to surge between 431% and 531% year-over-year, to a range of CNY1.079 billion (approx. US$159.14 million) ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260714PR202/dram-profit-chips-earnings-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-010",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Gogolook revenue jumps 36% in June to record high",
+    "summary": "Trust technology company Gogolook reported June 2026 consolidated revenue of NT$110 million (approx. US$3.43 million), up 36.5% from a year earlier. Consolidated revenue for the second quarter of 2026",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260713PD238/gogolook-revenue-technology-2026-expansion.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-011",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Huatian Technology guides first-half 2026 net profit up 231-275%, lifted by IC demand and investment gains",
+    "summary": "China's semiconductor packaging and testing firm Tianshui Huatian Technology said on July 14 it expects first-half 2026 net profit attributable to shareholders of CNY750 million (approx. US$110.62 mil",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260714PR203/packaging-demand-profit-2026-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-012",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "TSMC and Vanguard drive Taiwan's silicon foundry revenue up 54% YoY in June",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:268;117-384\">Taiwan's silicon foundry industry posted a strong performance in June 2026, with aggregate revenue reaching US$15,131.2 million, up 5.9% from May and 5",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260714VL208/taiwan-revenue-silicon-tsmc-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-013",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "EDA Revenue Up 12.7%; APAC Roars Back",
+    "summary": "<p>Market strength remains in double digits for most categories.</p>\n<p>The post <a href=\"https://semiengineering.com/eda-revenue-up-12-7-apac-roars-back/\">EDA Revenue Up 12.7%; APAC Roars Back</a> ap",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/eda-revenue-up-12-7-apac-roars-back/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "boe-2026-07-13-001",
     "date": "2026-07-13",
     "companies": [
@@ -33,6 +272,188 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1leFdBMXRrTmg5WHk4OHNSNmZqZEhvbTRuelpnOUk5OGpfX1I1czg3RGdOcnJ4YThON1dYQlowZWtDMjV0TEdSTTJWcEhhVHpsdm8zTl80Wk9sTFg0WE9PbW9oYmJncHB1LU1YYWJEdkk4dWNEMG9j?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-13-003",
+    "date": "2026-07-13",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning (GLW) Investor update Summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOdERsUTBDMlhiWmJLOHoxN184d1JqRnBVQkkxLTRITnVTY24wbGNiZm1JVUYxZ0VrbC16WmFnOG1rODl4Vnc0R244SXlhUFNjaU1QMy1NN1VSVm42V3gyNE1aM200NEhVczRCMnUwNG",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdERsUTBDMlhiWmJLOHoxN184d1JqRnBVQkkxLTRITnVTY24wbGNiZm1JVUYxZ0VrbC16WmFnOG1rODl4Vnc0R244SXlhUFNjaU1QMy1NN1VSVm42V3gyNE1aM200NEhVczRCMnUwNGJmRmRlWE5mV2RycmU5SGdRbQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-13-004",
+    "date": "2026-07-13",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Announces U.S. Unveiling of Next-Generation varioPRESS iV7 at thINK Ahead 2026 - The Manila Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVkZXanM0MnRZMktVdWszTGE2djZ5Yy1mbkFKRXVrOXRRajRoLXlVejVoNVRJZ19CRFY5Qm1xaWo3aDhPQS1GQ3RCbDhPOGQ4bGZzTTRXNTNlSmVSSFU2bEl4SDNwWm5EYldJRFhmNU",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVkZXanM0MnRZMktVdWszTGE2djZ5Yy1mbkFKRXVrOXRRajRoLXlVejVoNVRJZ19CRFY5Qm1xaWo3aDhPQS1GQ3RCbDhPOGQ4bGZzTTRXNTNlSmVSSFU2bEl4SDNwWm5EYldJRFhmNUR3QWJTTzJpcC1xQzY3ZHRTeGJ6WEJsTTRZaXZPUGZKOThBWVF3aXhKVDIxNGZMa1k0dmt5czI1UXYydkRNS0RLR3J5NFlDdDBLUHk0V2NBSGZyX1pOeEN3S0lxYUpQNnhHaHpHekx5Y2o0UVF3YXVTQ21paHAtVXVyc2lLTtIB8gFBVV95cUxObnhYYzBSNUxjWnllMXVyM01ZUXVuX1lJOERxRU4za1FTSHRvUnpUcXdTZWJ5a1kxVHRUelN5NnI2OVR2dkZmUUhSd1FyNHFRNWdWeDhGMWw0R0p5RXhrNTFwVFd1Y2cwMm1GSkZ0aTIyd0NqR2xsM3lycjV2WmdULTIzMUt0dTE4RWpQSXdabWdJTTlFZnlCa09YMWlwaW9oUmlPTGJwQjZaT0YzTHNwa1RUUk9iSGY3bUxncUVrY1J4MWxXR2RwWGd5TzFoRG1BbGlEM2xqY0ZOYnRVR25xdUpNN0w5TV9NY3A5U0hiMWQwUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-13-005",
+    "date": "2026-07-13",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Study Claims 480Hz OLED Monitors Boost FPS Accuracy By 38% - HotHardware",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmVWYlZwN2hsME8zcndJUVlac25EcDZ0YklXMjNLa3kxM1pKeU9EaUJMQU55LUIzaFpaQW1mWDZQOFAtSDNXbFFiMUNiLW1qeFo5eHVCTkJueUlQSXZwamhWM0J4RWt2WU1yeC10NW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmVWYlZwN2hsME8zcndJUVlac25EcDZ0YklXMjNLa3kxM1pKeU9EaUJMQU55LUIzaFpaQW1mWDZQOFAtSDNXbFFiMUNiLW1qeFo5eHVCTkJueUlQSXZwamhWM0J4RWt2WU1yeC10NWhjVnhId29UcDVaOTlFY3ZtUmdBU3RzYkFaQ3hmZA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-13-006",
+    "date": "2026-07-13",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display said to accelerate its plans to convert some of its 8-Gen WOLED fab in Paju to eLEAP AMOLED production - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQX2l4bTIwazlJcFdjX01IcDVTNXJRb1dGWVVzTllLdDdjTFo2UXdxbEs0OXB0bTllbW1PenA1bHpQSW9xTVEzVzFnM1l4eDM4LU12Um5KTkFWaUZIZTNmSFNwQnRMZVNaUVNHeEhRMl",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX2l4bTIwazlJcFdjX01IcDVTNXJRb1dGWVVzTllLdDdjTFo2UXdxbEs0OXB0bTllbW1PenA1bHpQSW9xTVEzVzFnM1l4eDM4LU12Um5KTkFWaUZIZTNmSFNwQnRMZVNaUVNHeEhRMlctZUhWQ2trV01tWmxRdjE1SGhqTXp3MmVFYW9CcG1wUkFlc01vNC1wREZXOThGX1JvcFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-13-007",
+    "date": "2026-07-13",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "LG’s First 5K Hyper Mini LED Gaming Monitor Now Available for EU Pre-Order - Tech Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNWpNU3F6djJYUDhXUHc2eTg5MFozanFlMWtuaURwOXRtSGZRV3BsZ1pZZlNjRlh2YTV5QVdhSUd2bHQwQTI4LXVFMmlYcDZ2RzAzLVBFMzU5dV9CdHFtVnpMaExCa0VLTENXemgwNX",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNWpNU3F6djJYUDhXUHc2eTg5MFozanFlMWtuaURwOXRtSGZRV3BsZ1pZZlNjRlh2YTV5QVdhSUd2bHQwQTI4LXVFMmlYcDZ2RzAzLVBFMzU5dV9CdHFtVnpMaExCa0VLTENXemgwNXBhd1pGOGY0SmtYNHlSd2M5THFOTjlyRVMwOTFCWXR6amZFMDdPbG9iQmtubXljenNndXA5ZW93QndTZWlkTVp6QncwQWdrcmU2VHJWSkphbTZ4dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-07-13-008",
+    "date": "2026-07-13",
+    "companies": [
+      "jdi",
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display said to accelerate its plans to convert some of its 8-Gen WOLED fab in Paju to eLEAP AMOLED production",
+    "summary": "<p>Last year, we <a href=\"https://www.oled-info.com/lg-display-looking-adopting-jdis-eleap-maskless-deposition-technology-its-oled\">reported</a> that LG Display is looking into adopting <a href=\"https",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/lg-display-said-accelerate-its-plans-convert-some-its-8-gen-woled-fab-paju",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-13-009",
+    "date": "2026-07-13",
+    "companies": [
+      "lg_elec",
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Reports suggest BOE struggles to get approval for its Nanjing WOLED production line project",
+    "summary": "<p>In May 2026 we <a href=\"https://www.oled-info.com/will-boe-convert-its-b18-85-gen-lcd-fab-nanjing-woled-production\">reported</a> that BOE is looking to upgrade its pilot WOLED (WRGB) production cap",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/reports-suggest-boe-struggles-get-approval-its-nanjing-woled-production-line",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "csot-2026-07-13-010",
+    "date": "2026-07-13",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [
+      "panel_price",
+      "oled_penetration",
+      "it_panel_demand"
+    ],
+    "impact": "neutral",
+    "title": "TCL CSOT starts producing 27\" 4K inkjet printed OLED monitor panels at its 5.5-Gen line in Wuhan",
+    "summary": "<p>In March we <a href=\"https://www.oled-info.com/tcl-csot-start-producing-consumer-27-4k-inkjet-printed-oled-panels-july-2026\">reported</a> that TCL CSOT's first consumer-grade inkjet printed OLED di",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/tcl-csot-starts-producing-27-4k-inkjet-printed-oled-monitor-panels-its-55-gen",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-011",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED and mini-LED gaming monitors are getting cheaper, so we're putting each through its paces - PC Gamer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeG5IdVYxS19vaDFFTHEtaWt3UVFObk9IeEVUZEdjMlZGZ1Y3aGQ2OWpxZGdOQW1MRk5PbGswTHlXelNMZVJHRURfRGktSVZFLThDdWNGRHFDTllmdmo2ZDM0Y1l3aV9NQzYyOUtwdF",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeG5IdVYxS19vaDFFTHEtaWt3UVFObk9IeEVUZEdjMlZGZ1Y3aGQ2OWpxZGdOQW1MRk5PbGswTHlXelNMZVJHRURfRGktSVZFLThDdWNGRHFDTllmdmo2ZDM0Y1l3aV9NQzYyOUtwdF9rck0wRTEybDFaaGZraG1iNlpZMTlpaVJPQVZWdjVLa2lXcHVvWDV5dHRJeVliZ0RWTFE4V1ViWl9MR2dNVGl5V2g4dmlNRnRhQ3B3X1BYV2MtV3hvR1BWRkdBZ25CY3hEbVVZS0RDZW1JZw?oc=5",
         "type": "rss"
       }
     ]
@@ -201,6 +622,26 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oZzJCamNIN0xZSFh2R2diak5vZF9XS0ZvQ3M3ZWZSQlc3WnFOMGstU3ZrTnp0YTc0U1RZS1VQbHQ3b1ZhWTBDSFUyZV9mN3M4Y01PbnVsc0dVTlVJOUdQbmJ4SkhtYmtnZDhzLUFaM2FiT3pJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-12-010",
+    "date": "2026-07-12",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning (GLW) Q1 2026 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBLbDQ2TGxDb1FtRmZtdkEtV1NLeXhCakZmbDNVQmpZdU1Kcm4zWHFGMnBoODFXLTJVeVl4Tk5pc0N2Sjg1S0ItaDZjWmJZcE5ERko4RVVJZDk2NHpFRENBekNUcTRCUHM3MVhFOEo1eU",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLbDQ2TGxDb1FtRmZtdkEtV1NLeXhCakZmbDNVQmpZdU1Kcm4zWHFGMnBoODFXLTJVeVl4Tk5pc0N2Sjg1S0ItaDZjWmJZcE5ERko4RVVJZDk2NHpFRENBekNUcTRCUHM3MVhFOEo1eUg2TmhtSmc?oc=5",
         "type": "rss"
       }
     ]
@@ -1967,6 +2408,24 @@
       {
         "name": "boe",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU3RDSGQyR29iNU9FbWl1TS0yT0x3ckRaTV9BQlJRcnFoaHpSYmQxb1k1YllkRnc4LXVXMDB6Sm4xWWxyYktWbzYyeWlCVEhFM2RJN2VGNVFPY2lsbTFXZU1BY1RIOGREVFA5QWY2S042WGJKRVp1a1lLeHNDMVJDX3Z6N1ZoOEZjZngzeHBPZWhxNXZsMk9ULU0zUmJ5TmJZajR0TXJ0S0I5QTZhVFFKVHBoQ2RuSE1aeHBtbFBRT2R6cy1PWExN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-07-08-034",
+    "date": "2026-07-08",
+    "companies": [
+      "auo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AUO outlines display strategy as investors assess global demand - Ad Hoc News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTktNbjN6azdPcHhyQWplWmo0SHR3amxkZDdMekJ0RXh2a1V3VGxUREYzYUk3UC1mMU5ra0NwaXE0SXhXRVh3R1dKZzR4RldEQ1c3WHNmVmJQLTBqZlpXVldKLWY1YkJQbDZqRjVyb2",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTktNbjN6azdPcHhyQWplWmo0SHR3amxkZDdMekJ0RXh2a1V3VGxUREYzYUk3UC1mMU5ra0NwaXE0SXhXRVh3R1dKZzR4RldEQ1c3WHNmVmJQLTBqZlpXVldKLWY1YkJQbDZqRjVyb2RTX25XUW5IOGplZWE0ci1sSUtrckFycjc4Z2JYZmJ2STFZR2pmNnNUUVR4TEs1VUhzbzd3VW5scFBjMzVvY0h5ZnhPNVM0YXItTEJRQk14aw?oc=5",
         "type": "rss"
       }
     ]
