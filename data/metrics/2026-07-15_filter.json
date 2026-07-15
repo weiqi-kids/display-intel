@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 25,
+  "gate2_fail": 20,
+  "passed": 14,
+  "gate2_samples": [
+    "Corning Incorporated Stock 12‑Month Price Target Raised to $217.38, Implies 14% Upside - TradingView",
+    "Corning (GLW) Proxy filing Summary - Quartr",
+    "Corning: 30% Cheaper Is Not Good Enough (NYSE:GLW) - Seeking Alpha",
+    "Corning (GLW) Proxy filing Summary - Quartr",
+    "Corning: Strong Fundamentals Wrapped In An Unverifiable Multiple (NYSE:GLW) - Seeking Alpha"
+  ]
+}

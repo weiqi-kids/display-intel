@@ -1,5 +1,102 @@
 [
   {
+    "id": "lg_elec-2026-07-15-001",
+    "date": "2026-07-15",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display (LPL) to Announce Earnings on Wednesday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOREZQVENQYUNvR3V5SGJUY2NpaFQyVmtFdlhJRXZTTWpLaUhBc1RaVkFmLUlyRDdFZVVnX3M0YVpGUTdJSWNpT3ViZ21WMGQxUmZ5dXcyc295SEZKYTVfdUU1X0xTUFNSWk45OHlQbj",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOREZQVENQYUNvR3V5SGJUY2NpaFQyVmtFdlhJRXZTTWpLaUhBc1RaVkFmLUlyRDdFZVVnX3M0YVpGUTdJSWNpT3ViZ21WMGQxUmZ5dXcyc295SEZKYTVfdUU1X0xTUFNSWk45OHlQbjhsVnd6YW9FSmpPa0RTTGFEZngtd3RTT0VKMGZUaXNSQko2WWhsYzJmZnlRUnZzR3JWSktnRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-15-002",
+    "date": "2026-07-15",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Deal | 34-inch 240 Hz LG OLED gaming monitor sees $500 discount in new Amazon sale - Notebookcheck",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzI5blM1VG1YeUxIN3pDV0NRVjcyeUxmQkQ0RVcxUzVRWWNBQ2syRnZ4aW11SDZnM0lzUmlySDhiY0ZnTE1EeXBuek5adEg0QjYtdjdOX0hLSVdsNmozQVk0SGNsMl9ZQkhQcHhuZl",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzI5blM1VG1YeUxIN3pDV0NRVjcyeUxmQkQ0RVcxUzVRWWNBQ2syRnZ4aW11SDZnM0lzUmlySDhiY0ZnTE1EeXBuek5adEg0QjYtdjdOX0hLSVdsNmozQVk0SGNsMl9ZQkhQcHhuZlpsdlk4SVVWMF9jM3RDU2tyRWxEaUNLcVozc20wakVPWmIxb2pkZG9faWk2ZElpQUtsR2JQWWtLeXdxNVB4bFRiZEs0MXMxYVBhNmtJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-15-003",
+    "date": "2026-07-15",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Introduces Flex Titanium Technology To Advance Foldable Displays",
+    "summary": "Samsung Electronics today unveiled new Flex Titanium technology for the next generation of Galaxy foldable devices. Built on seven generations of foldable innovation and engineering expertise, the red",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-introduces-flex-titanium-technology-to-advance-foldable-displays",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-004",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED display backplanes, part 1 of 7: introduction & PMOLED",
+    "summary": "<p>The display backplane is the grid of thin-film transistors (TFTs) sitting behind the pixels, switching and feeding each one. It is one of the major constraint on what an OLED display can do, and is",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/oled-display-backplanes-part-1-7-introduction-pmoled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-005",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Upcoming iPad mini to allegedly use 60Hz 8.4-inch OLED display - Appleosophy",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2JEQkhhNEZDeDFDRlA4UUFjOEZaZUZZS0p0VERyS1dDeGF1MVhJTUhia0YyeWZRMDRtTVY1d3BlY0ZraGtJX1lnRjRDRlBCMTVoMDU0QzNZNGdtZHR6T3BoaER4bG1ZbGFBcjVtck",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2JEQkhhNEZDeDFDRlA4UUFjOEZaZUZZS0p0VERyS1dDeGF1MVhJTUhia0YyeWZRMDRtTVY1d3BlY0ZraGtJX1lnRjRDRlBCMTVoMDU0QzNZNGdtZHR6T3BoaER4bG1ZbGFBcjVtckNleGxkQzJwTER5MWFpdlp6WE5aN1lIU2RraWtocUpWR0VvRzFyVUtlZVY5TDhmY1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-07-14-001",
     "date": "2026-07-14",
     "companies": [
@@ -239,6 +336,100 @@
     ]
   },
   {
+    "id": "corning-2026-07-14-014",
+    "date": "2026-07-14",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning Earnings Preview: What to Expect - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPUW5uRm9MdlIyTzhYZk02NENLY3Ffc1g1ZEM2TGJXaTNNQzZrMjVRRnRIRXMxektnYktLRGxSM1FmQkxicU01UGZqZEJZeUlFaDNrbUY0Qk5xTkx0N3hwLWN1UG94V3hENExhaTFCRT",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUW5uRm9MdlIyTzhYZk02NENLY3Ffc1g1ZEM2TGJXaTNNQzZrMjVRRnRIRXMxektnYktLRGxSM1FmQkxicU01UGZqZEJZeUlFaDNrbUY0Qk5xTkx0N3hwLWN1UG94V3hENExhaTFCRTFqMlZjcHFBOG9YeUNneEdaSU1OQTRJWEdLRWI2RlAxcE1FUzZnS1RWWFZQYkM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-14-015",
+    "date": "2026-07-14",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Earns Two 2026 PRINTING United Alliance Pinnacle Awards for Innovation - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOM00xT2V6UTQwTXdkNXU2QTVnNlhXdGNLNUtJcUl6NTl0SjZYV1B1Y29tUzFxc0w4ZGhCaENXaklKRnRQc2hYZmY0TEpwVmxrSWtLTUxZVjRfcWZ4NXlnVFdPX1FiM1NZUEJ5Nkxnbz",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM00xT2V6UTQwTXdkNXU2QTVnNlhXdGNLNUtJcUl6NTl0SjZYV1B1Y29tUzFxc0w4ZGhCaENXaklKRnRQc2hYZmY0TEpwVmxrSWtLTUxZVjRfcWZ4NXlnVFdPX1FiM1NZUEJ5NkxnbzNMX083UFY2X1J5TjNPZGg5cWROTnJzSzVCV1REYTByUVpDMV9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-07-14-016",
+    "date": "2026-07-14",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL 75\" X11L Mini LED TV Deal: $3,000 Off at Walmart - The Inventory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0lvU0h0SnA3OVhLOUNTTUJMOFNLS19xSmxUNXF3ZXAxNzQxY2JURFQtTXFIUmEySzlSRDhORDRicWRYLWY5bW93NE5udG41dml5ZmNuLWRQYnJ6WFlHX2hCdHZleXh3TzJqT3JoXz",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM0lvU0h0SnA3OVhLOUNTTUJMOFNLS19xSmxUNXF3ZXAxNzQxY2JURFQtTXFIUmEySzlSRDhORDRicWRYLWY5bW93NE5udG41dml5ZmNuLWRQYnJ6WFlHX2hCdHZleXh3TzJqT3JoXzJlZEhaVjlSNkFvVzN1dWpRZA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-017",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Electronic Design Industry Rides Chip Wave, APAC Leads Q1 2026 Growth",
+    "summary": "\n\t\t\t\t\t\t<p>Chip design tools are cashing in: Q1 EDA revenue hit $5.7B as APAC surged 17.7% and hyperscalers went DIY.</p>\n<p>The post <a href=\"https://www.eetimes.com/electronic-design-industry-rides-c",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/electronic-design-industry-rides-chip-wave-apac-leads-q1-2026-growth/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-018",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "EDA/SIP Revenue Up 12.7%; APAC Roars Back",
+    "summary": "<p>Market strength remains in double digits for most categories.</p>\n<p>The post <a href=\"https://semiengineering.com/eda-revenue-up-12-7-apac-roars-back/\">EDA/SIP Revenue Up 12.7%; APAC Roars Back</a",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/eda-revenue-up-12-7-apac-roars-back/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "boe-2026-07-13-001",
     "date": "2026-07-13",
     "companies": [
@@ -454,6 +645,82 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeG5IdVYxS19vaDFFTHEtaWt3UVFObk9IeEVUZEdjMlZGZ1Y3aGQ2OWpxZGdOQW1MRk5PbGswTHlXelNMZVJHRURfRGktSVZFLThDdWNGRHFDTllmdmo2ZDM0Y1l3aV9NQzYyOUtwdF9rck0wRTEybDFaaGZraG1iNlpZMTlpaVJPQVZWdjVLa2lXcHVvWDV5dHRJeVliZ0RWTFE4V1ViWl9MR2dNVGl5V2g4dmlNRnRhQ3B3X1BYV2MtV3hvR1BWRkdBZ25CY3hEbVVZS0RDZW1JZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-13-012",
+    "date": "2026-07-13",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning (GLW) Q1 2025 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBBZHNsME5QMUtKTHdzRk9TSVJBT2YyTnRPY3IwZmNxVUhlNHVWYnNDZXJwYldQTkVIbVdiVnVPdWxVMjVSTVU4SlJGQVpKbzYxWWF0Q0ZlRHRzQWRMRndxbFI3S1lqVnMzUkJYUWZlcH",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBZHNsME5QMUtKTHdzRk9TSVJBT2YyTnRPY3IwZmNxVUhlNHVWYnNDZXJwYldQTkVIbVdiVnVPdWxVMjVSTVU4SlJGQVpKbzYxWWF0Q0ZlRHRzQWRMRndxbFI3S1lqVnMzUkJYUWZlcHE5cm9uckE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-13-013",
+    "date": "2026-07-13",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning (GLW) Q4 2025 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE41WHRRTXA1TWNndXh0empSZ2czNnpYYzhSSDF5c1F0NENnaUJrdWJlQURfZG5SamtneEZ2NzNDR1g4NmV0aTFRWmhNWlhfVlJzakMzZ0NnLUVWajkwckhsM05tUW51RVh1S2RkOGUtcn",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41WHRRTXA1TWNndXh0empSZ2czNnpYYzhSSDF5c1F0NENnaUJrdWJlQURfZG5SamtneEZ2NzNDR1g4NmV0aTFRWmhNWlhfVlJzakMzZ0NnLUVWajkwckhsM05tUW51RVh1S2RkOGUtcnhEQk5Iemc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-13-014",
+    "date": "2026-07-13",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning (GLW) Morgan Stanley Technology, Media & Telecom Conference 2026 Summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3l3U0hQYkM4NTktU1FoTTY1OHFKSkRXNmhEYW9uVVdzbFFPUGptclM0WHF5WWEtRnp4SXBIZkNIWlI4NEY1NnpnRWFHaUZDaUVRWmRuUEVSLUw4ZkRsVUFtWC0zVGY0TjdwNzFzQU",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3l3U0hQYkM4NTktU1FoTTY1OHFKSkRXNmhEYW9uVVdzbFFPUGptclM0WHF5WWEtRnp4SXBIZkNIWlI4NEY1NnpnRWFHaUZDaUVRWmRuUEVSLUw4ZkRsVUFtWC0zVGY0TjdwNzFzQU5QenA2Q2dJY2diSGxDeTRMbUNhdmxUWHR2RkdMeXRURVJuYjJrSVoxcmtrZWNNTVo5R2pLb2JNUkVFUDhNTmpXWWdTS1FUdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-13-015",
+    "date": "2026-07-13",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Announces U.S. Unveiling of Next-Generation varioPRESS iV7 at thINK Ahead 2026 - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaTlMS00wVHdkbktQZ3lPOHdzcmZmMnZZaGFUS1FyRUl0RjhZNFZ1S29SaTB6ZHpLVDg4d21FZlJ4bGNTVHphTkJUdDNScmhGMUNTdWo3cXJyWUlkcURpYVgwNTdMOHRER1dxUjIxSn",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaTlMS00wVHdkbktQZ3lPOHdzcmZmMnZZaGFUS1FyRUl0RjhZNFZ1S29SaTB6ZHpLVDg4d21FZlJ4bGNTVHphTkJUdDNScmhGMUNTdWo3cXJyWUlkcURpYVgwNTdMOHRER1dxUjIxSnhqVnZDZk9GTm9TZGVoYVYyRnNaYnVFR21RVENZSDJFSWVsT1JrUDZYdDNQdlhJS1BubklmaGtCTmQzOGs5a2F2WlNUbnRzSXJlY0phN1BYLVZrYWNuN2VtZ09QSkRpTG96RFRCWWNVRE14VmlzTXQwM2lfRkNiNFlqR2tn?oc=5",
         "type": "rss"
       }
     ]

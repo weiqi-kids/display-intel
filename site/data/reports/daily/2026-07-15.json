@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T10:02:35.916691Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-07-15-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display (LPL) to Announce Earnings on Wednesday - MarketBeat",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOREZQVENQYUNvR3V5SGJUY2NpaFQyVmtFdlhJRXZTTWpLaUhBc1RaVkFmLUlyRDdFZVVnX3M0YVpGUTdJSWNpT3ViZ21WMGQxUmZ5dXcyc295SEZKYTVfdUU1X0xTUFNSWk45OHlQbjhsVnd6YW9FSmpPa0RTTGFEZngtd3RTT0VKMGZUaXNSQko2WWhsYzJmZnlRUnZzR3JWSktnRQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-07-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deal | 34-inch 240 Hz LG OLED gaming monitor sees $500 discount in new Amazon sale - Notebookcheck",
+      "companies": [
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzI5blM1VG1YeUxIN3pDV0NRVjcyeUxmQkQ0RVcxUzVRWWNBQ2syRnZ4aW11SDZnM0lzUmlySDhiY0ZnTE1EeXBuek5adEg0QjYtdjdOX0hLSVdsNmozQVk0SGNsMl9ZQkhQcHhuZlpsdlk4SVVWMF9jM3RDU2tyRWxEaUNLcVozc20wakVPWmIxb2pkZG9faWk2ZElpQUtsR2JQWWtLeXdxNVB4bFRiZEs0MXMxYVBhNmtJ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_elec-2026-07-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Introduces Flex Titanium Technology To Advance Foldable Displays",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/samsung-introduces-flex-titanium-technology-to-advance-foldable-displays"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OLED display backplanes, part 1 of 7: introduction & PMOLED",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/oled-display-backplanes-part-1-7-introduction-pmoled"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-15-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Upcoming iPad mini to allegedly use 60Hz 8.4-inch OLED display - Appleosophy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2JEQkhhNEZDeDFDRlA4UUFjOEZaZUZZS0p0VERyS1dDeGF1MVhJTUhia0YyeWZRMDRtTVY1d3BlY0ZraGtJX1lnRjRDRlBCMTVoMDU0QzNZNGdtZHR6T3BoaER4bG1ZbGFBcjVtckNleGxkQzJwTER5MWFpdlp6WE5aN1lIU2RraWtocUpWR0VvRzFyVUtlZVY5TDhmY1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 129,
+    "too_old": 172,
+    "gate1_blocked": 25,
+    "gate2_blocked": 20,
+    "passed": 14,
+    "pass_rate": "6.1%",
+    "gate2_block_rate": "8.7%",
+    "gate2_samples": [
+      "Corning Incorporated Stock 12‑Month Price Target Raised to $217.38, Implies 14% Upside - TradingView",
+      "Corning (GLW) Proxy filing Summary - Quartr",
+      "Corning: 30% Cheaper Is Not Good Enough (NYSE:GLW) - Seeking Alpha",
+      "Corning (GLW) Proxy filing Summary - Quartr",
+      "Corning: Strong Fundamentals Wrapped In An Unverifiable Multiple (NYSE:GLW) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為LG電子、LGD、三星電子相關動態：「LG Display (LPL) to Announce Earnings on Wednesday - Mark...」。主要關注主題為OLED 滲透率、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "LG Display (LPL) to Announce Earnings on Wednesday - MarketBeat（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Deal | 34-inch 240 Hz LG OLED gaming monitor sees $500 discount in new Amazon...（OLED 滲透率）",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
