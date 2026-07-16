@@ -1,0 +1,29 @@
+{
+  "date": "2026-07-16",
+  "total_events": 3,
+  "by_company": {
+    "samsung_elec": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "sony": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "tcl": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "mini_led": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

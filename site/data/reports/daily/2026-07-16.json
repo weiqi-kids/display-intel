@@ -1,0 +1,145 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T10:08:24.247635Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sony-2026-07-16-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Samsung Expands Sony Pictures’ ‘Spider-Man™: Brand New Day’ Collaboration With New Cinematic Spot Starring Jacob Batalon",
+      "companies": [
+        "sony",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.samsung.com/global/samsung-expands-sony-pictures-spider-man-brand-new-day-collaboration-with-new-cinematic-spot-starring-jacob-batalon"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_elec-2026-07-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Launches New Slide-in Ranges and Over-the-Range Microwave With Air Fry Max",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/samsung-launches-new-slide-in-ranges-and-over-the-range-microwave-with-air-fry-max"
+    },
+    {
+      "rank": 3,
+      "event_id": "tcl-2026-07-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TCL bets on display advances as premium TV demand grows globally - InsiderPH",
+      "companies": [
+        "tcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOVlxMEtpcTBUaVBlelF0bWRuSWg2ZWhQZzQwYjhQVzZYY2xzdTlOdE1MSE16TkJWRUdLaUZ5dmFJekVxMVdGczJCc1JyOG12Q0N4RlFfd2RhR3JrbXJRVFpSWS00YUowWWVydmNvb2NrYTlYX2Jnei14czVkUjFKRTByQ3JMZENZa2FWUW9KQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "sony",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 123,
+    "too_old": 173,
+    "gate1_blocked": 27,
+    "gate2_blocked": 22,
+    "passed": 15,
+    "pass_rate": "6.3%",
+    "gate2_block_rate": "9.3%",
+    "gate2_samples": [
+      "Corning Incorporated Stock Analysis: Bearish Momentum in July 2026 - The Cryptonomist",
+      "Corning Incorporated Stock 12‑Month Price Target Raised to $217.38, Implies 14% Upside - TradingView",
+      "Corning Drops 7.3% Amid Sector-Wide Selling - AlphaStreet",
+      "Corning (GLW) Proxy filing Summary - Quartr",
+      "Corning (NYSE:GLW) loses about $86 billion since June high as 2027 estimates rise - TechStock²"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為三星電子、索尼、TCL Technology相關動態：「Samsung Expands Sony Pictures’ ‘Spider-Man™: Brand New Da...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung Expands Sony Pictures’ ‘Spider-Man™: Brand New Day’ Collaboration Wit...（Mini LED）",
+        "level": "yellow"
+      },
+      {
+        "text": "Samsung Launches New Slide-in Ranges and Over-the-Range Microwave With Air Fr...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

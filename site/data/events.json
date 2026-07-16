@@ -1,5 +1,62 @@
 [
   {
+    "id": "samsung_elec-2026-07-16-001",
+    "date": "2026-07-16",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Launches New Slide-in Ranges and Over-the-Range Microwave With Air Fry Max",
+    "summary": "Samsung Electronics today announced its new Slide-in Ranges and Over-the-Range Microwave with Air Fry Max, bringing together advanced cooking technologies, premium design and connected experiences to ",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-launches-new-slide-in-ranges-and-over-the-range-microwave-with-air-fry-max",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-07-16-002",
+    "date": "2026-07-16",
+    "companies": [
+      "sony",
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "Samsung Expands Sony Pictures’ ‘Spider-Man™: Brand New Day’ Collaboration With New Cinematic Spot Starring Jacob Batalon",
+    "summary": "Samsung Electronics is premiering the next chapter of its recently announced collaboration with Sony Pictures’ “Spider-Man: Brand New Day.” The film is set to be released exclusively in theaters on Ju",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-expands-sony-pictures-spider-man-brand-new-day-collaboration-with-new-cinematic-spot-starring-jacob-batalon",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-07-16-003",
+    "date": "2026-07-16",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL bets on display advances as premium TV demand grows globally - InsiderPH",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOOVlxMEtpcTBUaVBlelF0bWRuSWg2ZWhQZzQwYjhQVzZYY2xzdTlOdE1MSE16TkJWRUdLaUZ5dmFJekVxMVdGczJCc1JyOG12Q0N4RlFfd2RhR3JrbXJRVFpSWS00YUowWWVydmNvb2",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOVlxMEtpcTBUaVBlelF0bWRuSWg2ZWhQZzQwYjhQVzZYY2xzdTlOdE1MSE16TkJWRUdLaUZ5dmFJekVxMVdGczJCc1JyOG12Q0N4RlFfd2RhR3JrbXJRVFpSWS00YUowWWVydmNvb2NrYTlYX2Jnei14czVkUjFKRTByQ3JMZENZa2FWUW9KQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-07-15-001",
     "date": "2026-07-15",
     "companies": [
@@ -92,6 +149,175 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2JEQkhhNEZDeDFDRlA4UUFjOEZaZUZZS0p0VERyS1dDeGF1MVhJTUhia0YyeWZRMDRtTVY1d3BlY0ZraGtJX1lnRjRDRlBCMTVoMDU0QzNZNGdtZHR6T3BoaER4bG1ZbGFBcjVtckNleGxkQzJwTER5MWFpdlp6WE5aN1lIU2RraWtocUpWR0VvRzFyVUtlZVY5TDhmY1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-15-006",
+    "date": "2026-07-15",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zacks Industry Outlook Corning, Viavi and Ooma - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXMxNVE0YXVURTNyTEo4d0N4STRnMFFtOVBhM2Q0TC03N2R5d2dOdEs4Sm04OUF4Vk9Gc2swbnhJT2JkYlFtcmVBbWI3UF9CQ2ZCVll5bWhZUjJaNzNGQWROT040QklmdnB4b1BwTm",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXMxNVE0YXVURTNyTEo4d0N4STRnMFFtOVBhM2Q0TC03N2R5d2dOdEs4Sm04OUF4Vk9Gc2swbnhJT2JkYlFtcmVBbWI3UF9CQ2ZCVll5bWhZUjJaNzNGQWROT040QklmdnB4b1BwTmwtUDhoUjZqUS12RHU2dWd3YnVBV2taY2tNNG00VlVvVmw4S2VBYldKN0owbkFYQjYwUVc0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-15-007",
+    "date": "2026-07-15",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Earns Two 2026 PRINTING United Alliance Pinnacle Awards for Innovation - The Manila Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWlMtcU1hZmNWQUNja0prY3V0a2RHR21rVGY2VEZxMWtsR2lJLW4zWWpRWWU2cGxCTjFxVHBpYnVNZHBESTh1M0kwaEV0NDUwbjFfYWdUbXA1UHJ5c1pZUmt1c29PQ21SekUxVmpPRF",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWlMtcU1hZmNWQUNja0prY3V0a2RHR21rVGY2VEZxMWtsR2lJLW4zWWpRWWU2cGxCTjFxVHBpYnVNZHBESTh1M0kwaEV0NDUwbjFfYWdUbXA1UHJ5c1pZUmt1c29PQ21SekUxVmpPRF9CdzR3N0l3eThWZmJOZWV3VThhTGNxY1k0X3NzQnpaNFEzUFJ3WnZlZ043ZFNkSU1idWtvRVI0Zi1QdzdpckdCUmxSa2RMbXdMWFZmN2I1S2NtV0xHRUN4R3NmU185R2d1LXM5NDYzZXlyUTZWT3BDQWNFNGXSAeoBQVVfeXFMUFd0cTRvVzJqS002aHEzUVJlQkE3QWpBTHM4STd2NTZjQk8xQml0R3ZESDktMWVjZUpDM1NpcXd3ZzBvU296ZVVMdFNaZmRRNGkzTjROOXZ1V19ISUFSRy1lV1c0alUxMUhwM3pkX0JlQzZyR2ZtY3p4eHpUVm9VaDBtQzAzU1BXTFctWTYyY1lNYU42aEpjUEVTS0o2ejVGWk5kQTFhQXQtTm9adW5EY2xMajJaZE45b2VhUjZleTI3OEdTWWJXMVM2YkN1bFFlRGwzQy1iai02YWZOVlJGcDRoczkwM0FJUjJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-15-008",
+    "date": "2026-07-15",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon : recognized as a “Leader” for second time in the Worldwide Sustainability Programs and Services Hardcopy by IDC MarketScape - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYWk5YVhyY0tfQnlCQkZWSVJ2d01OR3pMbUUzODRvR2tlYnJjSlRSSEViMUJvd0dwUTZ4Y3NNUVozTHNWVjJWeGU2Y3hjUFZqNGtIZ3loQ0JBOWNEaGl3c2dnSWxhMGZxT29tQUZSLX",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYWk5YVhyY0tfQnlCQkZWSVJ2d01OR3pMbUUzODRvR2tlYnJjSlRSSEViMUJvd0dwUTZ4Y3NNUVozTHNWVjJWeGU2Y3hjUFZqNGtIZ3loQ0JBOWNEaGl3c2dnSWxhMGZxT29tQUZSLXpPdEk4LXEyUmk1bllFZlRKOUJIaTV0bHA4ek1JYUtxMF92aHdVYWFqenF2ZVFGaVBOdGI2RGlGdDV1Z0Jkc2J0YmtQZ0FWUlZQODVXUlBnSkV3SndBdS1XSi1fTURyUk9KLXU0cVlQQVpfRDRWSEpqd29n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-07-15-009",
+    "date": "2026-07-15",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax (HIMX) Launches HE Series iToF Depth Decoder ICs for AI Vision and Robotics - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQeUI3UXFuU2ZHVHFPczFhbGt0QzVjaVd2eXRZWm0wTmxoUjRXWUx0Y3ZvcnBkcG1rX0dOUjR3TkJqTXVwZC13WnlDRmlyVE1uSnU4bERteGJTUkNRMXBqZUdWbDlCaHZXRDM5SzBvek",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeUI3UXFuU2ZHVHFPczFhbGt0QzVjaVd2eXRZWm0wTmxoUjRXWUx0Y3ZvcnBkcG1rX0dOUjR3TkJqTXVwZC13WnlDRmlyVE1uSnU4bERteGJTUkNRMXBqZUdWbDlCaHZXRDM5SzBvekpyOElEMUJvSXN1dzVkcnJPNmcwekR5UGU3clNoMUNhTWZZMWVzQ1JlMEhtNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-010",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "ASUS ROG Tandem RGB OLED Monitors Ship: 1,000 Nits, 480Hz, and a Known Dark-Scene Limitation - Tech Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTjFMNFMxS1VaSzYzRGxLdGdfQ25pY1djYzJJbHoxMUNsRmRHWWZ4akR0ZXZPcnJlUXdhNzFDYzdWbGZzbWdxeHhOMTNBTG1SZjJSLU1HQ0J4VVVRbjRDTjdXWVg1ck10aUdyWnNqV1",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTjFMNFMxS1VaSzYzRGxLdGdfQ25pY1djYzJJbHoxMUNsRmRHWWZ4akR0ZXZPcnJlUXdhNzFDYzdWbGZzbWdxeHhOMTNBTG1SZjJSLU1HQ0J4VVVRbjRDTjdXWVg1ck10aUdyWnNqV1VuTzBVZjBBRVI1b2YtZXpIbGdHOV9yMGMzWHZiTFBVdFRpTlRMNWJNM3c3cTUwRE9iS0RIQnJGZloxY3NVZHBrSUZrRlBQVEs1NDdaOTc3VzlMcy01OGNPQUVGTmdvdVlBNVVr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-15-011",
+    "date": "2026-07-15",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "Tianma reports high losses in the first half of 2026, cites low demand for flexible OLED smartphone displays",
+    "summary": "<p><a href=\"https://www.oled-info.com/tianma-oled\">Tianma Microelectronics</a> released its interim financial results for the first half of 2026, reporting a net loss of around $105-$110 million USD (",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/tianma-reports-high-losses-first-half-2026-cites-low-demand-flexible-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-012",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Omdia: large-area OLED panel shipments to grow 18.8% in 2026",
+    "summary": "<p>Omdia says that it large-area OLED shipments will grow 18.8% in 2026, to reach 38.8 million units, thanks to high demand for OLED monitors and laptop displays.</p><div class=\"align-center\">\n  \n  <a",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/omdia-large-area-oled-panel-shipments-grow-188-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-07-15-013",
+    "date": "2026-07-15",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL 85\" X11L Mini LED TV Review: 10,000-Nit Claim Tested - The Inventory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUVXTGE1UnVRSVYxWTZxVDN2ZHYxb2NmV1FuRFd5SDdJcU8xMm1OLVB0VWkxd0VjWUJIVzY4cGhsaXUwMnBuZnJ1VGdLMXliNmZaa2N6SDEzY0xZSzIyT05hN3BhM0ZWcDVDcnhKXz",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUVXTGE1UnVRSVYxWTZxVDN2ZHYxb2NmV1FuRFd5SDdJcU8xMm1OLVB0VWkxd0VjWUJIVzY4cGhsaXUwMnBuZnJ1VGdLMXliNmZaa2N6SDEzY0xZSzIyT05hN3BhM0ZWcDVDcnhKXzFEekgyM2VSVmNNRTJIRjU1SmNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-014",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Acer Predator Helios 18 AI laptop: the power of an Arrow Lake processor, 96 GB of RAM and a Mini LED display - hi-Tech.ua",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQUQ0RE9ZMlVMVFYxaC15OVpBUENxYUVlaEtMTk5lU08zYnRCekRhcmJ6Vk9DREhvTTk2QVFicE9Dbkc4ZlZjT2RzWFdBY1oyTjZpZ1Y5d3BFZTFUZmRiZ0NhUVBkM1FUWjF6b1d5M0",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQUQ0RE9ZMlVMVFYxaC15OVpBUENxYUVlaEtMTk5lU08zYnRCekRhcmJ6Vk9DREhvTTk2QVFicE9Dbkc4ZlZjT2RzWFdBY1oyTjZpZ1Y5d3BFZTFUZmRiZ0NhUVBkM1FUWjF6b1d5M0pfbDlIZjNTSHlSSDVCSmc5aS1ldDkxSDNFRFVTWnJqeWNHb2M4UDlKTktNdEZFaEpURFRaaElyWktlSUN6Yk5PNV9DamVNbVdLbG00blFTdWlTMnMyTXZIYQ?oc=5",
         "type": "rss"
       }
     ]
@@ -425,6 +651,24 @@
       {
         "name": "semi_engineering",
         "url": "https://semiengineering.com/eda-revenue-up-12-7-apac-roars-back/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-07-14-019",
+    "date": "2026-07-14",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Price to book forward of Japan Display Inc. – TSE:6740 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXpVY3ZOLUhBTTUwZmtoeDNrWDE5UWlxTWR5RU5Ubjk1aGEzRVJVT3dkNEJlRHVnWTZRa2JXU2pUUGE5a0xsdjhaV1FNQnNoOVNrTGswNlpmQV9Bek1uLWh5X3lib1dwR3ZGY2RuVE",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXpVY3ZOLUhBTTUwZmtoeDNrWDE5UWlxTWR5RU5Ubjk1aGEzRVJVT3dkNEJlRHVnWTZRa2JXU2pUUGE5a0xsdjhaV1FNQnNoOVNrTGswNlpmQV9Bek1uLWh5X3lib1dwR3ZGY2RuVEwweUxENUwwRTU0Qk1BWDhwUm83RkNBQmpzUmZweHIweGZPRFp6N2VKWQ?oc=5",
         "type": "rss"
       }
     ]
@@ -914,6 +1158,26 @@
     ]
   },
   {
+    "id": "jdi-2026-07-12-011",
+    "date": "2026-07-12",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Japan Display (TSE:6740) Shuts Hong Kong Unit, Is The Premium P S Multiple Justified? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPYW9QankxbC1vOURZQkNhT2E5X1d3N3VBNFJVZ2FNaVQ4Zy1WaG5IX2ZBa0MzVWFSUFJISVFLX0liaW1VS282RW5OVXRLT3BDaGpPNVM4M280LUlPQ3JqY09GZ1pmbmJrbnN4VjlqNk",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYW9QankxbC1vOURZQkNhT2E5X1d3N3VBNFJVZ2FNaVQ4Zy1WaG5IX2ZBa0MzVWFSUFJISVFLX0liaW1VS282RW5OVXRLT3BDaGpPNVM4M280LUlPQ3JqY09GZ1pmbmJrbnN4VjlqNkZFVG1oVWFJdmFPREkwQTdTbDBUbjl1N3BIa2hudVNPZXc0X3p6WUF2NjVheHdndW9qNTZ6ODZSLUhHcDA3QkNvb3cwZG9telk2VTVHWC1VSndrdVo3N1B6WkdTc9IB0AFBVV95cUxOWFdGQWxoOUo3R1FOOFFHVWFZbzA2N2Q4YXBIbzV2VG01WUFMV2R2X29EMm15S2dFUlRxZ1ZldmxLOFV2c2xfanItT0tjUUxtWE1MejhDemxhTGJ5MmhmbThfdWdlN2FadVYxb1hFU0NKSkhmQUhjTXMzdTN5cXhTbVVabDFWMVREWjRtOUQxUUhETEJpbVNIODFmRVUyNHNLdTQyOHlaeFhyXzM3MndLakdPWGJOV1pQUDY0OTNtS1dXYlVGZ0dyVTNyV3Y5UVZk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-07-11-001",
     "date": "2026-07-11",
     "companies": [
@@ -1206,6 +1470,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYk9qTFI2TEZlWldfTzV4d1o3N2VXa1E3ZC1NRnY2TTZrLUJLdzA0UHR0Z1BNY3NEMlVKd3N4UDM4XzRKY19Lb3ByYjM2N3VTRW1hb1JpRjF6emkxaE5HZF9MS1pLRE5uNGdrNEZUZVVDM3p0RFhGMDl2VWU4SFVqMzg5dWI3UWRxbTc0MGQwQWxmYVR1QnZzOFNpWVR2UdIBowFBVV95cUxPel9uV2c5Q1hlSHU1QkVyWGlXV3J1cXZtMUlRSmlzOFJjWXBHUnlyZEJ3bWdCaVhKcm9CeXBXeDhZei1CamlEX3FQQzV6RHR4UGJQb1k4SEFVd2YwcDZUUmRhdDhKNTc0dHZQNFNhcTNzWEEyYko1aVNISGNwRm9pQlVOQlRvdHl1RUxsR3hFQUxGSDhpQUtYay1uSjdEeXpWb0hR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-017",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The company aims to develop semiconductors and sensors—spun off from its display business—into new profit pillars. - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMzJDbWFYVndGYkNmLWoyV3JVODB4MERvYTd5aWo2ODlyUmY3d1g1ZTZhV0VZa0htdTJBQjM4bHU2YWRmQ1U2dGFyeUJkak9KY1gyTGduRGg5b2prWVRjSE5KUS13cDFucEpLNUpYaX",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMzJDbWFYVndGYkNmLWoyV3JVODB4MERvYTd5aWo2ODlyUmY3d1g1ZTZhV0VZa0htdTJBQjM4bHU2YWRmQ1U2dGFyeUJkak9KY1gyTGduRGg5b2prWVRjSE5KUS13cDFucEpLNUpYaXV4clFRODYyMkU0MEw0TmxrMUNXV1NJUnZzZDlPOWdOQUhJLVZGZFktT3VVY2ZPdm5pZjFlMjNJcXlOUVE2QlRzcXVTQ2JSRVVHV2RwN1ZB?oc=5",
         "type": "rss"
       }
     ]
