@@ -1,0 +1,159 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T09:57:09.348675Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-07-17-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Earnings Preview: LG Display to Report Financial Results on July 22 - Moomoo",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaUliYkNFcGlNUk9GVjVDakhsRDhsMEZlSl9Tc29zR3ZMWXVCLWNsWmVIX2s3S2U2bFFPTWFGb0Fsc3RPZmM5QTdmQUJhY0NpbFc3VTVOSm5oS1NrZ1Z1QnJfeUhZUkdOYnFzY0pEbVhvMjRsNGozQnZ2WFZPS0tqc2pQTWdnRzV6OHl5WVRobVFOSnZmd092RlZMSlZfNXQzRzBaM000amQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_elec-2026-07-17-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "[Exclusive] LGD Dual Mode OLED Panel… Samsung Electronics Starts Supply to U.S. Dell - 매일경제",
+      "companies": [
+        "samsung_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ldkc4WkJoQ2tiaVpVRmpVcWExVlZVRWZ1Y3EwS2YwUkstRGpVYmtZRXNRWmJUNThNVm1QRHpsX0ZaNTNrc0dZTGhYSzdqSWk1OHU4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_display",
+        "count": 2
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 130,
+    "too_old": 172,
+    "gate1_blocked": 26,
+    "gate2_blocked": 19,
+    "passed": 13,
+    "pass_rate": "5.7%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "Lobbying Update: $70,000 of CORNING INCORPORATED lobbying was just disclosed - Quiver Quantitative",
+      "Corning Incorporated Stock 12‑Month Price Target Raised to $217.38, Implies 14% Upside - TradingView",
+      "Corning (GLW) Proxy filing Summary - Quartr",
+      "Corning Incorporated Stock Analysis: Bearish Momentum in July 2026 - The Cryptonomist",
+      "Corning Drops 7.3% Amid Sector-Wide Selling - AlphaStreet"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為LGD、LG電子、三星電子相關動態：「Earnings Preview: LG Display to Report Financial Results ...」。主要關注主題為法說會、OLED 滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Earnings Preview: LG Display to Report Financial Results on July 22 - Moomoo（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "[Exclusive] LGD Dual Mode OLED Panel… Samsung Electronics Starts Supply to U....（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

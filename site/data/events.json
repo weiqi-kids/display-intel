@@ -1,5 +1,47 @@
 [
   {
+    "id": "lg_display-2026-07-17-001",
+    "date": "2026-07-17",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Preview: LG Display to Report Financial Results on July 22 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaUliYkNFcGlNUk9GVjVDakhsRDhsMEZlSl9Tc29zR3ZMWXVCLWNsWmVIX2s3S2U2bFFPTWFGb0Fsc3RPZmM5QTdmQUJhY0NpbFc3VTVOSm5oS1NrZ1Z1QnJfeUhZUkdOYnFzY0pEbV",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaUliYkNFcGlNUk9GVjVDakhsRDhsMEZlSl9Tc29zR3ZMWXVCLWNsWmVIX2s3S2U2bFFPTWFGb0Fsc3RPZmM5QTdmQUJhY0NpbFc3VTVOSm5oS1NrZ1Z1QnJfeUhZUkdOYnFzY0pEbVhvMjRsNGozQnZ2WFZPS0tqc2pQTWdnRzV6OHl5WVRobVFOSnZmd092RlZMSlZfNXQzRzBaM000amQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-17-002",
+    "date": "2026-07-17",
+    "companies": [
+      "samsung_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "[Exclusive] LGD Dual Mode OLED Panel… Samsung Electronics Starts Supply to U.S. Dell - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ldkc4WkJoQ2tiaVpVRmpVcWExVlZVRWZ1Y3EwS2YwUkstRGpVYmtZRXNRWmJUNThNVm1QRHpsX0ZaNTNrc0dZTGhYSzdqSWk1OHU4?oc=5\" target=\"_blank\">[Exclusive] LGD",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ldkc4WkJoQ2tiaVpVRmpVcWExVlZVRWZ1Y3EwS2YwUkstRGpVYmtZRXNRWmJUNThNVm1QRHpsX0ZaNTNrc0dZTGhYSzdqSWk1OHU4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-07-16-001",
     "date": "2026-07-16",
     "companies": [
@@ -52,6 +94,160 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOVlxMEtpcTBUaVBlelF0bWRuSWg2ZWhQZzQwYjhQVzZYY2xzdTlOdE1MSE16TkJWRUdLaUZ5dmFJekVxMVdGczJCc1JyOG12Q0N4RlFfd2RhR3JrbXJRVFpSWS00YUowWWVydmNvb2NrYTlYX2Jnei14czVkUjFKRTByQ3JMZENZa2FWUW9KQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-16-004",
+    "date": "2026-07-16",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Incorporated’s Stock Price Plummets to $158.39, Suffering a Sharp 9.19% Drop - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPTE1QanJpM3NTb3FTcm9qS2VEd3FCMEk3WmpjV0sxRTJqa3pzanJKUklQNTdvWDl5aDRxX1dkbEhFMWJ1YU05RVd6N3FhUHJ5R1VaSlQxbU92LXItY25WZk9fbmlIb1hiSDBLeG02Y0",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTE1QanJpM3NTb3FTcm9qS2VEd3FCMEk3WmpjV0sxRTJqa3pzanJKUklQNTdvWDl5aDRxX1dkbEhFMWJ1YU05RVd6N3FhUHJ5R1VaSlQxbU92LXItY25WZk9fbmlIb1hiSDBLeG02Y0h1OVN6NGYtTS1wZUUxRXJZM0tVODcxT3pxQ2RxNlBKTXd6OUZSSlk0dEFxREdpcnNyOS1vV1BhNGltT0JmSkNoT3EwNC1YOW1sU1FZbnNPbGo4bXdURFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-16-005",
+    "date": "2026-07-16",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning lands on JP Morgan's 'Negative Catalyst Watch' ahead of earnings due to valuation - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ3Bxekd5M0xHMkdIdExjTHFTQVRqTHl0Q2N3YlRCMGtJY2FISndjamVQODA2OTBzOTQ3bFh6NENfVWREcHkyR0tJUTZxcjJhT2NJOFk3ZlpLRDJMcFNvampfaThCZHVlSERXMFY5S2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ3Bxekd5M0xHMkdIdExjTHFTQVRqTHl0Q2N3YlRCMGtJY2FISndjamVQODA2OTBzOTQ3bFh6NENfVWREcHkyR0tJUTZxcjJhT2NJOFk3ZlpLRDJMcFNvampfaThCZHVlSERXMFY5S2ZIZmZ5bEptaFpaV1lVX290dzdwOS1kYVdpNHAweG1MNHh1YTRVOWtaaEZFNGZwcFJBd2FCdldGY1ZjTnh0YVpJU0JzZTdidUlwTjNYMVh6c3JGQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-16-006",
+    "date": "2026-07-16",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon U.S.A., Inc. and New York Marine Rescue Center Release Rehabilitated Sea Turtle Back into the Ocean - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQM0ZOb0hjMUpYSVd3dVJDRTFacy1JZXpleDhieEphaGNSZDR0elpWYk1JTks5d1NyejhFZkRobFlXV08yUXBzdElMVEZMM3JVSkhUOTZ0NTRRX0YwSXVIaTFETzZGWlQ2YWs4NzFjVU",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQM0ZOb0hjMUpYSVd3dVJDRTFacy1JZXpleDhieEphaGNSZDR0elpWYk1JTks5d1NyejhFZkRobFlXV08yUXBzdElMVEZMM3JVSkhUOTZ0NTRRX0YwSXVIaTFETzZGWlQ2YWs4NzFjVU1NMzgxcTluWjZtNGRtcGxpc3dzb1dqZzZBVXlRUjhLMUZxMHlHZFdLa21FMm1vRFhJRmZFb3hXeXZVSFlDYld2YkRsMHRUb1NzSzZkdnRmeUUtNHhTYThZQmZVNU8zN0xBQlpDSUk5VnMtVllsYmxPcFZjMTFncWVZZmx0Z1JNZUtsZWNVQ0ctOU51WVVOM0lGZGJhQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-16-007",
+    "date": "2026-07-16",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "CAFC Affirms Two PTAB Obviousness Rulings in Canon Printhead Patent Disputes - IPWatchdog.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPLVlrbTh1eTZNa3YtSFFyV3BwazY5NWU0LXp2MkFPTzNfdWxRbjEtdFFaT1Q0S0NER2U4Ylpsb2tRajhSWVE1b2I0LUllVXFwbUNrT1NKZENlSHM3N1owalA4ZzJvMDZPT1BwRVoxMm",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLVlrbTh1eTZNa3YtSFFyV3BwazY5NWU0LXp2MkFPTzNfdWxRbjEtdFFaT1Q0S0NER2U4Ylpsb2tRajhSWVE1b2I0LUllVXFwbUNrT1NKZENlSHM3N1owalA4ZzJvMDZPT1BwRVoxMm5aTkU4bXhPM3JueEFDVTk1bVlQLXZZS214V2FqekFmb2VPLURzajZTRUlha1V6RTY1eE9jZjc1dFJaREtyY0o3ZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-16-008",
+    "date": "2026-07-16",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Fed. Circ. Backs Canon PTAB Wins Over Inkjet Sensor Patents - Law360",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNVVExSFYyRUhMRDhvdFlHSEJROFNteE5TbmluaXdCdGJUUkEtOWhXcVNIQzZUMW95cXVibF9zYkdWc1JIelNXTWxCS0JDZ3laMzhnN1diRi1Ic2l1ckhMQmpxZG5qT2NiTzJ5YThyTm",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVVExSFYyRUhMRDhvdFlHSEJROFNteE5TbmluaXdCdGJUUkEtOWhXcVNIQzZUMW95cXVibF9zYkdWc1JIelNXTWxCS0JDZ3laMzhnN1diRi1Ic2l1ckhMQmpxZG5qT2NiTzJ5YThyTmpiNVBlTG9nT3ZTblNSMnpwRnVFUWhSYzFOQjVRUVctRUw0UjdMc09HaDJ6aFFTQdIBVkFVX3lxTE50X0xIeHFiUC1IOWgxRnNsVm4yaW1DS2xhYWpzLW5lU3NaQ3FuUjhvajNVOW9fWnRhSjE2alZZRVZ1SVdRb093aUV5b2NxSGo5cVJQY0lB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-07-16-009",
+    "date": "2026-07-16",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to showcase world's largest Gaming OLED lineup in Taiwan - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2swdDlWTVowbzUwT3I0Y1duQXFqWWp1STBiamh6bmVjOGtjQ0pWVDEtS1JQY0Q3UTU5aUktcDZtaGlia1FGN1k4U19UenZfWWxQbm51SnM5WGFJVk05NkRiSkVhSllPc21PYXVDRk",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN2swdDlWTVowbzUwT3I0Y1duQXFqWWp1STBiamh6bmVjOGtjQ0pWVDEtS1JQY0Q3UTU5aUktcDZtaGlia1FGN1k4U19UenZfWWxQbm51SnM5WGFJVk05NkRiSkVhSllPc21PYXVDRklNSXY3UFppVy1CNElqNkQ5MDRrQkY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-07-16-010",
+    "date": "2026-07-16",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BOE stock remains supported by display demand and recent earnings metrics - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNVHZ1X2gtVkNLV0o0a014dnFyN1ZKREl5ZXlWQUFQaFplWS0wanhYMnV2ZVhVTjZCdE1XMllnNjZDNFRWWUhwRlhxWUVFX0dteGZuYU5reTNsUC1wdC04emZfdExZM0VFUGUwd181cH",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVHZ1X2gtVkNLV0o0a014dnFyN1ZKREl5ZXlWQUFQaFplWS0wanhYMnV2ZVhVTjZCdE1XMllnNjZDNFRWWUhwRlhxWUVFX0dteGZuYU5reTNsUC1wdC04emZfdExZM0VFUGUwd181cHB0V1pPTVJRTG9jME5FV1d1NWt1QXl4X0dkN2VXNndEa1MtbFFFS1NiSG84STZWSG5GTnBZMnRhN1hhSjI5a1BFN25lVXdBT280RDA4Nmw3b2p1TlRJY21tLVlTNkM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "csot-2026-07-16-011",
+    "date": "2026-07-16",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Lenovo and MSI launch the first consumer products to utilize TCL CSOT's inkjet printed OLED panels",
+    "summary": "<p>A few days ago we reported that TCL CSOT is launching commercial production of inkjet printed OLED panels at the company's 5.5-Gen line, and today two companies formally announced the first product",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/lenovo-and-msi-launch-first-consumer-products-utilize-tcl-csots-inkjet-printed",
         "type": "rss"
       }
     ]
@@ -318,6 +514,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQUQ0RE9ZMlVMVFYxaC15OVpBUENxYUVlaEtMTk5lU08zYnRCekRhcmJ6Vk9DREhvTTk2QVFicE9Dbkc4ZlZjT2RzWFdBY1oyTjZpZ1Y5d3BFZTFUZmRiZ0NhUVBkM1FUWjF6b1d5M0pfbDlIZjNTSHlSSDVCSmc5aS1ldDkxSDNFRFVTWnJqeWNHb2M4UDlKTktNdEZFaEpURFRaaElyWktlSUN6Yk5PNV9DamVNbVdLbG00blFTdWlTMnMyTXZIYQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-15-015",
+    "date": "2026-07-15",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Stock Signal Hints at Upside Potential Amid Breather - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOS3FGQ3hBX19qcUs1dkxyckszSXJWZG9MNWFnVkhDYkQ4UWlvWndOOUk5Zkl6ekZ1ME5ZTFM2bnJ5bmpCQ3cxWjVmX2ZJcHZwQ3lYZ1B6N1gxSTV1eGhUSEs5VFI3NjdweUFIdkxfOT",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS3FGQ3hBX19qcUs1dkxyckszSXJWZG9MNWFnVkhDYkQ4UWlvWndOOUk5Zkl6ekZ1ME5ZTFM2bnJ5bmpCQ3cxWjVmX2ZJcHZwQ3lYZ1B6N1gxSTV1eGhUSEs5VFI3NjdweUFIdkxfOTJ6elVGbkZ0czg5QjBHOXE3bHcwUFNvNG5rSU1Nd0l3aFVHRjRuR3RwZHRHRUxpUzA?oc=5",
         "type": "rss"
       }
     ]
@@ -674,6 +888,24 @@
     ]
   },
   {
+    "id": "corning-2026-07-14-020",
+    "date": "2026-07-14",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning (GLW) AGM 2025 Summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kTVdEWEhWRmZoTXgzUW9hb1UxbmlaV19tYmZERVZKQ0g2MDliZFQwQndDc2hGQVZaSC1CVUZxOHV3ME15ajVickxFTlIyZXBYVVhHZUNLTGlER0NNM0hoalh3ck1GUQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kTVdEWEhWRmZoTXgzUW9hb1UxbmlaV19tYmZERVZKQ0g2MDliZFQwQndDc2hGQVZaSC1CVUZxOHV3ME15ajVickxFTlIyZXBYVVhHZUNLTGlER0NNM0hoalh3ck1GUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "boe-2026-07-13-001",
     "date": "2026-07-13",
     "companies": [
@@ -965,6 +1197,24 @@
       {
         "name": "canon",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaTlMS00wVHdkbktQZ3lPOHdzcmZmMnZZaGFUS1FyRUl0RjhZNFZ1S29SaTB6ZHpLVDg4d21FZlJ4bGNTVHphTkJUdDNScmhGMUNTdWo3cXJyWUlkcURpYVgwNTdMOHRER1dxUjIxSnhqVnZDZk9GTm9TZGVoYVYyRnNaYnVFR21RVENZSDJFSWVsT1JrUDZYdDNQdlhJS1BubklmaGtCTmQzOGs5a2F2WlNUbnRzSXJlY0phN1BYLVZrYWNuN2VtZ09QSkRpTG96RFRCWWNVRE14VmlzTXQwM2lfRkNiNFlqR2tn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-13-016",
+    "date": "2026-07-13",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Announces U.S. Unveiling of Next-Generation varioPRESS iV7 at thINK Ahead 2026 - Industry Analysts, Inc.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOR0l5NnNFSjNwRkFvOUhOaGJZUHJqSjZSWXJGMzNjVkFVakh0Sm9yaWJIbWxlX19yV0xYYTRCYUNwUFNEVTZpZGw5REE3R3VsWEpWTXJiajF2R2hZWTFrRXlIN2FNZ0FwZWNsVWx4QX",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR0l5NnNFSjNwRkFvOUhOaGJZUHJqSjZSWXJGMzNjVkFVakh0Sm9yaWJIbWxlX19yV0xYYTRCYUNwUFNEVTZpZGw5REE3R3VsWEpWTXJiajF2R2hZWTFrRXlIN2FNZ0FwZWNsVWx4QXY3cWhvV2FFT203QkcycWZzZi1EWFlVcDIxSnZBcThxUVR5QlZiZGk2enpvVEFkd3RhT0Z2cXUtdF9NUjI3alZBMGxSMA?oc=5",
         "type": "rss"
       }
     ]
