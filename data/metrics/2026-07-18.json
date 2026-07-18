@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-18",
+  "total_events": 5,
+  "by_company": {
+    "lg_elec": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "samsung_elec": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "csot": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tcl": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "automotive_display": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "panel_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "oled_penetration": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "it_panel_demand": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,5 +1,103 @@
 [
   {
+    "id": "lg_elec-2026-07-18-001",
+    "date": "2026-07-18",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG bets on India as its biggest AC base, as its third plant runs ahead of schedule",
+    "summary": "LG Electronics is on course to bring its third Indian plant online earlier than planned, a step that would make India the company's single largest air-conditioner production base and a springboard for",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260717VL201/lg-electronics-home-appliance-india-plant-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-18-002",
+    "date": "2026-07-18",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "positive",
+    "title": "Commentary: Samsung, SK Hynix in Washington's crosshairs over memory fabs",
+    "summary": "On a recent podcast, DIGITIMES analyst Luke Lin reviewed two major updates in the chip industry: Intel's Ireland fab expansion and rising US scrutiny of Samsung Electronics and SK Hynix as both South ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260717PD229/samsung-sk-hynix-intel-digitimes-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-18-003",
+    "date": "2026-07-18",
+    "companies": [
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "As AI expands nanotech, Samsung fortifies ecosystem and LG pivots to chip equipment",
+    "summary": "Nanotechnology is increasingly seen as a key enabler in the AI era, with competition broadening from semiconductors, manufacturing to home appliances. At Nano Korea 2026 held in Goyang, South Korea, S",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260714PD217/equipment-lg-samsung-packaging-competition.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-18-004",
+    "date": "2026-07-18",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Dutch report frames Chinese interference in chips, ports and aerospace as a systemic threat",
+    "summary": "Chinese foreign interference in the Netherlands' strategic industries should be treated as a systemic, long-term threat rather than a series of isolated incidents, according to \"Beyond Borders,\" a rep",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260715VL226/netherlands-china-geopolitics-security-asml-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "csot-2026-07-18-005",
+    "date": "2026-07-18",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [
+      "panel_price",
+      "oled_penetration",
+      "it_panel_demand"
+    ],
+    "impact": "neutral",
+    "title": "TCL starts OLED monitor panel production ahead of Guangzhou fab opening",
+    "summary": "TCL CSOT has started producing a 27-inch inkjet-printed OLED monitor panel at its Gen 5.5 line in Wuhan, giving the Chinese display maker an early foothold in consumer OLED monitors before its larger ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260714VL220/tcl-production-csot-monitor-panel-panel.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_display-2026-07-17-001",
     "date": "2026-07-17",
     "companies": [
@@ -37,6 +135,210 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ldkc4WkJoQ2tiaVpVRmpVcWExVlZVRWZ1Y3EwS2YwUkstRGpVYmtZRXNRWmJUNThNVm1QRHpsX0ZaNTNrc0dZTGhYSzdqSWk1OHU4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-07-17-003",
+    "date": "2026-07-17",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE attends UNESCO Global Conference of the International Decade of Sciences for Sustainable Development in Paris - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTGoyVXBJVWduX3NQeVRUeHRKZDVublR1LXRpdjRnRXV6Ml9uRWE2NUhKbl9WZkNLSDZOejRncWUtVVluZmdXd2pzeUlVSFVJTGhjbUxZTUxYVkdwaFcyTW1JX29SZ1ZVZ25QTnFtej",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTGoyVXBJVWduX3NQeVRUeHRKZDVublR1LXRpdjRnRXV6Ml9uRWE2NUhKbl9WZkNLSDZOejRncWUtVVluZmdXd2pzeUlVSFVJTGhjbUxZTUxYVkdwaFcyTW1JX29SZ1ZVZ25QTnFtejROc1FiMTRRLWszUVpMVXl6ekF2eHFlT285eVRmRjRqUUc2bVJfM1VZVjJROUdLMVZkamFqN1lRWlBJWEZiS3Q5MEFXUW8tQ01QVzFYaHFpMm0yUDR2QVAyVzNmVWNFLURlMGRVT2FlNnEtZHpVS3FENmJ4RDVkdFVEV0ZHcExzSDVhTmRHNllDUlV2M21JQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-07-17-004",
+    "date": "2026-07-17",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BOE stock trades around yearly range as display revenue supports margins - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPSFZTbng5cWlyMF9xbWRubTNBd0pzYlFNOE85dUFGSkxYbHlMREw4OG5rOFlCMlo0TVZhYVB2NnMtZ1F5VTVpODQxN1FORUtFNWo5dnFQWU55MXRnZGc3c1BOVWJyRFNXNW1hR3dKek",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSFZTbng5cWlyMF9xbWRubTNBd0pzYlFNOE85dUFGSkxYbHlMREw4OG5rOFlCMlo0TVZhYVB2NnMtZ1F5VTVpODQxN1FORUtFNWo5dnFQWU55MXRnZGc3c1BOVWJyRFNXNW1hR3dKekRsZXJyc0FWWDJIV1hONzYyVmYtUUNtOG81cE0wV09aaXhvdlBsSWlXQWRzLWI1di05YjVlMlF3XzUwUEk3QUJtN0V1X1R1TmRYclgxNV9CYjZfMHN4Y2tnWDVvZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-07-17-005",
+    "date": "2026-07-17",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Japan Display to Receive 3.7 Billion Yen in Dividends From Two Foreign Subsidiaries - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNVTdOZEQxWDBTWWl5VEpZOWd2X3d0NW5zZ2FLeS05ZVFvbllYYjNQaWF1MkxyRVp3bVlHNElELWtiTlpUaVh2R1RDYVpPMkZ1ZWFrZEhIaE9rcTFFUmlfRVNoQkdCWmhDUnREREN0R1",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVTdOZEQxWDBTWWl5VEpZOWd2X3d0NW5zZ2FLeS05ZVFvbllYYjNQaWF1MkxyRVp3bVlHNElELWtiTlpUaVh2R1RDYVpPMkZ1ZWFrZEhIaE9rcTFFUmlfRVNoQkdCWmhDUnREREN0R1RteGktVENWVUhXejFaZkNPUnVfdW9EdjltY2RUX3hJdUM4MnlOQ2t5dXBGUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-07-17-006",
+    "date": "2026-07-17",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "America & Japan may join forces to set up $13 billion Japan Display Inc. factory in the US - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxPTXJoT29OY0ZqUGFrMzZlLTZqR0tFeTVRLS1nWWlIUUVNeWhseTUwaHI2dmFoR1FkWUo5emkxa0tsRnNlRGtUTDlhaHJjeEZ4ZnZTN0JCREw1TENPUEkzb05fUDVnSDhiX1RRRUxsT3",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPTXJoT29OY0ZqUGFrMzZlLTZqR0tFeTVRLS1nWWlIUUVNeWhseTUwaHI2dmFoR1FkWUo5emkxa0tsRnNlRGtUTDlhaHJjeEZ4ZnZTN0JCREw1TENPUEkzb05fUDVnSDhiX1RRRUxsT3BsMUo5RDFSVW9neUFIZlE2cUZSN3BsZ3lXdE93cjVYSnk1cm5feDBaclJQWnRfVlFzRWF5Yk1relpCQzU2cnRzVFNHamFNRVFGTGR0bEhnRkItYWRORXFKLWJwZTFXVk1RUmZLMGZDU1ZQNks2aFdtVVJmRjhlamJHa25IdS11NHRsZ1k2VTFDWU5veXJNTTV0aHlyQjhCbFlqSXJfSENUSWtWcVNNMnB4bnZGTTFVejJ6cklZZ0U0VTNZUUYyZVoyYm0yUm9Qb0ZiYWJQTVBwVnJtaFJEYk10bXlKMklBYUdaYXJmQmQ0SzhCdzVwb2hyMUlmQ2lWSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-17-007",
+    "date": "2026-07-17",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Electronics to introduce new titanium components that enhance its foldable smartphone flexibility, thinness and strength",
+    "summary": "<p>Samsung Electronics unveiled a new technology that enhances the durability and reduces the crease in foldable OLED panels. The Flex Titanium technology integrates two titanium-based components, a t",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-electronics-introduce-new-titanium-components-enhance-its-foldable",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-17-008",
+    "date": "2026-07-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "TSMC's CoWoS capacity remains 'extremely tight' as OSAT partners ramp expansion",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:417;133-549\">During its July 16 earnings conference, Taiwan Semiconductor Manufacturing Company (TSMC) offered an upbeat outlook on AI demand. Responding to competi",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260717PD220/tsmc-taiwan-capacity-cowos-earnings.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-07-17-009",
+    "date": "2026-07-17",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL SQD-MINI LED: BUILT FOR THE NEXT ERA OF HOME VIEWING - PA Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVXE5OVRET25ZWHZYV0hidlFMSGgxTnNXc2M2LVZlOU1vZEx2djVjM0xqWHBHenlsY0JHNkEzQzhjR3FzOVRsWk1qNUdLRG02VFcwdUczSHJnbF84MlFBVzdrVEtzaFA2bTdpVWtWVm",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVXE5OVRET25ZWHZYV0hidlFMSGgxTnNXc2M2LVZlOU1vZEx2djVjM0xqWHBHenlsY0JHNkEzQzhjR3FzOVRsWk1qNUdLRG02VFcwdUczSHJnbF84MlFBVzdrVEtzaFA2bTdpVWtWVmxHMi0ydE5QOHV3N0ZtbFVPd2xaNkVNanVDazA3SlZwVVpkMVVIWUg1emV3OXM2TmlMbDV0R1JaSjJxa1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-17-010",
+    "date": "2026-07-17",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG knocks $100 off its latest 75-inch mini-LED TV in weekend deal - geekspin",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGJ5WWJlTW9uSS05X1RpWVc4SENON2Qwck1kcC1NZnFfQ09mQ3lHWGNQWVR6M1NFRi01ZHJHN0pnRW5lTDFURjhSa2ZGUjRCY0FqbjlLMHE4WFdRdWRwRkdHQjloZ1V4Y3JyNUxqOG",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGJ5WWJlTW9uSS05X1RpWVc4SENON2Qwck1kcC1NZnFfQ09mQ3lHWGNQWVR6M1NFRi01ZHJHN0pnRW5lTDFURjhSa2ZGUjRCY0FqbjlLMHE4WFdRdWRwRkdHQjloZ1V4Y3JyNUxqOGYwYm0wTXNsTE03U1M1SGhGUVJSLWpobERGOVM5UUpB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-17-011",
+    "date": "2026-07-17",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "5 Reasons a Mini LED TV Works Well for Family Viewing Spaces - ANI News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQQU91UjY2OHFQbzF5cXB5LW9oWWV3cVZoeUNTTWgwN3NGaTBIZDlxY1U1LVp1bTZtWjUxTXctU3ZrMk5uVHY0a2FnWVFIUUNpbTFZSUZRMmZaOFFOeVVsTFB4ZVVfWWtBUktpN2hQMU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQU91UjY2OHFQbzF5cXB5LW9oWWV3cVZoeUNTTWgwN3NGaTBIZDlxY1U1LVp1bTZtWjUxTXctU3ZrMk5uVHY0a2FnWVFIUUNpbTFZSUZRMmZaOFFOeVVsTFB4ZVVfWWtBUktpN2hQMUJEZTFBUGdYaXdKaEttZGJlZFV5TDJlMnVmbG84bHNCNDZkODRYRXVROFI0VThLRnJEbTVmNUNQanpDanB4cHJMaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-17-012",
+    "date": "2026-07-17",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Corning stock steadies as optical and automotive gains offset weaker display demand - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQRG5jOEg0YWIycUNIdzcwN2R3SWFzN2Jrc3dEQWp1MGFpeEV0TURGV1JJSngtQlpNOEZwX1l5WjA0VmlSTlc3VS0tQmt6SHB6d3cxaTFnbDZaYkp3djdIUEFETFdnRmxUdWozUGM0YW",
+    "sources": [
+      {
+        "name": "corning_news",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRG5jOEg0YWIycUNIdzcwN2R3SWFzN2Jrc3dEQWp1MGFpeEV0TURGV1JJSngtQlpNOEZwX1l5WjA0VmlSTlc3VS0tQmt6SHB6d3cxaTFnbDZaYkp3djdIUEFETFdnRmxUdWozUGM0YW54NlVKLTl1a0RFY3ZjSTFIZ25yTFllZTdCWkpweFpHQ3NXOHU4YlBmc0lZUHoteC1SdlBwZFFncjl6ekpzNnhyTnFlbDRpOHFXRmtZWmpweEFuNWZTclE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-17-013",
+    "date": "2026-07-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "ASML Raises Outlook, Plans More EUV Capacity",
+    "summary": "\n\t\t\t\t\t\t<p>ASML raised its full-year outlook as AI demand prompted plans to expand lithography capacity through at least 2028.</p>\n<p>The post <a href=\"https://www.eetimes.com/asml-raises-outlook-plans",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/asml-raises-outlook-plans-more-euv-capacity/",
         "type": "rss"
       }
     ]
@@ -248,6 +550,48 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/lenovo-and-msi-launch-first-consumer-products-utilize-tcl-csots-inkjet-printed",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-07-16-012",
+    "date": "2026-07-16",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display OLED becomes world's first to achieve \"Perfect Color/Brightness\" certification - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBKc3NoR2lXak5kOWNwME12Y1BoQlBybThJbUdEUmxoTmJxRHJIWUhXRGhYNTItTmVVaDZKQURjR21vM2VIcEhZYncwdnRNeWZKMTVieG12aW5qeWtWRFpFbUhRSmMxdFZjbkRMZjk3U0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKc3NoR2lXak5kOWNwME12Y1BoQlBybThJbUdEUmxoTmJxRHJIWUhXRGhYNTItTmVVaDZKQURjR21vM2VIcEhZYncwdnRNeWZKMTVieG12aW5qeWtWRFpFbUhRSmMxdFZjbkRMZjk3U0hPZmpQMV9vbG5GbG1MU2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-07-16-013",
+    "date": "2026-07-16",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "LG Display begins mass production of world's first 240Hz RGB Stripe OLED, expanding premium monitor market - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQRU95eEEtaUc4Y1BHU01Tb3ZUVUNWTkdJVHJFb3pYU09RYm8yUVhHR3o2MVVmUWdTVkoxVy1iaEJodlF1aGExZUgwRlFfdC1EaEJRWFh2aWpwZ2dNTTdhYjVVZjN4MFlkcU4wb21BVm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRU95eEEtaUc4Y1BHU01Tb3ZUVUNWTkdJVHJFb3pYU09RYm8yUVhHR3o2MVVmUWdTVkoxVy1iaEJodlF1aGExZUgwRlFfdC1EaEJRWFh2aWpwZ2dNTTdhYjVVZjN4MFlkcU4wb21BVm1FRlJzZDY4NlZWNkFSaE9YeEFjOA?oc=5",
         "type": "rss"
       }
     ]
@@ -1423,6 +1767,24 @@
       {
         "name": "jdi",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYW9QankxbC1vOURZQkNhT2E5X1d3N3VBNFJVZ2FNaVQ4Zy1WaG5IX2ZBa0MzVWFSUFJISVFLX0liaW1VS282RW5OVXRLT3BDaGpPNVM4M280LUlPQ3JqY09GZ1pmbmJrbnN4VjlqNkZFVG1oVWFJdmFPREkwQTdTbDBUbjl1N3BIa2hudVNPZXc0X3p6WUF2NjVheHdndW9qNTZ6ODZSLUhHcDA3QkNvb3cwZG9telk2VTVHWC1VSndrdVo3N1B6WkdTc9IB0AFBVV95cUxOWFdGQWxoOUo3R1FOOFFHVWFZbzA2N2Q4YXBIbzV2VG01WUFMV2R2X29EMm15S2dFUlRxZ1ZldmxLOFV2c2xfanItT0tjUUxtWE1MejhDemxhTGJ5MmhmbThfdWdlN2FadVYxb1hFU0NKSkhmQUhjTXMzdTN5cXhTbVVabDFWMVREWjRtOUQxUUhETEJpbVNIODFmRVUyNHNLdTQyOHlaeFhyXzM3MndLakdPWGJOV1pQUDY0OTNtS1dXYlVGZ0dyVTNyV3Y5UVZk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-07-12-012",
+    "date": "2026-07-12",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) Launches HE Series Depth ICs, Is The Stock Still Cheap? - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRVhoSFJOdEZvWVU1aC1TdHhlaDRxc0ZJQnZzODlaWjVacW5xWkNYQzNhdXJTbzBwa2xfMC1iX2l3QzJFd3NDbTQ3WU1QWm83Wk1jdW9vR2UxX0hua2pSMWxyTzFEY1RYbW5odnp0VG",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRVhoSFJOdEZvWVU1aC1TdHhlaDRxc0ZJQnZzODlaWjVacW5xWkNYQzNhdXJTbzBwa2xfMC1iX2l3QzJFd3NDbTQ3WU1QWm83Wk1jdW9vR2UxX0hua2pSMWxyTzFEY1RYbW5odnp0VGp6YXdVb2U1Nk53WTdYTkFiZ1psUEVZWWtfSjZZU0VxaEtDMG55bUNleEN2RTNjWUlueERBNFVOM25ZOXNla0dWYU1zWDRJb3FLOTg0T00wTHc1SkV3TlJtSw?oc=5",
         "type": "rss"
       }
     ]
