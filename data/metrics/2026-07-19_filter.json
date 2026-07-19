@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 41,
+  "gate2_fail": 16,
+  "passed": 6,
+  "gate2_samples": [
+    "Lobbying Update: $70,000 of CORNING INCORPORATED lobbying was just disclosed - Quiver Quantitative",
+    "Corning Incorporated Stock 12‑Month Price Target Raised to $217.38, Implies 14% Upside - TradingView",
+    "Corning Incorporated Stock Analysis: Bearish Momentum in July 2026 - The Cryptonomist",
+    "Corning (GLW) Proxy filing Summary - Quartr",
+    "Corning (GLW) Proxy filing Summary - Quartr"
+  ]
+}

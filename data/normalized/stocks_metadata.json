@@ -1,18 +1,18 @@
 {
   "corning": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-17",
-    "count": 6413
+    "count": 6473
   },
   "applied_materials": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-17",
-    "count": 6413
+    "count": 6473
   },
   "canon": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-17",
-    "count": 6353
+    "count": 6417
   },
   "novatek": {
     "earliest": "2002-08-27",
@@ -27,9 +27,9 @@
     "history_complete": true
   },
   "auo": {
-    "earliest": "2001-01-26",
+    "earliest": "2000-10-30",
     "latest": "2026-07-17",
-    "count": 6320
+    "count": 6384
   },
   "innolux": {
     "earliest": "2006-10-24",
@@ -44,9 +44,9 @@
     "history_complete": true
   },
   "boe": {
-    "earliest": "2001-01-26",
+    "earliest": "2001-01-12",
     "latest": "2026-07-17",
-    "count": 6275
+    "count": 6285
   },
   "jdi": {
     "earliest": "2014-03-19",
@@ -55,9 +55,9 @@
     "history_complete": true
   },
   "samsung_elec": {
-    "earliest": "2001-01-10",
+    "earliest": "2000-10-12",
     "latest": "2026-07-16",
-    "count": 6368
+    "count": 6432
   },
   "lg_elec": {
     "earliest": "2002-04-24",
@@ -66,9 +66,9 @@
     "history_complete": true
   },
   "sony": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-17",
-    "count": 6353
+    "count": 6417
   },
   "tcl": {
     "earliest": "2004-01-30",
@@ -77,8 +77,8 @@
     "history_complete": true
   },
   "etf_soxx": {
-    "earliest": "2002-01-08",
+    "earliest": "2001-10-10",
     "latest": "2026-07-17",
-    "count": 6170
+    "count": 6231
   }
 }

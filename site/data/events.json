@@ -1,5 +1,43 @@
 [
   {
+    "id": "novatek-2026-07-19-001",
+    "date": "2026-07-19",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Novatek Microelectronics (3034) Q1 2025 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1qcF81dUxwd0pXWEo2NFk2YVV1NExTbkFVSUxyb3pWR3hPbHhiUFFUdkI0MjQ2NVJwMDFnZjVxa0NDTHdXc3ptay1qOF9scElWLTdCSG5kOFpMdk8yb2w0RVk0VzM2Z2UyWWVfOUJMSH",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qcF81dUxwd0pXWEo2NFk2YVV1NExTbkFVSUxyb3pWR3hPbHhiUFFUdkI0MjQ2NVJwMDFnZjVxa0NDTHdXc3ptay1qOF9scElWLTdCSG5kOFpMdk8yb2w0RVk0VzM2Z2UyWWVfOUJMSHV1YWkxQk5JTXl4LUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-19-002",
+    "date": "2026-07-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "SmartSens forecasts stronger first-half 2026 results on AI-related demand",
+    "summary": "SmartSens is signaling stronger first-half 2026 growth, a development that may matter to investors tracking global demand for image sensors used in security cameras, smartphones, and vehicles. The com",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260716VL203/2026-demand-growth-profit-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-07-18-001",
     "date": "2026-07-18",
     "companies": [
@@ -93,6 +131,24 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260714VL220/tcl-production-csot-monitor-panel-panel.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-07-18-006",
+    "date": "2026-07-18",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Boe Technology Group (000725) Stock Forecast & Analyst Ratings - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxQQUVTOUh2MjNvc05GNVM3RTRLVkRtMk1FQXhwVWZ2UEVfZ1FEV0hhRU5FNVdNVC1Ub1BrY3pnaWM2Zm4yeVU4T3NiTmE2dV9Xa2RBRVRSX1ZUX1JOTVJ2VGN1MWZhMkI3WWlUMTgxQX",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQQUVTOUh2MjNvc05GNVM3RTRLVkRtMk1FQXhwVWZ2UEVfZ1FEV0hhRU5FNVdNVC1Ub1BrY3pnaWM2Zm4yeVU4T3NiTmE2dV9Xa2RBRVRSX1ZUX1JOTVJ2VGN1MWZhMkI3WWlUMTgxQXVfQ0ZyeVVCZWJjckZsdGZPbmNHOVZPbjMzakladnJHcmVHb05KWldTSDNNTjgxbFBELTZuQnRGcHRuMDhPUWtDYUN1TXJmbk5iTEc0d2tURVZSX1F4bVM1U040WjFlX0NEVFhOUkRsX3Y1MG1VUU1IYU5LVkRlWWkyWThkaXBIcEtfSmN6T2Z3UFlFTjByWGJDYThDc0k5Rml6RlJrQUJDOG52TmVzeExaYkc5cUREcVV1WWN3c0ZxLXRoeVpPR2lpYU1UcmN2SEsyNjZ0bnUyR21tc2N4ZVd3OUhTU3VpMlRVOEZ5UFhaWXFXbmo3ZDl4dW5NLWJlUUh1NGlEMzlGYjlmVEF0Q3BNc2ZGVVdn?oc=5",
         "type": "rss"
       }
     ]
@@ -881,6 +937,24 @@
     ]
   },
   {
+    "id": "corning-2026-07-15-016",
+    "date": "2026-07-15",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Drops 7.3% Amid Sector-Wide Selling - AlphaStreet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFByTnA5NDFBamtjZkcwM1FNdjlnejdfN1pvNnJPTU9IcHlRRUhBakpEYjJUbkFzLV91bzJFSEFWZnMySXZpbE1KUXF0UmhoNlVVcmJZeUhXOE1EOVNjVHpwV2I4a3QzYnJkeVcyXzRINH",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByTnA5NDFBamtjZkcwM1FNdjlnejdfN1pvNnJPTU9IcHlRRUhBakpEYjJUbkFzLV91bzJFSEFWZnMySXZpbE1KUXF0UmhoNlVVcmJZeUhXOE1EOVNjVHpwV2I4a3QzYnJkeVcyXzRINHRuTkt1eV9RY2t3bEvSAXxBVV95cUxQck5wOTQxQWprY2ZHMDNRTXY5Z3o3XzdabzZyT01PSHB5UUVIQWpKRGIyVG5Bcy1fdW8yRUhBVmZzMkl2aWxNSlFxdFJoaDZVVXJiWXlIVzhNRDlTY1R6cFdiOGt0M2JyZHlXMl80SDR0bk5LdXlfUWNrd2xL?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-07-14-001",
     "date": "2026-07-14",
     "companies": [
@@ -1245,6 +1319,44 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kTVdEWEhWRmZoTXgzUW9hb1UxbmlaV19tYmZERVZKQ0g2MDliZFQwQndDc2hGQVZaSC1CVUZxOHV3ME15ajVickxFTlIyZXBYVVhHZUNLTGlER0NNM0hoalh3ck1GUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-14-021",
+    "date": "2026-07-14",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Earns Two 2026 PRINTING United Alliance Pinnacle Awards for Innovation - The Cannata Report -",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQQktSQ0hBTGpUZzhVdm1heTR1dkhGa0VCYk1BcTZNMDh3bU55RGxra2R2a1RiWllqNEszdVJJTTVMQlQ4Y1ZzS1dQTkxTWlpRaGNCcElUYUwzcHAzYmFteXB2N2UxUzRYUU1TR0lPTX",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQktSQ0hBTGpUZzhVdm1heTR1dkhGa0VCYk1BcTZNMDh3bU55RGxra2R2a1RiWllqNEszdVJJTTVMQlQ4Y1ZzS1dQTkxTWlpRaGNCcElUYUwzcHAzYmFteXB2N2UxUzRYUU1TR0lPTXFoTFJrV253YzkzX1I1MUprTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-14-022",
+    "date": "2026-07-14",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "Samsung Expands Its Vision AI Future with the Launch of New Mini LED M70H and M80H TVs in South Africa - Samsung Global Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPUzFEUnNMVm1sVWRRN3Y0ZW5WcG0tZHB3VG9xX2hNME9LTXFwZXdDVE1MOWJiUUsxTGRJa1hsN3g5cUxxVzFHc2xTYkNJdFdWT1FraU1sRE1MOURCdE41N0xXVGZ2eTV4U3ZuV1Z3bD",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUzFEUnNMVm1sVWRRN3Y0ZW5WcG0tZHB3VG9xX2hNME9LTXFwZXdDVE1MOWJiUUsxTGRJa1hsN3g5cUxxVzFHc2xTYkNJdFdWT1FraU1sRE1MOURCdE41N0xXVGZ2eTV4U3ZuV1Z3bDlJMlFKWktMaWdxdTB5cXpXVFU1NHBxWlR4RkdGM0Fxbm5mb0RpLWI3a0FYOTRtQzlSWG9qTU5rQVhmYU8tal91ajVqT1l0RWppYXZtZUFuMENrTFJXYmlmdm5B?oc=5",
         "type": "rss"
       }
     ]
