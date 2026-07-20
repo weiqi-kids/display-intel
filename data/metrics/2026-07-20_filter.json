@@ -1,0 +1,16 @@
+{
+  "total_raw": 359,
+  "dup_title": 136,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 26,
+  "gate2_fail": 16,
+  "passed": 4,
+  "gate2_samples": [
+    "Lobbying Update: $70,000 of CORNING INCORPORATED lobbying was just disclosed - Quiver Quantitative",
+    "Corning Incorporated Stock 12‑Month Price Target Raised to $217.38, Implies 14% Upside - TradingView",
+    "Corning (GLW) Proxy filing Summary - Quartr",
+    "Canon New Children’s Book Has Aliens Explaining Why Cameras Are Awesome - PetaPixel",
+    "Canon Earns Energy-Efficient Toner-Based A3 and A4 Brand Awards - The Cannata Report -"
+  ]
+}

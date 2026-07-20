@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T10:51:47.124789Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_elec-2026-07-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Announces Addition of Louvre Collection to Samsung Art Store",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/samsung-announces-addition-of-louvre-collection-to-samsung-art-store"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 359,
+    "dup_title": 136,
+    "too_old": 177,
+    "gate1_blocked": 26,
+    "gate2_blocked": 16,
+    "passed": 4,
+    "pass_rate": "1.8%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "Lobbying Update: $70,000 of CORNING INCORPORATED lobbying was just disclosed - Quiver Quantitative",
+      "Corning Incorporated Stock 12‑Month Price Target Raised to $217.38, Implies 14% Upside - TradingView",
+      "Corning (GLW) Proxy filing Summary - Quartr",
+      "Canon New Children’s Book Has Aliens Explaining Why Cameras Are Awesome - PetaPixel",
+      "Canon Earns Energy-Efficient Toner-Based A3 and A4 Brand Awards - The Cannata Report -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為三星電子相關動態：「Samsung Announces Addition of Louvre Collection to Samsun...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Samsung Announces Addition of Louvre Collection to Samsung Art Store",
+        "level": "green"
+      },
+      {
+        "text": "三星電子為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

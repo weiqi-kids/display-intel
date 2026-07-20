@@ -1,5 +1,23 @@
 [
   {
+    "id": "samsung_elec-2026-07-20-001",
+    "date": "2026-07-20",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Announces Addition of Louvre Collection to Samsung Art Store",
+    "summary": "Samsung Electronics today announced that 34 brand new artworks from the Louvre’s collection are joining Samsung Art Store for the first time, making a total of 51 masterpieces from one of the world’s ",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-announces-addition-of-louvre-collection-to-samsung-art-store",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "novatek-2026-07-19-001",
     "date": "2026-07-19",
     "companies": [
@@ -33,6 +51,26 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260716VL203/2026-demand-growth-profit-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-19-003",
+    "date": "2026-07-19",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display starts mass producing 1600 nits tandem laptop OLED panels, meeting the new VESA DisplayHDR True Black 1400 certification",
+    "summary": "<p>Samsung Display has begun to mass produce and supply tandem AMOLED panels for laptops that meet the newly-announced <a href=\"https://www.oled-info.com/vesa-launches-displayhdr-true-balck-1400-flags",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-starts-mass-producing-tandem-laptop-oled-panels-meet-new-vesa",
         "type": "rss"
       }
     ]
@@ -395,6 +433,27 @@
       {
         "name": "eetimes",
         "url": "https://www.eetimes.com/asml-raises-outlook-plans-more-euv-capacity/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-17-014",
+    "date": "2026-07-17",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Preview: LG Display to Report Financial Results on July 22 - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPMjRlZHd6N3Zub2M5QXdRYW9YUko5OXV2S21SbERHcFpnLXFFZThXWVVrdS0waWRLcUhWNEZKMkdtMDVUSElKYUp3RU56VkRZRUZlSmFrakFGNVBGaThfTWE5blByNFhUVnJpcHdpWU",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMjRlZHd6N3Zub2M5QXdRYW9YUko5OXV2S21SbERHcFpnLXFFZThXWVVrdS0waWRLcUhWNEZKMkdtMDVUSElKYUp3RU56VkRZRUZlSmFrakFGNVBGaThfTWE5blByNFhUVnJpcHdpWU1XVzlZZEtpY0NrTkJfd0FXa1dYckdWVktLLXI4Znpaa1FObVViYlhSRV90VVJkTnAyS2RibFdNbw?oc=5",
         "type": "rss"
       }
     ]
@@ -950,6 +1009,26 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByTnA5NDFBamtjZkcwM1FNdjlnejdfN1pvNnJPTU9IcHlRRUhBakpEYjJUbkFzLV91bzJFSEFWZnMySXZpbE1KUXF0UmhoNlVVcmJZeUhXOE1EOVNjVHpwV2I4a3QzYnJkeVcyXzRINHRuTkt1eV9RY2t3bEvSAXxBVV95cUxQck5wOTQxQWprY2ZHMDNRTXY5Z3o3XzdabzZyT01PSHB5UUVIQWpKRGIyVG5Bcy1fdW8yRUhBVmZzMkl2aWxNSlFxdFJoaDZVVXJiWXlIVzhNRDlTY1R6cFdiOGt0M2JyZHlXMl80SDR0bk5LdXlfUWNrd2xL?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-15-017",
+    "date": "2026-07-15",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Canon Earns Two 2026 PRINTING United Alliance Pinnacle Awards for Innovation - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxObER2b1hMc2RmSHREaGZwXzhkS2QxV19nbW9TZEhOM0RfQ216TFkySmxyQWtzd1FMZWJReFBKVk50WExWM0RodzlGQzBfaE81TEdXeEF3NHZ2akIxUE01SVZkbGl5b2o3M0xpSWRiZl",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObER2b1hMc2RmSHREaGZwXzhkS2QxV19nbW9TZEhOM0RfQ216TFkySmxyQWtzd1FMZWJReFBKVk50WExWM0RodzlGQzBfaE81TEdXeEF3NHZ2akIxUE01SVZkbGl5b2o3M0xpSWRiZlQwLWdYV05YVDJBM2YyUkVVZWRnQTZiaUVxUWdYZl93WUVNZDUwVXVsN2V6bTJaOXFxeUJ0R2d3VnNVWDhZaEw1SmdBRjVTR3pIYmdnTk9yMUVXeC02ei1acmhvSDhsYW5STFFxU010bUdlM1hUd0RodUFWS3VKUQ?oc=5",
         "type": "rss"
       }
     ]
