@@ -1,0 +1,232 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:25:40.742618Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-07-21-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display CTO: Tandem OLED Extends On-Device AI Runtime by 50% - finance.biggo.com",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xejBWeE5KVzNvV2I1SWhoUEVsdGZ2S2xuYm4xR00tQkN6VE10bXBWRHhSdTZpSUZxdzJ2d1RkckNOSnU5SXdTT09JXzFEUEpMVUdtTERiWm1MMU9fZ05FQkZyX2JqSExCLUxFOC01Wk5IQnZmMXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-07-21-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display CTO: Tandem OLED Boosts On-Device AI Runtime by 50% - Seoul Economic Daily",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmZuaVRlbzZhckctVFlGMnV6VUJSUmN2ZF8yNldxWUUxeW9GWi1HVGNYcG5ZczNwVjh6MElEOXBLeEplWVF1QUxxVTF6NDIxZGF6RVRva3BFaTdZOXRKWmhDYU9Eb21oTUdIRzY4WjJvSmRFaEhjRTRyWThYZUpoQS1JLVE1UVRCSG80TFZqREVLbnFWQURLYWFwV2dIcFk3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korea keeps China at bay in large OLED race - The Korea Herald",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GXzNLRDdzX0x0NDdwWjBYZHcwVDFvWkVKZTh0MjJHM0ltUnZ4TWs3ZGJuR2pxSnNnU1RCYVJYRC02T2hKV1NCczFWMjdrMU5ORjhVamRtUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_elec-2026-07-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Introducing Samsung Galaxy Card",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.samsung.com/global/introducing-samsung-galaxy-card"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-21-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Amorphyx - deep dive into display backplanes and Oxide AMeTFTs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/videos/amorphyx-deep-dive-display-backplanes-and-oxide-ametfts"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "lg_display",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 6
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 130,
+    "too_old": 180,
+    "gate1_blocked": 22,
+    "gate2_blocked": 13,
+    "passed": 15,
+    "pass_rate": "6.5%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "Corning Incorporated to celebrate 175th anniversary with community fireworks celebration - WENY News",
+      "Lobbying Update: $330,000 of CORNING INCORPORATED lobbying was just disclosed - Quiver Quantitative",
+      "Corning Incorporated to celebrate 175th anniversary with ceremony & community fireworks celebration ",
+      "Corning Incorporated Stock Analysis: Bearish Momentum in July 2026 - The Cryptonomist",
+      "Lobbying Update: $70,000 of CORNING INCORPORATED lobbying was just disclosed - Quiver Quantitative"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為LG電子、LGD、三星電子相關動態：「LG Display CTO: Tandem OLED Extends On-Device AI Runtime ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display CTO: Tandem OLED Extends On-Device AI Runtime by 50% - finance.big...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display CTO: Tandem OLED Boosts On-Device AI Runtime by 50% - Seoul Econom...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

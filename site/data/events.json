@@ -1,5 +1,158 @@
 [
   {
+    "id": "unknown-2026-07-21-001",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Korea keeps China at bay in large OLED race - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GXzNLRDdzX0x0NDdwWjBYZHcwVDFvWkVKZTh0MjJHM0ltUnZ4TWs3ZGJuR2pxSnNnU1RCYVJYRC02T2hKV1NCczFWMjdrMU5ORjhVamRtUQ?oc=5\" target=\"_blank\">Korea kee",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GXzNLRDdzX0x0NDdwWjBYZHcwVDFvWkVKZTh0MjJHM0ltUnZ4TWs3ZGJuR2pxSnNnU1RCYVJYRC02T2hKV1NCczFWMjdrMU5ORjhVamRtUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-21-002",
+    "date": "2026-07-21",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display CTO: Tandem OLED Extends On-Device AI Runtime by 50% - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0xejBWeE5KVzNvV2I1SWhoUEVsdGZ2S2xuYm4xR00tQkN6VE10bXBWRHhSdTZpSUZxdzJ2d1RkckNOSnU5SXdTT09JXzFEUEpMVUdtTERiWm1MMU9fZ05FQkZyX2JqSExCLUxFOC01Wk",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xejBWeE5KVzNvV2I1SWhoUEVsdGZ2S2xuYm4xR00tQkN6VE10bXBWRHhSdTZpSUZxdzJ2d1RkckNOSnU5SXdTT09JXzFEUEpMVUdtTERiWm1MMU9fZ05FQkZyX2JqSExCLUxFOC01Wk5IQnZmMXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-21-003",
+    "date": "2026-07-21",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display CTO: Tandem OLED Boosts On-Device AI Runtime by 50% - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmZuaVRlbzZhckctVFlGMnV6VUJSUmN2ZF8yNldxWUUxeW9GWi1HVGNYcG5ZczNwVjh6MElEOXBLeEplWVF1QUxxVTF6NDIxZGF6RVRva3BFaTdZOXRKWmhDYU9Eb21oTUdIRzY4Wj",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmZuaVRlbzZhckctVFlGMnV6VUJSUmN2ZF8yNldxWUUxeW9GWi1HVGNYcG5ZczNwVjh6MElEOXBLeEplWVF1QUxxVTF6NDIxZGF6RVRva3BFaTdZOXRKWmhDYU9Eb21oTUdIRzY4WjJvSmRFaEhjRTRyWThYZUpoQS1JLVE1UVRCSG80TFZqREVLbnFWQURLYWFwV2dIcFk3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-21-004",
+    "date": "2026-07-21",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Introducing Samsung Galaxy Card",
+    "summary": "Samsung Electronics America today unveiled Samsung Galaxy Card, a seamless way to earn cash rewards on everyday purchases with increased cash rewards for purchases made from Samsung — including the la",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/introducing-samsung-galaxy-card",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-005",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Amorphyx - deep dive into display backplanes and Oxide AMeTFTs",
+    "summary": "<p>This OLED-Info Pro Video Lecture, presented by Amorphyx and Ian Hendy, gives an introduction to display backplane technologies, discusses different technologies, and then deep-dives into the compan",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/videos/amorphyx-deep-dive-display-backplanes-and-oxide-ametfts",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-006",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Value Electronics' 2026 TV Shootout pits OLED against MicroLED RGB LCD - the results should give OLED makers food for thought",
+    "summary": "<p>Value Electronics, an independent Audio/Video retailer in New York, hosted its well-respected annual TV Shootout Evaluation event a couple of days ago, bringing together several flagship TVs side-b",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/value-electronics-2026-tv-shootout-pits-oled-against-microled-and-rgb-lcd",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-007",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Maximizing Uptime in High-Volume OLED Production",
+    "summary": "<p><em>This is a sponsored post, by Sheldon Wayman, Product Manager – Thin Film Sensors, INFICON</em></p><p>OLED production lines are built to run continuously, and throughput is the number that deter",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/maximizing-uptime-high-volume-oled-production",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-07-21-008",
+    "date": "2026-07-21",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL launches C7L Mini LED TV series in the Philippines - YugaTech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObVNCR2tFMFlPeHprMWRyOUh5QklvaEpuT3N2NFcwaGYxZFZDQTl3dHJGRXdYaHJ5RjJNd05nVHowcldybHZ4Vk8xc1pZNjRxUnh1ejgyaU9aVlltUTR0T1VGUHBMdDhkMlJZNGZnS0",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObVNCR2tFMFlPeHprMWRyOUh5QklvaEpuT3N2NFcwaGYxZFZDQTl3dHJGRXdYaHJ5RjJNd05nVHowcldybHZ4Vk8xc1pZNjRxUnh1ejgyaU9aVlltUTR0T1VGUHBMdDhkMlJZNGZnS05yTzZ3R3hKR3RRd1cwU2sxOFlrYW9DczJldFN1TC13?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-07-20-001",
     "date": "2026-07-20",
     "companies": [
@@ -13,6 +166,82 @@
       {
         "name": "samsung_elec",
         "url": "https://news.samsung.com/global/samsung-announces-addition-of-louvre-collection-to-samsung-art-store",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-20-002",
+    "date": "2026-07-20",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon U.S.A. Announces Dominic Janney as CEO of Canon Financial Services - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb05RZmhhdjV2STItQTZ2R3NWUklNVWZxWWdhZkpJZEE4U3l2R242am5NcDQ5TG1OTksyQWlLZVNTcWpoNG9ua3ZzajQtU2k0UFh1eE1wVEpISVhyeW5mZXlaWnZBQXcwQjY0bXMtbG",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb05RZmhhdjV2STItQTZ2R3NWUklNVWZxWWdhZkpJZEE4U3l2R242am5NcDQ5TG1OTksyQWlLZVNTcWpoNG9ua3ZzajQtU2k0UFh1eE1wVEpISVhyeW5mZXlaWnZBQXcwQjY0bXMtbGVGX1ZVZXI1MlZHbUdoODRZQl9FM2VfcFAwSUNCNUEyc1BuRUk1d3VtdldoTldoVEFqdXVIT1BEMmRZZTk0THU5cmlibGZIZXJ0WFg2SHgzR0FYR0xHdU5iMlVxN1U5WWVRZmNlcFZpQjN5M28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-20-003",
+    "date": "2026-07-20",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "LG monitors are installing adware, and its TVs are raising \"eavesdropping\" concerns - How-To Geek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9zMk9yLS1FbHV2ZGk2UjNiVVZ4dTFrT09HelFReWVYdjBJR1VZQndkREY4R3pPb2FBR0xrekFtVGRFTjVCTUN3cDZlYXBYX1RGVTFfYkI4aG00QXdEeml6b2JlcmVWUUlnSUxpV2FMc3",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zMk9yLS1FbHV2ZGk2UjNiVVZ4dTFrT09HelFReWVYdjBJR1VZQndkREY4R3pPb2FBR0xrekFtVGRFTjVCTUN3cDZlYXBYX1RGVTFfYkI4aG00QXdEeml6b2JlcmVWUUlnSUxpV2FMc3hnVHVz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-07-20-004",
+    "date": "2026-07-20",
+    "companies": [
+      "sony"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Sony BRAVIA 5 Mini LED TV Deal: PS5 Gaming at $1,699 - theinventory.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE85bFlIN2dPbkZMMkIwVWc1QWtlZm0tQ2w3MEVBeWxqX2JYMUtnUWZlY1RuMnYyYXJULTVLVXBqY1ZJQWdIV0ZWbk9qRThwY3czSnJxNFU5VXNRMW8wNFFWNUQtbUtRdzByLWtxSGtTck",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85bFlIN2dPbkZMMkIwVWc1QWtlZm0tQ2w3MEVBeWxqX2JYMUtnUWZlY1RuMnYyYXJULTVLVXBqY1ZJQWdIV0ZWbk9qRThwY3czSnJxNFU5VXNRMW8wNFFWNUQtbUtRdzByLWtxSGtTckhweHBx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-20-005",
+    "date": "2026-07-20",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "LG 50-Inch Mini LED 4K TV Drops to $350 on Amazon - theinventory.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA5RzUtR3FYWlpzTWVWc25UQnMwWkNGZTBFU2tfVk1iMGp0RFYxVGJrMGczTktueGRVUzZ4RXRqdGwxeE45WGpjaVNJTmM1Ry1XMTN1Q1BMNXJSVk9Ob3c3cHY0R3NEVjE1bVZ4M2FjOA",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5RzUtR3FYWlpzTWVWc25UQnMwWkNGZTBFU2tfVk1iMGp0RFYxVGJrMGczTktueGRVUzZ4RXRqdGwxeE45WGpjaVNJTmM1Ry1XMTN1Q1BMNXJSVk9Ob3c3cHY0R3NEVjE1bVZ4M2FjOA?oc=5",
         "type": "rss"
       }
     ]
@@ -71,6 +300,24 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/samsung-display-starts-mass-producing-tandem-laptop-oled-panels-meet-new-vesa",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-07-19-004",
+    "date": "2026-07-19",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) Looks Undervalued On Paper, Is The Recent Pullback A Buying Opportunity? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQktMZ0pxaVVJTWlseVk4NWdGQUVCaUhUZmNHWVVjNm4tWmJXTl9YYjVfdS1aUEh6ZU42d0xSQ1F5V1VpaFZLZEhIU0NKSGJhMjN1U1U1UkJTclZfTnFLOEc4WW8wRkkweFh4MFNHZX",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQktMZ0pxaVVJTWlseVk4NWdGQUVCaUhUZmNHWVVjNm4tWmJXTl9YYjVfdS1aUEh6ZU42d0xSQ1F5V1VpaFZLZEhIU0NKSGJhMjN1U1U1UkJTclZfTnFLOEc4WW8wRkkweFh4MFNHZXNaLU14UUhwcUpJSUczclc1c21vOU4zT2tvY0NtMkIxTWRnRHFaNkgycUwzalZmbEFRdHRLZVdGTWwtbF8xYXdPUFNZWlpyNjF0MEk2cUpSYV9Xek1seGdpb1RRTk04VjlsUFRrbWlxUnhnSzTSAeABQVVfeXFMUHdaem9wTmhQWkNtNjlKWUdEZ0lrVlhkSFFGYWRDcmRTZ1ZscVlzY0I4VG84VFlWX2RuSWphQjh4cl91WkZUNXExNmdkUlg0R20xTGFna0gzVlpNY2FhVFhhaFlrRHRrc2N5QUl0dlpMdUdfVThoa3hXc1BMaVd5c3hJcDBEa2RqbE5odEVhb2w1Nm5yOUJTbE5HTndnb1ZONG50QklCQXhKZDlianc5OG4tVDNIVFhuZTV1LWNnbEFZUWxuTlJvTzV3dGx1Qlk3V1RBT0tlZmdFTHp4ZzZmczY?oc=5",
         "type": "rss"
       }
     ]
@@ -459,6 +706,24 @@
     ]
   },
   {
+    "id": "corning-2026-07-17-015",
+    "date": "2026-07-17",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Corning stock steadies as optical and automotive gains offset weaker display demand - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQRG5jOEg0YWIycUNIdzcwN2R3SWFzN2Jrc3dEQWp1MGFpeEV0TURGV1JJSngtQlpNOEZwX1l5WjA0VmlSTlc3VS0tQmt6SHB6d3cxaTFnbDZaYkp3djdIUEFETFdnRmxUdWozUGM0YW",
+    "sources": [
+      {
+        "name": "corning_news",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRG5jOEg0YWIycUNIdzcwN2R3SWFzN2Jrc3dEQWp1MGFpeEV0TURGV1JJSngtQlpNOEZwX1l5WjA0VmlSTlc3VS0tQmt6SHB6d3cxaTFnbDZaYkp3djdIUEFETFdnRmxUdWozUGM0YW54NlVKLTl1a0RFY3ZjSTFIZ25yTFllZTdCWkpweFpHQ3NXOHU4YlBmc0lZUHoteC1SdlBwZFFncjl6ekpzNnhyTnFlbDRpOHFXRmtZWmpweEFuNWZTclE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-07-16-001",
     "date": "2026-07-16",
     "companies": [
@@ -707,6 +972,24 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRU95eEEtaUc4Y1BHU01Tb3ZUVUNWTkdJVHJFb3pYU09RYm8yUVhHR3o2MVVmUWdTVkoxVy1iaEJodlF1aGExZUgwRlFfdC1EaEJRWFh2aWpwZ2dNTTdhYjVVZjN4MFlkcU4wb21BVm1FRlJzZDY4NlZWNkFSaE9YeEFjOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-16-014",
+    "date": "2026-07-16",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon U.S.A., Inc. and New York Marine Rescue Center Release Rehabilitated Sea Turtle Back into the Ocean - The Manila Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQYm8zV1QwWWpsS2JNcU1iTENZSjBfeDZtTTFBRXNjQS1MM2MxdmI0dVp4TW5CeXlyR1NYVGQ4eWU3N3RjVURzYWFSNkpoelJLMWF2UEEwN1ZzT0t2Tm1vRzJaRzE5d3AyS2tRWU0wc3",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQYm8zV1QwWWpsS2JNcU1iTENZSjBfeDZtTTFBRXNjQS1MM2MxdmI0dVp4TW5CeXlyR1NYVGQ4eWU3N3RjVURzYWFSNkpoelJLMWF2UEEwN1ZzT0t2Tm1vRzJaRzE5d3AyS2tRWU0wc3hhM0s4QkZLNmhQTUtKbWlXaXY0d3Rpd1JLS1lTbHNLeFdaX1czdjV2UFJoQWJzcGdGUHFuZXpDVDNQcEdNR2prMV9TRkttQXV2WS1qcUJUcHJwM21EQ3VwWC1ZMTFMa1JUOUhhVWlLckM3NXJtaXgwLTl5UndIakdQQkVKVFgwWnhmR0ZkcDdtZ2NMckVSbmkyeTR4UdIBigJBVV95cUxQYW9GZ3N0QjFaN09vSEI3NUNBVnMwaXVTSFdZQktNU2VQN2hDaC1yUUx3MEYtTkUwS2VGcVVmY3JpNkV4VWxfb21xdnd4MXpGaVVFUVFyX1lSY1Zib0lIY1JDWUNOTElUUzhWY0JlYUJ5X2k2bVQwZ1pkZEx1R1FMZkxBdzhqNTFEQXJSd3k2OEJkTG9tVmlTYjgtbXZEWm1lT0RmM0V5RkxBUDdrZDRudnJpOTVLUGEyNHpZZjBtU2xkc0RoU3I0QlEydnNIUFY0RUZIay16QkFyRHdSYkkzQ0ZCSmxQdUlfcWtkdEFGMkh6ZzIyVXpkMVNfd2VKeHhmU2hJb01WZXBQUQ?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 180,
+  "gate1_fail": 22,
+  "gate2_fail": 13,
+  "passed": 15,
+  "gate2_samples": [
+    "Corning Incorporated to celebrate 175th anniversary with community fireworks celebration - WENY News",
+    "Lobbying Update: $330,000 of CORNING INCORPORATED lobbying was just disclosed - Quiver Quantitative",
+    "Corning Incorporated to celebrate 175th anniversary with ceremony & community fireworks celebration ",
+    "Corning Incorporated Stock Analysis: Bearish Momentum in July 2026 - The Cryptonomist",
+    "Lobbying Update: $70,000 of CORNING INCORPORATED lobbying was just disclosed - Quiver Quantitative"
+  ]
+}
