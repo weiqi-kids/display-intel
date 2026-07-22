@@ -1,0 +1,65 @@
+{
+  "date": "2026-07-22",
+  "total_events": 13,
+  "by_company": {
+    "innolux": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "auo": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "lg_elec": {
+      "count": 11,
+      "sentiment_avg": -0.23
+    },
+    "samsung_elec": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lg_display": {
+      "count": 10,
+      "sentiment_avg": -0.25
+    }
+  },
+  "by_topic": {
+    "panel_price": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "oled_penetration": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": -0.36
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 10,
+      "topics": [
+        "earnings",
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "lg_elec",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ]
+}

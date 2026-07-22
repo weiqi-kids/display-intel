@@ -1,0 +1,16 @@
+{
+  "total_raw": 361,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 178,
+  "gate1_fail": 22,
+  "gate2_fail": 15,
+  "passed": 23,
+  "gate2_samples": [
+    "Corning Incorporated to celebrate 175th anniversary with community fireworks celebration - WENY News",
+    "Lobbying Update: $330,000 of CORNING INCORPORATED lobbying was just disclosed - Quiver Quantitative",
+    "Lobbying Update: $70,000 of CORNING INCORPORATED lobbying was just disclosed - Quiver Quantitative",
+    "Canon’s New Children’s Book Has Aliens Explaining Why Cameras Are Awesome - PetaPixel",
+    "Canon Earns Energy-Efficient Toner-Based A3 and A4 Brand Awards - The Cannata Report -"
+  ]
+}
