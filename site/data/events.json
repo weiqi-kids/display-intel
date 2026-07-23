@@ -1,5 +1,339 @@
 [
   {
+    "id": "samsung_elec-2026-07-23-001",
+    "date": "2026-07-23",
+    "companies": [
+      "samsung_elec",
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung, LG Display pitch OLED for humanoid face - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FUGlvOEFLLWdBa2JHZDB1bjR0cTlfNjAxMHl4bEthRnM2S1pCWEhCbHNHTndtWExnN3c2ZVR4dkVfb1k5T2g3bHhBRnNnWERDUDJBbzRWUQ?oc=5\" target=\"_blank\">Samsung, ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FUGlvOEFLLWdBa2JHZDB1bjR0cTlfNjAxMHl4bEthRnM2S1pCWEhCbHNHTndtWExnN3c2ZVR4dkVfb1k5T2g3bHhBRnNnWERDUDJBbzRWUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-23-002",
+    "date": "2026-07-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display reports its financial results for Q2 2026, with a return to profitability thanks to strong OLED earnings - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ0JYUFVCTE9XTFNKOHd5V1N4WkdwUEFvR0t2OEtIR1VjeWFXUnluMnFxZXBwV0I1V1RQRkFSbEU5SGNfVkQzUnVTcXhUMUNHVERoay16Y0tPcWU3bS1jMmpzQ2dKTmpERVdEeHBrQ3",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ0JYUFVCTE9XTFNKOHd5V1N4WkdwUEFvR0t2OEtIR1VjeWFXUnluMnFxZXBwV0I1V1RQRkFSbEU5SGNfVkQzUnVTcXhUMUNHVERoay16Y0tPcWU3bS1jMmpzQ2dKTmpERVdEeHBrQ3JhY2tKVGZfU1BEWC1fTWpyd0plTWtEQTUtMGQ5NEk5bXRjMWpaVkFlblp2TU84MjVPWEtiNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-23-003",
+    "date": "2026-07-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display returns to first-half profit after five years - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fVnZvVnZsYkFMaHRZWFV1TnZ6ZFowWEI1YW10dTlRd1JtZlN6aGVuc2tJd1ZIRG9kQ2ZTcWFvTVM1Mkl4dmxobWZYVjBPU2M1SGlMYXBwZw?oc=5\" target=\"_blank\">LG Displa",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fVnZvVnZsYkFMaHRZWFV1TnZ6ZFowWEI1YW10dTlRd1JtZlN6aGVuc2tJd1ZIRG9kQ2ZTcWFvTVM1Mkl4dmxobWZYVjBPU2M1SGlMYXBwZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-23-004",
+    "date": "2026-07-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "LG Display Unveils First Office OLED Monitor, Targets 50% Annual Growth Through 2033 - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE05MUp4UldtZUowNm03Y1dmQ2dZSnlNTkp1LTRobXdYQllaSDhwYklFUGlHU1JFbDRudGdILUpLTHFSMEpwSXRLeUN0a0RGZ3c4eWkxbGRkYzRzUjZCRkx0SlFvckFZSzVuOW5tSmE2My",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05MUp4UldtZUowNm03Y1dmQ2dZSnlNTkp1LTRobXdYQllaSDhwYklFUGlHU1JFbDRudGdILUpLTHFSMEpwSXRLeUN0a0RGZ3c4eWkxbGRkYzRzUjZCRkx0SlFvckFZSzVuOW5tSmE2My1zRGIxekE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-23-005",
+    "date": "2026-07-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "\"Backed by government support, LG Display makes a bold 3 trillion won investment to fend off China\" - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpc0V0c3E0Nk5YZjNINF96WURYTXljclZFT21rZFFBSnRveVc5SlRsQXRGX09lODlvN2dUM3MxMUx3aFpFalk3anJPcm5kekFlTFpF?oc=5\" target=\"_blank\">\"Backed by gove",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpc0V0c3E0Nk5YZjNINF96WURYTXljclZFT21rZFFBSnRveVc5SlRsQXRGX09lODlvN2dUM3MxMUx3aFpFalk3anJPcm5kekFlTFpF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-23-006",
+    "date": "2026-07-23",
+    "companies": [
+      "samsung_elec",
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Chipflation splits outlook as Samsung Display braces and LG Display steadies in Korea - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZZ3JGMWF0ajRjSzB5ZHo5TG9mY09MbHB3aHFaMkEwNXJXV2NLd1RMdW9ybi1JMEk0YW1BaWdxYjJkb3FQSHRDMElUWWJsV0xTNDU2QzBCZFFGemlVa1BDek9YZ0RNZ2ZRQlJqZWVaNm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZZ3JGMWF0ajRjSzB5ZHo5TG9mY09MbHB3aHFaMkEwNXJXV2NLd1RMdW9ybi1JMEk0YW1BaWdxYjJkb3FQSHRDMElUWWJsV0xTNDU2QzBCZFFGemlVa1BDek9YZ0RNZ2ZRQlJqZWVaNmlMMm95MUpSNWtB0gGOAUFVX3lxTE5tRzhBUmMxOXRYamJ1WXpiVWlTTUVuMmczUDdraGFoTkpxYmNNZFRfWkVMWVVfejAxVThaaUdlR0hUeG02R3B3THNXT0Z0b01hNUZydGh0dVdjZlFRekp5c2RVcHlacGpXNTU4QXAwYmlucjg0S3A2MXI1b2ZMWmFCcm9FQkZ6WkZacjYtUlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-23-007",
+    "date": "2026-07-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "LG Display reports its financial results for Q2 2026, with a return to profitability thanks to strong OLED earnings",
+    "summary": "<p>LG Display reported its financial results for the second quarter of 2026, with a slight (1%) increase in revenue from the previous quarter to $3.8 billion, an EBITDA margin of 16%, and an operating",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/lg-display-reports-its-financial-results-q2-2026-return-profitability-thanks",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-23-008",
+    "date": "2026-07-23",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "Samsung unveils three new OLED foldables and the world's brightest smartwatch",
+    "summary": "<p>Samsung held its Galaxy Unpacked event in London yesterday, where it announced five new OLED devices: three foldable smartphones and two smartwatches. Between them, the new lineup introduces nine d",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-unveils-three-new-oled-foldables-and-worlds-brightest-smartwatch",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-23-009",
+    "date": "2026-07-23",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung creates CEO-led robotics unit to speed commercialization",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:281;102-382\">Samsung Electronics has created a robotics business unit reporting directly to its chief executive, bringing strategy, technology development, data col",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260722VL227/samsung-robotics-business-technology-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-23-010",
+    "date": "2026-07-23",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "South Korean president to meet Nvidia and OpenAI CEOs on US trip",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:368;118-485\">South Korean president Jae-Myung Lee will launch an economic diplomacy tour centered on AI, advanced industries, and supply chain cooperation, includin",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260723PD233/president-nvidia-openai-ceo-launch.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-011",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "IBM trims revenue outlook as hardware demand reshapes client spending",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:380;109-488\">IBM lowered its full-year revenue growth target after a second-quarter miss, saying clients shifted spending toward scarce hardware and away from softw",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260723VL217/ibm-revenue-demand-hardware-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-012",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Transsion raises phone prices to offset memory-chip inflation and weaker shipments",
+    "summary": "<p class=\"P1\" data-start=\"86\" data-end=\"300\">Transsion Holdings, Africa's largest smartphone vendor, expects revenue and profit to rise sharply in the first half of 2026 after higher handset prices of",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260722VL221/transsion-shipments-smartphone-africa-profit.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-013",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "STMicroelectronics raises AI data center ambition as second-quarter revenue rebounds 26%",
+    "summary": "STMicroelectronics (ST) has raised its revenue ambition for AI data centers to above US$1 billion in 2026 and well above US$2 billion in 2027, staking a larger claim on the AI infrastructure buildout ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260723VL228/stmicroelectronics-revenue-data-center-2026-data.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-014",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tesla confirms equipment orders for TeraFab, targets in-house chip production to break supply bottleneck",
+    "summary": "Tesla has placed equipment orders for an in-house semiconductor development facility in Austin it calls TeraFab, CEO Elon Musk confirmed during the company's Q2 2026 earnings call on July 22, marking ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260723VL225/tesla-equipment-production-development-optimus.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-23-015",
+    "date": "2026-07-23",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung weighs Besi's Korean rivals for 50-bonder hybrid bonding line as pricing talks drag on",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:210;131-340\">Samsung Electronics is preparing a die-to-wafer hybrid bonding production line with about 50 bonders at its Pyeongtaek campus for next-generation high-",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260723VL227/samsung-equipment-production-hbm-hanwha.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-07-23-016",
+    "date": "2026-07-23",
+    "companies": [
+      "sony"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric and Sony Semiconductor Solutions form AI factory automation venture",
+    "summary": "Mitsubishi Electric and Sony Group subsidiary Sony Semiconductor Solutions announced on July 22, 2026, that they have signed a partnership agreement to launch a joint venture focused on using image se",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260723PD231/mitsubishi-electric-sony-joint-venture-automation.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-23-017",
+    "date": "2026-07-23",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tesla names TSMC, Samsung, Micron as key partners for Optimus robot scale-up",
+    "summary": "<p class=\"P1\" data-sourcepos=\"7:1-7:253;153-405\">Tesla is building an entirely new supply chain from scratch to support its Optimus humanoid robot program, with CEO Elon Musk naming TSMC, Samsung, and",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260723VL223/tesla-optimus-robot-samsung-micron.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "innolux-2026-07-22-001",
     "date": "2026-07-22",
     "companies": [
@@ -265,6 +599,368 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFQ3WWVFa09iY1hjbzhIdHpBZnVtakJvbkpYc3ExVlplT084TGJtMlg5ZDdGaWRwSkhkMXpjbWVIeGFVQXFVYndjSS0zV2xSTENacU56MHVkN1JBZ1ZDNDE5M0RvbkJmY1Z0X0loMVQxdmRvRDJnR2E3dkNDeFJSNHNKdUJKRllIalpBN1JRVlJQY0tiWFpJb0FIeWZ2SUJKNWs1MFRYT2Vid0Z0anphZzVTbXVqQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-22-014",
+    "date": "2026-07-22",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Inc.’s Oldest Living Retiree Honored at 105 - WETM",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQNW0wNkxlenJNcTY0aHpuNzkxeEF1MmFRYTVhZTVLc29uaWo4bWh5dGRuV2ptVzY4OUVRQ01BM2VUc3ZudWNJdVNVVU56VXhJVWdsZXRJdXlSbjJlQzl4TTFXdnJWVlFFM3BqUThMdG",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNW0wNkxlenJNcTY0aHpuNzkxeEF1MmFRYTVhZTVLc29uaWo4bWh5dGRuV2ptVzY4OUVRQ01BM2VUc3ZudWNJdVNVVU56VXhJVWdsZXRJdXlSbjJlQzl4TTFXdnJWVlFFM3BqUThMdGp0cE5EM0Rac3N4akQ4cWRhb1ZQenBEWGMyVTdvR1hvVHpOQdIBlwFBVV95cUxQYWtnM2NIOTAyQTB4bmdHNE1CaE5YZ29ROEV6LXVnM2FIR0dxVXl5N1F3MjQ5SFRmbFJUMlNhWWxNZUM2SDBpNW55ZEtYaWxrUVJURDBRN2FPRGVyRWVtWlA3RGhZSmpyc3pKUmw3OGJMUTN4ekJiMWlxZENCVl9QLU5LQ0pwem9jc1A2a21lbzlUdXoyeFk4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-22-015",
+    "date": "2026-07-22",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Corning Incorporated's Stock Price Plummets to $154.06, Witnessing a Sharp 5.14% Decline - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOUHlDY2lkMEZBQzFKR3R5dWpFVTJIcHFOajY0NWIxaFhubjVFR2Ztem03aF9VclFWS2VDdlpwTzZySzFleWV3MTFDNGk1TXNOOE9EQ3VfRHJZdkpsV0tTcVF0NndhcnJmNGVRYTRRNU",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUHlDY2lkMEZBQzFKR3R5dWpFVTJIcHFOajY0NWIxaFhubjVFR2Ztem03aF9VclFWS2VDdlpwTzZySzFleWV3MTFDNGk1TXNOOE9EQ3VfRHJZdkpsV0tTcVF0NndhcnJmNGVRYTRRNUVkTjFXSGo4VTRhZ3F4SnVxMmthaTlGVUJIWGdYeWQzaElZd2IyTFpOTjJyQl9MZ2JFcFp1M1pLdWxxdWhPSFpHRjFrdUZ0VzZnTEpHdWVnT0lCMF9Fc2dXVlRUaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-016",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is GLW Stock a Smart Investment Option Before Q2 Earnings Release? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZXVsb2Ezd19HWFNlQ3NFZWtZSUVMNlY3V1BfejUxWUQxbUc2REpmVDVIWlhXdVhRU0F1TFdfcktaQzlqRmdCYWprb0owcFlNdGJEWWVOSDlFX1B4U1ctby10NmFuWG9CdVh6QlFvR2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZXVsb2Ezd19HWFNlQ3NFZWtZSUVMNlY3V1BfejUxWUQxbUc2REpmVDVIWlhXdVhRU0F1TFdfcktaQzlqRmdCYWprb0owcFlNdGJEWWVOSDlFX1B4U1ctby10NmFuWG9CdVh6QlFvR2ZLMVhfTEhFMlN6dGVtcEI2Z2g4RENCT1p6Z2VSX1I4ejdob1VkRWdldGpnOVFKZkU5LS1wRHE1LUZBRV9RUmZ2OHpFSmptS1FZQmU5VjBR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-07-22-017",
+    "date": "2026-07-22",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (H6Q) Q1 2024 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE44NUQ2LXhTUUVQZVpuZmpGOHo5elFfSVBKN05MNG1wYTBnRGhXVDJPZkFTTUJ0UFgtVzQtdFNjMTFFSzB4NEROMTZNYk05S3V4RG9zVjhoLU5KdnlKeFhaVFp2b0hXNjhqM3JVMTlDMA",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44NUQ2LXhTUUVQZVpuZmpGOHo5elFfSVBKN05MNG1wYTBnRGhXVDJPZkFTTUJ0UFgtVzQtdFNjMTFFSzB4NEROMTZNYk05S3V4RG9zVjhoLU5KdnlKeFhaVFp2b0hXNjhqM3JVMTlDMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-07-22-018",
+    "date": "2026-07-22",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (H6Q) Q4 2024 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1lR2o2MVNld3ZlU2x2M190Um1FdXRPY0tDRlRRWEc3d2lEMGZqY1ZyLXp2X0RtQzBKU3Z5US1xaWZRMThyQ0E2ZHJsTWFwRm03QjBua2daVXRleHgwdEV0RVlHa195c1RvM2NzdWxVaw",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lR2o2MVNld3ZlU2x2M190Um1FdXRPY0tDRlRRWEc3d2lEMGZqY1ZyLXp2X0RtQzBKU3Z5US1xaWZRMThyQ0E2ZHJsTWFwRm03QjBua2daVXRleHgwdEV0RVlHa195c1RvM2NzdWxVaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-22-019",
+    "date": "2026-07-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Co, Ltd AMERICAN DEPOSITORY SHARES Stock 12‑Month Price Target Cut to $4.54, Implies 39% Upside - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPc0lPcEhJWXZya3JucUF3dlJ0VnRKZkd4cEowak9DNFYzNGNBZE9NMDlEMEhCOGFHbjdUbWZWcU5GRWEyWlJmaEpUTHhaOEVTMVJZdjJfN25qdkhKNXNUZ2pqM01mVXBMUFRLb3VCcE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPc0lPcEhJWXZya3JucUF3dlJ0VnRKZkd4cEowak9DNFYzNGNBZE9NMDlEMEhCOGFHbjdUbWZWcU5GRWEyWlJmaEpUTHhaOEVTMVJZdjJfN25qdkhKNXNUZ2pqM01mVXBMUFRLb3VCcEdESTVqenMwb253S2dFQURNR0E1NWZYRnFHVktYaTNPR2tLUk5PRDFaX0RYRHdzbnRJRnFmeVB6RnVzeDRYZ1dObEs1THFYUEI2RkpEQnNNV2ZpR1N5SFZUY1BybWc5SDBGM2RIdmFsbkpxOVVEcVA1N0FEOEQ5NjZyWm5lVWhsNERNN1FGYmpJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-22-020",
+    "date": "2026-07-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "LG Display Posts 107.7 Billion Won Operating Loss in Q2, Returns to First-Half Profit - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xM0VZUm5vd0dTUUlaQVhrVmVvSy1hTk5tRDJ4ZzZZNUl4VVB1Z1ZsOXl3a1NjU1dIQ000eHI4ZG00RFJJRFprRW9HX3ROM216VVZsUHZZdEFScV9KR2xLc05zc0IxUnM?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xM0VZUm5vd0dTUUlaQVhrVmVvSy1hTk5tRDJ4ZzZZNUl4VVB1Z1ZsOXl3a1NjU1dIQ000eHI4ZG00RFJJRFprRW9HX3ROM216VVZsUHZZdEFScV9KR2xLc05zc0IxUnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-22-021",
+    "date": "2026-07-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Q2 loss but first-half profit at LG Display Co., Ltd. (NYSE: LPL) - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3BsSlpkZ2FtUWwtT1BMMWVTTUF4eXV6eEhwNER0OFFhR3A5NFE4Z3NvT1ZkeUtweWNuYTR0bzRGZzlYS3J6NUVvSjRBSkQ5YUh6ZkZ5bV9EVXA1ODRIclVOeENKTkFwajFUV3dYcE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3BsSlpkZ2FtUWwtT1BMMWVTTUF4eXV6eEhwNER0OFFhR3A5NFE4Z3NvT1ZkeUtweWNuYTR0bzRGZzlYS3J6NUVvSjRBSkQ5YUh6ZkZ5bV9EVXA1ODRIclVOeENKTkFwajFUV3dYcEthZmdMeGVBVlhaWkFaVF91NXpTZldmcVJlbmZrWm1jWWdvXzgwTG9SNnhSMzNibGdaa3YwQ0hHMkF5VHRFUklNU2dB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-22-022",
+    "date": "2026-07-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "LG Display swings to Q2 loss on weak mobile demand - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOb0dITk9KemJEQUdnNlNhM0toT3d2U0ZTUXYzdTNSTnpaWmJTLXh1UmVUdUU2UDY0U01PczJkNkJFQkNTSFlld01iNnpzVllyYklVWE1qMENkV0ZZVFdSMl9fX1MySEZIUjlTdDVCVT",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb0dITk9KemJEQUdnNlNhM0toT3d2U0ZTUXYzdTNSTnpaWmJTLXh1UmVUdUU2UDY0U01PczJkNkJFQkNTSFlld01iNnpzVllyYklVWE1qMENkV0ZZVFdSMl9fX1MySEZIUjlTdDVCVTV4T2dCeHh0cjFrYjN5S1l3cDJXTjRWbFBMZVdtM0p3Um1rV3NxOU44Wk14d056SG5PbE1ZVGtB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-22-023",
+    "date": "2026-07-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display CEO Expects Stronger Second Half as Earnings Recovery Continues - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MS0tJWVVIT1pYX3FPMEIwU0ZnaXN0SFZlSE0xcmk4aHpXWjRiZ3hMMkV3cFFFbUVoVTJqbEZmbVFZNkMxaFF6UkVZN1Uzb0pVMGV3ajgxX0NpSDRCcWF0NVZUWjZvaWc?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MS0tJWVVIT1pYX3FPMEIwU0ZnaXN0SFZlSE0xcmk4aHpXWjRiZ3hMMkV3cFFFbUVoVTJqbEZmbVFZNkMxaFF6UkVZN1Uzb0pVMGV3ajgxX0NpSDRCcWF0NVZUWjZvaWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-22-024",
+    "date": "2026-07-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Returns to Underlying Profit in Q2, Analysts See Annual Operating Profit in Mid-1 Trillion Won Range - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03TVJMRmFQQlJVYXc4MFQ0Y2ZqbVpoejJyUDVuTk14eEFzTVk4bFBlY2lab1lRbERhY1B5d25yT0g4RXEzQ0dOb2llNkc3M05vb1diQ0pNcUg1SDc1eUYyVFI3eVVyZDA?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03TVJMRmFQQlJVYXc4MFQ0Y2ZqbVpoejJyUDVuTk14eEFzTVk4bFBlY2lab1lRbERhY1B5d25yT0g4RXEzQ0dOb2llNkc3M05vb1diQ0pNcUg1SDc1eUYyVFI3eVVyZDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-07-22-025",
+    "date": "2026-07-22",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "BOE stock trades steadily as display maker highlights revenue growth and margin resilience - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2h5WkcxUkNGRGEwbGdKUmgwbFpqVnFtamNxQVYyUi1UeGNXbjhJX0hmOXpTcElZWUl0VHE0R250Snlud2duTXpZTkcxSmhaSm1rczFZRnhLalFjb0xhcDVybjlfTEdXZkIwMlpJYl",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2h5WkcxUkNGRGEwbGdKUmgwbFpqVnFtamNxQVYyUi1UeGNXbjhJX0hmOXpTcElZWUl0VHE0R250Snlud2duTXpZTkcxSmhaSm1rczFZRnhLalFjb0xhcDVybjlfTEdXZkIwMlpJYlNyWXFudnVhdzBiRUxTYmhyc2ZZRWxJaEFwUzFkemtxNnM1MkQ1UExwME9zUFFFZWZ6ejlMdFdLbHEtMFZMeXNRemxBWnZZblhoVlZrUHhzZ2FHX3NNNW1sdWNPYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-22-026",
+    "date": "2026-07-22",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[Galaxy Unpacked July 2026] A First Look at Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8",
+    "summary": "At Galaxy Unpacked July 2026 in London, Samsung Electronics unveiled the eighth-generation Galaxy Z series. Combining agentic AI that understands users with hardware tailored to different lifestyles, ",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/galaxy-unpacked-july-2026-a-first-look-at-galaxy-z-fold8-ultra-galaxy-z-fold8-and-galaxy-z-flip8",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-22-027",
+    "date": "2026-07-22",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "[Galaxy Unpacked July 2026] A First Look at Galaxy Watch Ultra2 and Galaxy Watch9",
+    "summary": "At Galaxy Unpacked July 2026 in London, Samsung Electronics unveiled Galaxy Watch Ultra2 and Galaxy Watch9, expanding the digital health experience on the wrist. From the moment users wake up to the t",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/galaxy-unpacked-july-2026-a-first-look-at-galaxy-watch-ultra2-and-galaxy-watch9",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-22-028",
+    "date": "2026-07-22",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung Galaxy Z Fold8 Ultra, Fold8 and Flip8: Foldables, Perfected for Every Way of Living",
+    "summary": "Samsung Electronics today unveiled the new Galaxy Z series, its most complete lineup yet, designed to expand foldables to a wider audience. The lineup introduces Galaxy Z Fold8, a fresh and exciting f",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-galaxy-z-fold8-ultra-fold8-and-flip8foldables-perfected-for-every-way-of-living",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-22-029",
+    "date": "2026-07-22",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Galaxy Watch Ultra2 and Watch9: Your Health Companion on the Wrist",
+    "summary": "Samsung Electronics today announced the all-new Galaxy Watch Ultra2 and Galaxy Watch9, delivering a new era of effortless health, where users can unlock in-depth, meaningful health insights simply by ",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-galaxy-watch-ultra2-and-watch9-your-health-companion-on-the-wrist",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-22-030",
+    "date": "2026-07-22",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Brings Galaxy Ecosystem Into Everyday Eyewear",
+    "summary": "Samsung Electronics today introduced its intelligent eyewear at Galaxy Unpacked in London. Building on the concepts announced at the latest Google I/O, the new designs were developed with global eyewe",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-brings-galaxy-ecosystem-into-everyday-eyewear",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-031",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Researchers use a common plastic additive to boost both the efficiency and stretchability of polymer OLED emitters",
+    "summary": "<p>Researchers from the University of Chicago, Argonne National Laboratory and the University of Southern Mississippi have shown that a common, inexpensive plastic additive can simultaneously improve ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/researchers-use-common-plastic-additive-boost-both-efficiency-and",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-22-032",
+    "date": "2026-07-22",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung 55-Inch Mini-LED 4K Smart TV Bundle Deal - The Inventory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE00TUJyRzdNN2RnMTFOZy1wemhyczRhOFlBdTFnMzlkRnBaeWtDX2h3cThQRHRfR2lTeEZ6Z0dSU1hhZmFjVVpra2tKRFpQUEJIaUZFelBpTFotM1ZrbG10NXI2LUhlbGFpT1RIbkJraD",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00TUJyRzdNN2RnMTFOZy1wemhyczRhOFlBdTFnMzlkRnBaeWtDX2h3cThQRHRfR2lTeEZ6Z0dSU1hhZmFjVVpra2tKRFpQUEJIaUZFelBpTFotM1ZrbG10NXI2LUhlbGFpT1RIbkJraDJ5cXhDYWtwaDF3?oc=5",
         "type": "rss"
       }
     ]
@@ -538,6 +1234,24 @@
     ]
   },
   {
+    "id": "samsung_elec-2026-07-21-015",
+    "date": "2026-07-21",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Launches Health Assistant Beta, First Fully Integrated AI-Powered Personal Health Assistant",
+    "summary": "Samsung Health Assistant, a fully integrated AI-powered personal health assistant for Samsung Health, is now available in beta for eligible U.S. users. Health Assistant will help users achieve their h",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-launches-health-assistant-beta-first-fully-integrated-ai-powered-personal-health-assistant",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-07-20-001",
     "date": "2026-07-20",
     "companies": [
@@ -667,6 +1381,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5RzUtR3FYWlpzTWVWc25UQnMwWkNGZTBFU2tfVk1iMGp0RFYxVGJrMGczTktueGRVUzZ4RXRqdGwxeE45WGpjaVNJTmM1Ry1XMTN1Q1BMNXJSVk9Ob3c3cHY0R3NEVjE1bVZ4M2FjOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-20-008",
+    "date": "2026-07-20",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon U.S.A. Announces Dominic Janney as CEO of Canon Financial Services - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdTVrdEdmNGxrZGVPd0VVN2M5RGR6UmpwRVNVQXllWXdBTmVQMUczTGpqcWdoN2lVb3MyUmVkRG9oMlNTUUgtQXpDQXVKLTFhYXZZZG9uREp0a3RKekRKd1VDOTA2VFZOZS1WSUVZWD",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTVrdEdmNGxrZGVPd0VVN2M5RGR6UmpwRVNVQXllWXdBTmVQMUczTGpqcWdoN2lVb3MyUmVkRG9oMlNTUUgtQXpDQXVKLTFhYXZZZG9uREp0a3RKekRKd1VDOTA2VFZOZS1WSUVZWDJqdVFMdk1QNlNBc3VYbEw3LW1GMEhzUkQwNTQ2QVVic0hIcEVMVmw2ZVVZMGtrQQ?oc=5",
         "type": "rss"
       }
     ]

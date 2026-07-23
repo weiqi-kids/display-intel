@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 119,
+  "no_date": 0,
+  "too_old": 175,
+  "gate1_fail": 34,
+  "gate2_fail": 14,
+  "passed": 38,
+  "gate2_samples": [
+    "Corning Incorporated celebrates its 175th anniversary - WENY News",
+    "Lobbying Update: $330,000 of CORNING INCORPORATED lobbying was just disclosed - Quiver Quantitative",
+    "Corning Incorporated to celebrate 175th anniversary with community fireworks celebration - WENY News",
+    "Corning Incorporated celebrates its 175th anniversary - WENY News",
+    "Lobbying Update: $70,000 of CORNING INCORPORATED lobbying was just disclosed - Quiver Quantitative"
+  ]
+}

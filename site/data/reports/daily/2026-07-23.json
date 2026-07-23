@@ -1,0 +1,307 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T10:21:31.935973Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-07-23-002",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display reports its financial results for Q2 2026, with a return to profitability thanks to strong OLED earnings - OLED-Info",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ0JYUFVCTE9XTFNKOHd5V1N4WkdwUEFvR0t2OEtIR1VjeWFXUnluMnFxZXBwV0I1V1RQRkFSbEU5SGNfVkQzUnVTcXhUMUNHVERoay16Y0tPcWU3bS1jMmpzQ2dKTmpERVdEeHBrQ3JhY2tKVGZfU1BEWC1fTWpyd0plTWtEQTUtMGQ5NEk5bXRjMWpaVkFlblp2TU84MjVPWEtiNg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-07-23-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display returns to first-half profit after five years - 매일경제",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fVnZvVnZsYkFMaHRZWFV1TnZ6ZFowWEI1YW10dTlRd1JtZlN6aGVuc2tJd1ZIRG9kQ2ZTcWFvTVM1Mkl4dmxobWZYVjBPU2M1SGlMYXBwZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_elec-2026-07-23-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Chipflation splits outlook as Samsung Display braces and LG Display steadies in Korea - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "samsung_elec",
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec",
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZZ3JGMWF0ajRjSzB5ZHo5TG9mY09MbHB3aHFaMkEwNXJXV2NLd1RMdW9ybi1JMEk0YW1BaWdxYjJkb3FQSHRDMElUWWJsV0xTNDU2QzBCZFFGemlVa1BDek9YZ0RNZ2ZRQlJqZWVaNmlMMm95MUpSNWtB0gGOAUFVX3lxTE5tRzhBUmMxOXRYamJ1WXpiVWlTTUVuMmczUDdraGFoTkpxYmNNZFRfWkVMWVVfejAxVThaaUdlR0hUeG02R3B3THNXT0Z0b01hNUZydGh0dVdjZlFRekp5c2RVcHlacGpXNTU4QXAwYmlucjg0S3A2MXI1b2ZMWmFCcm9FQkZ6WkZacjYtUlE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_elec-2026-07-23-007",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display reports its financial results for Q2 2026, with a return to profitability thanks to strong OLED earnings",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://www.oled-info.com/lg-display-reports-its-financial-results-q2-2026-return-profitability-thanks"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-07-23-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung, LG Display pitch OLED for humanoid face - The Korea Herald",
+      "companies": [
+        "samsung_elec",
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec",
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FUGlvOEFLLWdBa2JHZDB1bjR0cTlfNjAxMHl4bEthRnM2S1pCWEhCbHNHTndtWExnN3c2ZVR4dkVfb1k5T2g3bHhBRnNnWERDUDJBbzRWUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 7,
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ]
+    },
+    {
+      "from": "lg_elec",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ]
+    },
+    {
+      "from": "lg_display",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 7
+      },
+      {
+        "id": "lg_elec",
+        "count": 7
+      },
+      {
+        "id": "lg_display",
+        "count": 7
+      },
+      {
+        "id": "sony",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "oled_penetration",
+        "count": 5
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 119,
+    "too_old": 175,
+    "gate1_blocked": 34,
+    "gate2_blocked": 14,
+    "passed": 38,
+    "pass_rate": "14.6%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "Corning Incorporated celebrates its 175th anniversary - WENY News",
+      "Lobbying Update: $330,000 of CORNING INCORPORATED lobbying was just disclosed - Quiver Quantitative",
+      "Corning Incorporated to celebrate 175th anniversary with community fireworks celebration - WENY News",
+      "Corning Incorporated celebrates its 175th anniversary - WENY News",
+      "Lobbying Update: $70,000 of CORNING INCORPORATED lobbying was just disclosed - Quiver Quantitative"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為三星電子、LG電子、LGD相關動態：「LG Display reports its financial results for Q2 2026, wit...」。主要關注主題為法說會、OLED 滲透率、Mini LED，市場情緒中性。",
+    "signals": [
+      {
+        "text": "LG Display reports its financial results for Q2 2026, with a return to profit...（OLED 滲透率、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display returns to first-half profit after five years - 매일경제（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
