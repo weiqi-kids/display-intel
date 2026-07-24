@@ -1,5 +1,42 @@
 [
   {
+    "id": "lg_display-2026-07-24-001",
+    "date": "2026-07-24",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display to invest $2bn with gov’t support to fend off Chinese rivals - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwVi0xcEZSdWJvWGNGM21YSkw0VGV4NF9pNjJqLTU0TVB5QTJLUFcxWjNNbU1uSndqQUdhTVl3cDJ6YXdfalJlQi13SE9NdjhxN1Z4ckpxbw?oc=5\" target=\"_blank\">LG Displa",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwVi0xcEZSdWJvWGNGM21YSkw0VGV4NF9pNjJqLTU0TVB5QTJLUFcxWjNNbU1uSndqQUdhTVl3cDJ6YXdfalJlQi13SE9NdjhxN1Z4ckpxbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-002",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Researchers use AI and machine learning to design two new promising blue TADF OLED emitters",
+    "summary": "<p>Researchers at Nagoya University and Kyushu University have utilized AI and machine learning to design new OLED TADF emitter molecules, focusing on \"boron-free\" 13-ring frameworks.&nbsp;</p><img da",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/researchers-use-ai-and-machine-learning-design-two-new-promising-blue-tadf-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-07-23-001",
     "date": "2026-07-23",
     "companies": [
@@ -329,6 +366,224 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260723VL223/tesla-optimus-robot-samsung-micron.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-07-23-018",
+    "date": "2026-07-23",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) Q3 2024 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFA3dFl1VnUzUHh6dWk5OFJQQjBfU29keW8zRTVLck9YX2VjZTJlemNJeUlqcmVhS2tzTlo1VnB4by1pUHM3a2NkVktuZlpiUGlmZko3Q0Z3a3B5MWNJVVhiY1luX2pSd01Uemk5RQ?oc=",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3dFl1VnUzUHh6dWk5OFJQQjBfU29keW8zRTVLck9YX2VjZTJlemNJeUlqcmVhS2tzTlo1VnB4by1pUHM3a2NkVktuZlpiUGlmZko3Q0Z3a3B5MWNJVVhiY1luX2pSd01Uemk5RQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-07-23-019",
+    "date": "2026-07-23",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) Q3 2025 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5FTmRUa1NKR3JjQXpKdXB4NWtHZGtCa0x5UENzbXo5cERWVlRPXzFwUUxrS3d6b1d5b3hHWjVsRXk0eEtKNUF4M2l3M3NhQ0JzOEdvLUFVbXY1SmJ5Q1A5TVlBa1MwZEFDSlhGQQ?oc=",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FTmRUa1NKR3JjQXpKdXB4NWtHZGtCa0x5UENzbXo5cERWVlRPXzFwUUxrS3d6b1d5b3hHWjVsRXk0eEtKNUF4M2l3M3NhQ0JzOEdvLUFVbXY1SmJ5Q1A5TVlBa1MwZEFDSlhGQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-07-23-020",
+    "date": "2026-07-23",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) Q1 2026 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ2NXU3YwRGVxbmZDdFMtMnlDajhDQlFzekdQS191ZDJtV3J6ZzVINkdKajZwd3V5TE1zM242aGk3MnlUTVNNME5QYndrVXM1T1NJdGowb3NaMXRSdWNLYTdZVHAza0RVQVFLUGZpWm",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ2NXU3YwRGVxbmZDdFMtMnlDajhDQlFzekdQS191ZDJtV3J6ZzVINkdKajZwd3V5TE1zM242aGk3MnlUTVNNME5QYndrVXM1T1NJdGowb3NaMXRSdWNLYTdZVHAza0RVQVFLUGZpWm1iMVVLb0ZiN2pjMWRuTGh6VVBZdEJkZzluVy1kalVIS3Z6bDl2TFhxZmtZb1NiamtXSTd1VGxYMHZVTXFENzZkYjJfRFlTcVRfUDFZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-07-23-021",
+    "date": "2026-07-23",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) Q4 2024 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZU1mSi1vQ01wb0FmemlKQ0tqMXcwc3VCd3hOUkk3T19MYTNPa3RrVTk4clZyWnNGdzJORmdnWDRZdVotalZoRnZERWxSdWVoN0oyUHQxeEFEdC1kMElJWFh4OEpRMXJWR1A5Sw?oc=",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNZU1mSi1vQ01wb0FmemlKQ0tqMXcwc3VCd3hOUkk3T19MYTNPa3RrVTk4clZyWnNGdzJORmdnWDRZdVotalZoRnZERWxSdWVoN0oyUHQxeEFEdC1kMElJWFh4OEpRMXJWR1A5Sw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-07-23-022",
+    "date": "2026-07-23",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display earnings missed by $0.14, revenue topped estimates - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFJUWlVrQWxqWkxsQTdqOUQyalROVGswejd0bnZLTUlNRlRKUnZ1QzQwY1M3dldSZDU3cUZwMG9tZDR2bVdJOU5rcExmTG03SVVCSEk2TGw0YlQtcWNNOU1xaVN2djNNYVFITjA4T2",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFJUWlVrQWxqWkxsQTdqOUQyalROVGswejd0bnZLTUlNRlRKUnZ1QzQwY1M3dldSZDU3cUZwMG9tZDR2bVdJOU5rcExmTG03SVVCSEk2TGw0YlQtcWNNOU1xaVN2djNNYVFITjA4T2JoRm92aFNNQ1lHeFN5enVzQjl5SWpOR1F1bUlNdzRTT3JwWkkyc2FtODBtOTlPeGI1YWE0ejhtMFc1UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-07-23-023",
+    "date": "2026-07-23",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Opening the Window to Connection Through Display Discover LG Display’s OLED Innovations at K-Display 2026 - LG Display Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZlpWWG1YTVNXTVJ6V1pZblJLblp6TWpPdXVVZHlzZV9YaGNxN2ZhSHB4eExmcTBucFg5Z1FvOVZIN1FSR1YxZ0ZQQ1p2TXBvWUF1amM2MFNELWFpdGItSU5TV1FPLUd3MUFlZndudX",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZlpWWG1YTVNXTVJ6V1pZblJLblp6TWpPdXVVZHlzZV9YaGNxN2ZhSHB4eExmcTBucFg5Z1FvOVZIN1FSR1YxZ0ZQQ1p2TXBvWUF1amM2MFNELWFpdGItSU5TV1FPLUd3MUFlZndudXVxMHoxWWhFRTg4QmtUYWR0R0pNYXoxREQ2SU9RMEplbGFvX2tmVXVlMm95bHVkMXBKa0d6Skx5OHROQXpGSS1fdGlJaElkaXItVHRXMlM5X0YwbnZsYnk0djI2OWVFWnlJUHhNWDBEaDYxdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-07-23-024",
+    "date": "2026-07-23",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BOE stock remains supported by display demand and recent earnings metrics - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQei1Qa1BMR2hWOWpHQmx0bE82aVRPQXFNNENiWVQzbG1Sbm9VQXFCWG5TWDVIaXJIbDJESWc1X2RzM3dtejhwblphV0R3SUFhSTYtd0tsMWxYNW0tUVBQdVEyNDcwMlhibG1sQUthYU",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQei1Qa1BMR2hWOWpHQmx0bE82aVRPQXFNNENiWVQzbG1Sbm9VQXFCWG5TWDVIaXJIbDJESWc1X2RzM3dtejhwblphV0R3SUFhSTYtd0tsMWxYNW0tUVBQdVEyNDcwMlhibG1sQUthYUVicHJNclluNVBFQnNZaWt4VGkySnlEN0JjeUUyNU1ROVg4MFdJelRLMWktZlVFWW5ITzA3eFRYUm4zNGhLRTM0QjJhaWtaWDB1TkNHTEdvRTVBLWltYm0wd3hVVlo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-23-025",
+    "date": "2026-07-23",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[Infographic] [Galaxy Unpacked July 2026] Highlights From Galaxy Unpacked",
+    "summary": "On July 22, Samsung Electronics hosted Galaxy Unpacked July 2026 at Old Billingsgate in London — unveiling its next-generation foldables with agentic AI. Alongside Galaxy Z Fold8 Ultra, Galaxy Z Fold8",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/infographic-galaxy-unpacked-july-2026-highlights-from-galaxy-unpacked",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-23-026",
+    "date": "2026-07-23",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display developed the technology to enable large 80mm punch-holes in its automotive OLED panels",
+    "summary": "<p>Samsung Display is showcasing a new automotive-grade OLED display that features a large 80mm-diameter punch-hole. The company says that this is the largest hole demonstrated in an OLED display to d",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-developed-technology-enable-large-80mm-punch-holes-its",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-027",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Seiko Epson makes a 2nd investment in inkjet system developer Gosan Tech",
+    "summary": "<p>Seiko Epson Corporation and its Epson X Investment Corporation announced that they have jointly made an additional investment in <a href=\"https://www.oled-info.com/gosan-tech\">Gosan Tech</a>, a Sou",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/seiko-epson-makes-2nd-investment-inkjet-system-developer-gosan-tech",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-23-028",
+    "date": "2026-07-23",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung 65-Inch Mini LED 4K TV Deal: Under $500 on Amazon - The Inventory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBoNF9QSWd3MDdUY3dCN0tPRUdXUTB2eUkxQzVKNlJFV2V5bzhNM3JYLTZTUkdsV2ZNR1YtNjVqSGIzY3JqN1dpUlZLSFlRd3hnTDNRSUhIZ2YzcllfM21mNFRmRmJ3Y1U4RktCaHl5Ui",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoNF9QSWd3MDdUY3dCN0tPRUdXUTB2eUkxQzVKNlJFV2V5bzhNM3JYLTZTUkdsV2ZNR1YtNjVqSGIzY3JqN1dpUlZLSFlRd3hnTDNRSUhIZ2YzcllfM21mNFRmRmJ3Y1U4RktCaHl5Ui1LQ28?oc=5",
         "type": "rss"
       }
     ]
@@ -961,6 +1216,25 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00TUJyRzdNN2RnMTFOZy1wemhyczRhOFlBdTFnMzlkRnBaeWtDX2h3cThQRHRfR2lTeEZ6Z0dSU1hhZmFjVVpra2tKRFpQUEJIaUZFelBpTFotM1ZrbG10NXI2LUhlbGFpT1RIbkJraDJ5cXhDYWtwaDF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-07-22-033",
+    "date": "2026-07-22",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Co, Ltd AMERICAN DEPOSITORY SHARES Stock 12‑Month Price Target Cut to $4.3, Implies 32% Upside - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSkNkSEF2MDNpaThBMlNDcFdyMzVmU3pMOUROZEJ3ZTZYU2ludUN5MDRZOGxyWGhlRzYyRkE1dVU5TmNYTUtiTno5ZmlCTVhqYVk4a05DSTk3Zk1lTDhYVFNmaVJxX2RKNU5QQUYwTE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSkNkSEF2MDNpaThBMlNDcFdyMzVmU3pMOUROZEJ3ZTZYU2ludUN5MDRZOGxyWGhlRzYyRkE1dVU5TmNYTUtiTno5ZmlCTVhqYVk4a05DSTk3Zk1lTDhYVFNmaVJxX2RKNU5QQUYwTE0wN2xkR2tIaEJzeDBMNGR5Q0tFU0tRZUxYQ09VRThKTl9aTTVIaEpJbmZ2STl5YUZJbmxDS0FqMHlzTWRIRDdBZ0NBczFucUhzM3dGZ3dSdTQ3ZERkQ3RmMjNNNkRzMHpnaGotUl9rZS1PYlRZZUp4ZUZBSE9EbV9sb1hQYUFScllCSVFLWkE?oc=5",
         "type": "rss"
       }
     ]

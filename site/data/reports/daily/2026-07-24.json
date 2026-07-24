@@ -1,0 +1,128 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T10:16:26.888644Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-07-24-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display to invest $2bn with gov’t support to fend off Chinese rivals - 매일경제",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwVi0xcEZSdWJvWGNGM21YSkw0VGV4NF9pNjJqLTU0TVB5QTJLUFcxWjNNbU1uSndqQUdhTVl3cDJ6YXdfalJlQi13SE9NdjhxN1Z4ckpxbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Researchers use AI and machine learning to design two new promising blue TADF OLED emitters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/researchers-use-ai-and-machine-learning-design-two-new-promising-blue-tadf-oled"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 133,
+    "too_old": 175,
+    "gate1_blocked": 20,
+    "gate2_blocked": 18,
+    "passed": 14,
+    "pass_rate": "6.2%",
+    "gate2_block_rate": "7.9%",
+    "gate2_samples": [
+      "O'Mara, legislative colleagues help celebrate Corning Incorporated's 175th Anniversary - The New Yor",
+      "Corning Incorporated celebrates its 175th anniversary - WENY News",
+      "Lobbying Update: $330,000 of CORNING INCORPORATED lobbying was just disclosed - Quiver Quantitative",
+      "Corning Incorporated to celebrate 175th anniversary with community fireworks celebration - WENY News",
+      "Corning Incorporated celebrates its 175th anniversary - WENY News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為LGD、LG電子相關動態：「LG Display to invest $2bn with gov’t support to fend off ...」。主要關注主題為OLED 滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "LG Display to invest $2bn with gov’t support to fend off Chinese rivals - 매일경제",
+        "level": "red"
+      },
+      {
+        "text": "Researchers use AI and machine learning to design two new promising blue TADF...（OLED 滲透率）",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
