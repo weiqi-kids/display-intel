@@ -1,14 +1,14 @@
 {
   "corning": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-23",
-    "count": 6678,
+    "latest": "2026-07-24",
+    "count": 6679,
     "history_complete": true
   },
   "applied_materials": {
     "earliest": "2000-01-03",
-    "latest": "2026-07-23",
-    "count": 6678,
+    "latest": "2026-07-24",
+    "count": 6679,
     "history_complete": true
   },
   "canon": {
@@ -25,8 +25,8 @@
   },
   "himax": {
     "earliest": "2006-03-31",
-    "latest": "2026-07-23",
-    "count": 5109,
+    "latest": "2026-07-24",
+    "count": 5110,
     "history_complete": true
   },
   "auo": {
@@ -85,8 +85,8 @@
   },
   "etf_soxx": {
     "earliest": "2001-07-13",
-    "latest": "2026-07-23",
-    "count": 6293,
+    "latest": "2026-07-24",
+    "count": 6294,
     "history_complete": true
   }
 }

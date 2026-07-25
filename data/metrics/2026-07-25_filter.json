@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 19,
+  "gate2_fail": 17,
+  "passed": 17,
+  "gate2_samples": [
+    "O'Mara, legislative colleagues help celebrate Corning Incorporated's 175th Anniversary - The New Yor",
+    "Corning Incorporated celebrates its 175th anniversary - WENY News",
+    "Lobbying Update: $330,000 of CORNING INCORPORATED lobbying was just disclosed - Quiver Quantitative",
+    "Corning Incorporated to celebrate 175th anniversary with community fireworks celebration - WENY News",
+    "GLW|Corning Inc|Price:146.650|Chg%:-9.480 - TradingKey"
+  ]
+}

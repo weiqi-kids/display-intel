@@ -1,5 +1,61 @@
 [
   {
+    "id": "lg_elec-2026-07-25-001",
+    "date": "2026-07-25",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "32-inch 4K LG OLED gaming monitor with 480Hz mode drops to lowest Amazon sale price yet - Notebookcheck",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPQXdwMTlpeUxwYUNwTDdZV2tQMEpBUDRGS0hHbk5XODF5cElqcVBNRFZ2amM2TGNPY3pSV0xteTBvSHp5ZXhRNjlCSGlYZF9rVUZCS25BRnRYWUZHT1J0UXFmaDdaMWFiWjl3ZTNUMm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQXdwMTlpeUxwYUNwTDdZV2tQMEpBUDRGS0hHbk5XODF5cElqcVBNRFZ2amM2TGNPY3pSV0xteTBvSHp5ZXhRNjlCSGlYZF9rVUZCS25BRnRYWUZHT1J0UXFmaDdaMWFiWjl3ZTNUMmZCbTRUQ09LMVdZSUxRVC1TSy1mb2EyY3gyV2Y3T0ZaY2NJZVJmQ0tsMElKZlcwdVNxYVhYV2tkbVBYUG5nNVJEWFAwYl9IQkRBMklqaGdIX0pDUnFKMkkxeFpORHE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-25-002",
+    "date": "2026-07-25",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies",
+    "summary": "Samsung Electronics and Broadcom today announced the signing of a memorandum of understanding (MOU) to expand their strategic collaboration across memory and foundry technologies, supporting the next ",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-003",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "SFC progresses with its IPO plans, reveals its financial results for 2025",
+    "summary": "<p>In November 2025, we <a href=\"https://www.oled-info.com/hodogaya-reports-lower-oled-materials-sales-gets-ready-ipo-its-sfc-subsidiary\">reported</a> that OLED material developer <a href=\"https://www",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/sfc-progresses-its-ipo-plans-reveals-its-financial-results-2025",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_display-2026-07-24-001",
     "date": "2026-07-24",
     "companies": [
@@ -32,6 +88,219 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/researchers-use-ai-and-machine-learning-design-two-new-promising-blue-tadf-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "raydium-2026-07-24-003",
+    "date": "2026-07-24",
+    "companies": [
+      "raydium"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ETFs Investing in Raydium Semiconductor Corp. Stocks - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpVjVXejRyTHJhNmlZYUh4OVA3dlYyWVRjWTZKY1lJTy1ldGFMLURZbVdZb2dodFFQNTJOQy14eWE1VUYxYnM5MUljSWhSYUFjcGJvbDh0V09mdjRlenVUbg?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "raydium",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpVjVXejRyTHJhNmlZYUh4OVA3dlYyWVRjWTZKY1lJTy1ldGFMLURZbVdZb2dodFFQNTJOQy14eWE1VUYxYnM5MUljSWhSYUFjcGJvbDh0V09mdjRlenVUbg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-07-24-004",
+    "date": "2026-07-24",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies, Inc. Revenue Breakdown – NASDAQ:HIMX - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9OTVdFejFUajlZY1JCSnNMb0owU09WSWxsQTh1RW83enBKQ2E3WU9MTkFOTEI2ZFNpRzBlYkhib2JoUFVkb3VUa1Q4amxvdzRFbG5QdnpfVGloYnVIdGZ5T3RYcUNZRk1fYjVfcWtzWj",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OTVdFejFUajlZY1JCSnNMb0owU09WSWxsQTh1RW83enBKQ2E3WU9MTkFOTEI2ZFNpRzBlYkhib2JoUFVkb3VUa1Q4amxvdzRFbG5QdnpfVGloYnVIdGZ5T3RYcUNZRk1fYjVfcWtzWjNVUGFaeWhj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-07-24-005",
+    "date": "2026-07-24",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Co., Ltd. 2026 Q2 - Results - Earnings Call Presentation (NYSE:LPL) 2026-07-24 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOUEFHNFRaMm05Z3ROY3ZCMHJHbzVNdmVkdzF2aDBCaHRHOGpqRkNhLUJKMXNVVDlxQTlaVHRRb0lZWi0yVkJpbnVYWVVmVWRkWkdzbjRwNUF0UkNkSlI1eW0xSFRPMi1fMnhaZlM1dE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUEFHNFRaMm05Z3ROY3ZCMHJHbzVNdmVkdzF2aDBCaHRHOGpqRkNhLUJKMXNVVDlxQTlaVHRRb0lZWi0yVkJpbnVYWVVmVWRkWkdzbjRwNUF0UkNkSlI1eW0xSFRPMi1fMnhaZlM1dEhRUmRSeHJFb19nNF83S0hLZ2I2NmlsWGhKU2R2NERMU1JoMXRHNktBSDZrXzM5djFkRXlJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-07-24-006",
+    "date": "2026-07-24",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Presents at K-Display 2026 - Ink World magazine -",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQd2xtQXpIRFBjV3BpaFFIX3JGOTJJamh0bmhZWjNydTNuc19ET2JtU3pMbWt1RzlhclRSRTR2eThka0owbUo5ZkJMU2pONDJjcURoMkdCMXdnZXhyZkhsUF9aUVFUWm91Nm1Nd3BpQl",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd2xtQXpIRFBjV3BpaFFIX3JGOTJJamh0bmhZWjNydTNuc19ET2JtU3pMbWt1RzlhclRSRTR2eThka0owbUo5ZkJMU2pONDJjcURoMkdCMXdnZXhyZkhsUF9aUVFUWm91Nm1Nd3BpQlRsazdpT0lQaEhOYlZLUkNEVmZPMmpLVV9LZXpGXzBR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-07-24-007",
+    "date": "2026-07-24",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display plans to invest $2 billion to enhance its OLED laptop and tablet production capabilities - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWItdGk2dlNyY2FDeWVDcHNHM3R3SWtJeHpjaE5JOXc3Vmh5OWlBZ1lyem9pNjg1Q2UtY0pURXFTYkJVbThXcDZWcExaeDhaeXRCMWF4ZWFqWVJVSXRINmFHMWxEYVNWbUh6aXgwdV",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWItdGk2dlNyY2FDeWVDcHNHM3R3SWtJeHpjaE5JOXc3Vmh5OWlBZ1lyem9pNjg1Q2UtY0pURXFTYkJVbThXcDZWcExaeDhaeXRCMWF4ZWFqWVJVSXRINmFHMWxEYVNWbUh6aXgwdVdfLTJPMGZSdnlOOGVGSEJmOXNNcmRSQzZpNGZWOE1iX3g4Y010WEtDd2tVNVFEMkxIMnRUV1ZWcDU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-008",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "Apple and other smartphone makers pressure OLED producers to reduce costs, some look into utilizing lower-resolution panels",
+    "summary": "<p>Component costs are rising - <a href=\"https://www.oled-info.com/memory-shortage-may-have-more-implications-oled-industry-valve-admits-it-cannot\">memory prices have been high for a while</a>, and no",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/apple-and-other-smartphone-makers-pressure-oled-producers-reduce-costs-some",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-009",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Volvo's new EX60 midsize electric SUV sports a 15\" AMOLED central display",
+    "summary": "<p>Volvo launched a new midsize electric SUV, the EX60, featuring the longest range Volvo offers, at 530 Km, with ultra-fast charging (adding 260 Km in only 10 minutes). This is the first Volvo built ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/volvos-new-ex60-midsize-electric-suv-sports-15-amoled-central-display",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-010",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Solus Advanced Materials reports a 15% decrease in OLED material sales in Q2 2026",
+    "summary": "<p>Korea-based OLED materials maker <a href=\"https://www.oled-info.com/doosan-solus\">Solus Advanced Materials</a> reported its financial results for Q2 2026, with $70 million in revenues (up 31% from ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/solus-advanced-materials-reports-15-decrease-oled-material-sales-q2-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-24-011",
+    "date": "2026-07-24",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "FINETEK to supply production equipment to SDC's Vietnam OLED module line, in the company's single largest order to date",
+    "summary": "<p>Korea-based <a href=\"https://www.oled-info.com/finetek\">FINETEK</a> announced that it has received the company's larger order to date, a 19.5 billion Won ($13.3 million USD) order to supply equipme",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/finetek-supply-production-equipment-sdcs-vietnam-oled-module-line-companys",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-07-24-012",
+    "date": "2026-07-24",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display plans to invest $2 billion to enhance its OLED laptop and tablet production capabilities",
+    "summary": "<p>LG Display is reportedly launching a new 3 trillion Won ($2 billion USD) investment plan, to upgrade its existing production small-area mobile flexible AMOLED processes and technologies.</p><p><a h",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/lg-display-plans-invest-2-billion-enhance-its-oled-laptop-and-tablet-production",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-013",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Intel Foundry Improves Execution, but External Customers Remain the Test",
+    "summary": "\n\t\t\t\t\t\t<p>Intel’s fabs are healing, but $293M in outside revenue won’t scare TSMC yet. </p>\n<p>The post <a href=\"https://www.eetimes.com/intel-foundry-improves-execution-but-external-customers-remain-",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/intel-foundry-improves-execution-but-external-customers-remain-the-test/",
         "type": "rss"
       }
     ]
@@ -584,6 +853,46 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoNF9QSWd3MDdUY3dCN0tPRUdXUTB2eUkxQzVKNlJFV2V5bzhNM3JYLTZTUkdsV2ZNR1YtNjVqSGIzY3JqN1dpUlZLSFlRd3hnTDNRSUhIZ2YzcllfM21mNFRmRmJ3Y1U4RktCaHl5Ui1LQ28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-07-23-029",
+    "date": "2026-07-23",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (H6Q) Q1 2026 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE4tZzViQXlTZGVSUlh6X0R2UzRjcTlnRnhodkJjRThyOGhqSlJTX29qVmJtTHdvZmtlSlYwd0lkcVZkbk5KbUY0TUxBSUFaejlIQkxMRDB0SE10NG1MbHlnSlYxWGZld2oyQXRlVGpwMA",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tZzViQXlTZGVSUlh6X0R2UzRjcTlnRnhodkJjRThyOGhqSlJTX29qVmJtTHdvZmtlSlYwd0lkcVZkbk5KbUY0TUxBSUFaejlIQkxMRDB0SE10NG1MbHlnSlYxWGZld2oyQXRlVGpwMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-07-23-030",
+    "date": "2026-07-23",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BOE stock remains supported by display demand and recent earnings metrics - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQei1Qa1BMR2hWOWpHQmx0bE82aVRPQXFNNENiWVQzbG1Sbm9VQXFCWG5TWDVIaXJIbDJESWc1X2RzM3dtejhwblphV0R3SUFhSTYtd0tsMWxYNW0tUVBQdVEyNDcwMlhibG1sQUthYU",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQei1Qa1BMR2hWOWpHQmx0bE82aVRPQXFNNENiWVQzbG1Sbm9VQXFCWG5TWDVIaXJIbDJESWc1X2RzM3dtejhwblphV0R3SUFhSTYtd0tsMWxYNW0tUVBQdVEyNDcwMlhibG1sQUthYUVicHJNclluNVBFQnNZaWt4VGkySnlEN0JjeUUyNU1ROVg4MFdJelRLMWktZlVFWW5ITzA3eFRYUm4zNGhLRTM0QjJhaWtaWDB1TkNHTEdvRTVBLWltYm0wd3hVVlo?oc=5",
         "type": "rss"
       }
     ]
@@ -1235,6 +1544,26 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSkNkSEF2MDNpaThBMlNDcFdyMzVmU3pMOUROZEJ3ZTZYU2ludUN5MDRZOGxyWGhlRzYyRkE1dVU5TmNYTUtiTno5ZmlCTVhqYVk4a05DSTk3Zk1lTDhYVFNmaVJxX2RKNU5QQUYwTE0wN2xkR2tIaEJzeDBMNGR5Q0tFU0tRZUxYQ09VRThKTl9aTTVIaEpJbmZ2STl5YUZJbmxDS0FqMHlzTWRIRDdBZ0NBczFucUhzM3dGZ3dSdTQ3ZERkQ3RmMjNNNkRzMHpnaGotUl9rZS1PYlRZZUp4ZUZBSE9EbV9sb1hQYUFScllCSVFLWkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-07-22-034",
+    "date": "2026-07-22",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "BOE stock trades steadily as display maker highlights revenue growth and margin resilience - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2h5WkcxUkNGRGEwbGdKUmgwbFpqVnFtamNxQVYyUi1UeGNXbjhJX0hmOXpTcElZWUl0VHE0R250Snlud2duTXpZTkcxSmhaSm1rczFZRnhLalFjb0xhcDVybjlfTEdXZkIwMlpJYl",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2h5WkcxUkNGRGEwbGdKUmgwbFpqVnFtamNxQVYyUi1UeGNXbjhJX0hmOXpTcElZWUl0VHE0R250Snlud2duTXpZTkcxSmhaSm1rczFZRnhLalFjb0xhcDVybjlfTEdXZkIwMlpJYlNyWXFudnVhdzBiRUxTYmhyc2ZZRWxJaEFwUzFkemtxNnM1MkQ1UExwME9zUFFFZWZ6ejlMdFdLbHEtMFZMeXNRemxBWnZZblhoVlZrUHhzZ2FHX3NNNW1sdWNPYw?oc=5",
         "type": "rss"
       }
     ]
