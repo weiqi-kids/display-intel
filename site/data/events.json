@@ -1,5 +1,63 @@
 [
   {
+    "id": "himax-2026-07-26-001",
+    "date": "2026-07-26",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax (HIMX) Stock May Look Below Fair Value On New AI Vision Chips - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQaXFabm4yNERQS2poUWtmVlJ2TmJHS3NmenRSajhtcjNzanhiZkhURGpVRjdDQ3d5ZHRHQTV0YXBRR3BMZjVybEhIejZjZ09TeUVOZmFUUVpMbVdyVHNOUlRhTXFRZVFvN2ktakxlVG",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaXFabm4yNERQS2poUWtmVlJ2TmJHS3NmenRSajhtcjNzanhiZkhURGpVRjdDQ3d5ZHRHQTV0YXBRR3BMZjVybEhIejZjZ09TeUVOZmFUUVpMbVdyVHNOUlRhTXFRZVFvN2ktakxlVGVfMGJLVW1yTFgzWWdGa1IzLWlJMW5QaWJfbk9OTUJqRXVhNkJ1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-07-26-002",
+    "date": "2026-07-26",
+    "companies": [
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Three LGD employees sentenced to jail after found guilty of transferring confidential information to a Chinese company - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVjBpTXpQREhXbkYzU2dZcEdpODN6Z0ZObWRUTjFLaVRNSDY4YmN6N01xd2x1a21DczVQa1g4ajBrUTFOVDc4SEZ1SmF5UVQzckxqOVF2aEQwTEpqMXd3bHptSGJ0Ry14bmw1bmJrYk",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVjBpTXpQREhXbkYzU2dZcEdpODN6Z0ZObWRUTjFLaVRNSDY4YmN6N01xd2x1a21DczVQa1g4ajBrUTFOVDc4SEZ1SmF5UVQzckxqOVF2aEQwTEpqMXd3bHptSGJ0Ry14bmw1bmJrYkRTVnktcUlPZUtSV1pwZHNnQ0liWUtyVzd0MXk4emd6R2VLRW1zYXpHbFRIU3dCNDlSYVVVYlJBREk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-26-003",
+    "date": "2026-07-26",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Stunning LG OLED gaming monitor plummets to lowest price yet on Amazon - PC Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZU5PS1hZNUJ3RjFac3BzVnZaM3hSQk9PQ2tUM3BCeEVVaE85M3d4WXMzcG1mcEFEcURsZVZiUEhMV3FWTzFHOExJelZJZmJkTzRZbURhU3RMaVBadFpiTVROQ1QtTDl5Uy1IaG9UeW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZU5PS1hZNUJ3RjFac3BzVnZaM3hSQk9PQ2tUM3BCeEVVaE85M3d4WXMzcG1mcEFEcURsZVZiUEhMV3FWTzFHOExJelZJZmJkTzRZbURhU3RMaVBadFpiTVROQ1QtTDl5Uy1IaG9UeWc0Y0MwX3hMbGpnbEwtcXZnSjhhaWN2NDJDNndmbFVJQkRRY2RLSU5YaWhmbFdxT21CTFRr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-07-25-001",
     "date": "2026-07-25",
     "companies": [
@@ -51,6 +109,235 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/sfc-progresses-its-ipo-plans-reveals-its-financial-results-2025",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-07-25-004",
+    "date": "2026-07-25",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Experiment Reveals Real-World Gaming Advantages Of OLED High Frame Rates - Forbes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUtzbHowYUdJME80YklaZHBNbWUzVEdBanh4TGp6R1pLMUVvcnE1M1VXQlE1dEFvRTRVME1ua0M3aWUyM1AzSWZpU1NlNWZiYUItMkExMkFJMXlOV2xyTFVwUUlab1Fnd19nVEVDLX",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVUtzbHowYUdJME80YklaZHBNbWUzVEdBanh4TGp6R1pLMUVvcnE1M1VXQlE1dEFvRTRVME1ua0M3aWUyM1AzSWZpU1NlNWZiYUItMkExMkFJMXlOV2xyTFVwUUlab1Fnd19nVEVDLXVESXF1SlVHazh2Q1dkNEF4dDFhWnVnbS1tNFBWUlJZaHZxU3N2WVY4S2lYdVhjMTJzMGQydjdTNFltejg4dEstNm4zU1FjQ0hSRld0N3NKcmhXbDFESE8xTUY2Q0h2WkdV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-25-005",
+    "date": "2026-07-25",
+    "companies": [
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Apple Forces Record OLED Cuts From Samsung, LG as AI Memory Crisis Hits iPhone Costs - Tech Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQVkI1d1ZsWng5bXctTENaSU9abGhpa2llZXh2ZzN4VXZNVXBlRnBZNDNpa3pfTW43WXRnQzNELW1ScExPVVp6X3I2Y0VkOHNaMVBwZHlodTRFN2d0UERWZEpIZU1SdDgybTJ5SFBDU3",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVkI1d1ZsWng5bXctTENaSU9abGhpa2llZXh2ZzN4VXZNVXBlRnBZNDNpa3pfTW43WXRnQzNELW1ScExPVVp6X3I2Y0VkOHNaMVBwZHlodTRFN2d0UERWZEpIZU1SdDgybTJ5SFBDU3J3OU9sSXlqRU9qallSUHkxQ1NUWVRVZWpEdzFZZzhsSHBJVzZtWEIwbDBmbkpxRHBXQlh2RGoyUTh2ZndKek9CanV6a2xBU19Cd0pTMThNWEpyb0I2ZGxGMDJR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-07-25-006",
+    "date": "2026-07-25",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display (NYSE:LPL) Downgraded by Zacks Research to \"Strong Sell\" - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmFfS1ZiYlJLS2tXRE4wTjRHWVNHbWlBeXBKTjZId1Z2eUJVMFNKNXBfX0dNSmh1bVFOZ0tqSU9seUJqMnNsSlNJOUtHdU1XNEROR0hHY2dkRm5LWnpLVXhwMFZoUnprSHVwaE5nRU",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmFfS1ZiYlJLS2tXRE4wTjRHWVNHbWlBeXBKTjZId1Z2eUJVMFNKNXBfX0dNSmh1bVFOZ0tqSU9seUJqMnNsSlNJOUtHdU1XNEROR0hHY2dkRm5LWnpLVXhwMFZoUnprSHVwaE5nRUw0dVdabU1Jc3pWZHpPZGltbXh3NER5NDdJaWJmMm9EZjQtN25YalphNi0zMDk5dERUdGx6Z2hDOVItdk9ucFZHVE1MT0NpNjA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-07-25-007",
+    "date": "2026-07-25",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Japan Display, Inc. Revenue Breakdown – OTC:JPDYY - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFB6UTNGZmhzN2hQcFprbDlaeEpfSWxRUUpPY24xcHg2NzhVS1FmdC10cG5wbjZnN0V1c3c5VlJSS3FncDM1cnVaTldELXVTQ1VUR3JPVnlON21kT2pRb1RDalVGYURkXy1fd1h1OVV2ej",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6UTNGZmhzN2hQcFprbDlaeEpfSWxRUUpPY24xcHg2NzhVS1FmdC10cG5wbjZnN0V1c3c5VlJSS3FncDM1cnVaTldELXVTQ1VUR3JPVnlON21kT2pRb1RDalVGYURkXy1fd1h1OVV2ejl4SXF1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-07-25-008",
+    "date": "2026-07-25",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "AUO's Micro LED push signals a broader shift from displays to smart interfaces",
+    "summary": "AUO says its Micro LED technology is moving beyond screens and into a broader smart interface platform, even as one high-profile automotive project was shelved. The company argues that years of develo",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260723PD210/auo-technology-automotive-production-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-009",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Optical PD volume production lifts WIN Semiconductors' Q2 revenue 39% YoY",
+    "summary": "WIN Semiconductors, a gallium arsenide (GaAs) foundry, reported consolidated revenue of NT$5.26 billion (US$178 million) for the second quarter of 2026, up 14.5% sequentially and 39% year over year, d",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260724PD235/revenue-demand-gaas-2026-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-010",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lynas says Malaysia heavy rare earth project has gone over budget",
+    "summary": "Lynas Rare Earths said its heavy rare earth expansion in Malaysia has gone over budget as the Australia-based miner works to build out a non-China supply chain. The disclosure came alongside the lates",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260724PD208/budget-2026-equipment-supply-chain-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-011",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Airbus raises profit outlook as supply bottlenecks ease",
+    "summary": "Airbus updated its financial outlook for investors, saying easing supply-chain constraints should support stronger production and profit growth through 2029. According to <em>Bloomberg</em>, the Europ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260724PD201/airbus-outlook-profit-production-aircraft.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-25-012",
+    "date": "2026-07-25",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung, SK, Hyundai join Jensen Huang and Korea's President Lee at San Francisco AI Summit",
+    "summary": "South Korean President Lee Jae-myung and a delegation of the country's most powerful business leaders convened with NVIDIA founder and CEO Jensen Huang in Silicon Valley this week, in a series of meet",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260725VL202/samsung-jensen-huang-hyundai-ceo-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-013",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Trumpf's stabilizing sales point to a broader recovery in industrial demand",
+    "summary": "Trumpf said preliminary fiscal 2025/26 results showed its business stabilizing after several years of declines in orders and revenue. The German laser and smart manufacturing equipment maker reported ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260723PD225/demand-revenue-sales-industrial-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-014",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led",
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "PlayNitride bets on Tantium architecture, chip scaling to cut MicroLED costs 75% by 2030",
+    "summary": "Taiwan-based PlayNitride aims to reduce MicroLED production costs by 75% by 2030 through smaller chip designs and its proprietary high-efficiency Tantium chip architecture, positioning the technology ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260723PD224/playnitride-2030-technology-production-efficiency.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-25-015",
+    "date": "2026-07-25",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Qualcomm expands Galaxy AI partnership as Samsung adopts Snapdragon across new device lineup",
+    "summary": "Qualcomm is expanding the reach of its Snapdragon platform across Samsung Electronics' Galaxy ecosystem, with Samsung's latest foldable smartphones, smartwatches and next-generation smart glasses all ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260724PD207/galaxy-qualcomm-snapdragon-samsung-smart-glasses.html",
         "type": "rss"
       }
     ]
@@ -301,6 +588,26 @@
       {
         "name": "eetimes",
         "url": "https://www.eetimes.com/intel-foundry-improves-execution-but-external-customers-remain-the-test/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-24-014",
+    "date": "2026-07-24",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning Slides as Investors Appear to Turn Cautious Ahead of Earnings - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNN3JuR1Y3YzVTY1dkWDEyQVp6cjcwX19CZXEzOGF6ZVNxbVBONG9BLUZpaVJCOFFuaThhMHN2VFdMcWJYQTdNbTREZWVCNnZKVkRtVkM4dTJCTzRMZW91TW5XTGQ4Zzl6aGtOR0c0QW",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN3JuR1Y3YzVTY1dkWDEyQVp6cjcwX19CZXEzOGF6ZVNxbVBONG9BLUZpaVJCOFFuaThhMHN2VFdMcWJYQTdNbTREZWVCNnZKVkRtVkM4dTJCTzRMZW91TW5XTGQ4Zzl6aGtOR0c0QWFIeENBd2hGMVBqYmVkY1R3cFV5SkhqcVo2dHN4UWEzUnYyMS1TaHgydlVLajR1c1c4dEtvaw?oc=5",
         "type": "rss"
       }
     ]
@@ -1855,6 +2162,24 @@
     ]
   },
   {
+    "id": "canon-2026-07-21-016",
+    "date": "2026-07-21",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon U.S.A. Announces Dominic Janney as CEO of Canon Financial Services - Industry Analysts, Inc.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQU09ZdktSVUh4WEZxNTNVQTJuenltQV9CamRnOHB5eUlCQzh1MkZmOEVwSm9LRjB1VTVpYjgzSnpkbkc5R3ppcm9xbzlvSUhOdnBWd0liVVVwQ0tOLTFMXzNQdG5jVzJub09jamJnMm",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU09ZdktSVUh4WEZxNTNVQTJuenltQV9CamRnOHB5eUlCQzh1MkZmOEVwSm9LRjB1VTVpYjgzSnpkbkc5R3ppcm9xbzlvSUhOdnBWd0liVVVwQ0tOLTFMXzNQdG5jVzJub09jamJnMm1JUXBNTnNiRXdIUFBsUzBhLWhZUS1wTnBZT3YyUXBMVTlTNTZSVW45SlJmNnZJSC1yWUFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-07-20-001",
     "date": "2026-07-20",
     "companies": [
@@ -2002,6 +2327,24 @@
       {
         "name": "canon",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTVrdEdmNGxrZGVPd0VVN2M5RGR6UmpwRVNVQXllWXdBTmVQMUczTGpqcWdoN2lVb3MyUmVkRG9oMlNTUUgtQXpDQXVKLTFhYXZZZG9uREp0a3RKekRKd1VDOTA2VFZOZS1WSUVZWDJqdVFMdk1QNlNBc3VYbEw3LW1GMEhzUkQwNTQ2QVVic0hIcEVMVmw2ZVVZMGtrQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-20-009",
+    "date": "2026-07-20",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Canon U.S.A. Announces Dominic Janney as CEO of Canon Financial Services - Caledonian Record",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa3NKTVkxal9XN2hZZUFZbDlXYmlvYXVZRXpELUZyUzFYV1hhMTlTQlhPT04yTkQzM05QWEhvdmY2bVJLeTQ0bHZ5ZjlETGxEc0o0YnF5RjZ2MTYzVEk5TnNzOWhrWjJCSEJvTXpXNG",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQa3NKTVkxal9XN2hZZUFZbDlXYmlvYXVZRXpELUZyUzFYV1hhMTlTQlhPT04yTkQzM05QWEhvdmY2bVJLeTQ0bHZ5ZjlETGxEc0o0YnF5RjZ2MTYzVEk5TnNzOWhrWjJCSEJvTXpXNGhuNml6RXY4SGU3WUJKRkZfM1ROZHVvbWFXQmNzSnJfZjBUYjY5U3IyN2xDQ3JCMy1GMFE5NEZpbVkyWGJZTmZIVVhKQVB0N1JQOFZDbzFNNlpCQThtQ2V6b1RYYnloZWozQkZpNWcwbVdmQkpNUFFHNVNEZDFiWGpPVHc?oc=5",
         "type": "rss"
       }
     ]
