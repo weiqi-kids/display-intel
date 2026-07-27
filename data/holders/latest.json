@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T09:59:02.546923+00:00",
+  "updated_at": "2026-07-27T11:20:02.802979+00:00",
   "companies": {
     "corning": {
       "name": "Corning Incorporated",
@@ -144,7 +144,7 @@
           "holder": "Oregon Public Employees Retirement Fund",
           "shares": 761700,
           "pct_held": 0.06,
-          "value": 3447454200
+          "value": 3618075000
         }
       ]
     },
@@ -224,61 +224,61 @@
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 11835014,
           "pct_held": 0.27,
-          "value": 556245658
+          "value": 568080672
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 7760172,
           "pct_held": 0.17,
-          "value": 364728084
+          "value": 372488256
         },
         {
           "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
           "shares": 3906700,
           "pct_held": 0.09,
-          "value": 183614900
+          "value": 187521600
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 3016600,
           "pct_held": 0.07,
-          "value": 141780200
+          "value": 144796800
         },
         {
           "holder": "iShares Trust-iShares MSCI EAFE Small-Cap ETF",
           "shares": 3041300,
           "pct_held": 0.07,
-          "value": 142941100
+          "value": 145982400
         },
         {
           "holder": "SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF",
           "shares": 853010,
           "pct_held": 0.02,
-          "value": 40091470
+          "value": 40944480
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Pacific Stock Index Fd.",
           "shares": 898039,
           "pct_held": 0.02,
-          "value": 42207833
+          "value": 43105872
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Total World Stock Index Fd.",
           "shares": 721300,
           "pct_held": 0.02,
-          "value": 33901100
+          "value": 34622400
         },
         {
           "holder": "iShares Trust-iShares Core MSCI Pacific ETF",
           "shares": 216400,
           "pct_held": 0.0,
-          "value": 10170800
+          "value": 10387200
         },
         {
           "holder": "iShares, Inc.-iShares MSCI Japan Small-Cap ETF",
           "shares": 142600,
           "pct_held": 0.0,
-          "value": 6702200
+          "value": 6844800
         }
       ]
     },
@@ -291,25 +291,25 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 987850,
           "pct_held": 0.02,
-          "value": 246468575000
+          "value": 250913900000
         },
         {
           "holder": "Stanley-Laman Group, Ltd.",
           "shares": 35207,
           "pct_held": 0.0,
-          "value": 8784146500
+          "value": 8942578000
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 73831,
           "pct_held": 0.0,
-          "value": 18420834500
+          "value": 18753074000
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 55000,
           "pct_held": 0.0,
-          "value": 13722500000
+          "value": 13970000000
         }
       ]
     },
@@ -322,19 +322,19 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 4949950,
           "pct_held": 0.08,
-          "value": 16874379550
+          "value": 17691121300
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 1163977,
           "pct_held": 0.02,
-          "value": 3967997593
+          "value": 4160053798
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 1169,
           "pct_held": 0.0,
-          "value": 3985121
+          "value": 4178006
         }
       ]
     }
