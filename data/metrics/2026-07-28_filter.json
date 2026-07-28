@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 171,
+  "gate1_fail": 38,
+  "gate2_fail": 20,
+  "passed": 16,
+  "gate2_samples": [
+    "O'Mara, legislative colleagues help celebrate Corning Incorporated's 175th Anniversary - The New Yor",
+    "Corning Incorporated celebrates its 175th anniversary - WENY News",
+    "Corning Incorporated celebrates its 175th anniversary - WENY News",
+    "Canon Inc. 2Q Rev Y1.181T Vs. Y1.140T >7751.TO - Moomoo",
+    "Himax Technologies (HIMX) Pulls Back Following A Strong Run, Is The Stock Cheap? - Yahoo! Finance Ca"
+  ]
+}

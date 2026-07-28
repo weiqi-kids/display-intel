@@ -1,0 +1,264 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T10:33:55.086045Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-28-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "UMT posts record revenue in 1H26 on growing LEO satellite demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260727PD227/umt-leo-demand-revenue-mmwave.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "canon-2026-07-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "[Notable Stock] Canon shares dropped sharply despite reporting earnings above market expectations, as concerns about its outlook persisted. - Moomoo",
+      "companies": [
+        "canon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkc3LTd5VDdhLVZnZlQ0eU1ka1FOSEVLMUJtbWltQnFmb3ptc2k0SUdXYTh1SUo3Y0ZOX0xrZ3VVZFdiTzlFZlZhSVJydGdSS0xuYjBLWnkzWWRubDNFbUQwcWdGTmhfcnd2UkFvWGMybnRrMlgtZjVBWVRsWHJ5aXVNRVhyWGxTMG01ckMwVHR5b1BucU0wcEFEQjk5TEJnd0l1UUV5MEhpMHdMUzNRMEdqT0FJcFJh?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-28-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TCC launches Europe listing plan as revenue from the region reaches 44%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260728PD227/tcc-europe-region-revenue-materials.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "auo-2026-07-28-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Display industry earnings season shifts spotlight from panel prices to transformation strategies",
+      "companies": [
+        "auo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "panel_price",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260728PD224/earnings-display-taiwan-revenue-supply-chain.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "himax-2026-07-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Investors Are Reacting To Himax Technologies (HIMX) Expanding Into AI Vision With New Depth Chips - simplywall.st",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automotive_display"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSm5uQi1EU3hQZW9HT2trZ2NrdjdDRURNSDl4QXJ3N21BVWYzMVV1OHBuQTVROEFXQVpBS1pYWlFHblh0NjVfck5aVTJtVXl4UnJacjJVMWd5dG5yOF9SeDF6RlhYUnBCc1N0YXFJVVk3MlpiZnZFdG9sRlRMN2VTVm1UVzZQNGM1NmpqNy11dHZVbEhudnFaaTc1Z0JkWV95Q3Zmcmg1dmdQam1zNGxZeEI2RHRrckZiVjZMUzdobkc5M1hFNTJSajg5WGxyV015NWtMX1Y0NmxLbmhhSGFpQdIB4AFBVV95cUxNSm5uQi1EU3hQZW9HT2trZ2NrdjdDRURNSDl4QXJ3N21BVWYzMVV1OHBuQTVROEFXQVpBS1pYWlFHblh0NjVfck5aVTJtVXl4UnJacjJVMWd5dG5yOF9SeDF6RlhYUnBCc1N0YXFJVVk3MlpiZnZFdG9sRlRMN2VTVm1UVzZQNGM1NmpqNy11dHZVbEhudnFaaTc1Z0JkWV95Q3Zmcmg1dmdQam1zNGxZeEI2RHRrckZiVjZMUzdobkc5M1hFNTJSajg5WGxyV015NWtMX1Y0NmxLbmhhSGFpQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 9,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "canon",
+        "count": 1
+      },
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      },
+      {
+        "id": "auo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "oled_penetration",
+        "count": 4
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 135,
+    "too_old": 171,
+    "gate1_blocked": 38,
+    "gate2_blocked": 20,
+    "passed": 16,
+    "pass_rate": "6.5%",
+    "gate2_block_rate": "8.2%",
+    "gate2_samples": [
+      "O'Mara, legislative colleagues help celebrate Corning Incorporated's 175th Anniversary - The New Yor",
+      "Corning Incorporated celebrates its 175th anniversary - WENY News",
+      "Corning Incorporated celebrates its 175th anniversary - WENY News",
+      "Canon Inc. 2Q Rev Y1.181T Vs. Y1.140T >7751.TO - Moomoo",
+      "Himax Technologies (HIMX) Pulls Back Following A Strong Run, Is The Stock Cheap? - Yahoo! Finance Ca"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為三星電子、佳能、Himax Technologies相關動態：「UMT posts record revenue in 1H26 on growing LEO satellite...」。主要關注主題為法說會、OLED 滲透率、Mini LED，市場情緒中性。",
+    "signals": [
+      {
+        "text": "UMT posts record revenue in 1H26 on growing LEO satellite demand（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "[Notable Stock] Canon shares dropped sharply despite reporting earnings above...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

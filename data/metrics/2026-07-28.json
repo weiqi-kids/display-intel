@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-28",
+  "total_events": 13,
+  "by_company": {
+    "canon": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "himax": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "lg_elec": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "auo": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.06
+    },
+    "automotive_display": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "oled_penetration": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "panel_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mini_led": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
