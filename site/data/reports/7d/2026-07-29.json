@@ -1,0 +1,162 @@
+{
+  "date": "2026-07-29",
+  "date_range": {
+    "start": "2026-07-23",
+    "end": "2026-07-29"
+  },
+  "generated_at": "2026-07-29T10:37:31.962709Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lg_elec-2026-07-23-002",
+      "date": "2026-07-23",
+      "title": "LG Display reports its financial results for Q2 2026, with a return to profitability thanks to strong OLED earnings - OLED-Info",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "oled_penetration": {
+      "this_week": 20,
+      "last_week": 13,
+      "week_over_week_change": "+54%",
+      "sentiment_this_week": 0.06
+    },
+    "earnings": {
+      "this_week": 23,
+      "last_week": 10,
+      "week_over_week_change": "+130%",
+      "sentiment_this_week": 0.02
+    },
+    "mini_led": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.25
+    },
+    "panel_price": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "automotive_display": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "samsung_elec": {
+      "event_count": 14,
+      "sentiment_avg": 0.14,
+      "rank": 2
+    },
+    "lg_elec": {
+      "event_count": 17,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "lg_display": {
+      "event_count": 12,
+      "sentiment_avg": 0.02,
+      "rank": 3
+    },
+    "sony": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "himax": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 5
+    },
+    "canon": {
+      "event_count": 5,
+      "sentiment_avg": 0.05,
+      "rank": 4
+    },
+    "tcl": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "auo": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "corning": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 124,
+        "last": 100,
+        "change_pct": 24.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-23",
+      "event_count": 31,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-24",
+      "event_count": 16,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 15,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 19,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 30,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 7,
+      "sentiment_avg": 0.12
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-23 ~ 2026-07-29）共 124 則事件，重點為「LG Display reports its financial results for Q2...」。AU Optronics表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "三星電子",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "LG電子",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "LGD",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

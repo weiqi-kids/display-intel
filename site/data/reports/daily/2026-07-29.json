@@ -1,0 +1,202 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T10:37:31.832629Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-07-29-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LPL|LG Display Co Ltd|Price:2.935|Chg%:-0.205 - TradingKey",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LZHVLRUd5Ul9vZ2E1Z01qZTBYakJSVzd5NFpKZWhwdzI1M3lJOVZrbXpOekRyZ2lFNXVZLVJVdUY4RVc1Y2xYQTQ5QXotNXdsb093TmtMSkdQeldkRFl2aVRYQWt5VmVHWUplTw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-07-29-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Corning tumbles after conservative Q3 outlook - marketscreener.com",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdmVUTVJyb0JyWUJ6WGxCTlQ5cFhEUTNDX3hWcDdKUHl1c1RYaDRYMW5lRzRvS1RFUkFxU3Y0QnBKVmxySVF5bDFsaVJIQmFQd1hQMmdFaU5aZWZFUUlHWUVlcy1MS2pDRUVNZENDZW9xRk51dEx5M3lzRmQ5VGpRT3RIUXRSQ2NYdzNQVTY1Q2h3S0lreDBjUGh5eXh2M3c2MkNIRW1RYVQ3bTYyQ0t1YWh5QnlTWmo4NkRqeU94WUVleWEweHcyYnhR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Coretronic reports first-half loss as margins weaken and demand stays uneven",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.67
+      },
+      "source_url": "https://www.digitimes.com/news/a20260729PD202/coretronic-loss-revenue-demand-2026.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Faraday lifts revenue on ASIC and MCU demand as AI delays push projects back",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260728PD256/revenue-faraday-technology-asic-mcu-demand.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-29-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Analysis: What Seagate's blowout quarter signals about the next two years of AI infrastructure demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260729VL220/seagate-demand-infrastructure-revenue-supply-chain.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      },
+      {
+        "id": "auo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 108,
+    "too_old": 160,
+    "gate1_blocked": 42,
+    "gate2_blocked": 21,
+    "passed": 29,
+    "pass_rate": "11.5%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "Corning Incorporated Stock 12‑Month Price Target Cut to $199.46, Implies 58% Upside - TradingView",
+      "O'Mara, legislative colleagues help celebrate Corning Incorporated's 175th Anniversary - The New Yor",
+      "Corning Incorporated's Stock Price Plummets to $126.01, Marking a Significant 12.10% Decline - Smart",
+      "Corning Incorporated Stock 12‑Month Price Target Cut to $203.31, Implies 61% Upside - TradingView",
+      "Canon Becomes the First Manufacturer to Register Imaging Equipment to EPEAT 2.0 Criteria - GlobeNews"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為康寧、LGD、LG電子相關動態：「LPL|LG Display Co Ltd|Price:2.935|Chg%:-0.205 - TradingKey」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LPL|LG Display Co Ltd|Price:2.935|Chg%:-0.205 - TradingKey",
+        "level": "red"
+      },
+      {
+        "text": "Corning tumbles after conservative Q3 outlook - marketscreener.com（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
