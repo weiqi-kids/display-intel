@@ -1,0 +1,287 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T10:23:50.119562Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "auo-2026-07-30-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "AU Optronics (2409) Earnings: 1H Net Income of NT$199.6M Amid Operating Loss - Smartkarma",
+      "companies": [
+        "auo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSkV2RDU4XzRKWWRoTTN3dE1GVTNzX1NvUEd4Yzk0OU5TOGFWLURpOXpvUkFCMTJYZFJqUjRvc3JJLXp4SGxEQjZOLVNSVWdtT2FRRWp0cElkR0lMUUN5Z1lLMEl6akpUX0wxS183dUtGUnBIdGRfMFUtRC0tN0diMWU3V000cmJDRkptcDlweEZfYVZPR1RDNFlZbGsweGxNVkJmdjRjZ1FybzJWVDhpZWJ1SkktQjZLNzk5cEtVdF95WFczSUd6cHZR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_display-2026-07-30-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display to introduce lower-cost high-performance 2-stack WOLED panels, aiming to expand its monitor market share - OLED-Info",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQekd6a28xdmlER25uaWt1T2tjWW9PR1lwWTFLYU5nQjd3Zm13VVZIMGIwQmdTd0NVRnN6dGFITUxmWUFPZzFNQzNCR0VhaHJOOWVROHF6QUkzTS1PekJ3V0JqQ0tRV1laWF91SWM4WUdkdm1ZU3gteG1Ca0VVb1NZbDlLUWRYSjFEQkVHamZaNFU3cm90ZGZWZ3VFRkZfcnZpZVpFZA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_display-2026-07-30-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display to Invest 3 Trillion Won in Next-Generation OLED Technologies - thelec.net",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yR18wTkdUTDBjMHM4NHRzaVdYSk5FYVVXS3Jad0luQzZwN2E2cHhubzZUdGxQaUJBaGR1a1VCd05LR2ctUG5vNTZHNGE1dkQ4OXFtQlJCLXdJOGJKQmFKWnl2Vks0Znc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_display-2026-07-30-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display (NYSE:LPL) Hits New 12-Month Low - What's Next? - MarketBeat",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYTZLWFJvbDRvc1dLcm1ycmE4c01kcnVXc2tESTRQVzhFYlBCQjEtWmRYc2VJYkVkcjdqOEhRbUFHbDVURFZwandjNV9OQXU0WnNDalNacmYyU0dyYjZEYnQ5Z3MzaHZ6bTdYNXJDS3QtQ0ZTLXZKbEY1d1RVNVlSSS1PM0hidUV5eUdIQVRWcl9Pb0RueXNaNVpTMkxxY3d1Q3g2QXBWdHA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_display-2026-07-30-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Invests 3 Trillion Won in Next-Gen OLED - 조선일보",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWkhKMDZiWUxZRFdGajdYRWJ4cDgyNVM4WWhSdEdUNUNfWF9KUTNMR3N5NUphd0E3X25tRDNSV3VhMnozVktka3gzd0c3M2Fjdl85TU1CNVpCejZ4dmw2RGJMRVVXX3JVWnpFeGgtVXRWN190TDJHc2ZMaE5wVjg4SklVRDd2OVBj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 8,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lg_display",
+        "count": 8
+      },
+      {
+        "id": "lg_elec",
+        "count": 8
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "auo",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 118,
+    "too_old": 163,
+    "gate1_blocked": 25,
+    "gate2_blocked": 20,
+    "passed": 34,
+    "pass_rate": "14.0%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "Corning Delivers Strong FCF Results, But Investors Play GLW Stock's Drop With an Unusual Short-Put P",
+      "O'Mara, legislative colleagues help celebrate Corning Incorporated's 175th Anniversary - The New Yor",
+      "Corning's Long-Term Growth Visibility Underappreciated, UBS Says - marketscreener.com",
+      "Corning Incorporated (NYSE: GLW) Q2 2026 sales jump 17% to $4.51B - stocktitan.net",
+      "Corning Incorporated Stock 12‑Month Price Target Cut to $216.85, Implies 51% Upside - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為LGD、LG電子、三星電子相關動態：「AU Optronics (2409) Earnings: 1H Net Income of NT$199.6M ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AU Optronics (2409) Earnings: 1H Net Income of NT$199.6M Amid Operating Loss ...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display to introduce lower-cost high-performance 2-stack WOLED panels, aim...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

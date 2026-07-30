@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 118,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 25,
+  "gate2_fail": 20,
+  "passed": 34,
+  "gate2_samples": [
+    "Corning Delivers Strong FCF Results, But Investors Play GLW Stock's Drop With an Unusual Short-Put P",
+    "O'Mara, legislative colleagues help celebrate Corning Incorporated's 175th Anniversary - The New Yor",
+    "Corning's Long-Term Growth Visibility Underappreciated, UBS Says - marketscreener.com",
+    "Corning Incorporated (NYSE: GLW) Q2 2026 sales jump 17% to $4.51B - stocktitan.net",
+    "Corning Incorporated Stock 12‑Month Price Target Cut to $216.85, Implies 51% Upside - TradingView"
+  ]
+}
