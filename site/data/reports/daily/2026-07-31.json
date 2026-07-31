@@ -1,0 +1,230 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T10:37:22.226299Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_elec-2026-07-31-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Samsung Display posted solid quarterly results, as high-end smartphone OLED panels shipments rise",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.oled-info.com/samsung-display-posted-solid-quarterly-results-high-end-smartphone-oled-panels"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-31-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Universal Display reports its financial results for Q2 2026, with a decline in revenue in profit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.oled-info.com/universal-display-reports-its-financial-results-q2-2026-decline-revenue-profit"
+    },
+    {
+      "rank": 3,
+      "event_id": "tcl-2026-07-31-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Samsung, LG and TCL fuel display technology race in Vietnam's premium TV market - VnExpress International",
+      "companies": [
+        "tcl",
+        "lg_elec",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM1d3bWEzZ3BhQ0M4Z21FbFhjTEJPQXJPZ3pNa3kxT0p3bk9Hdk1RaEtqTFBDdDVFOTlFT3NQM2JtbFhiMHpNUUZKY0VZVVVTVkhvTXdmWnFLZ1JKcXpXbnhDTkl2OUVhYUxaZTBzelg4UEh3dUhCWUc1aHJpbDN6STEwMldxd19DSFFfMmJwLUpDS2EydlF4bEtzTi1CODRna0RjTHo5QTZBZjd6a1JqMVd4d0ppdVlubThYZ0x5aUpXZzJMbGhkRFl1cnFNU193b0FIYXBEQ01HYnli?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "novatek-2026-07-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Novatek Microelectronics Awards NT$1.54 Billion Construction Contract - marketscreener.com",
+      "companies": [
+        "novatek"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa1J2N042aGswcU9xSzFhQUJqM1JMRnNSZE9QTWdhVURjdmwzV1lWR0NUc1I3TDZYNTNxclNtQm1lRTRVeEEwMDZ4RklnRWwzMlpzX29rNlZaME1aTmliUmI5M3A4Rl9EX1VDMllpUWo3cVppRHpCelM0dUxzUGpIV3NzMk5Lb0ZEQzBNdHdfNEMxTm5US25saURNc081QklabGRBc2JWbGprTHhJanNxd21pdVpsUDA0akNkZTBVbw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_elec-2026-07-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG's 1000Hz UltraGear 25G590B gaming monitor is now available to order at $999.99 - Notebookcheck",
+      "companies": [
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMVdQSzZocnlZRnJRY3p4bEgxTWNaNk5xbW9DTGt5VFVuSjdqTU9INXBGenQzWlBTdmRCalJMcnFEbHBNUHdrcWFxcjhGaW1SM3ZwSnpBUkJHeFZ1XzJmV2xUWnZLUmQ5M2g0Z0NSUExhYmVFV1NVTUtOUmxrRnZpLVNaVEphSko2VzJpWUhVa3gyMjlrUVRmRFBmMkRJSkZJZlNxa0lWcFc1OEtPejdQMVpxN2haU3JLckxPOXgzSjcxcEU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tcl",
+        "count": 3
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "novatek",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 139,
+    "too_old": 160,
+    "gate1_blocked": 22,
+    "gate2_blocked": 20,
+    "passed": 19,
+    "pass_rate": "8.6%",
+    "gate2_block_rate": "9.0%",
+    "gate2_samples": [
+      "Corning Incorporated Stock 12‑Month Price Target Cut to $199.46, Implies 58% Upside - TradingView",
+      "Corning Incorporated (NYSE: GLW) Q2 2026 sales jump 17% to $4.51B - Stock Titan",
+      "Corning Incorporated's Stock Price Plummets to $126.01, Marking a Significant 12.10% Decline - Smart",
+      "Corning Incorporated Stock 12‑Month Price Target Cut to $216.85, Implies 51% Upside - TradingView",
+      "Canon Becomes the First Manufacturer to Register Imaging Equipment to EPEAT 2.0 Criteria - Yahoo Fin"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為TCL Technology、LG電子、三星電子相關動態：「Samsung Display posted solid quarterly results, as high-e...」。主要關注主題為OLED 滲透率、法說會、Mini LED，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Samsung Display posted solid quarterly results, as high-end smartphone OLED p...（OLED 滲透率、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Universal Display reports its financial results for Q2 2026, with a decline i...（OLED 滲透率、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

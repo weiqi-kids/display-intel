@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 22,
+  "gate2_fail": 20,
+  "passed": 19,
+  "gate2_samples": [
+    "Corning Incorporated Stock 12‑Month Price Target Cut to $199.46, Implies 58% Upside - TradingView",
+    "Corning Incorporated (NYSE: GLW) Q2 2026 sales jump 17% to $4.51B - Stock Titan",
+    "Corning Incorporated's Stock Price Plummets to $126.01, Marking a Significant 12.10% Decline - Smart",
+    "Corning Incorporated Stock 12‑Month Price Target Cut to $216.85, Implies 51% Upside - TradingView",
+    "Canon Becomes the First Manufacturer to Register Imaging Equipment to EPEAT 2.0 Criteria - Yahoo Fin"
+  ]
+}

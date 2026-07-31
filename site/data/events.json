@@ -1,5 +1,141 @@
 [
   {
+    "id": "novatek-2026-07-31-001",
+    "date": "2026-07-31",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Novatek Microelectronics Awards NT$1.54 Billion Construction Contract - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPa1J2N042aGswcU9xSzFhQUJqM1JMRnNSZE9QTWdhVURjdmwzV1lWR0NUc1I3TDZYNTNxclNtQm1lRTRVeEEwMDZ4RklnRWwzMlpzX29rNlZaME1aTmliUmI5M3A4Rl9EX1VDMllpUW",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa1J2N042aGswcU9xSzFhQUJqM1JMRnNSZE9QTWdhVURjdmwzV1lWR0NUc1I3TDZYNTNxclNtQm1lRTRVeEEwMDZ4RklnRWwzMlpzX29rNlZaME1aTmliUmI5M3A4Rl9EX1VDMllpUWo3cVppRHpCelM0dUxzUGpIV3NzMk5Lb0ZEQzBNdHdfNEMxTm5US25saURNc081QklabGRBc2JWbGprTHhJanNxd21pdVpsUDA0akNkZTBVbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-31-002",
+    "date": "2026-07-31",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG's 1000Hz UltraGear 25G590B gaming monitor is now available to order at $999.99 - Notebookcheck",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMVdQSzZocnlZRnJRY3p4bEgxTWNaNk5xbW9DTGt5VFVuSjdqTU9INXBGenQzWlBTdmRCalJMcnFEbHBNUHdrcWFxcjhGaW1SM3ZwSnpBUkJHeFZ1XzJmV2xUWnZLUmQ5M2g0Z0NSUE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMVdQSzZocnlZRnJRY3p4bEgxTWNaNk5xbW9DTGt5VFVuSjdqTU9INXBGenQzWlBTdmRCalJMcnFEbHBNUHdrcWFxcjhGaW1SM3ZwSnpBUkJHeFZ1XzJmV2xUWnZLUmQ5M2g0Z0NSUExhYmVFV1NVTUtOUmxrRnZpLVNaVEphSko2VzJpWUhVa3gyMjlrUVRmRFBmMkRJSkZJZlNxa0lWcFc1OEtPejdQMVpxN2haU3JLckxPOXgzSjcxcEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-31-003",
+    "date": "2026-07-31",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Samsung Display posted solid quarterly results, as high-end smartphone OLED panels shipments rise",
+    "summary": "<p>Samsung Electronics announced its financial results for Q2 2026, with $120 billion USD in revenues - a company's record - up 28% from the previous quarter, and an operating profit of $62.5 billion,",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-posted-solid-quarterly-results-high-end-smartphone-oled-panels",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-004",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Universal Display reports its financial results for Q2 2026, with a decline in revenue in profit",
+    "summary": "<p><a href=\"https://www.oled-info.com/universal_display_udc\">Universal Display Corporation</a> reported its financial results for the second quarter of 2026, with $152 million in revenues (down from $",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/universal-display-reports-its-financial-results-q2-2026-decline-revenue-profit",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-07-31-005",
+    "date": "2026-07-31",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL launches four Mini LED gaming monitors in Australia, led by flagship 32R84 4K QD-Mini LED display - Digital Reviews Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzg2T3I0R3VXYUEwV3VucXh5ckF3Uk0ydC0wc0RGNi1QXzRzc19QWmdzWUF3NkItaXNFdzkxM21DRDZxd0dNbW9RbVQ0M3A0Ym5LUWNzWW9xZk1WOGJTQmZjVFJQODk0cnhJOC1ueF",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzg2T3I0R3VXYUEwV3VucXh5ckF3Uk0ydC0wc0RGNi1QXzRzc19QWmdzWUF3NkItaXNFdzkxM21DRDZxd0dNbW9RbVQ0M3A0Ym5LUWNzWW9xZk1WOGJTQmZjVFJQODk0cnhJOC1ueFZhSlkwaEpLQnVYNFExNkFZbXV0RlNxT2JNbC1nUFhQYjV3NUZQRXB6VzQtNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-07-31-006",
+    "date": "2026-07-31",
+    "companies": [
+      "tcl",
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung, LG and TCL fuel display technology race in Vietnam's premium TV market - VnExpress International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM1d3bWEzZ3BhQ0M4Z21FbFhjTEJPQXJPZ3pNa3kxT0p3bk9Hdk1RaEtqTFBDdDVFOTlFT3NQM2JtbFhiMHpNUUZKY0VZVVVTVkhvTXdmWnFLZ1JKcXpXbnhDTkl2OUVhYUxaZTBzel",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM1d3bWEzZ3BhQ0M4Z21FbFhjTEJPQXJPZ3pNa3kxT0p3bk9Hdk1RaEtqTFBDdDVFOTlFT3NQM2JtbFhiMHpNUUZKY0VZVVVTVkhvTXdmWnFLZ1JKcXpXbnhDTkl2OUVhYUxaZTBzelg4UEh3dUhCWUc1aHJpbDN6STEwMldxd19DSFFfMmJwLUpDS2EydlF4bEtzTi1CODRna0RjTHo5QTZBZjd6a1JqMVd4d0ppdVlubThYZ0x5aUpXZzJMbGhkRFl1cnFNU193b0FIYXBEQ01HYnli?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-07-31-007",
+    "date": "2026-07-31",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Announces AU Availability Of The 32R84 Flagship QD-Mini LED Gaming Monitor - MKAU Gaming",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmNyeUk1S3VHVkNZZWNCSXhmSjU0NHNuel8tSHc0SVFaVXZWSF9PT01MRTl5UW1HMWdqakd3STBva3RsVnhNVXFaUXVJcXI4d3BTMWxvNjNxd2dTeG9sMEwtblktR2FqVmFyb05Ybz",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmNyeUk1S3VHVkNZZWNCSXhmSjU0NHNuel8tSHc0SVFaVXZWSF9PT01MRTl5UW1HMWdqakd3STBva3RsVnhNVXFaUXVJcXI4d3BTMWxvNjNxd2dTeG9sMEwtblktR2FqVmFyb05YbzBja1ZZZ2VVTU85TUVHbmFxR0JhY3kxVlQ5bHVGUHo1RnUzQzUzaDFuZkx0Q0FMZEE5RHhwYWlmZFcxdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "auo-2026-07-30-001",
     "date": "2026-07-30",
     "companies": [
@@ -275,6 +411,203 @@
       {
         "name": "eetimes",
         "url": "https://www.eetimes.com/iot-tech-expo-europe-returns-to-amsterdam-as-industrial-ai-and-edge-intelligence-reshape-connected-industry/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-30-015",
+    "date": "2026-07-30",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning rises 6%, rebounding after post-earnings selloff (GLW:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPVEY2NmZ5N3ZxWmRNeXo4NUlvZVdHR0JnSlB0Vk5oUEtuUGxMUnFiSXNNSUVFUG1xNVhXNTh6dXg5cDFvOGhrVzk5c3BiUnJKWDJLZWw0V0VydlY5RC0zalJkU3owbl9qeTk4SUkzeW",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVEY2NmZ5N3ZxWmRNeXo4NUlvZVdHR0JnSlB0Vk5oUEtuUGxMUnFiSXNNSUVFUG1xNVhXNTh6dXg5cDFvOGhrVzk5c3BiUnJKWDJLZWw0V0VydlY5RC0zalJkU3owbl9qeTk4SUkzeWdiQUl1VDc2WElFQ2ZyckZONXJ0NWlJWTkwVUhjc1o3eThleDVod2Q0Vl9HaFZmN2J4Rnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-30-016",
+    "date": "2026-07-30",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Canon Inc. Shs Sponsored Canadian Depository Receipt Hedged Reg S Revenue Breakdown – NEO:CANO - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBENFZXdU14UVBGTklFV3g1Vkp5a1A1dnZQdVdXdFgzSWxkYnEyZ0EtWk1tV2tCZ2tjN0podG9yUl9CMjY3MG9NY041akM0WTFZQVpOS2FnWWRQaGlNT2ZQM2FTRGMzM2oydXVDSzRuaD",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBENFZXdU14UVBGTklFV3g1Vkp5a1A1dnZQdVdXdFgzSWxkYnEyZ0EtWk1tV2tCZ2tjN0podG9yUl9CMjY3MG9NY041akM0WTFZQVpOS2FnWWRQaGlNT2ZQM2FTRGMzM2oydXVDSzRuaDNWRjA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-07-30-017",
+    "date": "2026-07-30",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) to Release Quarterly Earnings on Thursday - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDFaWFM3Q2w5RmVpczJ1cmNUTzJ5QWo4WEhVU0UwempQRGtBMU5zeDVUcEg1TTdYOUlNbGdkTzFRTk5DYTdQSFN0WmdmS0IyN2lXWkgyYkhJWURxYUhtT2ZJT3JGeTZZVkFWWjZQRV",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDFaWFM3Q2w5RmVpczJ1cmNUTzJ5QWo4WEhVU0UwempQRGtBMU5zeDVUcEg1TTdYOUlNbGdkTzFRTk5DYTdQSFN0WmdmS0IyN2lXWkgyYkhJWURxYUhtT2ZJT3JGeTZZVkFWWjZQRVEzQm8zX0V6bXhyamhvNC1FVjM3cGltelZqZHFzNndlbUZFb3BOUnA2ZjZDWF9PSlFyNHFUbDc3N1lqaEJDZ3VVOURvdnJvVkZFZ2Nn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-07-30-018",
+    "date": "2026-07-30",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "mini_led",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "【AU Optronics FY2026 Q2 Earnings Call】Ends Three-Quarter Losing Streak! Operating Profit Reaches NT$200 Million, Non-Operating Disposal Gains Boost EPS to NT$0.18; Chairman Says Micro LED Commercialization Accelerating, Two New Business Seg - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZSDVGVE1nV3A0QUNmaE13Uk5wbUdjOTNXU1pYN3Bhd1k3dTY0R2RVbDRVS2NVMkd4bXpPSjFfLWpfZnF6NmNGUmo1b2NGNjdsT0FPeEh4ZWRwZ0hFR3BnV1NR?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZSDVGVE1nV3A0QUNmaE13Uk5wbUdjOTNXU1pYN3Bhd1k3dTY0R2RVbDRVS2NVMkd4bXpPSjFfLWpfZnF6NmNGUmo1b2NGNjdsT0FPeEh4ZWRwZ0hFR3BnV1NR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-07-30-019",
+    "date": "2026-07-30",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BlackRock (NYSE: BLK) discloses 5.8% beneficial stake in LG Display (LPL) - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDdWNnFWSVU3Z18tTkhlQ1FWVHZqR2p5SWgtSW43bkJ3dU1JRUhqTHlnMnZkQi0yMGlWTGxmcjZLMGVQdDlwTXMyaHc3b1RyNkJnbGF0VW4xZjlaT2ZNMjh0MFBqb05RRzlLanN6Rl",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDdWNnFWSVU3Z18tTkhlQ1FWVHZqR2p5SWgtSW43bkJ3dU1JRUhqTHlnMnZkQi0yMGlWTGxmcjZLMGVQdDlwTXMyaHc3b1RyNkJnbGF0VW4xZjlaT2ZNMjh0MFBqb05RRzlLanN6RlQtWDc2eHkzVk1wTnAyekhDU2FBWVBEWWJYNjNCeGNWbm9OT3lXNUU0aEJNdWRSVzFkMExZcXRWUVc2S1JDNXlxWUh3X0tyUmdibHlleDF2UlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-07-30-020",
+    "date": "2026-07-30",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display (NYSE:LPL) Hits New 12-Month Low - What's Next? - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYTZLWFJvbDRvc1dLcm1ycmE4c01kcnVXc2tESTRQVzhFYlBCQjEtWmRYc2VJYkVkcjdqOEhRbUFHbDVURFZwandjNV9OQXU0WnNDalNacmYyU0dyYjZEYnQ5Z3MzaHZ6bTdYNXJDS3",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYTZLWFJvbDRvc1dLcm1ycmE4c01kcnVXc2tESTRQVzhFYlBCQjEtWmRYc2VJYkVkcjdqOEhRbUFHbDVURFZwandjNV9OQXU0WnNDalNacmYyU0dyYjZEYnQ5Z3MzaHZ6bTdYNXJDS3QtQ0ZTLXZKbEY1d1RVNVlSSS1PM0hidUV5eUdIQVRWcl9Pb0RueXNaNVpTMkxxY3d1Q3g2QXBWdHA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-30-021",
+    "date": "2026-07-30",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Locks In MacBook Ultra OLED Contract as August Ramp Approaches - Tech Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlFBT0drWDhSbTkyMHp5U0drek9vVGZfdUF5SEh1VjV2UDY4Z2JmeWRjaHVOOU50S1NPRmdHUjNWR0dZTEtlUzQ5anZyOFBpTmQzek1hMjlpTkN1YTRsUlNOMjZ6d2F2dkJYUkdFTm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlFBT0drWDhSbTkyMHp5U0drek9vVGZfdUF5SEh1VjV2UDY4Z2JmeWRjaHVOOU50S1NPRmdHUjNWR0dZTEtlUzQ5anZyOFBpTmQzek1hMjlpTkN1YTRsUlNOMjZ6d2F2dkJYUkdFTmRKZ0Y4d25WOWFEVkN1QlhGUkdQdlRkckxLVGVvbFF2eGxrTDVLaHFHajRGejc4S29RZUo1Y3dWb0stT3l0eE9xWjYyQm1RakhlT204?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-07-30-022",
+    "date": "2026-07-30",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL brings Premium QD-Mini LED Display Fleet to Australian gamers - EFTM",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ09YM0hndUpEeGQwdlVzR3ZXeldxazFPczJGVEhjS0ZYNHZEckJLQ1B3OWpGekUxa1NlYXEydElNZzcxWEVicGd4b25XRk9tWnptTHlUdlFncTB3OE5LRk5xQm42TldZOHdqUWwtZD",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ09YM0hndUpEeGQwdlVzR3ZXeldxazFPczJGVEhjS0ZYNHZEckJLQ1B3OWpGekUxa1NlYXEydElNZzcxWEVicGd4b25XRk9tWnptTHlUdlFncTB3OE5LRk5xQm42TldZOHdqUWwtZDFzMEdLeUgwUXNrZFdCczNRaWZqdFlIcTcxTjRJU3I5Y21naGNGaWFCeWY0eC1Fc2dEWWdr0gGjAUFVX3lxTE9DT1gzSGd1SkR4ZDB2VXNHdld6V3FrMU9zMkZUSGNLRlg0dkRyQktDUHc5akZ6RTFrU2VhcTJ0SU1nNzFYRWJwZ3hvbldGT21aem1MeVR2UWdxMHc4TktGTnFCbjZOV1k4d2pRbC1kMXMwR0t5SDBRc2tkV0JzM1FpZmp0WUhxNzFONElTcjljbWdoY0ZpYUJ5ZjR4LUVzZ0RZZ2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-07-30-023",
+    "date": "2026-07-30",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Brings QD-Mini LED Gaming Monitor Range To Australia, Led By The 32R84 - SMBtech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPb3J5dEhORU93NnFBVFdqbS03VUJMZFZscXltakVrT280WmJNVzV2UFMzVHBDd0VyV0JxeXd1LXF0QlMtUFNFZ1h6MjlZUEt1LTA0RVVCcHpkVHhYWGdraDVWNE00TE5fY2Uzc292NU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb3J5dEhORU93NnFBVFdqbS03VUJMZFZscXltakVrT280WmJNVzV2UFMzVHBDd0VyV0JxeXd1LXF0QlMtUFNFZ1h6MjlZUEt1LTA0RVVCcHpkVHhYWGdraDVWNE00TE5fY2Uzc292NUlOYllaN1FEQy1OSjcwa3hiYnNMMmJuZEVEYjR2bE45cldhN1VDcmFGR1Zad0V1ZTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-024",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Nidec Positions Precision Reducers for Cobots, Humanoids, and Automation",
+    "summary": "\n\t\t\t\t\t\t<p>Discover Nidec's gear reducer solutions offering precise gear alignment, and low backlash for smooth, reliable operation under load.</p>\n<p>The post <a href=\"https://www.eetimes.com/nidec-po",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/nidec-positions-precision-reducers-for-cobots-humanoids-and-automation/",
         "type": "rss"
       }
     ]
@@ -1335,6 +1668,24 @@
     ]
   },
   {
+    "id": "unknown-2026-07-28-039",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "The Best 4K Gaming Monitors: OLED Leads, LCD Fights Back - techspot.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JUWNiV2d6ZnNrZW12OXlBVktYUk5xcWxFNDhQRkZXbGZjZTBEc1JmTTA3VnM1TldvMTNIczU4MzlmMURLSG4xTXhKOWlWUkhIR3QzMEQzUG9DelV4aHE4ZHZJbV8?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JUWNiV2d6ZnNrZW12OXlBVktYUk5xcWxFNDhQRkZXbGZjZTBEc1JmTTA3VnM1TldvMTNIczU4MzlmMURLSG4xTXhKOWlWUkhIR3QzMEQzUG9DelV4aHE4ZHZJbV8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-07-27-001",
     "date": "2026-07-27",
     "companies": [
@@ -2145,6 +2496,26 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260724PD207/galaxy-qualcomm-snapdragon-samsung-smart-glasses.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-25-016",
+    "date": "2026-07-25",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning Incorporated Revenue Breakdown – NYSE:GLW - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBvYzVhZlNPVkg3Sk9iZi1hSXBpZEIyT1hQTTIwak8zYTFHcE9qLURSM3djblVBMmg4UDI1Szlld0lITFhzMnBqZ2JMS3FGdEJsemlLb2NKNDl3RlNwejdqX0NCYjlIWkgzVzFWN2IyM3",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvYzVhZlNPVkg3Sk9iZi1hSXBpZEIyT1hQTTIwak8zYTFHcE9qLURSM3djblVBMmg4UDI1Szlld0lITFhzMnBqZ2JMS3FGdEJsemlLb2NKNDl3RlNwejdqX0NCYjlIWkgzVzFWN2IyM3pObFk?oc=5",
         "type": "rss"
       }
     ]
