@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T10:37:21.663052+00:00",
+  "updated_at": "2026-08-01T09:57:11.375209+00:00",
   "companies": {
     "corning": {
       "name": "Corning Incorporated",
@@ -9,62 +9,62 @@
         {
           "holder": "Blackrock Inc.",
           "shares": 66710492,
-          "pct_held": 7.75,
-          "value": 9020592809
+          "pct_held": 7.74,
+          "value": 9222725519
         },
         {
           "holder": "Vanguard Capital Management LLC",
           "shares": 50456014,
           "pct_held": 5.86,
-          "value": 6822662274
+          "value": 6975543935
         },
         {
           "holder": "State Street Corporation",
           "shares": 36263357,
           "pct_held": 4.21,
-          "value": 4903531177
+          "value": 5013409105
         },
         {
           "holder": "Vanguard Portfolio Management LLC",
           "shares": 28271740,
           "pct_held": 3.28,
-          "value": 3822904717
+          "value": 3908568055
         },
         {
           "holder": "FMR, LLC",
           "shares": 24909423,
           "pct_held": 2.89,
-          "value": 3368252208
+          "value": 3443727729
         },
         {
           "holder": "Capital Research Global Investors",
           "shares": 21847495,
           "pct_held": 2.54,
-          "value": 2954218300
+          "value": 3020416183
         },
         {
           "holder": "Geode Capital Management, LLC",
           "shares": 20964679,
-          "pct_held": 2.44,
-          "value": 2834843919
+          "pct_held": 2.43,
+          "value": 2898366871
         },
         {
           "holder": "Morgan Stanley",
           "shares": 15666934,
           "pct_held": 1.82,
-          "value": 2118482834
+          "value": 2165953625
         },
         {
           "holder": "Bank of America Corporation",
           "shares": 14499109,
           "pct_held": 1.68,
-          "value": 1960569536
+          "value": 2004501819
         },
         {
           "holder": "State Farm Mutual Automobile Insurance Co",
           "shares": 13423216,
           "pct_held": 1.56,
-          "value": 1815087283
+          "value": 1855759612
         }
       ]
     },
@@ -77,61 +77,61 @@
           "holder": "Blackrock Inc.",
           "shares": 78974833,
           "pct_held": 9.95,
-          "value": 39627201086
+          "value": 40093154529
         },
         {
           "holder": "Vanguard Capital Management LLC",
           "shares": 51577799,
           "pct_held": 6.5,
-          "value": 25880191637
+          "value": 26184501910
         },
         {
           "holder": "State Street Corporation",
           "shares": 37506950,
           "pct_held": 4.72,
-          "value": 18819861889
+          "value": 19041153810
         },
         {
           "holder": "Capital Research Global Investors",
           "shares": 29455424,
           "pct_held": 3.71,
-          "value": 14779847776
+          "value": 14953635497
         },
         {
           "holder": "Invesco Ltd.",
           "shares": 26365590,
           "pct_held": 3.32,
-          "value": 13229461804
+          "value": 13385019429
         },
         {
           "holder": "Geode Capital Management, LLC",
           "shares": 21921798,
           "pct_held": 2.76,
-          "value": 10999700341
+          "value": 11129039485
         },
         {
           "holder": "Vanguard Portfolio Management LLC",
           "shares": 17261696,
           "pct_held": 2.17,
-          "value": 8661401012
+          "value": 8763245440
         },
         {
           "holder": "Morgan Stanley",
           "shares": 11843881,
           "pct_held": 1.49,
-          "value": 5942904039
+          "value": 6012783226
         },
         {
           "holder": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
           "shares": 9997208,
           "pct_held": 1.26,
-          "value": 5016298948
+          "value": 5075282719
         },
         {
           "holder": "Ameriprise Financial, Inc.",
           "shares": 8942024,
           "pct_held": 1.13,
-          "value": 4486839284
+          "value": 4539597444
         }
       ]
     },

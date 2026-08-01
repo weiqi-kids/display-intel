@@ -1,5 +1,25 @@
 [
   {
+    "id": "jdi-2026-08-01-001",
+    "date": "2026-08-01",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Japan Display Inc. Revenue Breakdown – TSE:6740 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBWX3E4dnBHbU8xT0JNYVNhRG56QjQtWEFFU0lNbnhGRVpPeGVyVkRnb0VIQ3hYVFJQR2NLWnBmaEN2TUlremlVamlqQWdVTXBoMkNlU1hISzlraUl1T2lmMF9VZ2RpSTdNS2EtZkZ5Rl",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWX3E4dnBHbU8xT0JNYVNhRG56QjQtWEFFU0lNbnhGRVpPeGVyVkRnb0VIQ3hYVFJQR2NLWnBmaEN2TUlremlVamlqQWdVTXBoMkNlU1hISzlraUl1T2lmMF9VZ2RpSTdNS2EtZkZ5RldUWU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "novatek-2026-07-31-001",
     "date": "2026-07-31",
     "companies": [
@@ -131,6 +151,78 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmNyeUk1S3VHVkNZZWNCSXhmSjU0NHNuel8tSHc0SVFaVXZWSF9PT01MRTl5UW1HMWdqakd3STBva3RsVnhNVXFaUXVJcXI4d3BTMWxvNjNxd2dTeG9sMEwtblktR2FqVmFyb05YbzBja1ZZZ2VVTU85TUVHbmFxR0JhY3kxVlQ5bHVGUHo1RnUzQzUzaDFuZkx0Q0FMZEE5RHhwYWlmZFcxdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-31-008",
+    "date": "2026-07-31",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Corning Rides AI Data Center Growth as Optical Demand Accelerates - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFBfQVI2NE9fQWFuX0dCTzZwblRHX1dZTFpTam02cTBOWURXb1Y1VEtIU05xNFRLLTVhR054QU1HNmwwbmppdEx4aXY0Z2NnTmNLX2thaC1sTGZlSFhldnR2T1h6VnNqSG9FUUhnbW",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeFBfQVI2NE9fQWFuX0dCTzZwblRHX1dZTFpTam02cTBOWURXb1Y1VEtIU05xNFRLLTVhR054QU1HNmwwbmppdEx4aXY0Z2NnTmNLX2thaC1sTGZlSFhldnR2T1h6VnNqSG9FUUhnbWhjX2FkX2hYUHBJMEhwRkkwQkp4QkY2Z21jLXd3N3luSFhtNTM0ZHdyS2FMaGFzNTJoOEEzYzZXb3UzM1lubVR0Z2JSS1hKT202UkNEQ0t3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-07-31-009",
+    "date": "2026-07-31",
+    "companies": [
+      "auo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AUO Corp's Dividend Analysis - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxQd3pmOHVfYWtrb2dXWTdfT1VHYWdoQmpZMjhIY1VFZTl3NXgwU0JOTi1NV2ZxYVZ5RENONnlwVTlvZTFVQXFZZHlGbGx6MVFSQ3MxN25BQmI0My1wV2JfV2dxX3BhWUZ2Q1RYU2djYl",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQd3pmOHVfYWtrb2dXWTdfT1VHYWdoQmpZMjhIY1VFZTl3NXgwU0JOTi1NV2ZxYVZ5RENONnlwVTlvZTFVQXFZZHlGbGx6MVFSQ3MxN25BQmI0My1wV2JfV2dxX3BhWUZ2Q1RYU2djYlVPNm0wTUxETkN6aHl1WXFsazRRX0VoekZkMlRYX3F5NDZqakM0aW9kTXhMcTQ3TEhKNDJUZzhvQ2ZCUkEyTG9HVzBEQ2VvTmZiQUhLX1BzZXA3ejRTWXFPM3BMZFBqbzMwTWhNM0E4UFpIdXRjZVJPeHN1WjVNdngwSmUxOUhSdzk2SmZTU0xPSlZqa2kyM1BVSHBNUzJTWFdyNHZjN2p1aWJCdmNDOW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-07-31-010",
+    "date": "2026-07-31",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Discloses Latest Progress on Glass Substrate and Perovskite Businesses - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOMUdtZU9Kb2V2TF90c0x6UFRjWE40QmlNaXhHYjFYSzlfaU1iY0t3Ty1tdVpEZTVNZ25CQW1BSDljVllWRTNRRktSalVKM0lFbWdLMmEzdEZFSFJMdVluUll5dXljeVJaYVI4eUkzNG",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMUdtZU9Kb2V2TF90c0x6UFRjWE40QmlNaXhHYjFYSzlfaU1iY0t3Ty1tdVpEZTVNZ25CQW1BSDljVllWRTNRRktSalVKM0lFbWdLMmEzdEZFSFJMdVluUll5dXljeVJaYVI4eUkzNGN3d0prU0ZOOXFVLXFTak5ZV2U1M3Z1STJiUVZVRFRpRVJCN0pYa1Ixay0zVGRYYThDbC1oblprOXIwN0ZBOXUtd0d3am9ZQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-011",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Horizontal-oriented host materials enabled a deep-blue phosphor-sensitized OLED device with record 42% EQE",
+    "summary": "<p>Researchers from the Changchun Institute of Applied Chemistry (CIAC), working with collaborators from the University of Science and Technology of China and Central China Normal University, develope",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/horizontal-oriented-host-materials-enabled-deep-blue-phosphor-sensitized-oled",
         "type": "rss"
       }
     ]
@@ -1686,6 +1778,26 @@
     ]
   },
   {
+    "id": "canon-2026-07-28-040",
+    "date": "2026-07-28",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "[Notable Stock] Canon shares dropped sharply despite reporting earnings above market expectations, as concerns about its outlook persisted. - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkc3LTd5VDdhLVZnZlQ0eU1ka1FOSEVLMUJtbWltQnFmb3ptc2k0SUdXYTh1SUo3Y0ZOX0xrZ3VVZFdiTzlFZlZhSVJydGdSS0xuYjBLWnkzWWRubDNFbUQwcWdGTmhfcnd2UkFvWG",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkc3LTd5VDdhLVZnZlQ0eU1ka1FOSEVLMUJtbWltQnFmb3ptc2k0SUdXYTh1SUo3Y0ZOX0xrZ3VVZFdiTzlFZlZhSVJydGdSS0xuYjBLWnkzWWRubDNFbUQwcWdGTmhfcnd2UkFvWGMybnRrMlgtZjVBWVRsWHJ5aXVNRVhyWGxTMG01ckMwVHR5b1BucU0wcEFEQjk5TEJnd0l1UUV5MEhpMHdMUzNRMEdqT0FJcFJh?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-07-27-001",
     "date": "2026-07-27",
     "companies": [
@@ -2092,6 +2204,25 @@
       {
         "name": "canon",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHl4TlhGYVRra3R5akdLMWRJaEJ6WHlXSkcxblBpcEl6cE5BblZxQkpNeWxJNmgxWVEwcXdnU0ZKbE1wdzBqSGJVdkNTa3o0S1JReVlKUzNzTjB5R0xNcmFXYlg2emFpQ1R0M2QwMEItdDFSMWpIVVFxd01td3B4OUJDa0hMdWRaMk1nVWhHTFAxMnlaRnVubm1JTlUxS2RZSkxvRjFObWlJejVQY29ZVjQ4Q0dfd1VNcG1ucjljeWhHVkJiMWhtaFo5X3BsQXlm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-07-27-022",
+    "date": "2026-07-27",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Announces Q2 2026 Results - inkworldmagazine.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdlFZZ05FaC1pUzlXZi1Sek55LVhoTWx3elRQNWNXZzZ0N29VNHEtc0kzcUlDTGRoREM0ZllQWVh3eTk1bWRKQ1BPY3dxOGI5c3hLeXlnZXFIeXc2MTNHclBHZFF2WmZGd296WnlNUV",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdlFZZ05FaC1pUzlXZi1Sek55LVhoTWx3elRQNWNXZzZ0N29VNHEtc0kzcUlDTGRoREM0ZllQWVh3eTk1bWRKQ1BPY3dxOGI5c3hLeXlnZXFIeXc2MTNHclBHZFF2WmZGd296WnlNUVp3Qy1KRGZNZXlocW9sQUJjbkE5R0Z5UzRDQ1ZnYQ?oc=5",
         "type": "rss"
       }
     ]

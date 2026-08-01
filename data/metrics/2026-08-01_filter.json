@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 22,
+  "gate2_fail": 19,
+  "passed": 7,
+  "gate2_samples": [
+    "Why Corning Incorporated (GLW) Stock Is Up Today - Quiver Quantitative",
+    "Corning Incorporated's Stock Price Plummets to $126.01, Marking a Significant 12.10% Decline - Smart",
+    "Corning Incorporated Stock 12‑Month Price Target Cut to $216.85, Implies 51% Upside - TradingView",
+    "Corning Incorporated (NYSE: GLW) Q2 2026 sales jump 17% to $4.51B - Stock Titan",
+    "Canon Inc. 2Q Rev Y1.181T Vs. Y1.140T >7751.TO - moomoo.com"
+  ]
+}
