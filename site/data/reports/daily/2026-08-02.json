@@ -1,0 +1,87 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T09:55:25.317977Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Researchers develop full-color night vision goggles using a dual-emitter OLED upconverter device",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/researchers-develop-full-color-night-vision-goggles-using-dual-emitter-oled"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 359,
+    "dup_title": 144,
+    "too_old": 166,
+    "gate1_blocked": 23,
+    "gate2_blocked": 19,
+    "passed": 7,
+    "pass_rate": "3.3%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "Why Corning Incorporated (GLW) Stock Is Up Today - Quiver Quantitative",
+      "Corning Delivers Strong FCF Results, But Investors Play GLW Stock's Drop With an Unusual Short-Put P",
+      "Corning Incorporated's Stock Price Plummets to $126.01, Marking a Significant 12.10% Decline - Smart",
+      "Corning Incorporated Stock 12‑Month Price Target Cut to $216.85, Implies 51% Upside - TradingView",
+      "Canon Inc. 2Q Rev Y1.181T Vs. Y1.140T >7751.TO - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為OLED 滲透率相關動態：「Researchers develop full-color night vision goggles using...」。主要關注主題為OLED 滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Researchers develop full-color night vision goggles using a dual-emitter OLED...（OLED 滲透率）",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

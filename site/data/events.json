@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-08-02-001",
+    "date": "2026-08-02",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Researchers develop full-color night vision goggles using a dual-emitter OLED upconverter device",
+    "summary": "<p>Researchers from the Beijing Institute of Technology (BIT) have developed an infrared-to-visible upconversion device (night goggles) that stacks a mercury telluride (HgTe) colloidal quantum dot pho",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/researchers-develop-full-color-night-vision-goggles-using-dual-emitter-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "jdi-2026-08-01-001",
     "date": "2026-08-01",
     "companies": [
@@ -15,6 +33,26 @@
       {
         "name": "jdi",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWX3E4dnBHbU8xT0JNYVNhRG56QjQtWEFFU0lNbnhGRVpPeGVyVkRnb0VIQ3hYVFJQR2NLWnBmaEN2TUlremlVamlqQWdVTXBoMkNlU1hISzlraUl1T2lmMF9VZ2RpSTdNS2EtZkZ5RldUWU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-01-002",
+    "date": "2026-08-01",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung's Privacy Flex Magic Pixel LEAD 2.0 technology adds 10% to the cost of the OLED panel",
+    "summary": "<p>In 2024, Samsung Display <a href=\"https://www.oled-info.com/samsung-announce-new-flex-magic-pixel-technology-enhanced-oled-privacy\">revealed its Flex Magic Pixel (FMP) privacy technology</a> that a",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/reports-korea-suggests-samsungs-privacy-flex-magic-pixel-technology-adds-10",
         "type": "rss"
       }
     ]
@@ -223,6 +261,46 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/horizontal-oriented-host-materials-enabled-deep-blue-phosphor-sensitized-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-07-31-012",
+    "date": "2026-07-31",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AU Optronics (AUOTY) Q3 2024 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9rWnRSZmFkU19EXzhzU0JDbHRSdm5nb1VDVExZNHYzRmFLc3NXbzlmd2JuVUJ0LXV4ZFY3TmNaMUZaazVmNGh1cDhKQkNubmR2TUt1T0tiYmhldzU0VHBiQ2J3NEtHS0Rud1JZUUhR?o",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rWnRSZmFkU19EXzhzU0JDbHRSdm5nb1VDVExZNHYzRmFLc3NXbzlmd2JuVUJ0LXV4ZFY3TmNaMUZaazVmNGh1cDhKQkNubmR2TUt1T0tiYmhldzU0VHBiQ2J3NEtHS0Rud1JZUUhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-07-31-013",
+    "date": "2026-07-31",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AU Optronics (AUOTY) Q1 2024 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBzOVE3SVZVRG1xekZZbnRYSnBOTzFMOXQwOFhNWVUxbkZJWVQyZVBncUZzWG51TVRlU1cwODJtVjA3WXl6R3QtejBrV2RzMktqQ3Fyblljemg3aWxIbXloNXh4bGtXMlpIMGFCUTRn?o",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzOVE3SVZVRG1xekZZbnRYSnBOTzFMOXQwOFhNWVUxbkZJWVQyZVBncUZzWG51TVRlU1cwODJtVjA3WXl6R3QtejBrV2RzMktqQ3Fyblljemg3aWxIbXloNXh4bGtXMlpIMGFCUTRn?oc=5",
         "type": "rss"
       }
     ]
@@ -700,6 +778,47 @@
       {
         "name": "eetimes",
         "url": "https://www.eetimes.com/nidec-positions-precision-reducers-for-cobots-humanoids-and-automation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-07-30-025",
+    "date": "2026-07-30",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display secures W1.5tr from state fund to accelerate OLED edge - 헤럴드경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rVHB6dFVpbEUzT1NkcE5iYk5MZGVYMjRFUk1hQUxIRlBQa3ZxaUN1cUlkc0dCcC10dGVDVmJrclBGc0RsV2Z2Z0ZrZ1RKbXYtcnJQQXlQQQ?oc=5\" target=\"_blank\">LG Displa",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rVHB6dFVpbEUzT1NkcE5iYk5MZGVYMjRFUk1hQUxIRlBQa3ZxaUN1cUlkc0dCcC10dGVDVmJrclBGc0RsV2Z2Z0ZrZ1RKbXYtcnJQQXlQQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-07-30-026",
+    "date": "2026-07-30",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Brings QD-Mini LED Gaming Monitor Range To Australia, Led By The 32R84 - smbtech.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPb3J5dEhORU93NnFBVFdqbS03VUJMZFZscXltakVrT280WmJNVzV2UFMzVHBDd0VyV0JxeXd1LXF0QlMtUFNFZ1h6MjlZUEt1LTA0RVVCcHpkVHhYWGdraDVWNE00TE5fY2Uzc292NU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb3J5dEhORU93NnFBVFdqbS03VUJMZFZscXltakVrT280WmJNVzV2UFMzVHBDd0VyV0JxeXd1LXF0QlMtUFNFZ1h6MjlZUEt1LTA0RVVCcHpkVHhYWGdraDVWNE00TE5fY2Uzc292NUlOYllaN1FEQy1OSjcwa3hiYnNMMmJuZEVEYjR2bE45cldhN1VDcmFGR1Zad0V1ZTg?oc=5",
         "type": "rss"
       }
     ]
@@ -2223,6 +2342,26 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdlFZZ05FaC1pUzlXZi1Sek55LVhoTWx3elRQNWNXZzZ0N29VNHEtc0kzcUlDTGRoREM0ZllQWVh3eTk1bWRKQ1BPY3dxOGI5c3hLeXlnZXFIeXc2MTNHclBHZFF2WmZGd296WnlNUVp3Qy1KRGZNZXlocW9sQUJjbkE5R0Z5UzRDQ1ZnYQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-27-023",
+    "date": "2026-07-27",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Canon: Q2 Earnings Snapshot - KVUE",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLVJVSEZ1MHVaZ1ZpRHpDODVwNHZLbUlSeFM4M2RrM0xmSERFbmJSVkZQQ01PUHdKaXVLTlZBOXEzVnJxd3RTVEd3MzRaZzRVQk81YWdhWkI4Y3YxaU5FVnhQWmVsNjJnNzkyZmZkcj",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLVJVSEZ1MHVaZ1ZpRHpDODVwNHZLbUlSeFM4M2RrM0xmSERFbmJSVkZQQ01PUHdKaXVLTlZBOXEzVnJxd3RTVEd3MzRaZzRVQk81YWdhWkI4Y3YxaU5FVnhQWmVsNjJnNzkyZmZkcjRjWUZPcmxKQ1VGSW5NVm4tT1RWWUMxc3VwWEpOcWRwcWp5QUlfQ3ZqZURCZWIwN24tVkhEUFpVZ19zMVdwM3NDWnFlVFNWVVVZTE1LazV3UHVqUQ?oc=5",
         "type": "rss"
       }
     ]
