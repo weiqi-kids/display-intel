@@ -1,0 +1,172 @@
+{
+  "date": "2026-08-03",
+  "date_range": {
+    "start": "2026-07-28",
+    "end": "2026-08-03"
+  },
+  "generated_at": "2026-08-03T11:20:48.218118Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-07-28-010",
+      "date": "2026-07-28",
+      "title": "UMT posts record revenue in 1H26 on growing LEO satellite demand",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 18,
+      "last_week": 21,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": -0.01
+    },
+    "automotive_display": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.08
+    },
+    "oled_penetration": {
+      "this_week": 19,
+      "last_week": 27,
+      "week_over_week_change": "-30%",
+      "sentiment_this_week": 0.11
+    },
+    "panel_price": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "mini_led": {
+      "this_week": 5,
+      "last_week": 4,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "canon": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 6
+    },
+    "himax": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 7
+    },
+    "lg_elec": {
+      "event_count": 13,
+      "sentiment_avg": 0.12,
+      "rank": 1
+    },
+    "samsung_elec": {
+      "event_count": 7,
+      "sentiment_avg": 0.29,
+      "rank": 3
+    },
+    "auo": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 5
+    },
+    "corning": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "lg_display": {
+      "event_count": 10,
+      "sentiment_avg": 0.15,
+      "rank": 2
+    },
+    "tcl": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "novatek": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "jdi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "csot": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 116,
+        "last": 142,
+        "change_pct": -18.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-28",
+      "event_count": 40,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 19,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-30",
+      "event_count": 26,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-31",
+      "event_count": 16,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-08-01",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-02",
+      "event_count": 2,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-03",
+      "event_count": 10,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-28 ~ 2026-08-03）共 116 則事件，重點為「UMT posts record revenue in 1H26 on growing LEO...」。佳能、Himax Technologies情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "佳能",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Himax Technologies",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "LG電子",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

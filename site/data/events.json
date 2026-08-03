@@ -1,5 +1,191 @@
 [
   {
+    "id": "lg_display-2026-08-03-001",
+    "date": "2026-08-03",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to put 3 Trillion Won into OLED - Advanced Television",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUJ3Ym9NMVg1Y0tjbDJaUk9jX1ZKczhYX3R0cUZNOU04VEprNFJlUnhmT1ZYSWZ0U1MtOW92WXhkWVhVRHFxOXlGMkJxX2dRSEJ2ODRtbDZlVFJnZmI0RE90ZWVrYTZqb3h0Q0lwOF",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUJ3Ym9NMVg1Y0tjbDJaUk9jX1ZKczhYX3R0cUZNOU04VEprNFJlUnhmT1ZYSWZ0U1MtOW92WXhkWVhVRHFxOXlGMkJxX2dRSEJ2ODRtbDZlVFJnZmI0RE90ZWVrYTZqb3h0Q0lwOFZXbERBajRQdzRmWlFrdE5hMWd6VERSRF8tMF9yOVNCMHo3Ry0z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-002",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "automotive_display"
+    ],
+    "impact": "positive",
+    "title": "Coretronic's OLED and auto-display gains point to steadier growth as NB weakens",
+    "summary": "Coretronic said its OLED monitor business is gaining traction as new production lines ramp up, while car displays continue to expand. The company expects full-year OLED monitor shipments to rise 70% t",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260730PD209/coretronic-monitor-growth-shipments-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-003",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Asia Optical's 2Q26 operating profit hits record high on strong revenue and gross profit growth",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:306;106-411\">Asia Optical reported record operating profit for the second quarter of 2026, as consolidated revenue, gross profit and operating profit all increased ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260803PD226/asia-optical-operating-profit-revenue-profit-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-004",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Chinese display makers reportedly double down on large LCDs and OLED expansion",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:228;122-349\">China's leading display manufacturers are stepping up investments across both LCD and OLED technologies, targeting larger TV panels and expanding into ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260803VL210/display-lcd-market-production-tv.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-005",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Lite-On adds two major CSP customers as AI revenue tops 30%, targets 30% margin longer term",
+    "summary": "<p class=\"P1\" data-sourcepos=\"9:1-9:346;306-651\">Lite-On Technology delivered record profitability in the second quarter of 2026, with gross margin reaching 27.2%, up 5.1% from a year earlier. Preside",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260803PD215/lite-on-revenue-csp-data-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-03-006",
+    "date": "2026-08-03",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "CXMT closes in on LPDDR6 mass production, challenging Samsung, SK Hynix",
+    "summary": "CXMT is nearing the end of research and development validation for LPDDR6, bringing it closer to mass production of next-generation mobile DRAM and intensifying competition with Samsung Electronics, S",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260803VL211/cxmt-lpddr-development-production-samsung-sk-hynix.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "csot-2026-08-03-007",
+    "date": "2026-08-03",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL Technology to take full ownership of TCL CSOT",
+    "summary": "TCL Technology Group plans to pay CNY9.32 billion (approx. US$1.38 billion) for the 45% of China Star Optoelectronics Semiconductor Display Technology it does not already own, according to the registr",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260803VL213/tcl-csot-acquisition-display-revenue-2025.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-008",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Korean OLED makers double down on premium tech as Chinese rivals move upmarket",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:194;124-317\">The display industry is edging toward a new competitive phase as South Korea and China intensify their rivalry over next-generation OLED technologies a",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260731VL217/display-production-investment-competition-lg-display.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-009",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "MA-tek sells Shanghai unit, expands AI market push in Japan and the US",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:395;128-522\">MA-tek announced on July 31, 2026, that it will sell 80% of its Shanghai subsidiary for about CNY1.9 billion (US$281.4 million), as global semiconducto",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260803PD223/ma-tek-shanghai-market-2026-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-010",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Apple's supply squeeze raises costs, reshapes sourcing and could widen iPhone 18 price gap",
+    "summary": "Apple's latest earnings showed robust demand, but a weaker outlook for the coming quarter pointed to a supply-driven squeeze with implications for prices, suppliers, and device launches worldwide. The",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260803PD205/apple-iphone-earnings-price-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-02-001",
     "date": "2026-08-02",
     "companies": [],
@@ -13,6 +199,26 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/researchers-develop-full-color-night-vision-goggles-using-dual-emitter-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-02-002",
+    "date": "2026-08-02",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (H6Q) Q3 2025 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5hWEE1aE5rQ0swSlM1eFBCSDJ0T1doRzVWMFFzdjlaeGpDT2lRbmoxQjFrWVZqVWpBNE1wWDlnejAyV3NjUGlZM3VtSTZmdk5pdTdzUlYwNUZabkJzb2JDdEl6OUdNQ1FPLUtPVjFJbw",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hWEE1aE5rQ0swSlM1eFBCSDJ0T1doRzVWMFFzdjlaeGpDT2lRbmoxQjFrWVZqVWpBNE1wWDlnejAyV3NjUGlZM3VtSTZmdk5pdTdzUlYwNUZabkJzb2JDdEl6OUdNQ1FPLUtPVjFJbw?oc=5",
         "type": "rss"
       }
     ]
@@ -53,6 +259,26 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/reports-korea-suggests-samsungs-privacy-flex-magic-pixel-technology-adds-10",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-08-01-003",
+    "date": "2026-08-01",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AU Optronics (AUOTY) Q4 2023 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1uaVNVZTdFN19yZmJxdkxIYWFkQ3VMeXZOUzBDNHZ0eV9wUjR6QzZuOXlvempuZXM2MXQ4bERwLVJ6QktYVkNxcURiYzV6WWZHZ2Z0OTdPTktQZ2lrcVZPenVaZmVXRkNlZm10Q05B?o",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uaVNVZTdFN19yZmJxdkxIYWFkQ3VMeXZOUzBDNHZ0eV9wUjR6QzZuOXlvempuZXM2MXQ4bERwLVJ6QktYVkNxcURiYzV6WWZHZ2Z0OTdPTktQZ2lrcVZPenVaZmVXRkNlZm10Q05B?oc=5",
         "type": "rss"
       }
     ]
@@ -301,6 +527,64 @@
       {
         "name": "auo",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzOVE3SVZVRG1xekZZbnRYSnBOTzFMOXQwOFhNWVUxbkZJWVQyZVBncUZzWG51TVRlU1cwODJtVjA3WXl6R3QtejBrV2RzMktqQ3Fyblljemg3aWxIbXloNXh4bGtXMlpIMGFCUTRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-07-31-014",
+    "date": "2026-07-31",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Median Technologies partners with Canon Medical to achieve lung cancer screening goals - Mugglehead Investment Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxObG1kY2pQU0hvZmdWY1hjQ1BxWWE5d3ppSkN1bzhXVlBQMXpqZmFSa0dBbWUwNEFaOWJtOTIzWXhibkdmc3NVREJqenNqd3lhU3lKeWthZUFsdUJZWEVtRURla01OMk1td204UnJ2aT",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObG1kY2pQU0hvZmdWY1hjQ1BxWWE5d3ppSkN1bzhXVlBQMXpqZmFSa0dBbWUwNEFaOWJtOTIzWXhibkdmc3NVREJqenNqd3lhU3lKeWthZUFsdUJZWEVtRURla01OMk1td204UnJ2aTF6ckdzWHRNMWI1X3RXam12M2dZak10ZUg2X3ZmR0NaSzh2elZwSWVCUnA5LWZjQmNycVlpMWlEaUZDeUdZaXdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-07-31-015",
+    "date": "2026-07-31",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AU Optronics (AUOTY) Q4 2025 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFB6VUpibXBvUDZqaFl2QUFMQ0ViYkVvRGxYNXpTYjczdFRPNURtYkJFV0JLRUFybWVER21VN2h1RU4yRGs0VTRVY1pVUzQ4b3pKQWxEY1E3WFk4dTVFdmhLdkZQVUxMQ0p5SWNNbEtR?o",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6VUpibXBvUDZqaFl2QUFMQ0ViYkVvRGxYNXpTYjczdFRPNURtYkJFV0JLRUFybWVER21VN2h1RU4yRGs0VTRVY1pVUzQ4b3pKQWxEY1E3WFk4dTVFdmhLdkZQVUxMQ0p5SWNNbEtR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-07-31-016",
+    "date": "2026-07-31",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Announces AU Availability Of The 32R84 Flagship QD-Mini LED Gaming Monitor - mkaugaming.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmNyeUk1S3VHVkNZZWNCSXhmSjU0NHNuel8tSHc0SVFaVXZWSF9PT01MRTl5UW1HMWdqakd3STBva3RsVnhNVXFaUXVJcXI4d3BTMWxvNjNxd2dTeG9sMEwtblktR2FqVmFyb05Ybz",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQmNyeUk1S3VHVkNZZWNCSXhmSjU0NHNuel8tSHc0SVFaVXZWSF9PT01MRTl5UW1HMWdqakd3STBva3RsVnhNVXFaUXVJcXI4d3BTMWxvNjNxd2dTeG9sMEwtblktR2FqVmFyb05YbzBja1ZZZ2VVTU85TUVHbmFxR0JhY3kxVlQ5bHVGUHo1RnUzQzUzaDFuZkx0Q0FMZEE5RHhwYWlmZFcxdw?oc=5",
         "type": "rss"
       }
     ]
@@ -1139,6 +1423,42 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/oled-display-backplanes-part-2-7-amorphous-silicon-si",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-07-29-018",
+    "date": "2026-07-29",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "How Investors Are Reacting To Himax Technologies (HIMX) Expanding Into AI Vision With New Depth Chips - webull.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzMmdYUkJfOG1QR2tKYjBmYzNxU09QUmJnUzVnYlVWQ3AzZTFYcTVGMGluZTJPRFlLMFQ1ZC02SFU5SmRGT2Z4djVoaUNyLUtxZDV4SWlmTDY?oc=5\" target=\"_blank\">How Inve",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzMmdYUkJfOG1QR2tKYjBmYzNxU09QUmJnUzVnYlVWQ3AzZTFYcTVGMGluZTJPRFlLMFQ1ZC02SFU5SmRGT2Z4djVoaUNyLUtxZDV4SWlmTDY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-07-29-019",
+    "date": "2026-07-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Marks Galaxy Z Fold8 Debut With Skydiving Performance Above Palm Jumeirah in Dubai",
+    "summary": "To promote the launch of Galaxy Z Fold8, Samsung Gulf Electronics recently teamed up with Skydive Dubai to perform a bold aerial display, in which a team of professional skydivers formed the phone’s u",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-marks-galaxy-z-fold8-debut-with-skydiving-performance-above-palm-jumeirah-in-dubai",
         "type": "rss"
       }
     ]

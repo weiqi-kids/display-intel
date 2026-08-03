@@ -1,0 +1,259 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T11:20:48.072299Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-08-03-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display to put 3 Trillion Won into OLED - Advanced Television",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUJ3Ym9NMVg1Y0tjbDJaUk9jX1ZKczhYX3R0cUZNOU04VEprNFJlUnhmT1ZYSWZ0U1MtOW92WXhkWVhVRHFxOXlGMkJxX2dRSEJ2ODRtbDZlVFJnZmI0RE90ZWVrYTZqb3h0Q0lwOFZXbERBajRQdzRmWlFrdE5hMWd6VERSRF8tMF9yOVNCMHo3Ry0z?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-03-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Lite-On adds two major CSP customers as AI revenue tops 30%, targets 30% margin longer term",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260803PD215/lite-on-revenue-csp-data-production.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "csot-2026-08-03-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "TCL Technology to take full ownership of TCL CSOT",
+      "companies": [
+        "csot",
+        "tcl"
+      ],
+      "related": {
+        "customers": [
+          "tcl"
+        ],
+        "suppliers": [
+          "csot"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260803VL213/tcl-csot-acquisition-display-revenue-2025.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-03-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Asia Optical's 2Q26 operating profit hits record high on strong revenue and gross profit growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.67
+      },
+      "source_url": "https://www.digitimes.com/news/a20260803PD226/asia-optical-operating-profit-revenue-profit-growth.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-03-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "MA-tek sells Shanghai unit, expands AI market push in Japan and the US",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260803PD223/ma-tek-shanghai-market-2026-revenue.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 4,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      },
+      {
+        "id": "csot",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 358,
+    "dup_title": 119,
+    "too_old": 166,
+    "gate1_blocked": 33,
+    "gate2_blocked": 23,
+    "passed": 17,
+    "pass_rate": "7.1%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "Why Corning Incorporated (GLW) Stock Is Up Today - Quiver Quantitative",
+      "Corning Incorporated to celebrate 175th anniversary with community fireworks celebration - WENY News",
+      "Corning Delivers Strong FCF Results, But Investors Play GLW Stock's Drop With an Unusual Short-Put P",
+      "Corning Incorporated Stock 12‑Month Price Target Cut to $216.85, Implies 51% Upside - TradingView",
+      "Canon Becomes the First Manufacturer to Register Imaging Equipment to EPEAT 2.0 Criteria - Industry "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為LGD、LG電子、三星電子相關動態：「LG Display to put 3 Trillion Won into OLED - Advanced Tel...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display to put 3 Trillion Won into OLED - Advanced Television（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Lite-On adds two major CSP customers as AI revenue tops 30%, targets 30% marg...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
