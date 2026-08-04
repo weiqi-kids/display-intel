@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 138,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 40,
+  "gate2_fail": 16,
+  "passed": 14,
+  "gate2_samples": [
+    "Corning Stock Slides 13.9% in Three Months: Buy or Hold or Sell? - Yahoo Finance Australia",
+    "Why Corning Incorporated (GLW) Stock Is Up Today - Quiver Quantitative",
+    "Corning upgraded by Truist, firm says 'pullback provides opportunity' (GLW:NYSE) - Seeking Alpha",
+    "Corning Incorporated to celebrate 175th anniversary with community fireworks celebration - WENY News",
+    "Corning Incorporated Stock 12‑Month Price Target Cut to $216.85, Implies 51% Upside - TradingView"
+  ]
+}

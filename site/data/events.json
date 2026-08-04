@@ -1,5 +1,135 @@
 [
   {
+    "id": "samsung_elec-2026-08-04-001",
+    "date": "2026-08-04",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Launches World’s First HDR10+ ADVANCED Streaming Experience on Prime Video",
+    "summary": "Samsung Electronics today announced that Prime Video will be the first streaming service to offer HDR10+ ADVANCED on supported titles globally beginning August 2026, with the service being first avail",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-launches-worlds-first-hdr10-advanced-streaming-experience-on-prime-video",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-04-002",
+    "date": "2026-08-04",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung Galaxy Z8 preorder sales hit record 1.44 million in South Korea",
+    "summary": "Samsung Electronics said its Galaxy Z8 foldable smartphone lineup generated 1.44 million preorders in South Korea, setting a new high for Galaxy phone preorder sales. The result marked the company&rsq",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260804PD235/galaxy-samsung-sales-2026-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-04-003",
+    "date": "2026-08-04",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Foundry nears full utilization, but 2nm yields remain a hurdle",
+    "summary": "Samsung Electronics' contract chipmaking business could approach full utilization in the second half of 2026, marking a potential turning point after prolonged underuse weighed on earnings.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260804VL210/samsung-2nm-production-samsung-foundry-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-004",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Analysis: Tesla's driverless ambitions get regulatory reality check",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:223;122-344\">Tesla's latest quarterly results fell short of market expectations, but another development attracted equal attention: CEO Elon Musk adopted a noticeab",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260804PD220/tesla-market-development-vehicle-fsd.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-005",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Onsemi details AI data center momentum, pricing strategy in Q2 earnings call",
+    "summary": "<p class=\"P1\" data-sourcepos=\"7:1-7:272;173-444\">Onsemi's leadership fielded a wide range of investor questions following the company's second-quarter 2026 results, with much of the discussion centere",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260804VL209/onsemi-data-center-silicon-business-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-04-006",
+    "date": "2026-08-04",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Electro-Mechanics reportedly fast-tracks Philippine MLCC plant in wake of AI-driven price hikes",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:273;139-411\">Samsung Electro-Mechanics (SEMCO) is reportedly pulling forward the start-up of its first overseas multilayer ceramic capacitor (MLCC) plant, a move th",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260804VL202/semco-mlcc-plant-price-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-08-04-007",
+    "date": "2026-08-04",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL flexes its gaming TV chops with new Mini LED monitors - GadgetGuy",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVDJYZURoM3BvdnZwUHd6ZUNLRy1Qb2xrYXA1MlB1ZG9mTmNpbnNtQlBSTWV1RHNoMjRNSzc1eTJjMWtHeU9nZHMzQS12eS05MFpjVVV4QXNzdFpRZTh4aEgtb190NXUtN0ZHR2lkcy",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVDJYZURoM3BvdnZwUHd6ZUNLRy1Qb2xrYXA1MlB1ZG9mTmNpbnNtQlBSTWV1RHNoMjRNSzc1eTJjMWtHeU9nZHMzQS12eS05MFpjVVV4QXNzdFpRZTh4aEgtb190NXUtN0ZHR2lkcy1yeEFmbVIxR0lMV2hxdlRHTmhuUk9lNjZxT0hz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_display-2026-08-03-001",
     "date": "2026-08-03",
     "companies": [
@@ -181,6 +311,141 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260803PD205/apple-iphone-earnings-price-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-03-011",
+    "date": "2026-08-03",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Truist upgrades Corning to Buy after pullback, sees AI demand driving upside - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPVnpDeDkyZ201Z2JGdlNEMWc5dXdVVHpXZ3p4VzhJUW5jWWhrR3FsVHlVd3ltbUFnNzFucGdwY0t6MGJWQjR3LXBmSXB1U1ZpbWNLU3FHbGNTYjFEWmYzLU02RzVjb2NiTUxNcDFyLW",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVnpDeDkyZ201Z2JGdlNEMWc5dXdVVHpXZ3p4VzhJUW5jWWhrR3FsVHlVd3ltbUFnNzFucGdwY0t6MGJWQjR3LXBmSXB1U1ZpbWNLU3FHbGNTYjFEWmYzLU02RzVjb2NiTUxNcDFyLWx3WFJfUWJxcjNNUDNDYTBDTFdORFZ3Wkxma3lxM3pQYjRiZTJUaV9ieE5BQlBVLW1vcFdPSmRSSl9JeEI2ZUEwcDRhNUZ6cG9FdGFUSEY2dG5YRUhDX3dlTFpEOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-03-012",
+    "date": "2026-08-03",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (H6Q) Q3 2022 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9qNlI5bTI1dGdoZldCNjlZcmlualNIbG1aVEdPck9xaUcwVnVxUzZrZnFPV2FKenhuLUJFbUdOZFZmSk5rTm01Z0pDZzBkb2JSZ1p5TFJwM0Q0WTVRSXotNHpiMzUtSVIxcTZOUEZyMA",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qNlI5bTI1dGdoZldCNjlZcmlualNIbG1aVEdPck9xaUcwVnVxUzZrZnFPV2FKenhuLUJFbUdOZFZmSk5rTm01Z0pDZzBkb2JSZ1p5TFJwM0Q0WTVRSXotNHpiMzUtSVIxcTZOUEZyMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-013",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "neutral",
+    "title": "TrendForce: Taiwanese Panel Makers Continue to Reduce Capacity, Reshaping Global LCD Supply-Demand Dynamics - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNRFYwNlBSaWM3amF0TENtcURlZ2VUVHFtTEY4RkExeG44U2NyMS00SlZyMVBiS1N5VFQtM3hWdWRVOFNfRW1lMmtkcDA4a1didmFneW8tcE1PU0VTQ2d1ZVdtclFRa0huaE9Hc1VweH",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRFYwNlBSaWM3amF0TENtcURlZ2VUVHFtTEY4RkExeG44U2NyMS00SlZyMVBiS1N5VFQtM3hWdWRVOFNfRW1lMmtkcDA4a1didmFneW8tcE1PU0VTQ2d1ZVdtclFRa0huaE9Hc1VweHFyTFUtaFlzNjMwTzNra3NaRTk1RVJKUXdEeHRjZ2lVZlJCR1Vva3NGS1JJVHZhVG1Eby0zVDV4T1NRRHZEYVR6WWRiUU9NekpValEyWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-014",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "it_panel_demand"
+    ],
+    "impact": "neutral",
+    "title": "Capacity Rationalization by Taiwan’s Two Panel Giants to Reshape TV, Monitor, and Notebook Panel Supply by 2028, Says TrendForce - TrendForce",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE42Ync4YWpMQ3dfLUpaQmFnOW1ydUx4R3h1ZzRJZjY2TjM0QXpfd0lLWktqT1lvaWtUTXlvZlJfNDZ6Z1RVTVdCRHNOUXozR0dMZEMtU2RCUndaYnFYYUFxVXBlcm4xcEVQTUZMVml5NG",
+    "sources": [
+      {
+        "name": "innolux",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42Ync4YWpMQ3dfLUpaQmFnOW1ydUx4R3h1ZzRJZjY2TjM0QXpfd0lLWktqT1lvaWtUTXlvZlJfNDZ6Z1RVTVdCRHNOUXozR0dMZEMtU2RCUndaYnFYYUFxVXBlcm4xcEVQTUZMVml5NGQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-08-03-015",
+    "date": "2026-08-03",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to put €1.8bn into OLED - Advanced Television",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUJ3Ym9NMVg1Y0tjbDJaUk9jX1ZKczhYX3R0cUZNOU04VEprNFJlUnhmT1ZYSWZ0U1MtOW92WXhkWVhVRHFxOXlGMkJxX2dRSEJ2ODRtbDZlVFJnZmI0RE90ZWVrYTZqb3h0Q0lwOF",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUJ3Ym9NMVg1Y0tjbDJaUk9jX1ZKczhYX3R0cUZNOU04VEprNFJlUnhmT1ZYSWZ0U1MtOW92WXhkWVhVRHFxOXlGMkJxX2dRSEJ2ODRtbDZlVFJnZmI0RE90ZWVrYTZqb3h0Q0lwOFZXbERBajRQdzRmWlFrdE5hMWd6VERSRF8tMF9yOVNCMHo3Ry0z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-03-016",
+    "date": "2026-08-03",
+    "companies": [
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED industry and market updates (OLED-Info Pro Video Podcast E3, 2026-08)",
+    "summary": "<p>The third episode of the OLED-Info Pro Video Podcast, in which we discuss recent updates from the OLED industry and market, consider the new strategy we see from Samsung and LG, compare China and K",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/videos/oled-industry-and-market-updates-oled-info-pro-video-podcast-e3-2026-08",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-08-03-017",
+    "date": "2026-08-03",
+    "companies": [
+      "sony"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sony's new BRAVIA TV lineup launches in India with advanced RGB mini-LED technology - Sportskeeda Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQanEtUngwMXhJQ0F2QTJSTThEcUs2bzB1cXB6YWk4cFRIT3dmWXVKbl96azZUcXJHNkdyejczRFJiN3hIT2h6Z1ZZd1ZpaTBaaXRwMEF5ZUhVeG51dmhvUXFXTmpjcjJoZHgyUnZVcH",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanEtUngwMXhJQ0F2QTJSTThEcUs2bzB1cXB6YWk4cFRIT3dmWXVKbl96azZUcXJHNkdyejczRFJiN3hIT2h6Z1ZZd1ZpaTBaaXRwMEF5ZUhVeG51dmhvUXFXTmpjcjJoZHgyUnZVcHFFRWJYMFE0VkZBZ0dpVEJrS01hMm1yaGlIWmJQdVFjeW9OdUxxSVVIWlhkN3NSYUZEWVJJdGNvTEZBck5QUDBsUWtxU3lCa3I2X3VWWlZ3?oc=5",
         "type": "rss"
       }
     ]
