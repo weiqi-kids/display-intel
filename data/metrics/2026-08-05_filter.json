@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 26,
+  "gate2_fail": 13,
+  "passed": 16,
+  "gate2_samples": [
+    "Why Corning Incorporated (GLW) Stock Is Up Today - Quiver Quantitative",
+    "Corning upgraded by Truist, firm says 'pullback provides opportunity' (GLW:NYSE) - Seeking Alpha",
+    "Corning Stock Slides 13.9% in Three Months: Buy or Hold or Sell? - Yahoo Finance Australia",
+    "Is Himax Technologies (HIMX) A Bargain Or Already Fully Priced? - simplywall.st",
+    "Himax Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs"
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T10:33:16.693128Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-08-05-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "New cheaper 2-layer OLED panel with better colors developed by LG Display - FlatpanelsHD",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tMmc4dHlyaEF4SDBQeTlxdjZqM1hNMWUzMTZ0WWh2azRHdlJ3YzRraDFPbWY4LVFEb1EtVXpCU2k4VkhyZjJwdWd0aU9hS0JLT1U1VzhxNG1nd3JtRXp0bmhvUmFYZTNWU3NaSGl2UkNFdDlSV1g5MnpR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-08-05-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "CETC Fenghua Information-Equipment Supplies OLED Equipment Directly to LG Display for First Time - thelec.net",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RODIwYXlKTnhZS0lKRzc5bXl4b2J0QTQ1QXF5TExmdDdSNFk2b2F3N1NFcDQtR2VKQVduX20yOGxwZ0Yzb2pOcEJLMm9OWkNwUVQ3MW5rU0k3aW13d3FZMDFBQ1VKZWs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "himax-2026-08-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Himax Earnings: What To Look For From HIMX - FinancialContent",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWRMelNVQ0F0Y2tXVS12NFNzTmZQLTRsSHVGdGlGaERpaFFBY3dOWThHUEJ3ZjVMdWM2TW9UNS1kZ2QyUmo4aTJWNkhadTVNVlR3NTdLcnE3ZjZYMlR5UG4yS0MtZWIwRXZWZy1VMlJhTHFMZ21oLUVRcC1TdHFmQmt6V2NxWnFzeHlIWVFiWUVkVkdWNFoyTWNiTEpYaHJyNkhqeg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "novatek-2026-08-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Novatek Microelectronics : Announcement of board meeting approved the consolidated financial statements for the first half of 2026 - marketscreener.com",
+      "companies": [
+        "novatek"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUWhmQU9lbndFbG9lazV0UzlzRkp3ZV9vbmlCOF9HVDBfYmdYX25ra0JfZ3Rhb0hXdl9iQ2x2NFlCbkwxX3hveUw0ekt6MnNYZDdHRk5uZmsxMEpQcmt2ZXBuUEI3V0VTUmlLZC1Oc01sWDBhSkRWMmU0QUZza2lUY2lZVldndjdiaE1DeG1EbktoOVZxNDIyQ045aHhCd3BMTkJ5VTZPMldZQnZDZkEyTmY4VTduRlZQTDFPZXlHTjNmUm1tT1ZIOWU5N2NudkdlZGtGWGptbHpWSFEzWEE0RzZQLUlGZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "novatek-2026-08-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Novatek Microelectronics : The board of directors approved the investment in TGVest Asia Partners III (Taiwan), L.P. - marketscreener.com",
+      "companies": [
+        "novatek"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeEtQWkRkZFhtUkhNRmF2UDJyZVlDdDZJcmtqTDFhMVlWcEZkQnRwbHl0VWJILVJrOEpVWmJFLXNCTzE1cHdvYnNjUmlHd2JSeXVBUWkzQ2xocUw0UnVaZkV1T3Y0UXIzNXM4UktsYnJJZUFNSEExd3djeFFQeTZ2NE1QZWR2OHZnQTJNaVlqbUVVajFnYjFYTUx4bFMxajY4aHlYTDRSd2t4UWFhMXp5MWRSaWhZS2t1VG1QcmdxMWRQSTh3dzVtRWZhV2F1c0ZfXzdNTGtYUzBUNmRYWmx2aVFkV1dRQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 4
+      },
+      {
+        "id": "novatek",
+        "count": 2
+      },
+      {
+        "id": "lg_display",
+        "count": 2
+      },
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 3
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 129,
+    "too_old": 176,
+    "gate1_blocked": 26,
+    "gate2_blocked": 13,
+    "passed": 16,
+    "pass_rate": "6.9%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "Why Corning Incorporated (GLW) Stock Is Up Today - Quiver Quantitative",
+      "Corning upgraded by Truist, firm says 'pullback provides opportunity' (GLW:NYSE) - Seeking Alpha",
+      "Corning Stock Slides 13.9% in Three Months: Buy or Hold or Sell? - Yahoo Finance Australia",
+      "Is Himax Technologies (HIMX) A Bargain Or Already Fully Priced? - simplywall.st",
+      "Himax Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為LG電子、Novatek Microelectronics、LGD相關動態：「New cheaper 2-layer OLED panel with better colors develop...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "New cheaper 2-layer OLED panel with better colors developed by LG Display - F...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "CETC Fenghua Information-Equipment Supplies OLED Equipment Directly to LG Dis...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
