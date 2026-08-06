@@ -1,0 +1,16 @@
+{
+  "total_raw": 360,
+  "dup_title": 117,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 26,
+  "gate2_fail": 18,
+  "passed": 23,
+  "gate2_samples": [
+    "Corning Incorporated - Reuters",
+    "LPGA Tour’s Corning Classic returning in 2027 for first time since 2009 - WBNG",
+    "LPGA Tour Returning to Corning for First Time Since 2009 - fingerlakesdailynews.com",
+    "LPGA bringing tournament back to Corning, N.Y., in 2027 - Sports Business Journal",
+    "Corning Classic to Return to LPGA Tour in 2027 - WENY News"
+  ]
+}

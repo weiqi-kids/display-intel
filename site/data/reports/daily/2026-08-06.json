@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T10:37:12.203411Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-08-06-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Cuts an OLED Layer and Could Make Better OLED TVs Cheaper - eCoustics",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Rd2N5dmF3OE9PMHU1UTBBakFsc2xCdW5xV1hDWGhjZFdJQk1keV9uVVhYOG9ub2JfYUJWWEtYOVRtZ2xtUmk2cm5LVFZzRzV1NlZ1RlJqZGU4WVFPUWx3cm41dFpkU0dVTXUxNk9B?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_display-2026-08-06-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Here's LG Display's FLiPP maskless OLED production process logo - oled-info.com",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOUlfeEtPdndTVWEyX3BFYk4wdG82dTFZR2t0QVNXMk51dWxValhkTXZnX3pCbzZ6N0JNRTFtcTNPY1daaG11QnU3Q0NyM2FxdzZneW1wakxManJydkNwbl8zelB1Ym55RVY5eUpybmFndDNxd2c4aEJSZkZzYjJCQXVNaXpNQ0FrWUY4V2pJa2o?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_display-2026-08-06-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Here's LG Display's FLiPP maskless OLED production process logo",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/heres-lg-displays-flipp-maskless-oled-production-process-logo"
+    },
+    {
+      "rank": 4,
+      "event_id": "himax-2026-08-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Himax Technologies, Inc. Reports Second Quarter 2026 Financial Results; Provides Third Quarter 2026 Guidance - globenewswire.com",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPQVBjcm4wM2RtUVBRNnItU3F2QUR0Z3dVaWtKd3ZHZEY0NmkxOExOYWNwSGtOR0VZbzNDcU9BVnFhWi1FQTBFMVNuZ1JIUnNfRDVkNlRSUzBJRVBBX2ZpSHNOblc1dFh4Z3Q2QUhvMGFrSXlKa0hqcGlJV054RUFiUGdyMGZrVmhkbGNkQ0o0YVJYVVU4WXZjMFhJODBRTnpnZTVLeTF5VXd6eG5sNkg4VW1XcURqV0pqZVI4Qk5oZFlfN3BvcWl0cUtveFNQZUJZbmJocTN3RWJkUGpZVjF5UUZmb3JDT0sxVjg5NHJpc2hIYU55RFBZdWdLOHNrdm8xZmhybzRGa09zYlhJ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "himax-2026-08-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings Flash (HIMX) Himax Technologies, Inc. Reports Q2 Earnings of $0.11 per ADS - marketscreener.com",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR1RhQTRxQ0pKM29ybHhjTXJ0eGYyRjJJcGphQ3hWbG9oQjJ5cm9vMTFCYm5wRXFEeEZJVjhvejNjVnp4ampMUENTZkpGRm1pelpkLXFVOFltRlFkanhubmo1SXJ2aGd2SEluZzhtc0VaQmJMdld3ZmQ5eXlQNVJBOVFoNkhncXdMa2NqbXk3cU9HRWJHQzhOYXVqcDR4a0Vob3VDTWhDcXczb1M4aW9QZnBCRU51VWk2QlhnMy1JQk1sV1N0eWZ2dzd0Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_display",
+        "count": 3
+      },
+      {
+        "id": "lg_elec",
+        "count": 3
+      },
+      {
+        "id": "himax",
+        "count": 2
+      },
+      {
+        "id": "canon",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 360,
+    "dup_title": 117,
+    "too_old": 176,
+    "gate1_blocked": 26,
+    "gate2_blocked": 18,
+    "passed": 23,
+    "pass_rate": "9.5%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "Corning Incorporated - Reuters",
+      "LPGA Tour’s Corning Classic returning in 2027 for first time since 2009 - WBNG",
+      "LPGA Tour Returning to Corning for First Time Since 2009 - fingerlakesdailynews.com",
+      "LPGA bringing tournament back to Corning, N.Y., in 2027 - Sports Business Journal",
+      "Corning Classic to Return to LPGA Tour in 2027 - WENY News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為LGD、LG電子、Himax Technologies相關動態：「LG Display Cuts an OLED Layer and Could Make Better OLED ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display Cuts an OLED Layer and Could Make Better OLED TVs Cheaper - eCoustics（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Here's LG Display's FLiPP maskless OLED production process logo - oled-info.com（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

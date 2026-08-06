@@ -1,0 +1,51 @@
+{
+  "date": "2026-08-06",
+  "total_events": 7,
+  "by_company": {
+    "canon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "himax": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lg_display": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "oled_penetration": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ]
+}
