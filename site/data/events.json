@@ -1,5 +1,253 @@
 [
   {
+    "id": "raydium-2026-08-07-001",
+    "date": "2026-08-07",
+    "companies": [
+      "raydium"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "Raydium sees slower third-quarter momentum after smartphone OLED DDI pull-ins - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPaHd5enV2OVVIQllMc2NPMmlMZXhjaG1BdHZzSTZmaTV6Y3RGQmowX2dDQUtTWlQ5aEtCUzkwWUJBMmo1RzdwUnJMWWxfdEpsYldzM2x0ZGlvNXFhdjJNdTlQUkV2OEVpUTQ2ZUhSV2",
+    "sources": [
+      {
+        "name": "raydium",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaHd5enV2OVVIQllMc2NPMmlMZXhjaG1BdHZzSTZmaTV6Y3RGQmowX2dDQUtTWlQ5aEtCUzkwWUJBMmo1RzdwUnJMWWxfdEpsYldzM2x0ZGlvNXFhdjJNdTlQUkV2OEVpUTQ2ZUhSV29RaHk2U3pxNElPMkJaWmdqSXBtVlhfVV9wX2xOTldaTUk5Umc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-07-002",
+    "date": "2026-08-07",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies, Inc. 2026 Q2 - Results - Earnings Call Presentation (NASDAQ:HIMX) 2026-08-07 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOHd6ajdmQ3poSVhGbDlJbEdqcmEyM0g1STk5QUR6YXltbHUzM1A0VDY5ci1LaFVDcHhwSGNSb2Y0SEd0c0dBTUZJUUlVQ1EtQlpuNmtRRF9wVnkyaENiRm5fc2VwdEx6c3N5RWdJek",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOHd6ajdmQ3poSVhGbDlJbEdqcmEyM0g1STk5QUR6YXltbHUzM1A0VDY5ci1LaFVDcHhwSGNSb2Y0SEd0c0dBTUZJUUlVQ1EtQlpuNmtRRF9wVnkyaENiRm5fc2VwdEx6c3N5RWdJeklLTXFET0dVTTcwejh4RWgxdW42REdzbVVXcV8zVkdfZ0dGd3kzbFRIeHR1Z2k3Z1AtcUFnNFJfVDkwSW4zcHFPNENFdGxERUtWVVBlaWlDbDItZ00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-07-003",
+    "date": "2026-08-07",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Chinese equipment maker breaks into LG Display's OLED supply chain - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQbVIwVUFJcVk4ZjhUbjByVFNhTGtDY3RsT0xLYUFGWEF5ZzV2bGxYcmpHMmhwWkEwcmlTVW1rSlJrWGRhNkdDeDRnbUdUQnFCQzJpZjBlN2l1cWZOMDI2OVlMZU1BclNoYVpqQkNQcm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbVIwVUFJcVk4ZjhUbjByVFNhTGtDY3RsT0xLYUFGWEF5ZzV2bGxYcmpHMmhwWkEwcmlTVW1rSlJrWGRhNkdDeDRnbUdUQnFCQzJpZjBlN2l1cWZOMDI2OVlMZU1BclNoYVpqQkNQcmpSVG9CRURxSEt2aVJwb2VxOC1OTkFndVh1eHRKVVZJS1REeV83TWZjMmlsSlJkamVZVXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-07-004",
+    "date": "2026-08-07",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[Interview] From Stage to Screen: Samsung TV Plus and Eclipsa Audio Usher in a New Era of Home Entertainment",
+    "summary": "What if a TV could recreate the atmosphere of a live performance? Eclipsa Audio, a 3D audio technology jointly developed by Samsung Electronics and Google, makes that possible. Built on the open 3D au",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/interview-from-stage-to-screen-samsung-tv-plus-and-eclipsa-audio-usher-in-a-new-era-of-home-entertainment",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-07-005",
+    "date": "2026-08-07",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[Video] Smarter Fitness and Everyday Wellness With New Galaxy Watch",
+    "summary": "From rugged mountain trails to a restful night’s sleep, wearable devices are making everyday life smarter. Samsung Electronics’ new Galaxy Watch Ultra2 and Galaxy Watch9 support healthier lifestyles w",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/video-smarter-fitness-and-everyday-wellness-with-new-galaxy-watch",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "raydium-2026-08-07-006",
+    "date": "2026-08-07",
+    "companies": [
+      "raydium"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Raydium reports increased OLED driver shipments, but sees lower demand ahead",
+    "summary": "<p>Taiwan-based IC developer <a href=\"https://www.oled-info.com/raydium-semiconductor\">Raydium Semiconductor</a> announced its financial results for Q2 2026, with revenues of $211.8 million, up 25.4% ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/raydium-reports-increased-oled-driver-shipments-sees-lower-demand-ahead",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "raydium-2026-08-07-007",
+    "date": "2026-08-07",
+    "companies": [
+      "raydium"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Raydium sees slower third-quarter momentum after smartphone OLED DDI pull-ins",
+    "summary": "Raydium Semiconductor said its third-quarter 2026 momentum is likely to ease after customers pulled in orders for smartphone OLED display driver ICs in the second quarter. The Taiwan-based display dri",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260805PD227/raydium-2026-smartphone-demand-display.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-008",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Eris Technology posts record July revenue as subsidiary YS Tech plans listing",
+    "summary": "Power semiconductor group Eris Technology said its July 2026 consolidated revenue reached NT$291 million, up 29.78% year-on-year and setting a new monthly high. The company also reported that cumulati",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260805PD225/eris-tech-revenue-subsidiary-2026-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-009",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Zhen Ding Tech hits July revenue record on AI and consumer electronics demand",
+    "summary": "<p class=\"P1\" data-start=\"0\" data-end=\"586\">Zhen Ding Tech (ZDT) said July revenue reached its highest level so far in 2026, supported by strong momentum across mobile communications, servers, optical",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260807PD238/zhen-ding-revenue-demand-electronics-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-010",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AP Memory secures PSMC, ASE capacity ahead of 2027 IPD ramp",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:291;106-396\">Memory IC designer AP Memory posted higher revenue and profit in the second quarter and expects to enter a new growth cycle beginning in 2026, driven b",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260807PD222/ap-memory-capacity-2027-psmc-ase.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-07-011",
+    "date": "2026-08-07",
+    "companies": [
+      "samsung_elec",
+      "novatek"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung sounds out Novatek for Galaxy S28 Ultra DDI",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:209;93-301\">Samsung Electronics is considering opening its flagship Galaxy S display driver IC (DDI) supply chain to an outside supplier, a move that could break Sy",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260807VL213/samsung-galaxy-ddi-novatek-supplier.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-012",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Iron Force Industrial posts weaker first half as it pushes AI server cooling parts",
+    "summary": "Iron Force Industrial reported first-half 2026 consolidated revenue of NT$2.441 billion, down 2.98% from a year earlier, as rising pressure on its automotive business weighed on results. The Taiwan-ba",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260805PD232/iron-force-ai-server-cooling-2026-automotive.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-08-07-013",
+    "date": "2026-08-07",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL solidifies market leadership as Philippines’ No. 1 Panel TV Brand for three straight years - Inquirer Technology",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHhPVkVNbjhfNlY4SDgtbWNaVFhwdWtKb1A0NTIwbzFzNDFva1d6MUNjbGYxWlBybHU1clZuTjBWb3AxTUlYZ1R0NHA5YXhBZ050R2h6blNmcFg1amRqRi1kV0JsbzBqdWQ1WlhCTE",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHhPVkVNbjhfNlY4SDgtbWNaVFhwdWtKb1A0NTIwbzFzNDFva1d6MUNjbGYxWlBybHU1clZuTjBWb3AxTUlYZ1R0NHA5YXhBZ050R2h6blNmcFg1amRqRi1kV0JsbzBqdWQ1WlhCTE1HMFREZW5hcHJWX0g1VXVKRkhCaW03aDFRVnZBZXZsbElXWUN5Mk43WnU2YWo1cWdqcVlSU3o5M3Ezd3Y1Z1U2SG9uZWtOZ2lwUE9tYi1GYjVURlZFNmZVOHg0b9IB0AFBVV95cUxOSHFyb3EwSlVrX0p1NUlOOVItUThoVVhWbVlXWmo5N2RCeG1vYXFnRzV3QTJrbVNheTNKcWFicXYxSmNGZ1QtbUZqRkRkd0ZVS1N1RWd3dmdpXzh2ZzBnbmNYbDU2UWFvV0FqNlJfdzJIemd2a2NjSm9Gc1ozOVZlUGFlNVJDMU9GamFDakxXUk82U1VTODA4UEF5N0FEdHczdWRMWmpTYlZpckJXV2cxSlMwRDNIM01pam1aWWxMUi1mdmc5d0ZjWmFUVFlObk9Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-08-06-001",
     "date": "2026-08-06",
     "companies": [
@@ -134,6 +382,299 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/heres-lg-displays-flipp-maskless-oled-production-process-logo",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "raydium-2026-08-06-008",
+    "date": "2026-08-06",
+    "companies": [
+      "raydium"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "【Raydium FY2026 Q2 Earnings Call】Q2 Revenue Surges to NT$6.82 Billion, a Four-Year High; Gross Margin Falls to 25.7%; Q3 Momentum Slows - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iZmRHZFFIZkVvWXhESFNiY014QTRCMTBfR1h2b1ZFUkd3bXJHMkZrVmRfbWRHdWMzSlFvNlFOcHRBeEV4dVEwYnNzdGFKOGNleFZaZ201bVREaFJXVDRNWkVn?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "raydium",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iZmRHZFFIZkVvWXhESFNiY014QTRCMTBfR1h2b1ZFUkd3bXJHMkZrVmRfbWRHdWMzSlFvNlFOcHRBeEV4dVEwYnNzdGFKOGNleFZaZ201bVREaFJXVDRNWkVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-06-009",
+    "date": "2026-08-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Himax Technologies (HIMX) Is Up 6.5% After Strong Q2 2026 Beat And Upbeat Q3 Guidance - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV09HT0RpZDVxT0lVeWJXTkVtWkdaZmNuMGdLMEt0azVVWWRWV1otWWg5SWk0R1NuVVlLek5ZSG9Jb212cVhpaHA5Y3V0WXZhNkFpLUNhQU80amtReXVoQzRCWWVuWHo4c25UMDdUMk",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV09HT0RpZDVxT0lVeWJXTkVtWkdaZmNuMGdLMEt0azVVWWRWV1otWWg5SWk0R1NuVVlLek5ZSG9Jb212cVhpaHA5Y3V0WXZhNkFpLUNhQU80amtReXVoQzRCWWVuWHo4c25UMDdUMkZPT3VXRWdFSVEzaFZZS2lLVE1Yczk3amxVWjl3THItSUVHOHZrUEZLMXJFR2ttbFJmTnVXWG9YbVRWcWVJYzd5ZDVVWldmLTFxN080QU9DSjQ5MTBpRENWcmU5UmhMb3Q3Q3pvQnBLdm9uUmvSAeABQVVfeXFMTmRTZWlBa1BqUHJCaEN5UF8tV1dUX1d0XzQxN3R5eDk1bnkzVk9HRGd3NDdpMTlSMVl1MUg2YnMxWWFHOWY0VEZ5anVpQXo5V2IxQ2FSWFA2ZTNXZ2swcWhmQkJjYVZOUTV4TjBJdmtTdkFQUnoweFA0Skk5cG00NmFGd0NMb3doX2FOazJRdm15clcxbTBlT2ZkTnBpVnV5YkQ0WUsxY3pfQll0YXcyaHp5SWxSVGp6ZGE1dDZ0alVYZG9TcGJsTnZ1REFGTVB6VE9nNGJVcldWZzRVcXEwbHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-06-010",
+    "date": "2026-08-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies Q2 Earnings, Revenue Rise - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPQmhJbHY2T0FmalN6RlQ4eDBlcUxXbmEzVV9HVjgxZXRjMUZwOEhmT3hCVVF6eFprdWM4a3prc2I4STVQcTRua2RUM1VsNHRSRE5qX0s5TTZneTVwYUJ4Ni1Zemh3N1N4NzR0dG5SZF",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQmhJbHY2T0FmalN6RlQ4eDBlcUxXbmEzVV9HVjgxZXRjMUZwOEhmT3hCVVF6eFprdWM4a3prc2I4STVQcTRua2RUM1VsNHRSRE5qX0s5TTZneTVwYUJ4Ni1Zemh3N1N4NzR0dG5SZFIyRGRGSkJ6ZWVzVlRmZTEyVlk3MGJXdWZHTDNLNTRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-06-011",
+    "date": "2026-08-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "HIMAX TECHNOLOGIES ($HIMX) Releases Q2 2026 Earnings - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmRhX0djdWtaVENVSUxKd2I3OWhZWHBwQnlBRmN6eHQtUjFGUl9zOVlRWVNubEdQWUJOOXc0OEdOOEpzdkU0cDZnS3RSZHBPNzVydHpOREpBMzB6R3M0STJxSDZTOVFmeEcwQzlING",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmRhX0djdWtaVENVSUxKd2I3OWhZWHBwQnlBRmN6eHQtUjFGUl9zOVlRWVNubEdQWUJOOXc0OEdOOEpzdkU0cDZnS3RSZHBPNzVydHpOREpBMzB6R3M0STJxSDZTOVFmeEcwQzlINGJ6V2MyeVBaY2VaYzdabFlUc0FDTEVQNjI0ZFdrd2VR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-06-012",
+    "date": "2026-08-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax (NASDAQ:HIMX) Posts Better-Than-Expected Sales In Q2, Stock Soars - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxON3p0LWFWVXQyWkhkWVA4azZoUTBaQVJZRzM0NE9mc2JMbTVnc0wwcjZfTFJKQ0RXXzBQU1dva05Fb1dDOWNNYVhtTDRDVmZ4ZXBYMnBRR1hjdk8zVUtHcEw2SktZblB0UVJVaVNNaz",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON3p0LWFWVXQyWkhkWVA4azZoUTBaQVJZRzM0NE9mc2JMbTVnc0wwcjZfTFJKQ0RXXzBQU1dva05Fb1dDOWNNYVhtTDRDVmZ4ZXBYMnBRR1hjdk8zVUtHcEw2SktZblB0UVJVaVNNazZ0Rk1aUHdPRDIxM1Y1amhxTW9NQ1ZFNXQ0aUFpX3RqVlg2QVQyY3hBUUdfaGtQb3g3S3lMY21yNjR2S1l4Nmw2dDdaa2FVZnVvUkNMeVNhVFVneTR4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-06-013",
+    "date": "2026-08-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies Q2 Earnings Call Highlights - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQNm5jVWtVa2hCUE5sOWozWEhEeGU0RlZlbEtXR0JYcTU1Z2UxMVlpLUd0aGZoSjJfYzJjQWQ3S01rem5YeDZmXzVoSTFwdDJrQ3J0VUxHQ0hkbjY2WGt3S196Q3hmWUQtVFhhVWg4M1",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNm5jVWtVa2hCUE5sOWozWEhEeGU0RlZlbEtXR0JYcTU1Z2UxMVlpLUd0aGZoSjJfYzJjQWQ3S01rem5YeDZmXzVoSTFwdDJrQ3J0VUxHQ0hkbjY2WGt3S196Q3hmWUQtVFhhVWg4M1dicko5TnR3cDZ1MWpUYzJOM0ZPNGZGTk5rbmw4S1d0VXB3U2EzNEZuRXpkdTNONXZpcmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-06-014",
+    "date": "2026-08-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies Q2 Earnings, Revenue Rise - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNNGV3cFpGbHVfbFlOQ09RVUZqalRNNWhYNFNtUFVXazlQbDZIeUdrUWJUTUdGb1MyaUc3NWY0UVlpbTdGVG5oLWJiNm1kdmNXay1fZ2NvTktISzA4T1EtSnZUNUtpQVRzT0lrd1JvbV",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNGV3cFpGbHVfbFlOQ09RVUZqalRNNWhYNFNtUFVXazlQbDZIeUdrUWJUTUdGb1MyaUc3NWY0UVlpbTdGVG5oLWJiNm1kdmNXay1fZ2NvTktISzA4T1EtSnZUNUtpQVRzT0lrd1JvbVpCSU55Z2dCNUkxT29LOUhMaXdvRFJ4ZkQ3RENKTE5yaGszenE4LUlMUHktTC0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-06-015",
+    "date": "2026-08-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Flash (HIMX) Himax Technologies, Inc. Reports Q2 Revenue $227.4M, Vs. FactSet Est of $223.0M - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUnYzWTREaC1QVzcwLVdnZVRfLVdVc3k2emN6eFZicWp2QXNFd1pWUWMtYUJQU05FRFJLTi0xbkVsSkYxX2ZtX2syRDAya0JISkpwNFBDdmxZSFNVTGd0Sk5lN0dUXzkycUJFRE80VE",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUnYzWTREaC1QVzcwLVdnZVRfLVdVc3k2emN6eFZicWp2QXNFd1pWUWMtYUJQU05FRFJLTi0xbkVsSkYxX2ZtX2syRDAya0JISkpwNFBDdmxZSFNVTGd0Sk5lN0dUXzkycUJFRE80VEFLdnpFcXd5MWNsTV9VQnVEVFNKMmlLXzVoTWVMRlR2TVVTUlJqOW4xb2lQeEJoTzBrUTFHOF9nd0F5V0FwdzIwcWxYZlZ6VWhCd1NtSEZqSFNnYVB3VGlJN0pYT2tERXdyWDZlMmhHbjBzZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-06-016",
+    "date": "2026-08-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies Inc (HIMX) (Q2 2026) Earnings Call Highlights: Strong Revenue and Margin ... - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOa2MtMXBXNFFfSV9ad2cxalBLNTJfTmRZTUN6R1lVRVdqRWl2X2tycHd5YTRma3dWV3JBNUZsOEF2ZkNyX2hyelVxZGxjMTBTbU8tMHpDc3ZXLVFmc0JsZVRWbG94cmFRbzd4UWZMa2",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa2MtMXBXNFFfSV9ad2cxalBLNTJfTmRZTUN6R1lVRVdqRWl2X2tycHd5YTRma3dWV3JBNUZsOEF2ZkNyX2hyelVxZGxjMTBTbU8tMHpDc3ZXLVFmc0JsZVRWbG94cmFRbzd4UWZMa21mc2FsX0NHcDVTYm5TV193eXVPZWlhUV9DQ3NrcE1xa0hNYkxqWVpnS3FQQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-06-017",
+    "date": "2026-08-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies, Inc. Provides Earnings Guidance for the Third Quarter of the Year 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaE56WXRJYTFobm9MY0E1MzJNS0xvU25hN1lEUzBQeXMxVldxNVc2WTNvaTZaX1BoOEVWU0ZEeFNJVWlhYjdiWXI3OXBPUy1oa1Zma0VHR2hyN29lWDZYNDQ3dkpqT2tmQzRzMTE4a2",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaE56WXRJYTFobm9MY0E1MzJNS0xvU25hN1lEUzBQeXMxVldxNVc2WTNvaTZaX1BoOEVWU0ZEeFNJVWlhYjdiWXI3OXBPUy1oa1Zma0VHR2hyN29lWDZYNDQ3dkpqT2tmQzRzMTE4a2FlYTdBeEhfUzJHNzJPWG96OW1HSUZrZ3U1cGR0c2psRXB3YnZDRzUzTEhNXzVmeERpX3dfazQ4Uk1aaENsNWoxQVp0VV9yakFxM0VENF84Mi1obmhFVmc1VzM1S1BLSTR3MENzaUpyWFg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-06-018",
+    "date": "2026-08-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies, Inc. Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUGw5T1NoalYxbExlZzZrMk5aQjJFeDg3VXp3SjlDWEt4a05CVjNuaUNwckNSYlE1VklsMV8yUENHZ1pjazRhQjdCWFo4ckk1ZmhwUWJfZEhvQ18tQmdyX3JpbExuSFp6dGxTSzRUa2",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUGw5T1NoalYxbExlZzZrMk5aQjJFeDg3VXp3SjlDWEt4a05CVjNuaUNwckNSYlE1VklsMV8yUENHZ1pjazRhQjdCWFo4ckk1ZmhwUWJfZEhvQ18tQmdyX3JpbExuSFp6dGxTSzRUa2UxN21hcDBHXzROUVZwSmpINDN6eFRQQndpOE9CRy0taGVRWS1NZ1VqZE9KSGpoMWNnUGMzNzVHM1JFQkNwRXRrMERtVWhUQzBsTmtfV2R2SmJ0eEVKY1FJcTVER1ZMWXFiaXVmZXM4NC1Pd2U2UXRaMTkzMTIwdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-019",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Major LED Makers Reap Harvest in May Revenues - LEDinside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmlhbTVOSDVVUnRuWWxXcGNhWHFCbjYzSlg5VjV4WThsV2Z1andPRGdHaDZ0VUduN0xtU09va3dZcGxZUFRtQjM3MW80b3NCT2xTS3J4NmMxRWV6Sml3LUVtTEpHeTJ1VXdFM29vSG",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmlhbTVOSDVVUnRuWWxXcGNhWHFCbjYzSlg5VjV4WThsV2Z1andPRGdHaDZ0VUduN0xtU09va3dZcGxZUFRtQjM3MW80b3NCT2xTS3J4NmMxRWV6Sml3LUVtTEpHeTJ1VXdFM29vSGFtRDZLdWRwTnZrNG1Sbm0tNTVua3VJVGRUT0w1Xw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-06-020",
+    "date": "2026-08-06",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Here's LG Display's FLiPP maskless OLED production process logo - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPOUlfeEtPdndTVWEyX3BFYk4wdG82dTFZR2t0QVNXMk51dWxValhkTXZnX3pCbzZ6N0JNRTFtcTNPY1daaG11QnU3Q0NyM2FxdzZneW1wakxManJydkNwbl8zelB1Ym55RVY5eUpybm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOUlfeEtPdndTVWEyX3BFYk4wdG82dTFZR2t0QVNXMk51dWxValhkTXZnX3pCbzZ6N0JNRTFtcTNPY1daaG11QnU3Q0NyM2FxdzZneW1wakxManJydkNwbl8zelB1Ym55RVY5eUpybmFndDNxd2c4aEJSZkZzYjJCQXVNaXpNQ0FrWUY4V2pJa2o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-08-06-021",
+    "date": "2026-08-06",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Japan Display Allottee Partially Exercises Warrants for 2.89 Billion Yen - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWkRuRHZuc2wtUnN0SVVlc3JhaExfUUlZZTZ0dE9ZTDNRNHlSY2pSVElDY0lLLW5ZQjFRanhFNXE0d3N6b1E5RDI1WjNsdTFhNjVKMFZtSllrM284R3V1THR4MzBvUmFfVzRhRTluQ0",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWkRuRHZuc2wtUnN0SVVlc3JhaExfUUlZZTZ0dE9ZTDNRNHlSY2pSVElDY0lLLW5ZQjFRanhFNXE0d3N6b1E5RDI1WjNsdTFhNjVKMFZtSllrM284R3V1THR4MzBvUmFfVzRhRTluQ0ZucGpwenRhMllmUGpIUVdsNUZIMnhXZ3poWlIzUUwxNGRyQkhoYktyRC12ZGZaRGE0ZFpUcURvby1VQkRGRFlVMUJFVy13eGR5TWI1dm1ILVJPQzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-022",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Huawei launches a new edition of its 18-inch foldable OLED laptop, the MateBook Fold",
+    "summary": "<p>In May 2025, Huawei launched it first foldable OLED laptop, the <a href=\"https://www.oled-info.com/huawei-matebook-fold\">MateBook Fold</a>, sporting a 18-inch 1,600 nits 3300 x 2200 foldable LTPO t",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/huawei-launches-new-edition-its-18-inch-foldable-oled-laptop-matebook-fold",
         "type": "rss"
       }
     ]
@@ -539,6 +1080,64 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iOXp4YnNZOThSNjBJbVBNZ2JEX1Y1RGxvQ0pIWW5rTTRjY0pPNUlUZGY5YUNHMnRkdXlNV0pDSTQ0dHJ3ZUVyU19CRWZSbHVqUTlHM1VWYVlwMWFaTFNQYWZSTWREV2pDV3V1Y1ZKTmY2alM5QVRjLWtn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-05-022",
+    "date": "2026-08-05",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The LPGA Tour returns to Corning in 2027 with The Classic | News | LPGA | Ladies Professional Golf Association - lpga.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPQm8wSmMzbjI1bXQtLUtwa2ozN3ZoYUFpNTJiS2xRVzZBcy1OOWU0akV3SV9iYUcwSWp4SU9RQnZFV09KNUJlTXJTWktZV0RqRXdwMFdJVWtadzlEQ2tfdkR3eXBUblZQQ1ljNng0bn",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQm8wSmMzbjI1bXQtLUtwa2ozN3ZoYUFpNTJiS2xRVzZBcy1OOWU0akV3SV9iYUcwSWp4SU9RQnZFV09KNUJlTXJTWktZV0RqRXdwMFdJVWtadzlEQ2tfdkR3eXBUblZQQ1ljNng0bnRVanZRaDV3YkI1TEZWd3h1UTJyUlVqd3dYVENNSFpIRXFTUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-05-023",
+    "date": "2026-08-05",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning Stock Outlook: Is Wall Street Bullish or Bearish? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObkZSaFlZUUNQRlpBaGRNTkZSMjVSVWxBNGRXUHdCSHc5alN2a3dzR3ZIYVhvN1JvejF2WnplSktSMGJ0OWJqSVdlNEZCbURuUkk0ckRkdTdzU05BTXR0MzZWWjI2bVNTRGdWOW4wOW",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObkZSaFlZUUNQRlpBaGRNTkZSMjVSVWxBNGRXUHdCSHc5alN2a3dzR3ZIYVhvN1JvejF2WnplSktSMGJ0OWJqSVdlNEZCbURuUkk0ckRkdTdzU05BTXR0MzZWWjI2bVNTRGdWOW4wOWlFSHdvUDFqeTc3U1RqMmY1anJyZ2VBM2YtYWVoWTd0ZFcxRGQtbGdCaEU3R3ZTb00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-05-024",
+    "date": "2026-08-05",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Earnings: What To Look For From HIMX - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOSm9NVS1hVklucUdaSjFvTnc2RUlPNlU1ekdqZW81X3MwT01mOFpEUF9fS0tXUC1MVUtDUTRiV081a3kwcnFsVHZaelRDMUxSalBmMk5ORF84c2IxSWF0UDh2Ylg3V0pSbU5Ca0xrZG",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSm9NVS1hVklucUdaSjFvTnc2RUlPNlU1ekdqZW81X3MwT01mOFpEUF9fS0tXUC1MVUtDUTRiV081a3kwcnFsVHZaelRDMUxSalBmMk5ORF84c2IxSWF0UDh2Ylg3V0pSbU5Ca0xrZGxadXAwWTF4cElnd1VMSWI0QjN3MnNJVmlkXy04MWN3bzZHUGQzUWxPdGJOWVVQemd3M1FlNQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1171,6 +1770,45 @@
     ]
   },
   {
+    "id": "unknown-2026-08-03-021",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "neutral",
+    "title": "TrendForce: Taiwanese Panel Makers Continue to Reduce Capacity, Reshaping Global LCD Supply-Demand Dynamics - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNRFYwNlBSaWM3amF0TENtcURlZ2VUVHFtTEY4RkExeG44U2NyMS00SlZyMVBiS1N5VFQtM3hWdWRVOFNfRW1lMmtkcDA4a1didmFneW8tcE1PU0VTQ2d1ZVdtclFRa0huaE9Hc1VweH",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRFYwNlBSaWM3amF0TENtcURlZ2VUVHFtTEY4RkExeG44U2NyMS00SlZyMVBiS1N5VFQtM3hWdWRVOFNfRW1lMmtkcDA4a1didmFneW8tcE1PU0VTQ2d1ZVdtclFRa0huaE9Hc1VweHFyTFUtaFlzNjMwTzNra3NaRTk1RVJKUXdEeHRjZ2lVZlJCR1Vva3NGS1JJVHZhVG1Eby0zVDV4T1NRRHZEYVR6WWRiUU9NekpValEyWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-03-022",
+    "date": "2026-08-03",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to put €1.8bn into OLED - advanced-television.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUJ3Ym9NMVg1Y0tjbDJaUk9jX1ZKczhYX3R0cUZNOU04VEprNFJlUnhmT1ZYSWZ0U1MtOW92WXhkWVhVRHFxOXlGMkJxX2dRSEJ2ODRtbDZlVFJnZmI0RE90ZWVrYTZqb3h0Q0lwOF",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUJ3Ym9NMVg1Y0tjbDJaUk9jX1ZKczhYX3R0cUZNOU04VEprNFJlUnhmT1ZYSWZ0U1MtOW92WXhkWVhVRHFxOXlGMkJxX2dRSEJ2ODRtbDZlVFJnZmI0RE90ZWVrYTZqb3h0Q0lwOFZXbERBajRQdzRmWlFrdE5hMWd6VERSRF8tMF9yOVNCMHo3Ry0z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-02-001",
     "date": "2026-08-02",
     "companies": [],
@@ -1590,6 +2228,42 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzg2T3I0R3VXYUEwV3VucXh5ckF3Uk0ydC0wc0RGNi1QXzRzc19QWmdzWUF3NkItaXNFdzkxM21DRDZxd0dNbW9RbVQ0M3A0Ym5LUWNzWW9xZk1WOGJTQmZjVFJQODk0cnhJOC1ueFZhSlkwaEpLQnVYNFExNkFZbXV0RlNxT2JNbC1nUFhQYjV3NUZQRXB6VzQtNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-07-31-018",
+    "date": "2026-07-31",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Corning Rides AI Data Center Growth as Optical Demand Accelerates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPYzhNZGxPeVZ1OTdrenVOVktCbUZhdTRIVkhfWTFmNHZXUFh5VWdfVHhOQVltZmRrYVRDd3pVU3dkNnJkbG1naEtsekpNUHJoY3ljc3UzVjVjRmM2VjE0aGhFYWNCMlBuY25DUGNoV3",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYzhNZGxPeVZ1OTdrenVOVktCbUZhdTRIVkhfWTFmNHZXUFh5VWdfVHhOQVltZmRrYVRDd3pVU3dkNnJkbG1naEtsekpNUHJoY3ljc3UzVjVjRmM2VjE0aGhFYWNCMlBuY25DUGNoV3VETVZTUFFrTmtvYjZPYUQ5YkpzYjJZNklEZVZJU1pmZDltcm1QcWE4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-019",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "More Mini and Micro LED Products and Solutions at Touch Taiwan 2019 - LEDinside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3lpZEh0c1hnRnRXTzFfZWVVTWZSZUstM1hJa3FSUDRWbXFBVjdGQ2pUd1FqSnRwdmxUZVNrOWk4ZVhFNktQbWN2alhUVWdFZUtOTnhFM3l5MU9BMWdaS0txRkRJVzMtSGpGUjNOT2",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR3lpZEh0c1hnRnRXTzFfZWVVTWZSZUstM1hJa3FSUDRWbXFBVjdGQ2pUd1FqSnRwdmxUZVNrOWk4ZVhFNktQbWN2alhUVWdFZUtOTnhFM3l5MU9BMWdaS0txRkRJVzMtSGpGUjNOT25WbWNGN2ZoUTVsc3hlZDd3dmlpSWF5d3A0bWFUeWUtOHIyR1E?oc=5",
         "type": "rss"
       }
     ]

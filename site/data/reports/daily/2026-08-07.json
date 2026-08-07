@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T08:57:46.671516Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-08-07-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Chinese equipment maker breaks into LG Display's OLED supply chain - digitimes",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbVIwVUFJcVk4ZjhUbjByVFNhTGtDY3RsT0xLYUFGWEF5ZzV2bGxYcmpHMmhwWkEwcmlTVW1rSlJrWGRhNkdDeDRnbUdUQnFCQzJpZjBlN2l1cWZOMDI2OVlMZU1BclNoYVpqQkNQcmpSVG9CRURxSEt2aVJwb2VxOC1OTkFndVh1eHRKVVZJS1REeV83TWZjMmlsSlJkamVZVXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-07-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Zhen Ding Tech hits July revenue record on AI and consumer electronics demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260807PD238/zhen-ding-revenue-demand-electronics-2026.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_elec-2026-08-07-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung sounds out Novatek for Galaxy S28 Ultra DDI",
+      "companies": [
+        "samsung_elec",
+        "novatek"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "novatek"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260807VL213/samsung-galaxy-ddi-novatek-supplier.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "himax-2026-08-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Himax Technologies, Inc. 2026 Q2 - Results - Earnings Call Presentation (NASDAQ:HIMX) 2026-08-07 - Seeking Alpha",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOHd6ajdmQ3poSVhGbDlJbEdqcmEyM0g1STk5QUR6YXltbHUzM1A0VDY5ci1LaFVDcHhwSGNSb2Y0SEd0c0dBTUZJUUlVQ1EtQlpuNmtRRF9wVnkyaENiRm5fc2VwdEx6c3N5RWdJeklLTXFET0dVTTcwejh4RWgxdW42REdzbVVXcV8zVkdfZ0dGd3kzbFRIeHR1Z2k3Z1AtcUFnNFJfVDkwSW4zcHFPNENFdGxERUtWVVBlaWlDbDItZ00?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "raydium-2026-08-07-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Raydium reports increased OLED driver shipments, but sees lower demand ahead",
+      "companies": [
+        "raydium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.oled-info.com/raydium-reports-increased-oled-driver-shipments-sees-lower-demand-ahead"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 7,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "raydium",
+        "count": 3
+      },
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "oled_penetration",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 113,
+    "too_old": 172,
+    "gate1_blocked": 37,
+    "gate2_blocked": 23,
+    "passed": 35,
+    "pass_rate": "13.1%",
+    "gate2_block_rate": "8.6%",
+    "gate2_samples": [
+      "LPGA bringing tournament back to Corning, N.Y., in 2027 - Sports Business Journal",
+      "From 1979 To 2009, The Corning Classic Drew Legends — Now The Classic Picks Up Where It Left Off - W",
+      "LPGA Tour’s Corning Classic returning in 2027 for first time since 2009 - wbng.com",
+      "LPGA Tour Returning to Corning for First Time Since 2009 - Finger Lakes Daily News",
+      "Corning upgraded by Truist, firm says 'pullback provides opportunity' (GLW:NYSE) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Raydium Semiconductor、三星電子、Himax Technologies相關動態：「Chinese equipment maker breaks into LG Display's OLED sup...」。主要關注主題為法說會、OLED 滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Chinese equipment maker breaks into LG Display's OLED supply chain - digitimes（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Zhen Ding Tech hits July revenue record on AI and consumer electronics demand（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
