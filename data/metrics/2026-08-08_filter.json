@@ -1,0 +1,14 @@
+{
+  "total_raw": 90,
+  "dup_title": 34,
+  "no_date": 0,
+  "too_old": 14,
+  "gate1_fail": 26,
+  "gate2_fail": 3,
+  "passed": 13,
+  "gate2_samples": [
+    "[Infographic] [Galaxy Unpacked July 2026] Samsung Members Stars Share Their Favorite Features of the",
+    "[Interview] [Galaxy Unpacked July 2026] Inside the Design Behind the Latest Galaxy Z Series and Gala",
+    "TSMC, ASE, WPG: the white-knight battles that built Taiwan's chip empire"
+  ]
+}

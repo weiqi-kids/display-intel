@@ -1,5 +1,152 @@
 [
   {
+    "id": "unknown-2026-08-08-001",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Quanta posts second-highest monthly revenue as notebook shipments plunge 38%",
+    "summary": "Quanta Computer posted its second-highest monthly revenue on record in July, as strong AI server demand sustained growth even as notebook shipments fell nearly 38% from June.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260807PD254/quanta-notebook-shipments-ai-server-revenue-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-002",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Compeq says satellite and data center orders will drive second-half growth",
+    "summary": "Compeq Manufacturing said on August 6 that satellite and data center demand helped lift second-quarter performance, with revenue reaching a record for the period and management expecting further gains",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260807PD252/data-center-compeq-manufacturing-demand-revenue-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-003",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "it_panel_demand",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "IT panel demand cools as August prices hold steady",
+    "summary": "IT panel demand weakened in the third quarter, with both monitors and notebook panels facing a demand correction after early restocking in the first half of the year. But with chip and other component",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260806PD236/panel-demand-shipments-2026-brand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-004",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "it_panel_demand",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Elan warns CPU and DRAM shortages will strain 2H26 PC demand",
+    "summary": "Taiwanese touch controller maker Elan held an earnings call on August 5 and said overall operations in the second quarter of 2026 were still solid, but the PC market in the third quarter and second ha",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260806PD237/elan-pc-cpu-dram-touch-controller.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-005",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Highpoint Service Network posts record first-half profit on India expansion",
+    "summary": "Highpoint Service Network approved its second-quarter 2026 financial report on August 5, posting record revenue for both the quarter and the first half as it expanded in the Asia-Pacific and launched ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260807PD208/profit-2026-revenue-eps-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-006",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Sercomm July revenue rises 51% on Wi-Fi upgrade demand",
+    "summary": "Sercomm Corporation reported July revenue of NT$7.98 billion, up 51% from a year earlier and a new monthly high, as rising AI adoption continued to drive network traffic and equipment upgrade demand. ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260807PD206/revenue-sercomm-demand-equipment-wi-fi.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-007",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Chenbro revenue climbs in the second quarter as July shipments hit a record",
+    "summary": "Chenbro Micom reported consolidated revenue of NT$7.82 billion (US$242.4 million) in the second quarter of 2026, up 10% quarter-over-quarter and 43.7% year-over-year. The server chassis maker also pos",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260807PD207/chenbro-revenue-shipments-2026-chassis.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-008",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Accton revenue jumps on AI switch demand as 1.6T shipments expand",
+    "summary": "Accton Technology Corporation said demand for high-end networking gear remained strong as AI data center buildouts continued, lifting July consolidated revenue to NT$39.473 billion, up 71.69% year-on-",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260807PD205/demand-revenue-accton-switch-high-end.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "raydium-2026-08-07-001",
     "date": "2026-08-07",
     "companies": [
@@ -243,6 +390,96 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHhPVkVNbjhfNlY4SDgtbWNaVFhwdWtKb1A0NTIwbzFzNDFva1d6MUNjbGYxWlBybHU1clZuTjBWb3AxTUlYZ1R0NHA5YXhBZ050R2h6blNmcFg1amRqRi1kV0JsbzBqdWQ1WlhCTE1HMFREZW5hcHJWX0g1VXVKRkhCaW03aDFRVnZBZXZsbElXWUN5Mk43WnU2YWo1cWdqcVlSU3o5M3Ezd3Y1Z1U2SG9uZWtOZ2lwUE9tYi1GYjVURlZFNmZVOHg0b9IB0AFBVV95cUxOSHFyb3EwSlVrX0p1NUlOOVItUThoVVhWbVlXWmo5N2RCeG1vYXFnRzV3QTJrbVNheTNKcWFicXYxSmNGZ1QtbUZqRkRkd0ZVS1N1RWd3dmdpXzh2ZzBnbmNYbDU2UWFvV0FqNlJfdzJIemd2a2NjSm9Gc1ozOVZlUGFlNVJDMU9GamFDakxXUk82U1VTODA4UEF5N0FEdHczdWRMWmpTYlZpckJXV2cxSlMwRDNIM01pam1aWWxMUi1mdmc5d0ZjWmFUVFlObk9Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-014",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Sunic System receives government support to develop an AI-based OLED deposition system",
+    "summary": "<p><a href=\"https://www.oled-info.com/sunic-system\">Sunic System</a> &nbsp;announced that it has been accepted into the Korean Government's Super B Enterprise national R&amp;D initiative. Sunic will b",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/sunic-system-receives-government-support-develop-ai-based-oled-deposition",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-015",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ching Chan Optical profit jumps on high-end optical sorter demand",
+    "summary": "Ching Chan Optical Technology said second-quarter 2026 earnings per share reached NT$0.96, up 12-fold year-on-year, as shipments of high-end optical sorting machines for passive components and LEDs li",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260807PD201/profit-high-end-2026-inspection-passive.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-016",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "iST reports higher gross margin in the second quarter as validation demand rises",
+    "summary": "Integrated Service Technology (iST) reported consolidated revenue of about NT$1.184 billion in the second quarter of 2026, up 9.24% quarter-over-quarter but down 1.7% from a year earlier. The Taiwan-b",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260807PD202/ist-revenue-gross-margin-demand-profit.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-017",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Nova Technology posts record second-quarter and first-half profit on strong order recognition",
+    "summary": "Nova Technology posted record second-quarter and first-half 2026 profit as orders from semiconductor, memory, and advanced packaging customers continued to drive revenue recognition. The Taiwan-based ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260807PD204/profit-revenue-2026-packaging-earnings.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-018",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "WinWay revenue jumps as AI test socket orders drive growth",
+    "summary": "WinWay Technologies said orders from AI customers and stronger demand for advanced testing products lifted shipments in the second quarter of 2026, with revenue rising for a fourth straight quarter on",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260807PD251/revenue-2026-growth-test-socket-demand.html",
         "type": "rss"
       }
     ]

@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-08",
+  "total_events": 8,
+  "by_company": {},
+  "by_topic": {
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.5
+    },
+    "panel_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "it_panel_demand": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
