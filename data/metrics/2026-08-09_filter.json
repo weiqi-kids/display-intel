@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 29,
+  "gate2_fail": 21,
+  "passed": 37,
+  "gate2_samples": [
+    "Corning Incorporated (GLW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "UNICOM Systems Inc. Takes $13.61 Million Position in Corning Incorporated $GLW - MarketBeat",
+    "LPGA bringing tournament back to Corning, N.Y., in 2027 - Sports Business Journal",
+    "LPGA Tour’s Corning Classic returning in 2027 for first time since 2009 - WBNG",
+    "Corning Incorporated (GLW) stock price, news, quote and history - Yahoo Finance Singapore"
+  ]
+}

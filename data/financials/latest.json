@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-08T08:39:41.913413Z",
-  "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
+  "updated_at": "2026-08-09T08:39:42.553419Z",
+  "quarter": "2026-03-31, 2026-04-30, 2026-06-30",
   "companies": [
     {
       "id": "applied_materials",
@@ -58,17 +58,17 @@
       "name": "佳能",
       "ticker": "7751.T",
       "currency": "JPY",
-      "ar": 733809000000,
-      "ar_prev": 639785000000,
-      "ar_qoq": "+15%",
+      "ar": 688734000000,
+      "ar_prev": 733809000000,
+      "ar_qoq": "-6%",
       "ar_period": "QoQ",
-      "inventory": 840445000000,
-      "inv_prev": 879459000000,
-      "inv_qoq": "-4%",
+      "inventory": 961468000000,
+      "inv_prev": 840445000000,
+      "inv_qoq": "+14%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "corning",
