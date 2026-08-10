@@ -1,0 +1,198 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T09:17:49.897751Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_elec-2026-08-10-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung Galaxy S25 Ultra Introduces Corning® Gorilla® Armor 2, the Industry’s First Anti-Reflective Glass Ceramic For Mobile Devices - samsung.com",
+      "companies": [
+        "samsung_elec",
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlZlZJdG45SmJMOU14b2JOQ0lxZFVhbDVuZ0t0LXA0UnQwU3V6TXpMWFEzSUxQMzItMGo1eFdHLVktRVdwQ3M5bF9yd2REeV9oNFZUd1JXVDVGOEpRWUFJa09CT1VCQnMxbnJjblhFSi1Hekk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-10-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "TSMC July revenue jumps 44.7% to record US$14.5B, 2026 growth forecast tops 40%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260810VL209/tsmc-revenue-growth-2026-forecast.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-10-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Moore Threads eyes HK listing after 147% revenue surge, AI GPU expansion",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260810VL202/moore-threads-ai-gpu-revenue.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hotai Leasing to debut on the Taiwan stock market on August 11",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260810PD246/taiwan-2026-market-launch-vehicle.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-10-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Acer Gadget lifts revenue on smart-life peripherals and plans 2H expansion",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260810PD218/acer-revenue-market-subsidiary-2026.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      },
+      {
+        "id": "sony",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 125,
+    "too_old": 174,
+    "gate1_blocked": 34,
+    "gate2_blocked": 23,
+    "passed": 24,
+    "pass_rate": "9.4%",
+    "gate2_block_rate": "9.0%",
+    "gate2_samples": [
+      "Corning Incorporated (NYSE:GLW) Given Consensus Rating of \"Moderate Buy\" by Brokerages - MarketBeat",
+      "LPGA bringing tournament back to Corning, N.Y., in 2027 - Sports Business Journal",
+      "LPGA Tour’s Corning Classic returning in 2027 for first time since 2009 - WBNG",
+      "Corning Incorporated (GLW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "LPGA Tour Returning to Corning for First Time Since 2009 - Finger Lakes Daily News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為三星電子、康寧、BOE Technology相關動態：「Samsung Galaxy S25 Ultra Introduces Corning® Gorilla® Arm...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung Galaxy S25 Ultra Introduces Corning® Gorilla® Armor 2, the Industry’s...",
+        "level": "red"
+      },
+      {
+        "text": "TSMC July revenue jumps 44.7% to record US$14.5B, 2026 growth forecast tops 40%（法說會）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

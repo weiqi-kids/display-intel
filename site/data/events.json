@@ -1,5 +1,260 @@
 [
   {
+    "id": "samsung_elec-2026-08-10-001",
+    "date": "2026-08-10",
+    "companies": [
+      "samsung_elec",
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Galaxy S25 Ultra Introduces Corning® Gorilla® Armor 2, the Industry’s First Anti-Reflective Glass Ceramic For Mobile Devices - samsung.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBlZlZJdG45SmJMOU14b2JOQ0lxZFVhbDVuZ0t0LXA0UnQwU3V6TXpMWFEzSUxQMzItMGo1eFdHLVktRVdwQ3M5bF9yd2REeV9oNFZUd1JXVDVGOEpRWUFJa09CT1VCQnMxbnJjblhFSi",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlZlZJdG45SmJMOU14b2JOQ0lxZFVhbDVuZ0t0LXA0UnQwU3V6TXpMWFEzSUxQMzItMGo1eFdHLVktRVdwQ3M5bF9yd2REeV9oNFZUd1JXVDVGOEpRWUFJa09CT1VCQnMxbnJjblhFSi1Hekk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-08-10-002",
+    "date": "2026-08-10",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why is BOE Technology stock sliding today? - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQTE9qcVZQX0t1YnZOQ2djcDJqaGNFVDAtbUlQZE9kQi1jdHNPU2tnc3pVYlVaT3ctNDY2QkxzcGpfalpPbi1vT1dBQXc2cE1lYmZoa0V0RDRDUjBZUXdFcnpDQWlNTUxyMFFadUJTQ3",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTE9qcVZQX0t1YnZOQ2djcDJqaGNFVDAtbUlQZE9kQi1jdHNPU2tnc3pVYlVaT3ctNDY2QkxzcGpfalpPbi1vT1dBQXc2cE1lYmZoa0V0RDRDUjBZUXdFcnpDQWlNTUxyMFFadUJTQ3ppR2Y5TDRFWXpTczYtczFhWkVEQThnU2liYWs3bUxRc1lyalJyRy10em1pbmRheF9qNGNQYjdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-003",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hotai Leasing to debut on the Taiwan stock market on August 11",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:322;117-438\">Hotai Motor's all-round mobility services unit, Hotai Leasing, will officially launch its public listing on August 11. Hotai Leasing posted NT$2.7 bill",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260810PD246/taiwan-2026-market-launch-vehicle.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-08-10-004",
+    "date": "2026-08-10",
+    "companies": [
+      "sony"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sony, TSMC to spend US$6.3 billion on Japan image sensor venture, Nikkei says",
+    "summary": "<p class=\"P1\" data-start=\"1304\" data-end=\"1615\">Sony Group and Taiwan Semiconductor Manufacturing Company (TSMC) plan to invest around JPY1 trillion (approx. US$6.3 billion) in a joint venture to mass",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260810VL211/sony-tsmc-sensor-nikkei-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-005",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Acer Gadget lifts revenue on smart-life peripherals and plans 2H expansion",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:338;110-447\">Acer Gadget, a subsidiary of Acer Group, reported strong second-quarter results for 2026 and said it expects growth to continue in the second half of 2",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260810PD218/acer-revenue-market-subsidiary-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-006",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "TSMC July revenue jumps 44.7% to record US$14.5B, 2026 growth forecast tops 40%",
+    "summary": "<p class=\"P1\" data-start=\"78\" data-end=\"321\">Taiwan Semiconductor Manufacturing Company (TSMC) reported record monthly revenue of NT$467.58 billion (approx. US$14.5 billion) for July 2026, up 5.6% fro",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260810VL209/tsmc-revenue-growth-2026-forecast.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-007",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SuperAlloy boosts profit and expands into semiconductor green supply chains",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:425;106-530\">SuperAlloy Industrial said after its August 7 board meeting that second-quarter 2026 results showed steady improvement in core profitability, even thou",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260810PD207/profit-superalloy-2026-revenue-equipment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-10-008",
+    "date": "2026-08-10",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung HBM4 yield nears 80% as production race with SK Hynix heats up",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:290;108-397\">Samsung Electronics has reportedly pushed the production yield of its sixth-generation high-bandwidth memory (HBM4) close to 80%, marking a sharp impro",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260810VL206/samsung-production-hbm4-sk-hynix-hbm.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-009",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Chenbro stays bullish on AI demand, flags seven indicators to watch in 2H26",
+    "summary": "Chenbro CEO Corona Chen said the company's July 2026 revenue experienced some fluctuations due to shipment scheduling, shipping logistics, and the timing of revenue recognition.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260810PD228/chenbro-server-rack-demand-revenue-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-010",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Moore Threads eyes HK listing after 147% revenue surge, AI GPU expansion",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:360;113-472\">Chinese AI GPU developer Moore Threads is preparing a Hong Kong listing after first-half revenue jumped 147.42% year on year to CNY1.74 billion (approx",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260810VL202/moore-threads-ai-gpu-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-011",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Cambricon AI chip revenue doubles as China demand surges, supply capacity holds key",
+    "summary": "Cambricon Technologies has largely settled the question of whether China's AI chip champion can make money. First-half 2026 revenue rose 108.13% to CNY6 billion (approx. US$890 million), attributable ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260810VL203/cambricon-ai-chip-revenue-capacity-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-09-001",
+    "date": "2026-08-09",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Stock Jumped 5% Last Friday. A Polysilicon Tariff, Not AI, Did It. - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGo4VWRZQmZNaWctaDBwb3Fwb2hzQUZQN0lxN3hLOFZJSnFGQWVNengydW11R1pLUGZDOHdrTkZiV09aeDFfNWpGNHdldGhoM2VhZTd4MldLdzJwanRxMEk4em9FNm9Mejh6R3dydX",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGo4VWRZQmZNaWctaDBwb3Fwb2hzQUZQN0lxN3hLOFZJSnFGQWVNengydW11R1pLUGZDOHdrTkZiV09aeDFfNWpGNHdldGhoM2VhZTd4MldLdzJwanRxMEk4em9FNm9Mejh6R3dydXJxTlNWSDVwVnZPU1lBYi1UdHowNnBhYVEwdnJwVDRmOW9Od2RKZ2p3SnUyRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-09-002",
+    "date": "2026-08-09",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NewEdge Advisors LLC Sells 14,991 Shares of Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNeHpRWHBGZnJPdjQ3RURFSWRDVzlaelZwaGtBUHhINDZXaFNVVXBrMVI5VnNLeDVnMnRKSE80QTdSRDdNMVQ1SGxub2dZT01BWG9CR1dtYUg0WjEyWmpTcVZYdnBqWFY4VjVPdi1zYW",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeHpRWHBGZnJPdjQ3RURFSWRDVzlaelZwaGtBUHhINDZXaFNVVXBrMVI5VnNLeDVnMnRKSE80QTdSRDdNMVQ1SGxub2dZT01BWG9CR1dtYUg0WjEyWmpTcVZYdnBqWFY4VjVPdi1zYWVJYmdzb1RkU2JOT2l0aVgxREpQZ1J2V05NMG9lVGxydDFFeGZjRFIxRjMzMEt4LWE4aTRYd0tVajFuNk5rM0UwUEJOanZIVVZKc1ZMdXRkMmItU0d2Sm04?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-08-09-003",
+    "date": "2026-08-09",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of Japan Display Inc. – TSE:6740 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFdLejRVd2xFMW5vTlJHMTZUSVEzcHpPWnp0LU96cDRHUk1mN3gzNU5GUEdwWFZPWmZFRGlnbFlyb0dxa2R6NkpUenM1SGh3UEt0ZnF1MTBaOG85MUFqMFRWU1NwYWxKV2Yxblo3OH",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFdLejRVd2xFMW5vTlJHMTZUSVEzcHpPWnp0LU96cDRHUk1mN3gzNU5GUEdwWFZPWmZFRGlnbFlyb0dxa2R6NkpUenM1SGh3UEt0ZnF1MTBaOG85MUFqMFRWU1NwYWxKV2Yxblo3OHBla3ZjVnhodXBMY3hUYm92eWRuX05EczlfVVJic1o4VGhNR3BMZEJtTXBtRmxJYjdUa19iRVA2YVc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-08-001",
     "date": "2026-08-08",
     "companies": [],
@@ -418,6 +673,62 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOajkyWDA5VWNoQnRHMVRPVk9xOFhMTi1DS1ctQk5oNDdac21ncHZZS3JYVms4aGFnQ0plYUhmcnI2Q0pqbTBlc2tvOWxVMVQxckY1bWFDTDQ4elBLTmtXQ2Q3aUNQODktVDhYYUFtUV85M0hlN3l5R2ZhVm54dGt6SHFmN19uZEJmY01fLUxzMmhVa1dWRXk5SlZtYUJHVnJrbUpGMzVJby1nR092SmdKYlNSR3FCNXE3Z2lMeF8tX0NSUGZ2Sjk1ck1ZejdLeUNmVXZUeGtXYVVlbTd1X0RONjB1cFBuV0RrSGJfOVE4eXRWUdIB9wFBVV95cUxQZlNkU25hYVFLc1E4TFc4YUxNSlY3WUVZWDZOWXcxLWJHa2E5dDB2bW8ySGFtSUttVVR4cVdxYklndDdMei1tTVdCd2loYV9VdGZvXzlTUjV1cVpPQjJBd0poRDJJNGEwdjEwWGZENkRBcWtNTlU0bXZkdnB0UVY0T3JfT2Z5a1lVWVZfTWEyRThBdnB3cjJFc01rUjB4SC1kam43clpTa044XzkyamJ1a0pzVUo2WVFreE45aUpMRmdvV2l0Q0lFUGZjSHhtNlFEX2I0b201VDlieXl2QmJ6dU1sZjB1bzdXbTJhZGtIaGFoYkZkVlVj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-08-08-024",
+    "date": "2026-08-08",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Is Preparing to Replace Its Most Famous Lens Technology - Canon Rumors",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPUlVvOEpCSExELWtBaHhEcmFqQ2dSTjJoRjhpZGRlZUxjb05GX1BaUGVyNjhEZVhwZXpoLTk2UkVBM1BOaW92MW9JczFmRTZaOThjSjk5SDQ5V3g4QldEZFFQcG9YeFRETU1tWU5Xd2",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUlVvOEpCSExELWtBaHhEcmFqQ2dSTjJoRjhpZGRlZUxjb05GX1BaUGVyNjhEZVhwZXpoLTk2UkVBM1BOaW92MW9JczFmRTZaOThjSjk5SDQ5V3g4QldEZFFQcG9YeFRETU1tWU5Xd2hEWGVrUldUc1JvR0RpbzVwUDFtZzZiUVY0d3htU3AxVDRCXzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-08-025",
+    "date": "2026-08-08",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Analysts’ Opinions Are Mixed on These Technology Stocks: Himax Technologies (HIMX), AvePoint (AVPT) and nLIGHT (LASR) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxQVExrbFAtZWl6X0pGdWcwQWFmWFZyVGU4bTdrS2tEakFqbTU2MkJyZzZXdzJhTkM0LUM0d3g2R1pjckdVZC02eG9pTFdzQ1prQ0hIaW5wZ1Y3R3ctYnJMZUV4MVVDX1lQazJwWFJBMT",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQVExrbFAtZWl6X0pGdWcwQWFmWFZyVGU4bTdrS2tEakFqbTU2MkJyZzZXdzJhTkM0LUM0d3g2R1pjckdVZC02eG9pTFdzQ1prQ0hIaW5wZ1Y3R3ctYnJMZUV4MVVDX1lQazJwWFJBMTRqdVJMbWNhdDFBTEpUazVjVGU0dEEzb1FHYWVrbTRsNmhnQ2k2aHFHTGNiaXg5bTVRRmphR1l2MEgzdlRGZ1RHOHdGMXlpeHhzWHFwYzdxdjJtZXNKYnJBUXRvd0htMkJ5NDZua2ZvVVl2aGk0WXB2eG9MbUJ4cW1Memk5OE5PdXg4UThLOUdWTlppY2ttdkNHWHNxRlE1NDFmYTI0T0NoU0hFSGJlcVZEcmFEN183LWo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-08-08-026",
+    "date": "2026-08-08",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "BOE Technology Group Co., Ltd. (000725.SZ): Has established a project team dedicated to Micro LED optical interconnect systems and glass substrate CPO technology development. - news.futunn.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQdDl0UWZ5OG42NmhzZ1JwQktXN1BaazhNN2ZraEJSa0tQVjZQUHY2QWg2bzc4azhXMjlweXJScXZDdjBwMzhSVHFmdGR6N1ZxcVFzQWx3WmdDN1hzaDNhOVd4N1V1eTZSODdialpyel",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdDl0UWZ5OG42NmhzZ1JwQktXN1BaazhNN2ZraEJSa0tQVjZQUHY2QWg2bzc4azhXMjlweXJScXZDdjBwMzhSVHFmdGR6N1ZxcVFzQWx3WmdDN1hzaDNhOVd4N1V1eTZSODdialpyelVyajFHXzd2LWpIN1BWZ0E0SnJvaHhIN0JjcGFNWjhSek5fb2g4aWJRQWsxZHM?oc=5",
         "type": "rss"
       }
     ]
@@ -868,6 +1179,24 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0kxLTBTQ1JzWDE4NlNJWHZhSEo5QzZZUno5S2llOW8xV0VENFR2UUNsbm1jTlJzWGVjTGJNZ2JKQVIyQXJvQUxJNE4zWkloNDRWaUtJR3JBbjRwZkhZWVQyaFRVSV9oWUhqeGVWSWk1WEZSektmTllOSFNERUhsZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-07-025",
+    "date": "2026-08-07",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Castle Rock Wealth Management LLC Buys New Stake in Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZHRrVTBZNnJ1NGF1N0gtSkUtN09XcGdTYmU2b0kzQ1hzRXRiZk1HZ2c4dGFOSE5UdjB1ZnBEOVkzVjdnTGlTSDkxc3lJa2o2ZDlQb1VHc1NORllhdW52cHlFVVZHQmRHOEtFT2Nsa3",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZHRrVTBZNnJ1NGF1N0gtSkUtN09XcGdTYmU2b0kzQ1hzRXRiZk1HZ2c4dGFOSE5UdjB1ZnBEOVkzVjdnTGlTSDkxc3lJa2o2ZDlQb1VHc1NORllhdW52cHlFVVZHQmRHOEtFT2Nsa3VsZEEwN0EtX1czWDk5clJNSWlwTnkwckhfaHJDZkE1dDNsNU9zWHpBcnlWdkNCTG9ZckxRQjhVQXpvMjBQR18yc0ZHa3JiMVR5VE51bHVzQTgtMGc0ZzB3bERQTFNuaUFrV0JN?oc=5",
         "type": "rss"
       }
     ]
@@ -1525,6 +1854,66 @@
     ]
   },
   {
+    "id": "himax-2026-08-06-034",
+    "date": "2026-08-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Himax Technologies Reports Q2 2026 Results Above Guidance; Raises Q3 Outlook on Automotive and Emerging Growth Momentum - quiverquant.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPc19MWDh6SmMtMml2VnhKaE85alpzQmRjOHJIQ3F6SEFjbU96WmlkMlpBM0RTUGRnTG8wXzBFT2t1eDQ5Y3ZpbGpOTDRoTUlMYjRtbUdVREtoRE5IOUNqejRQMW9MSXUtb0VsWF92U2",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPc19MWDh6SmMtMml2VnhKaE85alpzQmRjOHJIQ3F6SEFjbU96WmlkMlpBM0RTUGRnTG8wXzBFT2t1eDQ5Y3ZpbGpOTDRoTUlMYjRtbUdVREtoRE5IOUNqejRQMW9MSXUtb0VsWF92U29ONFBkV0R3eE5TNTVheEhCV2Fvd1E0WjJ5QlAyTi1Yb3dlOTBrVkk0d3Q0QTFuTk9aem9TUE9kZzhfb0V0NTV0bWQ2MHdRcnR2YU9GMWI2blNtTFBkU2VpM0F1bDZOV2s5a2NEUmR5eFg5MFV3LXIxTlYwYThtOFFsSHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-06-035",
+    "date": "2026-08-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "HIMAX TECHNOLOGIES ($HIMX) Releases Q2 2026 Earnings - quiverquant.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmRhX0djdWtaVENVSUxKd2I3OWhZWHBwQnlBRmN6eHQtUjFGUl9zOVlRWVNubEdQWUJOOXc0OEdOOEpzdkU0cDZnS3RSZHBPNzVydHpOREpBMzB6R3M0STJxSDZTOVFmeEcwQzlING",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmRhX0djdWtaVENVSUxKd2I3OWhZWHBwQnlBRmN6eHQtUjFGUl9zOVlRWVNubEdQWUJOOXc0OEdOOEpzdkU0cDZnS3RSZHBPNzVydHpOREpBMzB6R3M0STJxSDZTOVFmeEcwQzlINGJ6V2MyeVBaY2VaYzdabFlUc0FDTEVQNjI0ZFdrd2VR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-06-036",
+    "date": "2026-08-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax: Q2 Earnings Snapshot - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQdXJsNVR1MHZMY1BFMTZFcTU4M3pNVk9vX29OTUEyNzRUbk5YTzZtTXJuXzZCeU5YQmpQT0VYdTVFd1NuTG56MTV6SUM3WHFxNzJSV1hFM2ZtRmFMV19ZaUFpY0FBYkhyd0pLRjY5Ym",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdXJsNVR1MHZMY1BFMTZFcTU4M3pNVk9vX29OTUEyNzRUbk5YTzZtTXJuXzZCeU5YQmpQT0VYdTVFd1NuTG56MTV6SUM3WHFxNzJSV1hFM2ZtRmFMV19ZaUFpY0FBYkhyd0pLRjY5YmRyWWpkU29jeFJXbzRsRG9JeW0wbUUzd0E0ajdIdHFpVHZhNmFMNkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "novatek-2026-08-05-001",
     "date": "2026-08-05",
     "companies": [
@@ -2085,6 +2474,44 @@
     ]
   },
   {
+    "id": "corning-2026-08-05-030",
+    "date": "2026-08-05",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Incorporated $GLW Shares Sold by Central Pacific Bank Trust Division - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHNEZWY3MDV5SFFpOFN3VW5GV2R6cGxYNVdsS04xSzhpaWZ1UGRnNFJqNU9ZVjYta3VfVzhycEQ3UkpWYWVqZGtsWHhxZHE2VTloUUJ1NXB0QVk5WFpORGRtcGRuX2s3MmIyZVQyYn",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNHNEZWY3MDV5SFFpOFN3VW5GV2R6cGxYNVdsS04xSzhpaWZ1UGRnNFJqNU9ZVjYta3VfVzhycEQ3UkpWYWVqZGtsWHhxZHE2VTloUUJ1NXB0QVk5WFpORGRtcGRuX2s3MmIyZVQyYnRKdHRCVXZ0LVJkXy1kcWk5cmlMeGphaTc1NUFkVjNjRzVvbTNSdldKcXpsY0ZUYWR0NEJrc0Q4NjBOeDVRaUMyR0ZCUHpMbUFsYURIR21qTk9BbEk0Rk04aFN4Q1k1ZjhMT0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-05-031",
+    "date": "2026-08-05",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG UltraGear 45 OLED Falls to $999 at Best Buy: 92 PPI Tradeoff Explained - techtimes.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNSWM0ZmhmMUo4ZzFrbUJGbng2bmFCelJHOFZYel8wVmRtY29ieTczeFBTTzJCR09EYVVMdVBXeWRLRXFhRmt6RWQtbmhNUHVXUHF3ZS15MVJLU2plZUV5WkI5d1VTZm1mOHFxdHVqMW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSWM0ZmhmMUo4ZzFrbUJGbng2bmFCelJHOFZYel8wVmRtY29ieTczeFBTTzJCR09EYVVMdVBXeWRLRXFhRmt6RWQtbmhNUHVXUHF3ZS15MVJLU2plZUV5WkI5d1VTZm1mOHFxdHVqMWtYbVJWMlpQOFZIRG5pVXRoSktQNXFPUmhxOU9pSGdLejlVUi0xcFlRSFF3WkxrVG1yVVNNc0NQUnZGNk42ZDBhSjVMcTh3Yk9CS1RFUA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-08-04-001",
     "date": "2026-08-04",
     "companies": [
@@ -2329,6 +2756,26 @@
       {
         "name": "novatek",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdGxrRGV6WFA0ekhsMHM3VlpqV2VzY3JtV2JXRWZMSGlTYTJFcXRMMjBRc0w0YkpEZkNuelNjX3pkRTFpcFF2c3hoRktPcGUzTGU0R0xBUDVkenVEMm02M09hNndoV18tTExEQUcxemlQZWtsOXZ0OEg1UU02ejhrZHJLRjRQcnpsMXVWMmlYdWs3LWt1M1lUYUFHTWVoV2RWRVNNRVBvZGZvb0J2dFNzbnpKX29vOUJLNGtjRV9lQy1wVDRnbU9STDgtUU1lUzZVWUF2TS1pd2NjWXZQZTMzZTdRc2VQdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "raydium-2026-08-04-014",
+    "date": "2026-08-04",
+    "companies": [
+      "raydium"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Raydium Semiconductor Corporation Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbU1SSTBycUtrenNBcmlSd1V2UEF1Y2h3ckJiTTZtVWI1bUI5ZVdxdXZ6bmxKNVNyMGMyOFowQ2hiREItS1NlWldaNy13LUMtTGxLUm15RElPS0RNQTlGaldOTWluM0UtRnRxOEtnRH",
+    "sources": [
+      {
+        "name": "raydium",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbU1SSTBycUtrenNBcmlSd1V2UEF1Y2h3ckJiTTZtVWI1bUI5ZVdxdXZ6bmxKNVNyMGMyOFowQ2hiREItS1NlWldaNy13LUMtTGxLUm15RElPS0RNQTlGaldOTWluM0UtRnRxOEtnRHJ4Z0UtV05LZGprMXowQlFPTlhkVWgtOTBXNERKSHVLTlJKZUpQUHMzSXo5ZWItc1JUR19NVUVPVE15YTUydHdYVFpnYVJQWFFqTEFEZGFiT2RjYXVVeGlyNnZNV0FnTFc2am5fTUZMWkl6dVpvMG1uZG1ONkFfeWJs?oc=5",
         "type": "rss"
       }
     ]

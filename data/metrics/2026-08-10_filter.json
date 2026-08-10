@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 125,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 34,
+  "gate2_fail": 23,
+  "passed": 24,
+  "gate2_samples": [
+    "Corning Incorporated (NYSE:GLW) Given Consensus Rating of \"Moderate Buy\" by Brokerages - MarketBeat",
+    "LPGA bringing tournament back to Corning, N.Y., in 2027 - Sports Business Journal",
+    "LPGA Tour’s Corning Classic returning in 2027 for first time since 2009 - WBNG",
+    "Corning Incorporated (GLW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "LPGA Tour Returning to Corning for First Time Since 2009 - Finger Lakes Daily News"
+  ]
+}

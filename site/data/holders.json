@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:39:45.498577+00:00",
+  "updated_at": "2026-08-10T09:17:49.327093+00:00",
   "companies": {
     "corning": {
       "name": "Corning Incorporated",
@@ -144,7 +144,7 @@
           "holder": "Oregon Public Employees Retirement Fund",
           "shares": 761700,
           "pct_held": 0.06,
-          "value": 3530479500
+          "value": 3525147600
         }
       ]
     },
@@ -291,25 +291,25 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 987850,
           "pct_held": 0.02,
-          "value": 228193350000
+          "value": 227205500000
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 73831,
           "pct_held": 0.0,
-          "value": 17054961000
+          "value": 16981130000
         },
         {
           "holder": "Stanley-Laman Group, Ltd.",
           "shares": 20000,
           "pct_held": 0.0,
-          "value": 4620000000
+          "value": 4600000000
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 29000,
           "pct_held": 0.0,
-          "value": 6699000000
+          "value": 6670000000
         }
       ]
     },
@@ -322,25 +322,25 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 4949950,
           "pct_held": 0.08,
-          "value": 18418763950
+          "value": 18631611800
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 1163977,
           "pct_held": 0.02,
-          "value": 4331158417
+          "value": 4381209428
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 1169,
           "pct_held": 0.0,
-          "value": 4349849
+          "value": 4400116
         },
         {
           "holder": "Meyer Handelman Co",
           "shares": 11862,
           "pct_held": 0.0,
-          "value": 44138502
+          "value": 44648568
         }
       ]
     }

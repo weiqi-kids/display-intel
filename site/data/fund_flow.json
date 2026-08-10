@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:39:43",
+  "updated_at": "2026-08-10T09:17:47",
   "etfs": {
     "SMH": {
       "name": "VanEck Semiconductor ETF",
@@ -195,8 +195,8 @@
       "name": "iShares Semiconductor ETF",
       "latest_price": 543.27,
       "daily_change_pct": 2.02,
-      "flow_5d": 352848924,
-      "flow_20d": -555660065,
+      "flow_5d": 353404645,
+      "flow_20d": -555104344,
       "flow_trend": "inflow",
       "daily_flow": [
         {
@@ -375,8 +375,8 @@
         },
         {
           "date": "2026-08-07",
-          "flow": 56017670,
-          "volume": 5210946,
+          "flow": 56573391,
+          "volume": 5262641,
           "change_pct": 2.02
         }
       ]

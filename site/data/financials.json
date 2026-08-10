@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:39:42.553419Z",
+  "updated_at": "2026-08-10T09:17:45.933204Z",
   "quarter": "2026-03-31, 2026-04-30, 2026-06-30",
   "companies": [
     {
@@ -92,17 +92,17 @@
       "name": "奇景",
       "ticker": "HIMX",
       "currency": "USD",
-      "ar": 190940000,
-      "ar_prev": 200876000,
-      "ar_qoq": "-5%",
+      "ar": 220250000,
+      "ar_prev": 190940000,
+      "ar_qoq": "+15%",
       "ar_period": "QoQ",
-      "inventory": 151671000,
-      "inv_prev": 152675000,
-      "inv_qoq": "-1%",
+      "inventory": 151471000,
+      "inv_prev": 151671000,
+      "inv_qoq": "-0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "innolux",
