@@ -1,0 +1,256 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T08:52:19.296495Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_elec-2026-08-11-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Reports suggest that Apple is increasing its iPhone OLED panel orders, as it increases its panel inventory",
+      "companies": [
+        "samsung_elec",
+        "lg_display",
+        "boe",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec",
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display",
+          "boe"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.oled-info.com/reports-suggest-apple-increasing-its-iphone-oled-panel-orders-it-increases-its"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-11-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "AP Systems reports record results on H1 2026, driven by its OLED equipment business",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.oled-info.com/ap-reports-record-results-h1-2026-driven-its-oled-equipment-business"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-11-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Taiwan's AI server supply chain posts record July as growth spreads down the component tier",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260811VL212/demand-ai-server-growth-component-supply-chain.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-11-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "YAGEO, Walsin post record July sales as AI demand lifts passive components",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260811PD204/walsin-revenue-demand-passive-2026.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-11-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Gemtek, CyberTAN see YoY growth turn positive in July",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260811PD225/cybertan-gemtek-network-equipment-growth-supply-chain.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "it_panel_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.21,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 5,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 5
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "oled_penetration",
+        "count": 6
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 1
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 127,
+    "too_old": 164,
+    "gate1_blocked": 37,
+    "gate2_blocked": 27,
+    "passed": 25,
+    "pass_rate": "9.9%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Corning Inc Stock (GLW) Moved Down by 3.35% on Aug 10: What Investors Need To Know - TradingKey",
+      "LPGA bringing tournament back to Corning, N.Y., in 2027 - Sports Business Journal",
+      "LPGA Tour’s Corning Classic returning in 2027 for first time since 2009 - WBNG",
+      "Corning Incorporated (NYSE:GLW) Given Consensus Rating of \"Moderate Buy\" by Brokerages - MarketBeat",
+      "Assenagon Asset Management S.A. Cuts Position in Corning Incorporated $GLW - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為三星電子、LGD、BOE Technology相關動態：「Reports suggest that Apple is increasing its iPhone OLED ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Reports suggest that Apple is increasing its iPhone OLED panel orders, as it ...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "AP Systems reports record results on H1 2026, driven by its OLED equipment bu...（OLED 滲透率、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "IT 面板需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

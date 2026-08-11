@@ -1,5 +1,303 @@
 [
   {
+    "id": "unknown-2026-08-11-001",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "it_panel_demand"
+    ],
+    "impact": "neutral",
+    "title": "Capacity rationalization by Taiwan’s two panel giants to reshape TV, monitor, and notebook panel supply by 2028 - dqindia.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRFAyQmVGYnJSSHFtZzZHZWpkclJrYzE2UXl1VjVDbXV4aC1Zc2lMNWxhcXFaSUd6d2daV2lOSE0yemFkUGJZMWo1QmtjeU1WZEE4SGh5bHZCaV9fVm10aE9GS0lteWhxeHBpNnJWck",
+    "sources": [
+      {
+        "name": "innolux",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRFAyQmVGYnJSSHFtZzZHZWpkclJrYzE2UXl1VjVDbXV4aC1Zc2lMNWxhcXFaSUd6d2daV2lOSE0yemFkUGJZMWo1QmtjeU1WZEE4SGh5bHZCaV9fVm10aE9GS0lteWhxeHBpNnJWck5MLWVqRmRpQW5UQW01MW5JOFpJaWlDMnZfRmgyR2lQLXY5alc5bmRKNFJfSGJJakJfaXdaazZnY3J1RlpOMk1VYm95ZUNTU1VQTWFHMzdkUzZyVTlPMUlNdWIyTDlSb0lLVm9Ha3FfUHl6QU9tZ0x0S2k5NFptWUU0X0U4RtIB7AFBVV95cUxPRFAyQmVGYnJSSHFtZzZHZWpkclJrYzE2UXl1VjVDbXV4aC1Zc2lMNWxhcXFaSUd6d2daV2lOSE0yemFkUGJZMWo1QmtjeU1WZEE4SGh5bHZCaV9fVm10aE9GS0lteWhxeHBpNnJWck5MLWVqRmRpQW5UQW01MW5JOFpJaWlDMnZfRmgyR2lQLXY5alc5bmRKNFJfSGJJakJfaXdaazZnY3J1RlpOMk1VYm95ZUNTU1VQTWFHMzdkUzZyVTlPMUlNdWIyTDlSb0lLVm9Ha3FfUHl6QU9tZ0x0S2k5NFptWUU0X0U4Rg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-002",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple is preparing an OLED iMac. Because of display burn-in, it wants to add something unusual to it - Letem světem Applem",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ3hab1hFbE5HdWJuQ2VSeXF3Tkw0SnZCOHVrQ1FPSUdXNTdyRmNuWWM2a1pla1hDc0hpNllpUndUSVdxTDY2UWxiQm02VTN1dzdhSVBWbGFiSk16TmVUUkx5cmltZnpMWmM5cUdLOU",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ3hab1hFbE5HdWJuQ2VSeXF3Tkw0SnZCOHVrQ1FPSUdXNTdyRmNuWWM2a1pla1hDc0hpNllpUndUSVdxTDY2UWxiQm02VTN1dzdhSVBWbGFiSk16TmVUUkx5cmltZnpMWmM5cUdLOUNuc2prb0k3ZTcwMHZ3Vy1kUllfX0JQWWdfWHRkNi1JTGlFN0stMGRkMlpuaEd6d295TDZmekJwcm14clFlUkJYU3M5TEdTRWtXRzhwOHRTSEdBWUlGdV9YdUZlNGw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-11-003",
+    "date": "2026-08-11",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung To Showcase Latest Gaming Innovations at Gamescom 2026",
+    "summary": "Samsung Electronics today announced its participation at Gamescom 2026, taking place at Koelnmesse in Cologne, Germany, from Aug. 26-30. There, the company will showcase its full-stack gaming vision t",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-to-showcase-latest-gaming-innovations-at-gamescom-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-11-004",
+    "date": "2026-08-11",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "Samsung’s 2026 TV and Audio Lineup Earns Praise for Picture, Sound and Gaming",
+    "summary": "Samsung Electronics’ latest TV and audio lineup is earning recognition from leading global technology and home entertainment publications. From the Micro RGB TV to Neo QLED 4K and OLED TVs, Q-Series s",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsungs-2026-tv-and-audio-lineup-earns-praise-for-picture-sound-and-gaming",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-11-005",
+    "date": "2026-08-11",
+    "companies": [
+      "samsung_elec",
+      "lg_display",
+      "boe",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Reports suggest that Apple is increasing its iPhone OLED panel orders, as it increases its panel inventory",
+    "summary": "<p>Reports from Korea suggest that Apple has reached out to its iPhone AMOLED suppliers, Samsung Display, LG Display and BOE, and has increased its orders for OLED panels.</p><div class=\"align-center\"",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/reports-suggest-apple-increasing-its-iphone-oled-panel-orders-it-increases-its",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-11-006",
+    "date": "2026-08-11",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Samsung to increase the production of its new wide-format Galaxy Z8 Fold smartphone",
+    "summary": "<p>Last month Samsung Electronics <a href=\"https://www.oled-info.com/samsung-unveils-three-new-oled-foldables-and-worlds-brightest-smartwatch\">announced</a> its latest foldable OLED smartphone lineup,",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-increase-production-its-new-wide-format-galaxy-z8-fold-smartphone",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-007",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AP Systems reports record results on H1 2026, driven by its OLED equipment business",
+    "summary": "<p>Korea-based semiconductor and FPD equipment designer <a href=\"https://www.oled-info.com/ap-systems\">AP Systems</a> says in H1 2026 it has seen strong demand for its core OLED equipment business cou",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/ap-reports-record-results-h1-2026-driven-its-oled-equipment-business",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-008",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Counterpoint sees a 57% increase in FPD equipment sales, as the IT industry starts its transition from LCD to OLED",
+    "summary": "<p>Counterpoint (DSCC) updates their latest forecast for the FPD equipment market. As the IT industry is starting its transition from LCD to OLED, <a href=\"https://www.oled-info.com/86-gen-amoled-prod",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/counterpoint-sees-57-increase-fpd-equipment-sales-it-industry-starts-its",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-009",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiwan's AI server supply chain posts record July as growth spreads down the component tier",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:376;131-506\">The latest indication of global demand for AI hardware comes not from a hyperscaler capex presentation, but from unaudited monthly filings in Taipei. M",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260811VL212/demand-ai-server-growth-component-supply-chain.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-010",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "negative",
+    "title": "China's Long March 7A rocket explodes 85 seconds after liftoff in rare launch failure",
+    "summary": "China's Long March 7A Y18 rocket exploded in mid-air shortly after launching from Wenchang, Hainan, on the evening of August 10, with its ChinaSat-4B satellite payload believed to have been completely",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260811PD243/china-rocket-launch-investigation-communications.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-011",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Gemtek, CyberTAN see YoY growth turn positive in July",
+    "summary": "As supply chain turbulence is easing, network equipment makers are starting to report better revenues. Gemtek Technology and CyberTAN both saw year-over-year revenue growth turn positive in July. Howe",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260811PD225/cybertan-gemtek-network-equipment-growth-supply-chain.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-11-012",
+    "date": "2026-08-11",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung races to qualify Taylor fab as 2nm demand turns US capacity into a strategic asset",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:424;128-551\">Following growing momentum behind large-scale infrastructure buildouts in South Korea, the industry is witnessing an aggressive wave of AI-related init",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260811VL206/samsung-fab-2nm-capacity-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-013",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "YAGEO, Walsin post record July sales as AI demand lifts passive components",
+    "summary": "YAGEO and Walsin Technology reported strong July 2026 revenue as artificial intelligence demand continued to lift Taiwan's passive components sector. Both companies said orders from AI-related, networ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260811PD204/walsin-revenue-demand-passive-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-014",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Y.S. Tech lifts AI liquid-cooling push as first-half sales hold steady",
+    "summary": "Y.S. Tech reported first-half 2026 results on the back of steady shipments of high-performance computing orders and automotive cooling fans. The Taiwan-based maker said consolidated revenue reached NT",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260811PD234/yen-sun-ai-liquid-cooling-revenue-shipments-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-015",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Fitipower sees e-paper and e-label growth, warns on 2H26 demand",
+    "summary": "<p class=\"P1\" data-sourcepos=\"7:1-7:459;150-608\">Taiwanese display driver IC (DDI) maker Fitipower Integrated Technology's Chairman Young Lin said the company will roll out several new products for sa",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260810PD242/fitipower-ddi-e-paper-demand-display.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-016",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CPO Test Won’t Scale Without Standardization",
+    "summary": "<p>Across the CPO ecosystem, profitability will not happen until standardization occurs. </p>\n<p>The post <a href=\"https://semiengineering.com/cpo-test-wont-scale-without-standardization/\">CPO Test Wo",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/cpo-test-wont-scale-without-standardization/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-08-10-001",
     "date": "2026-08-10",
     "companies": [
@@ -194,6 +492,82 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260810VL203/cambricon-ai-chip-revenue-capacity-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-10-012",
+    "date": "2026-08-10",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Herbst Group LLC Makes New $4.47 Million Investment in Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV0VGaElTR0F4VTgwRmttSTZPUEFIYnZsckZpMEUwckREN0txcXVWQnZSWlI1RGRocjJLSXgybVJaLU1PS3dQdkNpZ1EwMVd5eVltcFpHMGl2M1RraXFqaUpaNVQtT1NvbVFZNzBES2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV0VGaElTR0F4VTgwRmttSTZPUEFIYnZsckZpMEUwckREN0txcXVWQnZSWlI1RGRocjJLSXgybVJaLU1PS3dQdkNpZ1EwMVd5eVltcFpHMGl2M1RraXFqaUpaNVQtT1NvbVFZNzBES2FlVVdxMUpzLWxabnM2UnlzREpKUFJpSXJ4TWlmQndycjUtYWR2MDAzMmVOYTJIOTl1UHBuOG5fMEYybTI3UktKNTQyVVkzLVY5MFZNNUlkcERNbUVQRWJaNXBmR1drV1FxMkZ2dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-08-10-013",
+    "date": "2026-08-10",
+    "companies": [
+      "auo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TSMC Said in NT$30 Billion Talks for Two AU Optronics Plants - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNelJQMlZUZ3d6THpXS2NOSkItNU0yS2x0VTFKcTloRkdRVXh4R2w5SHhkZkExcUtBM3RsZTN6TThYLUV6bEpTcC1DUXJxSTJTU0tRSjhlTXM0OTgyWTUyQTlEaUp1M2k4US1KT2R6d3",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelJQMlZUZ3d6THpXS2NOSkItNU0yS2x0VTFKcTloRkdRVXh4R2w5SHhkZkExcUtBM3RsZTN6TThYLUV6bEpTcC1DUXJxSTJTU0tRSjhlTXM0OTgyWTUyQTlEaUp1M2k4US1KT2R6d3RpWV83NlFXeHQ5d2hUMl9uWkV4VjR6RzFmNHF4LUNnQnBsakhYYnM5TDNTcS0yODdtZmJUXzRnTUsyU3NLOE8xZjE0NA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-014",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple’s OLED iMac Could Get a Brighter, Longer-Lasting Display - The Mac Observer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZWI2RTBuTEc4enFMZEFkRThkaE5ZaHk5SHJRVHZMQV9TWVFxOEl3YXpkUi1ERVJfai1LTERYQkZVRFZHOVY4cEZIRmJZcDVEeDh5T3VsTVhLcG1oTDlFM09JTjhia3RzeW1vTzc1RG",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZWI2RTBuTEc4enFMZEFkRThkaE5ZaHk5SHJRVHZMQV9TWVFxOEl3YXpkUi1ERVJfai1LTERYQkZVRFZHOVY4cEZIRmJZcDVEeDh5T3VsTVhLcG1oTDlFM09JTjhia3RzeW1vTzc1RGcwLTh6akpQbXIxbWg2Z0xwbW50TUd5R0VpY2x0bTNmQjNKS3Z2VFdaRzFn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-10-015",
+    "date": "2026-08-10",
+    "companies": [
+      "samsung_elec",
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple plans to introduce its first OLED iMac in 2029, LGD and SDC are already developing new architectures",
+    "summary": "<p>Reports from Korea suggest that Apple plans to introduce its first OLED iMac all-in-one desktop computer in 2029, and is already in talks with both Samsung Display and LG Display for the supply of ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/apple-plans-introduce-its-first-oled-imac-2029-lgd-and-sdc-are-already",
         "type": "rss"
       }
     ]
@@ -729,6 +1103,44 @@
       {
         "name": "boe",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdDl0UWZ5OG42NmhzZ1JwQktXN1BaazhNN2ZraEJSa0tQVjZQUHY2QWg2bzc4azhXMjlweXJScXZDdjBwMzhSVHFmdGR6N1ZxcVFzQWx3WmdDN1hzaDNhOVd4N1V1eTZSODdialpyelVyajFHXzd2LWpIN1BWZ0E0SnJvaHhIN0JjcGFNWjhSek5fb2g4aWJRQWsxZHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-08-08-027",
+    "date": "2026-08-08",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "CANON INC. (7751.S) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QX011RG9kTDlNdTQzYVdNeGFNejVCZ3Z1YlBoc044UE9FU1NpaDdoUmtnUzRWMFphOEl0Y1JCbkJnOGp1aGJXOXJiaXFTYzZOMmVSZ09zWWhYQVVFWlllTzZwZE1fdlk?oc=5\" targ",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QX011RG9kTDlNdTQzYVdNeGFNejVCZ3Z1YlBoc044UE9FU1NpaDdoUmtnUzRWMFphOEl0Y1JCbkJnOGp1aGJXOXJiaXFTYzZOMmVSZ09zWWhYQVVFWlllTzZwZE1fdlk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-08-028",
+    "date": "2026-08-08",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "negative",
+    "title": "HIMX Q2 Deep Dive: Automotive Display ICs and New Technologies Drive Growth - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdm5UN2l0M3d5Y3VjcF9sMlJoMmFxaWg2NHd4cWZJNEVtemp6N3BYR0pxa1Z0VS04SVhra2RKa3ZXb3NxUllQR1ZRbm5uSVQxSXdXM3NLZG8zSmhuSmsyMVBYV3BJajlwMmF3NjN2eU",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdm5UN2l0M3d5Y3VjcF9sMlJoMmFxaWg2NHd4cWZJNEVtemp6N3BYR0pxa1Z0VS04SVhra2RKa3ZXb3NxUllQR1ZRbm5uSVQxSXdXM3NLZG8zSmhuSmsyMVBYV3BJajlwMmF3NjN2eUJTUVZKRFVlWG1kVllvX3ZtOFUxVEVYalBnVklGemJLSXRYbGZQQlVSZm03dEZZRjVDbDVFNE9nVTI1aFNLcVNVTHJNelhlUWZ2UXJTRGt4TWwtcExDSF9SR2RmZldqNUIwb0pISA?oc=5",
         "type": "rss"
       }
     ]
@@ -1914,6 +2326,46 @@
     ]
   },
   {
+    "id": "himax-2026-08-06-037",
+    "date": "2026-08-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies, Inc. Reports Second Quarter 2026 Financial Results; Provides Third Quarter 2026 Guidance - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxPQVBjcm4wM2RtUVBRNnItU3F2QUR0Z3dVaWtKd3ZHZEY0NmkxOExOYWNwSGtOR0VZbzNDcU9BVnFhWi1FQTBFMVNuZ1JIUnNfRDVkNlRSUzBJRVBBX2ZpSHNOblc1dFh4Z3Q2QUhvMG",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPQVBjcm4wM2RtUVBRNnItU3F2QUR0Z3dVaWtKd3ZHZEY0NmkxOExOYWNwSGtOR0VZbzNDcU9BVnFhWi1FQTBFMVNuZ1JIUnNfRDVkNlRSUzBJRVBBX2ZpSHNOblc1dFh4Z3Q2QUhvMGFrSXlKa0hqcGlJV054RUFiUGdyMGZrVmhkbGNkQ0o0YVJYVVU4WXZjMFhJODBRTnpnZTVLeTF5VXd6eG5sNkg4VW1XcURqV0pqZVI4Qk5oZFlfN3BvcWl0cUtveFNQZUJZbmJocTN3RWJkUGpZVjF5UUZmb3JDT0sxVjg5NHJpc2hIYU55RFBZdWdLOHNrdm8xZmhybzRGa09zYlhJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-06-038",
+    "date": "2026-08-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies Q2 Earnings Call Highlights - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSm91ME5DNWNjazJEblMxcmw2UkYxNE5vZDlGOE9GRjB2eENJVTdYQTY4SHhPdDdCN1FmcWNuY1ZweGhQZDdtLTVpbXFjLUtIWGFWNkVzSGJDN0FIQWQ5NExwQldkVlZOSms0ekE2bU",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSm91ME5DNWNjazJEblMxcmw2UkYxNE5vZDlGOE9GRjB2eENJVTdYQTY4SHhPdDdCN1FmcWNuY1ZweGhQZDdtLTVpbXFjLUtIWGFWNkVzSGJDN0FIQWQ5NExwQldkVlZOSms0ekE2bUxpUjBBalRGT2g5TndtdVdlRUpXQklnbXA0UUQ5T3B0WkhQS0dieXpnWHdtYVhKM2FEQUIwMVEtSmNsQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "novatek-2026-08-05-001",
     "date": "2026-08-05",
     "companies": [
@@ -2776,6 +3228,27 @@
       {
         "name": "raydium",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbU1SSTBycUtrenNBcmlSd1V2UEF1Y2h3ckJiTTZtVWI1bUI5ZVdxdXZ6bmxKNVNyMGMyOFowQ2hiREItS1NlWldaNy13LUMtTGxLUm15RElPS0RNQTlGaldOTWluM0UtRnRxOEtnRHJ4Z0UtV05LZGprMXowQlFPTlhkVWgtOTBXNERKSHVLTlJKZUpQUHMzSXo5ZWItc1JUR19NVUVPVE15YTUydHdYVFpnYVJQWFFqTEFEZGFiT2RjYXVVeGlyNnZNV0FnTFc2am5fTUZMWkl6dVpvMG1uZG1ONkFfeWJs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-08-04-015",
+    "date": "2026-08-04",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "panel_price",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Display Dynamics – August 2026: TCL promotes its proprietary SQD Mini LED backlight LCD TV to compete with RGB Mini LED - Omdia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTEpOdDUxQlBKVEZKc0VMT2JiYVFvczdRMnZIOWtGWGVKblUyTXhXOWh0dE9wdDJFZndYNjJNeTg0VGpLWU5zMjdUR3Zvd1dmTlJzcnJ2RDFncnd3emRiTDdnblZodG1fQ01ucXpYUn",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTEpOdDUxQlBKVEZKc0VMT2JiYVFvczdRMnZIOWtGWGVKblUyTXhXOWh0dE9wdDJFZndYNjJNeTg0VGpLWU5zMjdUR3Zvd1dmTlJzcnJ2RDFncnd3emRiTDdnblZodG1fQ01ucXpYUnZGTmxOZnVYSkdvUnpmNmhySFZ6d3Nlb0JnWmZ2U0V1dUI2U2ZUdHNGUm44blRLMktBaURXZ2pPQTN3blV5cEd5Q1hlbldmNi1iM1ZybDBTSTZacUU0UEJCTmlUUkt3ZUE2Ny1KUWhfU0hwVmEtclJ5WEctMllWRGNXRXJzUTZB?oc=5",
         "type": "rss"
       }
     ]
