@@ -1,0 +1,270 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T09:09:48.348743Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-08-12-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display to hold admissions briefing for Yonsei University contract program - 헤럴드경제",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wS1Z1YjFESjl5SUZZcUl3TjlGYWh2U01tc3VHanV3Q1Z3V1BEU2t4WFFWTmNCaTliRnlZS2taRlM1OXpvaUw5bm9fT09vYThGNEJOTV85dw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_display-2026-08-12-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display to Hold Admissions Briefing with Yonsei University for Display Convergence Engineering, Accelerating Talent Recruitment - asiae.co.kr",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12VERpVFdQLUdfRWl0UHUtMGpjZEJFaUdHMXVzZllGYjBqUFFPdl83akkyRXNaOWtKR3ZVR0dPUTFmb2NRWFN2YVlFazJKcUNJanI5SGNiRjJVOWFfLVNpXzEwelM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jdi-2026-08-12-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Japan Display (TSE:6740) Following Earnings Loss Cuts, Is The Premium Valuation Still Justified - simplywall.st",
+      "companies": [
+        "jdi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMF9FSWNtQzBVemsyLUlMb1hIaWtKelgzSzg3NzljSWNkN1dSWTNITGx1OGtUUEVsQU5iWDY5T0IzYU8yX01NZnhaODIxMDJqN3dlRC00WGx5XzNMNlJhQlE5NXNTZUV5dmZ3VHNFQldXd3MwVDNuRHJGcmJXa0Nhb2JGbl9RRDlpSTEzZ1YtaXhyQThGVGkzdks2aWJ1aVdlczRSazFmWl9Zcm0tR3hyeC1zc0ZXc1NRMWhueGl6SG90X1ByUTRDSll1anjSAdIBQVVfeXFMUHBiQjJhWDY0TTlSWWFxd3lGTnNxLUUxUXlaR05sZ1JZTExydzJ0TFFmVWt2dUVjQmRXRmhfU2d6Zmc4R3F0aUhEUEZ3Y1FZLUNjVHU5UXJ2dzl3WVZTU2pVLW44UjJmUy1vcVkweENfRjhGZ214SUEwYTB3akFvbFN3MmpGS0lmMzZwdEotdi1XQ0tETEVWRHY3elJCUkRqUllaNHM5aVdWU2N5RVFrWWFzOFc3TEFVSlZST3dWcEd1QmpZbzZNWGM0a1dVS2IzNm5B?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_display-2026-08-12-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "BOE hopes to be Apple's second supplier for the 2027 OLED iPad Air and future MacBook laptops",
+      "companies": [
+        "lg_display",
+        "boe",
+        "lg_elec",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec",
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display",
+          "boe"
+        ]
+      },
+      "topics": [
+        "oled_penetration",
+        "automotive_display"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/boe-hopes-be-apples-second-supplier-2027-oled-ipad-air-and-future-macbook"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-12-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Sercomm expands beyond broadband into 5G, edge AI and IoT as 2Q26 revenue hits record high",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260812PD236/sercomm-5g-broadband-revenue-taiwan.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "automotive_display",
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lg_display",
+        "count": 3
+      },
+      {
+        "id": "lg_elec",
+        "count": 3
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "jdi",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "oled_penetration",
+        "count": 3
+      },
+      {
+        "id": "automotive_display",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 128,
+    "too_old": 169,
+    "gate1_blocked": 36,
+    "gate2_blocked": 30,
+    "passed": 17,
+    "pass_rate": "6.7%",
+    "gate2_block_rate": "11.9%",
+    "gate2_samples": [
+      "Jabil vs. Corning: Which AI Infrastructure Stock is the Better Buy? - Yahoo! Finance Canada",
+      "Corning: The Pullback We Asked For Arrived - An Upgrade To Buy (NYSE:GLW) - Seeking Alpha",
+      "LPGA bringing tournament back to Corning, N.Y., in 2027 - Sports Business Journal",
+      "Corning Inc Stock (GLW) Moved Down by 3.35% on Aug 10: What Investors Need To Know - TradingKey",
+      "Redhawk Wealth Advisors Inc. Raises Holdings in Corning Incorporated $GLW - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為LGD、LG電子、三星電子相關動態：「LG Display to hold admissions briefing for Yonsei Univers...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display to hold admissions briefing for Yonsei University contract program...",
+        "level": "red"
+      },
+      {
+        "text": "LG Display to Hold Admissions Briefing with Yonsei University for Display Con...",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

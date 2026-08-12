@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 36,
+  "gate2_fail": 30,
+  "passed": 17,
+  "gate2_samples": [
+    "Jabil vs. Corning: Which AI Infrastructure Stock is the Better Buy? - Yahoo! Finance Canada",
+    "Corning: The Pullback We Asked For Arrived - An Upgrade To Buy (NYSE:GLW) - Seeking Alpha",
+    "LPGA bringing tournament back to Corning, N.Y., in 2027 - Sports Business Journal",
+    "Corning Inc Stock (GLW) Moved Down by 3.35% on Aug 10: What Investors Need To Know - TradingKey",
+    "Redhawk Wealth Advisors Inc. Raises Holdings in Corning Incorporated $GLW - MarketBeat"
+  ]
+}

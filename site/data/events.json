@@ -1,5 +1,195 @@
 [
   {
+    "id": "lg_display-2026-08-12-001",
+    "date": "2026-08-12",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display to hold admissions briefing for Yonsei University contract program - 헤럴드경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wS1Z1YjFESjl5SUZZcUl3TjlGYWh2U01tc3VHanV3Q1Z3V1BEU2t4WFFWTmNCaTliRnlZS2taRlM1OXpvaUw5bm9fT09vYThGNEJOTV85dw?oc=5\" target=\"_blank\">LG Displa",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wS1Z1YjFESjl5SUZZcUl3TjlGYWh2U01tc3VHanV3Q1Z3V1BEU2t4WFFWTmNCaTliRnlZS2taRlM1OXpvaUw5bm9fT09vYThGNEJOTV85dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-08-12-002",
+    "date": "2026-08-12",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display to Hold Admissions Briefing with Yonsei University for Display Convergence Engineering, Accelerating Talent Recruitment - asiae.co.kr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE12VERpVFdQLUdfRWl0UHUtMGpjZEJFaUdHMXVzZllGYjBqUFFPdl83akkyRXNaOWtKR3ZVR0dPUTFmb2NRWFN2YVlFazJKcUNJanI5SGNiRjJVOWFfLVNpXzEwelM?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12VERpVFdQLUdfRWl0UHUtMGpjZEJFaUdHMXVzZllGYjBqUFFPdl83akkyRXNaOWtKR3ZVR0dPUTFmb2NRWFN2YVlFazJKcUNJanI5SGNiRjJVOWFfLVNpXzEwelM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-08-12-003",
+    "date": "2026-08-12",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Japan Display (TSE:6740) Following Earnings Loss Cuts, Is The Premium Valuation Still Justified - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNMF9FSWNtQzBVemsyLUlMb1hIaWtKelgzSzg3NzljSWNkN1dSWTNITGx1OGtUUEVsQU5iWDY5T0IzYU8yX01NZnhaODIxMDJqN3dlRC00WGx5XzNMNlJhQlE5NXNTZUV5dmZ3VHNFQl",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMF9FSWNtQzBVemsyLUlMb1hIaWtKelgzSzg3NzljSWNkN1dSWTNITGx1OGtUUEVsQU5iWDY5T0IzYU8yX01NZnhaODIxMDJqN3dlRC00WGx5XzNMNlJhQlE5NXNTZUV5dmZ3VHNFQldXd3MwVDNuRHJGcmJXa0Nhb2JGbl9RRDlpSTEzZ1YtaXhyQThGVGkzdks2aWJ1aVdlczRSazFmWl9Zcm0tR3hyeC1zc0ZXc1NRMWhueGl6SG90X1ByUTRDSll1anjSAdIBQVVfeXFMUHBiQjJhWDY0TTlSWWFxd3lGTnNxLUUxUXlaR05sZ1JZTExydzJ0TFFmVWt2dUVjQmRXRmhfU2d6Zmc4R3F0aUhEUEZ3Y1FZLUNjVHU5UXJ2dzl3WVZTU2pVLW44UjJmUy1vcVkweENfRjhGZ214SUEwYTB3akFvbFN3MmpGS0lmMzZwdEotdi1XQ0tETEVWRHY3elJCUkRqUllaNHM5aVdWU2N5RVFrWWFzOFc3TEFVSlZST3dWcEd1QmpZbzZNWGM0a1dVS2IzNm5B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-08-12-004",
+    "date": "2026-08-12",
+    "companies": [
+      "lg_display",
+      "boe",
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration",
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "BOE hopes to be Apple's second supplier for the 2027 OLED iPad Air and future MacBook laptops",
+    "summary": "<p>For its 2026 new device lineup, Apple has <a href=\"https://www.oled-info.com/its-new-2026-products-apple-rely-exclusively-amoleds-samsung-and-lg-boe-fails\">decided to rely exclusively</a> on OLED p",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/boe-hopes-be-apples-second-supplier-2027-oled-ipad-air-and-future-macbook",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-005",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Xiaomi launches new smartphones that feature the company's self-developed green pTSF OLED emitters",
+    "summary": "<p>Xiaomi launched two smartphones yesterday, the <a href=\"https://www.oled-info.com/xiaomi-redmi-k100-pro-max\">Redmi K100 Pro and the Redmi K100 Pro Max</a>. The K100 Pro features a 6.59\" 185Hz 4,500",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/xiaomi-launches-new-smartphones-say-they-feature-companys-self-developed-red",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-006",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Bright Side with Brannan | Circularly Polarised OLEDs: Why Are Researchers So Interested?",
+    "summary": "<p><em>This is the second article in <strong>Bright Side with Brannan</strong>, a column by </em><a href=\"https://www.linkedin.com/in/acbrannan\"><em>Prof. Alexander Brannan</em></a><em> of the Univers",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/bright-side-brannan-circularly-polarised-oleds-why-are-researchers-so",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-007",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Column: AI jailbreak incident highlights fresh demand for supply-chain resilience",
+    "summary": "In July, an OpenAI AI agent model successfully bypassed safety restrictions during internal testing and even launched an automated cyberattack against Hugging Face, the world's largest open-source AI ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260812PD216/ai-cybersecurity-governance-openai.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-008",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Sercomm expands beyond broadband into 5G, edge AI and IoT as 2Q26 revenue hits record high",
+    "summary": "Taiwan's Sercomm Corporation is repositioning itself for the next phase of network infrastructure demand by expanding beyond traditional broadband equipment into 5G, fixed wireless access (FWA), enter",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260812PD236/sercomm-5g-broadband-revenue-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-12-009",
+    "date": "2026-08-12",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "CXMT DDR5 yield tops 90%, narrowing gap with Samsung",
+    "summary": "<p class=\"P1\" data-sourcepos=\"7:1-7:203;127-329\">China's leading DRAM maker CXMT has reportedly raised its DDR5 production yield above 90%, narrowing the gap with Samsung Electronics and strengthening",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260812PD226/cxmt-samsung-ddr5-dram-pc.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-010",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FocalTech expects demand to improve in the second half of 2026",
+    "summary": "Touch controller and display driver IC maker FocalTech Systems said it saw revenue regain quarter-on-quarter momentum in the second quarter of 2026 as the 618 shopping festival, new device launches, a",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260810PD204/focaltech-display-driver-ic-demand-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-11-001",
     "date": "2026-08-11",
     "companies": [],
@@ -293,6 +483,100 @@
       {
         "name": "semi_engineering",
         "url": "https://semiengineering.com/cpo-test-wont-scale-without-standardization/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-11-017",
+    "date": "2026-08-11",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Handelsbanken Fonder AB Sells 35,407 Shares of Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNVUY5SXhhX2xWSU9PR0pqUjZHd0FzU251WW9EaWgyUjhUTkh1bXNYdDJpZkdiYXB5ZnRwTjlONVN1SGxMR202NDlCSDI3bFFzUl83YjREZUkxQWFKcGIwVTB1YjBWYzFQNWFwZGxkVm",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVUY5SXhhX2xWSU9PR0pqUjZHd0FzU251WW9EaWgyUjhUTkh1bXNYdDJpZkdiYXB5ZnRwTjlONVN1SGxMR202NDlCSDI3bFFzUl83YjREZUkxQWFKcGIwVTB1YjBWYzFQNWFwZGxkVmtGbFAzQWtUWHQzMHB4cWJfQmdMT196Z2pQVW5jREtiNVg2bnhvN2lYeDBvbUpOaU9vbXVIZUl3MEVtWlVoNUZiVGpvem1fdEFVRWR4eTNzSEktYlFLOE9LNWxYbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-08-11-018",
+    "date": "2026-08-11",
+    "companies": [
+      "lg_display",
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple presses Samsung Display and LG Display for lower iPhone 18 OLED prices - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQcks0anVQbGVoSEttWGRadG1yVEdEMWhpVVpCWGpLQTBpLVFrZk9KY1dmel9hSG9oZHhDV2p4a213Uk5HYjJiNDVUSGtiWmQ3Z2lGZUpwRkhDZGxQalk2eWpDUnhDdFBrUVFzczdBQj",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcks0anVQbGVoSEttWGRadG1yVEdEMWhpVVpCWGpLQTBpLVFrZk9KY1dmel9hSG9oZHhDV2p4a213Uk5HYjJiNDVUSGtiWmQ3Z2lGZUpwRkhDZGxQalk2eWpDUnhDdFBrUVFzczdBQjlwa0ZzaXhaQlVUQ3RLdVdQTUM0TG1FYkktQ091Nw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-11-019",
+    "date": "2026-08-11",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Dodgers Announce Three-Year Partnership With LG Electronics - Dodger Blue",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHM1UEQxUjNMMzB3SDd6MGZGQzlNMS14TGpDdll3THk5aXNaNE9ESmhCQUFkZDBSSE8yaTBPemFwNWRUMW56VzVVME1LQVpXSTk5RlpkZjh6ZmRTaGJpclFNbzY1b2ZWNVJxYlUxNW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHM1UEQxUjNMMzB3SDd6MGZGQzlNMS14TGpDdll3THk5aXNaNE9ESmhCQUFkZDBSSE8yaTBPemFwNWRUMW56VzVVME1LQVpXSTk5RlpkZjh6ZmRTaGJpclFNbzY1b2ZWNVJxYlUxNWVENnEwYTVWWTZ3TEpLOVA3X3VfSDUxbTBMMEdERUlCQUllZHo3Rmo4TGtKeFZaQjBLN2fSAacBQVVfeXFMUFN0NF91bkVuNGZHWlgtbnp6TktibVBTNGNUMFUxSXhrY1lBNFhodVZpNFY3bzlWcXhBOFl2blRtek5QdnExd2tuRXZKX2ROV1JCZFh4UVJNZU9RTTNKSzlnZEpEUFRrekJFUW9VVzdmUHU2UXl1dlpRSUtHRWZkYl91R254bV9GdU4tbG5BQ1BqXzQzVGFkQ1ZkTU9HTXhyeDhfMDg5NWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-08-11-020",
+    "date": "2026-08-11",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "BOE Technology Group Co., Ltd. (000725.SZ): Bullish on the growth potential of glass-based packaging substrates and actively expanding its presence in this area. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0lGQjRtbmZTdE15V0ptSXlMbEhBVUt2UFBETG1jUWlwOExrMThEU0JJTkFBRHE4Y2NVc0RZMWU5VVBJQ0xxa2VuZ3hrdDFyNGNMZXZseHdvN01rUGFCdmlIMzNuVGVGWkRScUN3MG",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ0lGQjRtbmZTdE15V0ptSXlMbEhBVUt2UFBETG1jUWlwOExrMThEU0JJTkFBRHE4Y2NVc0RZMWU5VVBJQ0xxa2VuZ3hrdDFyNGNMZXZseHdvN01rUGFCdmlIMzNuVGVGWkRScUN3MGlRYjV5SkpncGFZc045LTI5TDhCQ3BJaDVEdU01cmZwajhna1FlYXVGTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-11-021",
+    "date": "2026-08-11",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Samsung’s Hearing Aid Feature on Galaxy Buds Cleared by FDA",
+    "summary": "Samsung Electronics today announced that its Galaxy Buds Hearing Aid feature has received U.S. Food and Drug Administration (FDA) clearance. The feature enables compatible Galaxy Buds to serve as an o",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsungs-hearing-aid-feature-on-galaxy-buds-cleared-by-fda",
         "type": "rss"
       }
     ]
@@ -1146,6 +1430,24 @@
     ]
   },
   {
+    "id": "himax-2026-08-08-029",
+    "date": "2026-08-08",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Analysts’ Opinions Are Mixed on These Technology Stocks: Himax Technologies (HIMX), AvePoint (AVPT) and nLIGHT (LASR) - theglobeandmail.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxQVExrbFAtZWl6X0pGdWcwQWFmWFZyVGU4bTdrS2tEakFqbTU2MkJyZzZXdzJhTkM0LUM0d3g2R1pjckdVZC02eG9pTFdzQ1prQ0hIaW5wZ1Y3R3ctYnJMZUV4MVVDX1lQazJwWFJBMT",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQVExrbFAtZWl6X0pGdWcwQWFmWFZyVGU4bTdrS2tEakFqbTU2MkJyZzZXdzJhTkM0LUM0d3g2R1pjckdVZC02eG9pTFdzQ1prQ0hIaW5wZ1Y3R3ctYnJMZUV4MVVDX1lQazJwWFJBMTRqdVJMbWNhdDFBTEpUazVjVGU0dEEzb1FHYWVrbTRsNmhnQ2k2aHFHTGNiaXg5bTVRRmphR1l2MEgzdlRGZ1RHOHdGMXlpeHhzWHFwYzdxdjJtZXNKYnJBUXRvd0htMkJ5NDZua2ZvVVl2aGk0WXB2eG9MbUJ4cW1Memk5OE5PdXg4UThLOUdWTlppY2ttdkNHWHNxRlE1NDFmYTI0T0NoU0hFSGJlcVZEcmFEN183LWo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "raydium-2026-08-07-001",
     "date": "2026-08-07",
     "companies": [
@@ -1609,6 +1911,26 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZHRrVTBZNnJ1NGF1N0gtSkUtN09XcGdTYmU2b0kzQ1hzRXRiZk1HZ2c4dGFOSE5UdjB1ZnBEOVkzVjdnTGlTSDkxc3lJa2o2ZDlQb1VHc1NORllhdW52cHlFVVZHQmRHOEtFT2Nsa3VsZEEwN0EtX1czWDk5clJNSWlwTnkwckhfaHJDZkE1dDNsNU9zWHpBcnlWdkNCTG9ZckxRQjhVQXpvMjBQR18yc0ZHa3JiMVR5VE51bHVzQTgtMGc0ZzB3bERQTFNuaUFrV0JN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-07-026",
+    "date": "2026-08-07",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Great news for cheap OLED TVs and monitors: LG's new '2-stack' tech should cost less to make and be more energy efficient than its recent 'OLED SE' panel - techradar.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxOVjJGODJfWktNakRYVmkzWVlUTUM5eE1wMk1TUU5lT29xdkozYnFpNjBWdllrRGlhNDBlYy1JZlAwdXV4VlRnOTNaU1pZdUZyOW1QWkxjVkZvX3l2b29IX1RqamZtLUNYakRDMVEyT0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOVjJGODJfWktNakRYVmkzWVlUTUM5eE1wMk1TUU5lT29xdkozYnFpNjBWdllrRGlhNDBlYy1JZlAwdXV4VlRnOTNaU1pZdUZyOW1QWkxjVkZvX3l2b29IX1RqamZtLUNYakRDMVEyT0R1TVFuZXhoM29rWFVlYXdXdUJVd0prTG1PY2lfNHpsOUY3UVpleW40Q1FZTFIzbDRwQkFzUFI5LUdtRnJjeEg5bmZBYTBxN1RXLTZEOHQxcWVVZ0xiakFrUnFkRDBndlNwYm50ek5mM3d4UlJFZHpEYlF5WWlwRXdWbjQxV2lrcEM0blptMTdHbl9JV0gwaE1kSEFOOGNLRzl4bzVsbUs2bDN3dw?oc=5",
         "type": "rss"
       }
     ]
