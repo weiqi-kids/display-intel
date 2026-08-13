@@ -1,5 +1,295 @@
 [
   {
+    "id": "lg_elec-2026-08-13-001",
+    "date": "2026-08-13",
+    "companies": [
+      "lg_elec",
+      "samsung_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Display, LG Display to showcase next-generation technology at IMID 2026 - 헤럴드경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE82V2s0WFdVY3gzQWRvTXRYcUJyWU95ekRKX1VfZk00QVR1cmFVYmJxZkxZUnJGcUc4bVZzc1RSUU95NFVkNzhaQkcyQkFCcGdfalk3S3RJRQ?oc=5\" target=\"_blank\">Samsung D",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82V2s0WFdVY3gzQWRvTXRYcUJyWU95ekRKX1VfZk00QVR1cmFVYmJxZkxZUnJGcUc4bVZzc1RSUU95NFVkNzhaQkcyQkFCcGdfalk3S3RJRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-13-002",
+    "date": "2026-08-13",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[Galaxy Unpacked July 2026] One City, Three Perspectives: Capturing London With Galaxy Z Fold8 Ultra, Galaxy Z Fold8, and Galaxy Z Flip8",
+    "summary": "London, a city of rich heritage and innovation, set the stage for Galaxy Unpacked July 2026, as Samsung Electronics unveiled its latest foldables — Galaxy Z Fold8 Ultra, Galaxy Z Fold8, and Galaxy Z F",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/galaxy-unpacked-july-2026-one-city-three-perspectives-capturing-london-with-galaxy-z-fold8-ultra-galaxy-z-fold8-and-galaxy-z-flip8",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-003",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Google launches its Pixel 11 smartphone family, all with LTPO AMOLED displays",
+    "summary": "<p>Google announced its 2026 <a href=\"https://www.oled-info.com/google-pixel-11-series-pixel-11-11-pro-11-pro-xl-11-pro-fold\">Google Pixel 11</a> smartphone family, with four different models, all bas",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/google-launches-its-pixel-11-smartphone-family-all-ltpo-amoled-displays",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-004",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Counterpoint: OLED TV sees a 20% increase in shipments in Q2 2026, against a declining global TV market",
+    "summary": "<p>Counterpoint says that global TV shipments decreased 4% in June 2026 (compared to June 2025), bringing the second quarter (Q2 2026) shipments down 0.4% from Q2 2025.</p><img data-entity-uuid=\"63257",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/counterpoint-oled-tv-sees-20-increase-shipments-q2-2026-against-declining",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-005",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Pegatron profit surges on AI server shipments and stronger product mix",
+    "summary": "Pegatron reported its second-quarter 2026 results on the 12th, saying net profit attributable to the parent company rose more than 14-fold year-on-year as shipments of information products and consume",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260813PD207/pegatron-shipments-profit-ai-server-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-13-006",
+    "date": "2026-08-13",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung delays High-NA EUV adoption until 1nm production in 2030",
+    "summary": "Samsung Electronics plans to introduce high-numerical-aperture extreme ultraviolet (High-NA EUV) lithography into mass production at its 1nm node around 2030, according to South Korean media reports. ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260813PD213/samsung-high-na-euv-production-1nm-2030.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-007",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "LandMark Optoelectronics posts surge in profit on silicon photonics demand",
+    "summary": "LandMark Optoelectronics Corp. reported a sharp jump in revenue, margins, and profit in the second quarter of 2026, driven by strong demand for silicon photonics products and higher shipment volumes. ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260813PD205/profit-silicon-revenue-photonics-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-008",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Asus raises server outlook as AI demand lifts record second quarter results",
+    "summary": "Asus reported record second-quarter 2026 results driven by servers and PCs, while management pointed to strong demand for AI computing and cloud infrastructure. The Taiwan-based PC and hardware vendor",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260813PD204/asus-demand-growth-revenue-2026.html?chid=10",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-009",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Asus projects up to 150% server growth as AI demand lifts results",
+    "summary": "Asustek Computer said growth in its AI server and PC businesses pushed revenue, operating profit, and net profit to record highs in the second quarter of 2026. The Taiwan-based hardware maker also pro",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260813PD206/asus-growth-revenue-pc-ai-server.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-010",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Zhen Ding targets 50% revenue share from AI servers, optical modules, IC substrates by 2030",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:538;141-678\">Zhen Ding Tech (ZDT), a major PCB supplier, said at its second-quarter 2026 earnings conference on August 11 that rising investment in AI computing inf",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260812PD239/zhen-ding-revenue-ic-pcb-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-011",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "ChipMOS lifts capex for 2026-2027 on memory and AI ASIC growth",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:438;111-548\">ChipMOS said strong demand for automotive panels and memory products drove revenue and profit to record highs in the second quarter of 2026. Chairman S",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260812PD242/chipmos-growth-capex-demand-ai-asic.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-012",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Foxconn sees AI rack shipments grow multiple-fold in 2026 after 2Q operating profit rises 68%",
+    "summary": "Foxconn's AI server business powered stronger-than-expected second-quarter 2026 revenue and profit, with growth in its cloud network products segment helping operating profit rise far faster than sale",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260812PD245/foxconn-server-rack-operating-profit-revenue-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-013",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Foxconn broadens beyond AI servers with EVs, robotics and Japan chip fab above 90% utilisation",
+    "summary": "Foxconn used its second-quarter 2026 earnings conference on August 12 to detail progress beyond its fast-growing AI server business, spanning cloud and data centre solutions, electric vehicles, roboti",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260812PD246/foxconn-earnings-ev-robotics-fab-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-014",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Pegatron sees 2026 server growth beat expectations",
+    "summary": "Pegatron said its server business had posted significant growth in shipments and revenue so far this year, giving it strong confidence that it will meet&mdash;and likely exceed&mdash;its original goal",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260812PD249/pegatron-business-2026-growth-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-13-015",
+    "date": "2026-08-13",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "LGES, Lopal sign three-year LFP supply deal worth up to CNY27 billion",
+    "summary": "LG Energy Solution (LGES) and China's Jiangsu Lopal Tech have signed a three-year framework agreement covering up to CNY27 billion (approx. US$3.8 billion) in lithium iron phosphate (LFP) cathode mate",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260812VL230/lges-lfp-battery-partnership-production-capacity-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-13-016",
+    "date": "2026-08-13",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung SDI-GM battery reset shows how ESS is reshaping the US EV supply chain",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:185;116-300\">Samsung SDI is ending its battery manufacturing partnership with General Motors (GM) in Indiana, terminating a major EV joint venture &mdash; and sendi",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260812VL225/samsung-sdi-supply-chain-samsung-general-motors-joint-venture.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_display-2026-08-12-001",
     "date": "2026-08-12",
     "companies": [
@@ -185,6 +475,254 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260810PD204/focaltech-display-driver-ic-demand-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-12-011",
+    "date": "2026-08-12",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Hudson Value Partners LLC Sells 9,331 Shares of Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQZmxtRHJubmJEQjZsV0xCbHhrNmhZMzA3aHRwT3VYWmhJRXFVTU1yLTZnQ0FvSm9IaldpS3FNd25ndHpaR1lkU3VyM3BGUXJvOTdfM0k3ckxteUNwU040b3E2WnhBUUpldklBeTBOT2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZmxtRHJubmJEQjZsV0xCbHhrNmhZMzA3aHRwT3VYWmhJRXFVTU1yLTZnQ0FvSm9IaldpS3FNd25ndHpaR1lkU3VyM3BGUXJvOTdfM0k3ckxteUNwU040b3E2WnhBUUpldklBeTBOT29TXzEzRTNVWnBmV1VxUk9nRlVFd0RWWVNlS3BoSE1MMTgzZnhGWEVWYUNub2J2bmpoYTJCVXZ3Nk5oSk0zbGZ6Rkg5RnYwUkJfWldjblpDbC1rekl0dTNwME1kYkY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-12-012",
+    "date": "2026-08-12",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "KMG Fiduciary Partners LLC Sells 48,276 Shares of Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNamFMUkpjX3RSYTNESkhMMkplQXFBLVNjSktFZjVpYkd3ckpoVkJ1VGhFQ1NfRzh1TEtKUmNKVHg4aDJGTl9aMVhyRU1oVDFMYXJEbDMxZ3VHREx6bkNaRl9acVFPU2RoRXdqcFpoaU",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNamFMUkpjX3RSYTNESkhMMkplQXFBLVNjSktFZjVpYkd3ckpoVkJ1VGhFQ1NfRzh1TEtKUmNKVHg4aDJGTl9aMVhyRU1oVDFMYXJEbDMxZ3VHREx6bkNaRl9acVFPU2RoRXdqcFpoaUtNSnFwUGJVRm42N1pUYlc5RDcyWjlKZWdwRGx1RnR4dnY1RldXWV84MHU3b0MxcEpkdDNfdVRnUWY0bzUwUVQ0eF9NRmRHREhoaV9Mcmh1WXp4N2NnWTdQNFBTSmdXRHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-12-013",
+    "date": "2026-08-12",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lederer & Associates Investment Counsel CA Cuts Stock Holdings in Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRUlwSTFXY2daNjNZVVBmZFl3dGp4UHRNbjRKRnE1MEdkN1NBWUFZbDhQOEJ4U28taVpBVjJ4THVUaDJOaFVkTWcwa0dGa1JneTVKbW4tOFp5eXptVV9KU09IYTZzSFZOVlZCOEg2c0",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRUlwSTFXY2daNjNZVVBmZFl3dGp4UHRNbjRKRnE1MEdkN1NBWUFZbDhQOEJ4U28taVpBVjJ4THVUaDJOaFVkTWcwa0dGa1JneTVKbW4tOFp5eXptVV9KU09IYTZzSFZOVlZCOEg2c0FPYWRLS0tHMi1MT2JMNl9WaVFPOHF4N3ktZVN5MFhVWUlCaDFUMHlRVU1kR3d3Ty1XbmZ6UzdSd2ZDbG5vVExuQzBXS3JhOHpIRXl1YWVvM3F6VmxIbUYwdm5JaXVpcEk2Sm9ISlNJUkU5NXBjX3JEQzVDYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-08-12-014",
+    "date": "2026-08-12",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Canon Inc. Sponsored ADR Revenue Breakdown – LSX:866490 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBuUlY1ZEdJbWRvbFNudFJSSXFRdzZ3bDNDODQ3NHl5b0VJZWVRT1FYajRfd29NZERlOVZhRXctU0hoc3BpaC1hSllfdTVKd0xISGNQaXltQ21MdjBQQnBMcnFmc2NFTDJPWVNyS0k0M1",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuUlY1ZEdJbWRvbFNudFJSSXFRdzZ3bDNDODQ3NHl5b0VJZWVRT1FYajRfd29NZERlOVZhRXctU0hoc3BpaC1hSllfdTVKd0xISGNQaXltQ21MdjBQQnBMcnFmc2NFTDJPWVNyS0k0M1o0Y1Q3Z0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-08-12-015",
+    "date": "2026-08-12",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon U.S.A. and Drexel University’s Writers Room Celebrate Nine Years of Storytelling and Community Collaboration with Launch of Anthology 12 - The Manila Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwJBVV95cUxQSEJBV0lMNU5ROGh0VDhzRWNlbC1ZNTY5UDdyQ0o0SVh6ZU53cjBURkxiNGtnVGxsTXYxTXlDVFpjLXFqcXJES2l2ZmMtdHloVGgwZ1drMEF0c051bFE3Tlp2UGM2eVk3a1oxc0xENn",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQSEJBV0lMNU5ROGh0VDhzRWNlbC1ZNTY5UDdyQ0o0SVh6ZU53cjBURkxiNGtnVGxsTXYxTXlDVFpjLXFqcXJES2l2ZmMtdHloVGgwZ1drMEF0c051bFE3Tlp2UGM2eVk3a1oxc0xENnYtMGt0MGZQQkc4NDNKYlVSUUZxTHZzU1NBTU1lRmVGR05DcmxJVGNUZEsxdE5tenJrQVVyYUlKVE9DcXdXVC1ZTzg2ZlBvMjZ3d0UzMVRyOHJ1TjhCek1JOW9TelAza1pZa3dXbFNNRW1JMWwzYVNYRGdvZWUzN29wa1ZWRzVQbTgxeVlhY2FjR1RHRFhBT21fNVRQdTA0R0tPVTdJcElFQVhUQ1l2MFNSckxrLTdueHBkNlVqelhDRWN1dmV5SmVZaVRUY3ZWd9IBvAJBVV95cUxOZkdCdGpIcW43Y3lDeEM4R1BCYmdKQWRWOE54ckdXOUt3R2FUd3VwV1BZaGtQRUFBVDJtVm9wel9Yem9Val9xZEFLOWpyaXp5b2VmeDdyOWplb2NmSjd4YWdwYjZJSGptY2szSjdyMG1NTENDYlpUM2NjaEo5ajZtMUpzV3B5T2VFY0xNNjVDcXp3VkhnSl9XTTNzTWxQLUZqV3U5WDRyWVZaV1M0RFlrTnd5eHJZX21kcnZ2QUNxcmJ3MC04VHlocXF2YS1FNFRtV29SZk51akhKdUc3bVNCZE5zdVRuMy1NOUdhSk03UUpHU3VDWHBSQUpoc2dBQnVLWVlnWUo0U25KZFBLcm9MRXRyQ2c5VmlGNU92NzhOSXUzLVg3djZ1S1U2bnEydzhPeTlub0N1WGRjSTNL?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-12-016",
+    "date": "2026-08-12",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) Posts Stronger Q2 And Guidance, Is The Valuation Still Cheap? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV1lIOXd4dTZWaFlzSEZCMXdwZS15Uks2WjA2c2RKLURfN29MXzdxOXRfbHVHZjVPTVFURE14TmNfWlN1WkJzQlZWMzNwLXEtcU80Zk9vV0FIWllMM0dlYm5YaC01YlJvMTBQZ0FJMz",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV1lIOXd4dTZWaFlzSEZCMXdwZS15Uks2WjA2c2RKLURfN29MXzdxOXRfbHVHZjVPTVFURE14TmNfWlN1WkJzQlZWMzNwLXEtcU80Zk9vV0FIWllMM0dlYm5YaC01YlJvMTBQZ0FJMzkzMWtPZDU5dTVob0JuakxLaHpkallKc3lvZS1WeVdTN25td2x5OVQxQ1l3eXhLTElndDU5cjFCSUJsd2FneVVEOXEzMzZRRzk5MllzNWR3b2o2bHZ4NWdnVHRCRE5lSzRtZEtENFVtT01PY0h5ajJiMdIB4AFBVV95cUxNV1lIOXd4dTZWaFlzSEZCMXdwZS15Uks2WjA2c2RKLURfN29MXzdxOXRfbHVHZjVPTVFURE14TmNfWlN1WkJzQlZWMzNwLXEtcU80Zk9vV0FIWllMM0dlYm5YaC01YlJvMTBQZ0FJMzkzMWtPZDU5dTVob0JuakxLaHpkallKc3lvZS1WeVdTN25td2x5OVQxQ1l3eXhLTElndDU5cjFCSUJsd2FneVVEOXEzMzZRRzk5MllzNWR3b2o2bHZ4NWdnVHRCRE5lSzRtZEtENFVtT01PY0h5ajJiMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-017",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "iPhone 18 Pro: Apple locks in steep OLED price cuts as memory costs climb - MacDailyNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZkdsTFZCNWVNZnRVVFRGbGpfNV9LcEZhMzRwNU1ucGRuTF9VUkxVRXdVZlhQSkhuelFmeGpRMGZRMmg0bzFkNXJQZ1hKOTQtbjZ3ZDc0bTVGczdNV25MNUNSN2N6UkFJQ0h2d1R0VU",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZkdsTFZCNWVNZnRVVFRGbGpfNV9LcEZhMzRwNU1ucGRuTF9VUkxVRXdVZlhQSkhuelFmeGpRMGZRMmg0bzFkNXJQZ1hKOTQtbjZ3ZDc0bTVGczdNV25MNUNSN2N6UkFJQ0h2d1R0VUJ1NHhXV21BLVdocmxkR2NPMy0xZXB1dEVsdm1hTTAta3FyVVdQVEJpMHk3NG9NcVBBQTlQMGNDeVpIOWVtRnfSAbMBQVVfeXFMTzk0a2ZKeUVYR3N6SGJqZlFXNmF4aXNUMEtwVHdCRWZqSk5zMC13YXRUclUtM3M1NExnVHh6WHRrbGZZeHdXVGRXY3B2Ymd3a1lnYmdOMmp0ZEs1ZkJILWphVDY4MTZWM282bWV6YkgxXzFBZGMxTWpES2o3QS15bks5OE1oY05DdGY0ei1JVnZxZDhRdTZnWU11cXI2THVEa0EySUhBTEpLUV9iRFhaaXRiY0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-08-12-018",
+    "date": "2026-08-12",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why is BOE Technology stock sliding today? By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQc3ZpaWhSWWRreFBhWG1jQWhzZEl4WHlZT0hxWVZ0bGtGeE05VVBOcUVBR2xFV0pRUkhTZmhxT091OXA3ZmZERUUxWEtGLVFZRGxJSnRSbTR0bFVoZ3YxM0pYcTJXT1VOeVFMSDFFcl",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc3ZpaWhSWWRreFBhWG1jQWhzZEl4WHlZT0hxWVZ0bGtGeE05VVBOcUVBR2xFV0pRUkhTZmhxT091OXA3ZmZERUUxWEtGLVFZRGxJSnRSbTR0bFVoZ3YxM0pYcTJXT1VOeVFMSDFFclAteXdYdW5KQV9RSlRsdkloVVE2S0FZc1hPQ2FaSWlyZEZ3cGhMLUM3Tk16aEdOS3Vrc0cyQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-12-019",
+    "date": "2026-08-12",
+    "companies": [
+      "samsung_elec",
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "iPad Air OLED May Split Displays by Geography: BOE for China, Samsung Worldwide - Tech Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxORUNCa0pVaVgtci1jWVIxOE9MT0c2YUFGRDltc0V2YVptSnRGYXRaa1dpWTFLTWVfdlhWZ0V3d1pNZUIybWxoTlFmRGlKTzZZOWgtYnp2cmRUWjY3azEwNnNra3JlRVBhUERwbG1nNz",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORUNCa0pVaVgtci1jWVIxOE9MT0c2YUFGRDltc0V2YVptSnRGYXRaa1dpWTFLTWVfdlhWZ0V3d1pNZUIybWxoTlFmRGlKTzZZOWgtYnp2cmRUWjY3azEwNnNra3JlRVBhUERwbG1nNzdaYVRvMkplZWt4TUg1dnp6TDJTbnJZTVdoV01qY2Vpd2xrU3dVNFV4TzhMU1pqVmgxTTNqRzl0VHpTY3pNVmZ6VHFCMm1KVjcteG93dUhVNU1KbkU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-08-12-020",
+    "date": "2026-08-12",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Japan Display (TSE:6740) Stock Faces Revenue Pressure Despite Narrower Losses - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWWF4al9VNFowUEZtbHc4SUNZZ0pvOXZwQ2M0UDlvU1kwQy1keUl2U19RLUhNY1Y1RlBuaUt5bXB3XzdRX3RaNFAtOUtibDdJZTBqM3prMVFoLWV5T2JwSnY2bTd5ekF0Z3UzdGYxZW",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWWF4al9VNFowUEZtbHc4SUNZZ0pvOXZwQ2M0UDlvU1kwQy1keUl2U19RLUhNY1Y1RlBuaUt5bXB3XzdRX3RaNFAtOUtibDdJZTBqM3prMVFoLWV5T2JwSnY2bTd5ekF0Z3UzdGYxZWhYcTBqRzB4YW5JWHdjdWdOVzRoWEJTTHRFYXVnVjBQU1gzQmtySjVKSENpS2dVRmlpb1FRNkRxYklZcEpyUW03Ni15VEU5eWpJbEw3YnlkeTlYOEpfS2FYc1lBZzAzZkpiWFHSAdIBQVVfeXFMUFlheGpfVTRaMFBGbWx3OElDWWdKbzl2cENjNFA5b1NZMEMtZHlJdlNfUS1ITWNWNUZQbmlLeW1wd183UV90WjRQLTlLYmw3SWUwajN6azFRaC1leU9icEp2Nm03eXpBdGd1M3RmMWVoWHEwakcweGFuSVh3Y3VnTlc0aFhCU0x0RWF1Z1YwUFNYM0Jrcko1SkhDaUtnVUZpaW9RUTZEcWJJWXBKclFtNzYteVRFOXlqSWxMN2J5ZHk5WDhKX0thWHNZQWcwM2ZKYlhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-021",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Researchers from POSTECH developed new high-performance MLA devices utilizing low-cost materials and processes",
+    "summary": "<p>Researchers from Korea's POSTECH institute have developed a new technology that enhances the performance of metalens arrays (MLA) that both improve the performance, and also lowers the production c",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/researchers-postech-developed-new-high-performance-mla-devices-utilizing-low",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-08-12-022",
+    "date": "2026-08-12",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Unveils Father’s Day Home Entertainment Lineup Built Around Mini LED And Bang & Olufsen - SMBtech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOaVI1ZlNhVDJvdjgwYk1YbmM5MDBFUVNickFlNXVqZXhpTEY4b0c1dTh5WXc5YjltaVpFX3UtZEotYkNfbmNac2pKNHh6U0xuQ0hIMEs3Vm5aYTU3Z0VfMjl2MEowMU1EWGNTcnY4MU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaVI1ZlNhVDJvdjgwYk1YbmM5MDBFUVNickFlNXVqZXhpTEY4b0c1dTh5WXc5YjltaVpFX3UtZEotYkNfbmNac2pKNHh6U0xuQ0hIMEs3Vm5aYTU3Z0VfMjl2MEowMU1EWGNTcnY4MUtxOWp6VUhhRGtDQkRPV1J5Smk4QUtuS2ZDSjBxRURyWWZYN0RpM1lmSjl5WktFREtYbjRQblR3c1Z6amJjM2hKS25rYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-08-12-023",
+    "date": "2026-08-12",
+    "companies": [
+      "sony",
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sony-TSMC $4.7B Deal Helps Thwart Samsung, Analysts Say",
+    "summary": "\n\t\t\t\t\t\t<p>Sony and TSMC have joined forces to counter Samsung's growing presence in smartphone image sensors, particularly for Apple.</p>\n<p>The post <a href=\"https://www.eetimes.com/sony-tsmc-4-7b-de",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/sony-tsmc-4-7b-deal-helps-thwart-samsung-analysts-say/",
         "type": "rss"
       }
     ]
@@ -582,6 +1120,24 @@
     ]
   },
   {
+    "id": "boe-2026-08-11-022",
+    "date": "2026-08-11",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Group Co., Ltd. (000725.SZ): Has not yet engaged in business cooperation with NVIDIA. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTNET3I3UkxyY3lPM3A3UEJJLXhVeDRhakV0WEhtNDhiVHo3NWZMRDktYk9VbDRKX1JPV05FbG9XNlRNWlotRnJYSE1xV0FYU3IwRG1nS3BzbGszYW1wZ1k5akc1S3BfRkxlMTU1WX",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTNET3I3UkxyY3lPM3A3UEJJLXhVeDRhakV0WEhtNDhiVHo3NWZMRDktYk9VbDRKX1JPV05FbG9XNlRNWlotRnJYSE1xV0FYU3IwRG1nS3BzbGszYW1wZ1k5akc1S3BfRkxlMTU1WXk1N09nS2d4WWU2RGVLUGxsTElSS0VuY1Zoai1zS003eGZvd3hK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-08-10-001",
     "date": "2026-08-10",
     "companies": [
@@ -857,6 +1413,27 @@
     ]
   },
   {
+    "id": "samsung_elec-2026-08-10-016",
+    "date": "2026-08-10",
+    "companies": [
+      "samsung_elec",
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Gen.8.7 OLED Push Lifts Display Equipment CAPEX 57% as BOE and Samsung Display Begin Production - Counterpoint Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTA1YThMV3dFTVEtcEF0NXplY1ZfdkY1b25jTUpLYUVlM1ZrNXdTVGJTa0tRYUxWUE5SRzZwazc4VDRZZ0U1cldZVURXbjZfZ0tVcGRBYlR0aHRCUnhtWWMyWFdnLUtObkZIckhRX1",
+    "sources": [
+      {
+        "name": "google_news_display",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWTA1YThMV3dFTVEtcEF0NXplY1ZfdkY1b25jTUpLYUVlM1ZrNXdTVGJTa0tRYUxWUE5SRzZwazc4VDRZZ0U1cldZVURXbjZfZ0tVcGRBYlR0aHRCUnhtWWMyWFdnLUtObkZIckhRX1F1N3lrLURILWt3YTF4VVAtLXpVVTE3dWhodnNfQ2pjTDQzSXpJMVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-08-09-001",
     "date": "2026-08-09",
     "companies": [
@@ -908,6 +1485,26 @@
       {
         "name": "jdi",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFdLejRVd2xFMW5vTlJHMTZUSVEzcHpPWnp0LU96cDRHUk1mN3gzNU5GUEdwWFZPWmZFRGlnbFlyb0dxa2R6NkpUenM1SGh3UEt0ZnF1MTBaOG85MUFqMFRWU1NwYWxKV2Yxblo3OHBla3ZjVnhodXBMY3hUYm92eWRuX05EczlfVVJic1o4VGhNR3BMZEJtTXBtRmxJYjdUa19iRVA2YVc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-08-09-004",
+    "date": "2026-08-09",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Japan Display Inc. Reports Earnings Results for the First Quarter Ended June 30, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3Voc041UDFYckYxUVNRUW9EaExmQkNyenZHZkxBRWZhZlktcVA2cnZwQm50M2dra0dxeVRqeEc5S29uNURQYXFVVFhicFBBZXpKaDlUakVIOC1VQkVhZkFLWXFHR2NzYVAyQ3dYMU",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN3Voc041UDFYckYxUVNRUW9EaExmQkNyenZHZkxBRWZhZlktcVA2cnZwQm50M2dra0dxeVRqeEc5S29uNURQYXFVVFhicFBBZXpKaDlUakVIOC1VQkVhZkFLWXFHR2NzYVAyQ3dYMUUwTHJodFJFbVBEenBVQjVZMkM5NHF6ZTVwUFdlUm1yUFJ3a2tqRGhyRXRGbUJaOHhtT0ZSVUNUSEJ4SzUtVHd5cnZfMF80YkhrS05ZLXRHQ25kUnZIemlxdFRjc2tKamFZcXc?oc=5",
         "type": "rss"
       }
     ]
@@ -1443,6 +2040,26 @@
       {
         "name": "himax",
         "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQVExrbFAtZWl6X0pGdWcwQWFmWFZyVGU4bTdrS2tEakFqbTU2MkJyZzZXdzJhTkM0LUM0d3g2R1pjckdVZC02eG9pTFdzQ1prQ0hIaW5wZ1Y3R3ctYnJMZUV4MVVDX1lQazJwWFJBMTRqdVJMbWNhdDFBTEpUazVjVGU0dEEzb1FHYWVrbTRsNmhnQ2k2aHFHTGNiaXg5bTVRRmphR1l2MEgzdlRGZ1RHOHdGMXlpeHhzWHFwYzdxdjJtZXNKYnJBUXRvd0htMkJ5NDZua2ZvVVl2aGk0WXB2eG9MbUJ4cW1Memk5OE5PdXg4UThLOUdWTlppY2ttdkNHWHNxRlE1NDFmYTI0T0NoU0hFSGJlcVZEcmFEN183LWo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-08-030",
+    "date": "2026-08-08",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung’s 2026 mini LED TV plummets back down to lowest price with Amazon deal - pcguide.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQTE5RUXRUaUtuSGlpOFZyRk16MFR4Q2N4djVyakFoSGZQVEFpZnVXZjI4TTBVX2JZUDh0cUpNV09xemtzSXJXa0NQX2JlVUVieldJSWF4TTJpakNFZV80cWxKNGJXbUVJN2p0Zm1lRW",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTE5RUXRUaUtuSGlpOFZyRk16MFR4Q2N4djVyakFoSGZQVEFpZnVXZjI4TTBVX2JZUDh0cUpNV09xemtzSXJXa0NQX2JlVUVieldJSWF4TTJpakNFZV80cWxKNGJXbUVJN2p0Zm1lRWRUQ01samc0alNaZjVLbjZFNWNqMzhfeTRjTnVkT3FCXzktUnN3X3QzR2hZUm9RRUNzSm90QmJlM25xSHpn?oc=5",
         "type": "rss"
       }
     ]
@@ -2683,6 +3300,46 @@
       {
         "name": "himax",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSm91ME5DNWNjazJEblMxcmw2UkYxNE5vZDlGOE9GRjB2eENJVTdYQTY4SHhPdDdCN1FmcWNuY1ZweGhQZDdtLTVpbXFjLUtIWGFWNkVzSGJDN0FIQWQ5NExwQldkVlZOSms0ekE2bUxpUjBBalRGT2g5TndtdVdlRUpXQklnbXA0UUQ5T3B0WkhQS0dieXpnWHdtYVhKM2FEQUIwMVEtSmNsQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-08-06-039",
+    "date": "2026-08-06",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "【Novatek FY2026 Q2 Earnings Call】Gross Margin Hits Record 42.42%, Net Profit Surges 68% QoQ; AI Chip Revenue Tops 50% for First Time - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaRmR6NVYwUE5IMlZrbDIzaXl2RWpJcjNtQ0x3OVhRRXA4cDBuU0JEVUktU0hXc0dZdEhnQWduU1JpTnIyZWdKX1JsbmhMelBYSVEtOUF0dXhOdW51OW9aWkNn?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaRmR6NVYwUE5IMlZrbDIzaXl2RWpJcjNtQ0x3OVhRRXA4cDBuU0JEVUktU0hXc0dZdEhnQWduU1JpTnIyZWdKX1JsbmhMelBYSVEtOUF0dXhOdW51OW9aWkNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-06-040",
+    "date": "2026-08-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) Earnings Date and Reports 2026 - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iZkhIV2JoUzhtUlRpYzJFeDQyVTN0MVdKdnBvZi0tN2dOTTNkTkpOMmpNLVJXaGNFNk04Z1d2dVV3V2FVRkZ5ckJOOXhveFo0ZXAxNHdWbHdYc2ViNFZPM0tIUXVmdw?oc=5\" targe",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iZkhIV2JoUzhtUlRpYzJFeDQyVTN0MVdKdnBvZi0tN2dOTTNkTkpOMmpNLVJXaGNFNk04Z1d2dVV3V2FVRkZ5ckJOOXhveFo0ZXAxNHdWbHdYc2ViNFZPM0tIUXVmdw?oc=5",
         "type": "rss"
       }
     ]

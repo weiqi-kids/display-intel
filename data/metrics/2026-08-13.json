@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-13",
+  "total_events": 16,
+  "by_company": {
+    "lg_elec": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "samsung_elec": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "lg_display": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "earnings": {
+      "count": 9,
+      "sentiment_avg": 0.53
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

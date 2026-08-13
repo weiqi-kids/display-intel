@@ -1,0 +1,186 @@
+{
+  "date": "2026-08-13",
+  "date_range": {
+    "start": "2026-08-07",
+    "end": "2026-08-13"
+  },
+  "generated_at": "2026-08-13T09:09:46.222391Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lg_elec-2026-08-07-003",
+      "date": "2026-08-07",
+      "title": "Chinese equipment maker breaks into LG Display's OLED supply chain - digitimes",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "lg_display",
+      "company_b": "samsung_elec",
+      "co_mention_count": 5,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "boe",
+      "company_b": "samsung_elec",
+      "co_mention_count": 4,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "oled_penetration": {
+      "this_week": 15,
+      "last_week": 13,
+      "week_over_week_change": "+15%",
+      "sentiment_this_week": 0.12
+    },
+    "earnings": {
+      "this_week": 41,
+      "last_week": 13,
+      "week_over_week_change": "+215%",
+      "sentiment_this_week": 0.33
+    },
+    "panel_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "it_panel_demand": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "automotive_display": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": -0.17
+    }
+  },
+  "company_7d_summary": {
+    "raydium": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 4
+    },
+    "himax": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "lg_elec": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 2
+    },
+    "lg_display": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 3
+    },
+    "samsung_elec": {
+      "event_count": 16,
+      "sentiment_avg": 0.12,
+      "rank": 1
+    },
+    "novatek": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "tcl": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "corning": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "boe": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 5
+    },
+    "sony": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "jdi": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 137,
+        "last": 132,
+        "change_pct": 3.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-07",
+      "event_count": 26,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-08-08",
+      "event_count": 30,
+      "sentiment_avg": 0.2
+    },
+    {
+      "date": "2026-08-09",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-10",
+      "event_count": 16,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-11",
+      "event_count": 22,
+      "sentiment_avg": 0.16
+    },
+    {
+      "date": "2026-08-12",
+      "event_count": 23,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-13",
+      "event_count": 16,
+      "sentiment_avg": 0.36
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-07 ~ 2026-08-13）共 137 則事件，重點為「Chinese equipment maker breaks into LG Display'...」。JDI情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "JDI",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Raydium Semiconductor",
+        "reason": "本週出現 3 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "LG電子",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

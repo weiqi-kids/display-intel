@@ -1,0 +1,217 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T09:09:46.089112Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-08-13-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung Display, LG Display to showcase next-generation technology at IMID 2026 - 헤럴드경제",
+      "companies": [
+        "lg_elec",
+        "samsung_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec",
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE82V2s0WFdVY3gzQWRvTXRYcUJyWU95ekRKX1VfZk00QVR1cmFVYmJxZkxZUnJGcUc4bVZzc1RSUU95NFVkNzhaQkcyQkFCcGdfalk3S3RJRQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-13-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Pegatron sees 2026 server growth beat expectations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260812PD249/pegatron-business-2026-growth-revenue.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-13-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pegatron profit surges on AI server shipments and stronger product mix",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260813PD207/pegatron-shipments-profit-ai-server-2026.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-13-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "LandMark Optoelectronics posts surge in profit on silicon photonics demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260813PD205/profit-silicon-revenue-photonics-2026.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-13-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Asus raises server outlook as AI demand lifts record second quarter results",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.67
+      },
+      "source_url": "https://www.digitimes.com/news/a20260813PD204/asus-demand-growth-revenue-2026.html?chid=10"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.53,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 10,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 4
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "oled_penetration",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 109,
+    "too_old": 176,
+    "gate1_blocked": 28,
+    "gate2_blocked": 32,
+    "passed": 35,
+    "pass_rate": "12.9%",
+    "gate2_block_rate": "11.8%",
+    "gate2_samples": [
+      "Corning Stock: Well-Positioned AI Infrastructure Play (NYSE:GLW) - Seeking Alpha",
+      "Corning Inc Stock (GLW) Moved Up by 4.94% on Aug 12: Facts Behind the Movement - TradingKey",
+      "Jabil vs. Corning: Which AI Infrastructure Stock is the Better Buy? - Yahoo! Finance Canada",
+      "Corning (NYSE:GLW) Trading Up 5.2% - Here's Why - MarketBeat",
+      "Corning: The Pullback We Asked For Arrived - An Upgrade To Buy (NYSE:GLW) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為三星電子、LG電子、LGD相關動態：「Samsung Display, LG Display to showcase next-generation t...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung Display, LG Display to showcase next-generation technology at IMID 20...",
+        "level": "red"
+      },
+      {
+        "text": "Pegatron sees 2026 server growth beat expectations（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
