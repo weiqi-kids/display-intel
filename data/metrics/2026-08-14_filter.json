@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 34,
+  "gate2_fail": 28,
+  "passed": 21,
+  "gate2_samples": [
+    "Corning (NYSE:GLW) Shares Down 5.3% - Time to Sell? - MarketBeat",
+    "Corning Inc Stock (GLW) Moved Down by 3.64% on Aug 13: A Full Analysis - TradingKey",
+    "Corning Incorporated: Well-Positioned AI Infrastructure Play - Seeking Alpha",
+    "Jabil vs. Corning: Which AI Infrastructure Stock is the Better Buy? - Yahoo! Finance Canada",
+    "Corning: The Pullback We Asked For Arrived - An Upgrade To Buy (NYSE:GLW) - Seeking Alpha"
+  ]
+}
