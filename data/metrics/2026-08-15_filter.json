@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 35,
+  "gate2_fail": 33,
+  "passed": 10,
+  "gate2_samples": [
+    "Corning (NYSE:GLW) Trading Up 4.6% - Still a Buy? - MarketBeat",
+    "Corning Incorporated: Well-Positioned AI Infrastructure Play - Seeking Alpha",
+    "Corning Inc Stock (GLW) Moved Up by 3.73% on Aug 14: A Full Analysis - TradingKey",
+    "Jabil vs. Corning: Which AI Infrastructure Stock is the Better Buy? - Yahoo! Finance Canada",
+    "Corning: The Pullback We Asked For Arrived - An Upgrade To Buy (NYSE:GLW) - Seeking Alpha"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T08:25:30.763091Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 129,
+    "too_old": 173,
+    "gate1_blocked": 35,
+    "gate2_blocked": 33,
+    "passed": 10,
+    "pass_rate": "4.0%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "Corning (NYSE:GLW) Trading Up 4.6% - Still a Buy? - MarketBeat",
+      "Corning Incorporated: Well-Positioned AI Infrastructure Play - Seeking Alpha",
+      "Corning Inc Stock (GLW) Moved Up by 3.73% on Aug 14: A Full Analysis - TradingKey",
+      "Jabil vs. Corning: Which AI Infrastructure Stock is the Better Buy? - Yahoo! Finance Canada",
+      "Corning: The Pullback We Asked For Arrived - An Upgrade To Buy (NYSE:GLW) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-08-15 無面板產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
