@@ -1,0 +1,282 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T08:40:37.946411Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-08-17-010",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Samsung Electro-Mechanics, LG Innotek substrate lines near full capacity as AI demand rises",
+      "companies": [
+        "lg_elec",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260817VL205/semco-substrate-lg-innotek-capacity-demand.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-08-17-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Co., Ltd. $LPL Shares Sold by Renaissance Technologies LLC - MarketBeat",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcllXVkM2TzM2dU5xRVlYdGFQajctM3p5a3IxaVZKejd1RlZWTXFBYWF0QXVyd1pOajVPb0t5NHl0NUswUFBvdXpNN3VsTXdnRENCeml0bXg5OHV0VFZ2Z1BLSGo2b1VyWER3N0xxSUM1aDNaSVg2ZTNmQ0xsNHl1R1dLRm45bjZDMkk0ck1lWWtWZDA0aU9HeV9vdTdVdDI0NjR6c3c4dWI4emVhNTZBMU94a1EwV1VSc1dCd0JXc2NHTFEw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-08-17-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "IMID 2026 Opens in Busan... Samsung Display, LG Display Compete on Next-Gen OLED Technology - finance.biggo.com",
+      "companies": [
+        "lg_elec",
+        "lg_display",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec",
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSUWduSWVScmFNbG9aV0I2UzhrMlQwQ2ZUMTRVTkxBVzdKeERxN0lLQktvOGs4VGhkMTdRanhnSEtDR1N4ZVdnOXUtUi1xWnd2ajJFUldpY2UyblFPb2swZ3hEVzVnclQ4RnQ0Yy1CdlYzMkQxQVE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-17-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Record orders, yet profits squeezed: Asia-Pacific electronics supply chain caught in cost crunch",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260817PD210/cost-electronics-supply-chain-demand-2026.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-17-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Fallout from Wingtech's Nexperia rupture: the price of rebuilding China's chip supply chain",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260817VL207/nexperia-supply-chain-business-loss-wafer.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "lg_elec",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 6,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 5
+      },
+      {
+        "id": "samsung_elec",
+        "count": 4
+      },
+      {
+        "id": "lg_display",
+        "count": 2
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 359,
+    "dup_title": 111,
+    "too_old": 168,
+    "gate1_blocked": 32,
+    "gate2_blocked": 27,
+    "passed": 21,
+    "pass_rate": "8.5%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "Corning: Strong AI Growth, But Much Success Is Already Priced In (NYSE:GLW) - Seeking Alpha",
+      "Silverlake Wealth Management LLC Acquires Shares of 7,329 Corning Incorporated $GLW - MarketBeat",
+      "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+      "Corning Inc Stock (GLW) Moved Up by 4.94% on Aug 12: Facts Behind the Movement - TradingKey",
+      "Corning Incorporated: Well-Positioned AI Infrastructure Play - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為LG電子、三星電子、LGD相關動態：「Samsung Electro-Mechanics, LG Innotek substrate lines nea...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung Electro-Mechanics, LG Innotek substrate lines near full capacity as A...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display Co., Ltd. $LPL Shares Sold by Renaissance Technologies LLC - Marke...",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

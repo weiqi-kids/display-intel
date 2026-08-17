@@ -1,0 +1,16 @@
+{
+  "total_raw": 359,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 32,
+  "gate2_fail": 27,
+  "passed": 21,
+  "gate2_samples": [
+    "Corning: Strong AI Growth, But Much Success Is Already Priced In (NYSE:GLW) - Seeking Alpha",
+    "Silverlake Wealth Management LLC Acquires Shares of 7,329 Corning Incorporated $GLW - MarketBeat",
+    "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+    "Corning Inc Stock (GLW) Moved Up by 4.94% on Aug 12: Facts Behind the Movement - TradingKey",
+    "Corning Incorporated: Well-Positioned AI Infrastructure Play - Seeking Alpha"
+  ]
+}

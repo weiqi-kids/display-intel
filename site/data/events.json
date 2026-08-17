@@ -1,5 +1,250 @@
 [
   {
+    "id": "lg_elec-2026-08-17-001",
+    "date": "2026-08-17",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Co., Ltd. $LPL Shares Sold by Renaissance Technologies LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNcllXVkM2TzM2dU5xRVlYdGFQajctM3p5a3IxaVZKejd1RlZWTXFBYWF0QXVyd1pOajVPb0t5NHl0NUswUFBvdXpNN3VsTXdnRENCeml0bXg5OHV0VFZ2Z1BLSGo2b1VyWER3N0xxSU",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcllXVkM2TzM2dU5xRVlYdGFQajctM3p5a3IxaVZKejd1RlZWTXFBYWF0QXVyd1pOajVPb0t5NHl0NUswUFBvdXpNN3VsTXdnRENCeml0bXg5OHV0VFZ2Z1BLSGo2b1VyWER3N0xxSUM1aDNaSVg2ZTNmQ0xsNHl1R1dLRm45bjZDMkk0ck1lWWtWZDA0aU9HeV9vdTdVdDI0NjR6c3c4dWI4emVhNTZBMU94a1EwV1VSc1dCd0JXc2NHTFEw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-17-002",
+    "date": "2026-08-17",
+    "companies": [
+      "lg_elec",
+      "lg_display",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "IMID 2026 Opens in Busan... Samsung Display, LG Display Compete on Next-Gen OLED Technology - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBSUWduSWVScmFNbG9aV0I2UzhrMlQwQ2ZUMTRVTkxBVzdKeERxN0lLQktvOGs4VGhkMTdRanhnSEtDR1N4ZVdnOXUtUi1xWnd2ajJFUldpY2UyblFPb2swZ3hEVzVnclQ4RnQ0Yy1Cdl",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSUWduSWVScmFNbG9aV0I2UzhrMlQwQ2ZUMTRVTkxBVzdKeERxN0lLQktvOGs4VGhkMTdRanhnSEtDR1N4ZVdnOXUtUi1xWnd2ajJFUldpY2UyblFPb2swZ3hEVzVnclQ4RnQ0Yy1CdlYzMkQxQVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-17-003",
+    "date": "2026-08-17",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Announces Partnership With Call of Duty®: Modern Warfare® 4",
+    "summary": "Samsung Electronics today announced an exclusive partnership with Activision as the official TV, monitor, soundbar, and Wi-Fi speaker of Call of Duty: Modern Warfare 4, the latest title in one of the ",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-announces-partnership-with-call-of-duty-modern-warfare-4",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-004",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Record orders, yet profits squeezed: Asia-Pacific electronics supply chain caught in cost crunch",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:349;142-490\">Global Electronics Association survey data show that demand across the global electronics manufacturing industry maintained steady expansion in the fir",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260817PD210/cost-electronics-supply-chain-demand-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-17-005",
+    "date": "2026-08-17",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG-Nvidia physical AI partnership speeds up as robotics chief reportedly heads to South Korea",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:288;151-438\">Less than a week after LG Group and Nvidia signed a strategic memorandum of understanding (MOU), Madison Huang, Nvidia's senior director of product mar",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260817PD220/lg-robotics-partnership-robot-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-17-006",
+    "date": "2026-08-17",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG, Nvidia step up humanoid push with robot data factory",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:258;94-351\">Nvidia's Madison Huang is set to visit LG Electronics' Yangjae R&amp;D campus in Seoul on August 18 to inspect the company's robot data factory and hold",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260817VL214/nvidia-lg-data-robot-lg-electronics.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-007",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "TSMC and Micron boom drives Taiwan 'fab five's 1H26 profits",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:502;118-619\">TSMC, Micron, ASE, and SPIL continue to expand their advanced-node and OSAT investments, driving stronger first-half 2026 results for Taiwan's fab engi",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260817PD213/tsmc-micron-fab-taiwan-ase.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-17-008",
+    "date": "2026-08-17",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung weighs Giheung R&amp;D line for 2nm HBM foundry capacity",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:260;98-357\">Samsung Electronics is reportedly considering repurposing the second line at its next-generation semiconductor R&amp;D complex in Giheung into a foundry",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260817VL210/samsung-hbm-capacity-2nm-dram.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-009",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Fallout from Wingtech's Nexperia rupture: the price of rebuilding China's chip supply chain",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:438;116-553\">Wingtech is entering a sharply different phase after dismantling much of its product-integration business and losing effective control over parts of Ne",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260817VL207/nexperia-supply-chain-business-loss-wafer.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-17-010",
+    "date": "2026-08-17",
+    "companies": [
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Electro-Mechanics, LG Innotek substrate lines near full capacity as AI demand rises",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:314;129-442\">Samsung Electro-Mechanics (SEMCO) and LG Innotek pushed their semiconductor package substrate operations close to full capacity in the first half of 20",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260817VL205/semco-substrate-lg-innotek-capacity-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-011",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Anthropic, OpenAI's looming mega-IPOs heat up AI revenue race",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:382;103-484\">Anthropic and OpenAI are turning their AI rivalry into a revenue race, with both companies posting sharp growth, gaining enterprise customers, and prep",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260817VL209/anthropic-openai-revenue-growth-claude.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-012",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Tata succession clouds outlook for chips, clean energy, data centers",
+    "summary": "<p class=\"P1\" data-sourcepos=\"3:1-3:35;76-110\">Tata's leadership transition may shape the pace of one of India's biggest industrial bets. The group's planned spending on chips, clean energy, and AI da",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260817VL201/data-chips-chairman-industrial-expansion.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-08-17-013",
+    "date": "2026-08-17",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "panel_price",
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "Display Dynamics – August 2026: TCL is building a leading position in the premium TV segment with its SQD Mini LEDs - Omdia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOS3Z0WHRWZjZDRzc5eHBlS1AtV0F2M3hHc0EzNk5LUk9KdHY4R1oza05ZRTlOb3RYYWV4dElUWDFtQ3ozNS1QSlJISEdwLU8yV2NpYkdHbHlrUXFfcHRqSHQ5U1N2dHpGdDJpLWIzbH",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOS3Z0WHRWZjZDRzc5eHBlS1AtV0F2M3hHc0EzNk5LUk9KdHY4R1oza05ZRTlOb3RYYWV4dElUWDFtQ3ozNS1QSlJISEdwLU8yV2NpYkdHbHlrUXFfcHRqSHQ5U1N2dHpGdDJpLWIzbHB6RURHdVpiTFZad0JIbk9seG95UFBIeXRKNlVCNkJVRlRhanFDeDBKUVZOb0U5MmRSbWo5cVJsMTFNM3MtZXNIQ1hTeWtZOWZfdC03Yk1UTXNCWmo0V0dBdmkzc3NMOVkwTkh5NFhVcXFlWjREd2JKYkJ3NDNkMU9ldXhyNThKNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-08-16-001",
     "date": "2026-08-16",
     "companies": [
@@ -33,6 +278,98 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmVLQk5JOHhzdXdxXzVuaXdINDRINk40U3FnYjhIdDBpNGlfRGZ1ZHItdUtlWTZ6ZzlxblMwa1pFa19RNXV0TGtVRHcyVUlXdU4tc3BTREFUYWpxWXl1NXJIZzZDeG8xVDdDX3REN2gyRlF3eEF0WTlRTkRmaDZEem9TcEZSTVNqR05JMHU0c19DNmoxR2taV05iQlJlQzFlSExnNTJ0R3hCaUZ1SjNnWXAzZTUwbldHOWIyeUVDTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-16-003",
+    "date": "2026-08-16",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SFE Investment Counsel Buys New Position in Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjBvSV9nNEk0RXp4MUJJeDRNMXFkSmZOYUdzeDhUVEtKcTV4OXVPWEZVUFVkQ0lNbHdQLXpSdEladHNyWE13LXM0cmNTTzltYUdNUmNYTkNkUV9QQ1FrcHdsdUtmWV8xS1FxWjB4Un",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjBvSV9nNEk0RXp4MUJJeDRNMXFkSmZOYUdzeDhUVEtKcTV4OXVPWEZVUFVkQ0lNbHdQLXpSdEladHNyWE13LXM0cmNTTzltYUdNUmNYTkNkUV9QQ1FrcHdsdUtmWV8xS1FxWjB4UnZqbDlfZ0dXUWtSV1lvTE1oNzRVUk8zNjhETHhvbXRJeEJVa0FRdHcxTmMwdkF2dFh5TG81cE85WTBKMjNKX3RYSExaU3BNMFpqYmJoOGthRDMtS0dVQ0hSRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-16-004",
+    "date": "2026-08-16",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "CORDA Investment Management LLC. Invests $80.03 Million in Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYlVCaWRMcGljemVISzlMeHZHOGMzZHBKbnNha1VLY0cyaTZFWFZJMmh1Z0tMUVQxeEVRNzVNZFk4QmRvWjA0N0VSUG9ZTnBmSDExcXdWSkROVVRaZ1ZIckcxdVZtc1RGbHFOTzVZN1",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYlVCaWRMcGljemVISzlMeHZHOGMzZHBKbnNha1VLY0cyaTZFWFZJMmh1Z0tMUVQxeEVRNzVNZFk4QmRvWjA0N0VSUG9ZTnBmSDExcXdWSkROVVRaZ1ZIckcxdVZtc1RGbHFOTzVZN1lJbnpJQzF5bUxfMjFkSjBJTGUxb19BRnRTOGFZeU5kcUR5aWszUVpHRGxVS1pHRk1HWlFuRUJEN0owNURCcWdFMWVwODIwcFpXZlY4b1c5LUIwcDltZnNSc1g5YkY1bTlWaEthcWtIbG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-16-005",
+    "date": "2026-08-16",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Focus Partners Advisor Solutions LLC Invests $4.78 Million in Corning Incorporated $GLW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTk1KLTQ4cWJVWkpJNUFab0VpaFRtMXFxSm0yemVrckZqNFN6VnM5YlVjX21RUUhZajhKX09tYWRVTDE3ZG51aXA5cmVxMDRTSVdkMFlkVDJKOUpSWXE4S2Rtc21WN1htSVpWWDIxMG",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTk1KLTQ4cWJVWkpJNUFab0VpaFRtMXFxSm0yemVrckZqNFN6VnM5YlVjX21RUUhZajhKX09tYWRVTDE3ZG51aXA5cmVxMDRTSVdkMFlkVDJKOUpSWXE4S2Rtc21WN1htSVpWWDIxMGp4ZjNFNmhBVjhFQ2k0VFRMNlgzaEpZWHBDWGdmZEtmU0hMeFVDcDZ3ajB4ZUhVUVJSeUFaT19hNkhMcXQ5Z253Ni1NY0FqTU1NcXgzaE1tTEcweHJWZU1XNkNVVnliZjNoamw2OFZXRTlzRFEweEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-08-16-006",
+    "date": "2026-08-16",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL's crisp and clear 4K Mini LED gaming monitor plummets to its lowest price in Amazon deal - PC Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmVLQk5JOHhzdXdxXzVuaXdINDRINk40U3FnYjhIdDBpNGlfRGZ1ZHItdUtlWTZ6ZzlxblMwa1pFa19RNXV0TGtVRHcyVUlXdU4tc3BTREFUYWpxWXl1NXJIZzZDeG8xVDdDX3REN2",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmVLQk5JOHhzdXdxXzVuaXdINDRINk40U3FnYjhIdDBpNGlfRGZ1ZHItdUtlWTZ6ZzlxblMwa1pFa19RNXV0TGtVRHcyVUlXdU4tc3BTREFUYWpxWXl1NXJIZzZDeG8xVDdDX3REN2gyRlF3eEF0WTlRTkRmaDZEem9TcEZSTVNqR05JMHU0c19DNmoxR2taV05iQlJlQzFlSExnNTJ0R3hCaUZ1SjNnWXAzZTUwbldHOWIyeUVDTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-16-007",
+    "date": "2026-08-16",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Hisense’s impressive 65-inch E7 mini LED TV is currently nearly half off in this Amazon deal - PC Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXhYdHRXZUphUTl6Mkt2RzdKUWN2OVZuWDNWS0tYLWxJdmstSHZhS3BZSzJZS2R0blE2V1ZEZlg1d0E0OGgyNDhEbkxxdWVVbWtXRHNRdXNHc2V1TENRSlRiT05iVDRNYmNDWHpoVi",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXhYdHRXZUphUTl6Mkt2RzdKUWN2OVZuWDNWS0tYLWxJdmstSHZhS3BZSzJZS2R0blE2V1ZEZlg1d0E0OGgyNDhEbkxxdWVVbWtXRHNRdXNHc2V1TENRSlRiT05iVDRNYmNDWHpoVi15YUlYclVvc1cyWEV4WDdtOGgyRmJfVWltYnlwMndRU2pFTzZ1TlVuREdDZlBfbk51cllVT3FFVDdUTmVLLVlsd1d1cDJDRlZJTmN3TUUtcw?oc=5",
         "type": "rss"
       }
     ]
@@ -1044,6 +1381,26 @@
     ]
   },
   {
+    "id": "sony-2026-08-13-021",
+    "date": "2026-08-13",
+    "companies": [
+      "sony"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Curious about RGB Mini LED TVs? Sony's vibrant step-down model just hit a new lowest price - whathifi.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNnR4dVhMQ3htQ1NqRk9LR3p0OFF5bnpRWkctd1lqdlE5VlNndXJMVVlTRnlFeW5fbkhsRVF2UGF3dlU3Q3g2b0hGOUhuUmo4dXhyc1dEQ3g3NUNsM013QTBqZ3A1cDhDM0FGeUtsbF",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNnR4dVhMQ3htQ1NqRk9LR3p0OFF5bnpRWkctd1lqdlE5VlNndXJMVVlTRnlFeW5fbkhsRVF2UGF3dlU3Q3g2b0hGOUhuUmo4dXhyc1dEQ3g3NUNsM013QTBqZ3A1cDhDM0FGeUtsbFdBdVZhNU5LUkE5T2NfdE4yYzdIcU5ydzdHUmNhcWcwQjktZTJYT2h4THMwYU1BWHotQUg0bGk1MlBtUTliNDgwOU9MMFFGeUJVU2FiR3dVZEJVSFNfeml6NDNJNENJWmp3Rnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_display-2026-08-12-001",
     "date": "2026-08-12",
     "companies": [
@@ -1502,6 +1859,24 @@
     ]
   },
   {
+    "id": "corning-2026-08-12-025",
+    "date": "2026-08-12",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GLW Stock Price Prediction 2025-2026 | Corning Incorporated Forecast - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xNlkzdzJ4cEgyc1VEakdKMXVoX1ppMU93bkNmTXlJRU4zb2pnR1BHSlJocjExblF4LS1jLWhhZ0doMGxHUHEwcXV2aUVtdVowS0RoWUlMOVo5V1dEMzFfeVVSZw?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xNlkzdzJ4cEgyc1VEakdKMXVoX1ppMU93bkNmTXlJRU4zb2pnR1BHSlJocjExblF4LS1jLWhhZ0doMGxHUHEwcXV2aUVtdVowS0RoWUlMOVo5V1dEMzFfeVVSZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-11-001",
     "date": "2026-08-11",
     "companies": [],
@@ -1907,6 +2282,26 @@
       {
         "name": "boe",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTNET3I3UkxyY3lPM3A3UEJJLXhVeDRhakV0WEhtNDhiVHo3NWZMRDktYk9VbDRKX1JPV05FbG9XNlRNWlotRnJYSE1xV0FYU3IwRG1nS3BzbGszYW1wZ1k5akc1S3BfRkxlMTU1WXk1N09nS2d4WWU2RGVLUGxsTElSS0VuY1Zoai1zS003eGZvd3hK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-08-11-023",
+    "date": "2026-08-11",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "iPad Air OLED Panel Orders Could Be Split With BOE in 2027 - MacRumors",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNVG5KSGhRaWJCT3c2dTc3cmZJSVY5Wmp2d1AzME9HMnhad09JVmhqbDJDZGdmM0xuaHR1N3A5c3pSVjdyX1dWd2JwSEh6bHJ2anN1U0IwNkFWVnJoRHF6YWgxWkY2c0QyX1lRU0pJUV",
+    "sources": [
+      {
+        "name": "google_news_display",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVG5KSGhRaWJCT3c2dTc3cmZJSVY5Wmp2d1AzME9HMnhad09JVmhqbDJDZGdmM0xuaHR1N3A5c3pSVjdyX1dWd2JwSEh6bHJ2anN1U0IwNkFWVnJoRHF6YWgxWkY2c0QyX1lRU0pJUVJ1ZDZPaXduaW5OR2VjV1AteFlJRFo5VWJwYnFxM0dmRmtGQQ?oc=5",
         "type": "rss"
       }
     ]
