@@ -1,0 +1,16 @@
+{
+  "total_raw": 379,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 175,
+  "gate1_fail": 38,
+  "gate2_fail": 21,
+  "passed": 17,
+  "gate2_samples": [
+    "Corning Incorporated: Well-Positioned AI Infrastructure Play - Seeking Alpha",
+    "If You Invested $1000 in Corning a Decade Ago, This is How Much It'd Be Worth Now - Yahoo Finance Au",
+    "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+    "Corning: Strong AI Growth, But Much Success Is Already Priced In (NYSE:GLW) - Seeking Alpha",
+    "Silverlake Wealth Management LLC Acquires Shares of 7,329 Corning Incorporated $GLW - MarketBeat"
+  ]
+}

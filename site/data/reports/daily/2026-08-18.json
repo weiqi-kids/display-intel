@@ -1,0 +1,240 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T08:34:05.056677Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-08-18-009",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "MicroLED still lacks key LTPO TFT tech",
+      "companies": [
+        "lg_elec",
+        "samsung_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec",
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration",
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260818PD207/microled-tft-technology-display-sdc.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-18-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China AI chip sales scale: Biren's revenue rockets up to 21-fold",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260818VL213/biren-revenue-ai-chip-2026-growth.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-18-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Everlight Electronics' 2Q26 gross margin hit by raw material costs, recovery expected in 2H26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260817PD232/everlight-led-packaging-gross-margin-profit-2026.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-18-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Semiconductor Earnings Roundup: Revenue, Growth and Takeaways",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://semiengineering.com/chip-industry-earnings-roundup/"
+    },
+    {
+      "rank": 5,
+      "event_id": "himax-2026-08-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax Technologies (NASDAQ:HIMX) Stock Price Crosses Above 200-Day Moving Average - Here's Why - MarketBeat",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYUtWdEljNVdwazd0aVdrbHl3UWZKTnJjVUFCeHZxS0t6M0RxLVhidmtlaEI5SWo0WHBSakg3QzNCWUdDLXMyaGRmaS1uZTJfYmk3WXgxME80NFp4RUJHVUlZa3g1MVVUWFh5WDg3aFg5WWFGa3F6Y3VtcWlhaUVaM1JGcE04VDBOMW42eDVQTVZNQWY3YWVaVXRTMDBnMkpkN1ZDOEdBZ0s2Sl83elJ1REI0Z2loaXJuUDZQWWZsZEtwNFJqQXU5R0VQQmI2YnpVZnllY3l5U3lOdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 5
+      },
+      {
+        "id": "himax",
+        "count": 2
+      },
+      {
+        "id": "innolux",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 379,
+    "dup_title": 128,
+    "too_old": 175,
+    "gate1_blocked": 38,
+    "gate2_blocked": 21,
+    "passed": 17,
+    "pass_rate": "6.8%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Corning Incorporated: Well-Positioned AI Infrastructure Play - Seeking Alpha",
+      "If You Invested $1000 in Corning a Decade Ago, This is How Much It'd Be Worth Now - Yahoo Finance Au",
+      "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+      "Corning: Strong AI Growth, But Much Success Is Already Priced In (NYSE:GLW) - Seeking Alpha",
+      "Silverlake Wealth Management LLC Acquires Shares of 7,329 Corning Incorporated $GLW - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為三星電子、Himax Technologies、Innolux相關動態：「MicroLED still lacks key LTPO TFT tech」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "MicroLED still lacks key LTPO TFT tech（OLED 滲透率、Mini LED）",
+        "level": "red"
+      },
+      {
+        "text": "China AI chip sales scale: Biren's revenue rockets up to 21-fold（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
