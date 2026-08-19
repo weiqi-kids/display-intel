@@ -1,0 +1,69 @@
+{
+  "date": "2026-08-19",
+  "total_events": 24,
+  "by_company": {
+    "canon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 16,
+      "sentiment_avg": -0.06
+    },
+    "lg_display": {
+      "count": 15,
+      "sentiment_avg": -0.1
+    },
+    "samsung_elec": {
+      "count": 7,
+      "sentiment_avg": -0.07
+    },
+    "jdi": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "oled_penetration": {
+      "count": 16,
+      "sentiment_avg": -0.09
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 15,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "lg_elec",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 5,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "lg_display",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 5,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ]
+}

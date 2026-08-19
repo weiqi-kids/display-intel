@@ -1,0 +1,285 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T08:35:00.817402Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-08-19-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Unveils Breakthrough FLiPP Technology for Brighter OLED Panels - Techgenyz",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wZ3AzclQycF9hN2hiMjZJRVlNbjMwSjB6MHk5V29oZ0VKX2lQSUFzc3p1T1FURVZ6ek9PRWhldXdCelhkMC1yVzVlbGV6RnhURURvdzBaZkhYME9MREpjSFdLNA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-08-19-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display unveils FLiPP, achieving dream next-generation OLED technology - PR Newswire",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNUQ2bWJTaW00dEhTbGdMUkx2LTN0cm83MWdkdHkzaXF5QjZUZ3UxenZMdkhjNnRRWUVsZFRidm9DSjEwWmdGNGt4bDFCQlp1UWdJVmVKQU5VdDJyeEEwZkZ2bldkYTRMZVVCWEVQQ1pMVXdyMHdMNU5BWWh2YV92OUxROFRqRHlpZHBmczBqX0VXVGhoclVya0NTN21VMkhPaEhNWHFZOGhnQXltb2JQdWhMM0dHVDBZ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-08-19-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display ditches masks for brighter, longer-lasting OLEDs - The Korea Herald",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QTVA1bDV5TjN1OUtZdEdOUDV3ZXdfQ21ONlhPa182dnFla2RqeTBab3RZZnFFWnZaRzRUWUt3cGxQcnVjVkFSWWxLWW5QaW9sc2NYYmltUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_elec-2026-08-19-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display formally launches its 8.5-Gen FLiPP maskless OLED technology - OLED-Info",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFdOUWo2c3FldXg3T2pReG1BYXkyMWs1X053WjVlVjRrTzZUaFpFZVJyVGpjRkhtYjdfaGtsQWJVVDNRTkZicmw0VEswbF9IV3M1N1pqQVd6QmFPZzBDYnRXek9Xdjd5VGNDZmdrZTZnekJpZ3B4dlB5TVp1NHduNElBeTZmSS1NT0lwTVRaVVk2QUs5TGN6WmFNdGM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_elec-2026-08-19-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display to Invest 3 Trillion Won in FLiPP OLED Technology - thelec.net",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxUXZZNTBRbDByMXJRdHR2WlhaZTBZN2ozbmw3aUdOcXUxRlV3T3RqRmZ6ejFFLUxMeUNKS1ktT09kdEVHNEhURmg2MmNJYjBUaTNyU0hMSms5Q28xVWcydEtvalU4Z00?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 15,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "lg_elec",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 5,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "lg_display",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 5,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 18,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 16
+      },
+      {
+        "id": "lg_display",
+        "count": 15
+      },
+      {
+        "id": "samsung_elec",
+        "count": 7
+      },
+      {
+        "id": "canon",
+        "count": 1
+      },
+      {
+        "id": "jdi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 378,
+    "dup_title": 110,
+    "too_old": 174,
+    "gate1_blocked": 37,
+    "gate2_blocked": 20,
+    "passed": 37,
+    "pass_rate": "13.8%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Corning Inc Stock (GLW) Moved Down by 8.02% on Aug 18: What Investors Need To Know - TradingKey",
+      "Can Corning's Next-Generation Glass Innovations Propel Its Shares? - TradingView",
+      "Corning: Strong AI Growth, But Much Success Is Already Priced In (NYSE:GLW) - Seeking Alpha",
+      "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+      "Corning Incorporated: Well-Positioned AI Infrastructure Play - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為LG電子、LGD、三星電子相關動態：「LG Display Unveils Breakthrough FLiPP Technology for Brig...」。主要關注主題為OLED 滲透率、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "LG Display Unveils Breakthrough FLiPP Technology for Brighter OLED Panels - T...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display unveils FLiPP, achieving dream next-generation OLED technology - P...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
