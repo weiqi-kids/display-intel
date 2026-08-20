@@ -1,5 +1,354 @@
 [
   {
+    "id": "himax-2026-08-20-001",
+    "date": "2026-08-20",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax: The Quiet Automotive Chip Leader Wall Street Keeps Underestimating - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGRlWjI1WUFFUDFGR19pdjI0czRjbm9GcXBQZzlyXzdCdnNta185YVdUMmRBZXRWb0tsSlNiUUxITGJfQ2JBZnR6QWgwVDFRQXNWYjM2N2RZNXd4V2JPdDlLbU96V2JvQ09fTzc4SW",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGRlWjI1WUFFUDFGR19pdjI0czRjbm9GcXBQZzlyXzdCdnNta185YVdUMmRBZXRWb0tsSlNiUUxITGJfQ2JBZnR6QWgwVDFRQXNWYjM2N2RZNXd4V2JPdDlLbU96V2JvQ09fTzc4SWprNVZxNmJhWjRoMjJmemw3WWt3UV9EZjZtOHc2bWo1WWNpd3VIVWZjRUIyc3dTQkpkNTNoNzcxZS1kVDByNHJYTDJEYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-20-002",
+    "date": "2026-08-20",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Himax Technologies beats Q2 revenue and profit forecasts, driven by automotive sales growth. - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNMEtMTC1ZS2E0ejlfSU4wOHc5aVNjZ25vYWZzYzF6ajBjTnVmNEtqWlhCQlo1bDNtR2l0RU9Hc2VUSTN4eG0xQVIwNTZiNVQ2d3B0aEFSMEtpdzdiN3NXLWJneE40eGlWbzJXVmtiOG",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMEtMTC1ZS2E0ejlfSU4wOHc5aVNjZ25vYWZzYzF6ajBjTnVmNEtqWlhCQlo1bDNtR2l0RU9Hc2VUSTN4eG0xQVIwNTZiNVQ2d3B0aEFSMEtpdzdiN3NXLWJneE40eGlWbzJXVmtiOGptUi1YaTdWM3o2VnMyRWhVcDBnOVZqb0YwVFdtVjU5eWtCUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-08-20-003",
+    "date": "2026-08-20",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Introduces FLiPP OLED Technology, Improving Brightness By Up To 1.6X With Longer Lifespan - Wccftech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1KQ2FhaUxQQnFJVkIxOWo1WXRUV0tYbmlUTWZZbndaRHRlcGEyTEplaVd5SjY0ZXBGUEdsd1h0VTNONzdITE5pMlNaRk13NXBJTm9XM2d3OGU5aFNiN01GMWhRRGpxZWd6d3VoWXg3em",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KQ2FhaUxQQnFJVkIxOWo1WXRUV0tYbmlUTWZZbndaRHRlcGEyTEplaVd5SjY0ZXBGUEdsd1h0VTNONzdITE5pMlNaRk13NXBJTm9XM2d3OGU5aFNiN01GMWhRRGpxZWd6d3VoWXg3emlaclHSAXhBVV95cUxPQnhzakJqNXdmQ3lRQ2JiT0cwLVJremh4UlpPUGNuSDBPZnpHSEt6MDJCNlJ5NWowUjZSS1NJNTQycFBKdVdfS1FNdlB2QW9MaThoYkVsalh0Y1E5ZEwzc0ZDT1d3RjJtVXhDMFRsVnJBTTJSaEd1SlY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-20-004",
+    "date": "2026-08-20",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Introduces New Over-the-Range Microwave With DualVent Technology",
+    "summary": "Samsung Electronics today announced its new Over-the-Range Microwave in the U.S. and Canada beginning September 2026. The new model introduces DualVent technology, a ventilation system with air intake",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-introduces-new-over-the-range-microwave-with-dualvent-technology",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-005",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Researchers develop a new class of deep-blue phosphorescence CF OLED emitters achieving outstanding results",
+    "summary": "<p>A team of researchers from Kyoto University, Kyushu University and Tsinghua Shenzhen International Graduate School have designed a new novel class of deep-blue phosphorescence OLED emitters, achiev",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/researchers-develop-new-class-deep-blue-phosphorescence-cf-oled-emitters",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-006",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "UDC announces the new OLEDX architecture to improve OLED light output",
+    "summary": "<p><a href=\"https://www.oled-info.com/universal-display\">Universal Display Corporation</a> announced a new OLED architecture, called OLED<sup>X</sup>, that improves how light is extracted and utilized",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/udc-announces-new-oledx-architecture-improve-oled-light-output",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-007",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Omdia sees growth ahead for AR and VR displays, with AR growing at a faster rate",
+    "summary": "<p>Omdia releases their latest forecast for the AR and VR markets, saying that by 2030, AR shipments will reach 21 million units, surpassing VR shipments (19 million units). The shift in consumer inte",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/omdia-sees-growth-ahead-ar-and-vr-displays-ar-growing-faster-rate",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-008",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "it_panel_demand"
+    ],
+    "impact": "positive",
+    "title": "China tightens grip on global LCD market as TV panel share tops 70%",
+    "summary": "The global LCD panel industry continues to consolidate around Chinese manufacturers, whose share of the LCD TV panel market has remained firmly above 70% and is gradually approaching 80%. Their presen",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260820PD201/lcd-market-tv-panel-shipments-lcd-panel.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-009",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI boom lifts Taiwan tax revenue forecast to record NT$3.52 trillion in 2027",
+    "summary": "Taiwan's government expects central tax revenue to reach NT$3.522 trillion in 2027, up 42% from the 2026 budget estimate, driven by continued growth in AI-related manufacturing and investment. The for",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260820PD224/taiwan-revenue-2027-government-forecast.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-20-010",
+    "date": "2026-08-20",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nvidia physical AI executive Madison Huang appears at Beijing WRC after LG Seoul visit",
+    "summary": "Two days after visiting LG Electronics' robotics hub in Seoul, Nvidia executive Madison Huang was in Beijing on August 20 for the 2026 World Robot Conference (WRC), highlighting the increasingly visib",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260820VL211/nvidia-robotics-ai-lg-electronics.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-011",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Unitree post-IPO: Chairman Wang weighs profit, scale and 80% home-robot threshold",
+    "summary": "<p class=\"P1\" data-start=\"0\" data-end=\"392\">Unitree Robotics' August 19 listing on China's STAR Market brought the humanoid robot maker into the public-market spotlight, but attention quickly spread b",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260820PD221/unitree-ipo-robot-robotics-data-price.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-012",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AMEC profit jumps 300%: China chip equipment maker expands beyond etch with US$520M plan",
+    "summary": "Advanced Micro-Fabrication Equipment Inc. China (AMEC) posted a 300% surge in first-half 2026 profit and announced a CNY3.5 billion (US$520 million) capacity expansion, accelerating its shift from an ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260820VL204/amec-equipment-profit-production-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-013",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Analysis: Google keeps Sunfish at Broadcom, Zebrafish at MediaTek &mdash; Marvell's US$12.2bn warrant buys a category nobody was defending",
+    "summary": "<p class=\"P1\" data-start=\"4782\" data-end=\"4993\">One word in Marvell Technology's August 19 filing decides how the Google agreement should be read. The custom silicon programs, it says, attach to the t",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260820VL209/marvell-google-broadcom-mediatek-tpu.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-014",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "Commentary: How iPad Air became a catalyst for IT OLED expansion",
+    "summary": "Apple kicked off the tablet OLED era in 2024, introducing Tandem OLED in the iPad Pro to overcome bottlenecks in display lifespan and brightness. The iPad mini followed, set to adopt OLED in the secon",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260820PD210/boe-ipad-air-sdc-apple-panel.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-015",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Jusung, PSK China sales plunge over 40% amid China's chip self-sufficiency drive",
+    "summary": "<p class=\"P1\" data-start=\"1895\" data-end=\"2004\">Jusung Engineering and PSK each lost more than 40% of their China revenue in 2025. The similarity ends there.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260820VL207/psk-sales-equipment-revenue-self-sufficiency.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-016",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Nvidia, TSMC, chip gear makers ride AI boom into high-margin club",
+    "summary": "Strong AI demand is driving a wave of high profitability across the semiconductor supply chain, with equipment and materials suppliers increasingly joining a \"high-margin club.\" Trailing only Nvidia's",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260820PD209/gross-margin-nvidia-tsmc-demand-profit.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-017",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Chinese SiC substrate maker SICC hits record Q2; 8-inch wafers top 50% of core revenue",
+    "summary": "<p class=\"P1\" data-start=\"2994\" data-end=\"3276\">SICC reported stronger first-half 2026 revenue and margins as its 8-inch silicon carbide substrate business gained scale, highlighting how the industry'",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260820VL206/sicc-sic-substrate-revenue-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-20-018",
+    "date": "2026-08-20",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung to break ground on KRW6 trillion Onyang HBM packaging plant in September",
+    "summary": "Samsung Electronics will break ground in September on a KRW6 trillion (approx. US$4.31 billion) HBM production and advanced-packaging facility at its Onyang campus in Asan, South Korea, after the proj",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260820VL203/samsung-hbm-packaging-plant-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-20-019",
+    "date": "2026-08-20",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG acquires Mexico TV parts plant to cut production costs",
+    "summary": "LG Electronics has acquired a local TV parts factory in Mexico. The move strengthens cost competitiveness and tightens control over its supply chain at one of its key North American production bases. ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260820PD208/production-tv-lg-lg-electronics-mexico.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-08-19-001",
     "date": "2026-08-19",
     "companies": [
@@ -485,6 +834,390 @@
     ]
   },
   {
+    "id": "lg_display-2026-08-19-025",
+    "date": "2026-08-19",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Unveils FLiPP, Next-Generation OLED Technology - TechPowerUp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQOWpTZ24wbzlKU0haLThlM1lNUUt3Zy1tUzhGVFNrSDdyQXRySWZESnlOcXZINXpkVEpOQ3Q3MFhpTVByMGhBQ0VFdmR0Z0Zpa0ZwaDl3cnpjTWpXTDctUi1wZmhWdHRDNUxrRlBzdl",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOWpTZ24wbzlKU0haLThlM1lNUUt3Zy1tUzhGVFNrSDdyQXRySWZESnlOcXZINXpkVEpOQ3Q3MFhpTVByMGhBQ0VFdmR0Z0Zpa0ZwaDl3cnpjTWpXTDctUi1wZmhWdHRDNUxrRlBzdlNuclAxOXVxal9TZXBIZVdQMmdFZFBwb0phMDAxa0E1MTFOWG1aS0HSAZsBQVVfeXFMTmdpV2hDSWVfQm5zbC1aRmNaNDRIcU9CRm8yR2hfOHdaYmxVSGNOR1BCR0draUtaOHZpaW9zUDBNSzhRbnhyN005eGtxYmEyVl82Q05kem1ZOG1vQzlEV1ZyVmJvWVdHZU5xUnZNb2JrV21Wc2ZMZGp6dUMycVZaTWJpd3FKMkQ3eUZDTGp1ZWYteDFrNDl1MDQ2enM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-19-026",
+    "date": "2026-08-19",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG's new 'Flipp' OLED promises brighter, longer-lasting displays up to 100\" - FlatpanelsHD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5WamdBNC1DVi14UGZaMnhSX09UU1FBWU9rU0I0UkZFZW5JUFFETEw2SkR2eGQ4YXViaE13Sk9xQmRsNVB5bFdoakJGNm91cU1fZWo2Vm9ZRmxoTS1TZ0ZOaVlTTHd5YVpMdXJoWURwMz",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WamdBNC1DVi14UGZaMnhSX09UU1FBWU9rU0I0UkZFZW5JUFFETEw2SkR2eGQ4YXViaE13Sk9xQmRsNVB5bFdoakJGNm91cU1fZWo2Vm9ZRmxoTS1TZ0ZOaVlTTHd5YVpMdXJoWURwMzlpTU9SYWNNZjdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-19-027",
+    "date": "2026-08-19",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG reveals new 'dream OLED' tech that boosts brightness and more than doubles lifespan — here's how it works - Tom's Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYW1fRk9VZHRqNDBmWl9XYmdmUUdJTmNCYWV5OUxPaEZNMlV2Yl81M0k3UG9wU3RsalhKZ2V4dG1QQng2VmhlRkdVc2RqdGxVbEQ4X25abVZWLUtMeFVyall5OUgxRExiR21rUGpjak",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYW1fRk9VZHRqNDBmWl9XYmdmUUdJTmNCYWV5OUxPaEZNMlV2Yl81M0k3UG9wU3RsalhKZ2V4dG1QQng2VmhlRkdVc2RqdGxVbEQ4X25abVZWLUtMeFVyall5OUgxRExiR21rUGpjak1sZGFINU9MSUUzb1g2Vm1iVk9IMzhZTk1pY1RFZzhERlFDNm03WWkwWG1VbDBJSmNKR251MHVSbnhPX3JhTmkxLVNHdFdraU9pLVdObTd2amRXekwxWmZsS0xnMklxSUY2NWE4ZkJtNGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-08-19-028",
+    "date": "2026-08-19",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display unveils its maskless OLED technology for the first time - Korea JoongAng Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWG0xcHZWTW1yNjltWHFFVlBOUFk4YndfS2ItZnN4c2w2X29CSm56OG5CNHZ3RVJPWVJEU2dHeHdyX0JlVzFUNG9BNHFaRVhNbk80NlJ6M2R2aF9XYUlOM25Oc1BBOVl3T0dBdjVkam",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWG0xcHZWTW1yNjltWHFFVlBOUFk4YndfS2ItZnN4c2w2X29CSm56OG5CNHZ3RVJPWVJEU2dHeHdyX0JlVzFUNG9BNHFaRVhNbk80NlJ6M2R2aF9XYUlOM25Oc1BBOVl3T0dBdjVkampqenZaWk8yTHZ5elcxa3lvdm91MUpFWE5oLXJ3WkdmTDVjb2gzazJNUi11cEltRFRaRjNXRlJrc25HZFVkWHQxRzJfTUxtTzBPSEJV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-08-19-029",
+    "date": "2026-08-19",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Develops New OLED Panels With More Brightness And Longer Lifespans - Forbes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMjExRlJOZlRaNEdxN3o4RkExNVFzcEtoTWM2RFFvS3JrVkFPOXA5YjNPM2t4X2xLdXRheElZdmxGYk04ZmxycFEwSHhRM0ZXMkJISmJQWGZzX1ZjcmUtWUQ3dGxWOEdzWEktcmR3OD",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMjExRlJOZlRaNEdxN3o4RkExNVFzcEtoTWM2RFFvS3JrVkFPOXA5YjNPM2t4X2xLdXRheElZdmxGYk04ZmxycFEwSHhRM0ZXMkJISmJQWGZzX1ZjcmUtWUQ3dGxWOEdzWEktcmR3ODlycTVyNkpnNGlJVkd4WHNRNi12Y1lhb0JRVndEUTRsek51aEJVb2hqT3NmNlFuaHFHUjZfMUVnYnhtT2xqbmEzZ1l3bWZRTkpJRXZDVFB0VnJheklCeG92YQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-030",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Even brighter OLED TVs could be on the way thanks to a new “dream” panel technology – and super-large models might get cheaper - What Hi-Fi?",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPSzlhOXNob0FjaE0tZ00zLXgxTEgxT0dqSDc1SzNnRHFrMHB5eExZUGNZTUd0QTdrbHM0TU9lZldZcjVYekFEemZMd3poRkc4S2VsWmkwOVlVQ1Rlc2x5aEJPa2lLeUY3LWdma2hTbm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPSzlhOXNob0FjaE0tZ00zLXgxTEgxT0dqSDc1SzNnRHFrMHB5eExZUGNZTUd0QTdrbHM0TU9lZldZcjVYekFEemZMd3poRkc4S2VsWmkwOVlVQ1Rlc2x5aEJPa2lLeUY3LWdma2hTbmxVeHBZb21SR1c2dmVVSDFjb3FESlFlT0x1Q3lWZmtma1RLZktiUGR1NG02YjlIVGFWdzJLc1ZWZm93WktkSmUxaFdjczI4MVlJSklyQTR6YXM3TDVPQVNHRVZwYkh0eXZTYXRNZ1N2dnplZnI1TXJrZDBTdkpOQUpFaDZHVmpIRnNSQldqaEZaZDRtOWJxVE9WWDlOWg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-08-19-031",
+    "date": "2026-08-19",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display unveils FLiPP OLED technology with up to 1.6x higher brightness and 2.4x longer lifespan - VideoCardz.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNS3dERm5iZEU1NDFpQnVpdWZ1V055TEtQU3I5RFlfS3VubkRadUhYS1VpUnVMZGpVX3BxWjU4UnFqbV9VMURNUE0yY0d3R1hyTWpoS2FWTnJWcjVydHpILW1LeWRDekVOaUFJY3ZHbD",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS3dERm5iZEU1NDFpQnVpdWZ1V055TEtQU3I5RFlfS3VubkRadUhYS1VpUnVMZGpVX3BxWjU4UnFqbV9VMURNUE0yY0d3R1hyTWpoS2FWTnJWcjVydHpILW1LeWRDekVOaUFJY3ZHbDFjOS1vNzY0TXVzWi1VekFscllYb05yVDItOFFzOGotNk1Va1hMU0F0UzQtOUVROURaMWNYUXBhWDZzdmtTSmhaamtwcG50M2o5emVaVXJWcGZUMkVGdWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-19-032",
+    "date": "2026-08-19",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG’s FLiPP Tech Could Finally Solve OLED Burn-In And Dim Screens - HotHardware",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2lUTnpZX2NpZmVqbUp0OTdHdzF5VlBiQWlKUmlWeVJBdDB0d2FTdTVYZnY5RTJVUkVOa2ZoUzJRVzZhYXJmaW5HeWpPRnpjNDY0cEFIUzUzeWpLV2R6cngwMnpNeEdSZFZsVXFRam",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2lUTnpZX2NpZmVqbUp0OTdHdzF5VlBiQWlKUmlWeVJBdDB0d2FTdTVYZnY5RTJVUkVOa2ZoUzJRVzZhYXJmaW5HeWpPRnpjNDY0cEFIUzUzeWpLV2R6cngwMnpNeEdSZFZsVXFRamw3Yy1XU0JubjQtM1ZDcE9EUm5aaGJpOVFmR1lCTjItOFVyWXptX1lv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-08-19-033",
+    "date": "2026-08-19",
+    "companies": [
+      "lg_display",
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display FLiPP OLED Kills Metal Mask Barrier; Samsung Fixes Foldable Brightness Gap - Tech Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeGl2ZUhaWjFkS1VBeW44bmhCbWY5SzBuLVVKSmtKakd0UTdqYldVd2psRERDMUplN2hfcU9CVkhybmRod0pmNXEzdWNlSzRRODBQdzBvMkRSd0d3a2VacEJjNWQtUjhVaUZBTmJaUW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeGl2ZUhaWjFkS1VBeW44bmhCbWY5SzBuLVVKSmtKakd0UTdqYldVd2psRERDMUplN2hfcU9CVkhybmRod0pmNXEzdWNlSzRRODBQdzBvMkRSd0d3a2VacEJjNWQtUjhVaUZBTmJaUWRMaElsbmtUMW1LYm9yaGtEM2EtM1kxQVRUSHlrNDdUMkNtNVZvMWdSekNETVVrZTQwYTl1M0JIc2Q2SkFQX2RDcW1MOUtFRF9OM0szSUNoN0l2SFlYUFlHMTFaQVdscmF1QU9HT3l3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-19-034",
+    "date": "2026-08-19",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG to revolutionize OLED TVs again with new FLiPP tech, promising much better lifespans - Neowin",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXBYeGVvbWt1NXJ4VnlJNVVPVmlYVVowODhfMWRnRWZRMEFrZ2pLVGdBaWt3VUZjTC1jVW9RcU83bzJCZUpxUVVSS3pBQUJVendaME1oNXhNWUUyMEZPSzVGUTN4bm55UGk3Wnlwdm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXBYeGVvbWt1NXJ4VnlJNVVPVmlYVVowODhfMWRnRWZRMEFrZ2pLVGdBaWt3VUZjTC1jVW9RcU83bzJCZUpxUVVSS3pBQUJVendaME1oNXhNWUUyMEZPSzVGUTN4bm55UGk3WnlwdmViSm1lWm53cGhmbHM2WDJ5NFZqYmxKdlJDNkxHQThleGltQjItQjRPNkZEQUMyOTZGR2RBcHhhc2xRZlZoLXhlcnZoVHBRd9IBtAFBVV95cUxQODJsN2VveWFvSXZsMEZzR041bEs4RVBnaFVtTVpHRnJnXzU3LWQ4TG1UQmJ5eVlYMFF1amk5QXpfd05pdXF5RmUwdG55VUE4R29XYUxWYUdVZnBETHpVRlJLQk8yR0dKSWRLY2JROS1FQ1BiLWdxVXgyRzFRM3JSRGNYcnZmVFRMaWdMM0xDck5JWWY2RS1TTEI1OXAwMlVKa2oxeXJ1cERibFpRS3lxVnZTQWI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-19-035",
+    "date": "2026-08-19",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Cheaper, brighter, better – LG unveils its OLED “FLiPP” technology - OC3D",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOWFh0QXlmN0NRYnpjVnhhbWdIZWN0cnJ6MzZUN1JxeUs4LXlqeExWVG5GMnNfX2RwT1A3bkViY3U3eWExU2tJbzgtT3JKT0YxaUV1Y2IxeDZBYlZXVkZXV1BBdWYycUM2a2RTUkVHbT",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWFh0QXlmN0NRYnpjVnhhbWdIZWN0cnJ6MzZUN1JxeUs4LXlqeExWVG5GMnNfX2RwT1A3bkViY3U3eWExU2tJbzgtT3JKT0YxaUV1Y2IxeDZBYlZXVkZXV1BBdWYycUM2a2RTUkVHbTM3NWlIdi01R3hVUHBTU09pQkdPNVNUS0RzSVRsbkdhd3VVZDFpLW1JYWw2QjZlV1JTb2lsSzRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-08-19-036",
+    "date": "2026-08-19",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display's New FLiPP Manufacturing Process Promises Brighter and Cheaper OLED Panels - TFTCentral",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNZVJ3NW0tbGlqbExKNXJrM2xzVUNBeWpCRF9SQTNWSE1JTzdyQWhVOU5PNVZaNU8xNHdyRnMwUmJYaXNnODA4RnpiZEJTX0lGRllXcDJ3YUhRaWhJMUlocWVfME1SaTFnV0daZVpXUj",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZVJ3NW0tbGlqbExKNXJrM2xzVUNBeWpCRF9SQTNWSE1JTzdyQWhVOU5PNVZaNU8xNHdyRnMwUmJYaXNnODA4RnpiZEJTX0lGRllXcDJ3YUhRaWhJMUlocWVfME1SaTFnV0daZVpXUjBzd0tMRGRXc0Zxd0kwbmgteUFhb3JfWDdZZVlCeHI0RDVncGQzd3NDZkUzcTRPbkhtWjF2aURuUUlWdFRwMF93YzZ6N2NnQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-08-19-037",
+    "date": "2026-08-19",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display formally launches its 8.5-Gen FLiPP maskless OLED technology - oled-info.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFdOUWo2c3FldXg3T2pReG1BYXkyMWs1X053WjVlVjRrTzZUaFpFZVJyVGpjRkhtYjdfaGtsQWJVVDNRTkZicmw0VEswbF9IV3M1N1pqQVd6QmFPZzBDYnRXek9Xdjd5VGNDZmdrZT",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFdOUWo2c3FldXg3T2pReG1BYXkyMWs1X053WjVlVjRrTzZUaFpFZVJyVGpjRkhtYjdfaGtsQWJVVDNRTkZicmw0VEswbF9IV3M1N1pqQVd6QmFPZzBDYnRXek9Xdjd5VGNDZmdrZTZnekJpZ3B4dlB5TVp1NHduNElBeTZmSS1NT0lwTVRaVVk2QUs5TGN6WmFNdGM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-08-19-038",
+    "date": "2026-08-19",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Unveils FMM-less OLED Technology at IMID 2026 - Intellectia AI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNb3J6MlppVjJuNWxCTW00cmhza0N2RzAyTWdFcG5HTHlUX2lLbjJiWWFCRGM1UkVsdjF3bHhHVzVGT01TT1pmOWNvcjczbl9BZGozY1Fpc0tkcm5xMGUyNEEtS3dNQ1ZCbmJGR3NWck",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb3J6MlppVjJuNWxCTW00cmhza0N2RzAyTWdFcG5HTHlUX2lLbjJiWWFCRGM1UkVsdjF3bHhHVzVGT01TT1pmOWNvcjczbl9BZGozY1Fpc0tkcm5xMGUyNEEtS3dNQ1ZCbmJGR3NWckFSX1pfQzV0X1RhY1VuSUZwZ2ZCYXdZZDFvRmVkUXUzMzY1NlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-08-19-039",
+    "date": "2026-08-19",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ETFs Investing in BOE Technology Group Co., Ltd. Class B Stocks - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQQWJ3MENrb1dtQ0R3MDdHdzFqVFVZMzZJUjdpSTZRckYxNHQ2VVNWSHhmb1pUOGJpN2lZQ3BUUE1GSUkyVGxkekkwd0JNVHNYZzhuaXRSYXRHU0o4WWJLY2o0dw?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQQWJ3MENrb1dtQ0R3MDdHdzFqVFVZMzZJUjdpSTZRckYxNHQ2VVNWSHhmb1pUOGJpN2lZQ3BUUE1GSUkyVGxkekkwd0JNVHNYZzhuaXRSYXRHU0o4WWJLY2o0dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-040",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "New 10,000 hour OLED burn-in test published, showing similar max-brightness burn-in results",
+    "summary": "<p>Reviews site Rtings.com published the results of a long-term OLED burn-in test, with some interesting results, comparing 20 different OLED TV models.</p><div>\n  \n  <a href=\"https://www.oled-info.co",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/new-10000-hour-oled-burn-test-published-showing-similar-max-brightness-burn",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-19-041",
+    "date": "2026-08-19",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OTI Lumionics working together with researchers from SAIT, shows how its iQCC method can drastically reduce OLED material quantum simulation processing requirements",
+    "summary": "<p><a href=\"https://www.oled-info.com/oti-lumionics\">OTI Lumionics</a> announced that together with researchers at the Samsung Advanced Institute of Technology (SAIT), it has <a href=\"https://pubs.acs",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/oti-working-together-researchers-sait-shows-how-its-iqcc-method-can-drastically",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-19-042",
+    "date": "2026-08-19",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display unveils new foldable OLED displays with wider viewing angles, and a 20-inch stretchable display",
+    "summary": "<p>Samsung Display has unveiled new foldable OLED displays that offer better viewing angles, branding it as \"Wide-View OLED\" displays. The new panels are 7.6\" in size.</p><img data-entity-uuid=\"f21cd3",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-unveils-new-foldable-oled-displays-wider-viewing-angles-and-20",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-08-19-043",
+    "date": "2026-08-19",
+    "companies": [
+      "tcl",
+      "csot"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Ruilian New Materials signs a development agreement with TCL CSOT for the development of inkjet printed OLED materials",
+    "summary": "<p><a href=\"https://www.oled-info.com/xian-manareco-new-materials\">Xi'an Manareco New Materials</a> (also known as Ruilian New Materials) announced that it has signed a collaboration agreement with TC",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/ruilian-new-materials-signs-development-agreement-tcl-csot-development-inkjet",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-08-18-001",
     "date": "2026-08-18",
     "companies": [
@@ -815,6 +1548,82 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YTDA4QmMybmxiR1pscC1rRHBqNm42YnNGdnRyVnlyWElpX2RZTWRaSUZkc3VVRVZCNnREeGl5SkkzaVBldVR0MHpCbWlfdlRrWE9BV3M0MjllSDgyQmNmM3U5aGR6WllXUVd3Y1ZkT043OXZ0Z3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-18-019",
+    "date": "2026-08-18",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Improving Demand Strengthens Corning (GLW) - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmRKeHR6UGNjMmwybGFGMjYxN2gzOUgwVTJaQ1dTVWJXdUIyMURmblZCY0kzVE51dXNuNmUxX0t6SWhhdDUtNXowV2p5TUxuWEx1RlhiTXdMb1podDREX2VBbFppYVhsNU01SDBnU0",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmRKeHR6UGNjMmwybGFGMjYxN2gzOUgwVTJaQ1dTVWJXdUIyMURmblZCY0kzVE51dXNuNmUxX0t6SWhhdDUtNXowV2p5TUxuWEx1RlhiTXdMb1podDREX2VBbFppYVhsNU01SDBnU0xNWkNNemhvdXk0d3ZfYW54YTE4Y0htVmpJRXZXSkJTWWF3SDRKYVo0WVRqSzNvdWdqb09rVVlucGM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-08-18-020",
+    "date": "2026-08-18",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display (NYSE:LPL) Sees Strong Trading Volume - Should You Buy? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQcnRsWF83T1d6M0xNT2Z2LWtBWG9GaldKVTM4TnVjYWNjRUhsckFzSjgyY2V6enZMMnFYNzlWUjdDOGtWd1NTRTBQZ3ZYb2R3Z2dKd3JVeUpYc0RFUXAyYWdzMmFpWVotU1Y4U09BeH",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcnRsWF83T1d6M0xNT2Z2LWtBWG9GaldKVTM4TnVjYWNjRUhsckFzSjgyY2V6enZMMnFYNzlWUjdDOGtWd1NTRTBQZ3ZYb2R3Z2dKd3JVeUpYc0RFUXAyYWdzMmFpWVotU1Y4U09BeHMxNlptZVEtNUY5bUozMExqMl85N1dmalN6TFRTcXpWRVkwSWV2akRsSU5tZi1Va1pWMS04RzRPTmtIMHk2Y3c3d0dmNE8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-08-18-021",
+    "date": "2026-08-18",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "panel_price",
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "TCL is building a leading position in the premium TV segment with its SQD Mini LEDs - Omdia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOS3Z0WHRWZjZDRzc5eHBlS1AtV0F2M3hHc0EzNk5LUk9KdHY4R1oza05ZRTlOb3RYYWV4dElUWDFtQ3ozNS1QSlJISEdwLU8yV2NpYkdHbHlrUXFfcHRqSHQ5U1N2dHpGdDJpLWIzbH",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOS3Z0WHRWZjZDRzc5eHBlS1AtV0F2M3hHc0EzNk5LUk9KdHY4R1oza05ZRTlOb3RYYWV4dElUWDFtQ3ozNS1QSlJISEdwLU8yV2NpYkdHbHlrUXFfcHRqSHQ5U1N2dHpGdDJpLWIzbHB6RURHdVpiTFZad0JIbk9seG95UFBIeXRKNlVCNkJVRlRhanFDeDBKUVZOb0U5MmRSbWo5cVJsMTFNM3MtZXNIQ1hTeWtZOWZfdC03Yk1UTXNCWmo0V0dBdmkzc3NMOVkwTkh5NFhVcXFlWjREd2JKYkJ3NDNkMU9ldXhyNThKNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-022",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Brighter rooms. Bigger screens. Smarter choices: Panasonic TV Expands Its 2026 U.S. Lineup with OLED, Mini-LED and QLED Models - us.acrofan.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sZDdMV1pPbGlieEZ0bHJSRFd0QXphenhtRnhtXzJPR05WcWhmdVdZSUw3YzFXTEtGdEtiMVJxZmRKS04xZDA0YURucnMwdDdQNHFwbmYzbWlkN01w?oc=5\" target=\"_blank\">Bri",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sZDdMV1pPbGlieEZ0bHJSRFd0QXphenhtRnhtXzJPR05WcWhmdVdZSUw3YzFXTEtGdEtiMVJxZmRKS04xZDA0YURucnMwdDdQNHFwbmYzbWlkN01w?oc=5",
         "type": "rss"
       }
     ]
@@ -1171,6 +1980,24 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcllXVkM2TzM2dU5xRVlYdGFQajctM3p5a3IxaVZKejd1RlZWTXFBYWF0QXVyd1pOajVPb0t5NHl0NUswUFBvdXpNN3VsTXdnRENCeml0bXg5OHV0VFZ2Z1BLSGo2b1VyWER3N0xxSUM1aDNaSVg2ZTNmQ0xsNHl1R1dLRm45bjZDMkk0ck1lWWtWZDA0aU9HeV9vdTdVdDI0NjR6c3c4dWI4emVhNTZBMU94a1EwV1VSc1dCd0JXc2NHTFEw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-020",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Grab this AOC Mini LED gaming monitor at its lowest ever price - club386.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4ZmlKOHdGOWF4R0wxNzhmdzdsOVNWY0FDTnRRZVkyMzVMSlZCM21DVmtISnU3bzJyZENKc192V1NXYzlqdG9HSzNBQ3EwWDNlVnMydEEzakZxOHh1ZEZ5MA?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4ZmlKOHdGOWF4R0wxNzhmdzdsOVNWY0FDTnRRZVkyMzVMSlZCM21DVmtISnU3bzJyZENKc192V1NXYzlqdG9HSzNBQ3EwWDNlVnMydEEzakZxOHh1ZEZ5MA?oc=5",
         "type": "rss"
       }
     ]
