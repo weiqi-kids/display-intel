@@ -1,0 +1,254 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T08:37:37.569581Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-08-21-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display cuts cost burden as post-LCD restructuring shows results - The Korea Herald",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DYW51WlJXQlU1WXZIRmFrX3lueDNMNjQyNFdjc21SMGktQm54U0pQak16TFJ3UEY2YUlWTHpQMklBdG50c1pDQjN0Mkp5Tm9DMTZkR3VYRQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-08-21-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display FLiPP: New OLED Technology Increases Brightness and Lifespan without a Metal Mask - igor´sLAB",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTQ4anB6Nnp6MExzTWZGLXJwOF80WGFWNVdHbEl5ajNqWXZQdDV3TVN0WVFvdGxTT0Y4dE9FZDNYUTJMOVZ4a1MyYklPS0ZteTJKdlJZb2gtcmNRNWtnRDl1emN0WE94ZmRjZTljZGRTZ3IwdlZ2cjVoRFpHTU83bnNMaU5udXFfSUk1UmFqWlNEU3hqVHBaUUI3OGd1al84?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-21-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "JCET profit surges 79% on AI demand, with advanced packaging and CPO gaining scale",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260821VL209/packaging-demand-jcet-profit-revenue.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-21-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Analyst: Upstream memory giants eye threefold 2026 revenue as 2027 capacity eases price surge",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260821PD206/2026-2027-revenue-capacity-price.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-08-21-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "[News] Korea’s Next-Gen OLED Push Gains Steam With LG FLiPP, Samsung Wide View Debuts - LEDinside",
+      "companies": [
+        "samsung_elec",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IdWtrUTh6WHpjNGhMYXU2VjN0X21Tc2xVeGpGLThwV2lBdlhqMXpaVjdlcTNOYmo3WDNDd3NYSkFRcFREVXk3N2hkMDc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 3
+      },
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "lg_display",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 359,
+    "dup_title": 114,
+    "too_old": 169,
+    "gate1_blocked": 43,
+    "gate2_blocked": 14,
+    "passed": 19,
+    "pass_rate": "7.8%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+      "Can Corning's Next-Generation Glass Innovations Propel Its Shares? - TradingView",
+      "Corning Inc Stock (GLW) Moved Down by 8.02% on Aug 18: What Investors Need To Know - TradingKey",
+      "Corning: Strong AI Growth, But Much Success Is Already Priced In (NYSE:GLW) - Seeking Alpha",
+      "If You Invested $1000 in Corning a Decade Ago, This is How Much It'd Be Worth Now - Yahoo Finance Au"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為LG電子、康寧、LGD相關動態：「LG Display cuts cost burden as post-LCD restructuring sho...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display cuts cost burden as post-LCD restructuring shows results - The Kor...",
+        "level": "red"
+      },
+      {
+        "text": "LG Display FLiPP: New OLED Technology Increases Brightness and Lifespan witho...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

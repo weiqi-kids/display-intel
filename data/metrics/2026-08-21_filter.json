@@ -1,0 +1,16 @@
+{
+  "total_raw": 359,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 43,
+  "gate2_fail": 14,
+  "passed": 19,
+  "gate2_samples": [
+    "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+    "Can Corning's Next-Generation Glass Innovations Propel Its Shares? - TradingView",
+    "Corning Inc Stock (GLW) Moved Down by 8.02% on Aug 18: What Investors Need To Know - TradingKey",
+    "Corning: Strong AI Growth, But Much Success Is Already Priced In (NYSE:GLW) - Seeking Alpha",
+    "If You Invested $1000 in Corning a Decade Ago, This is How Much It'd Be Worth Now - Yahoo Finance Au"
+  ]
+}
