@@ -1,5 +1,23 @@
 [
   {
+    "id": "corning-2026-08-22-001",
+    "date": "2026-08-22",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Zayo Signs Long-Term Fiber Supply Agreement with Corning - Manufacturing.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOSjkzclB3RWdRQkhuNC1aakJIYVg0TldrU2psYnBtSl80X3FzcFRIMnJSNzB6ZFUzQmU3OXF3SWhJeVM0eC14eU1vZ2NaOFY0NWNYNlBCejFqTW1IalJUaVFFekZOM3RLQXFiSi1xTz",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSjkzclB3RWdRQkhuNC1aakJIYVg0TldrU2psYnBtSl80X3FzcFRIMnJSNzB6ZFUzQmU3OXF3SWhJeVM0eC14eU1vZ2NaOFY0NWNYNlBCejFqTW1IalJUaVFFekZOM3RLQXFiSi1xTzZyc01qSXotT3RNaHZiQ1RCbVdiMTE3YVZXaUJZaWpOWXJzZ3IyTXlWLUd3SHhMVGs2MXB2YVNTdXNxX3JYVFBodGh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-08-21-001",
     "date": "2026-08-21",
     "companies": [
@@ -164,6 +182,162 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BMXgwX1JYdXlxX2xYekt4M0d4a0pCWjhXUE9GQmFaUTdzVlBqQm1mR1NiM3VfeElocGFrTnhsTXV3ZEx0Y3NkLVZGakJTMDlsUE1FN0xfU2xSRDVEMFlzaUdwbjNtd0o2cncwWlY3MExjTDNLRHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-08-21-010",
+    "date": "2026-08-21",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display reportedly developing its first 5-layer OLED for TVs, iMac - FlatpanelsHD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFB6TnRRRE5nQ0tURjJDZ2lPYUxZUEkzbDJhSXBpMWkzMjVQOUlZQ2VrQzdCaS1lZEdScGRrLTN5cGR5MjhNYi0zd1FqMFROZTBibDM5UzRDTGVxTFdUTndScjJrU0xzWkUya1BSUVNSX0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6TnRRRE5nQ0tURjJDZ2lPYUxZUEkzbDJhSXBpMWkzMjVQOUlZQ2VrQzdCaS1lZEdScGRrLTN5cGR5MjhNYi0zd1FqMFROZTBibDM5UzRDTGVxTFdUTndScjJrU0xzWkUya1BSUVNSX0VwaGtVejF2WW9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-08-21-011",
+    "date": "2026-08-21",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display FLiPP OLED Could Make Future TVs Brighter, Longer Lasting, and Cheaper to Build - eCoustics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5hVEotbjVGRi1KQzF2QUlxNEI0aEhtWUNkajhFR2NtUWZxTk9NeHQ0dTh0STBveTJRNjFEUmYwamExUlpITTY0OTNpMmN1dXZkTml6S09oUXlnZjUzUmQyaTNzaEdpTmx4cFZNMGFEMm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hVEotbjVGRi1KQzF2QUlxNEI0aEhtWUNkajhFR2NtUWZxTk9NeHQ0dTh0STBveTJRNjFEUmYwamExUlpITTY0OTNpMmN1dXZkTml6S09oUXlnZjUzUmQyaTNzaEdpTmx4cFZNMGFEMmVkUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-08-21-012",
+    "date": "2026-08-21",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display's FLiPP OLED promises 2.4x longer panel life - Yahoo Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPN3hoVGctVUpDN0JsMUNkMEdXZlpSaTZ3N3ItRHdPSm5Gc0tiSlNQMmVEeHZSSmdJQ1VOZEgzUm5XMnVXc0J0c001TUdvVng4bXFRYWpYRUJadTBRb3pJWERmOGZQS2s0MzFtcnpMOH",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN3hoVGctVUpDN0JsMUNkMEdXZlpSaTZ3N3ItRHdPSm5Gc0tiSlNQMmVEeHZSSmdJQ1VOZEgzUm5XMnVXc0J0c001TUdvVng4bXFRYWpYRUJadTBRb3pJWERmOGZQS2s0MzFtcnpMOHFNMTA2YURnVjJ5eTU1M0ZJZE15aUd1REVQNmdSdlFXTUtGZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-08-21-013",
+    "date": "2026-08-21",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display develops \"dream next-gen\" OLED tech that can boost panel brightness by 60% - Club386",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBTUGZ5UGpSTktWUi1xUDkxXzRiWmx2dC14NmRPVnlzdElqaC11a3MyWTEtZy1rS2xhX1FlRlNsZ1d6ckE2TzFLaWt6cXV0MklhV0Q4dHlTcjFMRU5hVW5fZmZYbURSc0RkeU1XZVA3VQ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTUGZ5UGpSTktWUi1xUDkxXzRiWmx2dC14NmRPVnlzdElqaC11a3MyWTEtZy1rS2xhX1FlRlNsZ1d6ckE2TzFLaWt6cXV0MklhV0Q4dHlTcjFMRU5hVW5fZmZYbURSc0RkeU1XZVA3VQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-014",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "China chip equipment maker Piotech posts 1,324% profit surge, advanced deposition scales up",
+    "summary": "Piotech Inc. reported a sharp rise in first-half 2026 earnings, helped by stronger demand for semiconductor deposition equipment, wider adoption of new process tools and improving economies of scale.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260821VL214/equipment-profit-revenue-production-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-015",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Hiwin expands into CPO optical coupling process; 2H26 robotics revenue outlook brightens",
+    "summary": "Hiwin Technologies Chairman Eric Y. T. Chuo stated that the company has supplied samples of miniature ball screws and single-axis robots to co-packaged optics (CPO) vendors across Taiwan and China for",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260821PD218/hiwin-technologies-cpo-robotics-revenue-equipment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-016",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Research Insight: Upstream memory giants eye threefold 2026 revenue as 2027 capacity eases price surge",
+    "summary": "The global memory market is entering a sharp upcycle as cloud providers boost capital spending and demand for AI infrastructure lifts DRAM, NAND, and HBM prices. According to DIGITIMES, the three larg",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260821PD206/2026-2027-revenue-capacity-price.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-08-21-017",
+    "date": "2026-08-21",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL QM8L vs QM7L: Which SQD Mini-LED TV tested better in our lab? - Yahoo Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3FGelhfNVR0Umwybmp6MUZoLWllbzJnUEg0RmRqREYxcTNNLWREWC0wNDNqN1ZETXQ0VF9tVFl0bjg2ZTI0R2RjV2VEdGtjdFpBQlNvbDNBS3NfaEVVVC1WYnpod0dZamFNSWRFVW",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3FGelhfNVR0Umwybmp6MUZoLWllbzJnUEg0RmRqREYxcTNNLWREWC0wNDNqN1ZETXQ0VF9tVFl0bjg2ZTI0R2RjV2VEdGtjdFpBQlNvbDNBS3NfaEVVVC1WYnpod0dZamFNSWRFVWNLZ0dBOHVPYlU3cUZtSElKd2tucWIzalpUek01TFdUREU0cUto?oc=5",
         "type": "rss"
       }
     ]
@@ -711,6 +885,42 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWmNPUmIyUWJwdW92d3Q2VDVDcmEyNVdWYnpvajZPMVNpQU43c3FEbC1EMURTTGhZMFBnUzNvS1lzazA2V3VKaXhSR0JWLXhWWnlMSWVGSnhiZUNncUc2UERlUDRJeXNMNHhqQ2J4dEh4YTlJQkdqc0hNSVV5b1F4WjBSUnhzZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-20-030",
+    "date": "2026-08-20",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Zayo Group Holdings, Inc. and Corning Incorporated Enter Long-Term Fiber Supply Agreement - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVllLTXVkanhFSjhMeGd0RTZxTUVxRmdRaV9BckdMR3VjeFUtZWd5VG15OW9BTEFJVjhWdkFYZmZHek11QlZVSWZpcHd0cWplb1I5em41YzV0ZTAxUjRDZ2RMSWg3NVBGMGhhb3k3Z1",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVllLTXVkanhFSjhMeGd0RTZxTUVxRmdRaV9BckdMR3VjeFUtZWd5VG15OW9BTEFJVjhWdkFYZmZHek11QlZVSWZpcHd0cWplb1I5em41YzV0ZTAxUjRDZ2RMSWg3NVBGMGhhb3k3Z1RGZ2RjQjExc3FVLTNmeUE1WDB1VklBMnJoTjl2RjB6MG1oVnBualZuUUJIRC1zdUVIa1lzdC0yN1Q1OVdNMUNsRU00SnEwaFFQaTdael9vR01rUUx6eVNFbHVXcldGSXlYbndYYnFxRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-20-031",
+    "date": "2026-08-20",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Zayo Stays Ahead of AI Infrastructure Demand Through Long-Term Fiber Supply Agreement with Corning - 01net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmhWQUxhU25yRjZKM1dUc296cTNfTzBXMXFiZ25Ndm5KRjEtMmt1bkQwaEZLX0xGNnRvclhHc2cyQ0VicjIxMmdWWTFJRXlTZEFWQU5LTUl0RXduRjZGUFJWRHBqZVpzNUdwd2lFYz",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmhWQUxhU25yRjZKM1dUc296cTNfTzBXMXFiZ25Ndm5KRjEtMmt1bkQwaEZLX0xGNnRvclhHc2cyQ0VicjIxMmdWWTFJRXlTZEFWQU5LTUl0RXduRjZGUFJWRHBqZVpzNUdwd2lFYzNISk1pUVZYcE1nMWlLaEp1NFpyczFsaTRfdVAwNEVnSFdpWlU5akhrM0djNlF2WGZqclVKRThtUktGUTZZUkIydm0xYVdPRjdiQnhyXw?oc=5",
         "type": "rss"
       }
     ]
@@ -1991,6 +2201,27 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sZDdMV1pPbGlieEZ0bHJSRFd0QXphenhtRnhtXzJPR05WcWhmdVdZSUw3YzFXTEtGdEtiMVJxZmRKS04xZDA0YURucnMwdDdQNHFwbmYzbWlkN01w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-08-18-023",
+    "date": "2026-08-18",
+    "companies": [
+      "jdi",
+      "innolux"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Panel Makers’ Q2 2026 Earnings: JDI Posts Another Loss, Innolux Books Another Profit - Counterpoint Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQMTk4cFZDWWZhUUJHRXJ2M09DR3N0UElVUkNNRC1VTThINU9JZmhiSU4zT2dKVWU0REkzcU5uQ2ZBV21DTHBjWmtjT0psaXh6U2lVUXpGVFl0Z0tjdld5Z3F4Znp4SW1oWUc2OUh1Sk",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMTk4cFZDWWZhUUJHRXJ2M09DR3N0UElVUkNNRC1VTThINU9JZmhiSU4zT2dKVWU0REkzcU5uQ2ZBV21DTHBjWmtjT0psaXh6U2lVUXpGVFl0Z0tjdld5Z3F4Znp4SW1oWUc2OUh1SkhaMm5yNHVuZWJZdXBYazhGQg?oc=5",
         "type": "rss"
       }
     ]

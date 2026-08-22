@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T08:26:44.293036Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-08-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zayo Signs Long-Term Fiber Supply Agreement with Corning - Manufacturing.net",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSjkzclB3RWdRQkhuNC1aakJIYVg0TldrU2psYnBtSl80X3FzcFRIMnJSNzB6ZFUzQmU3OXF3SWhJeVM0eC14eU1vZ2NaOFY0NWNYNlBCejFqTW1IalJUaVFFekZOM3RLQXFiSi1xTzZyc01qSXotT3RNaHZiQ1RCbVdiMTE3YVZXaUJZaWpOWXJzZ3IyTXlWLUd3SHhMVGs2MXB2YVNTdXNxX3JYVFBodGh3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 358,
+    "dup_title": 117,
+    "too_old": 176,
+    "gate1_blocked": 39,
+    "gate2_blocked": 14,
+    "passed": 12,
+    "pass_rate": "5.0%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+      "Can Corning's Next-Generation Glass Innovations Propel Its Shares? - TradingView",
+      "Corning Inc Stock (GLW) Moved Down by 8.02% on Aug 18: What Investors Need To Know - TradingKey",
+      "Corning: Strong AI Growth, But Much Success Is Already Priced In (NYSE:GLW) - Seeking Alpha",
+      "Silverlake Wealth Management LLC Acquires Shares of 7,329 Corning Incorporated $GLW - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為康寧相關動態：「Zayo Signs Long-Term Fiber Supply Agreement with Corning ...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Zayo Signs Long-Term Fiber Supply Agreement with Corning - Manufacturing.net",
+        "level": "green"
+      },
+      {
+        "text": "康寧為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
