@@ -1,0 +1,87 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T08:26:37.510752Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xiaomi TV FX Mini LED 55 review: An affordable TV that gets the basics right - The Indian Express",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUFRRTUdteHl5M2hHYUVJbzhpQUFnMEQ1Q3pkSVdFZV94amd1M2tmODFZRkdxUXl0N213bGMwZTdJaGhfVFRtaHJsNHUzRFVldnY1aXhJVVM5amRlODlHZXViRG5fTmFFdlpodzk2dzFrbkZ5RXp4Vkw4azdScGtGNzBvVks3NVBDTnRNRFhtc2xmT1d5TjVwSHVpNTllNDF4OW9lb2JWRHl0TGVWZFZ5Yzd6c2RWc1NZU2xSMm4tYmlfYjhWektuNmhVSkkyTXk3b08yZjk1c3hYZzDSAeIBQVVfeXFMTVJFX2I0d3ByblJMamliLXBNU3JlX2p5ZmJqV09mM21leHBQRXl6dDR4UlRVMFlzOWN4UFhfVE5va3ZfZ1gzb3dyYVQ0R0REN3pTRi1BLWFCY1JXbjFEZDVIakdDSVJTM2cwSS1WUUQyTW1reWpHdnk4bFhWQk1QT1F4cXVQNDFBSV83MS05eThHXzE5RHNHUEI3Tm55TkVXRy1HbTI3M1FndGEzbkM3bHJ0eGhyNVRXMEU1RFVaNmtGZmZDaEdFck5VR3Y3NUZtZ1VvSTQzTlU4WGlocW9EVk13dw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 377,
+    "dup_title": 138,
+    "too_old": 172,
+    "gate1_blocked": 42,
+    "gate2_blocked": 15,
+    "passed": 10,
+    "pass_rate": "4.2%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "Jack L. Portwood Obituary (2026) - Corning, NY - Carpenter's Funeral Home - Corning - Legacy obituar",
+      "Buy Corning Incorporated (XGLW) with credit card | How to Buy Corning Incorporated - OKX",
+      "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+      "Can Corning's Next-Generation Glass Innovations Propel Its Shares? - TradingView",
+      "Corning Inc Stock (GLW) Moved Down by 8.02% on Aug 18: What Investors Need To Know - TradingKey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Mini LED相關動態：「Xiaomi TV FX Mini LED 55 review: An affordable TV that ge...」。主要關注主題為Mini LED，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Xiaomi TV FX Mini LED 55 review: An affordable TV that gets the basics right ...（Mini LED）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

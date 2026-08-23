@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-08-23-001",
+    "date": "2026-08-23",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Xiaomi TV FX Mini LED 55 review: An affordable TV that gets the basics right - The Indian Express",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUFRRTUdteHl5M2hHYUVJbzhpQUFnMEQ1Q3pkSVdFZV94amd1M2tmODFZRkdxUXl0N213bGMwZTdJaGhfVFRtaHJsNHUzRFVldnY1aXhJVVM5amRlODlHZXViRG5fTmFFdlpodzk2dz",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUFRRTUdteHl5M2hHYUVJbzhpQUFnMEQ1Q3pkSVdFZV94amd1M2tmODFZRkdxUXl0N213bGMwZTdJaGhfVFRtaHJsNHUzRFVldnY1aXhJVVM5amRlODlHZXViRG5fTmFFdlpodzk2dzFrbkZ5RXp4Vkw4azdScGtGNzBvVks3NVBDTnRNRFhtc2xmT1d5TjVwSHVpNTllNDF4OW9lb2JWRHl0TGVWZFZ5Yzd6c2RWc1NZU2xSMm4tYmlfYjhWektuNmhVSkkyTXk3b08yZjk1c3hYZzDSAeIBQVVfeXFMTVJFX2I0d3ByblJMamliLXBNU3JlX2p5ZmJqV09mM21leHBQRXl6dDR4UlRVMFlzOWN4UFhfVE5va3ZfZ1gzb3dyYVQ0R0REN3pTRi1BLWFCY1JXbjFEZDVIakdDSVJTM2cwSS1WUUQyTW1reWpHdnk4bFhWQk1QT1F4cXVQNDFBSV83MS05eThHXzE5RHNHUEI3Tm55TkVXRy1HbTI3M1FndGEzbkM3bHJ0eGhyNVRXMEU1RFVaNmtGZmZDaEdFck5VR3Y3NUZtZ1VvSTQzTlU4WGlocW9EVk13dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-08-22-001",
     "date": "2026-08-22",
     "companies": [
@@ -13,6 +31,66 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSjkzclB3RWdRQkhuNC1aakJIYVg0TldrU2psYnBtSl80X3FzcFRIMnJSNzB6ZFUzQmU3OXF3SWhJeVM0eC14eU1vZ2NaOFY0NWNYNlBCejFqTW1IalJUaVFFekZOM3RLQXFiSi1xTzZyc01qSXotT3RNaHZiQ1RCbVdiMTE3YVZXaUJZaWpOWXJzZ3IyTXlWLUd3SHhMVGs2MXB2YVNTdXNxX3JYVFBodGh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-22-002",
+    "date": "2026-08-22",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Your OLED TV Screen Was Probably Made By LG — Here's Why - bgr.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5lLWExVE9YZEMzYWxIS1YzNExuYzlPUGZnVG5UcFo2QnhYU3Jxb0VGTUdNVThfZ2RyT3U1bWc4N2RnNVlLUmEtUVRfNk1WYXhXTUFuM1hPQjR0UkdtdHY3aFpKZFhKN05HR0NFYWU2M0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lLWExVE9YZEMzYWxIS1YzNExuYzlPUGZnVG5UcFo2QnhYU3Jxb0VGTUdNVThfZ2RyT3U1bWc4N2RnNVlLUmEtUVRfNk1WYXhXTUFuM1hPQjR0UkdtdHY3aFpKZFhKN05HR0NFYWU2M0c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-22-003",
+    "date": "2026-08-22",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG's FLiPP Drops the Metal Mask From OLED Making - Technology Org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2hndTRhd0lleC1KRnFVbkdQM0V3cTloN2dUNGg3TEwwY3FoVWhVSTI2X0ZJZ1QxLXg1QnFRXzJXUVNoTDZ4Sm1zVlRnazNoSEhrbDdiM0VzemJBUlhVR0ZDWExxUVIzN1R4em1yNH",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2hndTRhd0lleC1KRnFVbkdQM0V3cTloN2dUNGg3TEwwY3FoVWhVSTI2X0ZJZ1QxLXg1QnFRXzJXUVNoTDZ4Sm1zVlRnazNoSEhrbDdiM0VzemJBUlhVR0ZDWExxUVIzN1R4em1yNHVfUHEyWUFsdm5acFQyVzFISQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-22-004",
+    "date": "2026-08-22",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display unveils the world's first 300Hz OLED laptop display",
+    "summary": "<p>Samsung Display unveiled a new OLED laptop display, a 16\" 2.5K panel that has a refresh rate of 300 Hz, the first time that an OLED laptop display reaches such a high refresh rate.. Samsung is targ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-unveils-worlds-first-300hz-oled-laptop-display",
         "type": "rss"
       }
     ]
@@ -338,6 +416,65 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3FGelhfNVR0Umwybmp6MUZoLWllbzJnUEg0RmRqREYxcTNNLWREWC0wNDNqN1ZETXQ0VF9tVFl0bjg2ZTI0R2RjV2VEdGtjdFpBQlNvbDNBS3NfaEVVVC1WYnpod0dZamFNSWRFVWNLZ0dBOHVPYlU3cUZtSElKd2tucWIzalpUek01TFdUREU0cUto?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-21-018",
+    "date": "2026-08-21",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (H6Q) Q2 2026 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9xYlNlYVZUWkwzQkE0OWxGeHdkbUNwdGJOU203R0hhdXU0cE5PVkdCd095X0FPd3JZWG9Uai1jLW50SDdpQXc5UGp1dEI5VE5ZLTdjeWwyMkV5MjNlMFRRaGU0ZzBLMEFjRG1BQWFOYw",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xYlNlYVZUWkwzQkE0OWxGeHdkbUNwdGJOU203R0hhdXU0cE5PVkdCd095X0FPd3JZWG9Uai1jLW50SDdpQXc5UGp1dEI5VE5ZLTdjeWwyMkV5MjNlMFRRaGU0ZzBLMEFjRG1BQWFOYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-21-019",
+    "date": "2026-08-21",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display introduces new OLED deposition technique that uses lithography instead of metal masks — \"FLiPP\" photolithography delivers 1.6x brightness and 2.4x longer lifespan - Tom's Hardware",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxOQTFKWlhwM1cxTC1BSWNPSThfTzdHN2hZdUlkdGFZLWFxaG13dW5YbnRGd1NqTlJNRkw4c1BaQzdrOW5UX09TbU93by03dTBQQkNOdHgyc3lKU2w2X0lrZE16OWc0YUJEWTA2YnhaTm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOQTFKWlhwM1cxTC1BSWNPSThfTzdHN2hZdUlkdGFZLWFxaG13dW5YbnRGd1NqTlJNRkw4c1BaQzdrOW5UX09TbU93by03dTBQQkNOdHgyc3lKU2w2X0lrZE16OWc0YUJEWTA2YnhaTmVIUHIyWk1GaWlTNzV5WFRJbHM4X1RQdXZCYzM1OGJQck1rOVJUcnJfTVR0cEh6M3FmZEwzQ1Q3aHl5Y1dJNUVqaFp1cGtWUjloTTRBZjlYcE5OZkxQR3JXNEFjX3J2eEczYV9NaHBnd29NZExyWFZMWG1KMVhPNGxyMlFiLVJKdE1RbE1HbzhNRmduYUxTUDJnWjRUWlViQXZXcVBrbUhYa3RRNWlWQjB3WG11cWRVbHJCVERUSF9rRllNZm81MGN0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-020",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Huawei Pura X View",
+    "summary": "<p>Huawei's Pura X View is a high-end smartphone with a unique display, that has a wide 16: 9.5 OLED display, 6.39\" 1320x2232 (406 PPI) LTPO AMOLED display, with a peak brightness of 6,500 nits.</p><i",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/huawei-pura-x-view",
         "type": "rss"
       }
     ]
@@ -921,6 +1058,42 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmhWQUxhU25yRjZKM1dUc296cTNfTzBXMXFiZ25Ndm5KRjEtMmt1bkQwaEZLX0xGNnRvclhHc2cyQ0VicjIxMmdWWTFJRXlTZEFWQU5LTUl0RXduRjZGUFJWRHBqZVpzNUdwd2lFYzNISk1pUVZYcE1nMWlLaEp1NFpyczFsaTRfdVAwNEVnSFdpWlU5akhrM0djNlF2WGZqclVKRThtUktGUTZZUkIydm0xYVdPRjdiQnhyXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-20-032",
+    "date": "2026-08-20",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Zayo secures fiber supply from Corning for network expansion - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWndvS242NFhEWGlVVzJ3YXNNdm50ZGZoOGttdjY4bkdhQXpJWTMtdDlwd0ZuazFHZ2hZcjRqX1MzN01XdURtTlE4c0hJOUZ0WnhDYTdMNTU4S1NKVWFYSmUyV2tSZVpRVlJFUXdEYT",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWndvS242NFhEWGlVVzJ3YXNNdm50ZGZoOGttdjY4bkdhQXpJWTMtdDlwd0ZuazFHZ2hZcjRqX1MzN01XdURtTlE4c0hJOUZ0WnhDYTdMNTU4S1NKVWFYSmUyV2tSZVpRVlJFUXdEYThRTHpJX3V5aU1LRUlyb0lnYmRJbkJubHBxcWhSMVRJOS1iWGttTS1KM2UtdGpjOVdMRUZpVFhBMlluM2tWcnlyN0w2YmIwTmdf?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-033",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Genesis introduces its flagship GV90 EV SUV with a pop-up 24.6\" main OLED display",
+    "summary": "<p>Genesis introduced its flagship GV90 EV SUV, based on its new eMP platform. The car includes several new and innovative technologies, including the pop-up OLED display.</p><div class=\"align-center\"",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/genesis-introduces-its-flagship-gv90-ev-suv-sliding-246-main-oled-display",
         "type": "rss"
       }
     ]
@@ -1790,6 +1963,24 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/ruilian-new-materials-signs-development-agreement-tcl-csot-development-inkjet",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-08-19-044",
+    "date": "2026-08-19",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon to Launch 23 Billion Yen Share Buyback - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNZzFwNC0wbTVXMzhhb0VoVW5sVVp4dlZGTGU1b1N0YzI4a1hRNUIyRUpxNFdycHhMMlBZZmF4Wk03NzYtalRYbGpiVFpheFM0LTlfekRtUXlBS2ZmV3E3T0ZYa09qVFZaLXRMdTJCZT",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZzFwNC0wbTVXMzhhb0VoVW5sVVp4dlZGTGU1b1N0YzI4a1hRNUIyRUpxNFdycHhMMlBZZmF4Wk03NzYtalRYbGpiVFpheFM0LTlfekRtUXlBS2ZmV3E3T0ZYa09qVFZaLXRMdTJCZThQSkhNMVhNZGk3ZENPbjhsWmF6X3lBSXA1MGtDb3BYNmZUQlExZDFfMnVoNkFsdw?oc=5",
         "type": "rss"
       }
     ]
