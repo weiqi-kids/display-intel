@@ -13,14 +13,14 @@
   },
   "canon": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-21",
-    "count": 6646,
+    "latest": "2026-08-24",
+    "count": 6647,
     "history_complete": true
   },
   "novatek": {
     "earliest": "2002-08-27",
-    "latest": "2026-08-21",
-    "count": 5933,
+    "latest": "2026-08-24",
+    "count": 5934,
     "history_complete": true
   },
   "himax": {
@@ -31,56 +31,56 @@
   },
   "auo": {
     "earliest": "2000-09-11",
-    "latest": "2026-08-21",
-    "count": 6444,
+    "latest": "2026-08-24",
+    "count": 6445,
     "history_complete": true
   },
   "innolux": {
     "earliest": "2006-10-24",
-    "latest": "2026-08-21",
-    "count": 4860,
+    "latest": "2026-08-24",
+    "count": 4861,
     "history_complete": true
   },
   "lg_display": {
     "earliest": "2004-07-23",
-    "latest": "2026-08-21",
-    "count": 5470,
+    "latest": "2026-08-24",
+    "count": 5471,
     "history_complete": true
   },
   "boe": {
     "earliest": "2001-01-12",
-    "latest": "2026-08-21",
-    "count": 6310,
+    "latest": "2026-08-24",
+    "count": 6311,
     "history_complete": true
   },
   "jdi": {
     "earliest": "2014-03-19",
-    "latest": "2026-08-21",
-    "count": 3058,
+    "latest": "2026-08-24",
+    "count": 3059,
     "history_complete": true
   },
   "samsung_elec": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-21",
-    "count": 6658,
+    "latest": "2026-08-24",
+    "count": 6659,
     "history_complete": true
   },
   "lg_elec": {
     "earliest": "2002-04-24",
-    "latest": "2026-08-21",
-    "count": 6057,
+    "latest": "2026-08-24",
+    "count": 6058,
     "history_complete": true
   },
   "sony": {
     "earliest": "2000-01-04",
-    "latest": "2026-08-21",
-    "count": 6646,
+    "latest": "2026-08-24",
+    "count": 6647,
     "history_complete": true
   },
   "tcl": {
     "earliest": "2004-01-30",
-    "latest": "2026-08-21",
-    "count": 5515,
+    "latest": "2026-08-24",
+    "count": 5516,
     "history_complete": true
   },
   "etf_soxx": {

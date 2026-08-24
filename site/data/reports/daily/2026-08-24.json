@@ -1,0 +1,226 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T08:45:04.560180Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-24-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan's Iron Force shifts airbag output to Poland, targets AI server component ramp in 2027",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.17
+      },
+      "source_url": "https://www.digitimes.com/news/a20260824PD218/iron-force-manufacturing-poland-ai-server-taiwan.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_elec-2026-08-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Galaxy Buds4 Pro Superior Hi-Fi Sound Recognized by Audio Experts",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/samsung-galaxy-buds4-pro-superior-hi-fi-sound-recognized-by-audio-experts"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OLED-Info Pro: all guides and presentations just updated (August 2026)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/oled-info-pro-all-guides-and-presentations-just-updated-august-2026"
+    },
+    {
+      "rank": 4,
+      "event_id": "applied_materials-2026-08-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AI energy bottleneck is driving semiconductor materials innovation, says Applied Materials",
+      "companies": [
+        "applied_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260824PD200/materials-applied-materials-demand-equipment-taiwan.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-08-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung's DRAM capacity lead shrinks as SK Hynix expands faster",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "panel_price"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260824VL210/samsung-capacity-dram-wafer-2027.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "applied_materials",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 378,
+    "dup_title": 145,
+    "too_old": 175,
+    "gate1_blocked": 38,
+    "gate2_blocked": 12,
+    "passed": 8,
+    "pass_rate": "3.4%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "Buy Corning Incorporated (XGLW) with credit card | How to Buy Corning Incorporated - OKX",
+      "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+      "Jack L. Portwood Obituary (2026) - Corning, NY - Carpenter's Funeral Home - Corning - Legacy obituar",
+      "Is Himax (HIMX) Quietly Reframing Its AI Edge With WAFERLOCK’s Palm Vein Smart Lock? - simplywall.st",
+      "Is Japan Display (TSE:6740) Fully Priced Following Mixed Q1 Results? - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為三星電子、應材相關動態：「Taiwan's Iron Force shifts airbag output to Poland, targe...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Taiwan's Iron Force shifts airbag output to Poland, targets AI server compone...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Samsung Galaxy Buds4 Pro Superior Hi-Fi Sound Recognized by Audio Experts",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

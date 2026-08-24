@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T08:26:36.952514+00:00",
+  "updated_at": "2026-08-24T08:45:04.099020+00:00",
   "companies": {
     "corning": {
       "name": "Corning Incorporated",
@@ -144,7 +144,7 @@
           "holder": "Oregon Public Employees Retirement Fund",
           "shares": 761700,
           "pct_held": 0.06,
-          "value": 3498488100
+          "value": 3519815700
         }
       ]
     },
@@ -224,61 +224,61 @@
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 11835014,
           "pct_held": 0.27,
-          "value": 568080672
+          "value": 556245658
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 7760172,
           "pct_held": 0.17,
-          "value": 372488256
+          "value": 364728084
         },
         {
           "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
           "shares": 3906700,
           "pct_held": 0.09,
-          "value": 187521600
+          "value": 183614900
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 3016600,
           "pct_held": 0.07,
-          "value": 144796800
+          "value": 141780200
         },
         {
           "holder": "iShares Trust-iShares MSCI EAFE Small-Cap ETF",
           "shares": 3032100,
           "pct_held": 0.07,
-          "value": 145540800
+          "value": 142508700
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Pacific Stock Index Fd.",
           "shares": 898039,
           "pct_held": 0.02,
-          "value": 43105872
+          "value": 42207833
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard Total World Stock Index Fd.",
           "shares": 721300,
           "pct_held": 0.02,
-          "value": 34622400
+          "value": 33901100
         },
         {
           "holder": "SPDR INDEX SHARES Fd.S-State Street SPDR S&P Intl Small Cap ETF",
           "shares": 512110,
           "pct_held": 0.01,
-          "value": 24581280
+          "value": 24069170
         },
         {
           "holder": "iShares Trust-iShares Core MSCI Pacific ETF",
           "shares": 218200,
           "pct_held": 0.0,
-          "value": 10473600
+          "value": 10255400
         },
         {
           "holder": "iShares, Inc.-iShares MSCI Japan Small-Cap ETF",
           "shares": 142600,
           "pct_held": 0.0,
-          "value": 6844800
+          "value": 6702200
         }
       ]
     },
@@ -291,31 +291,31 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 732033,
           "pct_held": 0.01,
-          "value": 206067289500
+          "value": 188132481000
         },
         {
           "holder": "Stanley-Laman Group, Ltd.",
           "shares": 20000,
           "pct_held": 0.0,
-          "value": 5630000000
+          "value": 5140000000
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 29000,
           "pct_held": 0.0,
-          "value": 8163500000
+          "value": 7453000000
         },
         {
           "holder": "RNC Capital Management LLC",
           "shares": 936,
           "pct_held": 0.0,
-          "value": 263484000
+          "value": 240552000
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 100222,
           "pct_held": 0.0,
-          "value": 28212493000
+          "value": 25757054000
         }
       ]
     },
@@ -328,25 +328,25 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 4616050,
           "pct_held": 0.08,
-          "value": 17471749250
+          "value": 17771792500
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 1769342,
           "pct_held": 0.03,
-          "value": 6696959470
+          "value": 6811966700
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 1169,
           "pct_held": 0.0,
-          "value": 4424665
+          "value": 4500650
         },
         {
           "holder": "Meyer Handelman Co",
           "shares": 11862,
           "pct_held": 0.0,
-          "value": 44897670
+          "value": 45668700
         }
       ]
     }

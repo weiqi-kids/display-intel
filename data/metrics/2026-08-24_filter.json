@@ -1,0 +1,16 @@
+{
+  "total_raw": 378,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 175,
+  "gate1_fail": 38,
+  "gate2_fail": 12,
+  "passed": 8,
+  "gate2_samples": [
+    "Buy Corning Incorporated (XGLW) with credit card | How to Buy Corning Incorporated - OKX",
+    "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+    "Jack L. Portwood Obituary (2026) - Corning, NY - Carpenter's Funeral Home - Corning - Legacy obituar",
+    "Is Himax (HIMX) Quietly Reframing Its AI Edge With WAFERLOCK’s Palm Vein Smart Lock? - simplywall.st",
+    "Is Japan Display (TSE:6740) Fully Priced Following Mixed Q1 Results? - simplywall.st"
+  ]
+}

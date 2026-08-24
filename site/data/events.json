@@ -1,5 +1,115 @@
 [
   {
+    "id": "samsung_elec-2026-08-24-001",
+    "date": "2026-08-24",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Galaxy Buds4 Pro Superior Hi-Fi Sound Recognized by Audio Experts",
+    "summary": "Samsung Electronics today announced that Galaxy Buds4 Pro has received the EISA In-Ear Headphones 2026-2027 Award by the Expert Imaging and Sound Association (EISA). This marks the first time a Galaxy",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-galaxy-buds4-pro-superior-hi-fi-sound-recognized-by-audio-experts",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-002",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED-Info Pro: all guides and presentations just updated (August 2026)",
+    "summary": "<p>We’re happy to share that we have just completed a full update of all our OLED guides, market presentations, and premium resources inside <a href=\"https://www.oled-info.com/oled-info-pro\">OLED-Info",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/oled-info-pro-all-guides-and-presentations-just-updated-august-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "applied_materials-2026-08-24-003",
+    "date": "2026-08-24",
+    "companies": [
+      "applied_materials"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AI energy bottleneck is driving semiconductor materials innovation, says Applied Materials",
+    "summary": "Rising demand for artificial intelligence (AI) computing is driving a new wave of technological transformation in the semiconductor industry, while energy is emerging as the next bottleneck for the AI",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260824PD200/materials-applied-materials-demand-equipment-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-24-004",
+    "date": "2026-08-24",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "positive",
+    "title": "Samsung's DRAM capacity lead shrinks as SK Hynix expands faster",
+    "summary": "<p class=\"P1\" data-start=\"1009\" data-end=\"1252\">Samsung Electronics' DRAM wafer capacity will grow only marginally through 2027, with investment directed at node migration and line conversions rather ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260824VL210/samsung-capacity-dram-wafer-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-005",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan's Iron Force shifts airbag output to Poland, targets AI server component ramp in 2027",
+    "summary": "Taiwan-based Iron Force Industrial is reshaping its manufacturing footprint as pressure on its traditional auto-parts business weighs on earnings. The company plans to expand its Poland plant and shif",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260824PD218/iron-force-manufacturing-poland-ai-server-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-006",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Haier Mini LED M70 Series 43″, 55″, 65″, 75″ and 85″ 4K Google TVs launched in India - FoneArena.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2pWaWlpaUJYRlBQT25oOGdHOXhOWkJFdjdOSVRRekZ1dTZ0NF91WUIwd2dmcmZsd3NrS1pCeXowRkJBSnhZSjFLR1dIUnVFYkZDM24yT2Fjb0w0YnA4aE9sb1pJQ2JLc3Y5YU5rV2",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2pWaWlpaUJYRlBQT25oOGdHOXhOWkJFdjdOSVRRekZ1dTZ0NF91WUIwd2dmcmZsd3NrS1pCeXowRkJBSnhZSjFLR1dIUnVFYkZDM24yT2Fjb0w0YnA4aE9sb1pJQ2JLc3Y5YU5rV2Znek9jUTRySEVGYWJVWnlkQ2NLSnFCX0s3bmZzdXNBVHd2OTDSAZgBQVVfeXFMT21maDhXMWRIUkxUUVdwblN0UGpjY1ZQVHlzOU1rWGRIYmlJX1ZOblhCQzRCclhpbDMyREJTM0FzQXhlOXNjX3NKR2E0SFFhd0g5aGtVRDdVTWpLVmFnd0dfajhCbVZCeXgzNWRMdFNSV3JMcEF3NDcwcXRLZmpfN25uMDNOeEdLLTV4T1QtbEYwVV9IVUo3eUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-23-001",
     "date": "2026-08-23",
     "companies": [],
@@ -13,6 +123,45 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUFRRTUdteHl5M2hHYUVJbzhpQUFnMEQ1Q3pkSVdFZV94amd1M2tmODFZRkdxUXl0N213bGMwZTdJaGhfVFRtaHJsNHUzRFVldnY1aXhJVVM5amRlODlHZXViRG5fTmFFdlpodzk2dzFrbkZ5RXp4Vkw4azdScGtGNzBvVks3NVBDTnRNRFhtc2xmT1d5TjVwSHVpNTllNDF4OW9lb2JWRHl0TGVWZFZ5Yzd6c2RWc1NZU2xSMm4tYmlfYjhWektuNmhVSkkyTXk3b08yZjk1c3hYZzDSAeIBQVVfeXFMTVJFX2I0d3ByblJMamliLXBNU3JlX2p5ZmJqV09mM21leHBQRXl6dDR4UlRVMFlzOWN4UFhfVE5va3ZfZ1gzb3dyYVQ0R0REN3pTRi1BLWFCY1JXbjFEZDVIakdDSVJTM2cwSS1WUUQyTW1reWpHdnk4bFhWQk1QT1F4cXVQNDFBSV83MS05eThHXzE5RHNHUEI3Tm55TkVXRy1HbTI3M1FndGEzbkM3bHJ0eGhyNVRXMEU1RFVaNmtGZmZDaEdFck5VR3Y3NUZtZ1VvSTQzTlU4WGlocW9EVk13dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-23-002",
+    "date": "2026-08-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display's FLiPP Technology Aims For Brighter OLED Displays And More Flexible Manufacturing - Pokde.Net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBLVnRHZ2VEU3VFRE1WUWM0X0hrcUI3NU1jU0M2UTJyQUpxbVVKRWw4bFdTejRLZExDM2lfdjFMWEFJaThGQXNremJqank5R09hbkZZMmY3dWNnVWZQUTJEVU5LQnVnWjg4SGNLVWVmM2",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLVnRHZ2VEU3VFRE1WUWM0X0hrcUI3NU1jU0M2UTJyQUpxbVVKRWw4bFdTejRLZExDM2lfdjFMWEFJaThGQXNremJqank5R09hbkZZMmY3dWNnVWZQUTJEVU5LQnVnWjg4SGNLVWVmM2pVUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-23-003",
+    "date": "2026-08-23",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Hyperions to build a $150 million OLED materials production hub in Changchun",
+    "summary": "<p>China-based OLED material maker <a href=\"https://www.oled-info.com/hyperions\">Hyperions</a> has started constructing a new organic materials production factory in the Changchun Beihu Fine Chemical ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/hyperions-build-150-million-oled-materials-production-hub-changchun",
         "type": "rss"
       }
     ]
