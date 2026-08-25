@@ -1,0 +1,239 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T08:39:40.385732Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-25-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "China foundry Nexchip breaks beyond display chips: CIS reaches 25% of revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260825VL214/nexchip-revenue-chips-display-cis.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-25-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "China power chip makers CRM, Silan post sharp 1H profit gains",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260825VL208/silan-china-resources-profit-market-2026.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Viewtrix reported its 2026H1 financial results, with a 30% drop in revenues due to lower smartphone demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/viewtrix-reports-its-2026h1-financial-results-30-drop-revenues-due-lower"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-25-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Luxshare breaks beyond consumer electronics: Auto sales soar 274%, data centres jump 50%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260825VL210/luxshare-electronics-sales-data-revenue.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-25-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vera Rubin transition gap eases as ASIC, general servers rescue supply chain",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260825PD212/rubin-asic-nvidia-supply-chain-shipments.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tcl",
+        "count": 2
+      },
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 379,
+    "dup_title": 128,
+    "too_old": 177,
+    "gate1_blocked": 34,
+    "gate2_blocked": 20,
+    "passed": 20,
+    "pass_rate": "8.0%",
+    "gate2_block_rate": "8.0%",
+    "gate2_samples": [
+      "Corning Falls as Investors Weigh iPhone Glass Concerns Against Recent AI Fiber Wins - Quiver Quantit",
+      "LECOM at Elmria and Corning Inc. partner to provide full tuition scholarships - WETM",
+      "Corning Inc Stock (GLW) Moved Down by 3.14% on Aug 24: What Signal Does It Send? - TradingKey",
+      "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+      "Jack L. Portwood Obituary (2026) - Corning, NY - Carpenter's Funeral Home - Corning - Legacy obituar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為TCL Technology、Himax Technologies、三星電子相關動態：「China foundry Nexchip breaks beyond display chips: CIS re...」。主要關注主題為法說會、OLED 滲透率、面板價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "China foundry Nexchip breaks beyond display chips: CIS reaches 25% of revenue（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "China power chip makers CRM, Silan post sharp 1H profit gains（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

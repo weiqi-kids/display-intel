@@ -1,0 +1,16 @@
+{
+  "total_raw": 379,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 34,
+  "gate2_fail": 20,
+  "passed": 20,
+  "gate2_samples": [
+    "Corning Falls as Investors Weigh iPhone Glass Concerns Against Recent AI Fiber Wins - Quiver Quantit",
+    "LECOM at Elmria and Corning Inc. partner to provide full tuition scholarships - WETM",
+    "Corning Inc Stock (GLW) Moved Down by 3.14% on Aug 24: What Signal Does It Send? - TradingKey",
+    "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+    "Jack L. Portwood Obituary (2026) - Corning, NY - Carpenter's Funeral Home - Corning - Legacy obituar"
+  ]
+}

@@ -1,5 +1,207 @@
 [
   {
+    "id": "himax-2026-08-25-001",
+    "date": "2026-08-25",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is Himax Technologies (HIMX) Undervalued Following Its WiseEye Smart Lock Launch? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMnFsMnFucXJ6M05jZ1B6ODE2SC1LNGhFTzEwZF9SYU5RUF9xU1E0eDlsc1JlNzEyck5uQzhYYUNhbjNXSmE0c3NGejZIc3Nud2wyV0h5X04zdHc5TTlQUGFqanR5bjZxcXBCdUVucD",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMnFsMnFucXJ6M05jZ1B6ODE2SC1LNGhFTzEwZF9SYU5RUF9xU1E0eDlsc1JlNzEyck5uQzhYYUNhbjNXSmE0c3NGejZIc3Nud2wyV0h5X04zdHc5TTlQUGFqanR5bjZxcXBCdUVucDBsZVE5anpMM2VHNHNUR3hfVW1Ka28xaGN3bjcwR0lxRWpYMl9JOVd5X0lHQS1QTWZ3U0J0OWwyQ0NnTWtsQ3NETDc4eXVENklHanM3MUtvVVExVFRQY1VhZ0l0TGJGdER3SXpmSXNtenpWRkXSAeABQVVfeXFMTzJGdDBoQkYyb1RrME9QcUZocTBhUVpyeHhhRHRIeWdJdEl1T1RFajNBdi1FaVg5d0VWOTJreER0TVY2SVdfWklpSkx2VXpJNUh1anI4TFFmTENlcVFzaHBUa3BkbzFzR3hfRjg4ZjM3RndHb0hWWTBRb05wMXJpcVlkS2ItTlhkR1JkWU0xSzJwTnJhQUsxQWFwemptTk1sbzFNQWpldnRReWJ2QkZhc1Y3MlhNTUZUVFZtMEs0TmlHWXFZZ0hFUkpDYk5haGFSV3UyRFhRc1JVOGVnVkp4ZE4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-25-002",
+    "date": "2026-08-25",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung To Showcase Wide-Ranging Gaming Solutions With Immersive Exhibition at Gamescom 2026",
+    "summary": "Samsung Electronics today announced that it will be displaying its comprehensive gaming ecosystem spanning PC, console, and mobile games at Gamescom 2026, which is one of the world’s largest gaming ev",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-to-showcase-wide-ranging-gaming-solutions-with-immersive-exhibition-at-gamescom-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-003",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Viewtrix reported its 2026H1 financial results, with a 30% drop in revenues due to lower smartphone demand",
+    "summary": "<p>China-based display driver IC designer <a href=\"https://www.oled-info.com/viewtrix-yunyinggu\">Viewtrix Technology</a> reported its financial results, first time since it <a href=\"https://www.oled-i",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/viewtrix-reports-its-2026h1-financial-results-30-drop-revenues-due-lower",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-004",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Luxshare breaks beyond consumer electronics: Auto sales soar 274%, data centres jump 50%",
+    "summary": "Luxshare Precision posted a 40.16% rise in first-half 2026 revenue as rapid growth in automotive electronics, communications and data-centre products reduced its reliance on consumer electronics.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260825VL210/luxshare-electronics-sales-data-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-005",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "China foundry Nexchip breaks beyond display chips: CIS reaches 25% of revenue",
+    "summary": "Nexchip Semiconductor reported higher first-half 2026 revenue as broadening demand for CMOS image sensors, power management chips and display drivers diversified its product mix, even though profit de",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260825VL214/nexchip-revenue-chips-display-cis.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-006",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "China power chip makers CRM, Silan post sharp 1H profit gains",
+    "summary": "China Resources Microelectronics (CRM) and Hangzhou Silan Microelectronics (Silan), two of China's leading integrated device manufacturers, reported strong first-half 2026 results as firmer semiconduc",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260825VL208/silan-china-resources-profit-market-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-007",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vera Rubin transition gap eases as ASIC, general servers rescue supply chain",
+    "summary": "As Nvidia's next-generation Vera Rubin platform enters deployment, Taiwan's server supply chain is finding ways to bridge the transition gap before ramping up volume production. Ongoing shipments of t",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260825PD212/rubin-asic-nvidia-supply-chain-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-008",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energy law amendments lift AIDC storage demand in Taiwan",
+    "summary": "AI data centers (AIDCs) will increasingly rely on energy storage because of its fast response and grid impact mitigation capabilities, according to Recharge Power, a Taiwan-based battery energy storag",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260825PD207/aidc-demand-taiwan-data-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-009",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "OmniVision's CIS business slips, but machine vision and robotics surge 71%",
+    "summary": "OmniVision Group reported a sharp drop in first-half 2026 profit as weakness in consumer electronics and automotive electronics weighed on its core image sensor business, even as machine vision, robot",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260825VL209/omnivision-technologies-cis-robotics-business-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-08-25-010",
+    "date": "2026-08-25",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "/C O R R E C T I O N -- TCL/ - PA Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0h3QlFkZE8zcWtCZzRVQTBWRjRaMWowY1dlaEdXNUs0X3daTmFrcnZuSjF5dVYwYWZJTVZXcmVZNE1BSkg2SVJVSmVycVdoN3F6T3lKa0kxbkR2X1NGUjlzWE1kcmhkZEhlN0E5VE",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0h3QlFkZE8zcWtCZzRVQTBWRjRaMWowY1dlaEdXNUs0X3daTmFrcnZuSjF5dVYwYWZJTVZXcmVZNE1BSkg2SVJVSmVycVdoN3F6T3lKa0kxbkR2X1NGUjlzWE1kcmhkZEhlN0E5VExiQ0FrZWREYjBTN2pkWDd5ZGp2ZjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-08-25-011",
+    "date": "2026-08-25",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "panel_price",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL miniLED TV tops Omdia picture-quality tests, targets Korea premium market - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1mTnJ5NmYtZS1YaE50TlJ0LVkyaE1zdVY3WXJfVW83THhQTmU1NGUzQm1YeWR2VW5ZRGQ4SndIdHRLS0RkUllQUld2VjZpWkcxaVVMUGQxMVRuYk9XZkR6T1NfMlJGTWFVSUlFMUlETT",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mTnJ5NmYtZS1YaE50TlJ0LVkyaE1zdVY3WXJfVW83THhQTmU1NGUzQm1YeWR2VW5ZRGQ4SndIdHRLS0RkUllQUld2VjZpWkcxaVVMUGQxMVRuYk9XZkR6T1NfMlJGTWFVSUlFMUlETTFXOGlXb3NyWUFn0gGOAUFVX3lxTE9PUUdJWWFrTEJKZnhPZ0k3dWRzUURvZGYyZm5RbVh5YWtISXExUVhSVzR4Q1k0bzdMenBnczhicEtBQ2VFcnFDc2Jrekt4ekF5RU55UUV2Mk51TFJkRHhteTZjVEtabUVXT0ZqY1U0X2VOSDVCVmlqRmlKVmR5d19QeTJhOWJ2UW43cUdEZ3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-08-24-001",
     "date": "2026-08-24",
     "companies": [
@@ -105,6 +307,151 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2pWaWlpaUJYRlBQT25oOGdHOXhOWkJFdjdOSVRRekZ1dTZ0NF91WUIwd2dmcmZsd3NrS1pCeXowRkJBSnhZSjFLR1dIUnVFYkZDM24yT2Fjb0w0YnA4aE9sb1pJQ2JLc3Y5YU5rV2Znek9jUTRySEVGYWJVWnlkQ2NLSnFCX0s3bmZzdXNBVHd2OTDSAZgBQVVfeXFMT21maDhXMWRIUkxUUVdwblN0UGpjY1ZQVHlzOU1rWGRIYmlJX1ZOblhCQzRCclhpbDMyREJTM0FzQXhlOXNjX3NKR2E0SFFhd0g5aGtVRDdVTWpLVmFnd0dfajhCbVZCeXgzNWRMdFNSV3JMcEF3NDcwcXRLZmpfN25uMDNOeEdLLTV4T1QtbEYwVV9IVUo3eUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-24-007",
+    "date": "2026-08-24",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Zayo expands Corning fibre deal as AI demand surges - datacenter.news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUU1NVDc4UVg2UGpjdnNNUFBHYURwOXVzVFVXZFQ3alljaTItbDFRMkdqaFkxMWxJMHZoTlJPTmpXOExWUndtMWpWRmlLVGU3emdGbmxBclRBbGxmcUJvRVgwNTNrTGJpYkp3Qk9nT2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUU1NVDc4UVg2UGpjdnNNUFBHYURwOXVzVFVXZFQ3alljaTItbDFRMkdqaFkxMWxJMHZoTlJPTmpXOExWUndtMWpWRmlLVGU3emdGbmxBclRBbGxmcUJvRVgwNTNrTGJpYkp3Qk9nT281MFZFUEdYZ1BDU3JrbzJGQTZNX2dYbnlr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-24-008",
+    "date": "2026-08-24",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Shindo Eng Lab Wins KRW 5.8 Billion Display Equipment Order from LG Display Vietnam - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMGdHMGd6RjM2OFZRTHYyR2lkdEdJU3Q5UzVnMWFTenhMamp5WEtDZmZCdHBKQ1F6U1RfMlJBU1pRaFJGM1FsZ0dnbjJvWm9WNTNreG9fMTBTYUFIWmFiTXhFM1k2eXNCeHhLbzdLR0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMGdHMGd6RjM2OFZRTHYyR2lkdEdJU3Q5UzVnMWFTenhMamp5WEtDZmZCdHBKQ1F6U1RfMlJBU1pRaFJGM1FsZ0dnbjJvWm9WNTNreG9fMTBTYUFIWmFiTXhFM1k2eXNCeHhLbzdLR05adVlHbFRJeno0VmxHRWVBVTZxZkFmZm0zc0hzcDUyd2lmSUtRbFNwMjdYNGlrLW5DdGl2UG5vVi1KazJYc0trMTM0TFBPQk9nck84Qzg0MU1PU1NRZmtSX1hmcFZ1cGha?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-08-24-009",
+    "date": "2026-08-24",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "3M and BOE launch joint laboratory to accelerate display technology innovation - 3M News Center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNREp6SE5QX2hIR19GRkpEYWh0NzBJTF92THVCN3lzUzkxbl8ydTVWX1FhSTRoWUw3ZFBDYUI3VmxvREVQNlNMaXgzMlRXbHQxcFMwZFJaZ0tuXzFJSC1GUmRRYVR5UU1RcUZYQktfWE",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNREp6SE5QX2hIR19GRkpEYWh0NzBJTF92THVCN3lzUzkxbl8ydTVWX1FhSTRoWUw3ZFBDYUI3VmxvREVQNlNMaXgzMlRXbHQxcFMwZFJaZ0tuXzFJSC1GUmRRYVR5UU1RcUZYQktfWE14a0hBc3l3aGR3WkpmZXh1Uzh2WXJrUGFUUl9iVGtUMG5KRkw3OVNDNWlYZk9nNlk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-08-24-010",
+    "date": "2026-08-24",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Japan Display Concludes Tottori Fab Sale, Expects JPY500 Million Gain - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTZ4VTlRWV9JaHZoWjczM3MzODdMTXhfZWJNcWVEZ00xbUhJbTV5YklaRWhDOFBpOWI4UXlEYnZaUnlPVnVQSWpaNjVkRnVyZHhYYTB2aGl0VF9YNTFnVjFZb01JUHV0Vk9aakZIS3",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVTZ4VTlRWV9JaHZoWjczM3MzODdMTXhfZWJNcWVEZ00xbUhJbTV5YklaRWhDOFBpOWI4UXlEYnZaUnlPVnVQSWpaNjVkRnVyZHhYYTB2aGl0VF9YNTFnVjFZb01JUHV0Vk9aakZIS3lTYkE5NU1uZXpsSU40OFZJWU9iemY0MVIwWU5YNDZFNmNxS3JIUjRhT0diYkhScW1LYzlkSUFmUExfZnBWbE9z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-011",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED-Info Pro: all guides and presentations updated (August 2026)",
+    "summary": "<p>We’re happy to share that we have just completed a full update of all our OLED guides, market presentations, and premium resources inside <a href=\"https://www.oled-info.com/oled-info-pro\">OLED-Info",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/oled-info-pro-all-guides-and-presentations-just-updated-august-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-012",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "RGB LED vs Tandem OLED TVs: We’ve tested both and here are the differences - Tom's Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNYld3bkV6RWdNQlBRcWRjTGlFdGVBUzRZdUVBaEhJazBkbW5rUTN2MEZwY0hTaFQ5VUczUnhLaDVjUHJta3lHTnVmeGVtV1hxT09VSEVRUUFZNmtZejZwdXNlQkctWGRJVXhDNWtYU3",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYld3bkV6RWdNQlBRcWRjTGlFdGVBUzRZdUVBaEhJazBkbW5rUTN2MEZwY0hTaFQ5VUczUnhLaDVjUHJta3lHTnVmeGVtV1hxT09VSEVRUUFZNmtZejZwdXNlQkctWGRJVXhDNWtYU3B0WElNazdTX014N2lPQmpRM0M1N0hHbFRaTlk2VXVyY3VaYVl6VHRSMHduaWR4aWRsT3NzTU5Oc04xaTFaSFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-013",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Xiaomi TV S Pro RGB-Mini LED 2027 Supreme Edition: A New Era of Tri-Color Backlighting - hi-Tech.ua",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2dGRnk5NzRzdENuamVYbUY2MzBSa281a0J1cmxoQ3BlVjhVSndUa1NSZGdkZmlYM0FiN25HUU5Xdk9oQnlic0RIa2NXZFpBb0lxcUkzMTJSOW11clVwbXo4aXYtLUhmR1BQRm1uRj",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2dGRnk5NzRzdENuamVYbUY2MzBSa281a0J1cmxoQ3BlVjhVSndUa1NSZGdkZmlYM0FiN25HUU5Xdk9oQnlic0RIa2NXZFpBb0lxcUkzMTJSOW11clVwbXo4aXYtLUhmR1BQRm1uRjZKMVpwcjNlc2RrY0tQaHFvd2xteHNDSlJOU2hQQmtlM2l0dUh4eXNjR3pvclBHSWlMRElXSnFtOWhPVEFX?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-08-24-014",
+    "date": "2026-08-24",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL brings TV, gaming and audio together in new entertainment lineup - The Manila Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMVk2b0p6VHd0cmRXZ0hRMUdkNHNoMmxoSGxwQUNOeUJtTy00X1ROTjJib1FYWGJkX09qdldCOE1BMnJWYmVhaFRXNFB1cEozdnE5N19vaXV1bVpDcV9ueHhMODVQSGhkWGwxY2lQSH",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMVk2b0p6VHd0cmRXZ0hRMUdkNHNoMmxoSGxwQUNOeUJtTy00X1ROTjJib1FYWGJkX09qdldCOE1BMnJWYmVhaFRXNFB1cEozdnE5N19vaXV1bVpDcV9ueHhMODVQSGhkWGwxY2lQSHU1T0VnaHBya2dfbXptQzJoQmFBU3pPRUVLREhvQ1pzOUJkUUpiOTg0RGdJTHJaUVRMN0hYQjRNWVlhdXFuNG0xX0w4dGhKX1ZNMElHbVM5aW4zR0ZLMFYzMlNWSHdRZkQxbVAyRE5JM0xuYnZxaHZDajlBRdIB6AFBVV95cUxQbUhlTXBJYzYzaFBGRk9LQks0YlAxeUwxajFYSXl1RFNCQ0R4X3VJVjFZQzFDNVB5XzNNTnFnYnNSQXUzMkZLbXNCbUk4VFhzckg1Zm14RGJGSktEdGFvTTJOaUxCaEFkSEYtN0tITFRwNkRJaU1fVjcwcmlXMS1GSU5EU0Uya2tFRFdLRGdPcW9kZkpWbS00RXJ5TzNvbk5EUm9RaERlT2kxQXdPbGZtWllWUndSMkxfZGpfZlBoMkpSZnRnZFdkZDkxempqMkE2cnh2bU9NTzA4RE96b0c0SzItcHZHMUha?oc=5",
         "type": "rss"
       }
     ]
@@ -1243,6 +1590,24 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/genesis-introduces-its-flagship-gv90-ev-suv-sliding-246-main-oled-display",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-034",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Best TVs under Rs.50,000: 4K, QLED and Mini LED options to consider for better picture quality and smart features - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWk82Tnp4YlhPTk1HVWFHQjB3QXhZVUZYUlY1MkxYMFpKbVZZQmQxWVpHcjRXcTNSM2FZVU1VTGpUeHY2Ml9WWXF2c2dSbHFQVUE3dnFnOFBOZHJVVk11bjNYb0RacWx0dFlyVEczLX",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWk82Tnp4YlhPTk1HVWFHQjB3QXhZVUZYUlY1MkxYMFpKbVZZQmQxWVpHcjRXcTNSM2FZVU1VTGpUeHY2Ml9WWXF2c2dSbHFQVUE3dnFnOFBOZHJVVk11bjNYb0RacWx0dFlyVEczLXI0ZmpBRmxiUGg1RnlzOGZJdUI2bXFPZVduUG1kUUtmcUJ4N0dHdlJ2ZU9oTXFtaWdGMWhONFg5VlN3UzBNUXl5eG94dlI4a3Rhd1ZWSzhMdmZnU2Y3UWlrenBxOWZwTHl0WjZKX2ppQUtpanhTRlJSR2llRmVldHBmUENzTDg2azFaSWlXSnZ3Y3JZYkM?oc=5",
         "type": "rss"
       }
     ]
