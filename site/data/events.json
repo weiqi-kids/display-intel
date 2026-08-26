@@ -1,5 +1,177 @@
 [
   {
+    "id": "unknown-2026-08-26-001",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "A joint Japan-Taiwan research project to develop circularly-polarized OLED technologies",
+    "summary": "<p>A group of five Universities from Japan and Taiwan have launched a joint project to develop core technologies for circularly-polarized OLEDs (<a href=\"https://www.oled-info.com/bright-side-brannan-",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/joint-japan-taiwan-research-project-develop-circularly-polarized-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-26-002",
+    "date": "2026-08-26",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display confirms it is the supplier of the Genesis GV90 AMOLED displays",
+    "summary": "<p>Last week Genesis <a href=\"https://www.oled-info.com/genesis-introduces-its-flagship-gv90-ev-suv-sliding-246-main-oled-display\">introduced its flagship GV90 EV SUV</a>, based on its new eMP platfor",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-confirms-it-supplier-genesis-gv90-amoled-displays",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-003",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "China chip equipment maker Naura posts 25% revenue growth, but R&amp;D and margins squeeze profit",
+    "summary": "Naura Technology Group posted faster revenue growth than profit in the first half of 2026, with stronger semiconductor equipment sales offset by heavier R&amp;D spending, higher sales costs and weaker",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260826VL215/naura-technology-ic-manufacturing-equipment-growth-revenue-profit.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-26-004",
+    "date": "2026-08-26",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hot Chips 2026: Samsung advances LPDDR5X-PIM as HBM costs mount",
+    "summary": "At Hot Chips 2026, Samsung Electronics moved processing-in-memory (PIM) closer to practical deployment, presenting what it described as the industry's first LPDDR-based PIM device for AI inference alo",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260826VL212/samsung-2026-hbm-dram-silicon.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-26-005",
+    "date": "2026-08-26",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "LGES weighs US drone battery push against brand risk",
+    "summary": "LG Energy Solution (LGES) is weighing whether to expand into the US defense supply chain as the EV market remains sluggish and the company broadens into energy storage systems (ESS). The possible move",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260826PD210/lges-brand-lg-market-supply-chain.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-006",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SK hynix production union rejects stock-heavy pay deal by 25 votes",
+    "summary": "SK hynix's production-worker union has rejected the company's tentative 2026 wage and collective bargaining agreement by just 25 votes, sending the two sides back to the negotiating table as productio",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260826VL208/production-2026-price.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-26-007",
+    "date": "2026-08-26",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Samsung's 3-year shareholder returns seen topping KRW600T",
+    "summary": "AI memory excess profits are beginning to change Samsung Electronics' capital-allocation logic. The company recently said that, under its current 2024-2026 shareholder return policy, the remaining fun",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260826PD209/samsung-2026-earnings-cash-flow-policy.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "csot-2026-08-26-008",
+    "date": "2026-08-26",
+    "companies": [
+      "csot",
+      "lg_elec",
+      "tcl",
+      "lg_display",
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "TCL, Asus drop China OLED as LGD gains edge",
+    "summary": "TCL has reportedly stopped using OLED panels from its own TCL CSOT unit as it expands its monitor lineup, instead turning again to LG Display (LGD), while Asus is said to have halted use of BOE Techno",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260826PD208/tcl-lg-display-asus-boe-panel.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-009",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "China GPU race, Part 2: Moore Threads, MetaX, Biren and Enflame pursue four formulas for breaking Nvidia's grip",
+    "summary": "Enflame's planned US$893 million STAR Market IPO, examined in Part 1 of this series, highlights both the opportunity and the financial strain facing China's emerging AI chip suppliers, but profitabili",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260826VL202/gpu-nvidia-moore-threads-biren-metax.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-08-25-001",
     "date": "2026-08-25",
     "companies": [

@@ -1,0 +1,233 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T08:42:24.581041Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_elec-2026-08-26-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Samsung's 3-year shareholder returns seen topping KRW600T",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260826PD209/samsung-2026-earnings-cash-flow-policy.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "csot-2026-08-26-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "TCL, Asus drop China OLED as LGD gains edge",
+      "companies": [
+        "csot",
+        "lg_elec",
+        "tcl",
+        "lg_display",
+        "boe"
+      ],
+      "related": {
+        "customers": [
+          "tcl",
+          "lg_elec"
+        ],
+        "suppliers": [
+          "csot",
+          "lg_display",
+          "boe"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260826PD208/tcl-lg-display-asus-boe-panel.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-26-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China chip equipment maker Naura posts 25% revenue growth, but R&amp;D and margins squeeze profit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260826VL215/naura-technology-ic-manufacturing-equipment-growth-revenue-profit.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-26-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SK hynix production union rejects stock-heavy pay deal by 25 votes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260826VL208/production-2026-price.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-26-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China GPU race, Part 2: Moore Threads, MetaX, Biren and Enflame pursue four formulas for breaking Nvidia's grip",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260826VL202/gpu-nvidia-moore-threads-biren-metax.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "csot",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "oled_penetration",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 90,
+    "dup_title": 28,
+    "too_old": 15,
+    "gate1_blocked": 32,
+    "gate2_blocked": 6,
+    "passed": 9,
+    "pass_rate": "14.5%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "[Invitation] Design Miami Seoul 2026: Opening of Samsung’s ‘Design Is an Act of Love’ Exhibition",
+      "An Easier Way To Switch to the New Galaxy Z Fold8",
+      "Samsung Electronics To Implement Largest-Ever Shareholder Return in 2026, Estimated at KRW 90 to 110",
+      "[Video] [Galaxy Unpacked July 2026] Samsung Health Envisions Simpler, More Connected Care With AI",
+      "[Invitation] Galaxy Event August 2026"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為三星電子、LG電子、CSOT相關動態：「Samsung's 3-year shareholder returns seen topping KRW600T」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung's 3-year shareholder returns seen topping KRW600T（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "TCL, Asus drop China OLED as LGD gains edge（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

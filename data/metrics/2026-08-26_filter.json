@@ -1,0 +1,16 @@
+{
+  "total_raw": 90,
+  "dup_title": 28,
+  "no_date": 0,
+  "too_old": 15,
+  "gate1_fail": 32,
+  "gate2_fail": 6,
+  "passed": 9,
+  "gate2_samples": [
+    "[Invitation] Design Miami Seoul 2026: Opening of Samsung’s ‘Design Is an Act of Love’ Exhibition",
+    "An Easier Way To Switch to the New Galaxy Z Fold8",
+    "Samsung Electronics To Implement Largest-Ever Shareholder Return in 2026, Estimated at KRW 90 to 110",
+    "[Video] [Galaxy Unpacked July 2026] Samsung Health Envisions Simpler, More Connected Care With AI",
+    "[Invitation] Galaxy Event August 2026"
+  ]
+}
