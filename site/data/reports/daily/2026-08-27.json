@@ -1,0 +1,249 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T18:49:53.932271Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-08-27-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Develops New OLED Production Method - CES | Twice",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcVNKSVRNWktwQlFrMVFvbGZ3bWxGU18xNE8xUXQ5Z3NhZ1lmQWFibnNKb3dILVFuNTlHYTc1bWRiZnk3MnkyTkFlMC1WTk10N1FkbHhWeHd5aWpaX3lfMDBhNm9Eb3A1R3AyYk5QV3BvSHF0UW1ybVNhUEM4UmtsVmxUdmhtVXhNNGpwQXRR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_elec-2026-08-27-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Asus launches new 24.5\" FHD OLED monitors, with new panels produced by BOE and Samsung Display",
+      "companies": [
+        "samsung_elec",
+        "boe"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "boe"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/asus-launches-new-245-fhd-woled-and-qd-oled-monitors-first-boe-woled-panel"
+    },
+    {
+      "rank": 3,
+      "event_id": "himax-2026-08-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Himax Technologies (HIMX) Earnings History & Trends - 24/7 Wall St.",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NLVFyS1pKX1QyY25PUEJKTnBUVTZxc0hzcmZBbjFBX0lXdUhzTTJoemVsdUZCa3ZaZE1WMlBFZGg0SjZHWXdOdWtQcFVMRGNVLU1UaG8zOFBJUlk5bjhHVDByRQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_elec-2026-08-27-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Samsung, LG Extend OLED Gaming Monitor Lead Over China - Seoul Economic Daily",
+      "companies": [
+        "lg_elec",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaUxiVWpLaGI1NUMzRVpoRHZNYmp5OGVHRHRtOU0yV2ZYU3l0WDIyeDhHd2ZiaGlZaGdZbk9IMGxBQm5tQTAteldUSmswb0hqeTN0NjBYa1F3WVBmODR4ay1fS3h4RHNIM3FWMFg0VHlyd0dkYlQ2aUZmR2luUlh0dmQwV1NYNzBNbW5pMDNOcEx3Qm92N091LTdnOA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cheaper OLED TVs might finally be on the way — here's when they could arrive - Tom's Guide",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUlNJcHd5cVI3cm5VQmlRekpISjlTb0pFY0plLV9scGN3RENDRk1nRVhGdDJ6RFNsbnZldjBBUnZGQXVQOTI0UkFPOGFQTkdsR1lXTVVHMzM3VkREdTQyZ3JSR0toWTJZQVBET2JBRHdBVHhHUEFEMk1CaGtVNkpELXlQa0o0OUVOQ0cxMzFfSjdWRW80dXdFQm1fUC1oR21CWmlYalVNdWF5aXdmVUhXZUpB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 4
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 356,
+    "dup_title": 109,
+    "too_old": 172,
+    "gate1_blocked": 26,
+    "gate2_blocked": 19,
+    "passed": 30,
+    "pass_rate": "12.1%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "What is Corning? The glass and fiber optics manufacturer explained - qz.com",
+      "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+      "Former Gov. Pataki to receive Business Council's 2026 Corning Award - Star-Gazette",
+      "LECOM at Elmira and Corning Inc. partner to provide full tuition scholarships - WETM",
+      "Corning Falls as Investors Weigh iPhone Glass Concerns Against Recent AI Fiber Wins - Quiver Quantit"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為三星電子、LG電子、Himax Technologies相關動態：「LG Display Develops New OLED Production Method - CES | Twice」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display Develops New OLED Production Method - CES | Twice（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Asus launches new 24.5\" FHD OLED monitors, with new panels produced by BOE an...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
