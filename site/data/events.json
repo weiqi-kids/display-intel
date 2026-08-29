@@ -1,5 +1,99 @@
 [
   {
+    "id": "canon-2026-08-29-001",
+    "date": "2026-08-29",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Price to sales forward of Canon Inc. – FWB:CNN1 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWh6S0tZU0g1QURUTmp2ZGh1ZkNJZng5aWpvSWtLUG0yZW5yN2lUTEhfNFAzNkRZVUJ0ZkM3TUxuX0p4Ujc3M2NITTFNSVdXT1BybDZYcXpyX2M0eWFJMHZIZjVwRTlaMmZFcTlUOD",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWh6S0tZU0g1QURUTmp2ZGh1ZkNJZng5aWpvSWtLUG0yZW5yN2lUTEhfNFAzNkRZVUJ0ZkM3TUxuX0p4Ujc3M2NITTFNSVdXT1BybDZYcXpyX2M0eWFJMHZIZjVwRTlaMmZFcTlUODVVZ0VOcE9TLXhjWGFDY2twNWpheE9FWDFwaXJzYU5NMTlUMWltUVVYMG9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-08-29-002",
+    "date": "2026-08-29",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "BOE Technology Group Co., Ltd. (000725.SZ) announced its half-year results, reporting a net profit attributable to shareholders of RMB 5.248 billion, a year-on-year increase of 61.62%. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQVE9EdG51ZjVGblVhSlRJOUl2d2JkNXFOcWhJSlpDaGt6VlNQSjl3ampWNUtxbi16dVZ0bWF0ajFqaTJpODBhN3JCaGt1d2ltMzNOTlF0NGNhZ0F5WTRvMV93SHRJZmJhYjhXdHJPMj",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVE9EdG51ZjVGblVhSlRJOUl2d2JkNXFOcWhJSlpDaGt6VlNQSjl3ampWNUtxbi16dVZ0bWF0ajFqaTJpODBhN3JCaGt1d2ltMzNOTlF0NGNhZ0F5WTRvMV93SHRJZmJhYjhXdHJPMjJaNEFBXzZvVGtjNjJ0MTVnTlNiLWNWZkVySE1PS0dzNUJ4X09GM1IyOUlqVUhadw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-29-003",
+    "date": "2026-08-29",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Visionox reported its financial results for the first half of 2026 with a slight decline in revenue",
+    "summary": "<p><a href=\"https://www.oled-info.com/visionox\">Visionox</a> reported its financial result for the first half of 2026. Visionox's revenues were 4 billion RMB ($595 million USD), down 2.85% from last y",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/visionox-reported-its-financial-results-first-half-2026-slight-decline-revenue",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-29-004",
+    "date": "2026-08-29",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Researchers study the influence of heat and active area size on TADF OLED emitter performance",
+    "summary": "<p>Researchers from the National Academy of Sciences of Ukraine, led by Prof. Oleg Dimitriev, have performed a study on the influence of the active size and temperature of TADF OLED emitters on the fi",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/researchers-study-influence-heat-and-active-area-size-tadf-oled-emitter",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-29-005",
+    "date": "2026-08-29",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "These Next-Gen Apple Products Will Be Upgraded To OLED Displays By 2029 - bgr.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDJKRkZyRlpIcDZrbGNwUkxscFdUZFBmYlh0Tng5QTlCOTJ1Rm55Uk1aakxVMks0eWdEdGl6VHh6RzFXREtVTjQ5MHZHNEJZT1MtZmEtRThSRFRyWXlEZnR5aTZiYzVOYmxhMVFrVk",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDJKRkZyRlpIcDZrbGNwUkxscFdUZFBmYlh0Tng5QTlCOTJ1Rm55Uk1aakxVMks0eWdEdGl6VHh6RzFXREtVTjQ5MHZHNEJZT1MtZmEtRThSRFRyWXlEZnR5aTZiYzVOYmxhMVFrVkItTXVEXzkwdGN6VjJleEo2ZkdJemg5dTNYT2I4MTU3RQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "boe-2026-08-28-001",
     "date": "2026-08-28",
     "companies": [
@@ -127,6 +221,139 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260828VL214/nand-dram-technology-sk-hynix-cxmt.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-08-28-008",
+    "date": "2026-08-28",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Mask-Free OLED Manufacturing: LG Display’s FLiPP Eliminates Metal Masks from OLED… - Trend Hunter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE15Z3lTeE93Qm5WSkNxWnY5RWxsREtCQXpFaGwzM0dWWkNWbTBmbTFzWmh6cnBCeVpLMHJoczJDdFRXMEVPdXFfam5FdEIzWVQ0RWxJVm5ZVnJ3THJOQ20xeFl1eGFVc0Z2X0hyUXNWVX",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15Z3lTeE93Qm5WSkNxWnY5RWxsREtCQXpFaGwzM0dWWkNWbTBmbTFzWmh6cnBCeVpLMHJoczJDdFRXMEVPdXFfam5FdEIzWVQ0RWxJVm5ZVnJ3THJOQ20xeFl1eGFVc0Z2X0hyUXNWVXU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-009",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Researchers build a high-performance NIR OLED device by using redesigned C-shaped OLED materials",
+    "summary": "<p>Researchers from National Taiwan University, National Yang Ming Chiao Tung University, National Taiwan Ocean University and Academia Sinica used a redesigned C-shaped OLED materials, to create a hi",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/researcher-build-high-performance-nir-oled-device-using-redesigned-c-shaped",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-28-010",
+    "date": "2026-08-28",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Odyssey OLED G9 (G95SJ) / G8 (G80SJ) / G7 (G75SJ)",
+    "summary": "<p>Samsung's 2027 gaming monitor lineup include 3 models based on QD-OLED panels. The flagship Odyssey OLED G9 (G95SJ) has a 49\" DQHD (5120x1440) 1300nits 360Hz 5th-Gen QD-OLED panel.</p><img data-ent",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-odyssey-oled-g9-g95sj-g8-g80sj-g7-g75sj",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-011",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "UBI: shipments of small AMOLED panels to increase to 1.46 billion in 2030, up 40% from 2026",
+    "summary": "<p>UBI Research estimates that small AMOLED panel shipments will increase from 1.03 billion in 2026 to 1.46 billion in 2030, a CAGR of 8.9%. The main growth will come from the smartphone panel market,",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/ubi-shipments-small-amoled-panels-increase-146-billion-2030-40-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-08-28-012",
+    "date": "2026-08-28",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Qualcomm's HBC play pulls Samsung and SK hynix into a new race beyond HBM",
+    "summary": "The AI infrastructure race has spent the past few years fixated on high-bandwidth memory as one of the most indispensable building blocks of accelerated compute. Yet as model sizes, context windows an",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260828VL218/qualcomm-hbm-samsung-infrastructure-bandwidth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-08-28-013",
+    "date": "2026-08-28",
+    "companies": [
+      "auo"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Exclusive Interview: Turning scale into value &mdash; AUO chair's post-LCD ambition",
+    "summary": "Price wars. Capacity races. Years of losses steep enough to earn a lasting nickname.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260824PD220/auo-panel-taiwan-display-solar.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-08-28-014",
+    "date": "2026-08-28",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL 27-inch C2A Pro QD-Mini LED Gaming Monitor review: the ultimate choice for gaming and work - The Shortcut | Matt Swider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUm1ERjBuVzlyUXVTcG1OOUJHQXp1Q0tPWlJaRmV0aEc4dHlVWHJUTFZ3Vzc5OWdxakMwUWRGUWViYTBpRGJoVlRmRDVzMVVZQVZ1UXhqcmNQdFZMVmJpTjd6eFdzbVZNa0IzOEFsWU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUm1ERjBuVzlyUXVTcG1OOUJHQXp1Q0tPWlJaRmV0aEc4dHlVWHJUTFZ3Vzc5OWdxakMwUWRGUWViYTBpRGJoVlRmRDVzMVVZQVZ1UXhqcmNQdFZMVmJpTjd6eFdzbVZNa0IzOEFsWUx6RWIteThmOGpFaFh4Sl82WWxHQUhQZkJDUWxV?oc=5",
         "type": "rss"
       }
     ]
@@ -819,6 +1046,26 @@
       {
         "name": "boe",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQelYwVVpkMnN2Z0VWYnc0enh1ak00ZWIwME8wUWVpZnJMYkNCQjVrMXBnZklPUDBESGtXdWRxVnVBZkdPOVI1bk5wRWFYRTh5LVFSWTZwOTZFT1RYRVpXZVROM1hUcWE4VEctNzl3Q3o1Q2k0ci13Q0hCaS1CYVBtWXJzdjF4UnZ5M0xNeHVtM3phQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-26-026",
+    "date": "2026-08-26",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (0J5H) Q3 2024 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5yWEJoenYzaGNSejU1NldEOWpYcmo0Xy1EYlNZc25PQmszWXdBMDBBc21QZ0s5amM4dVRqMTI1MmkyZkJZaEhMajRfRjR2c2xVSW1sMVJsVXF3cVVTWjZvU0NaaEFuU25YR0g1WlJCdj",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yWEJoenYzaGNSejU1NldEOWpYcmo0Xy1EYlNZc25PQmszWXdBMDBBc21QZ0s5amM4dVRqMTI1MmkyZkJZaEhMajRfRjR2c2xVSW1sMVJsVXF3cVVTWjZvU0NaaEFuU25YR0g1WlJCdjY?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,216 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T13:37:17.268477Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "boe-2026-08-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BOE Technology Group Co., Ltd. (000725.SZ) announced its half-year results, reporting a net profit attributable to shareholders of RMB 5.248 billion, a year-on-year increase of 61.62%. - 富途牛牛",
+      "companies": [
+        "boe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVE9EdG51ZjVGblVhSlRJOUl2d2JkNXFOcWhJSlpDaGt6VlNQSjl3ampWNUtxbi16dVZ0bWF0ajFqaTJpODBhN3JCaGt1d2ltMzNOTlF0NGNhZ0F5WTRvMV93SHRJZmJhYjhXdHJPMjJaNEFBXzZvVGtjNjJ0MTVnTlNiLWNWZkVySE1PS0dzNUJ4X09GM1IyOUlqVUhadw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Visionox reported its financial results for the first half of 2026 with a slight decline in revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "panel_price",
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://www.oled-info.com/visionox-reported-its-financial-results-first-half-2026-slight-decline-revenue"
+    },
+    {
+      "rank": 3,
+      "event_id": "canon-2026-08-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to sales forward of Canon Inc. – FWB:CNN1 - TradingView",
+      "companies": [
+        "canon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWh6S0tZU0g1QURUTmp2ZGh1ZkNJZng5aWpvSWtLUG0yZW5yN2lUTEhfNFAzNkRZVUJ0ZkM3TUxuX0p4Ujc3M2NITTFNSVdXT1BybDZYcXpyX2M0eWFJMHZIZjVwRTlaMmZFcTlUODVVZ0VOcE9TLXhjWGFDY2twNWpheE9FWDFwaXJzYU5NMTlUMWltUVVYMG9B?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Researchers study the influence of heat and active area size on TADF OLED emitter performance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/researchers-study-influence-heat-and-active-area-size-tadf-oled-emitter"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-29-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "These Next-Gen Apple Products Will Be Upgraded To OLED Displays By 2029 - bgr.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDJKRkZyRlpIcDZrbGNwUkxscFdUZFBmYlh0Tng5QTlCOTJ1Rm55Uk1aakxVMks0eWdEdGl6VHh6RzFXREtVTjQ5MHZHNEJZT1MtZmEtRThSRFRyWXlEZnR5aTZiYzVOYmxhMVFrVkItTXVEXzkwdGN6VjJleEo2ZkdJemg5dTNYT2I4MTU3RQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "canon",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 377,
+    "dup_title": 130,
+    "too_old": 178,
+    "gate1_blocked": 40,
+    "gate2_blocked": 16,
+    "passed": 13,
+    "pass_rate": "5.3%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "What is Corning? The glass and fiber optics manufacturer explained - qz.com",
+      "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+      "LECOM at Elmira and Corning Inc. partner to provide full tuition scholarships - WETM",
+      "Former Gov. Pataki to receive Business Council's 2026 Corning Award - Corning Leader",
+      "Corning Falls as Investors Weigh iPhone Glass Concerns Against Recent AI Fiber Wins - Quiver Quantit"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為佳能、BOE Technology相關動態：「BOE Technology Group Co., Ltd. (000725.SZ) announced its ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BOE Technology Group Co., Ltd. (000725.SZ) announced its half-year results, r...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Visionox reported its financial results for the first half of 2026 with a sli...（面板價格、OLED 滲透率、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "面板價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

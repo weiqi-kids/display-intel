@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-29",
+  "total_events": 5,
+  "by_company": {
+    "canon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "boe": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.38
+    },
+    "panel_price": {
+      "count": 1,
+      "sentiment_avg": 0.25
+    },
+    "oled_penetration": {
+      "count": 3,
+      "sentiment_avg": 0.08
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

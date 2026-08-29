@@ -1,0 +1,156 @@
+{
+  "date": "2026-08-29",
+  "date_range": {
+    "start": "2026-08-23",
+    "end": "2026-08-29"
+  },
+  "generated_at": "2026-08-29T13:37:17.377085Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lg_elec-2026-08-23-002",
+      "date": "2026-08-23",
+      "title": "LG Display's FLiPP Technology Aims For Brighter OLED Displays And More Flexible Manufacturing - Pokde.Net",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "mini_led": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "oled_penetration": {
+      "this_week": 14,
+      "last_week": 25,
+      "week_over_week_change": "-44%",
+      "sentiment_this_week": 0.09
+    },
+    "panel_price": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "earnings": {
+      "this_week": 22,
+      "last_week": 23,
+      "week_over_week_change": "-4%",
+      "sentiment_this_week": 0.12
+    }
+  },
+  "company_7d_summary": {
+    "samsung_elec": {
+      "event_count": 10,
+      "sentiment_avg": 0.15,
+      "rank": 1
+    },
+    "applied_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "himax": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "tcl": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 4
+    },
+    "lg_elec": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 3
+    },
+    "csot": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 8
+    },
+    "lg_display": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "boe": {
+      "event_count": 6,
+      "sentiment_avg": 0.25,
+      "rank": 2
+    },
+    "canon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 91,
+        "last": 156,
+        "change_pct": -41.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-23",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-24",
+      "event_count": 16,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-25",
+      "event_count": 16,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 26,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 11,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 14,
+      "sentiment_avg": 0.21
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 5,
+      "sentiment_avg": 0.15
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-23 ~ 2026-08-29）共 91 則事件，重點為「LG Display's FLiPP Technology Aims For Brighter...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "三星電子",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "TCL Technology",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "LG電子",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
