@@ -1,0 +1,16 @@
+{
+  "total_raw": 377,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 181,
+  "gate1_fail": 39,
+  "gate2_fail": 15,
+  "passed": 7,
+  "gate2_samples": [
+    "What is Corning? The glass and fiber optics manufacturer explained - qz.com",
+    "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+    "Former Gov. Pataki to receive Business Council's 2026 Corning Award - Corning Leader",
+    "LECOM at Elmira and Corning Inc. partner to provide full tuition scholarships - WETM",
+    "Corning Falls as Investors Weigh iPhone Glass Concerns Against Recent AI Fiber Wins - Quiver Quantit"
+  ]
+}

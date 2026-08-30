@@ -1,5 +1,43 @@
 [
   {
+    "id": "canon-2026-08-30-001",
+    "date": "2026-08-30",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[Japan Buyback] Canon's ¥200bn Buyback Is Almost Done - A Short Study - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPTW1hbGxJRGlxT3F0SmxpalRaT0FQU2hpZVJzSjFXejFzSGVFX01mQzZaTFFYT0hGOTk5bnMwMmdnVHZuaWFXM0RGdmE1Yk5xRk1kTW10bUVjbUNGTTZ3MkxQOUJzUzkwc1F0NE44Nn",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTW1hbGxJRGlxT3F0SmxpalRaT0FQU2hpZVJzSjFXejFzSGVFX01mQzZaTFFYT0hGOTk5bnMwMmdnVHZuaWFXM0RGdmE1Yk5xRk1kTW10bUVjbUNGTTZ3MkxQOUJzUzkwc1F0NE44NnlUWFM3dWJxOGNCMjhYa21SdFNiODhNZDRmay0wbEZXSlBrOWhuYm4tSDVGQWRxS2JSTFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-08-30-002",
+    "date": "2026-08-30",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BOE's H1 Net Profit Jumps Over 60%, But 40% of Profit Relies on Non-Recurring Items - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1OZGNHUC1YVUdCV0xzOW1zbXhmZ0E3T2JIbE5wcjZwbEZoRW9EU05jZmdTM2dFNWJJNlBMQjltcmxmcnlmR1FGbm5BWS14YTI2dkVRWVU1blRqQ3lCVlAwV212b3d2bURDSXB3a1lBMm",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OZGNHUC1YVUdCV0xzOW1zbXhmZ0E3T2JIbE5wcjZwbEZoRW9EU05jZmdTM2dFNWJJNlBMQjltcmxmcnlmR1FGbm5BWS14YTI2dkVRWVU1blRqQ3lCVlAwV212b3d2bURDSXB3a1lBMmpKYUJXemc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-08-29-001",
     "date": "2026-08-29",
     "companies": [
@@ -89,6 +127,44 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDJKRkZyRlpIcDZrbGNwUkxscFdUZFBmYlh0Tng5QTlCOTJ1Rm55Uk1aakxVMks0eWdEdGl6VHh6RzFXREtVTjQ5MHZHNEJZT1MtZmEtRThSRFRyWXlEZnR5aTZiYzVOYmxhMVFrVkItTXVEXzkwdGN6VjJleEo2ZkdJemg5dTNYT2I4MTU3RQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-29-006",
+    "date": "2026-08-29",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax stock holds steady as investors await fresh earnings signals - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMXBCYjdGV09oR3k2Q0xabHBwVEJXLTV4RHFWMnY5NVdTRklLamtHZ3ZrTkZrbThTZXgtblVLS0xoS2hFdnpDcXNRZ29sNEp4SWJ3Z1hqUW8xZDJZREV3dmI2YVBmZTYwU2NtTXRKd0",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMXBCYjdGV09oR3k2Q0xabHBwVEJXLTV4RHFWMnY5NVdTRklLamtHZ3ZrTkZrbThTZXgtblVLS0xoS2hFdnpDcXNRZ29sNEp4SWJ3Z1hqUW8xZDJZREV3dmI2YVBmZTYwU2NtTXRKd0N1aWgxY2Fwa3JzeFdnb0VBWEc4ZWNBdXhLd3JvMmt6QklGM29ucnh1UVBKZjB0eHhqX25jVXozeVk4THdEVVNqRkZfeUFleV83d2cxak5Nc2NtM0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-29-007",
+    "date": "2026-08-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Innodisk says AI demand is lifting margins while memory supply remains tight",
+    "summary": "Innodisk said its AI-focused product mix is driving stronger revenue and profitability, a sign that global demand for memory and infrastructure hardware remains robust. The company also warned that ti",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260828PD221/innodisk-demand-revenue-infrastructure-2026.html",
         "type": "rss"
       }
     ]
@@ -354,6 +430,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUm1ERjBuVzlyUXVTcG1OOUJHQXp1Q0tPWlJaRmV0aEc4dHlVWHJUTFZ3Vzc5OWdxakMwUWRGUWViYTBpRGJoVlRmRDVzMVVZQVZ1UXhqcmNQdFZMVmJpTjd6eFdzbVZNa0IzOEFsWUx6RWIteThmOGpFaFh4Sl82WWxHQUhQZkJDUWxV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-28-015",
+    "date": "2026-08-28",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Himax Technologies upgraded to Buy on strong Q2 results and growth in automotive IC segment - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPbHhva0hTWkRXMW1icGFtQ0F1Y29uLTZrWlY0Uk1rcm9LczRBWDk0S1hrTmc2MC10dDJCZmJRTC1RSFNkODlJR1BhWUVRazFBWjJvLTRyTmN1MnJSaVRuaG96VUt0WEJfNlNEWjJiS2",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbHhva0hTWkRXMW1icGFtQ0F1Y29uLTZrWlY0Uk1rcm9LczRBWDk0S1hrTmc2MC10dDJCZmJRTC1RSFNkODlJR1BhWUVRazFBWjJvLTRyTmN1MnJSaVRuaG96VUt0WEJfNlNEWjJiS2RlMHAtUUh1Zm81aXBtRjVfNVVtcWYxNzBncFpkc0k2UkhzZU0?oc=5",
         "type": "rss"
       }
     ]
@@ -1066,6 +1160,44 @@
       {
         "name": "himax",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yWEJoenYzaGNSejU1NldEOWpYcmo0Xy1EYlNZc25PQmszWXdBMDBBc21QZ0s5amM4dVRqMTI1MmkyZkJZaEhMajRfRjR2c2xVSW1sMVJsVXF3cVVTWjZvU0NaaEFuU25YR0g1WlJCdjY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-26-027",
+    "date": "2026-08-26",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (0J5H) Q4 2024 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9DSUxvRzVROXRrekg2NEp6c1VqNmNjUGlZVVhXSmZ3a3V6cUFlN2ZlQjdrMGdRUWUxNWxCZmhqX0UzaWRyTEFSMTFNTEJ5cVNTVV9qUmRiVXNocldqeEEtcF9TYXFwMUpXa0hLc3VQMl",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DSUxvRzVROXRrekg2NEp6c1VqNmNjUGlZVVhXSmZ3a3V6cUFlN2ZlQjdrMGdRUWUxNWxCZmhqX0UzaWRyTEFSMTFNTEJ5cVNTVV9qUmRiVXNocldqeEEtcF9TYXFwMUpXa0hLc3VQMlY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-028",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "A joint Japan-Taiwan research project to develop circularly-polarized OLED technologies - oled-info.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2xjZWRySFNISnZydUFzUjlwdEN6OUltcHg5bGNzZTlsUjFNU1NXMU1EM29OSWJmUEdjanF2NDVDOEc3MzhpaU5Db0ZZQ0hTaUFQTmVHX2ZfZ0pIdkRSTGRFSDdPM2VZZGVnYU5uTW",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2xjZWRySFNISnZydUFzUjlwdEN6OUltcHg5bGNzZTlsUjFNU1NXMU1EM29OSWJmUEdjanF2NDVDOEc3MzhpaU5Db0ZZQ0hTaUFQTmVHX2ZfZ0pIdkRSTGRFSDdPM2VZZGVnYU5uTW9STWVZYTUyOWpmeWJERkJPdjV0T21lbXFtb2pwVUFNT0M3NXl6YjlocGR5SQ?oc=5",
         "type": "rss"
       }
     ]
