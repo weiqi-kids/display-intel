@@ -1,5 +1,95 @@
 [
   {
+    "id": "samsung_elec-2026-08-31-001",
+    "date": "2026-08-31",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Hosts #PlayGalaxy Cup World Final at Gamescom 2026",
+    "summary": "Samsung Electronics today announced that it hosted the #PlayGalaxy Cup World Final from Aug. 27-28, and that the final was held at the company’s booth as part of its larger exhibition at Gamescom 2026",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-hosts-playgalaxy-cup-world-final-at-gamescom-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-002",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "OLED material makers' results show a supply chain shifting to China, one layer at a time",
+    "summary": "<p>The OLED emissive materials market <a href=\"https://www.oled-info.com/ubi-research-oled-material-market-grew-7-2025-227-billion-will-slow-down-2026\">grew 7.1% in 2025 to $2.2 billion</a>, according",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/oled-material-makers-results-show-supply-chain-shifting-china-one-layer-time",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-003",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Gudeng sees double-digit advanced packaging growth from 2027",
+    "summary": "Demand for AI and high-performance computing (HPC) continues to drive semiconductor process development, with advanced nodes and advanced packaging entering a new cycle of capacity expansion. Gudeng c",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260831PD233/packaging-growth-2027-hpc-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-004",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Marvell sees 2027 acceleration in scale-up optics",
+    "summary": "Marvell said on its fiscal second-quarter of 2027 earnings call that customers are actively planning to deploy scale-up optical solutions as early as 2027, with demand for near-package optics (NPO) no",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260831PD230/marvell-2027-optics-cpo-copper.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-005",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Nvidia demand nearly doubles as supply meets only 70%",
+    "summary": "Nvidia reported second-quarter revenue for fiscal year 2027 of US$96.22 billion, a 106% year-over-year increase, driven by a 117% surge in data center revenue to US$89 billion. With third-quarter reve",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260831PD218/nvidia-gpu-data-center-demand-revenue-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-08-30-001",
     "date": "2026-08-30",
     "companies": [
