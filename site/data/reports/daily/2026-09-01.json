@@ -1,0 +1,258 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T13:04:28.977178Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-09-01-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display’s strategic hiring signals a focus on OLED innovation amid workforce restructuring - Global Sources",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMFRYZVJaekNNWGxkQWI3bmY1bnlVSG53QlI0TGNjMGE3dzdNMGdtaHJVRGVoOFRSLVFsaWkyTUhsUlBDdW5fZ1hpT3BJNzFkY003ZTNNUExlMFRQZHVDdlhOOWZ0QkR4bEJDZ1JkZ0RCajNDeTExTmZHd2E4bjRUczVreWNtSE53ZEMtYVVkQzZfbm5FWjJiT2FnRm9CcUZ3TG45UzRBS3k3RFdySWU3dUJvMjBWbVpxSzkxM19pVHZrM21PVEdubHl6R3BkMnpWVV9ZU052dUJXT1JkX05XRnlfVFJLa3hDZ1VWdWt3M18?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-09-01-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Opens OLED Entry-Level Hiring Just Four Months After Voluntary Retirement Program - finance.biggo.com",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5NDZLZUU0MVZXeDBTYjVOcTdiOGFlUkVNVmw1c3dNU1AweF9OdUs4WDRlSkl0SHNwamY4NHJxdFdLS3pscUVSc0tZVWZmejBUTEdyODJKT0E2NnZQRjN4ZlZiWFdfSkZNclRGd1dXZVpzTnljdFE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "auo-2026-09-01-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Micron opens Tainan plant after 6.5 months amid labor dispute",
+      "companies": [
+        "auo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://www.digitimes.com/news/a20260901PD228/micron-plant-labor-taiwan-auo.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_elec-2026-09-01-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "South Korea CCL exports surge 42% on AI demand",
+      "companies": [
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260901PD208/ccl-exports-demand-2026-revenue.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-09-01-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Samsung Electro-Mechanics discloses major MLCC supply deal tied to AI server demand",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260901VL211/semco-mlcc-sales-2027-2026.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 6
+      },
+      {
+        "id": "lg_elec",
+        "count": 3
+      },
+      {
+        "id": "lg_display",
+        "count": 2
+      },
+      {
+        "id": "auo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "automotive_display",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 378,
+    "dup_title": 131,
+    "too_old": 178,
+    "gate1_blocked": 37,
+    "gate2_blocked": 10,
+    "passed": 22,
+    "pass_rate": "8.9%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "Technical Analysis of Corning Incorporated (CRYPTOCOM:GLWUSD.P) - TradingView",
+      "What is Corning? The glass and fiber optics manufacturer explained - qz.com",
+      "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+      "Canon Inc (7751 JP): Synthetic Expert Call Transcript (30 Aug 2026) - Smartkarma",
+      "Canon U.S.A. Celebrates Community and Philanthropy at Canon Promotional Night at Yankee Stadium - Ya"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為三星電子、LG電子、LGD相關動態：「LG Display’s strategic hiring signals a focus on OLED inn...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display’s strategic hiring signals a focus on OLED innovation amid workfor...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display Opens OLED Entry-Level Hiring Just Four Months After Voluntary Ret...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

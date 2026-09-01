@@ -1,0 +1,16 @@
+{
+  "total_raw": 378,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 178,
+  "gate1_fail": 37,
+  "gate2_fail": 10,
+  "passed": 22,
+  "gate2_samples": [
+    "Technical Analysis of Corning Incorporated (CRYPTOCOM:GLWUSD.P) - TradingView",
+    "What is Corning? The glass and fiber optics manufacturer explained - qz.com",
+    "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+    "Canon Inc (7751 JP): Synthetic Expert Call Transcript (30 Aug 2026) - Smartkarma",
+    "Canon U.S.A. Celebrates Community and Philanthropy at Canon Promotional Night at Yankee Stadium - Ya"
+  ]
+}
