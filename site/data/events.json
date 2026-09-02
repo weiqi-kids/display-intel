@@ -1,5 +1,193 @@
 [
   {
+    "id": "canon-2026-09-02-001",
+    "date": "2026-09-02",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon U.S.A. Announces Takaaki Tanaka as Chief Financial Officer - Industry Analysts, Inc.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxON3hKUF9MMHU2ZlZuU3hVNnpwSEhUOS0zc2RBVlVuTmc3d3luU0QwMnlLcGx0NGNzNVR1VENtTXk1b1VwN01aTS16Ukl0YTRnRV9vZUlfRjJjcEk4ZzFiVXdCem9yZWhlaFROTi1sa1",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3hKUF9MMHU2ZlZuU3hVNnpwSEhUOS0zc2RBVlVuTmc3d3luU0QwMnlLcGx0NGNzNVR1VENtTXk1b1VwN01aTS16Ukl0YTRnRV9vZUlfRjJjcEk4ZzFiVXdCem9yZWhlaFROTi1sa1kxLXdtTEVSUjVmd3l5TDE2ZmU2RXBHQnRnYk1LTkdfUEV5X010SGVtbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-02-002",
+    "date": "2026-09-02",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Resumes Second-Half Entry-Level Hiring After Four Years - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zMWFWV0Y0UmdYdVVkRVVicjNCNmJFc2JKNG1Ibkx6Vy0yZEJlQ3pqaFVTZDBzM3EtaENPaDJNMjV6S09TbDljUGNVZGdKMVJpbE11bG4yd0ZBdTh3UnA0bDROUm5MbG8?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zMWFWV0Y0UmdYdVVkRVVicjNCNmJFc2JKNG1Ibkx6Vy0yZEJlQ3pqaFVTZDBzM3EtaENPaDJNMjV6S09TbDljUGNVZGdKMVJpbE11bG4yd0ZBdTh3UnA0bDROUm5MbG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-02-003",
+    "date": "2026-09-02",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Redefines Laundry With New A-70% and 13 Kg Bespoke AI Washers at IFA 2026",
+    "summary": "*For illustrative purposes only. Product design and specifications are subject to change. Samsung Electronics today announced that it will showcase two new Bespoke AI Washer models during IFA 2026: a ",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-redefines-laundry-with-new-a-70-and-13-kg-bespoke-ai-washers-at-ifa-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-004",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "it_panel_demand"
+    ],
+    "impact": "neutral",
+    "title": "OLED display backplanes, part 4 of 7: Oxide TFT (IGZO)",
+    "summary": "<p>This is the fourth article in our OLED display backplane series. In the <a href=\"https://www.oled-info.com/oled-display-backplanes-part-3-7-polycrystalline-silicon-ltps\">previous article</a>, we ex",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/oled-display-backplanes-part-4-oxide-tft-igzo",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-02-005",
+    "date": "2026-09-02",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "DRAM giants target 3D stacking to break memory wall and power bottlenecks",
+    "summary": "At a shared stage at Semicon Taiwan 2026, executives from Samsung Electronics, SK Hynix, and Micron agreed that traditional 2.5D high-bandwidth memory (HBM) using interposers is approaching a performa",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260902PD241/dram-bandwidth-3d-data-demand-semicon-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-006",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "EU EV battery recycling still lacks a profitable model",
+    "summary": "The European Union is pushing to strengthen domestic second-life battery production and recycling loops, but EV battery recycling still faces a contradiction: the technology is maturing, yet a sustain",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260902PD205/recycling-ev-battery-eu-production-vehicle.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-02-007",
+    "date": "2026-09-02",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung, SK Hynix inventories surge as valuation reserves fall",
+    "summary": "Samsung Electronics and SK Hynix ended the first half of 2026 holding sharply more inventory than six months earlier, an unusual development in a memory market where demand continues to strain availab",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260902VL216/samsung-sk-hynix-inventory-demand-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-008",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Wonderful Hi-Tech expands Thailand, Vietnam capacity to capture emerging space data center, physical AI demand",
+    "summary": "Cable manufacturer Wonderful Hi-Tech announced its financial results for the second quarter and first half of 2026 during an earnings call held on September 1. A ramp-up in high-speed transmission cab",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260901PD246/wonderful-hi-tech-capacity-data-center-demand-cables.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-02-009",
+    "date": "2026-09-02",
+    "companies": [
+      "samsung_elec",
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Sues Samsung Over Mini LED False Advertising - Businesskorea",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE8xUzBIbk1DcTE4TGRVSmpIX2s4QkxnbTEwX1BnaDNTQ0pmS1RaTUxUUmVfY1FGLUx1NU5Kemc4TEZzTUVSelBLcmZ0VGN1UnE1UDdaSkhmanllWXNCaUJCeUpfeVJYTmsxMFlOV0JZZE",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xUzBIbk1DcTE4TGRVSmpIX2s4QkxnbTEwX1BnaDNTQ0pmS1RaTUxUUmVfY1FGLUx1NU5Kemc4TEZzTUVSelBLcmZ0VGN1UnE1UDdaSkhmanllWXNCaUJCeUpfeVJYTmsxMFlOV0JZZE9XZE0w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-02-010",
+    "date": "2026-09-02",
+    "companies": [
+      "samsung_elec",
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Sued By TCL Over Mini LED TV Technology Claims - BusinessToday Malaysia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2NUeVF6UWlmcUVHUkxOYUY0WjM3SmxzaDRpdEFIQW5lZkxKdy1TX1Z0V2RsNDAtNDV6QmNSVXBJbkJreTJwVDFvQmJUQXBJb0JxYXJoa09aVk51cy1EckY0ekotdnhHYkhXekZYal",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2NUeVF6UWlmcUVHUkxOYUY0WjM3SmxzaDRpdEFIQW5lZkxKdy1TX1Z0V2RsNDAtNDV6QmNSVXBJbkJreTJwVDFvQmJUQXBJb0JxYXJoa09aVk51cy1EckY0ekotdnhHYkhXekZYalllTHFDZ3F4eTZGSE41ZGV1ZVByVmVrcmQ2N2dMMjcwLXJndmF6YWIyd3psLWQ5V3Vh?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-09-01-001",
     "date": "2026-09-01",
     "companies": [
@@ -223,6 +411,62 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ2xwZGcwdFpCdmNlWVp5Y2lHZEhtQXJHd25VRFVfTnhfR0ZmTUJKZDhBOGFTWnVNaXFGYno4dkZSZDNGLV93cVR6N2l0bVFSX3Y2eTMyQ0ZJVHpiZGgyeTg4cmFEMWJDYk1jNURtMng2RTdIb1duZUR3Z1JTbFRNT0xMdUtxNzFwUHhnRmtHd3hLMlRwSUhxS0VSd3FhY0pYZkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-01-013",
+    "date": "2026-09-01",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Corning slides as investors appear to take profits amid a weaker tech tape - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNjYzUkt3VWtqZG9UWkpneWNjWVNVdDM5bnRFSDgzTGtZTmU2SGFxbU4tYTEyYjJFR2JQbmU0SlJhRDQ4M0JoY3JTWjh5NWV6WEJJYy15WWtwSXRHOV85NWdFZXRBOWhHUFA5Q2kwTD",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNjYzUkt3VWtqZG9UWkpneWNjWVNVdDM5bnRFSDgzTGtZTmU2SGFxbU4tYTEyYjJFR2JQbmU0SlJhRDQ4M0JoY3JTWjh5NWV6WEJJYy15WWtwSXRHOV85NWdFZXRBOWhHUFA5Q2kwTDF3c0lMYTJrb3B1Ni1CeFFLdGliYzE4a2Uwd2ZXSlFhYWlzck1PV2c0QXRtOVJRZnZGMWtuVTVGekpZWlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-014",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Opportunity Charging Enabled by Fast Charging MultiVoltage Batteries",
+    "summary": "\n\t\t\t\t\t\t<p>While opportunity charging is a practice applicable to both Lead Acidand Lithium-ion (Li-ion) batteries for motive power systems, fast charging is a key differentiator for Lithium-ion batter",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/opportunity-charging-enabled-by-fast-charging-multivoltage-batteries/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-015",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "negative",
+    "title": "The Link Budget Is Decided at the Connector",
+    "summary": "\n\t\t\t\t\t\t<p>Scale-up optics will be decided by the link budget. The largest recoverable losses sit at the connector and inside the silicon photonics platform. </p>\n<p>The post <a href=\"https://www.eetim",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/the-link-budget-is-decided-at-the-connector/",
         "type": "rss"
       }
     ]
@@ -484,6 +728,44 @@
     ]
   },
   {
+    "id": "corning-2026-08-31-015",
+    "date": "2026-08-31",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning (NYSE: GLW) vice chair sells 13,100 shares in August trade - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRFp3Y0VITlNuTUtZVlFhN0tnbFh2aS1hOWZaVmRSVXc2NHpKLU40SlhTS3dwOUxrWE52VjFLMXhDRTJoTE5FUWR5Z0c4Z2JzRDVOdmU0aDdvLTJMTVhxdVZ5YzVVaDZlMlRYRjBNZn",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRFp3Y0VITlNuTUtZVlFhN0tnbFh2aS1hOWZaVmRSVXc2NHpKLU40SlhTS3dwOUxrWE52VjFLMXhDRTJoTE5FUWR5Z0c4Z2JzRDVOdmU0aDdvLTJMTVhxdVZ5YzVVaDZlMlRYRjBNZnhnM0hvcTJpWDRtQTdrZFRpTU5lMzlMRUdCUFNZcG9TaWU0b3hnLVhpS2FRc3Y1S2RSMkh1SlRES1h3TWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vizio-2026-08-31-016",
+    "date": "2026-08-31",
+    "companies": [
+      "vizio"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "VIZIO Holding Corp. Class A (VZIO) Key Financial Ratios – Valuation, Profitability & More - valueresearchonline.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQT2xyaEhFRlNkT1I1MlVRdjZvellWWFh5UlItNGRGeFdXWEN3T2JUZTRrbzZ4WjRCbjRwQ0FlTmduZVI0N0hoTUl1STJzcTBNT0JVeEl5N003VGpvT1Y4MTF0RF9HNGZoaS14VEZNbz",
+    "sources": [
+      {
+        "name": "vizio",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT2xyaEhFRlNkT1I1MlVRdjZvellWWFh5UlItNGRGeFdXWEN3T2JUZTRrbzZ4WjRCbjRwQ0FlTmduZVI0N0hoTUl1STJzcTBNT0JVeEl5N003VGpvT1Y4MTF0RF9HNGZoaS14VEZNbzlDSFQzMzhKeWdRQlZGeFFacXZhZmVDYU5NVzZld0ZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-08-30-001",
     "date": "2026-08-30",
     "companies": [
@@ -649,6 +931,24 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260828PD221/innodisk-demand-revenue-infrastructure-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-08-29-008",
+    "date": "2026-08-29",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "How Investors Are Reacting To Himax Technologies (HIMX) Palm Vein Biometric Tech Powering WAFERLOCK Smart Lock - webull.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBMlZ1aUJfejVpWkw2eVlNRDVXcVV6dXJPTTE1OUNqVXFDZUV2TEhvSWp1d0VXelhJT19WNlIxdXpwRVlobVJFRUpaa3dqTXBYV0s2dkdnTXk?oc=5\" target=\"_blank\">How Inve",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBMlZ1aUJfejVpWkw2eVlNRDVXcVV6dXJPTTE1OUNqVXFDZUV2TEhvSWp1d0VXelhJT19WNlIxdXpwRVlobVJFRUpaa3dqTXBYV0s2dkdnTXk?oc=5",
         "type": "rss"
       }
     ]
@@ -1682,6 +1982,24 @@
       {
         "name": "jdi",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR2xjZWRySFNISnZydUFzUjlwdEN6OUltcHg5bGNzZTlsUjFNU1NXMU1EM29OSWJmUEdjanF2NDVDOEc3MzhpaU5Db0ZZQ0hTaUFQTmVHX2ZfZ0pIdkRSTGRFSDdPM2VZZGVnYU5uTW9STWVZYTUyOWpmeWJERkJPdjV0T21lbXFtb2pwVUFNT0M3NXl6YjlocGR5SQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-08-26-029",
+    "date": "2026-08-26",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon to launch mercury-free light source option for FPD lithography - global.canon",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE14WVpQOFZqazVZZVdvYm5GWFZaTVRSV2F5dHMwWk1TVDZmdUJWUjhPcEdienU5aktjUER4MVViMTIyV1RpRDlTZ3MtMjN5U3lFNW0ybEt6LTc0Rzg?oc=5\" target=\"_blank\">Cano",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14WVpQOFZqazVZZVdvYm5GWFZaTVRSV2F5dHMwWk1TVDZmdUJWUjhPcEdienU5aktjUER4MVViMTIyV1RpRDlTZ3MtMjN5U3lFNW0ybEt6LTc0Rzg?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,266 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T12:32:41.786551Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-09-02-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Resumes Second-Half Entry-Level Hiring After Four Years - thelec.net",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zMWFWV0Y0UmdYdVVkRVVicjNCNmJFc2JKNG1Ibkx6Vy0yZEJlQ3pqaFVTZDBzM3EtaENPaDJNMjV6S09TbDljUGNVZGdKMVJpbE11bG4yd0ZBdTh3UnA0bDROUm5MbG8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-02-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "EU EV battery recycling still lacks a profitable model",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260902PD205/recycling-ev-battery-eu-production-vehicle.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-02-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Wonderful Hi-Tech expands Thailand, Vietnam capacity to capture emerging space data center, physical AI demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260901PD246/wonderful-hi-tech-capacity-data-center-demand-cables.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_elec-2026-09-02-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "TCL Sues Samsung Over Mini LED False Advertising - Businesskorea",
+      "companies": [
+        "samsung_elec",
+        "tcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xUzBIbk1DcTE4TGRVSmpIX2s4QkxnbTEwX1BnaDNTQ0pmS1RaTUxUUmVfY1FGLUx1NU5Kemc4TEZzTUVSelBLcmZ0VGN1UnE1UDdaSkhmanllWXNCaUJCeUpfeVJYTmsxMFlOV0JZZE9XZE0w?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-09-02-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Samsung Sued By TCL Over Mini LED TV Technology Claims - BusinessToday Malaysia",
+      "companies": [
+        "samsung_elec",
+        "tcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2NUeVF6UWlmcUVHUkxOYUY0WjM3SmxzaDRpdEFIQW5lZkxKdy1TX1Z0V2RsNDAtNDV6QmNSVXBJbkJreTJwVDFvQmJUQXBJb0JxYXJoa09aVk51cy1EckY0ekotdnhHYkhXekZYalllTHFDZ3F4eTZGSE41ZGV1ZVByVmVrcmQ2N2dMMjcwLXJndmF6YWIyd3psLWQ5V3Vh?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "samsung_elec",
+      "to": "tcl",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "mini_led"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 5
+      },
+      {
+        "id": "tcl",
+        "count": 2
+      },
+      {
+        "id": "canon",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 378,
+    "dup_title": 126,
+    "too_old": 188,
+    "gate1_blocked": 36,
+    "gate2_blocked": 11,
+    "passed": 17,
+    "pass_rate": "6.7%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "Vice Chairman Of Corning Sold 47% Of Their Shares - simplywall.st",
+      "Corning Incorporated Price Today | xGLW Live Price, Chart & Market Cap - OKX",
+      "Corning Inc Stock (GLW) Moved Down by 3.38% on Sep 1: What Investors Need To Know - TradingKey",
+      "Technical Analysis of Corning Incorporated (CRYPTOCOM:GLWUSD.P) - TradingView",
+      "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為三星電子、TCL Technology、佳能相關動態：「LG Display Resumes Second-Half Entry-Level Hiring After F...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display Resumes Second-Half Entry-Level Hiring After Four Years - thelec.net",
+        "level": "red"
+      },
+      {
+        "text": "EU EV battery recycling still lacks a profitable model（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

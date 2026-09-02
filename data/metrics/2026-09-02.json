@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-02",
+  "total_events": 10,
+  "by_company": {
+    "canon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lg_display": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "tcl": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "it_panel_demand": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "mini_led": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "samsung_elec",
+      "to": "tcl",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "mini_led"
+      ]
+    }
+  ]
+}
