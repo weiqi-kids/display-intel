@@ -1,0 +1,16 @@
+{
+  "total_raw": 205,
+  "dup_title": 66,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 39,
+  "gate2_fail": 5,
+  "passed": 12,
+  "gate2_samples": [
+    "Corning Incorporated Price Today | xGLW Live Price, Chart & Market Cap - OKX",
+    "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+    "Canon U.S.A. Introduces New Advanced Features Across Canon’s Leading 4K PTZ Remote Camera System via",
+    "[Video] [Voices of Galaxy] Meet Lefa Makgato, Championing Africa’s Next Generation of Innovators",
+    "KEPCO seeks US$18 billion from Samsung, SK Hynix to fund Korea's power grid"
+  ]
+}

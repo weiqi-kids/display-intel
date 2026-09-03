@@ -1,5 +1,77 @@
 [
   {
+    "id": "samsung_elec-2026-09-03-001",
+    "date": "2026-09-03",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Samsung Showcases New Washers With Flat Design at IFA 2026",
+    "summary": "Samsung Electronics today announced that it is expanding its flat design, previously available on select premium models, to its new 24-inch front-load washer lineup. The new models are currently on di",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-showcases-new-washers-with-flat-design-at-ifa-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-002",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Microsoft unveils two-segment reporting structure, standalone Azure financials",
+    "summary": "Microsoft has unveiled its consolidation of its operating segments from three down to two: Agents and Infra alongside Devices and Consumer. The tech giant also announced plans to disclose standalone q",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260903VL214/microsoft-azure-revenue-business-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-003",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan LED packaging provider Ligitek pivots to silicon photonics; 1.6T modules eye 2H27 revenue",
+    "summary": "Ligitek is accelerating its move from LED packaging into silicon photonics (SiPh) and high-speed optical communications, with 1.6T product samples already tested and volume-production equipment due fr",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260903PD225/ligitek-led-packaging-siph-revenue-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-03-004",
+    "date": "2026-09-03",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Huawei, Xiaomi to launch new foldable smartphones ahead of Apple",
+    "summary": "Samsung Electronics launched its new Galaxy Z series foldable smartphones, including its first wide-folding model, kicking off this year's foldable smartphone battle. With attention on the upcoming re",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260902PD247/foldable-smartphone-apple-huawei-samsung-xiaomi.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-09-02-001",
     "date": "2026-09-02",
     "companies": [
@@ -183,6 +255,126 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2NUeVF6UWlmcUVHUkxOYUY0WjM3SmxzaDRpdEFIQW5lZkxKdy1TX1Z0V2RsNDAtNDV6QmNSVXBJbkJreTJwVDFvQmJUQXBJb0JxYXJoa09aVk51cy1EckY0ekotdnhHYkhXekZYalllTHFDZ3F4eTZGSE41ZGV1ZVByVmVrcmQ2N2dMMjcwLXJndmF6YWIyd3psLWQ5V3Vh?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-02-011",
+    "date": "2026-09-02",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Corning (GLW) is Well Positioned for Strong Earnings Growth - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWtRa2ZaQk9hME1GZUNnYUZrRVRJdXpxNjNjWjNteEtaTEw2V3hDekM4N19ZS0VtT1pIRWNhYmpfdFF4X1JhSFRlc0t2d085UEQzX1FweFN4NDB5TU9JTXM4Q2xNRmtHd1l1YXAwOT",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWtRa2ZaQk9hME1GZUNnYUZrRVRJdXpxNjNjWjNteEtaTEw2V3hDekM4N19ZS0VtT1pIRWNhYmpfdFF4X1JhSFRlc0t2d085UEQzX1FweFN4NDB5TU9JTXM4Q2xNRmtHd1l1YXAwOTV2ajJqNmg0T0t5NmpRVGxRMFRBZTVheDE3Q1RYQURmRVJHMjg5MlcyeHJOMWd2ak9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-012",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Qingyue reported its 2026 H1 financial results",
+    "summary": "<p>OLED producer <a href=\"https://www.oled-info.com/qingyue\">Qingyue Technology</a> announced its financial results for the first half of 2026. The company recorded revenues of 276 million RMB ($41 mi",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/qingyue-reported-its-2026-h1-financial-results",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-013",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Roku Pro Series OLED TV / Pro Series LX OLED TV",
+    "summary": "<p>Roku's first OLED TV series, the Pro Series OLED TV will feature 55\" / 65\" 4K 120Hz OLED panels and Roku's own streaming platform. <a href=\"https://amzn.to/4iBuh7e\">The 55\" model costs $999</a>.</p",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/roku-pro-series-oled-tv-pro-series-lx-oled-tv",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-02-014",
+    "date": "2026-09-02",
+    "companies": [
+      "tcl",
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Sues Samsung in U.S. Over Alleged Mislabeling of TVs as Mini LED - Tekedia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnBRb2s0UGtGZjRma29vM1dHaUtBZC1IeFctZkdtTFhjYTZVN2p0U3VnWGVkS2pNX3h6cFpkdGNvb2tjZzE4RnBLOE5hVUhORXkwVE82TGg0cXNRR1pHWTZ1VUNhOUJTTi1oX3ppX2",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnBRb2s0UGtGZjRma29vM1dHaUtBZC1IeFctZkdtTFhjYTZVN2p0U3VnWGVkS2pNX3h6cFpkdGNvb2tjZzE4RnBLOE5hVUhORXkwVE82TGg0cXNRR1pHWTZ1VUNhOUJTTi1oX3ppX2dKNXdfaERnUTRlbnZralpZSHY1VS1NR1Q3X0NCQnBzX3dOVGIwMWtJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-02-015",
+    "date": "2026-09-02",
+    "companies": [
+      "tcl",
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL has taken Samsung to court over the sale of 'fake' Mini LED televisions - Mezha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE03XzVUemhVQ0dvLUx4VTFCX0R3ZGZSLUZFcU5Ta0RMQm5QNkE0RjNHSnZRNWxDanhpbXlmbXVZWW8zdWVqajMydXpTZnRvZkMyR1o3RjRLbkZkUXR4dFA2SXdGZUlWZmN5dmFxV2RBWW",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03XzVUemhVQ0dvLUx4VTFCX0R3ZGZSLUZFcU5Ta0RMQm5QNkE0RjNHSnZRNWxDanhpbXlmbXVZWW8zdWVqajMydXpTZnRvZkMyR1o3RjRLbkZkUXR4dFA2SXdGZUlWZmN5dmFxV2RBWWRnTnJfUGdmQld3X2XSAYIBQVVfeXFMUGxiN1lQQjd3b3VXZmpOdFBGbXJZY0w4eVR3c2lyMWtsYjltdkg4dDZza09HRkhISVBJeVlYd2RfRWd5UUhZVnBfaU45Y3Atb2hzWDFqSXNjUmgxWm1WVnN5VGh5SVhRVy1CNmRpRG9PTV9scWRSUW93ay12YXByWjYydw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-02-016",
+    "date": "2026-09-02",
+    "companies": [
+      "tcl",
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Sues Samsung Over Mini LED TV Advertising - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYdEhQT2Y2UVA0U2NEUDF3V1JCV0szMzdvSE5Fei1tNXJ5d1poZEJXY3RwdDRtek9acUJsZTFJRWtYaFNQVENLVkwzNHRmX19oZWlpVWY2OVB3WVlqNzNlZ0xMaFZERUk?oc=5\" targ",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYdEhQT2Y2UVA0U2NEUDF3V1JCV0szMzdvSE5Fei1tNXJ5d1poZEJXY3RwdDRtek9acUJsZTFJRWtYaFNQVENLVkwzNHRmX19oZWlpVWY2OVB3WVlqNzNlZ0xMaFZERUk?oc=5",
         "type": "rss"
       }
     ]
@@ -467,6 +659,24 @@
       {
         "name": "eetimes",
         "url": "https://www.eetimes.com/the-link-budget-is-decided-at-the-connector/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-09-01-016",
+    "date": "2026-09-01",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon U.S.A. Announces Takaaki Tanaka as Chief Financial Officer - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFRhWW1XZ29yc1BwUGlxOTFNbFYyYl9Rb0FueXc3YUNiMzZKS1ROY1VldWNuUzdRWmxyNmFYVENKNEZ4dXBQaDNWV2hBUVdrUTllVDdCSC1hRnljVXF1VGtZc0xqZXFwVjFpUUFkOV",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFRhWW1XZ29yc1BwUGlxOTFNbFYyYl9Rb0FueXc3YUNiMzZKS1ROY1VldWNuUzdRWmxyNmFYVENKNEZ4dXBQaDNWV2hBUVdrUTllVDdCSC1hRnljVXF1VGtZc0xqZXFwVjFpUUFkOVFWLWtqcTBIbGxaZ1c3Q3hkcmw3cW9waXZCUmc1S1VzS29xRGZ1ZTZjenpRekR2YlR0M2JtM1ZyQnNsYkYzaW9VUFE0NDBOajRHVzNrU0J2M3poUUpWNWg5bjRoNFBycU04?oc=5",
         "type": "rss"
       }
     ]
@@ -761,6 +971,24 @@
       {
         "name": "vizio",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT2xyaEhFRlNkT1I1MlVRdjZvellWWFh5UlItNGRGeFdXWEN3T2JUZTRrbzZ4WjRCbjRwQ0FlTmduZVI0N0hoTUl1STJzcTBNT0JVeEl5N003VGpvT1Y4MTF0RF9HNGZoaS14VEZNbzlDSFQzMzhKeWdRQlZGeFFacXZhZmVDYU5NVzZld0ZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-08-31-017",
+    "date": "2026-08-31",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL Powers the Tides of Annihilation Experience at Gamescom 2026 with Advanced Display Technology - prnewswire.co.uk",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc1FhWnFOWHNQalRRNWhDdms0R3I2RUlJcXphWEhwR2YtQ2hsb0VEeDlLQlBIS081dFhfUzRnLVVPXzVubGJ6WW5WRUxOUVROd1IyQmJMQjlTQU1VTmwwUGJEYkZsX2llWHJVOGJiVU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc1FhWnFOWHNQalRRNWhDdms0R3I2RUlJcXphWEhwR2YtQ2hsb0VEeDlLQlBIS081dFhfUzRnLVVPXzVubGJ6WW5WRUxOUVROd1IyQmJMQjlTQU1VTmwwUGJEYkZsX2llWHJVOGJiVUp4RGVaNldKSzF5VDFqdUlvdFdCcGtkLTZ4MTI4SHhyWHR0cWxUUXBBOFdJSkFlQXN2QzZ5Q3VrQmQ2MEE4RmpBYTZZdnlXRTNZaFIwMkpCVXRqNWhGTlpJZ1EtT2MzZ3UzLTFVMUtOdU5qQUZnNTJWRFBtc0pGaDBpbmgw?oc=5",
         "type": "rss"
       }
     ]

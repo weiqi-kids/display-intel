@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:35:40.595732Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-03-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Microsoft unveils two-segment reporting structure, standalone Azure financials",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260903VL214/microsoft-azure-revenue-business-growth.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-03-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan LED packaging provider Ligitek pivots to silicon photonics; 1.6T modules eye 2H27 revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260903PD225/ligitek-led-packaging-siph-revenue-taiwan.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_elec-2026-09-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Showcases New Washers With Flat Design at IFA 2026",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.samsung.com/global/samsung-showcases-new-washers-with-flat-design-at-ifa-2026"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_elec-2026-09-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Huawei, Xiaomi to launch new foldable smartphones ahead of Apple",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260902PD247/foldable-smartphone-apple-huawei-samsung-xiaomi.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 205,
+    "dup_title": 66,
+    "too_old": 83,
+    "gate1_blocked": 39,
+    "gate2_blocked": 5,
+    "passed": 12,
+    "pass_rate": "8.6%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "Corning Incorporated Price Today | xGLW Live Price, Chart & Market Cap - OKX",
+      "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+      "Canon U.S.A. Introduces New Advanced Features Across Canon’s Leading 4K PTZ Remote Camera System via",
+      "[Video] [Voices of Galaxy] Meet Lefa Makgato, Championing Africa’s Next Generation of Innovators",
+      "KEPCO seeks US$18 billion from Samsung, SK Hynix to fund Korea's power grid"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為三星電子相關動態：「Microsoft unveils two-segment reporting structure, standa...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Microsoft unveils two-segment reporting structure, standalone Azure financials（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Taiwan LED packaging provider Ligitek pivots to silicon photonics; 1.6T modul...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
