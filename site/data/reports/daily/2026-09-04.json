@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T12:30:31.248923Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-09-04-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung and LG to benefit as BOE reduces OLED supply for iPhones - Huawei Central",
+      "companies": [
+        "lg_elec",
+        "boe",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec",
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "boe"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVllBRU83dVN1bHhJcVhlQVJSMTRMVkw0dDZoNFRaakhFbkFRc29ZQi1qN2s0V3FpeWNxbXRtQmxwLU50NHhEU2o0eW1TQWFxMFlzdEtaeS0tZUlwTGNoWWN0N3VyckdhY0MwbzJKazZiNnZLVVctOHpoZHlNVkgzSEhxSGd4cTVMRnBZRGNUTnFDdDcxZFFqOWlQd9IBoAFBVV95cUxNbDJ3NkZoN0xsUlQxQjdTSkdmMS02NE1rOWxQckJTUVRFaE9uV3ZWa2xLUldUVGYxcUloQlR2dVItbU9vMWVkNFUxMU9DbmNTN2R3UUx6SGcwejJUT2phTmVFU0ZWZkFLSmdLTGFWaERRemx1Ykk4QW44alU5YS1XOEtfSHJ3c214dGRVdXM2VXQ0ZzlqVzM5cWp5RG1maW1L?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-04-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "MSScorps August revenue hits new high on silicon photonics gains",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260904PD200/msscorps-siph-revenue-2026.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-04-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Chunghwa Precision Test sees ASIC revenue overtaking GPU by 2027",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260903PD241/asic-revenue-gpu-2027-demand.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "novatek-2026-09-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Novatek stock holds its ground as chip demand stays healthy - AD HOC NEWS",
+      "companies": [
+        "novatek"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEZoUjc4ems1RmFvaXZlN1BNR3hqWjRoUTRsc3VwUGxqeUV2QjY5MjZ2V0doM0NWdkV4UDd5Nkh0LVlYd0ZaYVhZeWlqNWQwb3RIUncyelhlemFYNktKQ2lhTTVtdFlwdWctMVFCbVdWUnVHSThiLVRBajVFRy1vc0JwTDlCaTdRWm9OZGdMTWJGVndXdDVxcmh1TnFNZjBJMmVFRkdQSHgwaXFFLTBsUzVzRXJvT0o0Vmc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-09-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Meet the Generation17 Young Leaders: The Story of Soumya Dabriwal",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/meet-the-generation17-young-leaders-the-story-of-soumya-dabriwal"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 5
+      },
+      {
+        "id": "novatek",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 118,
+    "too_old": 156,
+    "gate1_blocked": 35,
+    "gate2_blocked": 18,
+    "passed": 22,
+    "pass_rate": "9.5%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "Corning Incorporated Price Today | xGLW Live Price, Chart & Market Cap - OKX",
+      "Vice Chairman Of Corning Sold 47% Of Their Shares - simplywall.st",
+      "Corning Inc Stock (GLW) Moved Down by 3.38% on Sep 1: What Investors Need To Know - TradingKey",
+      "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+      "Technical Analysis of Corning Incorporated (CRYPTOCOM:GLWUSD.P) - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為三星電子、Novatek Microelectronics、LG電子相關動態：「Samsung and LG to benefit as BOE reduces OLED supply for ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung and LG to benefit as BOE reduces OLED supply for iPhones - Huawei Cen...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "MSScorps August revenue hits new high on silicon photonics gains（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

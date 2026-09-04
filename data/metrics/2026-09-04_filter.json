@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 118,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 35,
+  "gate2_fail": 18,
+  "passed": 22,
+  "gate2_samples": [
+    "Corning Incorporated Price Today | xGLW Live Price, Chart & Market Cap - OKX",
+    "Vice Chairman Of Corning Sold 47% Of Their Shares - simplywall.st",
+    "Corning Inc Stock (GLW) Moved Down by 3.38% on Sep 1: What Investors Need To Know - TradingKey",
+    "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in",
+    "Technical Analysis of Corning Incorporated (CRYPTOCOM:GLWUSD.P) - TradingView"
+  ]
+}

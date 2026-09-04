@@ -1,5 +1,211 @@
 [
   {
+    "id": "novatek-2026-09-04-001",
+    "date": "2026-09-04",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Novatek stock holds its ground as chip demand stays healthy - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEZoUjc4ems1RmFvaXZlN1BNR3hqWjRoUTRsc3VwUGxqeUV2QjY5MjZ2V0doM0NWdkV4UDd5Nkh0LVlYd0ZaYVhZeWlqNWQwb3RIUncyelhlemFYNktKQ2lhTTVtdFlwdWctMVFCbV",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEZoUjc4ems1RmFvaXZlN1BNR3hqWjRoUTRsc3VwUGxqeUV2QjY5MjZ2V0doM0NWdkV4UDd5Nkh0LVlYd0ZaYVhZeWlqNWQwb3RIUncyelhlemFYNktKQ2lhTTVtdFlwdWctMVFCbVdWUnVHSThiLVRBajVFRy1vc0JwTDlCaTdRWm9OZGdMTWJGVndXdDVxcmh1TnFNZjBJMmVFRkdQSHgwaXFFLTBsUzVzRXJvT0o0Vmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-04-002",
+    "date": "2026-09-04",
+    "companies": [
+      "lg_elec",
+      "boe",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung and LG to benefit as BOE reduces OLED supply for iPhones - Huawei Central",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVllBRU83dVN1bHhJcVhlQVJSMTRMVkw0dDZoNFRaakhFbkFRc29ZQi1qN2s0V3FpeWNxbXRtQmxwLU50NHhEU2o0eW1TQWFxMFlzdEtaeS0tZUlwTGNoWWN0N3VyckdhY0MwbzJKaz",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVllBRU83dVN1bHhJcVhlQVJSMTRMVkw0dDZoNFRaakhFbkFRc29ZQi1qN2s0V3FpeWNxbXRtQmxwLU50NHhEU2o0eW1TQWFxMFlzdEtaeS0tZUlwTGNoWWN0N3VyckdhY0MwbzJKazZiNnZLVVctOHpoZHlNVkgzSEhxSGd4cTVMRnBZRGNUTnFDdDcxZFFqOWlQd9IBoAFBVV95cUxNbDJ3NkZoN0xsUlQxQjdTSkdmMS02NE1rOWxQckJTUVRFaE9uV3ZWa2xLUldUVGYxcUloQlR2dVItbU9vMWVkNFUxMU9DbmNTN2R3UUx6SGcwejJUT2phTmVFU0ZWZkFLSmdLTGFWaERRemx1Ykk4QW44alU5YS1XOEtfSHJ3c214dGRVdXM2VXQ0ZzlqVzM5cWp5RG1maW1L?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-04-003",
+    "date": "2026-09-04",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Meet the Generation17 Young Leaders: The Story of Soumya Dabriwal",
+    "summary": "Soumya Dabriwal is a member of Generation17, a Samsung and United Nations Development Programme (UNDP) partnership empowering young people who are contributing to the Global Goals. Since 2020, the ini",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/meet-the-generation17-young-leaders-the-story-of-soumya-dabriwal",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-04-004",
+    "date": "2026-09-04",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "SFC aims to go public in November, details its major customers and business",
+    "summary": "<p>In November 2025, we <a href=\"https://www.oled-info.com/hodogaya-reports-lower-oled-materials-sales-gets-ready-ipo-its-sfc-subsidiary\">reported</a> that OLED material developer <a href=\"https://www",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/sfc-aims-go-public-november-details-its-major-customers-and-business",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-04-005",
+    "date": "2026-09-04",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Samsung turns to chips, OLED for next phase of Vietnam expansion",
+    "summary": "Samsung is expanding its Vietnam footprint beyond smartphones, with semiconductor testing, high-end chip substrates, OLED displays and R&amp;D emerging as the next pillars of its presence in one of it",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260903VL220/samsung-vietnam-expansion-investment-manufacturing-testing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-04-006",
+    "date": "2026-09-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "MSScorps August revenue hits new high on silicon photonics gains",
+    "summary": "MSScorps saw August 2026 revenue post a new single-month high, as global artificial intelligence (AI) computing power continues to expand, driving demand for advanced process technologies, high-perfor",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260904PD200/msscorps-siph-revenue-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-04-007",
+    "date": "2026-09-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Chunghwa Precision Test sees ASIC revenue overtaking GPU by 2027",
+    "summary": "Chunghwa Precision Test Technology said demand for AI and high-performance computing (HPC) is driving a surge in advanced testing interface business, while ASIC revenue is set to grow rapidly and catc",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260903PD241/asic-revenue-gpu-2027-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-04-008",
+    "date": "2026-09-04",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "China interconnect chipmaker Montage enters Samsung, SK Hynix CXL 3.2 supply chains and begins DDR6 development",
+    "summary": "<p class=\"P1\" data-start=\"0\" data-end=\"210\">Montage Technology is accelerating its move beyond traditional DDR memory interfaces, with CXL 3.2, DDR6 and PCIe products positioning the Chinese interconn",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260904PD220/montage-cxl-development-samsung-sk-hynix.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-04-009",
+    "date": "2026-09-04",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Micron reportedly targets 2&times; HBM capacity by end-2026; Samsung,  SK Hynix keep the scale edge",
+    "summary": "Micron is reportedly preparing to roughly double its high-bandwidth memory capacity by the end of 2026, targeting about 100,000 wafers a month while sharply increasing 12-high HBM4 output for Nvidia's",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260904VL206/micron-hbm-capacity-sk-hynix-samsung.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-04-010",
+    "date": "2026-09-04",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL showcases flagship Mini LED TV with 10,000 nits brightness, new smartphones, and more at IFA 2026 - pcguide.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOTl9aZ3prZk1naXdtajNrUXJzNUFkQUZqOC1zdkxydjFkbmdHZWh4U05ld0VWdXBYMGRySERFTURqVnYyaVBFYjJfcTB4czkzQXc2OWZBay00Rk50UVNsRXpPeFk5UDJwMC1mWC1kSj",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTl9aZ3prZk1naXdtajNrUXJzNUFkQUZqOC1zdkxydjFkbmdHZWh4U05ld0VWdXBYMGRySERFTURqVnYyaVBFYjJfcTB4czkzQXc2OWZBay00Rk50UVNsRXpPeFk5UDJwMC1mWC1kSjgyalEzWnNldkE1UEdlNzVoQlhTeDlQN0pibm52bzlocnk0ZmJpUm8xY09XZTJWRlhBbGNOeGp2MkJQZUNQMlJvaXZhaXhRUGZDNlh3UnJCYVBsM2p5REY4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-04-011",
+    "date": "2026-09-04",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Hisense secures sponsorship rights for UEFA Euro 2028; global RGB-Mini LED TV market share nears 50% - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB6TW1MNEQtdDU0TEo5WnRER0dYQU5SaG9XVVlrZGVwQmNTcWhZT2FkaGtqWEExOG1zdXoyRFF5S1hEZ0dnblNTVUtadXMzbFNNMGpPZFlQNGlrTTR3QnRYbGlMX1NCTU1jYTNKYzJhNE",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6TW1MNEQtdDU0TEo5WnRER0dYQU5SaG9XVVlrZGVwQmNTcWhZT2FkaGtqWEExOG1zdXoyRFF5S1hEZ0dnblNTVUtadXMzbFNNMGpPZFlQNGlrTTR3QnRYbGlMX1NCTU1jYTNKYzJhNEtLdWpVZFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-09-03-001",
     "date": "2026-09-03",
     "companies": [
@@ -67,6 +273,98 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260902PD247/foldable-smartphone-apple-huawei-samsung-xiaomi.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-005",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Should You Bet on GLW Stock Amid Rising Earnings Estimate Revisions? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2MtSThjN0VXRUtWeVZIZHNXRFFiSjN4MTZfYk9GSUVkbmxhUkVoSnhTYjFMWGNBYXhVSXU1MU5NT1VKdjlqelVFYTZlbUkxTlI0VUZDWjFzZFU4T0JoWWFEWW9jc2RweVIyYUV4Vk",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2MtSThjN0VXRUtWeVZIZHNXRFFiSjN4MTZfYk9GSUVkbmxhUkVoSnhTYjFMWGNBYXhVSXU1MU5NT1VKdjlqelVFYTZlbUkxTlI0VUZDWjFzZFU4T0JoWWFEWW9jc2RweVIyYUV4VkVNMTNiYjhoQkQzMHlGZ1MzcF84T3FsNjAxMmg3QUx4dFdKb3hQNmZkWGZ3eXNUam1JWVJrbGFjbUJfYzlhVVpJMkZKbzFSenFSeDV1c1JaYmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-09-03-006",
+    "date": "2026-09-03",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Himax (HIMX) Stock Looks Overvalued On Earnings But Backed By Growth - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVBXXzg4eXdSb2dKMFEzLXNITnVsRDRiZUdzU1pEY1lFQlZxU0xlQ1Z6UzdHemZjS21jaXVGNkZlb0dRQXhreTdNbV9pMjhRck9NQ2pDYzFkVnFBRE9sSm1VQURVMHhaRms2RkhjLV",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRVBXXzg4eXdSb2dKMFEzLXNITnVsRDRiZUdzU1pEY1lFQlZxU0xlQ1Z6UzdHemZjS21jaXVGNkZlb0dRQXhreTdNbV9pMjhRck9NQ2pDYzFkVnFBRE9sSm1VQURVMHhaRms2RkhjLVVBeWxPM2pBNEtBX0VMU1dPYWNRZ095VHdqM0pZUmxiYnlYcXczcTlJb0xsXzJFemVBQmZKQ2dqVmt0R2pTTlZ2cEdJeEVxaENMaGJWSTBaY083TU9lYndUdERlbmhCLVNGMFN0bU1ZVnNvMktXNzUw0gHfAUFVX3lxTE9FUFdfODh5d1JvZ0owUTMtc0hOdWxENGJlR3NTWkRjWUVCVnFTTGVDVnpTN0d6ZmNLbWNpdUY2RmVvR1FBeGt5N01tX2kyOFFyT01DakNjMWRWcUFET2xKbVVBRFUweFpGazZGSGMtVUF5bE8zakE0S0FfRUxTV09hY1FnT3lUd2ozSllSbGJieVhxdzNxOUlvTGxfMkV6ZUFCZkpDZ2pWa3RHalNOVnZwR0l4RXFoQ0xoYlZJMFpjTzdNT2Vid1R0RGVuaEItU0YwU3RtTVlWc28yS1c3NTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-09-03-007",
+    "date": "2026-09-03",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Japan Display Inc. Financial Disclosures & Filings - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tYkRHcTdyeUJCYWoxc3lzdnJ1dGJaVGo2NnJvYU15cVpkNllYZkFYZlk2em5RY2Z2Nk5wdzVyNlBzMXRMcEFMbHNXOFJhMjNFbFV2S2s2cmNxaExKalBPTWVEa0EzZw?oc=5\" targe",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tYkRHcTdyeUJCYWoxc3lzdnJ1dGJaVGo2NnJvYU15cVpkNllYZkFYZlk2em5RY2Z2Nk5wdzVyNlBzMXRMcEFMbHNXOFJhMjNFbFV2S2s2cmNxaExKalBPTWVEa0EzZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-008",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple could keep mini-LED MacBook Pro around until at least 2028 despite OLED launch - The Apple Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPeENncmlybUxETk90eEF5b18yNUJtYl9HYjdDUmdhc0djbU5wVFI2ejczcEg0VEdYa01hV3k1RW1xSGMyeUtDb0tUdGwyZnhqcjZja21DLUtSeDJRVy0tdGlNeU5IR3JFakRVYWpPUG",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeENncmlybUxETk90eEF5b18yNUJtYl9HYjdDUmdhc0djbU5wVFI2ejczcEg0VEdYa01hV3k1RW1xSGMyeUtDb0tUdGwyZnhqcjZja21DLUtSeDJRVy0tdGlNeU5IR3JFakRVYWpPUGl0Z2IzVVVFbXdOU1FVNDlFMXRWcVlXZzQ5S3VQNDB4MVNzNi1IQ3JYdWRuRGpyU29uOWluWWJpZ3ppYnNsM2Fad01TM204SUJQS3VtUUFNNVpWcUwyQzlHZ05LY9IB0AFBVV95cUxPdGhvTDlRcGZfcDJpNkd0RmJCdGhuMUtZeHc5OHA2TlIzbW9PUGJHczVQS2RPc2hmUHpPNTI5TnJFTEVjMEtFV19jM3hSV1pFdlBvUzJPUHo5S3ZqVEFtNkZZZXEwbWNCWDlxaUxtMDZSYmloUUJfTEFRZzR3MkI5Y3Uta3JwdXZ3dDRsQ3MybDJFUUF1anpFYjRBR2xNQTFjUjB1UUliTGN5QzN1d3BSR2M2cERsUmZRZlFpYnBtSjFSWXJHeUJhZE5qaldsazIz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-009",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Display Developments Challenge Controllers",
+    "summary": "\n\t\t\t\t\t\t<p>Discover how AMOLED, micro-OLED and advanced DDIC technologies are transforming displays with higher resolution, lower power and immersive experiences.</p>\n<p>The post <a href=\"https://www.e",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/display-developments-challenge-controllers/",
         "type": "rss"
       }
     ]
@@ -380,6 +678,65 @@
     ]
   },
   {
+    "id": "auo-2026-09-02-017",
+    "date": "2026-09-02",
+    "companies": [
+      "auo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AUO Sells Singapore Plant to Western Digital for NT$8.753 Billion, Accelerating Asset-Light Transformation - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9DNmI0ZDFKUURaYWFqdTZUZjVocTdWXy1ucmlhTEpqUEJQOFoyX0tNUVQwZDFRYnE1RlVKZjFlTnRQdGVaeUpoQlFoazE1VmVrQUhyakZ1LWxnZHVIN2h5aUxhM01Bdnd4U2RRYUdOZT",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DNmI0ZDFKUURaYWFqdTZUZjVocTdWXy1ucmlhTEpqUEJQOFoyX0tNUVQwZDFRYnE1RlVKZjFlTnRQdGVaeUpoQlFoazE1VmVrQUhyakZ1LWxnZHVIN2h5aUxhM01Bdnd4U2RRYUdOZTNJcFJuVkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-02-018",
+    "date": "2026-09-02",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Showcases SQD-Mini LED TVs Alongside Premium Home Theater Audio and Commercial Display Solutions at CEDIA - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnlkVFNBMXU0enhJMlhNTVBkSjNZRVF3S3lTck9xMXVUYXBBYkFZaXA5ejhXR3J0cmJSby05dXF0dVVHck5sOHJ4cUhfZmlQS1lSTFdfVWhCdmZWb2RRSUQ4RTlBeFFPcG1tMmdzck",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnlkVFNBMXU0enhJMlhNTVBkSjNZRVF3S3lTck9xMXVUYXBBYkFZaXA5ejhXR3J0cmJSby05dXF0dVVHck5sOHJ4cUhfZmlQS1lSTFdfVWhCdmZWb2RRSUQ4RTlBeFFPcG1tMmdzck9HbzAxSk5RQ2FjeUhYR2Jua05CRGRlcDdFNHlTM1JOQWxmWm5yWVBqeGVFaUtNSUxnMDl6UXR3a2VydEx2cVpLU2l6X2ViUXN3aGs2cm9MMHB5R19TMzhwU3V6dXJndV9iUnNSSi0tSjBMUUhOeU9kdk9PcFlFanZ2V2kxMkoydTVrWGV6T2NBTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-02-019",
+    "date": "2026-09-02",
+    "companies": [
+      "tcl",
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Sues Samsung in U.S. Over Alleged Mislabeling of TVs as Mini LED - tekedia.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnBRb2s0UGtGZjRma29vM1dHaUtBZC1IeFctZkdtTFhjYTZVN2p0U3VnWGVkS2pNX3h6cFpkdGNvb2tjZzE4RnBLOE5hVUhORXkwVE82TGg0cXNRR1pHWTZ1VUNhOUJTTi1oX3ppX2",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnBRb2s0UGtGZjRma29vM1dHaUtBZC1IeFctZkdtTFhjYTZVN2p0U3VnWGVkS2pNX3h6cFpkdGNvb2tjZzE4RnBLOE5hVUhORXkwVE82TGg0cXNRR1pHWTZ1VUNhOUJTTi1oX3ppX2dKNXdfaERnUTRlbnZralpZSHY1VS1NR1Q3X0NCQnBzX3dOVGIwMWtJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-09-01-001",
     "date": "2026-09-01",
     "companies": [
@@ -677,6 +1034,44 @@
       {
         "name": "canon",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFRhWW1XZ29yc1BwUGlxOTFNbFYyYl9Rb0FueXc3YUNiMzZKS1ROY1VldWNuUzdRWmxyNmFYVENKNEZ4dXBQaDNWV2hBUVdrUTllVDdCSC1hRnljVXF1VGtZc0xqZXFwVjFpUUFkOVFWLWtqcTBIbGxaZ1c3Q3hkcmw3cW9waXZCUmc1S1VzS29xRGZ1ZTZjenpRekR2YlR0M2JtM1ZyQnNsYkYzaW9VUFE0NDBOajRHVzNrU0J2M3poUUpWNWg5bjRoNFBycU04?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-01-017",
+    "date": "2026-09-01",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung accused of selling ‘Mini LED’ TVs that don’t actually have Mini LED tech - The Independent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQbFNrcEp1RUJrZFNQYm8wcWFhTmI2TTQtOXhVd3lwczNMeEFER0ZaUC1RSjBQZDNuQVZrdmJkX3ZtRHhMbE9KVGpUZDYyanNGamo1VElMdlFVWDU1SE1kUnpMbnZ4MEM3ZkZfdERVc2",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbFNrcEp1RUJrZFNQYm8wcWFhTmI2TTQtOXhVd3lwczNMeEFER0ZaUC1RSjBQZDNuQVZrdmJkX3ZtRHhMbE9KVGpUZDYyanNGamo1VElMdlFVWDU1SE1kUnpMbnZ4MEM3ZkZfdERVc2pWRzBYTnJaZm5rcTJhUEtRem9rLVJ3czc5WjN4bnYteTMxSGg2Y2NJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-01-018",
+    "date": "2026-09-01",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Best Buy has 55-inch Samsung and Roku TVs on sale for Labor Day- but which one is the better deal? - pennlive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ1VJYUU5R05LeUNBUHNVT2JfVVY3SjlsME9seWplUkZhZVItNEJiLXJKRzV1Tjl4NWJ3XzlLMk5aUkNwMnBEdkROcXNCM24zSUZ1ZXo2SXUzcHI2N1pzd1FpSW0wYVR1LXhzVXhKSX",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ1VJYUU5R05LeUNBUHNVT2JfVVY3SjlsME9seWplUkZhZVItNEJiLXJKRzV1Tjl4NWJ3XzlLMk5aUkNwMnBEdkROcXNCM24zSUZ1ZXo2SXUzcHI2N1pzd1FpSW0wYVR1LXhzVXhKSXBHdnpkN1VYNTFOdm95XzRmTWx2WUlHOFlXUlh5WWxjR19YSFgzWlhxeFA5RlAyRjJfaXU4TTB6RWQ3LXAxMUlVTDk1V0pZcjJ5elhzdkhMaF9PT2VJVWNCWnVjZlpZUDZEQ3NWQ1QzMGxLZWJFSUZORVR6bw?oc=5",
         "type": "rss"
       }
     ]
@@ -989,6 +1384,26 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc1FhWnFOWHNQalRRNWhDdms0R3I2RUlJcXphWEhwR2YtQ2hsb0VEeDlLQlBIS081dFhfUzRnLVVPXzVubGJ6WW5WRUxOUVROd1IyQmJMQjlTQU1VTmwwUGJEYkZsX2llWHJVOGJiVUp4RGVaNldKSzF5VDFqdUlvdFdCcGtkLTZ4MTI4SHhyWHR0cWxUUXBBOFdJSkFlQXN2QzZ5Q3VrQmQ2MEE4RmpBYTZZdnlXRTNZaFIwMkpCVXRqNWhGTlpJZ1EtT2MzZ3UzLTFVMUtOdU5qQUZnNTJWRFBtc0pGaDBpbmgw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vizio-2026-08-31-018",
+    "date": "2026-08-31",
+    "companies": [
+      "vizio"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "VIZIO Holding Corp. Class A (VZIO) Key Financial Ratios – Valuation, Profitability & More - Value Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQT2xyaEhFRlNkT1I1MlVRdjZvellWWFh5UlItNGRGeFdXWEN3T2JUZTRrbzZ4WjRCbjRwQ0FlTmduZVI0N0hoTUl1STJzcTBNT0JVeEl5N003VGpvT1Y4MTF0RF9HNGZoaS14VEZNbz",
+    "sources": [
+      {
+        "name": "vizio",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT2xyaEhFRlNkT1I1MlVRdjZvellWWFh5UlItNGRGeFdXWEN3T2JUZTRrbzZ4WjRCbjRwQ0FlTmduZVI0N0hoTUl1STJzcTBNT0JVeEl5N003VGpvT1Y4MTF0RF9HNGZoaS14VEZNbzlDSFQzMzhKeWdRQlZGeFFacXZhZmVDYU5NVzZld0ZB?oc=5",
         "type": "rss"
       }
     ]
