@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T11:37:42.486404Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_elec-2026-09-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung, SK chiefs to meet Nvidia's Huang in New York amid US investment pressure",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260904PD232/samsung-investment-nvidia-sk-group-sk-hynix.html?chid=10"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_elec-2026-09-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Skyworth C2 Canvas Art TV Takes on Samsung The Frame With a Brighter QD Mini LED Screen - eCoustics",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JeE54bmNvWUMtTzU2ZVE1SFp4WnU2dndqZ0Y0ZGJvRGdKOWFtNXFTaVBBQ2pYMWp1bjdlcHZfUm9ROW43QW9ueUFQNnlpR0o5MWFOWFVTRzNiaWZHUW1LV0lvYmRXajZWOGQyRXNB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 358,
+    "dup_title": 90,
+    "too_old": 192,
+    "gate1_blocked": 38,
+    "gate2_blocked": 17,
+    "passed": 21,
+    "pass_rate": "7.8%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "Corning (NYSE: GLW) CFO to discuss Springboard plan at Citi TMT event - stocktitan.net",
+      "Corning Incorporated Price Today | xGLW Live Price, Chart & Market Cap - OKX",
+      "Vice Chairman Of Corning Sold 47% Of Their Shares - simplywall.st",
+      "Technical Analysis of Corning Incorporated (CRYPTOCOM:GLWUSD.P) - TradingView",
+      "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為三星電子相關動態：「Samsung, SK chiefs to meet Nvidia's Huang in New York ami...」。主要關注主題為Mini LED，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Samsung, SK chiefs to meet Nvidia's Huang in New York amid US investment pres...",
+        "level": "green"
+      },
+      {
+        "text": "Skyworth C2 Canvas Art TV Takes on Samsung The Frame With a Brighter QD Mini ...（Mini LED）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

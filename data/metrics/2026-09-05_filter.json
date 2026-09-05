@@ -1,0 +1,16 @@
+{
+  "total_raw": 358,
+  "dup_title": 90,
+  "no_date": 0,
+  "too_old": 192,
+  "gate1_fail": 38,
+  "gate2_fail": 17,
+  "passed": 21,
+  "gate2_samples": [
+    "Corning (NYSE: GLW) CFO to discuss Springboard plan at Citi TMT event - stocktitan.net",
+    "Corning Incorporated Price Today | xGLW Live Price, Chart & Market Cap - OKX",
+    "Vice Chairman Of Corning Sold 47% Of Their Shares - simplywall.st",
+    "Technical Analysis of Corning Incorporated (CRYPTOCOM:GLWUSD.P) - TradingView",
+    "Michele Fink Appointed VP, Talent Management at Corning Incorporated - hrtoday.in"
+  ]
+}

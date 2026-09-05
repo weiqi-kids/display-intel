@@ -1,5 +1,43 @@
 [
   {
+    "id": "samsung_elec-2026-09-05-001",
+    "date": "2026-09-05",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung, SK chiefs to meet Nvidia's Huang in New York amid US investment pressure",
+    "summary": "Samsung Electronics Chairman Jay Y. Lee and SK Group Chairman Tae-won Chey are traveling to New York at the end of September 2026 to meet Nvidia CEO Jensen Huang again as Washington presses South Kore",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260904PD232/samsung-investment-nvidia-sk-group-sk-hynix.html?chid=10",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-05-002",
+    "date": "2026-09-05",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Skyworth C2 Canvas Art TV Takes on Samsung The Frame With a Brighter QD Mini LED Screen - eCoustics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1JeE54bmNvWUMtTzU2ZVE1SFp4WnU2dndqZ0Y0ZGJvRGdKOWFtNXFTaVBBQ2pYMWp1bjdlcHZfUm9ROW43QW9ueUFQNnlpR0o5MWFOWFVTRzNiaWZHUW1LV0lvYmRXajZWOGQyRXNB?o",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JeE54bmNvWUMtTzU2ZVE1SFp4WnU2dndqZ0Y0ZGJvRGdKOWFtNXFTaVBBQ2pYMWp1bjdlcHZfUm9ROW43QW9ueUFQNnlpR0o5MWFOWFVTRzNiaWZHUW1LV0lvYmRXajZWOGQyRXNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "novatek-2026-09-04-001",
     "date": "2026-09-04",
     "companies": [
@@ -206,6 +244,199 @@
     ]
   },
   {
+    "id": "corning-2026-09-04-012",
+    "date": "2026-09-04",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Inc Stock (GLW) Moved Up by 3.72% on Sep 4: Key Drivers Unveiled - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxONFRiU3RaUV80cUpWYUx5dTQ3alU4akxZNmNCN0QzODNOajJBU1pOQk5xajdmQ2l2bFo4M1g2UDZVMzVCV2Q4a2hKd3JzYkRqbUxwQTczTXh6QlFlTDQ2WWkwbk5fU3VUbUVtRzMwSH",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONFRiU3RaUV80cUpWYUx5dTQ3alU4akxZNmNCN0QzODNOajJBU1pOQk5xajdmQ2l2bFo4M1g2UDZVMzVCV2Q4a2hKd3JzYkRqbUxwQTczTXh6QlFlTDQ2WWkwbk5fU3VUbUVtRzMwSHZPeWJTbzJlSGRWUU1LcjRlR1BaNW5mSE9yc3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-09-04-013",
+    "date": "2026-09-04",
+    "companies": [
+      "boe",
+      "samsung_elec",
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "BOE’s iPhone OLED decline bolsters Samsung and LG Display - sammyfans.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHl6RG5QcVl1VUVaajBYMVNxX2NwYXNuSEs0TEhNbDQyZm9wRkpSWVctcFV6NEc4VDVXaWNaMHh5RnB4N3N5YkRYMkZTVUtBVFB2YmNzOHVVQU1LQ0cxUndLbkszYWhJRnJTZVpYOG",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHl6RG5QcVl1VUVaajBYMVNxX2NwYXNuSEs0TEhNbDQyZm9wRkpSWVctcFV6NEc4VDVXaWNaMHh5RnB4N3N5YkRYMkZTVUtBVFB2YmNzOHVVQU1LQ0cxUndLbkszYWhJRnJTZVpYOGVBT21lMVE0XzZSckd1SmdEWVQ4REnSAYoBQVVfeXFMT2R3bzJ4VHpOa1djeUVFbzFNUngyUkROUHNBTkMtU0xvQm5zSXNMeUQyN0h0VU44ZFl2MWlRSlFtd2V6WUtIVVhJMVVwZTFPU0QtWjVvQTdHcnJua0V0LTV6YzVjNVlFbVJRckNZS2xmUzNUaU93V1lEYmRKdWZDYVpCOWtGdEZDOGh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-04-014",
+    "date": "2026-09-04",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "The 2027 Genesis G90 to use a 18-inch flexible OLED display supplied by LG Display - oled-info.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPcXV0b0Q4ejhJLW5rX1Q1eGowQTd6NVJaekJKZ1V6ZlVzOHNfLXFrcFBMZnBGYUJKVjhOaHZjbzR0SW9kWF9FVVgzbG9ILWhMTVZNTEYwbzFlWDJiT2VxQTBob1RVR2pyajZWcF9meF",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcXV0b0Q4ejhJLW5rX1Q1eGowQTd6NVJaekJKZ1V6ZlVzOHNfLXFrcFBMZnBGYUJKVjhOaHZjbzR0SW9kWF9FVVgzbG9ILWhMTVZNTEYwbzFlWDJiT2VxQTBob1RVR2pyajZWcF9meFZrN0lidWFFUjBOSFktamVXQTVhUkZzTWhYQ0N4VWs4TTF0ZWwzUVJYSERORUc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-04-015",
+    "date": "2026-09-04",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "New Genesis G90 to Feature OLED for First Time, Supplied by LG Display - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hd0tTMTRLcHhLRWdfbmRjNnFwd1hiMjJCNENTYkJ3VERPV3Btb3JNUVp1QjVoUUdlTXZ1N0VKRDlvRXUzT2RwcURnTnQ0VlgtOEdlOFMweDh0N1ZUVkpZWi1kWGk1OG8?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hd0tTMTRLcHhLRWdfbmRjNnFwd1hiMjJCNENTYkJ3VERPV3Btb3JNUVp1QjVoUUdlTXZ1N0VKRDlvRXUzT2RwcURnTnQ0VlgtOEdlOFMweDh0N1ZUVkpZWi1kWGk1OG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-04-016",
+    "date": "2026-09-04",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Wins Multiple Honors at IFA Innovation Awards 2026",
+    "summary": "Samsung Electronics today announced that it has received multiple honors at the IFA Innovation Awards 2026 for its latest home appliances. Among the recognized products, the Bespoke AI WindFree Pro Ai",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-wins-multiple-honors-at-ifa-innovation-awards-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-04-017",
+    "date": "2026-09-04",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung SDI nears solid-state battery mass production, eyes China supply chain",
+    "summary": "Reports that Samsung SDI's procurement team recently visited the Chinese production facilities of battery material maker Tinci Materials have drawn significant attention within China's industry. As Sa",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260904PD225/samsung-sdi-production-supply-chain-solid-state-battery-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-04-018",
+    "date": "2026-09-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Taiwan auto parts makers face exit-or-overseas dilemma",
+    "summary": "Taiwan's auto market remains under pressure in 2026, and even as recent months have shown signs of bottoming out, auto parts makers remain cautious or outright pessimistic about the outlook. The gap b",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260904PD207/taiwan-market-south-america-2026-asia.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-04-019",
+    "date": "2026-09-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Marketech profits hit record in 1H26 on overseas orders",
+    "summary": "Marketech International Corp. (MIC) posted record results in the second quarter of 2026, with consolidated revenue of NT$21.2 billion (approx. US$668.6 million), up 48.2% quarter-over-quarter and 74% ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260904PD203/marketech-international-mic-equipment-fab-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-04-020",
+    "date": "2026-09-04",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL showcases flagship Mini LED TV with 10,000 nits brightness, new smartphones, and more at IFA 2026 - PC Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOTl9aZ3prZk1naXdtajNrUXJzNUFkQUZqOC1zdkxydjFkbmdHZWh4U05ld0VWdXBYMGRySERFTURqVnYyaVBFYjJfcTB4czkzQXc2OWZBay00Rk50UVNsRXpPeFk5UDJwMC1mWC1kSj",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTl9aZ3prZk1naXdtajNrUXJzNUFkQUZqOC1zdkxydjFkbmdHZWh4U05ld0VWdXBYMGRySERFTURqVnYyaVBFYjJfcTB4czkzQXc2OWZBay00Rk50UVNsRXpPeFk5UDJwMC1mWC1kSjgyalEzWnNldkE1UEdlNzVoQlhTeDlQN0pibm52bzlocnk0ZmJpUm8xY09XZTJWRlhBbGNOeGp2MkJQZUNQMlJvaXZhaXhRUGZDNlh3UnJCYVBsM2p5REY4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-04-021",
+    "date": "2026-09-04",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL Unveils AI Inspired Life at IFA 2026: Tech Ecosystem Showcase - AndroidGuys",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPOHlzQk5NNzhlTnFlSGxGb2pwQW9yQk9nS1VqSkU5aTE2YVprbUVlRnNsaE1jM3ZjcE5CeVZsNzEwN3hwdERSY0FYVHU4SVZGNFVtZlJ5NmlFcmNzQ1VPcVYyd1NPNnVEQm5FSjdyS0",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOHlzQk5NNzhlTnFlSGxGb2pwQW9yQk9nS1VqSkU5aTE2YVprbUVlRnNsaE1jM3ZjcE5CeVZsNzEwN3hwdERSY0FYVHU4SVZGNFVtZlJ5NmlFcmNzQ1VPcVYyd1NPNnVEQm5FSjdyS0Jrcmpwc1pINFp0di1pS2Vfa3BCak5rS0RFZTRCS2l2cnJRX05KMThPVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-09-03-001",
     "date": "2026-09-03",
     "companies": [
@@ -365,6 +596,24 @@
       {
         "name": "eetimes",
         "url": "https://www.eetimes.com/display-developments-challenge-controllers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-010",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Should You Bet on GLW Stock Amid Rising Earnings Estimate Revisions? - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQUF9fUFRKOFZrRWgtZlR6dk9XY1B3eWxaMVNDRUlLenpwcDE3UjZRVUFIb3MzSVBBNzJweFJPMldxLVpzOWpmQmVfN1JQU01kZmJfZE4tTDdnYjl5azRJeTJ3WHUxYTZBbE4zVTVzbn",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUF9fUFRKOFZrRWgtZlR6dk9XY1B3eWxaMVNDRUlLenpwcDE3UjZRVUFIb3MzSVBBNzJweFJPMldxLVpzOWpmQmVfN1JQU01kZmJfZE4tTDdnYjl5azRJeTJ3WHUxYTZBbE4zVTVzbnAyYjNmb2NwTHZPY2NqTVJWcFJfTjZxeThieXVmR1F4WTRxTGlQ?oc=5",
         "type": "rss"
       }
     ]
@@ -737,6 +986,67 @@
     ]
   },
   {
+    "id": "corning-2026-09-02-020",
+    "date": "2026-09-02",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Corning (GLW) is Well Positioned for Strong Earnings Growth - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWtRa2ZaQk9hME1GZUNnYUZrRVRJdXpxNjNjWjNteEtaTEw2V3hDekM4N19ZS0VtT1pIRWNhYmpfdFF4X1JhSFRlc0t2d085UEQzX1FweFN4NDB5TU9JTXM4Q2xNRmtHd1l1YXAwOT",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWtRa2ZaQk9hME1GZUNnYUZrRVRJdXpxNjNjWjNteEtaTEw2V3hDekM4N19ZS0VtT1pIRWNhYmpfdFF4X1JhSFRlc0t2d085UEQzX1FweFN4NDB5TU9JTXM4Q2xNRmtHd1l1YXAwOTV2ajJqNmg0T0t5NmpRVGxRMFRBZTVheDE3Q1RYQURmRVJHMjg5MlcyeHJOMWd2ak9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-02-021",
+    "date": "2026-09-02",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Showcases SQD-Mini LED TVs Alongside Premium Home Theater Audio and Commercial Display Solutions at CEDIA - prnewswire.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnlkVFNBMXU0enhJMlhNTVBkSjNZRVF3S3lTck9xMXVUYXBBYkFZaXA5ejhXR3J0cmJSby05dXF0dVVHck5sOHJ4cUhfZmlQS1lSTFdfVWhCdmZWb2RRSUQ4RTlBeFFPcG1tMmdzck",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbnlkVFNBMXU0enhJMlhNTVBkSjNZRVF3S3lTck9xMXVUYXBBYkFZaXA5ejhXR3J0cmJSby05dXF0dVVHck5sOHJ4cUhfZmlQS1lSTFdfVWhCdmZWb2RRSUQ4RTlBeFFPcG1tMmdzck9HbzAxSk5RQ2FjeUhYR2Jua05CRGRlcDdFNHlTM1JOQWxmWm5yWVBqeGVFaUtNSUxnMDl6UXR3a2VydEx2cVpLU2l6X2ViUXN3aGs2cm9MMHB5R19TMzhwU3V6dXJndV9iUnNSSi0tSjBMUUhOeU9kdk9PcFlFanZ2V2kxMkoydTVrWGV6T2NBTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-02-022",
+    "date": "2026-09-02",
+    "companies": [
+      "tcl",
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Sues Samsung Over Mini LED False Advertising - businesskorea.co.kr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE8xUzBIbk1DcTE4TGRVSmpIX2s4QkxnbTEwX1BnaDNTQ0pmS1RaTUxUUmVfY1FGLUx1NU5Kemc4TEZzTUVSelBLcmZ0VGN1UnE1UDdaSkhmanllWXNCaUJCeUpfeVJYTmsxMFlOV0JZZE",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xUzBIbk1DcTE4TGRVSmpIX2s4QkxnbTEwX1BnaDNTQ0pmS1RaTUxUUmVfY1FGLUx1NU5Kemc4TEZzTUVSelBLcmZ0VGN1UnE1UDdaSkhmanllWXNCaUJCeUpfeVJYTmsxMFlOV0JZZE9XZE0w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-09-01-001",
     "date": "2026-09-01",
     "companies": [
@@ -1077,6 +1387,47 @@
     ]
   },
   {
+    "id": "lg_elec-2026-09-01-019",
+    "date": "2026-09-01",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display’s strategic hiring signals a focus on OLED innovation amid workforce restructuring - globalsources.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOamE2c1FjYm5SN2Z5SDF5SV9NUmVFb0gyQ01GeUVCZm9PR1RJWENrVWFHNUkxNVlGZURIU2ZyWWd1S09ha0lxbXBSck5laHRVdks1dVJ2SlhpS1FmUGZDVmRiRFpIMm05dlNCMm90bT",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOamE2c1FjYm5SN2Z5SDF5SV9NUmVFb0gyQ01GeUVCZm9PR1RJWENrVWFHNUkxNVlGZURIU2ZyWWd1S09ha0lxbXBSck5laHRVdks1dVJ2SlhpS1FmUGZDVmRiRFpIMm05dlNCMm90bTExRGo1R1BhZ2ZYLWVVUnJJTU5BdVpJcjE1aHFsbmlMLVlfb0Q2d1lHa3ZRWXd5WWQyQkJ4Vlh2dXVFOVkxYVJ0WHpyT09JZmdzTjBOdlU5VVZteVJLeVlxeklOTEJKOVdwdUJvbWpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-01-020",
+    "date": "2026-09-01",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung accused of selling ‘Mini LED’ TVs that don’t actually have Mini LED tech - independent.co.uk",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQbFNrcEp1RUJrZFNQYm8wcWFhTmI2TTQtOXhVd3lwczNMeEFER0ZaUC1RSjBQZDNuQVZrdmJkX3ZtRHhMbE9KVGpUZDYyanNGamo1VElMdlFVWDU1SE1kUnpMbnZ4MEM3ZkZfdERVc2",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbFNrcEp1RUJrZFNQYm8wcWFhTmI2TTQtOXhVd3lwczNMeEFER0ZaUC1RSjBQZDNuQVZrdmJkX3ZtRHhMbE9KVGpUZDYyanNGamo1VElMdlFVWDU1SE1kUnpMbnZ4MEM3ZkZfdERVc2pWRzBYTnJaZm5rcTJhUEtRem9rLVJ3czc5WjN4bnYteTMxSGg2Y2NJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-08-31-001",
     "date": "2026-08-31",
     "companies": [
@@ -1404,6 +1755,60 @@
       {
         "name": "vizio",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT2xyaEhFRlNkT1I1MlVRdjZvellWWFh5UlItNGRGeFdXWEN3T2JUZTRrbzZ4WjRCbjRwQ0FlTmduZVI0N0hoTUl1STJzcTBNT0JVeEl5N003VGpvT1Y4MTF0RF9HNGZoaS14VEZNbzlDSFQzMzhKeWdRQlZGeFFacXZhZmVDYU5NVzZld0ZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-08-31-019",
+    "date": "2026-08-31",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning (NYSE: GLW) vice chair sells 13,100 shares in August trade - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRFp3Y0VITlNuTUtZVlFhN0tnbFh2aS1hOWZaVmRSVXc2NHpKLU40SlhTS3dwOUxrWE52VjFLMXhDRTJoTE5FUWR5Z0c4Z2JzRDVOdmU0aDdvLTJMTVhxdVZ5YzVVaDZlMlRYRjBNZn",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRFp3Y0VITlNuTUtZVlFhN0tnbFh2aS1hOWZaVmRSVXc2NHpKLU40SlhTS3dwOUxrWE52VjFLMXhDRTJoTE5FUWR5Z0c4Z2JzRDVOdmU0aDdvLTJMTVhxdVZ5YzVVaDZlMlRYRjBNZnhnM0hvcTJpWDRtQTdrZFRpTU5lMzlMRUdCUFNZcG9TaWU0b3hnLVhpS2FRc3Y1S2RSMkh1SlRES1h3TWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-08-31-020",
+    "date": "2026-08-31",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "$Japan Display (6740.JP)$ Buying from the morning on ☀️ - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOUU42cnRyZjhWUC1VQVJ6REtOTzNuRkI5SEIwQWU0QjlZU08xaWRKZ1NBYl8zcV81b2QyaXNUME8zdHk2bDdsOTJMcUF6Q01zRnN4dGZscEFCcXJVazVwRFVCamVLUzRTbklKUGhWWW",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUU42cnRyZjhWUC1VQVJ6REtOTzNuRkI5SEIwQWU0QjlZU08xaWRKZ1NBYl8zcV81b2QyaXNUME8zdHk2bDdsOTJMcUF6Q01zRnN4dGZscEFCcXJVazVwRFVCamVLUzRTbklKUGhWWWRFTXlZRWdINF9JUDVmSGJrUXhHaHBpVE9qWkE1SnlnV1FqajY4bkMybHZfckRsazdT?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-021",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "SKYWORTH Sets New Quality/Performance Benchmark in Premium QD-Mini LED Art TVs with the Introduction of the C2 Canvas Art® TV - prnewswire.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQT1hhWTF2RXR3aFFlWmZOV3NqdnY5ZmZGNVZDM1lnX1lselBpRXZlTnNYV3cyc0ZITjNpa1dDTjJjMWdNVjRFTmdyQkNoeWRMUE82OUdFREcybkdaeWtjSnBsYklyYS15LWdFZVhJRE",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQT1hhWTF2RXR3aFFlWmZOV3NqdnY5ZmZGNVZDM1lnX1lselBpRXZlTnNYV3cyc0ZITjNpa1dDTjJjMWdNVjRFTmdyQkNoeWRMUE82OUdFREcybkdaeWtjSnBsYklyYS15LWdFZVhJRElPYWN2Q19ldGJSX2lNV1R4UVU4THd6alU1aGlEeWczc0ktdXhBY3FEUjVEV1psVlJORVdtMXdTcThpRTVMY3VwVTZpd1FJbFlMVXBGZ0tkYmdCV0FjT0xYMDB0ckxmek5hNExmWEpBeXRrQm5aNjZvMHBzYXRaN1Y5V0NiSTFTQWxqc21iUktYNzF3STlXaEwzb3BNQ01HcTh2N0U?oc=5",
         "type": "rss"
       }
     ]
