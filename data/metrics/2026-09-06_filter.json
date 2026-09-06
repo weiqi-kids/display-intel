@@ -1,0 +1,16 @@
+{
+  "total_raw": 377,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 190,
+  "gate1_fail": 38,
+  "gate2_fail": 13,
+  "passed": 13,
+  "gate2_samples": [
+    "Corning (NYSE: GLW) CFO to discuss Springboard plan at Citi TMT event - Stock Titan",
+    "Vice Chairman Of Corning Sold 47% Of Their Shares - simplywall.st",
+    "Technical Analysis of Corning Incorporated (CRYPTOCOM:GLWUSD.P) - TradingView",
+    "Corning Inc Stock (GLW) Moved Down by 3.38% on Sep 1: What Investors Need To Know - TradingKey",
+    "Price to sales forward of Canon Inc. – HAM:CNN1 - TradingView"
+  ]
+}

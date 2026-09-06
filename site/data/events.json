@@ -38,6 +38,143 @@
     ]
   },
   {
+    "id": "csot-2026-09-05-003",
+    "date": "2026-09-05",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "TCL CSOT Showcase Further IJP OLED Panels at IFA 2026 - TFTCentral",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalpqcVZWaHV6WHNtSWs3V1I0WXZaTTdoMkxPRGI2MnZJLW9RWDYyWFNSLVBldVJVenVUYU9fTGt5WnJlZ3A0bWxxSkI5MUZpM0VBT0FQalZOOVRZT25NRC0ybjUybzZQNDFIV0E1Sm",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalpqcVZWaHV6WHNtSWs3V1I0WXZaTTdoMkxPRGI2MnZJLW9RWDYyWFNSLVBldVJVenVUYU9fTGt5WnJlZ3A0bWxxSkI5MUZpM0VBT0FQalZOOVRZT25NRC0ybjUybzZQNDFIV0E1SmM0VGZkQzRkbUV0X0hNbW5TM1RrMU5jcTRjaFJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-004",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Researchers use a green OLED display connected to a series of organic photodetectors to create a self-powered NIR image display",
+    "summary": "<p>Researchers from the Institute for Materials Research (IUMAT) in Belgium have utilized a green OLED and five organic NIR photodetectors, to create a tiny monolithic upconvertor, that turns invisibl",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/researchers-use-green-oled-display-connected-series-organic-photodetectors",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-005",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Credoxys raises its Series A funding round to accelerate its p-dopant OLED technology R&D and commercialization",
+    "summary": "<p>Germany-based <a href=\"https://www.oled-info.com/credoxys\">Credoxys</a> successfully completed its Series A funding round, co-led by Ventech and eCAPITAL. Credoxys will use the funds to scale-up it",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/credoxys-raises-its-series-funding-round-accelerate-its-p-dopant-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-05-006",
+    "date": "2026-09-05",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "TCL P80 Ultra",
+    "summary": "<p>TCL's P80 Ultra is the company's first phone to utilize an <a href=\"https://www.oled-info.com/tcl-developed-new-nxtpaper-eye-care-display-technology-based-amoled-panels\">AMOLED NxtPaper display</a>",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/tcl-p80-ultra",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "csot-2026-09-05-007",
+    "date": "2026-09-05",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Lenovo ThinkVision P27UL-40",
+    "summary": "<p>Lenovo's ThinkVision P27UL-40 professional creator monitor that uses a 27\" 4K (164 PPI) 120Hz and Real RGB Stripe TCL CSOT's <a href=\"https://www.oled-info.com/tags/oled-ink-jet-printing\">inkjet pr",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/lenovo-thinkvision-p27ul-40",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-008",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "I-Chiun eyes Nvidia Vera Rubin supply chain as thermal business nears half of sales",
+    "summary": "I-Chiun Precision Industry is accelerating its shift from LED lead frames into high-end thermal solutions, with thermal products now accounting for 40-45% of revenue. The company expects the share to ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260903PD226/i-chiun-business-nvidia-supply-chain-rubin.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-05-009",
+    "date": "2026-09-05",
+    "companies": [
+      "samsung_elec",
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL sues Samsung over ‘Mini LED’ branding - dailynews.co.tz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBXYkhhS2wyMWEzVGJtSktta0Zzb1duOHhYcDl3a2Z2aXo4NHl3Um5LQm1mdXdFbU9QUVU0X0lEUmFLZUthTTZ6SG0zRURHQ196MlRxOUJmbkd3MWdwLUk2ZE5NZHhHNGtYT3hSWEJTSF",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXYkhhS2wyMWEzVGJtSktta0Zzb1duOHhYcDl3a2Z2aXo4NHl3Um5LQm1mdXdFbU9QUVU0X0lEUmFLZUthTTZ6SG0zRURHQ196MlRxOUJmbkd3MWdwLUk2ZE5NZHhHNGtYT3hSWEJTSFN0UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "novatek-2026-09-04-001",
     "date": "2026-09-04",
     "companies": [
@@ -432,6 +569,107 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOHlzQk5NNzhlTnFlSGxGb2pwQW9yQk9nS1VqSkU5aTE2YVprbUVlRnNsaE1jM3ZjcE5CeVZsNzEwN3hwdERSY0FYVHU4SVZGNFVtZlJ5NmlFcmNzQ1VPcVYyd1NPNnVEQm5FSjdyS0Jrcmpwc1pINFp0di1pS2Vfa3BCak5rS0RFZTRCS2l2cnJRX05KMThPVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-09-04-022",
+    "date": "2026-09-04",
+    "companies": [
+      "boe",
+      "lg_display",
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "BOE’s iPhone OLED decline bolsters Samsung and LG Display - Sammy Fans",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHl6RG5QcVl1VUVaajBYMVNxX2NwYXNuSEs0TEhNbDQyZm9wRkpSWVctcFV6NEc4VDVXaWNaMHh5RnB4N3N5YkRYMkZTVUtBVFB2YmNzOHVVQU1LQ0cxUndLbkszYWhJRnJTZVpYOG",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHl6RG5QcVl1VUVaajBYMVNxX2NwYXNuSEs0TEhNbDQyZm9wRkpSWVctcFV6NEc4VDVXaWNaMHh5RnB4N3N5YkRYMkZTVUtBVFB2YmNzOHVVQU1LQ0cxUndLbkszYWhJRnJTZVpYOGVBT21lMVE0XzZSckd1SmdEWVQ4REnSAYoBQVVfeXFMT2R3bzJ4VHpOa1djeUVFbzFNUngyUkROUHNBTkMtU0xvQm5zSXNMeUQyN0h0VU44ZFl2MWlRSlFtd2V6WUtIVVhJMVVwZTFPU0QtWjVvQTdHcnJua0V0LTV6YzVjNVlFbVJRckNZS2xmUzNUaU93V1lEYmRKdWZDYVpCOWtGdEZDOGh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "csot-2026-09-04-023",
+    "date": "2026-09-04",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL CSOT Showcases Latest Display Innovations at IFA 2026, Shaping the Future of Visual Experiences - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNkJ1OWFxLWk0VmJ6cHgwY3J0eDFGTzFFOEJNMDBVWmhHM0RJQlhJV0hjNHZ2SThELWl3bDMxdGJNeU4tYTBNckdIbmJ0eXA0b05MbVFtelRCZnRQYmZweUtJQzJGRElzaGhEVXBraH",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNkJ1OWFxLWk0VmJ6cHgwY3J0eDFGTzFFOEJNMDBVWmhHM0RJQlhJV0hjNHZ2SThELWl3bDMxdGJNeU4tYTBNckdIbmJ0eXA0b05MbVFtelRCZnRQYmZweUtJQzJGRElzaGhEVXBraHhMc2NMbHJIYjExS3p3UGo1Y3pWUTNOSGVCdWN2T2d1MnY1cnk3azdRc0JsSktvWUlPejVONFpiZzA2S3Q1WjhhWWhZVENETk1QNUtxOHFZTjNJVGo3Ti1oNWdlenFvV09KaTNPVzE5dGhVVWR2NGw0UHNZNFZuQk5PSEVTa1NOYjk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-04-024",
+    "date": "2026-09-04",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Li Auto launches the 2026 Mega Home MPV, with a 29\" 6K AMOLED display",
+    "summary": "<p>Chinese car maker announced its 2026 Mega Home MPV, sporting two AMOLED displays. The main information screen is a 29\" 6K AMOLED, and the car also includes a rear-seat removable 21\" 4K OLED display",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/li-auto-launches-2026-mega-home-mpv-29-6k-amoled-display",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-09-04-025",
+    "date": "2026-09-04",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "AUO sells its AFPD display fab in Singapore to Western Digital",
+    "summary": "<p>AUO announced that Western Digital agreed to buy its 4.5-Gen AFPD production line in Singapore, for around $275 million USD. The fab will likely be converted to a memory fab.&nbsp;</p><img data-ent",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/auo-sells-its-afpd-display-fab-singapore-western-digital",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-09-04-026",
+    "date": "2026-09-04",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "The 2027 Genesis G90 to use a 18-inch flexible OLED display supplied by LG Display",
+    "summary": "<p>A report from Korea claims that Genesis will launch its new upgraded G90 car later this year. The main information display will be a 18-inch flexible AMOLED display, produced by LG Display.</p><p><",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/2027-genesis-g90-use-18-inch-flexible-oled-display-supplied-lg-display",
         "type": "rss"
       }
     ]
@@ -1423,6 +1661,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbFNrcEp1RUJrZFNQYm8wcWFhTmI2TTQtOXhVd3lwczNMeEFER0ZaUC1RSjBQZDNuQVZrdmJkX3ZtRHhMbE9KVGpUZDYyanNGamo1VElMdlFVWDU1SE1kUnpMbnZ4MEM3ZkZfdERVc2pWRzBYTnJaZm5rcTJhUEtRem9rLVJ3czc5WjN4bnYteTMxSGg2Y2NJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-09-01-021",
+    "date": "2026-09-01",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Canon U.S.A. Introduces New Advanced Features Across Canon’s Leading 4K PTZ Remote Camera System via Firmware Updates - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPcHV1TU9XNnVaTV9tY1gwajF2alRIMXR5ZHU4YWVId3hHRjhBVHhvdXhEVkNJV01YQzQtVzhkeUdZSDYzUkxqeVI1UWtIM1RmaFNuRVhqakNBaWt6Q0Z1ekxlYV9Cc0xEb2tqNmY0dV",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcHV1TU9XNnVaTV9tY1gwajF2alRIMXR5ZHU4YWVId3hHRjhBVHhvdXhEVkNJV01YQzQtVzhkeUdZSDYzUkxqeVI1UWtIM1RmaFNuRVhqakNBaWt6Q0Z1ekxlYV9Cc0xEb2tqNmY0dVcteURDYkRGUl9jenhBbnhIamNpUFJydUYxc3FCTkZJX2hGT2V6R0YwVGF6Zlk3dw?oc=5",
         "type": "rss"
       }
     ]
