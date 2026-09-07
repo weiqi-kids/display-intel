@@ -1,5 +1,364 @@
 [
   {
+    "id": "lg_elec-2026-09-07-001",
+    "date": "2026-09-07",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "panel_price",
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display becomes Sharp’s sole OLED TV panel supplier amid shift to premium models - KED Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBvZW1YbkJlOEFKZXpOM0dJWkRVbFFmSzdvaFdZTGdSMnBRYm11QWNpZDhYWHluSExiUHJEb2FlcDYxS3JVVmhnZ0xBTVNRWVBWWFc3RUp4T1JWMlR5cmxRT1l4ZkU2S2hkd2NwUno3cz",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvZW1YbkJlOEFKZXpOM0dJWkRVbFFmSzdvaFdZTGdSMnBRYm11QWNpZDhYWHluSExiUHJEb2FlcDYxS3JVVmhnZ0xBTVNRWVBWWFc3RUp4T1JWMlR5cmxRT1l4ZkU2S2hkd2NwUno3czNEQUdLaW5CNjV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-07-002",
+    "date": "2026-09-07",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Immaculate Engineering Meets Artistic Imagination: Highlights From Design Miami Seoul 2026",
+    "summary": "What happens when human imagination, artificial intelligence, art and technology come together?  From September 1 to 6, Samsung Electronics presented a special exhibition themed “Design is an Act of L",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/immaculate-engineering-meets-artistic-imagination-highlights-from-design-miami-seoul-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-07-003",
+    "date": "2026-09-07",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Medison Expands Women’s Health Diagnostic Portfolio With Launch of Premium Ultrasound ‘HERA Z10’",
+    "summary": "Samsung Medison launched its premium obstetrics and gynecology (OB/GYN) ultrasound diagnostic system, the HERA Z10. Alongside the flagship HERA Z20, the new system officially completes the HERA Z Seri",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-medison-expands-womens-health-diagnostic-portfolio-with-launch-of-premium-ultrasound-hera-z10",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-07-004",
+    "date": "2026-09-07",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Enhances Long-Term Value of Refrigerators and Laundry Appliances With AI-Focused Software Updates",
+    "summary": "Samsung Electronics today announced major software updates for select refrigerators and laundry appliances. Beginning in September, the update to Tizen OS 10.0 will bring key services and features to ",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-enhances-long-term-value-of-refrigerators-and-laundry-appliances-with-ai-focused-software-updates",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-07-005",
+    "date": "2026-09-07",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Reports suggest that Apple's iPhone Fold production is very limited due to the hinge component",
+    "summary": "<p>As Apple gets ready to announce the first foldable iPhone later this week, Samsung Display has already <a href=\"https://www.oled-info.com/samsung-display-starts-producing-foldable-oleds-apples-firs",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/reports-suggest-apples-iphone-fold-production-very-limited-due-hinge-component",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-07-006",
+    "date": "2026-09-07",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Huawei Mate XT 2 Ultimate",
+    "summary": "<p>Huawei's 2nd-generation tri-folding smartphone has a large 10.2\" 2232x3184 90Hz &nbsp;LTPO foldable AMOLED display, and an external 6.5\" 120Hz 1140x2442 LTPO AMOLED.&nbsp;</p><img data-entity-uuid=",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/huawei-mate-xt-2-ultimate",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-07-007",
+    "date": "2026-09-07",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "The OLED Library keeps growing, OLED-Info Pro customers now have access to over 250 documents",
+    "summary": "<p>The OLED industry moves fast — and keeping track of every new presentation, datasheet, and company report can be a challenge. That’s why we created the<strong> </strong><a href=\"https://www.oled-in",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/oled-library-keeps-growing-oled-info-pro-customers-now-have-access-over-250",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-07-008",
+    "date": "2026-09-07",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "SK Hynix reportedly ends LG eSSD talks as ASICLAND deal expands",
+    "summary": "SK Hynix reportedly ended talks with LG Electronics over outsourcing part of the backend design for a next-generation enterprise SSD (eSSD) controller, but the memory maker told <em>DIGITIMES</em> tha",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260907VL218/sk-hynix-design-lg-outsourcing-lg-electronics.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-07-009",
+    "date": "2026-09-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smartphone lens shipments lift Genius Electronic Optical revenue 12% in August",
+    "summary": "Optical lens maker Genius Electronic Optical (GSEO) reported consolidated revenue of NT$2.72 billion (&asymp; US$86 million) for August 2026, up 12.26% from NT$2.42 billion in July and up 0.72%, or ab",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260907PD237/gseo-revenue-lens-maker-shipments-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-07-010",
+    "date": "2026-09-07",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "South Korea secures US$2B from Air Products, Axcelis, Corning, Pacifico Energy to bolster supply chains",
+    "summary": "Four major US technology companies have committed a combined US$2 billion to investments across South Korea's semiconductor materials, equipment, and clean energy sectors. The move is expected to rein",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260907PD233/technology-corning-axcelis-investment-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-07-011",
+    "date": "2026-09-07",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "HBM4 squeezes DRAM supply as Samsung, SK Hynix inventories fall below 10 days",
+    "summary": "Memory inventories at Samsung Electronics and SK Hynix have fallen below 10 days of supply as AI infrastructure spending drives simultaneous demand for HBM, server DRAM and enterprise SSDs, according ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260907VL217/samsung-sk-hynix-dram-hbm4-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-07-012",
+    "date": "2026-09-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Kian Shen lifts Taiwan mix as China exports gain traction",
+    "summary": "In a two-part strategy to drive growth, auto components maker Kian Shen Industrial, a division of Yulon Motor Group, is ramping up its Taiwan business while shifting its China-based investments toward",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260907PD226/taiwan-exports-business-yulon-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-07-013",
+    "date": "2026-09-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Model fatigue, China's price pressure, and a profit horizon still years away",
+    "summary": "The AI industry's release calendar has compressed to the point where a single week can carry five frontier or near-frontier launches, but the acceleration is not a sign of confidence. It is a defensiv",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260907VL206/price-anthropic-openai-claude-2030.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-07-014",
+    "date": "2026-09-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Largan expects higher September output after sixth land acquisition",
+    "summary": "As the countdown to Apple's latest iPhone launch enters its final stretch, market attention is zeroing in on Taiwanese optical component suppliers. Leading lens maker Largan Precision reported its lat",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260907PD218/iphone-apple-launch-acquisition-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-07-015",
+    "date": "2026-09-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Phison snaps up low-cost China NAND inventory, AI revenue share set to top 40%",
+    "summary": "Phison CEO K.S. Pua expects NAND Flash supply to remain tight into 2027 despite capacity expansion across major memory makers, arguing that forecasts of a rapid return to oversupply are \"too naive.\"",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260907PD211/phison-nand-flash-inventory-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-07-016",
+    "date": "2026-09-07",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "TCL accuses mobile Company of misleading ‘Mini LED’ claims - ippmedia.co.tz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNMVJTUXh2aUZMaEpfMVE5TEhDOXVkVG05NW9xc1R5dHhoaGI1aU1iWE9Eb2NnMUoxUmZ0OGtib0N2M0FsdDNZOUJsZ3g1ZTR3bG9kSDhPVEtJUGtsSWRsenE3NFZIOTItaThLeXA0U1",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMVJTUXh2aUZMaEpfMVE5TEhDOXVkVG05NW9xc1R5dHhoaGI1aU1iWE9Eb2NnMUoxUmZ0OGtib0N2M0FsdDNZOUJsZ3g1ZTR3bG9kSDhPVEtJUGtsSWRsenE3NFZIOTItaThLeXA0U1NraHV1ZXpEMVlZcFR4UnZlUVpUZkx0Ylh4NGZmbEl3Z3E1V25xNkdISzJ3d2gtbUtzZ0N5OEZkRktQVFhaUVlHSG03cFYtVWhRM2RnWkFSU3VBZEVsamJqV3VGWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-06-001",
+    "date": "2026-09-06",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Courts European B2B Clients with Tandem WOLED; Non-FMM 'Flip' Investment Decision Looms - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5venM3QnhqMHR4S2I3UGJSelVVYWliY01pNE9Wd01VVUVrZG1yZHhTRWVfQlg5UHBmaUhSa3VMcG5xS1g3b3l6dm1TbnpjQUhaTXlfS0x0WXlsSDZhU1NORkJVcllSVmVlS19TNFpMTE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5venM3QnhqMHR4S2I3UGJSelVVYWliY01pNE9Wd01VVUVrZG1yZHhTRWVfQlg5UHBmaUhSa3VMcG5xS1g3b3l6dm1TbnpjQUhaTXlfS0x0WXlsSDZhU1NORkJVcllSVmVlS19TNFpMTEpPY1ZTOEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-06-002",
+    "date": "2026-09-06",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Courts European Buyers With Tandem WOLED Panels - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQb3JhWlBFQUh1XzlRQkQzNzB4azdxRWV4VXRVT2gxbnBIQTBiSUY1R1kyRm9Xazd0VV9qcDhOU25zLThlRlZiNFBvanV2d1lsem1aM2V4U09qZE9qcXluYVVoOEpKbmM5SVNZYVRLQl",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb3JhWlBFQUh1XzlRQkQzNzB4azdxRWV4VXRVT2gxbnBIQTBiSUY1R1kyRm9Xazd0VV9qcDhOU25zLThlRlZiNFBvanV2d1lsem1aM2V4U09qZE9qcXluYVVoOEpKbmM5SVNZYVRLQlluODJnRTJqV0RuTS0zbTZiU3A1ekN4WVRDNzdjeGxlNjhoQ181U0puaFZxRVdmd1lRbHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-06-003",
+    "date": "2026-09-06",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display hosts private Tandem WOLED tech show at IFA 2026 to court European customers - 헤럴드경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mZ09pSE1mQURfXzRUMkZLaS1UVWNCUHZJU3RnREYycS14QmllRVE4cHhZZEVQVGFvcVRHcTh5b1AtMUZHOTVWZTlCeUNpckV5VEgyU01Law?oc=5\" target=\"_blank\">LG Displa",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mZ09pSE1mQURfXzRUMkZLaS1UVWNCUHZJU3RnREYycS14QmllRVE4cHhZZEVQVGFvcVRHcTh5b1AtMUZHOTVWZTlCeUNpckV5VEgyU01Law?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-09-05-001",
     "date": "2026-09-05",
     "companies": [
@@ -857,6 +1216,42 @@
     ]
   },
   {
+    "id": "unknown-2026-09-03-011",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Should You Bet on GLW Stock Amid Rising Earnings Estimate Revisions? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQUF9fUFRKOFZrRWgtZlR6dk9XY1B3eWxaMVNDRUlLenpwcDE3UjZRVUFIb3MzSVBBNzJweFJPMldxLVpzOWpmQmVfN1JQU01kZmJfZE4tTDdnYjl5azRJeTJ3WHUxYTZBbE4zVTVzbn",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUF9fUFRKOFZrRWgtZlR6dk9XY1B3eWxaMVNDRUlLenpwcDE3UjZRVUFIb3MzSVBBNzJweFJPMldxLVpzOWpmQmVfN1JQU01kZmJfZE4tTDdnYjl5azRJeTJ3WHUxYTZBbE4zVTVzbnAyYjNmb2NwTHZPY2NqTVJWcFJfTjZxeThieXVmR1F4WTRxTGlQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-09-03-012",
+    "date": "2026-09-03",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Inc.'s Equity Buyback announced on January 29, 2026, has closed with 45,331,900 shares, representing 5.22% for ¥199,999.72 million. - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZHd0MFg5amg4VWhMcmludjBaTWRSaDRVWGxRbXZSR3BvYVRPMDZnUXQ1aUJ4VExNSThNMkx2dzN2QUhKZWtCNVRZU1Q1TWZQbUYzc0xRZHIyM3l0ZkVBV2FhMzJIOGRwdVdzdXdJRE",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZHd0MFg5amg4VWhMcmludjBaTWRSaDRVWGxRbXZSR3BvYVRPMDZnUXQ1aUJ4VExNSThNMkx2dzN2QUhKZWtCNVRZU1Q1TWZQbUYzc0xRZHIyM3l0ZkVBV2FhMzJIOGRwdVdzdXdJREZUWG5xeWVmOFI4ckJlTE1yNENNWXd3X1hPckdtd0FwdnJkUGhHRk9XSzREZmltUTk0Z25yR2hGLVViUmo5RkxWZGVLTkZkU1BETGp6TmdTS2l2bktYYTI0LXQzNWJ0eURxTDlvOXR1aGZJX0hXemE1N0dFbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-09-02-001",
     "date": "2026-09-02",
     "companies": [
@@ -1285,6 +1680,27 @@
     ]
   },
   {
+    "id": "samsung_elec-2026-09-02-023",
+    "date": "2026-09-02",
+    "companies": [
+      "samsung_elec",
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL has taken Samsung to court over the sale of 'fake' Mini LED televisions - mezha.ua",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE03XzVUemhVQ0dvLUx4VTFCX0R3ZGZSLUZFcU5Ta0RMQm5QNkE0RjNHSnZRNWxDanhpbXlmbXVZWW8zdWVqajMydXpTZnRvZkMyR1o3RjRLbkZkUXR4dFA2SXdGZUlWZmN5dmFxV2RBWW",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03XzVUemhVQ0dvLUx4VTFCX0R3ZGZSLUZFcU5Ta0RMQm5QNkE0RjNHSnZRNWxDanhpbXlmbXVZWW8zdWVqajMydXpTZnRvZkMyR1o3RjRLbkZkUXR4dFA2SXdGZUlWZmN5dmFxV2RBWWRnTnJfUGdmQld3X2XSAYIBQVVfeXFMUGxiN1lQQjd3b3VXZmpOdFBGbXJZY0w4eVR3c2lyMWtsYjltdkg4dDZza09HRkhISVBJeVlYd2RfRWd5UUhZVnBfaU45Y3Atb2hzWDFqSXNjUmgxWm1WVnN5VGh5SVhRVy1CNmRpRG9PTV9scWRSUW93ay12YXByWjYydw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-09-01-001",
     "date": "2026-09-01",
     "companies": [
@@ -1674,6 +2090,24 @@
     "topics": [],
     "impact": "negative",
     "title": "Canon U.S.A. Introduces New Advanced Features Across Canon’s Leading 4K PTZ Remote Camera System via Firmware Updates - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPcHV1TU9XNnVaTV9tY1gwajF2alRIMXR5ZHU4YWVId3hHRjhBVHhvdXhEVkNJV01YQzQtVzhkeUdZSDYzUkxqeVI1UWtIM1RmaFNuRVhqakNBaWt6Q0Z1ekxlYV9Cc0xEb2tqNmY0dV",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcHV1TU9XNnVaTV9tY1gwajF2alRIMXR5ZHU4YWVId3hHRjhBVHhvdXhEVkNJV01YQzQtVzhkeUdZSDYzUkxqeVI1UWtIM1RmaFNuRVhqakNBaWt6Q0Z1ekxlYV9Cc0xEb2tqNmY0dVcteURDYkRGUl9jenhBbnhIamNpUFJydUYxc3FCTkZJX2hGT2V6R0YwVGF6Zlk3dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-09-01-022",
+    "date": "2026-09-01",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Canon U.S.A. Introduces New Advanced Features Across Canon’s Leading 4K PTZ Remote Camera System via Firmware Updates - Yahoo Finance",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPcHV1TU9XNnVaTV9tY1gwajF2alRIMXR5ZHU4YWVId3hHRjhBVHhvdXhEVkNJV01YQzQtVzhkeUdZSDYzUkxqeVI1UWtIM1RmaFNuRVhqakNBaWt6Q0Z1ekxlYV9Cc0xEb2tqNmY0dV",
     "sources": [
       {

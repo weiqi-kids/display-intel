@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T11:57:39.687348+00:00",
+  "updated_at": "2026-09-07T13:58:44.565246+00:00",
   "companies": {
     "corning": {
       "name": "Corning Incorporated",
@@ -144,7 +144,7 @@
           "holder": "Oregon Public Employees Retirement Fund",
           "shares": 761700,
           "pct_held": 0.06,
-          "value": 3515245500
+          "value": 3429173400
         }
       ]
     },
@@ -275,10 +275,10 @@
           "value": 24049900
         },
         {
-          "holder": "iShares Trust-iShares Core MSCI Pacific ETF",
-          "shares": 218200,
-          "pct_held": 0.0,
-          "value": 10255400
+          "holder": "Fidelity Concord Street TRT-Fidelity SAI Intl Small Cap Index Fd.",
+          "shares": 227500,
+          "pct_held": 0.01,
+          "value": 10692500
         }
       ]
     },
@@ -291,31 +291,31 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 732033,
           "pct_held": 0.01,
-          "value": 187034431500
+          "value": 197648910000
         },
         {
           "holder": "Stanley-Laman Group, Ltd.",
           "shares": 20000,
           "pct_held": 0.0,
-          "value": 5110000000
+          "value": 5400000000
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 29000,
           "pct_held": 0.0,
-          "value": 7409500000
+          "value": 7830000000
         },
         {
           "holder": "RNC Capital Management LLC",
           "shares": 936,
           "pct_held": 0.0,
-          "value": 239148000
+          "value": 252720000
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 100222,
           "pct_held": 0.0,
-          "value": 25606721000
+          "value": 27059940000
         }
       ]
     },
@@ -328,25 +328,25 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 4616050,
           "pct_held": 0.08,
-          "value": 17933354250
+          "value": 17448669000
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 1769342,
           "pct_held": 0.03,
-          "value": 6873893670
+          "value": 6688112760
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 1169,
           "pct_held": 0.0,
-          "value": 4541565
+          "value": 4418820
         },
         {
           "holder": "Meyer Handelman Co",
           "shares": 11862,
           "pct_held": 0.0,
-          "value": 46083870
+          "value": 44838360
         }
       ]
     }

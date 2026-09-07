@@ -1,0 +1,16 @@
+{
+  "total_raw": 377,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 181,
+  "gate1_fail": 35,
+  "gate2_fail": 11,
+  "passed": 23,
+  "gate2_samples": [
+    "Corning (NYSE: GLW) CFO to discuss Springboard plan at Citi TMT event - Stock Titan",
+    "Vice Chairman Of Corning Sold 47% Of Their Shares - simplywall.st",
+    "Corning Inc Stock (GLW) Moved Down by 3.38% on Sep 1: What Investors Need To Know - TradingKey",
+    "Price to sales forward of Canon Inc. – TSE:7751 - TradingView",
+    "Canon U.S.A. Names 31-Year Company Veteran Takaaki Tanaka CFO - citybiz"
+  ]
+}
