@@ -1,5 +1,228 @@
 [
   {
+    "id": "himax-2026-09-08-001",
+    "date": "2026-09-08",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies Unveils Automotive eDP TDDI for Large-Format Smart Car Displays - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaE1CaTF2OEREaDlXT2JIM1JBbG9JYUVIYmZ5WlltMmZBSVJ4TmsxU09QWkpWRE42cmtyaVhoYzZzV1JtQmd0RUVIY051WnJ5MjRIeW9jYVB0ZEVPQ295bEFHMnFTQlV1cjU2WF9zY0",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaE1CaTF2OEREaDlXT2JIM1JBbG9JYUVIYmZ5WlltMmZBSVJ4TmsxU09QWkpWRE42cmtyaVhoYzZzV1JtQmd0RUVIY051WnJ5MjRIeW9jYVB0ZEVPQ295bEFHMnFTQlV1cjU2WF9zY0lKRm02WE1mdzU3R2RVX1F3WDJvd04wb0lpTHZOdUxvRkNYX243anRaYkZCb1B2OGlGWjJHTTZzYk9SYVh6RGhyTFNmeW5lZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-09-08-002",
+    "date": "2026-09-08",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "positive",
+    "title": "Himax Unveils Industry-Leading eDP TDDI, Advancing Automotive Display Technology - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUHNFeFhlRXFMd3VvSnVyV1o2QnlFLWtMbTAxZ3BWeHNkVzRNc25EbDQySkNlV21FbGduQXhFeVZqSGZyLUV6RnJTZFRJYlc1dkpRdDZqQmd6b0hEOEk4Rlhpd3RQT2dVaU1KYWhKVX",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUHNFeFhlRXFMd3VvSnVyV1o2QnlFLWtMbTAxZ3BWeHNkVzRNc25EbDQySkNlV21FbGduQXhFeVZqSGZyLUV6RnJTZFRJYlc1dkpRdDZqQmd6b0hEOEk4Rlhpd3RQT2dVaU1KYWhKVXVpa1Zlem1QeDZMWWdMRk5oUGtnMERGY0x1LUdFQUgtamtrRVRrWWYtRXd4cUJDYkVXVTZzX2Rwc0E3d0FiNlJUektxZU94a01OTjlVekhleE5rLUgxcDAwT2c4bHBkLVQtcTNvdHAyZkxPVnR3ZkxueDdUMFhFRTRIZ0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-08-003",
+    "date": "2026-09-08",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung Electronics and ASML Expand Strategic Collaboration for Next-Generation Semiconductor Manufacturing",
+    "summary": "Samsung Electronics and ASML today announced an expansion of their long-standing strategic partnership, deepening collaboration on High NA EUV lithography and advanced semiconductor manufacturing tech",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-electronics-and-asml-expand-strategic-collaboration-for-next-generation-semiconductor-manufacturing",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-004",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "Memory prices are hitting OLED volumes, not OLED design wins",
+    "summary": "<p>The mood around AMOLED in 2026 has been gloomy, and with reason. Rising memory prices have squeezed handset bills of materials, the broader phone market is soft - analysts expect AMOLED smartphone ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/memory-prices-are-hitting-oled-volumes-not-oled-design-wins",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-005",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Ma-tek August revenue hits record, eyes U.S. FA, MA service in 2027",
+    "summary": "MA-tek, a semiconductor testing and analysis company, reported August revenue of NT$565 million, up 17.78% from a year earlier and marking a record high for the sixth straight month. Revenue for the f",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260908PD236/revenue-packaging-demand-testing-north-america.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-08-006",
+    "date": "2026-09-08",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "US chip tariffs raise stakes for Samsung, SK Hynix's US memory plans",
+    "summary": "South Korea and the US are discussing semiconductor investments in the US as part of broader bilateral negotiations, bringing US chip tariff policy closer to the investment decisions facing Samsung El",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260907VL214/samsung-investment-sk-hynix-production-policy.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-007",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "PCB maker Zhen Ding tops US$634M August revenue on AI server, optical module demand",
+    "summary": "PCB maker Zhen Ding Technology (ZDT) said business momentum is accelerating as demand strengthens during the traditional peak season. In addition to continued stocking for new mobile communications pr",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260908PD224/pcb-zhen-ding-revenue-demand-ai-server.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-08-008",
+    "date": "2026-09-08",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Xiaomi debuts 18 fold to challenge Huawei and Samsung in wide-screen foldable race",
+    "summary": "The flagship foldable market has reached a pivotal turning point as tech giants abandon tall, narrow cover screens in favor of wider aspect ratios and custom processing hardware. Xiaomi's newly launch",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260908VL214/foldable-xiaomi-flagship-huawei-samsung.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-08-009",
+    "date": "2026-09-08",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung boosts Galaxy A series output as rivals cut lower-end phones",
+    "summary": "Samsung Electronics has moved to expand production of mid- to low-end smartphones from August to November 2026, according to South Korean media <em>Maeil Business Newspaper</em>. The plan comes as ris",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260908PD225/samsung-production-galaxy-2026-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-08-010",
+    "date": "2026-09-08",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "4 New TCL Mini LED Gaming Monitors, From a $499 FHD Panel to a 4K 165Hz Flagship - manofmany.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1VXzZtaHRvOXFNWHN5TTQ0VDVNandSNDQ5OFYyNDd5ak5Bdktfb29vZDVlNy01Yk9nTG5BdTVPdXlpcWk3amxhc2VMbjBiU0VYR3NQUFlxd01Gc2pRbERib3VXdG05OGpMemdwbU9Ia1",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VXzZtaHRvOXFNWHN5TTQ0VDVNandSNDQ5OFYyNDd5ak5Bdktfb29vZDVlNy01Yk9nTG5BdTVPdXlpcWk3amxhc2VMbjBiU0VYR3NQUFlxd01Gc2pRbERib3VXdG05OGpMemdwbU9Ia1FZaDduTFZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-011",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "C-TOUCH & DISPLAY SHENZHEN 2026 to Showcase Breakthroughs in Micro LED Optical Interconnects, AI+AR Smart Glasses and TGV Glass Substrates - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTR4UGZSWUxOeEZwRTRIZEZjZERRSm0tdG83YllPZWJRcHotNkI2N21aOHp2eVk0V2RWR2NYRlFOU1lwaUJDQ05BQ2ZmYlRXZkpGbGxjbXA3UUJhNlB4OWs2UFhJM1hwS0Zld21NRW",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTR4UGZSWUxOeEZwRTRIZEZjZERRSm0tdG83YllPZWJRcHotNkI2N21aOHp2eVk0V2RWR2NYRlFOU1lwaUJDQ05BQ2ZmYlRXZkpGbGxjbXA3UUJhNlB4OWs2UFhJM1hwS0Zld21NRW9lMGl0VmRTYVRBZjZpOC1LUGIweVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-012",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Acer unveils its first 1000Hz Full HD monitor alongside new 5K Mini LED and QD-OLED lineup - SoyaCincau",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmFhQkp1TXVJRHFrUEFBNWw0MDh1a0JFZ09DczBCSmFkZjFMU1FjVlZtejBmemtidWxWazVja0tXR1VkNkVXNk8xZGJOVUo3OThDVjNJOGI0STY0YTk0UWQ4YlQxR1V2c3ZjemN1Nm",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmFhQkp1TXVJRHFrUEFBNWw0MDh1a0JFZ09DczBCSmFkZjFMU1FjVlZtejBmemtidWxWazVja0tXR1VkNkVXNk8xZGJOVUo3OThDVjNJOGI0STY0YTk0UWQ4YlQxR1V2c3ZjemN1NmN0dU5LS1dyOENETUR4bnVoZ1RENEVBekRrLS1OOEgtcDZmMzhkWFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-09-07-001",
     "date": "2026-09-07",
     "companies": [
@@ -296,6 +519,30 @@
     ]
   },
   {
+    "id": "lg_display-2026-09-07-017",
+    "date": "2026-09-07",
+    "companies": [
+      "lg_display",
+      "sony",
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "panel_price",
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung, LG Display Split Sony's Premium OLED TV Panel Supply - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPcUFVM3RfUGR5eDhQU29kY2dDTVFuLVJYcTc5WUlpRkYzRlBVVkFkLW93WnhDa0hzS0lTRzI2QjMzeDAyMG9mcExPdm5xUDd2aGxieHFSX0hHY3JFNl90bzBiZnp3aTByOXVhQTVJVU",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcUFVM3RfUGR5eDhQU29kY2dDTVFuLVJYcTc5WUlpRkYzRlBVVkFkLW93WnhDa0hzS0lTRzI2QjMzeDAyMG9mcExPdm5xUDd2aGxieHFSX0hHY3JFNl90bzBiZnp3aTByOXVhQTVJVUp5WGZqMDc0azJVU1dRWnBCUWJIYWsySW9XVV9fZHJyYlNoWWNmLWVTa0k0bjdlNHo4aVY4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-09-06-001",
     "date": "2026-09-06",
     "companies": [
@@ -354,6 +601,27 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mZ09pSE1mQURfXzRUMkZLaS1UVWNCUHZJU3RnREYycS14QmllRVE4cHhZZEVQVGFvcVRHcTh5b1AtMUZHOTVWZTlCeUNpckV5VEgyU01Law?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-06-004",
+    "date": "2026-09-06",
+    "companies": [
+      "tcl",
+      "csot"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "TCL CSOT Unveils 28 Inch Tri Fold Inkjet Printed OLED Display - Technetbook",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNRk9jWm9sZ0xLRFFEYlBpZ19CcVppMFB3RERNYkkzWDQyamVoVzRJX084VUhlQUFaVFUxc0J4bWQyUzRyaGR2cjVlN3Z6N0c1Nl9VY0k5Sjl0REt4dHhmQ000OVhTR2Z2X3FsVG84Yk",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRk9jWm9sZ0xLRFFEYlBpZ19CcVppMFB3RERNYkkzWDQyamVoVzRJX084VUhlQUFaVFUxc0J4bWQyUzRyaGR2cjVlN3Z6N0c1Nl9VY0k5Sjl0REt4dHhmQ000OVhTR2Z2X3FsVG84YkFtazRUQmV5eHFCZWJFQ2lUMA?oc=5",
         "type": "rss"
       }
     ]
@@ -1034,6 +1302,27 @@
     ]
   },
   {
+    "id": "lg_display-2026-09-04-027",
+    "date": "2026-09-04",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "The 2027 Genesis G90 to use a 18-inch flexible OLED display supplied by LG Display - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPcXV0b0Q4ejhJLW5rX1Q1eGowQTd6NVJaekJKZ1V6ZlVzOHNfLXFrcFBMZnBGYUJKVjhOaHZjbzR0SW9kWF9FVVgzbG9ILWhMTVZNTEYwbzFlWDJiT2VxQTBob1RVR2pyajZWcF9meF",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcXV0b0Q4ejhJLW5rX1Q1eGowQTd6NVJaekJKZ1V6ZlVzOHNfLXFrcFBMZnBGYUJKVjhOaHZjbzR0SW9kWF9FVVgzbG9ILWhMTVZNTEYwbzFlWDJiT2VxQTBob1RVR2pyajZWcF9meFZrN0lidWFFUjBOSFktamVXQTVhUkZzTWhYQ0N4VWs4TTF0ZWwzUVJYSERORUc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-09-03-001",
     "date": "2026-09-03",
     "companies": [
@@ -1696,6 +1985,26 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03XzVUemhVQ0dvLUx4VTFCX0R3ZGZSLUZFcU5Ta0RMQm5QNkE0RjNHSnZRNWxDanhpbXlmbXVZWW8zdWVqajMydXpTZnRvZkMyR1o3RjRLbkZkUXR4dFA2SXdGZUlWZmN5dmFxV2RBWWRnTnJfUGdmQld3X2XSAYIBQVVfeXFMUGxiN1lQQjd3b3VXZmpOdFBGbXJZY0w4eVR3c2lyMWtsYjltdkg4dDZza09HRkhISVBJeVlYd2RfRWd5UUhZVnBfaU45Y3Atb2hzWDFqSXNjUmgxWm1WVnN5VGh5SVhRVy1CNmRpRG9PTV9scWRSUW93ay12YXByWjYydw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-02-024",
+    "date": "2026-09-02",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Showcases SQD-Mini LED TVs Alongside Premium Home Theater Audio and Commercial Display Solutions at CEDIA - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYWFFTVNhd1ZmSHZTYWZpa29MM05PNHF3cWN2WjFwemV2UHJYc2tidXREdVJzbEZkeTliS1JmRjVJXzdPdklpREYyMUp2SjU1Y19YYUFkRVpVeXlmNmU5WHpQYVJXeEp5Y1dvcTM2Qz",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYWFFTVNhd1ZmSHZTYWZpa29MM05PNHF3cWN2WjFwemV2UHJYc2tidXREdVJzbEZkeTliS1JmRjVJXzdPdklpREYyMUp2SjU1Y19YYUFkRVpVeXlmNmU5WHpQYVJXeEp5Y1dvcTM2QzV6MXo0V1VscWVUM2p2alBNX042empXbW5GMXc2TE4tMENHdmFFcVpoU19CR3BIanhnclUtSGNoRW1KdkRqcFVsZUpROENraTlIamc2aVYtWWVOTUJkRm5GRnQ3YThkUEQtOERSTFFVM2pEWFFDeDIwUDctU3hfWm9LTl9mdzNxN3pmYzZINWhmYTR4MDlEc00?oc=5",
         "type": "rss"
       }
     ]

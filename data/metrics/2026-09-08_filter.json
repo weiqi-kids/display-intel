@@ -1,0 +1,16 @@
+{
+  "total_raw": 373,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 187,
+  "gate1_fail": 32,
+  "gate2_fail": 12,
+  "passed": 16,
+  "gate2_samples": [
+    "Corning (NYSE: GLW) CFO to discuss Springboard plan at Citi TMT event - Stock Titan",
+    "Vice Chairman Of Corning Sold 47% Of Their Shares - simplywall.st",
+    "Will TUV‑Verified WiseEye Smart Locks Shift Himax Technologies' (HIMX) Biometric Narrative? - simply",
+    "Japan Display (TSE:6740) Just Gave Investors Something To Think About - simplywall.st",
+    "Gamescom 2026: Samsung Odyssey Breaks Boundaries — Supporting Every Way You Play"
+  ]
+}

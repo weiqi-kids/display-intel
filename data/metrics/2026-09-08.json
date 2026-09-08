@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-08",
+  "total_events": 12,
+  "by_company": {
+    "himax": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "samsung_elec": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "tcl": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "automotive_display": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "oled_penetration": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.75
+    },
+    "mini_led": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

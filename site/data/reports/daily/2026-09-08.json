@@ -1,0 +1,239 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T12:38:04.698322Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-08-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Ma-tek August revenue hits record, eyes U.S. FA, MA service in 2027",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260908PD236/revenue-packaging-demand-testing-north-america.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-08-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PCB maker Zhen Ding tops US$634M August revenue on AI server, optical module demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260908PD224/pcb-zhen-ding-revenue-demand-ai-server.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "himax-2026-09-08-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Himax Unveils Industry-Leading eDP TDDI, Advancing Automotive Display Technology - GlobeNewswire",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automotive_display"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUHNFeFhlRXFMd3VvSnVyV1o2QnlFLWtMbTAxZ3BWeHNkVzRNc25EbDQySkNlV21FbGduQXhFeVZqSGZyLUV6RnJTZFRJYlc1dkpRdDZqQmd6b0hEOEk4Rlhpd3RQT2dVaU1KYWhKVXVpa1Zlem1QeDZMWWdMRk5oUGtnMERGY0x1LUdFQUgtamtrRVRrWWYtRXd4cUJDYkVXVTZzX2Rwc0E3d0FiNlJUektxZU94a01OTjlVekhleE5rLUgxcDAwT2c4bHBkLVQtcTNvdHAyZkxPVnR3ZkxueDdUMFhFRTRIZ0E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-08-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Memory prices are hitting OLED volumes, not OLED design wins",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.oled-info.com/memory-prices-are-hitting-oled-volumes-not-oled-design-wins"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-08-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "C-TOUCH & DISPLAY SHENZHEN 2026 to Showcase Breakthroughs in Micro LED Optical Interconnects, AI+AR Smart Glasses and TGV Glass Substrates - Yahoo Finance Singapore",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTR4UGZSWUxOeEZwRTRIZEZjZERRSm0tdG83YllPZWJRcHotNkI2N21aOHp2eVk0V2RWR2NYRlFOU1lwaUJDQ05BQ2ZmYlRXZkpGbGxjbXA3UUJhNlB4OWs2UFhJM1hwS0Zld21NRW9lMGl0VmRTYVRBZjZpOC1LUGIweVk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automotive_display": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 4
+      },
+      {
+        "id": "himax",
+        "count": 2
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "mini_led",
+        "count": 3
+      },
+      {
+        "id": "automotive_display",
+        "count": 2
+      },
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 373,
+    "dup_title": 126,
+    "too_old": 187,
+    "gate1_blocked": 32,
+    "gate2_blocked": 12,
+    "passed": 16,
+    "pass_rate": "6.5%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Corning (NYSE: GLW) CFO to discuss Springboard plan at Citi TMT event - Stock Titan",
+      "Vice Chairman Of Corning Sold 47% Of Their Shares - simplywall.st",
+      "Will TUV‑Verified WiseEye Smart Locks Shift Himax Technologies' (HIMX) Biometric Narrative? - simply",
+      "Japan Display (TSE:6740) Just Gave Investors Something To Think About - simplywall.st",
+      "Gamescom 2026: Samsung Odyssey Breaks Boundaries — Supporting Every Way You Play"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為三星電子、Himax Technologies、TCL Technology相關動態：「Ma-tek August revenue hits record, eyes U.S. FA, MA servi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ma-tek August revenue hits record, eyes U.S. FA, MA service in 2027（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "PCB maker Zhen Ding tops US$634M August revenue on AI server, optical module ...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
