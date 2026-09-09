@@ -1,0 +1,49 @@
+{
+  "date": "2026-09-09",
+  "total_events": 12,
+  "by_company": {
+    "samsung_elec": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "tcl": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "csot": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "boe": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "corning": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 3,
+      "sentiment_avg": 0.67
+    },
+    "it_panel_demand": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.45
+    },
+    "automotive_display": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

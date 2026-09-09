@@ -1,5 +1,229 @@
 [
   {
+    "id": "samsung_elec-2026-09-09-001",
+    "date": "2026-09-09",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung and Mistral AI Announce Strategic Partnership for Intelligence-Driven Semiconductor Infrastructure",
+    "summary": "Samsung Electronics today announced it has entered into a strategic partnership with Mistral AI to enhance its semiconductor engineering and manufacturing capabilities that will reinforce its leadersh",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-and-mistral-ai-announce-strategic-partnership-for-intelligence-driven-semiconductor-infrastructure",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-09-002",
+    "date": "2026-09-09",
+    "companies": [
+      "tcl",
+      "csot"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Spotlight: TCL CSOT - leading OLED and LCD maker, and inkjet printing pioneer",
+    "summary": "<p><a href=\"https://www.oled-info.com/csot-oled\">TCL CSOT</a> is one of the world's largest display makers, and one of the leaders in OLED production. TCL CSOT is also the only display maker betting i",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/spotlight-tcl-csot-lcd-oled-panel-maker-and-inkjet-printing-pioneer",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-003",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Kopin receives a $2.4 million OLED microdisplay order from an international thermal weapon sight producer",
+    "summary": "<p>US-based microdisplay developer <a href=\"https://www.oled-info.com/kopin\">Kopin Corporation</a> has received a $2.4 million OLED microdisplay order from a leading international thermal weapon sight",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/kopin-receives-24-million-oled-microdisplay-order-international-thermal-weapon",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-004",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "it_panel_demand",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AI servers push Asus' August revenue up 51%",
+    "summary": "Asus reported consolidated revenue of NT$94.96 billion (US$3.02 billion) in August 2026, up 12.87% from July and 51.17% from a year earlier &mdash; the second-highest monthly figure in company history",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260909PD249/asus-revenue-2026-pc-guidance.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-09-005",
+    "date": "2026-09-09",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "OpenAI's deeper Samsung tie-up lands on a foundry that is running out of capacity",
+    "summary": "For Samsung Electronics' two loss-making logic businesses, OpenAI's declaration that it is jointly producing and researching next-generation chips with the Korean company matters less as a new logo on",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260909VL233/samsung-openai-capacity-chips-2nm.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-006",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Enterprise AI spending gives Taiwan's Systex a new growth wing",
+    "summary": "Systex reported consolidated revenue of NT$5.9 billion (approximately US$187 million) in August 2026, up 61.91% from NT$3.64 billion a year earlier. Revenue for the first eight months reached NT$38.01",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260909PD245/systex-revenue-growth-taiwan-asia.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-007",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "positive",
+    "title": "Jin Lian Cheng expands into semiconductor wafer fab UPS battery recycling",
+    "summary": "Jin Lian Cheng Resources completed an upgrade to its desulfurization production line as demand increased for lead-acid battery recycling tied to high-spec uninterruptible power supply (UPS) systems us",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260908PD205/recycling-ups-fab-wafer-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-008",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Ledlink Optics posts 21-month revenue high on AI server, auto demand",
+    "summary": "Ledlink Optics reported that August revenue climbed on stronger AI server and automotive demand, with consolidated revenue reaching NT$134 million. The figure rose 3.21% from July and 20.42% from a ye",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260908PD201/revenue-ledlink-optics-ai-server-automotive-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "csot-2026-09-09-009",
+    "date": "2026-09-09",
+    "companies": [
+      "csot",
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration",
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "China expands OLED capacity, challenging South Korea in IT and automotive display markets",
+    "summary": "South Korea's long-standing dominance in the global display market is facing an aggressive challenge as major Chinese panel makers&mdash;including BOE, China Star Optoelectronics Technology (CSOT), an",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260909VL225/oled-panel-lcd-automotive-display-capacity-display.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-010",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Getac sees growing drone orders, with 2027 revenue contribution reaching up to 12%",
+    "summary": "Getac Holdings is expanding aggressively into drone opportunities on the back of its strong industrial rugged computer foundation, making the segment a continued growth driver in the second half of 20",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260908PD244/getac-drone-revenue-growth-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-011",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Realtek expands cloud AI push with ASIC and SSD chips",
+    "summary": "Realtek chairman Sun-Chien Chiu, who received an honorary fellowship from Taiwan's Industrial Technology Research Institute (ITRI) this week, said in a public interview that the company is already gen",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260909PD224/realtek-asic-cloud-ai-chips-chairman.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-09-012",
+    "date": "2026-09-09",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Verizon, Corning strike multi-billion-dollar fiber deal for broadband and AI buildout",
+    "summary": "Verizon and Corning have agreed to a multi-billion-dollar supply deal that could shape broadband access and artificial intelligence infrastructure well beyond the US. The pact underscores how telecom ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260909PR206/corning-broadband-infrastructure-expansion-telecom.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-09-08-001",
     "date": "2026-09-08",
     "companies": [
@@ -218,6 +442,26 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmFhQkp1TXVJRHFrUEFBNWw0MDh1a0JFZ09DczBCSmFkZjFMU1FjVlZtejBmemtidWxWazVja0tXR1VkNkVXNk8xZGJOVUo3OThDVjNJOGI0STY0YTk0UWQ4YlQxR1V2c3ZjemN1NmN0dU5LS1dyOENETUR4bnVoZ1RENEVBekRrLS1OOEgtcDZmMzhkWFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-08-013",
+    "date": "2026-09-08",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Samsung Display to increase its table and foldable OLED panel production to Apple in 2027 to 24 million units",
+    "summary": "<p>According to a report from Korea, Apple is expected to increase its tablet OLED and foldable OLED panel orders from Samsung Display next year, from 10 million units in 2026 to 24 million units in 2",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-increase-its-table-and-foldable-oled-panel-production-apple",
         "type": "rss"
       }
     ]

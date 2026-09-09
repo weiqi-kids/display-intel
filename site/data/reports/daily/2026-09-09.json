@@ -1,0 +1,255 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:48:37.666262Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tcl-2026-09-09-002",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Spotlight: TCL CSOT - leading OLED and LCD maker, and inkjet printing pioneer",
+      "companies": [
+        "tcl",
+        "csot"
+      ],
+      "related": {
+        "customers": [
+          "tcl"
+        ],
+        "suppliers": [
+          "csot"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.oled-info.com/spotlight-tcl-csot-lcd-oled-panel-maker-and-inkjet-printing-pioneer"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-09-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Enterprise AI spending gives Taiwan's Systex a new growth wing",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260909PD245/systex-revenue-growth-taiwan-asia.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI servers push Asus' August revenue up 51%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "it_panel_demand",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260909PD249/asus-revenue-2026-pc-guidance.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-09-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ledlink Optics posts 21-month revenue high on AI server, auto demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260908PD201/revenue-ledlink-optics-ai-server-automotive-demand.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-09-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Getac sees growing drone orders, with 2027 revenue contribution reaching up to 12%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260908PD244/getac-drone-revenue-growth-2026.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.67,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.45,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "csot",
+        "count": 2
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "oled_penetration",
+        "count": 3
+      },
+      {
+        "id": "automotive_display",
+        "count": 2
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 90,
+    "dup_title": 33,
+    "too_old": 11,
+    "gate1_blocked": 28,
+    "gate2_blocked": 5,
+    "passed": 13,
+    "pass_rate": "22.8%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "From 253 Grams to 201 Grams: The Engineering Behind the World’s Lightest Fold",
+      "Gamescom 2026: Samsung Odyssey Breaks Boundaries — Supporting Every Way You Play",
+      "[Video] [Voices of Galaxy] Meet Lefa Makgato, Championing Africa’s Next Generation of Innovators",
+      "Samsung, LG secure roles as key suppliers for Apple's foldable iPhone",
+      "Samsung turns to Japan for packaging edge, narrows HBM gap with SK Hynix"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為三星電子、CSOT、TCL Technology相關動態：「Spotlight: TCL CSOT - leading OLED and LCD maker, and ink...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Spotlight: TCL CSOT - leading OLED and LCD maker, and inkjet printing pioneer（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Enterprise AI spending gives Taiwan's Systex a new growth wing（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

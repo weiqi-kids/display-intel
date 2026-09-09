@@ -1,0 +1,16 @@
+{
+  "total_raw": 90,
+  "dup_title": 33,
+  "no_date": 0,
+  "too_old": 11,
+  "gate1_fail": 28,
+  "gate2_fail": 5,
+  "passed": 13,
+  "gate2_samples": [
+    "From 253 Grams to 201 Grams: The Engineering Behind the World’s Lightest Fold",
+    "Gamescom 2026: Samsung Odyssey Breaks Boundaries — Supporting Every Way You Play",
+    "[Video] [Voices of Galaxy] Meet Lefa Makgato, Championing Africa’s Next Generation of Innovators",
+    "Samsung, LG secure roles as key suppliers for Apple's foldable iPhone",
+    "Samsung turns to Japan for packaging edge, narrows HBM gap with SK Hynix"
+  ]
+}
