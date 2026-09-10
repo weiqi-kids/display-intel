@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-10",
+  "date_range": {
+    "start": "2026-09-04",
+    "end": "2026-09-10"
+  },
+  "generated_at": "2026-09-10T12:43:04.780162Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "boe-2026-09-04-013",
+      "date": "2026-09-04",
+      "title": "BOE’s iPhone OLED decline bolsters Samsung and LG Display - sammyfans.com",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "lg_elec",
+      "company_b": "samsung_elec",
+      "co_mention_count": 5,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "csot",
+      "company_b": "tcl",
+      "co_mention_count": 5,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "oled_penetration": {
+      "this_week": 18,
+      "last_week": 7,
+      "week_over_week_change": "+157%",
+      "sentiment_this_week": 0.17
+    },
+    "earnings": {
+      "this_week": 15,
+      "last_week": 20,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.38
+    },
+    "mini_led": {
+      "this_week": 7,
+      "last_week": 2,
+      "week_over_week_change": "+250%",
+      "sentiment_this_week": 0.28
+    },
+    "panel_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "automotive_display": {
+      "this_week": 8,
+      "last_week": 2,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.5
+    },
+    "it_panel_demand": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "novatek": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "lg_elec": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 4
+    },
+    "boe": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "samsung_elec": {
+      "event_count": 18,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "tcl": {
+      "event_count": 4,
+      "sentiment_avg": 0.5,
+      "rank": 3
+    },
+    "lg_display": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "corning": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "himax": {
+      "event_count": 6,
+      "sentiment_avg": 0.5,
+      "rank": 2
+    },
+    "csot": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 7
+    },
+    "jdi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 111,
+        "last": 104,
+        "change_pct": 6.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-04",
+      "event_count": 28,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-05",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-06",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-07",
+      "event_count": 18,
+      "sentiment_avg": 0.19
+    },
+    {
+      "date": "2026-09-08",
+      "event_count": 21,
+      "sentiment_avg": 0.29
+    },
+    {
+      "date": "2026-09-09",
+      "event_count": 21,
+      "sentiment_avg": 0.18
+    },
+    {
+      "date": "2026-09-10",
+      "event_count": 10,
+      "sentiment_avg": 0.25
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-04 ~ 2026-09-10）共 111 則事件，重點為「BOE’s iPhone OLED decline bolsters Samsung and ...」。Himax Technologies、TCL Technology表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "LG電子",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星電子",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "TCL Technology",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,222 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T12:43:04.645270Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-10-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "UBI Research sees fast growth ahead for mid-large OLEDs, led by monitors and automotive displays",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration",
+        "automotive_display",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.oled-info.com/ubi-research-sees-fast-growth-ahead-mid-large-oleds-led-monitors-and-automotive"
+    },
+    {
+      "rank": 2,
+      "event_id": "himax-2026-09-10-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Himax to Showcase Industry-Leading Automotive Display and - GlobeNewswire",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automotive_display"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPRUM3Q1BLVDVzYTlHNm5fejBNdTRIdndYbkV2emxfa2JHVmtlcjE5X215dERNNm13ZU9OV05GNENud05BR1pNcVQ5aER3c2hhWjQ2dDFRTkVVME5XYVZZNUtDSzBhazkzWjJCTV8xMFpSVjg5dFFoXzVtc3VOcDRxdkhwczZSMmcyVWhwWnpSZVR6WDFtSzdhTndzMTVDZ2g3bnJzR0F0OFdzUjNsZk1QMjJDNl9JS0N1d09DLS04UVpHS3M4U1pFcVp1WDJ5UWhxU0loMUs2SVRzNm1PdlA4QVVySHZjV1pEYmdZZFdqaTloOV9oVnRhUktWQ0NxU1p6QVpCOG4xaVAzeE0tWS14VlBId0JWeU5EWHYyYzhlMGZnckdYc0YzUkhFTHlkU3hMR0Y4MUg4eFpfZ1lMMk5BbnR2a3pkdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "himax-2026-09-10-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Himax to Showcase Industry-Leading Automotive Display and Cutting-Edge 3D Sensing Technologies at 2026 SID Vehicle Displays and Interfaces Symposium - Yahoo Finance UK",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automotive_display"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWFiVVRjRFd0RElBX2VoV2pBV1ZsT0dEWkE3RWo0TWp3b2I0YjRpQzFMeVRsT2xBUzZuTVRldUlhVzlVLVNBVjVoTHBiUndNcEZRNXJCbDl4M3dBNUVSZTN6THNYOUVsNnBocC1MRmlDam01cExVNXJvODluUHl0ZzdaUEUzM1ZORERWRV9BdTRWQ1lHR1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "himax-2026-09-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax launches eDP TDDI for smart cockpit displays - digitimes",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemNXV1BmYlpIMUFMcU9hcTZQd1psTkthQkw3QXJaNW9IdFM3TzNyTENfcEw4c1gtYzFrdm1vZjhWSE9XY1JpbkF5Y2VKbzJBVTY4SklFZkJQdjVHLThIcGp3bll3OVhMcDdadWVtTHFYS09tX0I2WDFsdEJ1TWxJYjNsRHVsMlJoZXpWbjlHRWNVRGt3WmhTM3R3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "himax-2026-09-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax Technologies to Showcase Automotive Display Portfolio and 3D Sensing Innovations at SID Vehicle Displays Symposium - Quiver Quantitative",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automotive_display"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWGxSR04wYlZSN2NiMjU5c21oTEQ1Y2h1R3pVVE0zYTc0UU5WU1U2V2lQMWNrRTNxQlZ5bkVDck1PVGVfcWxUSGhyZ3ZvTjNVM0J2Y0hKNGxYWUZsWGlXUlVPWnF0T3VCWV9oWTNMRDJ0dEFzaGdyaHZRNFZ2UUFnckJnc0J3R1Uyc191VkhQUS13a1JUT016bFdlczVvZnZXVFdUTXhzVGtma29uRFZsaGRRWlltZk51SzEyYkg4azRyNTRoR0tzOWpxZ0RCbXhuZzBxTC1jbEU4c3JYYjZVQTBWN0dKbVJn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automotive_display": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.62,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "himax",
+        "count": 4
+      },
+      {
+        "id": "jdi",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 6
+      },
+      {
+        "id": "automotive_display",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 357,
+    "dup_title": 122,
+    "too_old": 169,
+    "gate1_blocked": 23,
+    "gate2_blocked": 14,
+    "passed": 29,
+    "pass_rate": "12.3%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "Why Corning Stock Keeps Going Up - The Motley Fool",
+      "Why Corning (GLW) Stock Is Up Today - Quiver Quantitative",
+      "Margaret Duffey Obituary - Corning Leader",
+      "Why is Corning stock surging today? - Investing.com",
+      "Corning Inc Stock (GLW) Moved Up by 9.20% on Sep 8: What Investors Need To Know - TradingKey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Himax Technologies、JDI相關動態：「UBI Research sees fast growth ahead for mid-large OLEDs, ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "UBI Research sees fast growth ahead for mid-large OLEDs, led by monitors and ...（OLED 滲透率、車用面板、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Himax to Showcase Industry-Leading Automotive Display and - GlobeNewswire（車用面板）",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

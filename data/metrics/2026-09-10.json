@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-10",
+  "total_events": 10,
+  "by_company": {
+    "himax": {
+      "count": 4,
+      "sentiment_avg": 0.5
+    },
+    "jdi": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "automotive_display": {
+      "count": 4,
+      "sentiment_avg": 0.62
+    },
+    "oled_penetration": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

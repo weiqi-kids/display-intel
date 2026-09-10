@@ -1,0 +1,16 @@
+{
+  "total_raw": 357,
+  "dup_title": 122,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 23,
+  "gate2_fail": 14,
+  "passed": 29,
+  "gate2_samples": [
+    "Why Corning Stock Keeps Going Up - The Motley Fool",
+    "Why Corning (GLW) Stock Is Up Today - Quiver Quantitative",
+    "Margaret Duffey Obituary - Corning Leader",
+    "Why is Corning stock surging today? - Investing.com",
+    "Corning Inc Stock (GLW) Moved Up by 9.20% on Sep 8: What Investors Need To Know - TradingKey"
+  ]
+}
