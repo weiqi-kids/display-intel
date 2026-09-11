@@ -1,5 +1,84 @@
 [
   {
+    "id": "unknown-2026-09-11-001",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "automotive_display",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kioxia eyes US listing amid NAND profit rebound",
+    "summary": "Kioxia's planned US listing could broaden the Japanese memory maker's access to global institutional investors as a sharp recovery in NAND profitability coincides with stronger data-center demand and ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260911VL229/kioxia-nand-demand-ssd-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "innolux-2026-09-11-002",
+    "date": "2026-09-11",
+    "companies": [
+      "innolux",
+      "auo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "AUO, Innolux accelerate shift from displays to AI, CPO, advanced packaging",
+    "summary": "Taiwan's panel makers posted mixed August results as the industry's strategic focus shifts beyond monthly revenue toward AI, advanced packaging and co-packaged optics (CPO). AUO and Innolux, the islan",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260911PD222/panel-auo-innolux-taiwan-packaging.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "innolux-2026-09-11-003",
+    "date": "2026-09-11",
+    "companies": [
+      "innolux"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Innolux factory shift could reshape InnoCare's supply chain and growth mix",
+    "summary": "InnoCare Optoelectronics is preparing for a major supply-chain adjustment as Innolux Corporation restructures its factories, with the parent company's second plant scheduled to close in September 2026",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260911PD212/innolux-growth-inspection-inventory-relocation.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-11-004",
+    "date": "2026-09-11",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Beyond OLED: How TCL’s SQD-Mini LED is Changing the TV Game - Unbox PH",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE91MVU3UDdCVDNHMTR4TDIwcllJZTRTdVBkSlA4VU90MUp6M0ZHWmtUUXNSc0R4RFVsa0l0Mk1lclZUemIyUWVoY3hnMXBhTXo3TkVjWExmRERFQmhNRVhqVmc5RWs?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91MVU3UDdCVDNHMTR4TDIwcllJZTRTdVBkSlA4VU90MUp6M0ZHWmtUUXNSc0R4RFVsa0l0Mk1lclZUemIyUWVoY3hnMXBhTXo3TkVjWExmRERFQmhNRVhqVmc5RWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-09-10-001",
     "date": "2026-09-10",
     "companies": [
@@ -187,6 +266,118 @@
       {
         "name": "eetimes",
         "url": "https://www.eetimes.com/cincon-high-performance-power-modules-for-edge-ai-ipcs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-10-011",
+    "date": "2026-09-10",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Can Corning's Long-Term Fiber Deal With Verizon Boost Its Shares? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUVUSWtUTllYVVFYV0VQQkM1SndXcHdmWlpZdkEwd2ZVRlp2ZThELUVTalp0UUtXMmlSTGRvN2FSaUJMdTQ4TlV3ZDE4OENqdjcxS19LLWFZOHUyUGg2SEpHd3IzY0VfVkZaTk5wZn",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUVUSWtUTllYVVFYV0VQQkM1SndXcHdmWlpZdkEwd2ZVRlp2ZThELUVTalp0UUtXMmlSTGRvN2FSaUJMdTQ4TlV3ZDE4OENqdjcxS19LLWFZOHUyUGg2SEpHd3IzY0VfVkZaTk5wZnB3WDgwOUN2eVJMOUE5MkpCRm4zd0V2blZHR2NqbjV1YmpDRXNtWExmUmM4dFRuU1VoWDJWbWZ1RExVS2tST3Rkc3doSlBOT1gtUkVpaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-10-012",
+    "date": "2026-09-10",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Inc Stock (GLW) Closed Down by 3.17% on Sep 10: What Investors Need To Know - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPX2NPd2FMLUhEV3FJOURoRE1qRm41ckp3M2JHb3RVTHFJT2RUR3hMMmw4RUdqSHpremFncTZ0TFNfdmxPTTJvM3ptV0ZSbnZZcW5kazAxMi1jRUFJbWJPWE92S2J1YWx4aE04UHlfbk",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX2NPd2FMLUhEV3FJOURoRE1qRm41ckp3M2JHb3RVTHFJT2RUR3hMMmw4RUdqSHpremFncTZ0TFNfdmxPTTJvM3ptV0ZSbnZZcW5kazAxMi1jRUFJbWJPWE92S2J1YWx4aE04UHlfbk9CdXJlTnI4eVBBdmk4M0RoU3ViQTVtTWVHZnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-09-10-013",
+    "date": "2026-09-10",
+    "companies": [
+      "sony",
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon, Sony, Huawei, Oppo pool imaging patents in new Tulip programme - IAM Patent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOQi1pSXFTVVpmWGUtcFU4WlJjdEFfNi1jd3RnT01USG1UTlRBdjF1SnBQUnBzWU5IVEtFWi03Wm9zZHR3WWExTHRfY0hkelRLN3lwQzlDVFp5MDhzRmJnS0h1RmkxeVF3TEg1ZzV3bG",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQi1pSXFTVVpmWGUtcFU4WlJjdEFfNi1jd3RnT01USG1UTlRBdjF1SnBQUnBzWU5IVEtFWi03Wm9zZHR3WWExTHRfY0hkelRLN3lwQzlDVFp5MDhzRmJnS0h1RmkxeVF3TEg1ZzV3bGFrVGtYZGdCTjRtU0NGSzZCTFRaMU82cGN2VjFmSEhGVXNMdmw0TE1ESDFnY3BsU3Vta1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-09-10-014",
+    "date": "2026-09-10",
+    "companies": [
+      "sony",
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Licensing Biz Teams With Canon, Sony To Launch Patent Pool - Law360",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOX1g0QnMxdTMxQUR2REpFWVplRmF5NDR3eHBKNXl3bG8tLWhYdEhTcWNvTnFjNUFwNDRBRGloaWZBTy13dTBZQ2R1aGVicXF4SW5ib0NOVEFFVjFmbE5JUFNKdDdDOHYwS0F1TC1YT1",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX1g0QnMxdTMxQUR2REpFWVplRmF5NDR3eHBKNXl3bG8tLWhYdEhTcWNvTnFjNUFwNDRBRGloaWZBTy13dTBZQ2R1aGVicXF4SW5ib0NOVEFFVjFmbE5JUFNKdDdDOHYwS0F1TC1YT1FGaUJQVDRYUDN4WW0tMllFNUY5WXJrNTA4RU9PY1FWWmNKd3RkWFhkN3ZnWTM1Z9IBVkFVX3lxTFA2dHcwRmZCV2tGRXZoLWlYMzVnS3hNaEpJRTMzbDNUenRnMFN0YlRBcWxJeGR5WS1Nc3hGTDhDdHhwU0lER1BPWi1Pc01Wb29PdzhoalZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-09-10-015",
+    "date": "2026-09-10",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon to Showcase Broad Range of Label and Packaging Printing Solutions at LOUPE Americas 2026 - thecannatareport.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1NCZzJrZTJYQ2J1Zmh6LU45QVB4cVFndi1UUFJvQXowNTlwQ2hKZEFpWXYyUHZrR0g4M09xd0VvdUd3am9UM2tta0xWR0x0ZDg3ZEhNY3BQZlFabVlmYWpKNTBpYXBUQ21Ed1M3RE",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1NCZzJrZTJYQ2J1Zmh6LU45QVB4cVFndi1UUFJvQXowNTlwQ2hKZEFpWXYyUHZrR0g4M09xd0VvdUd3am9UM2tta0xWR0x0ZDg3ZEhNY3BQZlFabVlmYWpKNTBpYXBUQ21Ed1M3REtjcmI3ZjNtSEtaRVRab1hKeg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-10-016",
+    "date": "2026-09-10",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "TCL Expands Designer Series With A300L QLED and A400U QD Mini LED Art TVs - ecoustics.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNNTB5cEFjS2FSN1VyS3lnMnpUVkE3b1lraUJ0a0hhTVhUWEl6bVFla3hNVW1SR3NQR2tVd3NYT21yYzFHekZEX2VqNml0X1JTa0VVNGlpcUI2bE9hcTRFT1JtSkpvb2ROYTQyMTZxdj",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNTB5cEFjS2FSN1VyS3lnMnpUVkE3b1lraUJ0a0hhTVhUWEl6bVFla3hNVW1SR3NQR2tVd3NYT21yYzFHekZEX2VqNml0X1JTa0VVNGlpcUI2bE9hcTRFT1JtSkpvb2ROYTQyMTZxdjQwVEx0c1d5Uk9heDR4RW9uNQ?oc=5",
         "type": "rss"
       }
     ]
@@ -576,6 +767,26 @@
     "topics": [],
     "impact": "neutral",
     "title": "KRX Short Interest Weekly (Sep 4th): Samsung SDI, LG Display, Alteogen, OCI, SK Hynix - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjZKVkNJNGdaVXR2N21teXBzWkZSM2FfeVRRaHF2ejYxSTVDejVSQjBOQ3htY3RFYXFHMFVuY0RnSDRHODlMVDdISVdybm4zWGRITk13YmVhdVQxUVVfVnNPM3F2OXJVSkIwcDRvYT",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjZKVkNJNGdaVXR2N21teXBzWkZSM2FfeVRRaHF2ejYxSTVDejVSQjBOQ3htY3RFYXFHMFVuY0RnSDRHODlMVDdISVdybm4zWGRITk13YmVhdVQxUVVfVnNPM3F2OXJVSkIwcDRvYTVmUGNnNHZXa1ZTU2k3ZkVJS01MSFVqSXpmNUFKSThscEV1YVdSVHY4VEkzdGgxM28zc19GMHNVR2hHM2JCeHpVVEVqVnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-09-09-022",
+    "date": "2026-09-09",
+    "companies": [
+      "lg_display",
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "KRX Short Interest Weekly (Sep 4th): Samsung SDI, LG Display, Alteogen, OCI, SK Hynix - smartkarma.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjZKVkNJNGdaVXR2N21teXBzWkZSM2FfeVRRaHF2ejYxSTVDejVSQjBOQ3htY3RFYXFHMFVuY0RnSDRHODlMVDdISVdybm4zWGRITk13YmVhdVQxUVVfVnNPM3F2OXJVSkIwcDRvYT",
     "sources": [
       {
@@ -979,6 +1190,24 @@
     ]
   },
   {
+    "id": "corning-2026-09-08-022",
+    "date": "2026-09-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Chairman, President and CEO Wendell Weeks To Be Honored With Yale Legend in Leadership Award - som.yale.edu",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQajRhZThhWjRyREU0ZHBra0ppREtwdFI1T25vbGFkZHVCY1ZrbnZ0aWZKS0x3SXcwNDQyUV90VU9hTDA2dTh2QnRKeTBlMFBfRWNJbEhFcHFIZGoyUTdkdThfblk5azRWU1RuMHRLQ1",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQajRhZThhWjRyREU0ZHBra0ppREtwdFI1T25vbGFkZHVCY1ZrbnZ0aWZKS0x3SXcwNDQyUV90VU9hTDA2dTh2QnRKeTBlMFBfRWNJbEhFcHFIZGoyUTdkdThfblk5azRWU1RuMHRLQ1pxU1F1cm1fcThEVDd3WW1FQU4tSW1FQ1pUNldxRVhMbmg1ZloweFUySFBqU2dYSGlyY1JMQXBkMXNtNm04VVZnSjlzWDlQakVVMUxPUA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-09-07-001",
     "date": "2026-09-07",
     "companies": [
@@ -1312,6 +1541,49 @@
       {
         "name": "canon",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdWxURVhzRWRrbUJMdENxOWc3a255UElMQ1E2TlhCSDZBUEJQT2hBeUk2Yjh0bGpJX3NtSm1TSVNQcHlWU3pxbDdiZFlrYWNidGZ2MVljZ0tzXzdHVmdfYWhwS1NsRXJBX1dvdC1DcUxCbHoyLUFXOWVqNnJENW1DM2dDcXdLbE5Eb0RWdEM1WU9MSGhNNUdyOFR0QmJJQWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-09-07-019",
+    "date": "2026-09-07",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to showcase world's largest Gaming OLED lineup in Taiwan - Eastern Progress",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQ1h2cXI5eGlKb0lkVWJiX01YSW1OeFJqZTBLV1FuaGk1MEx1d3pWUjRYT1MzcFhGV2cwUFRSZUF6ZHkyLUwyczhzWTJTY1FYNHpTbGJaRTFUMzNJSVBYdHVkM1BjM0tuZ3lNVjNkRT",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQ1h2cXI5eGlKb0lkVWJiX01YSW1OeFJqZTBLV1FuaGk1MEx1d3pWUjRYT1MzcFhGV2cwUFRSZUF6ZHkyLUwyczhzWTJTY1FYNHpTbGJaRTFUMzNJSVBYdHVkM1BjM0tuZ3lNVjNkRTE3TnVBb2U5ZXYwVXdtbGFBYW5tYXpBRlhPUVFEMklJeXlERV9lLWc2em1wSFVJdVZfN3ZROGJwNzA0MmFPWWdSWm9yQzNIa1Q0NzRONzk1R2RqOUpqaG5KYV92dndyNUM2N1JMdktsb2lSUkZkY2V3SkpR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-09-07-020",
+    "date": "2026-09-07",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "panel_price",
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display becomes Sharp’s sole OLED TV panel supplier amid shift to premium models - kedglobal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBvZW1YbkJlOEFKZXpOM0dJWkRVbFFmSzdvaFdZTGdSMnBRYm11QWNpZDhYWHluSExiUHJEb2FlcDYxS3JVVmhnZ0xBTVNRWVBWWFc3RUp4T1JWMlR5cmxRT1l4ZkU2S2hkd2NwUno3cz",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvZW1YbkJlOEFKZXpOM0dJWkRVbFFmSzdvaFdZTGdSMnBRYm11QWNpZDhYWHluSExiUHJEb2FlcDYxS3JVVmhnZ0xBTVNRWVBWWFc3RUp4T1JWMlR5cmxRT1l4ZkU2S2hkd2NwUno3czNEQUdLaW5CNjV3?oc=5",
         "type": "rss"
       }
     ]

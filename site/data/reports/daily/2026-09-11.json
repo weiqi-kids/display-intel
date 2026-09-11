@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T12:36:39.089110Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "innolux-2026-09-11-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "AUO, Innolux accelerate shift from displays to AI, CPO, advanced packaging",
+      "companies": [
+        "innolux",
+        "auo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260911PD222/panel-auo-innolux-taiwan-packaging.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Kioxia eyes US listing amid NAND profit rebound",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automotive_display",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260911VL229/kioxia-nand-demand-ssd-2027.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "innolux-2026-09-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Innolux factory shift could reshape InnoCare's supply chain and growth mix",
+      "companies": [
+        "innolux"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260911PD212/innolux-growth-inspection-inventory-relocation.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "tcl-2026-09-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Beyond OLED: How TCL’s SQD-Mini LED is Changing the TV Game - Unbox PH",
+      "companies": [
+        "tcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration",
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91MVU3UDdCVDNHMTR4TDIwcllJZTRTdVBkSlA4VU90MUp6M0ZHWmtUUXNSc0R4RFVsa0l0Mk1lclZUemIyUWVoY3hnMXBhTXo3TkVjWExmRERFQmhNRVhqVmc5RWs?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "innolux",
+        "count": 2
+      },
+      {
+        "id": "auo",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 378,
+    "dup_title": 136,
+    "too_old": 175,
+    "gate1_blocked": 38,
+    "gate2_blocked": 15,
+    "passed": 14,
+    "pass_rate": "5.8%",
+    "gate2_block_rate": "6.2%",
+    "gate2_samples": [
+      "Why Corning (GLW) Stock Is Up Today - Quiver Quantitative",
+      "Margaret Duffey Obituary - Corning Leader",
+      "Why Corning Stock Keeps Going Up - The Motley Fool",
+      "Why is Corning stock surging today? - Investing.com",
+      "Celestica vs. Corning: Which AI Infrastructure Stock is a Better Buy? - The Globe and Mail"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Innolux、AU Optronics、TCL Technology相關動態：「AUO, Innolux accelerate shift from displays to AI, CPO, a...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "AUO, Innolux accelerate shift from displays to AI, CPO, advanced packaging（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Kioxia eyes US listing amid NAND profit rebound（車用面板、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
