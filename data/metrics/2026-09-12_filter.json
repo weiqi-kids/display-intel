@@ -1,0 +1,16 @@
+{
+  "total_raw": 377,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 182,
+  "gate1_fail": 36,
+  "gate2_fail": 13,
+  "passed": 12,
+  "gate2_samples": [
+    "Corning stock dips on filing for $2 billion equity distribution program - Investing.com",
+    "Why Corning (GLW) Stock Is Up Today - Quiver Quantitative",
+    "Margaret Duffey Obituary - Corning Leader",
+    "Why Corning Stock Keeps Going Up - The Motley Fool",
+    "Why is Corning stock surging today? - Investing.com"
+  ]
+}

@@ -1,5 +1,59 @@
 [
   {
+    "id": "unknown-2026-09-12-001",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "negative",
+    "title": "Analysis: Speed built Colossus, yet redundancy may decide whether SpaceX can scale it",
+    "summary": "<p class=\"P1\" data-start=\"5647\" data-end=\"5883\">Much of the industry attention surrounding AI infrastructure buildouts is now inextricably tied to sheer compute power, with market dominance or competi",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260911VL217/infrastructure-spacex-xai-cooling-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-002",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple foldable plans drive new demand for Japanese smartphone parts makers",
+    "summary": "Apple&rsquo;s move into foldable smartphones is creating fresh business for Japanese component makers with expertise in thin, lightweight and compact designs. According to <em>Nikkei Asia</em>, suppli",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260911PD234/apple-foldable-smartphone-business-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-003",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Pegatron's AI server engine starts to outweigh notebook drag, with Apple adding lift",
+    "summary": "<p class=\"P1\" data-start=\"1452\" data-end=\"1873\">Pegatron reported consolidated revenue of NT$88.31 billion (approx. US$2.8 billion) in August 2026, up 2.66% from the previous month and 34.11% from a y",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260911PD230/pegatron-revenue-apple-2026-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-09-11-001",
     "date": "2026-09-11",
     "companies": [],
@@ -74,6 +128,118 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91MVU3UDdCVDNHMTR4TDIwcllJZTRTdVBkSlA4VU90MUp6M0ZHWmtUUXNSc0R4RFVsa0l0Mk1lclZUemIyUWVoY3hnMXBhTXo3TkVjWExmRERFQmhNRVhqVmc5RWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "raydium-2026-09-11-005",
+    "date": "2026-09-11",
+    "companies": [
+      "raydium"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Raydium Token Surges 105% as StonkFun Migration Funnels Record Fees Into Buybacks - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9pcGlEWUdENDhRbEE0d0FLR3lleVFFbHBITW54ZXFWdGdldzMtdHltOVJHZnl0ekM2WnFrYmlPUk9uX0JwaFNnc1pIbUVpajNZa0tkakRWTDU2aUxHV1VoQjZJQzlZdzVIcktSN0d4Tl",
+    "sources": [
+      {
+        "name": "raydium",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pcGlEWUdENDhRbEE0d0FLR3lleVFFbHBITW54ZXFWdGdldzMtdHltOVJHZnl0ekM2WnFrYmlPUk9uX0JwaFNnc1pIbUVpajNZa0tkakRWTDU2aUxHV1VoQjZJQzlZdzVIcktSN0d4TloyVnZGWHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-09-11-006",
+    "date": "2026-09-11",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "BOE Technology Group Co., Ltd. (000725.SZ): Has established a project team dedicated to tackling key technical challenges in Micro LED optical interconnection systems and glass substrate-based Co-Packaged Optics (CPO) technology. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUtWbC16MTNEMFVNc1k0VEtSU3loUl9ZOC1oazB5eTAxZ3FCSXhUMFBOQ1V3eWpPM3pKcmRZWGJnTlQwQW5GTTlkMXlHcGNSemtFRmdoSnNRZjdMQ1hrRm9mLUcyOVdpSzlSZEpHdD",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUtWbC16MTNEMFVNc1k0VEtSU3loUl9ZOC1oazB5eTAxZ3FCSXhUMFBOQ1V3eWpPM3pKcmRZWGJnTlQwQW5GTTlkMXlHcGNSemtFRmdoSnNRZjdMQ1hrRm9mLUcyOVdpSzlSZEpHdDJ4dDluRjdraUtZa05OeHBESHlobEc0X1Rhckw3Z2QyZ2laTmFpX05faUxUWmU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-007",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "Qingyue Technology stock get delisted, following recent price drop",
+    "summary": "<p>OLED producer <a href=\"https://www.oled-info.com/qingyue\">Qingyue Technology</a> has seen its share price decline quite a bit as of late, and now as the share price traded below 1 yuan for 20 conse",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/qingyue-technology-stock-get-delisted-following-recent-price-drop",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-008",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "positive",
+    "title": "Luxshare eyes AR glasses breakthrough through car HUD model",
+    "summary": "<p class=\"P1\" data-start=\"3455\" data-end=\"3921\">At the 2026 China International Optoelectronic Exposition (CIOE), Luxshare and its lens module unit Luxvisions jointly showcased multiple optical and se",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260911PD228/luxshare-ar-glasses-lens-module-2026-display.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-009",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Charts: Taiwan's AI supply chain growth moves from cooling to rack hardware",
+    "summary": "King Slide Works posted the fastest revenue growth in August among the 50 Taiwan-listed AI supply chain companies tracked by <em>DIGITIMES</em>, with sales up 318% from a year earlier. It marked the f",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260911VL228/growth-revenue-king-slide-supply-chain-2025.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-11-010",
+    "date": "2026-09-11",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL C7L SQD-Mini LED TV: big-screen Mini LED that mostly gets the balance right - Absolute Geeks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEZYVy1DcUdGenRUVC1oUkViOHRjZy1kNmQyZW1zLXBLTlRXQnotdHRWUnZiVGJuVEZfYlNYNnJoTUtMaFVvaFRPR2dOVktEUEZmZldOOFcwSFRYRGgya1J5WmFBNXIyeV9scWNUdV",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEZYVy1DcUdGenRUVC1oUkViOHRjZy1kNmQyZW1zLXBLTlRXQnotdHRWUnZiVGJuVEZfYlNYNnJoTUtMaFVvaFRPR2dOVktEUEZmZldOOFcwSFRYRGgya1J5WmFBNXIyeV9scWNUdVJldmNIcjB6Ulg3OUxxMG1samNaMndQZkQwZkZlTnZlNnBkWHNzQnQyRWd3WWNNZk43akIyTzVpWEdYNTRRV01KQmp1VlJwYUls?oc=5",
         "type": "rss"
       }
     ]
@@ -373,6 +539,62 @@
     ],
     "impact": "positive",
     "title": "TCL Expands Designer Series With A300L QLED and A400U QD Mini LED Art TVs - ecoustics.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNNTB5cEFjS2FSN1VyS3lnMnpUVkE3b1lraUJ0a0hhTVhUWEl6bVFla3hNVW1SR3NQR2tVd3NYT21yYzFHekZEX2VqNml0X1JTa0VVNGlpcUI2bE9hcTRFT1JtSkpvb2ROYTQyMTZxdj",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNTB5cEFjS2FSN1VyS3lnMnpUVkE3b1lraUJ0a0hhTVhUWEl6bVFla3hNVW1SR3NQR2tVd3NYT21yYzFHekZEX2VqNml0X1JTa0VVNGlpcUI2bE9hcTRFT1JtSkpvb2ROYTQyMTZxdjQwVEx0c1d5Uk9heDR4RW9uNQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-10-017",
+    "date": "2026-09-10",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Corning Just Locked In a Massive Verizon Fiber Deal as AI Infrastructure Expands - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOHlvYlBsRHJNQ3Ffal9QeEszMW1aREh2ellxR2hvNlNGQVIzUFgtUm1qVmNaWlRWU3RXOGJ1WXNmLUVEcWc1ZTh4SGFHazJPRFdEU3Jod2RrUDRRUUh3QWF1MHh4d3U1bFpUY043dU",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOHlvYlBsRHJNQ3Ffal9QeEszMW1aREh2ellxR2hvNlNGQVIzUFgtUm1qVmNaWlRWU3RXOGJ1WXNmLUVEcWc1ZTh4SGFHazJPRFdEU3Jod2RrUDRRUUh3QWF1MHh4d3U1bFpUY043dUFabVdxczBPdGhqSTVlMHp1WktvMUFWSC1nR1BKWm0wb0tOWHBBZmhlSFBwaXBkaVkwZDA1QWIyR0dwSGUwUXJvQmROa1I5OVp1X3NpTnJFTXZaUnAtUktCdUhkd2M2VkFzY1B3WEJVZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-09-10-018",
+    "date": "2026-09-10",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon to Showcase Broad Range of Label and Packaging Printing Solutions at LOUPE Americas 2026 - The Cannata Report -",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1NCZzJrZTJYQ2J1Zmh6LU45QVB4cVFndi1UUFJvQXowNTlwQ2hKZEFpWXYyUHZrR0g4M09xd0VvdUd3am9UM2tta0xWR0x0ZDg3ZEhNY3BQZlFabVlmYWpKNTBpYXBUQ21Ed1M3RE",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1NCZzJrZTJYQ2J1Zmh6LU45QVB4cVFndi1UUFJvQXowNTlwQ2hKZEFpWXYyUHZrR0g4M09xd0VvdUd3am9UM2tta0xWR0x0ZDg3ZEhNY3BQZlFabVlmYWpKNTBpYXBUQ21Ed1M3REtjcmI3ZjNtSEtaRVRab1hKeg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-10-019",
+    "date": "2026-09-10",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "TCL Expands Designer Series With A300L QLED and A400U QD Mini LED Art TVs - eCoustics",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNNTB5cEFjS2FSN1VyS3lnMnpUVkE3b1lraUJ0a0hhTVhUWEl6bVFla3hNVW1SR3NQR2tVd3NYT21yYzFHekZEX2VqNml0X1JTa0VVNGlpcUI2bE9hcTRFT1JtSkpvb2ROYTQyMTZxdj",
     "sources": [
       {
