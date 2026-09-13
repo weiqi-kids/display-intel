@@ -1,0 +1,148 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T13:07:24.193184Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-09-13-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "'No coding skills needed': LG Display accelerates company-wide AI transformation - 헤럴드경제",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZRFcwajRGMmJoV2JUWWlHa0V1RGxRaGhWYnUtVDhKcDV3R1dObFZ1VmQ3bVl0Njh5a0NybkhfWnNxcXNiQzhFSjVlUGZPR1BxVnJSTkktdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI, 5G upgrades lift Taiwan's top three telecoms in August",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.67
+      },
+      "source_url": "https://www.digitimes.com/news/a20260911PD206/demand-revenue-5g-taiwan-growth.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delays trim CAEC August sales, but UPS demand outlook stays firm",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260910PD221/ups-demand-2026-revenue-lithium.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.34,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 358,
+    "dup_title": 122,
+    "too_old": 178,
+    "gate1_blocked": 35,
+    "gate2_blocked": 16,
+    "passed": 7,
+    "pass_rate": "3.0%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "Why Corning (GLW) Stock Is Up Today - Quiver Quantitative",
+      "Corning stock dips on filing for $2 billion equity distribution program - Investing.com",
+      "Why Corning Stock Keeps Going Up - The Motley Fool",
+      "Margaret Duffey Obituary - Corning Leader",
+      "Why is Corning stock surging today? - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為LGD、LG電子相關動態：「'No coding skills needed': LG Display accelerates company...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "'No coding skills needed': LG Display accelerates company-wide AI transformat...",
+        "level": "red"
+      },
+      {
+        "text": "AI, 5G upgrades lift Taiwan's top three telecoms in August（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

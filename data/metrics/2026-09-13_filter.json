@@ -1,0 +1,16 @@
+{
+  "total_raw": 358,
+  "dup_title": 122,
+  "no_date": 0,
+  "too_old": 178,
+  "gate1_fail": 35,
+  "gate2_fail": 16,
+  "passed": 7,
+  "gate2_samples": [
+    "Why Corning (GLW) Stock Is Up Today - Quiver Quantitative",
+    "Corning stock dips on filing for $2 billion equity distribution program - Investing.com",
+    "Why Corning Stock Keeps Going Up - The Motley Fool",
+    "Margaret Duffey Obituary - Corning Leader",
+    "Why is Corning stock surging today? - Investing.com"
+  ]
+}

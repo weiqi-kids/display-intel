@@ -1,5 +1,60 @@
 [
   {
+    "id": "lg_display-2026-09-13-001",
+    "date": "2026-09-13",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "'No coding skills needed': LG Display accelerates company-wide AI transformation - 헤럴드경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZRFcwajRGMmJoV2JUWWlHa0V1RGxRaGhWYnUtVDhKcDV3R1dObFZ1VmQ3bVl0Njh5a0NybkhfWnNxcXNiQzhFSjVlUGZPR1BxVnJSTkktdw?oc=5\" target=\"_blank\">'No codin",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZRFcwajRGMmJoV2JUWWlHa0V1RGxRaGhWYnUtVDhKcDV3R1dObFZ1VmQ3bVl0Njh5a0NybkhfWnNxcXNiQzhFSjVlUGZPR1BxVnJSTkktdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-13-002",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI, 5G upgrades lift Taiwan's top three telecoms in August",
+    "summary": "Strong demand for AI and AI data centers, along with a wave of enterprise information and communications technology (ICT) projects moving into delivery, helped Taiwan's top three telecom operators ext",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260911PD206/demand-revenue-5g-taiwan-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-13-003",
+    "date": "2026-09-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Delays trim CAEC August sales, but UPS demand outlook stays firm",
+    "summary": "<p class=\"P1\" data-start=\"2823\" data-end=\"3204\">Changs Ascending Enterprise (CAEC) said some shipments of lithium iron phosphate battery systems used in semiconductor uninterruptible power supply equi",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260910PD221/ups-demand-2026-revenue-lithium.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-09-12-001",
     "date": "2026-09-12",
     "companies": [],
@@ -49,6 +104,24 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260911PD230/pegatron-revenue-apple-2026-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-12-004",
+    "date": "2026-09-12",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Corning Sees $20B Run Rate Early as Verizon Deal Fuels Data-Center Growth - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNTEdiN1NrSC12M1RfV2ExaXY4MnFKUHhGenF2bmY1MzU1bkhtRWVtVlpCdDY2R2FUZ2xsNjVlLXVLakdnVmJRVjlZbElhUHFxdnVoRVRFWnBNZjQtbGIweGNzSGM0b29EblRWQUtZSn",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTEdiN1NrSC12M1RfV2ExaXY4MnFKUHhGenF2bmY1MzU1bkhtRWVtVlpCdDY2R2FUZ2xsNjVlLXVLakdnVmJRVjlZbElhUHFxdnVoRVRFWnBNZjQtbGIweGNzSGM0b29EblRWQUtZSnlrb2RveDNuWlQxeEdPZmNmNmI0b2hsTnIxZFdZZGN4aF8xclBIZ2Yxc0xSbnBQemRmLWhmcnFhOVlNVFpTNTNrelM1ZGFJd0xfUGZDcVJfN1UwbkdTUEIwa2ZCNEpnZw?oc=5",
         "type": "rss"
       }
     ]
@@ -605,6 +678,26 @@
     ]
   },
   {
+    "id": "himax-2026-09-10-020",
+    "date": "2026-09-10",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "positive",
+    "title": "Himax to Showcase Industry-Leading Automotive Display and - globenewswire.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgJBVV95cUxOY19XSFc1MDFqVEhLM0VfSmw4alFhMkx2ZzBQWmhqa0dBdnMzQ1k4SHp2OXFFYjRtaWpvQ2ZON1RpbVZlUlkwNi01dmd3UkNWRmhINVhqWFd0NDVwQ0Y5S0xsMlNzUFRsRkxvMjBKOE",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOY19XSFc1MDFqVEhLM0VfSmw4alFhMkx2ZzBQWmhqa0dBdnMzQ1k4SHp2OXFFYjRtaWpvQ2ZON1RpbVZlUlkwNi01dmd3UkNWRmhINVhqWFd0NDVwQ0Y5S0xsMlNzUFRsRkxvMjBKOE05YTlNRVVMd0x3Wnl1SGtnVDA4QTgtMHEyU2x5MFJLNHQxWmNWQ0V1Slp0NkxYR3RpOUxWUjVJZTVQdjVxbFNGVUJSWk05TFN6c29Vd2NpNFBDeWNGYjRnRVNRU0o0ODZIYW5JRmctTDNBZUxiVFh0YXR0V1M2dmpMZENlcHpUNHVYdjV5a3ZlZzlXSWlVZjd4TXR6X05JUS1tSDRJMUpBdmU1b1c0NmlZaWhFb0psa0lPNWNzT3VjMGpETU9SUVRPNUY5MDZ0V0lxT1hHZ1B4bXl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-09-09-001",
     "date": "2026-09-09",
     "companies": [
@@ -1019,6 +1112,24 @@
     ]
   },
   {
+    "id": "corning-2026-09-09-023",
+    "date": "2026-09-09",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning, Inc. announces multi-billion Verizon partnership - mytwintiers.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlNLb2hjdVNlU2pHVW84alhLS3ZQbVJ3SUhNb3hTQkYweTN2U0pQUUdJbDJYY1JUUXczRDdSMjRjRjdzUmdfb1JjTWxaZW9ySng1LTF4MHlrcXcxTkFzX2ZIdGtfdTV4Q2FvSEZGMG",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlNLb2hjdVNlU2pHVW84alhLS3ZQbVJ3SUhNb3hTQkYweTN2U0pQUUdJbDJYY1JUUXczRDdSMjRjRjdzUmdfb1JjTWxaZW9ySng1LTF4MHlrcXcxTkFzX2ZIdGtfdTV4Q2FvSEZGMG9YM2pTNnUxc25mMl9oQTB2ZHhJWXE4Vkx3MFFuTEZEdjJQM1UxcDNXTTF1QkJEWUFG0gGmAUFVX3lxTE16UVFodDBRQXo0dThDN3FCRWFUUnI0Q2Jva2R2eTlhUUFJaFRlUVB6NlhXRmZuX2dDUWF4SlNVT1ZWa1MzY0xzakQ4d2tTbnBad3l2MGhiR3dNNlNaeEVqaUpSWWF0Z0tJQTBFU3NONFBsZnQzMHREdVo3end6N19rcUVBQ19yZlJJQ0NlZXo3OV9qSkFzMHhJVHJVOV92NW1IaHAybmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-09-08-001",
     "date": "2026-09-08",
     "companies": [
@@ -1425,6 +1536,26 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQajRhZThhWjRyREU0ZHBra0ppREtwdFI1T25vbGFkZHVCY1ZrbnZ0aWZKS0x3SXcwNDQyUV90VU9hTDA2dTh2QnRKeTBlMFBfRWNJbEhFcHFIZGoyUTdkdThfblk5azRWU1RuMHRLQ1pxU1F1cm1fcThEVDd3WW1FQU4tSW1FQ1pUNldxRVhMbmg1ZloweFUySFBqU2dYSGlyY1JMQXBkMXNtNm04VVZnSjlzWDlQakVVMUxPUA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-09-08-023",
+    "date": "2026-09-08",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "positive",
+    "title": "Himax Unveils Industry-Leading eDP TDDI, Advancing Automotive Display Technology - globenewswire.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOODlGWGNSVmx4cXJNLTZqeDZQQ2ZPX0dRMHZLbm5hbFZTQUVfNnEwYVZ3VnJMTy1VZWRBNi15ay1RN1ROQmdGUlptd3RJbXRTc3dja2ZkRDgtd1JWMGZDX3hsMmdhX2I2Zi1uVjJlOE",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOODlGWGNSVmx4cXJNLTZqeDZQQ2ZPX0dRMHZLbm5hbFZTQUVfNnEwYVZ3VnJMTy1VZWRBNi15ay1RN1ROQmdGUlptd3RJbXRTc3dja2ZkRDgtd1JWMGZDX3hsMmdhX2I2Zi1uVjJlOEJNRkVzaUtiQldVcW1RVjVMeFZRR0F4WlBmTGNMQ2I5QWlyZnV0UlByZmJTUzJfeVZ4TUlGVUtWeUxqd0k2dnV1Zms0MlZiU1BaeUtqMjVyMmc3anZRcnJXRk5aendhNlNYUTNiVWx6ak83SS15Zm9BMVNPNXM4QQ?oc=5",
         "type": "rss"
       }
     ]
