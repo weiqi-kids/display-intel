@@ -1,0 +1,16 @@
+{
+  "total_raw": 378,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 37,
+  "gate2_fail": 18,
+  "passed": 13,
+  "gate2_samples": [
+    "Corning Incorporated Stock (GLW) Opinions on Equity Distribution Agreement - Moomoo",
+    "Is Corning Stock Outperforming the Nasdaq? - Barchart.com",
+    "Corning stock dips on filing for $2 billion equity distribution program - Investing.com",
+    "Samsung Galaxy S25 Edge Features New Corning® Gorilla® Glass Ceramic 2 for Enhanced Durability - Sam",
+    "Why Corning Stock Keeps Going Up - The Motley Fool"
+  ]
+}

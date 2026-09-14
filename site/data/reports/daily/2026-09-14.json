@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T14:44:07.319992Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-09-14-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display expands AX program to foster in-house AI experts - 매일경제",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45ZlVJVWxqT1gzVXlMVUhMclpjQThrLUR0OWMwNkVwVU9PRWxZZlZzN3JtQmdoc0tDVlVJUzBhZmlrdm0xZmhHTGlDc2poeV9MMzlaWjh1cw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-14-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI demand lifts UMC, VIS, PSMC revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260914PD235/demand-revenue-price-umc-psmc.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-14-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan eases investment rules for AI center infrastructure projects",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260914PD209/infrastructure-investment-moda-taiwan-government.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "corning-2026-09-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corning Incorporated: Priced For The Ambition, Not The Confident Case (NYSE:GLW) - Seeking Alpha",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcFhBSldaVTQxODhtcHhWN2ltOUdUbTFsSnlPaTB5MWZzRHAyVWhObm9tWXRfY3dYekNRWHc1Y2J4RUl4NDZFS0pMcE9SMFFjSVZDeTJ5RVBRZkxvVFhzV0pJVjNJbkh1WlF5VUg1QVlzaEJDTlRrRFlETXJ6Q2pzWEpNYkhzNkZKc3FDZGlKbmxGZDdkWFpQWVowZnRNdEgzSmhWRXhNdWhFenBqWW5Z?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "corning-2026-09-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corning Launches Up to $2 Billion At-the-Market Program - Intellectia AI",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWll5U01GazN2Nkc2d3ZnN3FoZ2JOblZ2bnVFTVhqazI2aGRpWW83T1U2Ml9hYXNubjlYV01IdTZROVN2b2pjUkg4b1pMSGlhUTR5SDlFaUpoa3IzaEtVbXU3Z0hYaDNlUWJuZ2h1NGtYUEljZlRqMzA4NjJrOG9CWV9BeUhSTWZPODAxY2FKOA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 3
+      },
+      {
+        "id": "tcl",
+        "count": 3
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 378,
+    "dup_title": 134,
+    "too_old": 176,
+    "gate1_blocked": 37,
+    "gate2_blocked": 18,
+    "passed": 13,
+    "pass_rate": "5.3%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "Corning Incorporated Stock (GLW) Opinions on Equity Distribution Agreement - Moomoo",
+      "Is Corning Stock Outperforming the Nasdaq? - Barchart.com",
+      "Corning stock dips on filing for $2 billion equity distribution program - Investing.com",
+      "Samsung Galaxy S25 Edge Features New Corning® Gorilla® Glass Ceramic 2 for Enhanced Durability - Sam",
+      "Why Corning Stock Keeps Going Up - The Motley Fool"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為康寧、TCL Technology、LG電子相關動態：「LG Display expands AX program to foster in-house AI exper...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display expands AX program to foster in-house AI experts - 매일경제",
+        "level": "red"
+      },
+      {
+        "text": "AI demand lifts UMC, VIS, PSMC revenue（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
