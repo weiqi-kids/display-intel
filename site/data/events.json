@@ -1,5 +1,174 @@
 [
   {
+    "id": "canon-2026-09-15-001",
+    "date": "2026-09-15",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon deploys largest photographer support operation at 2026 Asian Games - Canon Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE11THpSSWpCeFhWc251cnhlNFE2d3JRQVRBbW95UThpUFNLaWQ2b1IzOW5OdXFyVms2blJwUTJVa1NHekd3djJxaVZfTkN3enltWVNHS1V0NDJuM0E?oc=5\" target=\"_blank\">Cano",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11THpSSWpCeFhWc251cnhlNFE2d3JRQVRBbW95UThpUFNLaWQ2b1IzOW5OdXFyVms2blJwUTJVa1NHekd3djJxaVZfTkN3enltWVNHS1V0NDJuM0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-15-002",
+    "date": "2026-09-15",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display Unveils 10,000-Nit OLED Panel for Smartphones - mediasat.info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxONVRkOW5KSThlX0lacDFPTG13amoyMzlkN2FudE05SkZjX3RGaG9QUGIxcWQ0ZlJZeDBGZ3RQMDNqbldBTUJQZ1JYbFlySm1VQk03bmMweldOZXhPVFgyUGlqR0VkaFFKM0tvUWdvVj",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONVRkOW5KSThlX0lacDFPTG13amoyMzlkN2FudE05SkZjX3RGaG9QUGIxcWQ0ZlJZeDBGZ3RQMDNqbldBTUJQZ1JYbFlySm1VQk03bmMweldOZXhPVFgyUGlqR0VkaFFKM0tvUWdvVjBMZ1M2b2tiY0QtYnAtdHloN2pQWlY1SC02aGZhdU1Dek9ISEdHWGt0X2d5a3NXQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-15-003",
+    "date": "2026-09-15",
+    "companies": [
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung, LG drive OLED into pro esports as gaming demand surges in South Korea - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5tWDZKd0RPejRxdk51bG1Yb3psV3d4T2lIVGR1ajQ5bDhLSVVtcWxkcWotalFtS3RBRDQ5eTZFZFNIWVlrZFY2RFFlNnVyOVhybDdHZ2ZZSGtiMXFwYzlicTBZWTBNT2d3MnBYeDNWSE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tWDZKd0RPejRxdk51bG1Yb3psV3d4T2lIVGR1ajQ5bDhLSVVtcWxkcWotalFtS3RBRDQ5eTZFZFNIWVlrZFY2RFFlNnVyOVhybDdHZ2ZZSGtiMXFwYzlicTBZWTBNT2d3MnBYeDNWSEFyeHlGajQ0RF9B0gGOAUFVX3lxTE14Y1BJV2h0ZUhXQUllb25za2xqbDg2U0JfWlZsS1BfQnV1N0V0bk1kX2lNelFkc0JKUndBQl9lelNtR2UwZkhMOFByR0lwejI1dGlRYmtzbjV1VWF4OTFZajdpZ1V4eGdNTXpNLS1mRlgzV0ZRUGZlenlSNEY3Q1FuNjN6dDl2cEI1UGg0eWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-004",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Rayvision's complete OLED microdisplay line is now available on the OLED Marketplace",
+    "summary": "<p>OLED microdisplay producer <a href=\"https://www.oled-info.com/rayvision-technology\">Rayvision Technology</a> operates an 8-inch silicon-OLED fab in Guangxi that entered production in &nbsp;2023, an",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/rayvisions-complete-oled-microdisplay-line-now-available-oled-marketplace",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-15-005",
+    "date": "2026-09-15",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple's foldable debut set to further widen Samsung Display's OLED lead",
+    "summary": "Samsung Display could emerge as one of the biggest supply-chain beneficiaries of Apple's entry into foldable smartphones, as the Korean panel maker already accounts for about two-thirds of global fold",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260915VL225/sdc-apple-foldable-panel-iphone.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-15-006",
+    "date": "2026-09-15",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AI servers are eating MLCC capacity, and Chinese suppliers are taking what's left",
+    "summary": "<p class=\"P1\" data-start=\"2559\" data-end=\"2866\">AI servers are reshaping the global multilayer ceramic capacitor (MLCC) market. Murata Manufacturing and Samsung Electro-Mechanics (SEMCO) are steering ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260914VL212/mlcc-capacity-market-semco-murata.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-15-007",
+    "date": "2026-09-15",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Interview: Corning sees CPO, glass core as new semiconductor battlegrounds",
+    "summary": "<p class=\"P1\" data-start=\"2246\" data-end=\"2768\">As artificial intelligence applications accelerate, surging global semiconductor demand is pushing advanced packaging, co-packaged optics (CPO), glass c",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260915PD233/corning-cpo-packaging-demand-auo.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-008",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "South Korea updates AI safeguards as Microsoft sets shutdown rules",
+    "summary": "<p class=\"P1\" data-start=\"4200\" data-end=\"4475\">South Korea is updating its artificial intelligence security guidance as companies deploy AI agents capable of operating with limited human supervision,",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260915VL222/microsoft-security-guidance.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-009",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Micron's record Taiwan payout fails to end union demand for 15% of profits",
+    "summary": "Micron Technology's Taiwan union is pressing for a permanent profit-sharing formula despite the US memory chipmaker announcing its largest employee rewards package to date, leaving a labour dispute un",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260915PD234/micron-taiwan-2025-operating-profit.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-09-14-001",
     "date": "2026-09-14",
     "companies": [
@@ -198,6 +367,64 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYzczdXVBZ0ZhMVN6QlVFaTZ6eWxsbkpPcHdIOWQ5U1hmNFdLN3BxWjF6Qk5QeUhmazJuYV9xZjFuM25tRlNER3BLOEVTVk9CeVYtNk1LdlBDZlByQmZpR2JGMFV1RVU2NTVsQlNpZDNmUnR0azZvdjE3N1FaZ29pa1Zndi1kVTRCRktpRGo5RkxMUdIBlwFBVV95cUxPOG1PSko5M3c2d245M2xLcGZGLVlLb0NKWEZVOG55Y19MRWpjRkJXZG5yNUJqS21INDhaSHRpWW1ZM3VURjNZX3N5VlBTRExDZU4zNHNwb0RUenVQM3dGWnVqbXRwdnBPdUVSdG1mczdjMjB2VU9zSlBEY3pDTjhLQzJZelFhS2hhNzltX2J1OWg0UkJ2bl84?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-14-012",
+    "date": "2026-09-14",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Corning tumbles 14% on $2 billion equity offering (GLW:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOblhyR2dOMW93MWtrNnZQMTBuUHFaZzE4R3F3aTZfZ0JHcVVJYUxQWHZRRzBULXFXSkJSWE13bHdTRkZDZGVORVpmRzJVSGlIN2sxa2gxU3g2R0FuSGUwNHNkOTBRMGR3SXVMVEVGel",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOblhyR2dOMW93MWtrNnZQMTBuUHFaZzE4R3F3aTZfZ0JHcVVJYUxQWHZRRzBULXFXSkJSWE13bHdTRkZDZGVORVpmRzJVSGlIN2sxa2gxU3g2R0FuSGUwNHNkOTBRMGR3SXVMVEVGelBQZGNTRzY4YmtITVVIcmp4NzJUTjFCcFhudHNHSWtZY0lkUjc4SmVkMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-14-013",
+    "date": "2026-09-14",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Incorporated Launches $2 Billion At-the-Market Equity Offering with Goldman Sachs (NYSE: GLW) - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlptMWhpUE1jdFVtWjVCYklqUTdWMVpPdlR5NldrZm5PQmV6S0h0Rlc2OUx3ODY4ejBPWEFuRENzWENoQzRWMFhLUy0tY3JjREpEQkpNWXNSd2RYOTNycUR2eUhIYkxZYXJ2UjFwM2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlptMWhpUE1jdFVtWjVCYklqUTdWMVpPdlR5NldrZm5PQmV6S0h0Rlc2OUx3ODY4ejBPWEFuRENzWENoQzRWMFhLUy0tY3JjREpEQkpNWXNSd2RYOTNycUR2eUhIYkxZYXJ2UjFwM2Y4LXpUOXJ6V0dWNzJZR01VYmVTMi1BWC1iM1V2RWQ4Q1RUWDBtb0EzaS01LVduTF9oLWNfX1NzWEtDSDFTUElRYmFYblF6R0pJVHM3Z0tlQm51TnZIS3RQSDk0ZC0wMl9fbWVCSFFOcVNrc1Zv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-14-014",
+    "date": "2026-09-14",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Mini LED Under the Microscope: What Makes the Picture of SQD-Mini LED TV Better? - Gadget Pilipinas",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFAzX0tpMFdySzVuclZsQ2dPTUpYUjB6S1dkYXlzZ1FrTjZnbUUxQ0NaU20xN1FCRTBLT3NZXzNWUEZaaDNmSWRqWkphTzRKb2JLa3MyY1hrdkdYRXZWaXg0cGtXNEZ2U29zYU5MbjgtNA",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzX0tpMFdySzVuclZsQ2dPTUpYUjB6S1dkYXlzZ1FrTjZnbUUxQ0NaU20xN1FCRTBLT3NZXzNWUEZaaDNmSWRqWkphTzRKb2JLa3MyY1hrdkdYRXZWaXg0cGtXNEZ2U29zYU5MbjgtNA?oc=5",
         "type": "rss"
       }
     ]
@@ -1367,6 +1594,26 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlNLb2hjdVNlU2pHVW84alhLS3ZQbVJ3SUhNb3hTQkYweTN2U0pQUUdJbDJYY1JUUXczRDdSMjRjRjdzUmdfb1JjTWxaZW9ySng1LTF4MHlrcXcxTkFzX2ZIdGtfdTV4Q2FvSEZGMG9YM2pTNnUxc25mMl9oQTB2ZHhJWXE4Vkx3MFFuTEZEdjJQM1UxcDNXTTF1QkJEWUFG0gGmAUFVX3lxTE16UVFodDBRQXo0dThDN3FCRWFUUnI0Q2Jva2R2eTlhUUFJaFRlUVB6NlhXRmZuX2dDUWF4SlNVT1ZWa1MzY0xzakQ4d2tTbnBad3l2MGhiR3dNNlNaeEVqaUpSWWF0Z0tJQTBFU3NONFBsZnQzMHREdVo3end6N19rcUVBQ19yZlJJQ0NlZXo3OV9qSkFzMHhJVHJVOV92NW1IaHAybmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-09-09-024",
+    "date": "2026-09-09",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Does New Car Display Chips Change The Bull Case For Himax Technologies Stock? - webull.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vYVBCelVJUUxKNHpNOUc5RkZQT29xTmhSOGIzQ2Rfa1RZb0o5YnRoWFI1c29WQWZ0b0NGZUJ6d2FjaWVCU3BoYkRhVy1IUTMtNVFmcVRWR0Y?oc=5\" target=\"_blank\">Does New",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vYVBCelVJUUxKNHpNOUc5RkZQT29xTmhSOGIzQ2Rfa1RZb0o5YnRoWFI1c29WQWZ0b0NGZUJ6d2FjaWVCU3BoYkRhVy1IUTMtNVFmcVRWR0Y?oc=5",
         "type": "rss"
       }
     ]

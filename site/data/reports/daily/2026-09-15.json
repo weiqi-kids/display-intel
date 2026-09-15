@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T13:08:50.651480Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-15-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Micron's record Taiwan payout fails to end union demand for 15% of profits",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260915PD234/micron-taiwan-2025-operating-profit.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-15-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "South Korea updates AI safeguards as Microsoft sets shutdown rules",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260915VL222/microsoft-security-guidance.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-09-15-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Samsung, LG drive OLED into pro esports as gaming demand surges in South Korea - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "lg_elec",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tWDZKd0RPejRxdk51bG1Yb3psV3d4T2lIVGR1ajQ5bDhLSVVtcWxkcWotalFtS3RBRDQ5eTZFZFNIWVlrZFY2RFFlNnVyOVhybDdHZ2ZZSGtiMXFwYzlicTBZWTBNT2d3MnBYeDNWSEFyeHlGajQ0RF9B0gGOAUFVX3lxTE14Y1BJV2h0ZUhXQUllb25za2xqbDg2U0JfWlZsS1BfQnV1N0V0bk1kX2lNelFkc0JKUndBQl9lelNtR2UwZkhMOFByR0lwejI1dGlRYmtzbjV1VWF4OTFZajdpZ1V4eGdNTXpNLS1mRlgzV0ZRUGZlenlSNEY3Q1FuNjN6dDl2cEI1UGg0eWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "canon-2026-09-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Canon deploys largest photographer support operation at 2026 Asian Games - Canon Global",
+      "companies": [
+        "canon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11THpSSWpCeFhWc251cnhlNFE2d3JRQVRBbW95UThpUFNLaWQ2b1IzOW5OdXFyVms2blJwUTJVa1NHekd3djJxaVZfTkN3enltWVNHS1V0NDJuM0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-09-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Display Unveils 10,000-Nit OLED Panel for Smartphones - mediasat.info",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONVRkOW5KSThlX0lacDFPTG13amoyMzlkN2FudE05SkZjX3RGaG9QUGIxcWQ0ZlJZeDBGZ3RQMDNqbldBTUJQZ1JYbFlySm1VQk03bmMweldOZXhPVFgyUGlqR0VkaFFKM0tvUWdvVjBMZ1M2b2tiY0QtYnAtdHloN2pQWlY1SC02aGZhdU1Dek9ISEdHWGt0X2d5a3NXQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 4
+      },
+      {
+        "id": "canon",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      },
+      {
+        "id": "corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 367,
+    "dup_title": 131,
+    "too_old": 179,
+    "gate1_blocked": 26,
+    "gate2_blocked": 18,
+    "passed": 13,
+    "pass_rate": "5.5%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "Corning: The AI Opportunity Is Huge, But So Is The Valuation - Seeking Alpha",
+      "Corning Incorporated Stock (GLW) Opinions on Equity Distribution Agreement - Quiver Quantitative",
+      "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fab",
+      "Corning Incorporated Stock Analysis: Key Support Test After $2B Offering - en.cryptonomist.ch",
+      "Corning Inc Stock (GLW) Closed Down by 13.70% on Sep 14: Facts Behind the Movement - TradingKey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為三星電子、佳能、LG電子相關動態：「Micron's record Taiwan payout fails to end union demand f...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Micron's record Taiwan payout fails to end union demand for 15% of profits（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "South Korea updates AI safeguards as Microsoft sets shutdown rules（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

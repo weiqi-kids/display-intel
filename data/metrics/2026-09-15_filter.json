@@ -1,0 +1,16 @@
+{
+  "total_raw": 367,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 179,
+  "gate1_fail": 26,
+  "gate2_fail": 18,
+  "passed": 13,
+  "gate2_samples": [
+    "Corning: The AI Opportunity Is Huge, But So Is The Valuation - Seeking Alpha",
+    "Corning Incorporated Stock (GLW) Opinions on Equity Distribution Agreement - Quiver Quantitative",
+    "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fab",
+    "Corning Incorporated Stock Analysis: Key Support Test After $2B Offering - en.cryptonomist.ch",
+    "Corning Inc Stock (GLW) Closed Down by 13.70% on Sep 14: Facts Behind the Movement - TradingKey"
+  ]
+}

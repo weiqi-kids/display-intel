@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-14T14:44:04",
+  "updated_at": "2026-09-15T13:08:47",
   "etfs": {
     "SMH": {
       "name": "VanEck Semiconductor ETF",
-      "latest_price": 541.27,
-      "daily_change_pct": -4.79,
-      "flow_5d": -90607626,
-      "flow_20d": -353449113,
+      "latest_price": 541.5,
+      "daily_change_pct": -4.75,
+      "flow_5d": -279423458,
+      "flow_20d": -542264945,
       "flow_trend": "outflow",
       "daily_flow": [
         {
@@ -185,18 +185,18 @@
         },
         {
           "date": "2026-09-14",
-          "flow": -98456305,
-          "volume": 3611750,
-          "change_pct": -4.79
+          "flow": -287272137,
+          "volume": 10627900,
+          "change_pct": -4.75
         }
       ]
     },
     "SOXX": {
       "name": "iShares Semiconductor ETF",
-      "latest_price": 497.43,
-      "daily_change_pct": -5.62,
-      "flow_5d": -72348435,
-      "flow_20d": -413532027,
+      "latest_price": 497.4,
+      "daily_change_pct": -5.63,
+      "flow_5d": -268576039,
+      "flow_20d": -609759631,
       "flow_trend": "outflow",
       "daily_flow": [
         {
@@ -375,18 +375,18 @@
         },
         {
           "date": "2026-09-14",
-          "flow": -127647624,
-          "volume": 4306600,
-          "change_pct": -5.62
+          "flow": -323875228,
+          "volume": 10915916,
+          "change_pct": -5.63
         }
       ]
     },
     "SOXQ": {
       "name": "Invesco PHLX Semiconductor ETF",
-      "latest_price": 87.91,
-      "daily_change_pct": -5.57,
-      "flow_5d": -4647755,
-      "flow_20d": -21816625,
+      "latest_price": 87.67,
+      "daily_change_pct": -5.83,
+      "flow_5d": -12250299,
+      "flow_20d": -29419169,
       "flow_trend": "outflow",
       "daily_flow": [
         {
@@ -565,9 +565,9 @@
         },
         {
           "date": "2026-09-14",
-          "flow": -5654801,
-          "volume": 1089557,
-          "change_pct": -5.57
+          "flow": -13257345,
+          "volume": 2441500,
+          "change_pct": -5.83
         }
       ]
     }
