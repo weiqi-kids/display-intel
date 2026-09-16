@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T13:06:44.173705Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "canon-2026-09-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Canon announces 'Dual Pixel 3D': A simple 3D Image Generation Technology - mynewsdesk.com",
+      "companies": [
+        "canon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOTnlIN2JKZzdvVzNlVVgydDBUZm8wZFBIZFc4c1ZvWlIwWWRzaGhEYVg5ZVBiMWNqZ1ZDd3JNTndDdkdsekc4VTVJX29palBlcFFOR0xfRHhiZUJDRjNGWkhFLTVfOTNNVEFtRHUxbHRIaFRidGpnUGJKamVkbUJBMFJrZ2x1OURoMnFMN21jWGhaOFBaWHladjgtbjhnaUg3cW9qWTRGVk5CbGZaWnVLVEhwMVd6cUtyeDdEZGtGV3RWc2VBaVJSdERwRTR2LWJUWkR3d01HZGxfMVJuRHRUMmxXdWkzd3k3aG1qenh6MTNYRTdEVFNBUkpJYTZ4dy1PSklkV0hoMnMzZFpfMTl1cS1YNHlxd0pQZEg0SnM0MFFuaVJMLU5QUw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "himax-2026-09-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax Technologies (HIMX) Launches New Auto Display Chips, Is The Upside Already Priced In? - Yahoo Finance",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdlVkaDB5VjZBUWpMNE5xZmMxX25UNnRncnJCamQxYlh0Q01uWWI3bGJxQnJKQWxERnVEa3lRdFFtNWc0MkRiRG1zQkJMV3dtUDRkSDNSOWl4Wldhb2htM09GQ25ORlhwaHdmMUNvTlYtQ0FEMThhZExWUEdUWFgxbmhYREJwWnZUNjU3a19FQnA5S0NPT1BoZlZrZS1UYmc4U3BGcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_elec-2026-09-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "[Interview] The People Behind the Galaxy Z Series’ Camera Innovations ②: How Portrait Video Recreates the Look of Professional Camera Lenses",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/interview-the-people-behind-the-galaxy-z-series-camera-innovations-%e2%91%a1-how-portrait-video-recreates-the-look-of-professional-camera-lenses"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New Opportunities for OLED Display Makers to Sell Downgraded and Contaminated D₂O",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/new-opportunities-oled-display-makers-sell-downgraded-and-contaminated-d-o"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OLED display backplanes, part 5 of 7: LTPO, the hybrid backplane behind always-on and 1-120Hz displays",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/oled-display-backplanes-part-57-ltpo-hybrid-backplane-behind-always-VRR"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tcl",
+        "count": 2
+      },
+      {
+        "id": "canon",
+        "count": 1
+      },
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 358,
+    "dup_title": 131,
+    "too_old": 174,
+    "gate1_blocked": 20,
+    "gate2_blocked": 21,
+    "passed": 12,
+    "pass_rate": "5.3%",
+    "gate2_block_rate": "9.3%",
+    "gate2_samples": [
+      "Is Corning Stock Outperforming the Nasdaq? - Barchart.com",
+      "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fab",
+      "Corning Incorporated Stock Analysis: Key Support Test After $2B Offering - The Cryptonomist",
+      "Corning, Cellectis, Biodexa Pharmaceuticals And Other Big Stocks Moving Lower In Monday’s Pre-Market",
+      "Corning Inc Stock (GLW) Closed Down by 13.70% on Sep 14: Facts Behind the Movement - TradingKey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為TCL Technology、佳能、Himax Technologies相關動態：「Canon announces 'Dual Pixel 3D': A simple 3D Image Genera...」。主要關注主題為OLED 滲透率、Mini LED、面板價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Canon announces 'Dual Pixel 3D': A simple 3D Image Generation Technology - my...",
+        "level": "green"
+      },
+      {
+        "text": "Himax Technologies (HIMX) Launches New Auto Display Chips, Is The Upside Alre...",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

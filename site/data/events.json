@@ -1,5 +1,136 @@
 [
   {
+    "id": "canon-2026-09-16-001",
+    "date": "2026-09-16",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon announces 'Dual Pixel 3D': A simple 3D Image Generation Technology - mynewsdesk.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxOTnlIN2JKZzdvVzNlVVgydDBUZm8wZFBIZFc4c1ZvWlIwWWRzaGhEYVg5ZVBiMWNqZ1ZDd3JNTndDdkdsekc4VTVJX29palBlcFFOR0xfRHhiZUJDRjNGWkhFLTVfOTNNVEFtRHUxbH",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOTnlIN2JKZzdvVzNlVVgydDBUZm8wZFBIZFc4c1ZvWlIwWWRzaGhEYVg5ZVBiMWNqZ1ZDd3JNTndDdkdsekc4VTVJX29palBlcFFOR0xfRHhiZUJDRjNGWkhFLTVfOTNNVEFtRHUxbHRIaFRidGpnUGJKamVkbUJBMFJrZ2x1OURoMnFMN21jWGhaOFBaWHladjgtbjhnaUg3cW9qWTRGVk5CbGZaWnVLVEhwMVd6cUtyeDdEZGtGV3RWc2VBaVJSdERwRTR2LWJUWkR3d01HZGxfMVJuRHRUMmxXdWkzd3k3aG1qenh6MTNYRTdEVFNBUkpJYTZ4dy1PSklkV0hoMnMzZFpfMTl1cS1YNHlxd0pQZEg0SnM0MFFuaVJMLU5QUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-09-16-002",
+    "date": "2026-09-16",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) Launches New Auto Display Chips, Is The Upside Already Priced In? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNdlVkaDB5VjZBUWpMNE5xZmMxX25UNnRncnJCamQxYlh0Q01uWWI3bGJxQnJKQWxERnVEa3lRdFFtNWc0MkRiRG1zQkJMV3dtUDRkSDNSOWl4Wldhb2htM09GQ25ORlhwaHdmMUNvTl",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdlVkaDB5VjZBUWpMNE5xZmMxX25UNnRncnJCamQxYlh0Q01uWWI3bGJxQnJKQWxERnVEa3lRdFFtNWc0MkRiRG1zQkJMV3dtUDRkSDNSOWl4Wldhb2htM09GQ25ORlhwaHdmMUNvTlYtQ0FEMThhZExWUEdUWFgxbmhYREJwWnZUNjU3a19FQnA5S0NPT1BoZlZrZS1UYmc4U3BGcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-16-003",
+    "date": "2026-09-16",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[Interview] The People Behind the Galaxy Z Series’ Camera Innovations ②: How Portrait Video Recreates the Look of Professional Camera Lenses",
+    "summary": "Unveiled at Galaxy Unpacked July 2026, Samsung Electronics’ Galaxy Z series introduces My FanCam — a new feature that lets users focus their edits on a person of their choice — as well as an enhanced ",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/interview-the-people-behind-the-galaxy-z-series-camera-innovations-%e2%91%a1-how-portrait-video-recreates-the-look-of-professional-camera-lenses",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-16-004",
+    "date": "2026-09-16",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "New Opportunities for OLED Display Makers to Sell Downgraded and Contaminated D₂O",
+    "summary": "<p><em>Purification and upgrading capabilities of firms like Isowater enable D₂O recycling while supporting efforts to address the growing global shortage of high purity D₂O</em></p><img src=\"https://",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/new-opportunities-oled-display-makers-sell-downgraded-and-contaminated-d-o",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-16-005",
+    "date": "2026-09-16",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED display backplanes, part 5 of 7: LTPO, the hybrid backplane behind always-on and 1-120Hz displays",
+    "summary": "<p>This is the fifth article in our <a href=\"https://www.oled-info.com/oled-display-backplanes-part-1-7-introduction-pmoled\">OLED display backplane series</a>. In the <a href=\"https://www.oled-info.co",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/oled-display-backplanes-part-57-ltpo-hybrid-backplane-behind-always-VRR",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-16-006",
+    "date": "2026-09-16",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL’s Pioneering SQD Mini LED Earns Industry Recognition, Reinforcing Its Leadership in Display Innovation - TheWire.in",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRXJ1ZVRuSG9DbDh5ekxQRlU4eURTbXJPNFMxa0NpMTVYQXhsSjNlOTlrNlNHMlU3V0xDODVLa1dkVGRlbGp0N1RZd2txamdMZjJJbmdMc25BaVprQ1FYVS1fLWdLcVp4aVFxcmFtcE",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRXJ1ZVRuSG9DbDh5ekxQRlU4eURTbXJPNFMxa0NpMTVYQXhsSjNlOTlrNlNHMlU3V0xDODVLa1dkVGRlbGp0N1RZd2txamdMZjJJbmdMc25BaVprQ1FYVS1fLWdLcVp4aVFxcmFtcEtqaWtVbzBEYVZHdjRDUDl5TDh4Z0ZRZmhiVWVyVGNGeDRhTjYydjFWOEhkSTAzUFFzRlBVOWhKQ1U3OHRqS25wWUJJYm5YMVZ1eklZX2VsX3BFNFUteDRnb2JObi1feEx0NWNTUGZPclc3ODDSAeABQVVfeXFMTlBEMVVTTXRGdnNrcEpCQTY5d3pPRlQwLVRYWWVleEdCMDc1S25LNG8yWlhiUy1qckE3N1Z4SXc1Um1HUkRwLU01eWdUejhJVXZGWlpSVG5nNmJKM1k3a1Y2MS1BTWZnYkVqbVVQcldLd2lsTzJCVVY5VVhYUXJKQzUxN2NBTlJWWmhlS2RHS0ZGbTRWcWVsTlM2alNpME5vQVMzbEM4VzlwRkQ3eW9SMkU3RWI0d3lueDJmcGQ2cHVMNWpsejNnZG1ENEZSajVwWW5MVE9HX2RNVktXdWVtako?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-16-007",
+    "date": "2026-09-16",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "panel_price",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Omdia assessment ranks TCL SQD-Mini LED top in picture quality performance - Adgully.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNa0xIMEFuY21EcmlYOEIwaFRyMEo2WEhNSlcxYVZLLUdJTkFfem5IUHZFeTk1bkVpd3Q4TkJkc0tEWEpyX3lEWkhKSUdyOUdDRnhxRHFrY0YteDl3Nmk2Uk10cGU1WW5GSGVhY0loLV",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa0xIMEFuY21EcmlYOEIwaFRyMEo2WEhNSlcxYVZLLUdJTkFfem5IUHZFeTk1bkVpd3Q4TkJkc0tEWEpyX3lEWkhKSUdyOUdDRnhxRHFrY0YteDl3Nmk2Uk10cGU1WW5GSGVhY0loLVRxZ2dtcTNMa3RBaWNYWGdYUjNjQUIzUnphcndpRHdFX1NZeHlCblVTcXl0bWFTQ1lkZkRnbG1jYXU4bWRNdkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-09-15-001",
     "date": "2026-09-15",
     "companies": [
@@ -164,6 +295,44 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260915PD234/micron-taiwan-2025-operating-profit.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-010",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED Monitors Shift Focus from Hz to W in Office Markets - chosun.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTZ6UENZQ3pqU05vWEZIMHA4VDFwRGFnTlFpVDMyZjhHVnNRUWZCMXdEUWxPa2oyOW9Fb0M1Yk0yekw5QXo1T3hVeVZBdzMxd2d3V25YMnV3TGtWWE43Zld1VW1xXy1KZ29FalAya2",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTZ6UENZQ3pqU05vWEZIMHA4VDFwRGFnTlFpVDMyZjhHVnNRUWZCMXdEUWxPa2oyOW9Fb0M1Yk0yekw5QXo1T3hVeVZBdzMxd2d3V25YMnV3TGtWWE43Zld1VW1xXy1KZ29FalAya25nLTZJUEY2dkwxNjhSNXVzN3BFc2ZONWJH?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-15-011",
+    "date": "2026-09-15",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display latest M16 OLED stack enable 2K 165Hz AMOLED panels, up to 10,000 nits brightness",
+    "summary": "<p>Samsung Display announced its latest M16 OLED material stack, that enables the world's first 2K 165K smartphone AMOLED panel. The first M16 2K 165Hz panel will debut in the upcoming Vivo iQOO 16 ga",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-latest-m16-oled-stack-enable-2k-165hz-amoled-panels-10000-nits",
         "type": "rss"
       }
     ]
@@ -524,6 +693,24 @@
     ]
   },
   {
+    "id": "corning-2026-09-13-006",
+    "date": "2026-09-13",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Incorporated Stock (GLW) Opinions on Equity Distribution Agreement - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNeGN3X3hQb3NOUEliUFl6bTZaZDdaSTBub28yOTR2ZGZGMnl2WG1OeHhkOWwwS0ZucTlxazM0dzduMER2eFdsQkZpYTBhYXJVVkJIUFR2VnhXWnFhRzEzNzVmZ2dfZmc0ZU5IMm9lOU",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeGN3X3hQb3NOUEliUFl6bTZaZDdaSTBub28yOTR2ZGZGMnl2WG1OeHhkOWwwS0ZucTlxazM0dzduMER2eFdsQkZpYTBhYXJVVkJIUFR2VnhXWnFhRzEzNzVmZ2dfZmc0ZU5IMm9lOUxqM18tNk1TR1EyLV8wVFlGTC1FUkFlZFdIdUxScWdyemFhb2RnWGVTYmRHM3RIdmZ0UlhsWG82WlgzZHlQU3o2Ng?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-09-12-001",
     "date": "2026-09-12",
     "companies": [],
@@ -591,6 +778,24 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTEdiN1NrSC12M1RfV2ExaXY4MnFKUHhGenF2bmY1MzU1bkhtRWVtVlpCdDY2R2FUZ2xsNjVlLXVLakdnVmJRVjlZbElhUHFxdnVoRVRFWnBNZjQtbGIweGNzSGM0b29EblRWQUtZSnlrb2RveDNuWlQxeEdPZmNmNmI0b2hsTnIxZFdZZGN4aF8xclBIZ2Yxc0xSbnBQemRmLWhmcnFhOVlNVFpTNTNrelM1ZGFJd0xfUGZDcVJfN1UwbkdTUEIwa2ZCNEpnZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-12-005",
+    "date": "2026-09-12",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Announces $2 Billion At-The-Market Equity Program - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMExrUV9qUnRxa2RPaDZOenFSRXNCNkpVVDVhZXN2cG9hUjdHSDZVTHV5VmsxZURTam9zeWNzaTBja25kaERGMElYeExfY1NyQ2xWTDNpbjdSUUtkVzVCU1pqRF8tUmhwY3FkR09JV2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMExrUV9qUnRxa2RPaDZOenFSRXNCNkpVVDVhZXN2cG9hUjdHSDZVTHV5VmsxZURTam9zeWNzaTBja25kaERGMElYeExfY1NyQ2xWTDNpbjdSUUtkVzVCU1pqRF8tUmhwY3FkR09JV21xcWRxRHRXTW11amIyTXNEWEU2T1pUUkloLURXMzNsQ1VPV0lkNnRCWFNNTXY1RF80eHU1UmtIdGxrcENKOV9JTTNwbG1IclVRWjZCWkpGRnBoTUxtd3lEbFh1b1hZeHZjNGlWRExvZw?oc=5",
         "type": "rss"
       }
     ]
@@ -782,6 +987,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEZYVy1DcUdGenRUVC1oUkViOHRjZy1kNmQyZW1zLXBLTlRXQnotdHRWUnZiVGJuVEZfYlNYNnJoTUtMaFVvaFRPR2dOVktEUEZmZldOOFcwSFRYRGgya1J5WmFBNXIyeV9scWNUdVJldmNIcjB6Ulg3OUxxMG1samNaMndQZkQwZkZlTnZlNnBkWHNzQnQyRWd3WWNNZk43akIyTzVpWEdYNTRRV01KQmp1VlJwYUls?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-09-11-011",
+    "date": "2026-09-11",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Himax (HIMX) Stock Is Up Today - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVDRlSlpiSy0wNk90b0Z5UlFINDQ3TTVsckJ0VFRFMlZqTERFRmN6RVRKRWJVSGJvZjZDaDhiMFhCR21hSGpCWldqZUxsS0xUNlJEM0FhVHQyWmY3Y3BHSWswa3lYeWFMVUNiQklqMH",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVDRlSlpiSy0wNk90b0Z5UlFINDQ3TTVsckJ0VFRFMlZqTERFRmN6RVRKRWJVSGJvZjZDaDhiMFhCR21hSGpCWldqZUxsS0xUNlJEM0FhVHQyWmY3Y3BHSWswa3lYeWFMVUNiQklqMHlSWHUyc1JfUXNXZnF3a1ktdklvU0FKZGRGTlRnbU1oXy1IZEpQVjVRd0VfalE?oc=5",
         "type": "rss"
       }
     ]
