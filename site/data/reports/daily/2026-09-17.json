@@ -1,0 +1,208 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T13:03:12.768253Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "himax-2026-09-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Himax Tech Q2FY26 Results: Net profit rises to $19.9 million - scanx.trade",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMHQ0QUQ4WWEyUHhabzFIV2F2R0tzUEJ0bnNyeUxsbDZrbUFCSlJ6RTVlaWNpUzYxWnRtbUNBbk5wYTIxXzYyMEg5dXE2aDRKUzNybmZHbENpeFFzd0hnbEpYVjlWT2w1c3BZOXdhZFNHM0FSTkszb2ZPVV9WN2gyWUQ3c3RmM3ppVEFFNk9aNHhrN0t1THhLZ2ZlWVhkSjVJbExLTm5xN2RYb3RZbzZPaHFB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-17-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Topview sees supply-chain shifts supporting orders as AI investment reshapes its outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260917PD205/2026-surveillance-production-equipment-component.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-17-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CXMT cashes in on the DRAM shortage &mdash; and takes aim at HBM",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260917VL219/cxmt-dram-hbm-supply-chain-emerging-memory.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-17-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Wiwynn sees strong AI demand offsetting US data center pushback",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": -0.12
+      },
+      "source_url": "https://www.digitimes.com/news/a20260917PD207/wiwynn-demand-growth-revenue-2026.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_elec-2026-09-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG chairman stresses 'prompt, tenacious execution' in AI investment - The Korea Times",
+      "companies": [
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTDRIU3VRSkNudm5Sai05c2JtMDZ6aW0xMVpiMy1nVktpM0F1S1Y1WlVlVjViNVBERDVjcmZJVW5XaXR1Q1BGS21yNlM3dklvdE1rLUh6cW5OQnc1dzIyY3hyd1JvT2d2cElWdHVNekRmTi04b3o3MVFrNEhyUGtNTExReEJTZHNtVWpUUGl0eS1xcVE4QnNscjh1VFk0Z3hKVWRhWGVDbWowMlV4RGx0Y3dTM3NPNEZaeGRHOTdB0gHDAUFVX3lxTE5Ddy1vZGhVTEVwWEYtcWptZDUtWXRtSmgzOTEwdlFtMDZVeXdRekVwOXlWSDk5d2JnalVZbHdycUxabW5HN3RSN2UwREsxbXFjYkdCUk5NaVhiMXpSZGVYMWVlcEl5NlNxMmNvVEpRQU1vdmppLUU1QXlpZlhzdFlpeVNmUWRlRU5LcWFpR1dOTXFxYks2Wjd0MWNTOE9ROGNkWktKb1NJVjNuNW1mLVRCYXFlSkNyUGZHYUVSeHBSM2MtTQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.22,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "oled_penetration",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 378,
+    "dup_title": 130,
+    "too_old": 176,
+    "gate1_blocked": 35,
+    "gate2_blocked": 24,
+    "passed": 13,
+    "pass_rate": "5.2%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "Corning Incorporated Stock Analysis: Key Support Test After $2B Offering - The Cryptonomist",
+      "Is Corning Stock Outperforming the Nasdaq? - Yahoo Finance",
+      "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fab",
+      "Corning Inc Stock (GLW) Closed Down by 13.70% on Sep 14: Facts Behind the Movement - TradingKey",
+      "Corning, Cellectis, Biodexa Pharmaceuticals And Other Big Stocks Moving Lower In Monday’s Pre-Market"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為LG電子、Himax Technologies、三星電子相關動態：「Himax Tech Q2FY26 Results: Net profit rises to $19.9 mill...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Himax Tech Q2FY26 Results: Net profit rises to $19.9 million - scanx.trade（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Topview sees supply-chain shifts supporting orders as AI investment reshapes ...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

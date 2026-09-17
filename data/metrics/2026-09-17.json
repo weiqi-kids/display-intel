@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-17",
+  "total_events": 9,
+  "by_company": {
+    "himax": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.22
+    },
+    "oled_penetration": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

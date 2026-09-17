@@ -1,0 +1,16 @@
+{
+  "total_raw": 378,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 35,
+  "gate2_fail": 24,
+  "passed": 13,
+  "gate2_samples": [
+    "Corning Incorporated Stock Analysis: Key Support Test After $2B Offering - The Cryptonomist",
+    "Is Corning Stock Outperforming the Nasdaq? - Yahoo Finance",
+    "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fab",
+    "Corning Inc Stock (GLW) Closed Down by 13.70% on Sep 14: Facts Behind the Movement - TradingKey",
+    "Corning, Cellectis, Biodexa Pharmaceuticals And Other Big Stocks Moving Lower In Monday’s Pre-Market"
+  ]
+}
