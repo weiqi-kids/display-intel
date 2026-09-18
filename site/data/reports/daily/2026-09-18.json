@@ -1,0 +1,226 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T12:42:39.617687Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-09-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Corning Inc. stock gains as AI infrastructure outlook and Springboard plan lift sentiment - AD HOC NEWS",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcVRld3pjZ0ZfOVlzTUdmWUxSOWhKaU9qZ2JCTXBCUVdXUUxUWkNGTEp1MFpOenRMX19NYjcwRzJmejlGZTZSMVlBNExBMlpHUjg3M2tyX2dIRkRHZDRlT3Z5T1JLelJEX1NYN3lrNW8weVFBS2ptUkRvbWxGU1pSMjZIVGdPa3Z5RzhGVFpIY0lsMExLRFRGc2tUZjhlbnhENXBSaUY2ZE4zSWtQOGpac3hRUGtCOWtSQ0l0ejNFZjdRNTFCazdNa3JhQVhranczTUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CoreWeave launches US$3 billion bond sale amid growing revenue, debt",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260918VL216/revenue-capacity-infrastructure-bloomberg-2030.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_elec-2026-09-18-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "LGES, Samsung SDI reportedly booked out for two years as US restrictions and China slowdown reshape ESS market",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260918PD210/market-lges-samsung-sdi-capacity-production.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chinese Panel Makers Raise TV LCD Prices, Realizing Supply Concerns - thelec.net",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "panel_price"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPeEgxc1ZyR3BlS2tJVHVGalFsQ3lobGZaWHRNSFQ3Ynl4M1J5MkpnS3I2bFpHUERzYmZkeGlxTm9PSUZxbEJQZFh5eTF2RXhJdlJPTTF4TkVNUWNGTWF6VFpDR0hVOUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "boe-2026-09-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "When technology meets culture: BOE helps showcase Chinese intangible cultural heritage in London - Morningstar",
+      "companies": [
+        "boe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY0RwLXZIOTVYT0hmU0hhM2t5U21jNzBmRmNGc2puaTJWcHMzTUdTWGZlSzRCNU5oV3dPTkVMQUZ4eDlVYkhnZ2dCTGZmTFB0dDd5UkdTd0dUWE15NUlZcTlDcGxyMDJxWmI5NkVkekt5OHBmU2t0clNleHVmZlZ0ZWFWYjVuZ3FDOVlZVlB0UDZWODhuT1RTUXM1RUw0d1BiM2tWSl93aUlheFFPZWZTVGk3WE5wVS1MMXVZcm42QW5kY043ZE1icjkzUEJzenNBcDQzeXRXSk45S0JScE5mVnYzeV9sOW13WDR3Uw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 356,
+    "dup_title": 114,
+    "too_old": 171,
+    "gate1_blocked": 34,
+    "gate2_blocked": 21,
+    "passed": 16,
+    "pass_rate": "6.6%",
+    "gate2_block_rate": "8.7%",
+    "gate2_samples": [
+      "Corning: One Hit After Another (NYSE:GLW) - Seeking Alpha",
+      "Corning Incorporated Stock Analysis: Key Support Test After $2B Offering - The Cryptonomist",
+      "Corning Incorporated Stock (GLW) Opinions on Equity Distribution Agreement - Moomoo",
+      "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fab",
+      "Corning: The AI Opportunity Is Huge, But So Is The Valuation - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為康寧、BOE Technology、三星電子相關動態：「Corning Inc. stock gains as AI infrastructure outlook and...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Corning Inc. stock gains as AI infrastructure outlook and Springboard plan li...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "CoreWeave launches US$3 billion bond sale amid growing revenue, debt（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "面板價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
