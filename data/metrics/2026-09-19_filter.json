@@ -1,0 +1,16 @@
+{
+  "total_raw": 377,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 183,
+  "gate1_fail": 37,
+  "gate2_fail": 21,
+  "passed": 12,
+  "gate2_samples": [
+    "Jim Cramer Says to Wait For Corning (GLW) to Fall Further - Yahoo Finance",
+    "Bronstein, Gewirtz & Grossman, LLC Encourages Corning Incorporated (GLW) Investors to Inquire about ",
+    "Corning: One Hit After Another (NYSE:GLW) - Seeking Alpha",
+    "Corning Incorporated Stock Analysis: Key Support Test After $2B Offering - The Cryptonomist",
+    "Corning Incorporated Stock (GLW) Opinions on Equity Distribution Agreement - moomoo.com"
+  ]
+}

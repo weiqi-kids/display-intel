@@ -1,5 +1,84 @@
 [
   {
+    "id": "corning-2026-09-19-001",
+    "date": "2026-09-19",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning stock rises on stronger Q2 sales and AI demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOHo5WEZtamVWQVlxQ3FIVnFrN0lYQTJ6MU5ucHJOYkRjdE54bE9jb085YTByR2E5MjNJb1JLRUIyRDM1bDdBRjVoQkdsbGdQS3dMQ1JQZloyUlA1aFUyd1R6RTkzZm9yVFFXc2lGRE",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOHo5WEZtamVWQVlxQ3FIVnFrN0lYQTJ6MU5ucHJOYkRjdE54bE9jb085YTByR2E5MjNJb1JLRUIyRDM1bDdBRjVoQkdsbGdQS3dMQ1JQZloyUlA1aFUyd1R6RTkzZm9yVFFXc2lGREZQeG03ZVdoc2d2NVd6MjB3clFvRW8tMFZpbm9QTVo1MHpiUmgwTVdRcmVxTlpzQUNRTGFBa095M1JLd2lGMUs4WWU0ZDJnVjJa?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-19-002",
+    "date": "2026-09-19",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Samsung Display optimizes its laptop OLED driver ICs to increase power efficiency",
+    "summary": "<p>As Samsung is continutes to accelerate its laptop OLED display development, the company is ready to unveil a new technology to reduce the power consumption of its modules.</p><img data-entity-uuid=",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-optimizes-its-laptop-oled-driver-ics-increase-power-efficiency",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-09-19-003",
+    "date": "2026-09-19",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Garmin admits the 3,000 nits OLED on the Garmin Fenix 9 is good enough, no immediate plans to release a microLED edition",
+    "summary": "<p>A year ago, Garmin <a href=\"https://www.oled-info.com/garmin-launches-first-microled-smartwatch-round-14-4500-nits-display\">launched</a> the world's first microLED wearable, the Fenix 8 Pro MicroLE",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/garmin-admits-3000-nits-oled-garmin-fenix-9-good-enough-no-immediate-plans",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-19-004",
+    "date": "2026-09-19",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung to build a $216 million 12-inch direct-emission OLED microdisplay line",
+    "summary": "<p>Reports from Korea suggest that Samsung Display plans to invest 300 billion Won ($216 million USD) to build a full-scale 12-inch direct-emission OLED microdisplay production line. The company will ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-build-216-million-12-inch-direct-emission-oled-microdisplay-line",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-09-18-001",
     "date": "2026-09-18",
     "companies": [
@@ -125,6 +204,116 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KY3dieXdMcFdJSFVaOVdjcGNGZnZmekgwMzk5Mk9ydjltNlExNmtBLW1QSFNEaVU0UFNtRmstTW1vVGRYb0xBbVhiX2JtQllvc0JMcXdlZVBVd2Q0RFBfU1dTZXhjenFtclRtV2piRzNjNFdFbHFGZ3Nn0gF_QVVfeXFMT0FSSnVTck1oekYtLTV3V1dDNVdUU1NwS2psSWFsQTlkQjdfaldSQ2F2OVZCYzFueHZraDlxRl84NU1HOWtPM3RLeGhTb1VtME5YQWdIb0tOZzNpNUVGaV8zZFVGaEhLRDdsTFR0bWtnUkYtOFhBR0MxMkVnTE55NA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-18-008",
+    "date": "2026-09-18",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Stock: The $2 Billion Dilution Scare Is Fading. Here’s What Matters Now. - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbUQ5MUZxRzc5NVdRSFJ0cXNaQ1M5S1JFbjVDd2xfUkI0VzQ2ckxIcHkxdzBTa0NsSWtIZVRfS1JUdy1mOUlCMkdLRktRZGxEcVkxWmxUN0Z0eUFKOUhCcFdxTDVYeGZ5WWN4R3hFZG",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbUQ5MUZxRzc5NVdRSFJ0cXNaQ1M5S1JFbjVDd2xfUkI0VzQ2ckxIcHkxdzBTa0NsSWtIZVRfS1JUdy1mOUlCMkdLRktRZGxEcVkxWmxUN0Z0eUFKOUhCcFdxTDVYeGZ5WWN4R3hFZGIzazRlcmgzNlhsTWpDaFdXcmZNU0NvREV3N3dvSXdqU2tCTEF1NXlQZW5ueTNuTEItdjRoR2VzaENDc1B3N2Z6ZXU5eG0yOGkwMk93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-09-18-009",
+    "date": "2026-09-18",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Canon Inc. stock edges higher after latest half-year report clarifies profit trends - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNVFdYRHBTaFdrTlVfeTJZQnVnODRXQkJ2Y0NOR2RtTUtQbER6OVBnLWN5bjVyQXpDejl1ZTJBVTlhY25hRWpFcUZFX3dtTlVQaXdlelBFcUt2SFd2TTRpMnBvdUdLTnVtamJWRlFacX",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVFdYRHBTaFdrTlVfeTJZQnVnODRXQkJ2Y0NOR2RtTUtQbER6OVBnLWN5bjVyQXpDejl1ZTJBVTlhY25hRWpFcUZFX3dtTlVQaXdlelBFcUt2SFd2TTRpMnBvdUdLTnVtamJWRlFacXlFT3E3Vld6b1NHOEQtQkptUkVoWU5zVzJab19GcGdhZERkSzNEcmhHYXJNTGltOVQ4czYwenowRGhCbXNYQzUtR2RYRXU3ZV80SE5CbTgxLURyZHY5dGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-18-010",
+    "date": "2026-09-18",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Partnerships: LG To Supply Displays For Capital One Arena Overhaul - Sixteen:Nine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUV1bW9qaEloMGQwdWVyUXdwRVpBS3NNQlVZUE1BcHN1VWF1NzBnVk5lV2JGektTbnZPY1dfUVFKNERXdGwyY0NWcHlQUmxMSFRyb1U1U0RDN0Z5QTRRc09SMjlFclRLVnpYR0l6Sj",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUV1bW9qaEloMGQwdWVyUXdwRVpBS3NNQlVZUE1BcHN1VWF1NzBnVk5lV2JGektTbnZPY1dfUVFKNERXdGwyY0NWcHlQUmxMSFRyb1U1U0RDN0Z5QTRRc09SMjlFclRLVnpYR0l6SjNkM3RsbnlvazdlRW42cHloNkxlcVoxb2MteUticXNXY0FTNnk4MEFZekVQeFpOeHI1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-09-18-011",
+    "date": "2026-09-18",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Boe Technology Group Company Limited Announces Board Elections - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSG1tVkFTa3FYNU5XSlh6WElfZ3ltRGQ2TDQzblZIWjJHdjROdjRiTG9CeWhsdV9VTTdDR2pWYS0tRGJrbGxNNjZUV2tlTDR3LUhUZ3VSdW9kMzM5dmd1ZnlZUFIxZTUtdnFBWWFwTj",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSG1tVkFTa3FYNU5XSlh6WElfZ3ltRGQ2TDQzblZIWjJHdjROdjRiTG9CeWhsdV9VTTdDR2pWYS0tRGJrbGxNNjZUV2tlTDR3LUhUZ3VSdW9kMzM5dmd1ZnlZUFIxZTUtdnFBWWFwTjZyZHF0V1VPRVBvbV9Pc0gzTndlWE45TnhxYWRUNHNjd2VFaTBvTkRwemg4OFZKXzluc3NkSVl0Q1ItRG5NbkFaUkRBd1hIQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-09-18-012",
+    "date": "2026-09-18",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "When technology meets culture: BOE helps showcase Chinese intangible cultural heritage in London - prnewswire.co.uk",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdEdpTmduSHVmSW1WVlppVHpCQmZFOVNLQmZuM1QtU0pyVzRtZDFKcGlUR25PY2RoQXRxajRSR2ViWF9Ockk4Y1E0YzI3NW12TVFFUHhHa3FjS0M3U1BpTDZkb1ZLYUlfSGZIck5qen",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdEdpTmduSHVmSW1WVlppVHpCQmZFOVNLQmZuM1QtU0pyVzRtZDFKcGlUR25PY2RoQXRxajRSR2ViWF9Ockk4Y1E0YzI3NW12TVFFUHhHa3FjS0M3U1BpTDZkb1ZLYUlfSGZIck5qenlHSUF2di0tUzRjYWhXSEdhTjRVZU9iWVB0a213M001UkZYdWh5Z2ZJYjBSejVrSDhsMlNNb25xbkpjdDlhdGxiRkduQmloRlFOWDU3LUkzazRJM25vZk1JWU5YUjQwcXNfWTBMU2hhUUFTaERGdTViTzZOUDNjVzNz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-013",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Memory recovery, price hikes lift Niching IC substrate outlook, order visibility through 2H27",
+    "summary": "<p class=\"P1\" data-start=\"2240\" data-end=\"2807\">Semiconductor packaging and testing materials distributor Niching Industrial hosted an investor conference on September 17. chief financial officer Chih",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260918PD217/materials-niching-packaging-revenue-testing.html",
         "type": "rss"
       }
     ]
@@ -630,6 +819,44 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSUU0cjdWX0d5Y3N4WXRxczJlUWF5dDlJVFF2aG1QTmNPcVhJTTY1MXd3M0JSLWlwZGwyZ21DN0lpY2Y0OURiVGVSY1hzdWdSdU95UVQwejE1V0FLTDZsNWk1N3BvaTVON0thbFdlbGNUSDUyb1piU1Z6blU1VlRGc19KNjZVb0dROFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-09-16-011",
+    "date": "2026-09-16",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon U.S.A. to Showcase a Broad Range of Production and - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxObVJjVzdtaEdZaDZOOUlNczlOdzFyclNZeHpTVkhDb0hxRFFqWENYeUthUU9tSW4tLWw2SXVHbHowRU9KZjJXLXV6UC1KdENxXy1yblhBY1FCR1J6RHNUclF0c1pLTFQtZmRvVDl0Vn",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObVJjVzdtaEdZaDZOOUlNczlOdzFyclNZeHpTVkhDb0hxRFFqWENYeUthUU9tSW4tLWw2SXVHbHowRU9KZjJXLXV6UC1KdENxXy1yblhBY1FCR1J6RHNUclF0c1pLTFQtZmRvVDl0VnkwSlg4N3FNSHR2X2hOdDk4cFNjSnJUMTBFb0VPdmFzc2gyVHFmWmtIRUdjenUya19PNzNBTWZBeTF3NzlpanBrTHRIcnhJdkNFNE1mb3U1RXJsTXpDcElOQnJVMHZIZ3FJWU9QaXBHNG1uelRPVXdUOS1aTDhFTWtwODVLbnFBREpoZ2M4RFdHbzItN2xTLUpxMnFRYmF0Y3N1aVE0dkVPYThfcGtDOWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-16-012",
+    "date": "2026-09-16",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL’s Pioneering SQD Mini LED Earns Industry Recognition, Reinforcing Its Leadership in Display Innovation - thewire.in",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRXJ1ZVRuSG9DbDh5ekxQRlU4eURTbXJPNFMxa0NpMTVYQXhsSjNlOTlrNlNHMlU3V0xDODVLa1dkVGRlbGp0N1RZd2txamdMZjJJbmdMc25BaVprQ1FYVS1fLWdLcVp4aVFxcmFtcE",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRXJ1ZVRuSG9DbDh5ekxQRlU4eURTbXJPNFMxa0NpMTVYQXhsSjNlOTlrNlNHMlU3V0xDODVLa1dkVGRlbGp0N1RZd2txamdMZjJJbmdMc25BaVprQ1FYVS1fLWdLcVp4aVFxcmFtcEtqaWtVbzBEYVZHdjRDUDl5TDh4Z0ZRZmhiVWVyVGNGeDRhTjYydjFWOEhkSTAzUFFzRlBVOWhKQ1U3OHRqS25wWUJJYm5YMVZ1eklZX2VsX3BFNFUteDRnb2JObi1feEx0NWNTUGZPclc3ODDSAeABQVVfeXFMTlBEMVVTTXRGdnNrcEpCQTY5d3pPRlQwLVRYWWVleEdCMDc1S25LNG8yWlhiUy1qckE3N1Z4SXc1Um1HUkRwLU01eWdUejhJVXZGWlpSVG5nNmJKM1k3a1Y2MS1BTWZnYkVqbVVQcldLd2lsTzJCVVY5VVhYUXJKQzUxN2NBTlJWWmhlS2RHS0ZGbTRWcWVsTlM2alNpME5vQVMzbEM4VzlwRkQ3eW9SMkU3RWI0d3lueDJmcGQ2cHVMNWpsejNnZG1ENEZSajVwWW5MVE9HX2RNVktXdWVtako?oc=5",
         "type": "rss"
       }
     ]
