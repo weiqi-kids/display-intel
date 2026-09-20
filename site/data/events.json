@@ -1,5 +1,141 @@
 [
   {
+    "id": "canon-2026-09-20-001",
+    "date": "2026-09-20",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Canon Inc. stock gains on stronger half-year profits - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3FwYlFxbVBkalBkQklDN1FJWnc3QjNPTXJ4S3JwWWdaZTFMczNLTFItTmhJeU92YmV2aVhmTjFnYmphS0lwSmJHTDk5VFdEVTltTFFVRUtoWXl6cUh0SmNCd0c3RnFUMjNVRU1fdX",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3FwYlFxbVBkalBkQklDN1FJWnc3QjNPTXJ4S3JwWWdaZTFMczNLTFItTmhJeU92YmV2aVhmTjFnYmphS0lwSmJHTDk5VFdEVTltTFFVRUtoWXl6cUh0SmNCd0c3RnFUMjNVRU1fdXBDdnp2LW9LSE9mZWVSRFp0S1EzLXlWaHdpaTk3VGRRNGY4eGdMOVEzWU55dEt0dEhuWW11UFR2M1BwWTNaTEl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-20-002",
+    "date": "2026-09-20",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG to team up with Hanwha Systems to develop AMOLED displays for fighter jets - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOWTQxSS1qOTdDZlk2a0NkQXdGZ2w1RDlET0dtSDhiQXBoZ3pxVlBzWFZ3MVdxdEd6X09UZFdDQUZ2eHdFWGYwTHF5enR4YkJKMG9BZzh6dTFnbkh6NXJIY0ZhNEo2bTZMN2xlR01LRH",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWTQxSS1qOTdDZlk2a0NkQXdGZ2w1RDlET0dtSDhiQXBoZ3pxVlBzWFZ3MVdxdEd6X09UZFdDQUZ2eHdFWGYwTHF5enR4YkJKMG9BZzh6dTFnbkh6NXJIY0ZhNEo2bTZMN2xlR01LRHRPYjBrbGZ4Y0x3QU9vODNVcDlzVVFhemJoeVhJQWNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-20-003",
+    "date": "2026-09-20",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "HKC ships the first batch of flexible smartphone OLED panels produced at its H6 5.5-Gen line in Shenzhen",
+    "summary": "<p>Shenzhen-based display maker <a href=\"https://www.oled-info.com/hkc\">HKC</a> announced that it has shipped the first batch of flexible smartphone OLED panels out of its <a href=\"https://www.oled-in",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/hkc-ships-first-batch-flexible-smartphone-oled-panels-produced-its-h6-55-gen",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-20-004",
+    "date": "2026-09-20",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "oled_penetration",
+      "it_panel_demand"
+    ],
+    "impact": "positive",
+    "title": "Omdia: OLED monitor panel makers to shift focus to the enterprise market instead of gaming",
+    "summary": "<p>In recent years, we have seen increased demand for OLED monitor panels, mainly from the gaming industry, as OLED makers managed to offer panels that offer high resolution, high refresh rates, and a",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/omdia-oled-monitor-panel-makers-shift-focus-enterprise-market-instead-gaming",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-09-20-005",
+    "date": "2026-09-20",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG to team up with Hanwha Systems to develop AMOLED displays for fighter jets",
+    "summary": "<p>The Korean ministry of trade, industry and resources is launching a new project to develop AMOLED displays for fighter jet cockpits.&nbsp;</p><img data-entity-uuid=\"6fd9152c-77c5-4467-8154-39c06f6b",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/lg-team-hanwha-systems-develop-amoled-displays-fighter-jets",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-20-006",
+    "date": "2026-09-20",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "A QD interlayer introduced to phosphorescent OLED device as a plasmonic coupling medium increases efficiency by 30%",
+    "summary": "<p>Researchers from Korea's Kyung Hee University, in collaboration with researchers from the University of St Andrews, are proposing a new architecture to increase the light output of phosphorescence ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/qd-interlayer-introduced-phosphorescent-oled-device-plasmonic-coupling-medium",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-20-007",
+    "date": "2026-09-20",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "Wiwynn brings cobots to L10 server assembly as AI rack testing drives factory redesign",
+    "summary": "<p class=\"P1\" data-start=\"2814\" data-end=\"3165\">Wiwynn is introducing collaborative robots (cobots) at its El Paso, Texas, facility and third plant in Mexico, alongside a central heat exchange system ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260918PD216/wiwynn-testing-manufacturing-plant-cooling.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-09-19-001",
     "date": "2026-09-19",
     "companies": [
@@ -74,6 +210,45 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/samsung-build-216-million-12-inch-direct-emission-oled-microdisplay-line",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-09-19-005",
+    "date": "2026-09-19",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AUO stock holds steady as investors watch recent earnings and display demand - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPVl93aFhBTEI4N0EwNWFwazJyMmZFZllaNkl4ZGxvN0NNTEgyWDg4OVNNSnZkVEdNbDdUTlJ5R252QmZOMGZVcDZSU0NaU0dCMmVxZ29OMlRheXBRNVg1LVdvVUVjTFRDWXF1TGNtaU",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVl93aFhBTEI4N0EwNWFwazJyMmZFZllaNkl4ZGxvN0NNTEgyWDg4OVNNSnZkVEdNbDdUTlJ5R252QmZOMGZVcDZSU0NaU0dCMmVxZ29OMlRheXBRNVg1LVdvVUVjTFRDWXF1TGNtaUYwMWZqeGoyaGE5UU0wV09UNTVkSE1hbnZGQlRTWXh0Q1FsMnlJOU1lR1pSYl9pTDJIX1g3emcxallJVWhiLWZQb0NfSnowcl90dl9IVUhYLXRpSG5BS1U4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-19-006",
+    "date": "2026-09-19",
+    "companies": [
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "China tightens its grip on the LCD panel market — Samsung and LG will have to pay more - Notebookcheck",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVmh2MGpWNHVoenJaMG5JSVpPdHZsQ1VTXzlhMkc5Z0FWLXBST2JjVGFJMkNOUThzZl9ObVIxQkRVNkl6emp0TTI1MF9iczRkLV9zelFVU2l2QjE2aGEteWd6RENEX29jeTVaSVlFNT",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVmh2MGpWNHVoenJaMG5JSVpPdHZsQ1VTXzlhMkc5Z0FWLXBST2JjVGFJMkNOUThzZl9ObVIxQkRVNkl6emp0TTI1MF9iczRkLV9zelFVU2l2QjE2aGEteWd6RENEX29jeTVaSVlFNTZHREtFWWpDbEFUTnRXdTJ4b2YxVy1zSlUwTl92S1U0cXBEM1ZXemhIOFZ4dFY0M1RVdnRobm1OWHl1T3lhUkJrY1BGOFBnNjVvZVE0T0xIdHZkSjR4RHVpOA?oc=5",
         "type": "rss"
       }
     ]
@@ -314,6 +489,98 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20260918PD217/materials-niching-packaging-revenue-testing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-09-18-014",
+    "date": "2026-09-18",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Canon Inc. stock edges higher after latest half-year report clarifies profit trends - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNVFdYRHBTaFdrTlVfeTJZQnVnODRXQkJ2Y0NOR2RtTUtQbER6OVBnLWN5bjVyQXpDejl1ZTJBVTlhY25hRWpFcUZFX3dtTlVQaXdlelBFcUt2SFd2TTRpMnBvdUdLTnVtamJWRlFacX",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVFdYRHBTaFdrTlVfeTJZQnVnODRXQkJ2Y0NOR2RtTUtQbER6OVBnLWN5bjVyQXpDejl1ZTJBVTlhY25hRWpFcUZFX3dtTlVQaXdlelBFcUt2SFd2TTRpMnBvdUdLTnVtamJWRlFacXlFT3E3Vld6b1NHOEQtQkptUkVoWU5zVzJab19GcGdhZERkSzNEcmhHYXJNTGltOVQ4czYwenowRGhCbXNYQzUtR2RYRXU3ZV80SE5CbTgxLURyZHY5dGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-09-18-015",
+    "date": "2026-09-18",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "When technology meets culture: BOE helps showcase Chinese intangible cultural heritage in London | Corporate - EQS News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNRlllRjM1Yi03X2RRVVNwZWF2OFRRMHcwS1BidDFtU0pTeDVWcC0tTWp2eUtJckpDQm5XNVVJQlhNaVpIdDNuV0tKczJ2WkQ1Ujh0UjFqdllmNk41TURucXRnOFcwRkFRUzlXSTF6bk",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRlllRjM1Yi03X2RRVVNwZWF2OFRRMHcwS1BidDFtU0pTeDVWcC0tTWp2eUtJckpDQm5XNVVJQlhNaVpIdDNuV0tKczJ2WkQ1Ujh0UjFqdllmNk41TURucXRnOFcwRkFRUzlXSTF6bkl6cU5zV2xLalNoVk90ZlRBenEtdEVZN0RhSWZwaldDVXBEYnZndjJSaDh4RmhseG1tcG15YXRJUDVsdU1MNlVvM0VoNE9yc3BxQUJYei1IeGxGOEczTWVNRHdQWkRicTV2eHVWUXN3YTBnTkl6bEFGMkNjX1Fvb2pKdTBMcmx3MnAxOUVJQlJ0LVcxWHl6OWxPb2RibnBR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-016",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "neutral",
+    "title": "Chinese TV Panel Makers Raise Prices Before Peak Season - tbreak.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1DU0g1cTAzTU5aMk9xa2NpYUZPSGZZaUpyUWhwOTVtUV81YWJPc0V0TGM5c3dzaTUyeHV6aXdhd3Q1eGY4VWVYU3pDa3Z1QnJlamx6dU9NblVpUzFTc25Ca2sxZml4X3ZOUkdwNE1hdE",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DU0g1cTAzTU5aMk9xa2NpYUZPSGZZaUpyUWhwOTVtUV81YWJPc0V0TGM5c3dzaTUyeHV6aXdhd3Q1eGY4VWVYU3pDa3Z1QnJlamx6dU9NblVpUzFTc25Ca2sxZml4X3ZOUkdwNE1hdE1LbUsxRHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vizio-2026-09-18-017",
+    "date": "2026-09-18",
+    "companies": [
+      "vizio"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Walmart has a rollback on the VIZIO 65-inch QLED TV for a limited time - Syracuse.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ2ZhUFdzeUY0YkQwSzlGaG1MdmRVQ2RTaFg2a0dmdGtqcG9NLWJac2tSWFdYZUpsOE1YWTFzd0xrTW5kM0xLWldJQU9hQWdXcENFT1VGaVkwNndaRmJvNTg3Rl9TWkg1clFPX2ZWMT",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ2ZhUFdzeUY0YkQwSzlGaG1MdmRVQ2RTaFg2a0dmdGtqcG9NLWJac2tSWFdYZUpsOE1YWTFzd0xrTW5kM0xLWldJQU9hQWdXcENFT1VGaVkwNndaRmJvNTg3Rl9TWkg1clFPX2ZWMTJuOWNSRFhXaEUzY2FGMHp0bEI4dTk0X2FJQl9mamthb3o5WXV5RjJ0aWdQZWdqQU1GelVzWlRTRm9RdXZGTTlnbkh4VEk2Q0dH0gHMAUFVX3lxTFA2ZkFKRlUzQlFDUGotNUJBNnd5MVJvNUJ0aGVYZ2x1cTMtVGJheVVoZVR4TVE3Y0dCUFFqeURneHhCaHctZm9nck9yV2IxU0hGY2JYcDBCYXFrTGIwZ0RBU2pwWWs0U0RMMk9sR3ZnclVqZE41U0d3SFk0SnZLUDBUWUF3Yi00ajF1Z3dKVFhGSllqeHZUOHhfeW4tNzJPVno5SEpFcEJMMnU0UWI2MV9DSG4zSm5JMDh4RXkyZFM4aE5tVmg5TUlLRW1tZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-018",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Understanding Mini LED Technology - uniindia.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPclhidG1SS1dHcFNubXhPUTlRa2RPZW1ROGlvWTEwYUJLWFNaNXhQOFNfTThyNGd2QjgwMHNDcW9wZ1c5anpVRWNrT3YtNlF0dXV3OGJFM2ZKME01c0lpa1I0cHhRbFc4cEhzbW85c2",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPclhidG1SS1dHcFNubXhPUTlRa2RPZW1ROGlvWTEwYUJLWFNaNXhQOFNfTThyNGd2QjgwMHNDcW9wZ1c5anpVRWNrT3YtNlF0dXV3OGJFM2ZKME01c0lpa1I0cHhRbFc4cEhzbW85c21oVWJxbzJtNmpScEVhZ0UyT1BmdXZ2Z1VtaWJBejNpOU0tMmptcXJCRVYwZW5xN3Fxb2JEMjlyWm53SFNvd0k3TV9jWE91LTY2TEVPSGRjbktNM3hYMTZudXBsdlZzOHN4aUd6OHFkaw?oc=5",
         "type": "rss"
       }
     ]
@@ -637,6 +904,47 @@
     ]
   },
   {
+    "id": "auo-2026-09-17-018",
+    "date": "2026-09-17",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AU Optronics (AU7) Q3 2024 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1zdEhQQXk5WldaTVpjdno5RHNybmtXeXZCS0xJdkJKdG03Z0Rybk1yaUlyRmgyUTNaMFB6MlB0Mk9mMmJoMW45TmR6QWwwSEtGdERSXzM1YlJ1SXRhTkRQek9pX2g2b2Z5cHdPUWcwOA",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zdEhQQXk5WldaTVpjdno5RHNybmtXeXZCS0xJdkJKdG03Z0Rybk1yaUlyRmgyUTNaMFB6MlB0Mk9mMmJoMW45TmR6QWwwSEtGdERSXzM1YlJ1SXRhTkRQek9pX2g2b2Z5cHdPUWcwOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-09-17-019",
+    "date": "2026-09-17",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "LG Display Likely to Face Earnings Pressure From Stronger Won, Higher Input Costs -- Market Talk - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPZXhVSklvX21RdlR5RHg1cGxab2lLSjdYWklzcHhSNGFUd3hlSE5jTWpiU2k5clh5VVBrVU16R0ZET0JkSTNKem1uTXhvU3pfY1E5OE5VNkg0bHFaVnJrSS10N3dLUUZWMGdPSEpkTT",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZXhVSklvX21RdlR5RHg1cGxab2lLSjdYWklzcHhSNGFUd3hlSE5jTWpiU2k5clh5VVBrVU16R0ZET0JkSTNKem1uTXhvU3pfY1E5OE5VNkg0bHFaVnJrSS10N3dLUUZWMGdPSEpkTTJaeS1IQUsxR2wxYjJPcGdGZ3NlUnZFYlV1RXYwQlpXU3pZVUxqLWMycnJzT1dQVU85ZkRpcmFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-09-16-001",
     "date": "2026-09-16",
     "companies": [
@@ -857,6 +1165,44 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRXJ1ZVRuSG9DbDh5ekxQRlU4eURTbXJPNFMxa0NpMTVYQXhsSjNlOTlrNlNHMlU3V0xDODVLa1dkVGRlbGp0N1RZd2txamdMZjJJbmdMc25BaVprQ1FYVS1fLWdLcVp4aVFxcmFtcEtqaWtVbzBEYVZHdjRDUDl5TDh4Z0ZRZmhiVWVyVGNGeDRhTjYydjFWOEhkSTAzUFFzRlBVOWhKQ1U3OHRqS25wWUJJYm5YMVZ1eklZX2VsX3BFNFUteDRnb2JObi1feEx0NWNTUGZPclc3ODDSAeABQVVfeXFMTlBEMVVTTXRGdnNrcEpCQTY5d3pPRlQwLVRYWWVleEdCMDc1S25LNG8yWlhiUy1qckE3N1Z4SXc1Um1HUkRwLU01eWdUejhJVXZGWlpSVG5nNmJKM1k3a1Y2MS1BTWZnYkVqbVVQcldLd2lsTzJCVVY5VVhYUXJKQzUxN2NBTlJWWmhlS2RHS0ZGbTRWcWVsTlM2alNpME5vQVMzbEM4VzlwRkQ3eW9SMkU3RWI0d3lueDJmcGQ2cHVMNWpsejNnZG1ENEZSajVwWW5MVE9HX2RNVktXdWVtako?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-09-16-013",
+    "date": "2026-09-16",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon U.S.A. to Showcase a Broad Range of Production and Large Format Printing Solutions at PRINTING United Expo 2026 - manilatimes.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxQbWVXUlVwZ19jWjQ2c0ZVVDdmRjlqb2RJMmtQTTVJYjlHVWUxUkhTY3NhQ19WQ3ZrOEJsWGJOc0lvc1otTng4ZlNjQ1VDU1QwdGUzZlJqazM4QzNvVnZ5eTdrc0dqdXJCanRhMElEQ0",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQbWVXUlVwZ19jWjQ2c0ZVVDdmRjlqb2RJMmtQTTVJYjlHVWUxUkhTY3NhQ19WQ3ZrOEJsWGJOc0lvc1otTng4ZlNjQ1VDU1QwdGUzZlJqazM4QzNvVnZ5eTdrc0dqdXJCanRhMElEQ0tia252di11cDdjeHJ0STZYWFZjMUJIS0xjOEtqTmdhbF9yOVlZSVZUQ2pFNVNnd3hveWlRMk1VMGtYMkVyZHM5MGtYS1ZjV3RMTUJvNjJocnQ0UlpTdlBLT0RxYnBVcHIxZkR6dW1waFRhZnE0bHVVWkVnZ2k0LUVxTGlzVFVrbWcxdE1nN3J3NUVfeE1teVh3QmtRSHctVExBX0lzZDNEaUdIVHZqbEXSAZwCQVVfeXFMT1RIWjZiOHJDemRyVTd0U3BMcHpBNk96bHNQZUVtNUFZdDRub2JneDBHaHhKQzlDTjZNOWdOdVE0c2xETkpEQWpRbUc5WVFTZElzV1VScXZlUXN2MGFXUE0tbmVWTXQyTldOZlkxdFRtbWNkenMwV0dHSzhELURVM2swWklocXlyaGhXTy1FN2NNQzJRY3IxZzdMZUtuWlFFSDM5TDRmQzFFcUdBUXBxUGlBUGtGNVZGa20yemNUbzJ4c0pNZ1UyaXdDZTlNWERRVlEtdnNWdmdSM0V4MWVndXhyaUlOdDJxNEtYYzBFeTk0YXgyalNUUGxtYnYwX1pIVlp4ajdENWhyQWlSQTZwLWhWdEkyZHlJa3JkWGo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-16-014",
+    "date": "2026-09-16",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL's $498 Google Smart TV with QD-Mini LED proves big screens don't have to cost a fortune - androidpolice.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOSUU0cjdWX0d5Y3N4WXRxczJlUWF5dDlJVFF2aG1QTmNPcVhJTTY1MXd3M0JSLWlwZGwyZ21DN0lpY2Y0OURiVGVSY1hzdWdSdU95UVQwejE1V0FLTDZsNWk1N3BvaTVON0thbFdlbG",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSUU0cjdWX0d5Y3N4WXRxczJlUWF5dDlJVFF2aG1QTmNPcVhJTTY1MXd3M0JSLWlwZGwyZ21DN0lpY2Y0OURiVGVSY1hzdWdSdU95UVQwejE1V0FLTDZsNWk1N3BvaTVON0thbFdlbGNUSDUyb1piU1Z6blU1VlRGc19KNjZVb0dROFE?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,258 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T12:52:34.521514Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-09-20-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG to team up with Hanwha Systems to develop AMOLED displays for fighter jets",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/lg-team-hanwha-systems-develop-amoled-displays-fighter-jets"
+    },
+    {
+      "rank": 2,
+      "event_id": "canon-2026-09-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Canon Inc. stock gains on stronger half-year profits - ad-hoc-news.de",
+      "companies": [
+        "canon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3FwYlFxbVBkalBkQklDN1FJWnc3QjNPTXJ4S3JwWWdaZTFMczNLTFItTmhJeU92YmV2aVhmTjFnYmphS0lwSmJHTDk5VFdEVTltTFFVRUtoWXl6cUh0SmNCd0c3RnFUMjNVRU1fdXBDdnp2LW9LSE9mZWVSRFp0S1EzLXlWaHdpaTk3VGRRNGY4eGdMOVEzWU55dEt0dEhuWW11UFR2M1BwWTNaTEl3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-09-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG to team up with Hanwha Systems to develop AMOLED displays for fighter jets - OLED-Info",
+      "companies": [
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWTQxSS1qOTdDZlk2a0NkQXdGZ2w1RDlET0dtSDhiQXBoZ3pxVlBzWFZ3MVdxdEd6X09UZFdDQUZ2eHdFWGYwTHF5enR4YkJKMG9BZzh6dTFnbkh6NXJIY0ZhNEo2bTZMN2xlR01LRHRPYjBrbGZ4Y0x3QU9vODNVcDlzVVFhemJoeVhJQWNR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HKC ships the first batch of flexible smartphone OLED panels produced at its H6 5.5-Gen line in Shenzhen",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/hkc-ships-first-batch-flexible-smartphone-oled-panels-produced-its-h6-55-gen"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Omdia: OLED monitor panel makers to shift focus to the enterprise market instead of gaming",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "panel_price",
+        "oled_penetration",
+        "it_panel_demand"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.oled-info.com/omdia-oled-monitor-panel-makers-shift-focus-enterprise-market-instead-gaming"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "canon",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 379,
+    "dup_title": 135,
+    "too_old": 167,
+    "gate1_blocked": 39,
+    "gate2_blocked": 20,
+    "passed": 18,
+    "pass_rate": "7.4%",
+    "gate2_block_rate": "8.2%",
+    "gate2_samples": [
+      "Corning: One Hit After Another (NYSE:GLW) - Seeking Alpha",
+      "Bronstein, Gewirtz & Grossman, LLC Encourages Corning Incorporated (GLW) Investors to Inquire about ",
+      "Corning Incorporated Stock Analysis: Key Support Test After $2B Offering - The Cryptonomist",
+      "Corning Incorporated Stock (GLW) Opinions on Equity Distribution Agreement - Moomoo",
+      "Jim Cramer Says to Wait For Corning (GLW) to Fall Further - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為LG電子、佳能、LGD相關動態：「LG to team up with Hanwha Systems to develop AMOLED displ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG to team up with Hanwha Systems to develop AMOLED displays for fighter jets（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Canon Inc. stock gains on stronger half-year profits - ad-hoc-news.de（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
