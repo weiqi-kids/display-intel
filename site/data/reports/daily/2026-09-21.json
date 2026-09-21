@@ -1,0 +1,310 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T14:50:57.740889Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-09-21-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Launches 24.5-inch 720Hz Gaming OLED Panel - TechPowerUp",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYnB2TGxGSjZldVRmUmVSOUwzajlSNXgtb3BJcXlpTG8yd0lxdFVsTkJVNGw2NTZSR2FCOFAyLVF2U1dVY0FCbVkzYzZxX08tOC1QcldWXy1vNDhjcG9iaXR0amF1UGNTZl8ydDR3Zmd6QjNGSFFCSHl1MzlvYm9JODJ6cEtxaFJjQWFMYk5kenNrd9IBlwFBVV95cUxPTFV6MFJZVVN2bnBwQkF3eTVVVDhLekNiSDUzR2ZQQzBrenhYM3ozNGEySEMtdWg3RjJUOGJRZmlzdjdmd2VVcDhpcXpJUWNwVm1OYkxibTRzcU9fRFpzcnktVzV0UlZxMTVlSWhEYmQyMjJVbVBBZjhOZ3J4OUdncE1MODdBLWNRcUtiYzlLYTNkNzVpSHFJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_display-2026-09-21-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display launches 720Hz Gaming OLED panel built specifically for Esports - Notebookcheck",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdFpPZHNGYnFSTmZjOEtZeVc3VzNVdlZUYnN4X0lfbUdCV3g4T2k1c3E4czM4SU8td3Myb1NJaVlsVTdOd3RKdEcxRXhkeW5sOVJJRC15VjE1OVcySFBKR0h4bEZFLTRjc2tzWEphbnJNdG41enRoZm1ydFZpdnBBMEdhNXpxWXdzOHFxR3Z3SjBvMnBSV0l0dXVqSW5sUWxFdVBNUlQzRjFHMU1mMkpXTUYwM20xajBPcGVR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_display-2026-09-21-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Launches 24.5-Inch 720Hz Gaming OLED Panel - www.guru3d.com",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONUg0R1o1Sm9YelZ3YXpyNUlCeXI0dGpJSXNKYnFsVlVRYzh4ZFkwTzI3R0VJMDUxTjNBQWFsRDhVTHQ3cURVTjdrbFBVMzVLMzdoTERlUU1oSFZHVi1zR0R1VXVNLTdIVks0Q1d6TGpZdDNNajBSbkw2SXBESUZ3NjVRV3I?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_display-2026-09-21-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display launches 24.5-inch 720Hz Gaming OLED Panel - PR Newswire",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM0NOeDhHMlVaT2UtVUFaQkRNaUxaRmU1eXhaclVsc1pod1lLaGwxM2VubWl4TzBUTVEzTFEyQnM0ZDBXVi1DMXl4OVR0RmF3SUZENVl6OGJ5dVdTTkkxYUJjX1pSUG5oR081dDVGQlMxdW5vUThvOVJJdmVtOHhjUEdhUnNLNW9fOFhWMFJxMDRRdDRtbER6SF9iTDlJWG5iS3plRzJHS1kwejYzYUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_display-2026-09-21-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Launches 24.5-Inch 720Hz Gaming OLED Panel - thelec.net",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11ZkJhMmRqdjZCSmFQZFpUalk0eTdha3lZOE1PeFFBeDVsOWpQVnY0M0ZVc1NMTWM4dUZQOE9nWFNFdmFCbS1TZnJDR1g5SGpjSjE2MENkYlFBRHVqMldIODdqR3Z4Y2M?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automotive_display": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 12,
+      "topics": [
+        "it_panel_demand",
+        "oled_penetration",
+        "panel_price"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 24,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 16
+      },
+      {
+        "id": "lg_display",
+        "count": 12
+      },
+      {
+        "id": "auo",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "canon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 20
+      },
+      {
+        "id": "automotive_display",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      },
+      {
+        "id": "panel_price",
+        "count": 2
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 377,
+    "dup_title": 113,
+    "too_old": 173,
+    "gate1_blocked": 40,
+    "gate2_blocked": 17,
+    "passed": 34,
+    "pass_rate": "12.9%",
+    "gate2_block_rate": "6.4%",
+    "gate2_samples": [
+      "GLW Investors Have Opportunity to Join Corning Incorporated Fraud Investigation with SBS Law - Finan",
+      "Lumentum, Qualcomm, and Corning to Demonstrate High-Density 1060 nm VCSEL Optical D2D Connectivity f",
+      "Corning: One Hit After Another (NYSE:GLW) - Seeking Alpha",
+      "Jim Cramer Says to Wait For Corning (GLW) to Fall Further - Yahoo Finance",
+      "Here Is How to Play Corning Stock After Its Dilution Scare - Barchart.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為LG電子、LGD、AU Optronics相關動態：「LG Display Launches 24.5-inch 720Hz Gaming OLED Panel - T...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display Launches 24.5-inch 720Hz Gaming OLED Panel - TechPowerUp（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display launches 720Hz Gaming OLED panel built specifically for Esports - ...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

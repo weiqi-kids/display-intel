@@ -1,0 +1,16 @@
+{
+  "total_raw": 377,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 40,
+  "gate2_fail": 17,
+  "passed": 34,
+  "gate2_samples": [
+    "GLW Investors Have Opportunity to Join Corning Incorporated Fraud Investigation with SBS Law - Finan",
+    "Lumentum, Qualcomm, and Corning to Demonstrate High-Density 1060 nm VCSEL Optical D2D Connectivity f",
+    "Corning: One Hit After Another (NYSE:GLW) - Seeking Alpha",
+    "Jim Cramer Says to Wait For Corning (GLW) to Fall Further - Yahoo Finance",
+    "Here Is How to Play Corning Stock After Its Dilution Scare - Barchart.com"
+  ]
+}
