@@ -1,0 +1,16 @@
+{
+  "total_raw": 378,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 43,
+  "gate2_fail": 12,
+  "passed": 21,
+  "gate2_samples": [
+    "Corning stock gains 5.9 percent ahead of the open - AD HOC NEWS",
+    "Corning: One Hit After Another (NYSE:GLW) - Seeking Alpha",
+    "Jim Cramer Says to Wait For Corning (GLW) to Fall Further - Yahoo Finance",
+    "Here Is How to Play Corning Stock After Its Dilution Scare - Barchart.com",
+    "Canon U.S.A., Inc. Expands Large Format Printing Portfolio with Advancements to imagePROGRAF TX and "
+  ]
+}

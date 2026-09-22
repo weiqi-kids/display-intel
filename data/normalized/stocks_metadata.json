@@ -19,8 +19,8 @@
   },
   "novatek": {
     "earliest": "2002-08-27",
-    "latest": "2026-09-21",
-    "count": 5955,
+    "latest": "2026-09-22",
+    "count": 5956,
     "history_complete": true
   },
   "himax": {
@@ -31,26 +31,26 @@
   },
   "auo": {
     "earliest": "2000-09-11",
-    "latest": "2026-09-21",
-    "count": 6466,
+    "latest": "2026-09-22",
+    "count": 6467,
     "history_complete": true
   },
   "innolux": {
     "earliest": "2006-10-24",
-    "latest": "2026-09-21",
-    "count": 4882,
+    "latest": "2026-09-22",
+    "count": 4883,
     "history_complete": true
   },
   "lg_display": {
     "earliest": "2004-07-23",
-    "latest": "2026-09-21",
-    "count": 5491,
+    "latest": "2026-09-22",
+    "count": 5492,
     "history_complete": true
   },
   "boe": {
     "earliest": "2001-01-12",
-    "latest": "2026-09-21",
-    "count": 6331,
+    "latest": "2026-09-22",
+    "count": 6332,
     "history_complete": true
   },
   "jdi": {
@@ -61,14 +61,14 @@
   },
   "samsung_elec": {
     "earliest": "2000-01-04",
-    "latest": "2026-09-21",
-    "count": 6679,
+    "latest": "2026-09-22",
+    "count": 6680,
     "history_complete": true
   },
   "lg_elec": {
     "earliest": "2002-04-24",
-    "latest": "2026-09-21",
-    "count": 6078,
+    "latest": "2026-09-22",
+    "count": 6079,
     "history_complete": true
   },
   "sony": {
@@ -79,8 +79,8 @@
   },
   "tcl": {
     "earliest": "2004-01-30",
-    "latest": "2026-09-21",
-    "count": 5536,
+    "latest": "2026-09-22",
+    "count": 5537,
     "history_complete": true
   },
   "etf_soxx": {
