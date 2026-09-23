@@ -1,0 +1,16 @@
+{
+  "total_raw": 378,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 178,
+  "gate1_fail": 37,
+  "gate2_fail": 11,
+  "passed": 21,
+  "gate2_samples": [
+    "Jim Cramer Says to Wait For Corning (GLW) to Fall Further - Yahoo Finance",
+    "Canon U.S.A. Expands Sales and Service Support for Edale Solutions in North America - WBOC TV",
+    "Lightweight Power, Unlimited Creativity: Canon Introduces - globenewswire.com",
+    "Himax (HIMX) Stock May Be Fully Valued On New Auto Chip News - webull.com",
+    "Himax Technologies Inc (HIMX) Stock Up 4.7% but GF Value Says Ov - GuruFocus"
+  ]
+}
