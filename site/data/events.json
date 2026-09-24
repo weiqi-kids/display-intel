@@ -1,5 +1,149 @@
 [
   {
+    "id": "boe-2026-09-24-001",
+    "date": "2026-09-24",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE to Invest Over CNY 80 Billion in R&D Over Next Five Years, Unlocking CNY 800 Billion Procurement Opportunity - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE56UGpEb3BMYVU5dm42bGd3aHZDZDJPdXI4RXE2eHE3VjlkdUZMTktGclNNcTR4bF8tcVlWUS1YN3dZd2Y1dmtfS2M5cjgzZW5LZjhnTDhlWkVGM1A1NWhxQVlDWk5mbGdpTWR6bnFEVV",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56UGpEb3BMYVU5dm42bGd3aHZDZDJPdXI4RXE2eHE3VjlkdUZMTktGclNNcTR4bF8tcVlWUS1YN3dZd2Y1dmtfS2M5cjgzZW5LZjhnTDhlWkVGM1A1NWhxQVlDWk5mbGdpTWR6bnFEVVZDYWU3Q0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-002",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Meta formally announces its OLED microdisplay VR Glasses",
+    "summary": "<p>Today Meta announced the <a href=\"https://www.oled-info.com/meta-vr-glasses\">VR Glasses</a>, which are based on dual 2412x2288 OLED microdisplays, offering a 70x60 degrees FOV. The Glasses are base",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/meta-formally-announces-its-oled-microdisplay-vr-glasses",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-003",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "ASRock Industrial revenue jumps 95% in 1H26 on North America deal",
+    "summary": "ASRock Industrial, the industrial PC (IPC) arm of ASRock, posted a 95.4% year-over-year surge in first-half 2026 revenue after winning a major North American streaming services contract. The company i",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260923PD241/asrock-revenue-ipc-north-america-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-24-004",
+    "date": "2026-09-24",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "CXMT gains ground in DRAM as Samsung, SK Hynix shift more capacity to HBM",
+    "summary": "China's ChangXin Memory Technologies (CXMT) is gaining ground in the global DRAM market as Samsung Electronics and SK Hynix allocate more production capacity to high-bandwidth memory (HBM), tightening",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260924VL219/dram-cxmt-samsung-hbm-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-005",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Yusin Malaysia plant to fully ramp up by 4Q26",
+    "summary": "<p class=\"P1\" data-start=\"5123\" data-end=\"5656\">Brake system parts maker Yusin said at an investor conference on September 23 that key equipment at its new Malaysia plant is expected to be installed b",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260924PD205/plant-2026-revenue-volkswagen-2025.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-006",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "United Renewable Energy eyes US plant, space-based solar power in revenue push",
+    "summary": "<p class=\"P1\" data-start=\"4277\" data-end=\"5025\">Solar cell manufacturer and systems integrator United Renewable Energy (URE) is still awaiting a final decision on the location of its US solar module p",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260924PD232/solar-ureco-plant-revenue-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-24-007",
+    "date": "2026-09-24",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "South Korea chip, panel lines stay on as AI, iPhone demand surges",
+    "summary": "<p class=\"P1\" data-start=\"2097\" data-end=\"2451\">South Korea's major semiconductor, display, and electronics parts factories are staying open through the Chuseok holiday as AI-driven memory demand and ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260924PD226/demand-iphone-panel-production-display.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-24-008",
+    "date": "2026-09-24",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Autonomy Levels For Design Agents: L1 To L5 Explained",
+    "summary": "<p>Determining what a system can decide, the scope it owns, how work is validated, when it asks for help, and who remains accountable for fallback and final signoff.</p>\n<p>The post <a href=\"https://s",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/autonomy-levels-for-design-agents-l1-to-l5-explained/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-09-23-001",
     "date": "2026-09-23",
     "companies": [
@@ -286,6 +430,101 @@
     ]
   },
   {
+    "id": "corning-2026-09-23-016",
+    "date": "2026-09-23",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning: The AI Fiber Demand Makes The Premium Worth Paying (NYSE:GLW) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3gwZVM1akJGQ1haX0Vxd1dxNFg4VXB3c2JYVDAwYTNKLVB5OUdUYmV1QUM1c1hZM0lKX3E1TlF5NlQ0VUJiMW4yRnRscUdDR1lOUWNfd2QxdFh6ZlFOWnBpbE1pcGhkRHRUUUFhLU",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc3gwZVM1akJGQ1haX0Vxd1dxNFg4VXB3c2JYVDAwYTNKLVB5OUdUYmV1QUM1c1hZM0lKX3E1TlF5NlQ0VUJiMW4yRnRscUdDR1lOUWNfd2QxdFh6ZlFOWnBpbE1pcGhkRHRUUUFhLUZadkU4djMxcWxfQUt0ZHYyWXo0bGdvMHZDTHJQXzJLM0diUWFkaWRLcllNV29EYW9E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-23-017",
+    "date": "2026-09-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Starts Mass-Producing a 720Hz OLED That Hits Its Refresh Rate at Full 1080p - The FPS Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXNJOHpmaEsySGE1bnZRYWd2SUNmZFRoNDdIMUJQNmlZOWgwUmc0Wk1TcE85QkEyM0l6RkZpV2ljUmR1ZU9HMTVKMzdLZUx5UHpyYmpPVndxZ1lKVEIzRTFCeHlwS1B4NGtUVFU3S1",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXNJOHpmaEsySGE1bnZRYWd2SUNmZFRoNDdIMUJQNmlZOWgwUmc0Wk1TcE85QkEyM0l6RkZpV2ljUmR1ZU9HMTVKMzdLZUx5UHpyYmpPVndxZ1lKVEIzRTFCeHlwS1B4NGtUVFU3S1ZoNWdyMmFwdldDNzhZQzFHQnk2Vko0U3hKY01XTUpCVEFuQk1ZTjZqNWFTMllycVdFeURQOWpQbUZXODExWmhYdERiSWVxWGdNcnRUNVZEaFMwRTNLUHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-09-23-018",
+    "date": "2026-09-23",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology unveils 800 billion yuan procurement plan; 80 billion yuan R&D bet on optoelectronic integration over five years - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5ldlRYRGRUT3ZOamFGNm1rRHFCUFNxQU41YXZ5dm5pSGtkZUpYQmVwZ3Z3cjdtVVgxaXpxemY3bDNDN2VaOGVKcHA5LVlzWmlGSFl0anVJa1VTZGhaeUJSVkpJZlI4Nm9TajFXOFdkTT",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ldlRYRGRUT3ZOamFGNm1rRHFCUFNxQU41YXZ5dm5pSGtkZUpYQmVwZ3Z3cjdtVVgxaXpxemY3bDNDN2VaOGVKcHA5LVlzWmlGSFl0anVJa1VTZGhaeUJSVkpJZlI4Nm9TajFXOFdkTTNpSkluVXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-23-019",
+    "date": "2026-09-23",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung at the Forefront of Korea’s AI RAN Projects with KT and SK Telecom",
+    "summary": "Samsung Electronics today announced it has signed contracts with KT and SK Telecom for their AI RAN projects under the Korean Ministry of Science and ICT’s (MSIT) “Hyper AI Network” initiative, taking",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-at-the-forefront-of-koreas-ai-ran-projects-with-kt-and-sk-telecom",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-23-020",
+    "date": "2026-09-23",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung’s 65-inch Mini LED 4K smart TV is on sale for $50 off - AL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPYTJGOUswZEUzQzd1S3dxTUZjZDdnMEo5Z3VOUmJsQjBGUmVWMXBsZkw4NXd1emxUWWZIcWhEZ29mUnBKMHF2d2xPeDZBWFhaUkRPNFdpMkpJaUVqcDh5RUlrMVFma25CTHFtNlhnRH",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYTJGOUswZEUzQzd1S3dxTUZjZDdnMEo5Z3VOUmJsQjBGUmVWMXBsZkw4NXd1emxUWWZIcWhEZ29mUnBKMHF2d2xPeDZBWFhaUkRPNFdpMkpJaUVqcDh5RUlrMVFma25CTHFtNlhnRHItaXpsRUFzSUtpNUtFVWdscUJIZTFoQ3h4dzIwUElkMXRSQUphUTdORzVhaFRORkhGbXhVN09GNXBmSUpFbDBFZDJScmdOUdIBtgFBVV95cUxPYTJGOUswZEUzQzd1S3dxTUZjZDdnMEo5Z3VOUmJsQjBGUmVWMXBsZkw4NXd1emxUWWZIcWhEZ29mUnBKMHF2d2xPeDZBWFhaUkRPNFdpMkpJaUVqcDh5RUlrMVFma25CTHFtNlhnRHItaXpsRUFzSUtpNUtFVWdscUJIZTFoQ3h4dzIwUElkMXRSQUphUTdORzVhaFRORkhGbXhVN09GNXBmSUpFbDBFZDJScmdOUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-09-22-001",
     "date": "2026-09-22",
     "companies": [
@@ -507,6 +746,42 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNVpzNWswcW1ZYXQ4QVdoMGVKRlN1OFZrazllUXAtWU1qc2doM254VHZxLXhCWWtGYlk0aTJzbzhJWEN4ZmNYVW1sTFg1anMzU1FvaHU4RXhsTDZXcGQ3clZZaTFLVmQyZ0p3NWVFUmo5c190T1Q3dkdrMmhnZXl0NElHQXhsSm1XQlY0QVNPSC1lbU9fWnlCdWExU1J3a0lkcGxxY3lPWW5NcHNSTTlkWko0Y2JreEppWHF4OVR0WTR6b09icXVjUFpyVEYtVVZPVkVr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-22-013",
+    "date": "2026-09-22",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LPGA Stars Gather in Corning to Launch New Era of The Classic | News | LPGA | Ladies Professional Golf Association - LPGA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOTmtrcHZfNWU5b0pRV3NVVm9ZekdSbVB4bGlEbXJsc0RqaEl0eUw0UzFpSlA3Q2hBQUNTWlgzb0k5TFYteHo0bnpXaC1mbjkzSmo3RkJrV25nUDNiWlpNLUtYMURHdEZ4Mk5iUnlfVX",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTmtrcHZfNWU5b0pRV3NVVm9ZekdSbVB4bGlEbXJsc0RqaEl0eUw0UzFpSlA3Q2hBQUNTWlgzb0k5TFYteHo0bnpXaC1mbjkzSmo3RkJrV25nUDNiWlpNLUtYMURHdEZ4Mk5iUnlfVXhUSzg1dmYzMFpDZmZlbXJxeWZ3LTRWZ2R2SU9zendBcGd2My1YdjVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-22-014",
+    "date": "2026-09-22",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Meta Platforms’ Petal Cable Puts Corning at the Center of AI’s Bandwidth Boom - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcEVLNHRTYlhwQXoxUk1VX2NtckVLMVh0YzFNT2ZfSkFITi1ZQ0hqanpPYUcwd1JIVjUzVjROWFAxQmtxbGlPcngxUXAwZThwaW1tUS1FNnh5RVFuTHpuWnJIYjRFVXlDc3JUbFc4Z1",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcEVLNHRTYlhwQXoxUk1VX2NtckVLMVh0YzFNT2ZfSkFITi1ZQ0hqanpPYUcwd1JIVjUzVjROWFAxQmtxbGlPcngxUXAwZThwaW1tUS1FNnh5RVFuTHpuWnJIYjRFVXlDc3JUbFc4Z1A4NDdaakEzVVVWZ2MzdDdjYXJrbFh4bk1CLXFlYWx6dFJPY0FBTUhtNHZwZVJXWGVMOG5oZ0Q2ZUZxak1YSFBMTTJ6SVpJcGhDMHJjbDRwODQ5dHF5OUc2ZFVZYUpQOWZBZ0Z3andBVnRmQUYxek8yWmZmLTJMaU9fNDVQdzZpSQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1220,6 +1495,27 @@
       {
         "name": "auo",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN0NraGw0dE1qQ1luOGhNTlcxU3FUa0lMM3RRVktFd3R3U1hDLU1ZOEFCdHhTdWVndVUwcjBtRUFSTTZqNFVTNFdXS2ltV3pEbmRhMW1Db1dPSzJqaV9Zc2lEbUQzMGpnYm9VMkVFbkU3U1FTVDVsRU5WZGxvVXlaZmJyS0MxQTRiSmQtay1JcHB2Sk0wWUloTVI1ZVYwZWZtZXdHMU9NOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-09-21-036",
+    "date": "2026-09-21",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "mini_led",
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "AU Optronics And Intel Could Reshape Chip Packaging, Merging Micro LED Substrates With Silicon & CPOs To Chase AI Demands - Wccftech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPVHJXcmNYUW5QN0pGU3A3TlhTU1hjX1RScXVWUlcyMkRHSHFSazRFb1E1RjF5ZVZQNjA3Smp1a2pZeGVfME1KYzZ2QlM1RExCb0hIV2V6UEZRQldVRlY2SVhsc0xtQ0NtbHdYZFF3U2",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVHJXcmNYUW5QN0pGU3A3TlhTU1hjX1RScXVWUlcyMkRHSHFSazRFb1E1RjF5ZVZQNjA3Smp1a2pZeGVfME1KYzZ2QlM1RExCb0hIV2V6UEZRQldVRlY2SVhsc0xtQ0NtbHdYZFF3U2E3QVZjTDQ3M2JTNzVidE9wVlJKMnhha0VkRGIxSlY1WUlmZWtqSG9mSWR3YnNlUzdhd3hCYnhYNGRpeUow0gGyAUFVX3lxTFBnLVo1ZUdlamtjVDQyVVhXZkd2R0U5Y2xVTjdYNXlLTXE0ZVNXR194Z1NUeHN5OFdzczh2Vml0anRTVUZiMDdvd3RuMEVIWkV4aWV0MjRWVkdid015VXYxR3hiZGhvYkRSaGN5cnN0SWdyTlFMMkdsbTdCd2xsY05xc09nMVVfeFpUbzhUdzhFSjhfUFUwcVBPZnZQNTM3Q0tlMTl3aXRzRmJPY2o3YWthcXc?oc=5",
         "type": "rss"
       }
     ]
@@ -2408,6 +2704,26 @@
       {
         "name": "auo",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XRkhaVHdLOWtiTnYtLWlOZGZ1SHNkZWNYNktuUUU2M1pabElxN2tFbHVsdVFUeTdrc0NNa3h0OG5XRE5yaEQwVVRKVDduQ1NPVVJnRFNXdmZxX0c4cWEyRllYUlZ1Nk9NLVY1Q0ZlWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-09-17-024",
+    "date": "2026-09-17",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AU Optronics (AU7) Q1 2024 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBFZDRLZ3pReFlXRXJrcDhqZC1SWi1jUDBLcDJoWU01YWF5ZHo4SHR5YTh0WGpVWjFJZ0JxQzl1ajN6VldWVUtvTTViWkxTM25qVVZUU2tpTDdsZmpRT241WGtONDRpZl9DSWVBOWFXcw",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFZDRLZ3pReFlXRXJrcDhqZC1SWi1jUDBLcDJoWU01YWF5ZHo4SHR5YTh0WGpVWjFJZ0JxQzl1ajN6VldWVUtvTTViWkxTM25qVVZUU2tpTDdsZmpRT241WGtONDRpZl9DSWVBOWFXcw?oc=5",
         "type": "rss"
       }
     ]

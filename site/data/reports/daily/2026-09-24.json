@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:11:00.168520Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ASRock Industrial revenue jumps 95% in 1H26 on North America deal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260923PD241/asrock-revenue-ipc-north-america-demand.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-24-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Yusin Malaysia plant to fully ramp up by 4Q26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://www.digitimes.com/news/a20260924PD205/plant-2026-revenue-volkswagen-2025.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-24-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "United Renewable Energy eyes US plant, space-based solar power in revenue push",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260924PD232/solar-ureco-plant-revenue-production.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "boe-2026-09-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BOE to Invest Over CNY 80 Billion in R&D Over Next Five Years, Unlocking CNY 800 Billion Procurement Opportunity - finance.biggo.com",
+      "companies": [
+        "boe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56UGpEb3BMYVU5dm42bGd3aHZDZDJPdXI4RXE2eHE3VjlkdUZMTktGclNNcTR4bF8tcVlWUS1YN3dZd2Y1dmtfS2M5cjgzZW5LZjhnTDhlWkVGM1A1NWhxQVlDWk5mbGdpTWR6bnFEVVZDYWU3Q0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Meta formally announces its OLED microdisplay VR Glasses",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/meta-formally-announces-its-oled-microdisplay-vr-glasses"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 379,
+    "dup_title": 132,
+    "too_old": 178,
+    "gate1_blocked": 35,
+    "gate2_blocked": 17,
+    "passed": 17,
+    "pass_rate": "6.9%",
+    "gate2_block_rate": "6.9%",
+    "gate2_samples": [
+      "Bronstein, Gewirtz & Grossman, LLC Is Investigating Corning Incorporated (GLW) And Encourages Stockh",
+      "Corning Inc Stock (GLW) Moved Down by 3.63% on Sep 23: What Investors Need To Know - TradingKey",
+      "Corning rated Strong Buy with $177 target, driv... - Pluang",
+      "Corning Stock Has Fallen 41% From Its Peak. Does the Springboard Plan Still Make GLW Worth Owning? -",
+      "Jim Cramer Says to Wait For Corning (GLW) to Fall Further - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為三星電子、BOE Technology相關動態：「ASRock Industrial revenue jumps 95% in 1H26 on North Amer...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "ASRock Industrial revenue jumps 95% in 1H26 on North America deal（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Yusin Malaysia plant to fully ramp up by 4Q26（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

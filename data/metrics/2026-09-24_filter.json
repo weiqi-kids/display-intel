@@ -1,0 +1,16 @@
+{
+  "total_raw": 379,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 178,
+  "gate1_fail": 35,
+  "gate2_fail": 17,
+  "passed": 17,
+  "gate2_samples": [
+    "Bronstein, Gewirtz & Grossman, LLC Is Investigating Corning Incorporated (GLW) And Encourages Stockh",
+    "Corning Inc Stock (GLW) Moved Down by 3.63% on Sep 23: What Investors Need To Know - TradingKey",
+    "Corning rated Strong Buy with $177 target, driv... - Pluang",
+    "Corning Stock Has Fallen 41% From Its Peak. Does the Springboard Plan Still Make GLW Worth Owning? -",
+    "Jim Cramer Says to Wait For Corning (GLW) to Fall Further - Yahoo Finance"
+  ]
+}
