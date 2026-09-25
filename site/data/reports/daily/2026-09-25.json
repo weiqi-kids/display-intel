@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:15:49.296001Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "himax-2026-09-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Himax Technologies stock falls 1.12 percent as Q2 revenue rises - AD HOC NEWS",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0NrVnpocTNBdmIwMEhhOHJ3cGtUblNIZnFLWEU5RjNGNGxWNlVRZl9sNU14N3dzR2lvOVZzTHAzQ2Q5N1ExTU9fWkNzMmNqLWNmd0MyY0hwcUtaZmUtXzNpbHJaNjV4NS14cmJLNWg5VXpHaE8yTFZnWGJOMm9XUjVQYWtvY184Nm1zRTJIVzFyWVNjcG84bWFSM2lUSE1SZjRWaWp0a0lnQ1JBa09qeGZ3QUN5UWNsUWtzZ2k1TQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "himax-2026-09-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax Technologies (HIMX) grants its CEO 4,797 stock units, with vesting tied to continued service - Stock Titan",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNjdsM1VIb2hDaGd5akFoUUtfa2lnQXBKZzBqNUVpY1U0WkZrdGg4VU5semNzWVdiTHlXbUJ6YU9yaU15djRLY090aGVZZGZXa1FxRHd1MEVlb1lTejNwUGxodlpGdEVvTUZra0Z3LS1GRmk4cWd4eTlwdnQ2Tk5Cay1SS1k5MGxkbkNMUWxvd0pCcGVJbDk3aWkta2NDeTVqZlQwZnZhYi1TZndJeTJ6TzZycW5zLVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "himax",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 132,
+    "too_old": 165,
+    "gate1_blocked": 21,
+    "gate2_blocked": 23,
+    "passed": 8,
+    "pass_rate": "3.7%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Corning Incorporate",
+      "Corning faces securities fraud investigation af... - Pluang",
+      "Bronstein, Gewirtz & Grossman, LLC Initiates an Investigation into Allegations Against Corning Incor",
+      "Corning Inc Stock (GLW) Moved Down by 3.63% on Sep 23: What Investors Need To Know - TradingKey",
+      "Photonics leaders Corning and Marvell face pres... - Pluang"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Himax Technologies相關動態：「Himax Technologies stock falls 1.12 percent as Q2 revenue...」。主要關注主題為法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Himax Technologies stock falls 1.12 percent as Q2 revenue rises - AD HOC NEWS（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Himax Technologies (HIMX) grants its CEO 4,797 stock units, with vesting tied...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

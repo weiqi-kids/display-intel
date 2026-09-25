@@ -1,5 +1,43 @@
 [
   {
+    "id": "himax-2026-09-25-001",
+    "date": "2026-09-25",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) grants its CEO 4,797 stock units, with vesting tied to continued service - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQNjdsM1VIb2hDaGd5akFoUUtfa2lnQXBKZzBqNUVpY1U0WkZrdGg4VU5semNzWVdiTHlXbUJ6YU9yaU15djRLY090aGVZZGZXa1FxRHd1MEVlb1lTejNwUGxodlpGdEVvTUZra0Z3LS",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNjdsM1VIb2hDaGd5akFoUUtfa2lnQXBKZzBqNUVpY1U0WkZrdGg4VU5semNzWVdiTHlXbUJ6YU9yaU15djRLY090aGVZZGZXa1FxRHd1MEVlb1lTejNwUGxodlpGdEVvTUZra0Z3LS1GRmk4cWd4eTlwdnQ2Tk5Cay1SS1k5MGxkbkNMUWxvd0pCcGVJbDk3aWkta2NDeTVqZlQwZnZhYi1TZndJeTJ6TzZycW5zLVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-09-25-002",
+    "date": "2026-09-25",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies stock falls 1.12 percent as Q2 revenue rises - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0NrVnpocTNBdmIwMEhhOHJ3cGtUblNIZnFLWEU5RjNGNGxWNlVRZl9sNU14N3dzR2lvOVZzTHAzQ2Q5N1ExTU9fWkNzMmNqLWNmd0MyY0hwcUtaZmUtXzNpbHJaNjV4NS14cmJLNW",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0NrVnpocTNBdmIwMEhhOHJ3cGtUblNIZnFLWEU5RjNGNGxWNlVRZl9sNU14N3dzR2lvOVZzTHAzQ2Q5N1ExTU9fWkNzMmNqLWNmd0MyY0hwcUtaZmUtXzNpbHJaNjV4NS14cmJLNWg5VXpHaE8yTFZnWGJOMm9XUjVQYWtvY184Nm1zRTJIVzFyWVNjcG84bWFSM2lUSE1SZjRWaWp0a0lnQ1JBa09qeGZ3QUN5UWNsUWtzZ2k1TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "boe-2026-09-24-001",
     "date": "2026-09-24",
     "companies": [
@@ -525,6 +563,43 @@
     ]
   },
   {
+    "id": "canon-2026-09-23-021",
+    "date": "2026-09-23",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Canon U.S.A. Expands Office Scanning Capabilities with New imageFORMULA DR-C360 Office Document Scanner - industryanalysts.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQSzVOeDZpLW43Njkyc0ZYV0tUdllmdHkyVjVzMHdGRUt1MHZWbXl5eUhmaTM5N1NkZ1JUdGlwdk5SeVlEWnR5UWJFUU1aYldhUjIyRFJnRnppMk1mUURfTFFwUllkVkNkdnZzU0ZHNF",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSzVOeDZpLW43Njkyc0ZYV0tUdllmdHkyVjVzMHdGRUt1MHZWbXl5eUhmaTM5N1NkZ1JUdGlwdk5SeVlEWnR5UWJFUU1aYldhUjIyRFJnRnppMk1mUURfTFFwUllkVkNkdnZzU0ZHNFpsX29wckVrTEdydEhDWUdsdzY1SGxSUzU5MHczNVE0OEtjZEgwa2t3QWJvNUh3SGp0a05najRHV3hFR0ttTVpZd01qSlRMTHlqc3l2clhUOFRLZ3JWNmFzVzltVVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-23-022",
+    "date": "2026-09-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display (NYSE:LPL) Upgraded to \"Hold\" at Zacks Research - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3c1ZjVVbHNwZ3hVSFNhMzdXd1Q3cTRaRjdLbXhUajhwSWt1SElGVy12MnJ6b2NGbEgwWHZuemtYbkNWaklYSXhQU00wT1d0ZHlxOEpHSEhyUUFYdU0zSVdsZnR5VGVYczd5ZVlKRj",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3c1ZjVVbHNwZ3hVSFNhMzdXd1Q3cTRaRjdLbXhUajhwSWt1SElGVy12MnJ6b2NGbEgwWHZuemtYbkNWaklYSXhQU00wT1d0ZHlxOEpHSEhyUUFYdU0zSVdsZnR5VGVYczd5ZVlKRjZVNFZxdWcxTnl1T1hXRWhqRE42MlhyajVHRTQ2bkNCcUo2N280RHd2WEl2N1RzQUlGR19YVm1WZHVjQUFGLVhpeWM1X1M3cnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-09-22-001",
     "date": "2026-09-22",
     "companies": [
@@ -782,6 +857,24 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcEVLNHRTYlhwQXoxUk1VX2NtckVLMVh0YzFNT2ZfSkFITi1ZQ0hqanpPYUcwd1JIVjUzVjROWFAxQmtxbGlPcngxUXAwZThwaW1tUS1FNnh5RVFuTHpuWnJIYjRFVXlDc3JUbFc4Z1A4NDdaakEzVVVWZ2MzdDdjYXJrbFh4bk1CLXFlYWx6dFJPY0FBTUhtNHZwZVJXWGVMOG5oZ0Q2ZUZxak1YSFBMTTJ6SVpJcGhDMHJjbDRwODQ5dHF5OUc2ZFVZYUpQOWZBZ0Z3andBVnRmQUYxek8yWmZmLTJMaU9fNDVQdzZpSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-22-015",
+    "date": "2026-09-22",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Country Club welcomes LPGA for The Classic return - mytwintiers.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnczc1d0OTdlbjlnUUpObFZhdGcxNjVCRE9wVmRnQkNqXzM5bVpSX3lZMGNTQkVlSTl3Z2pwbDBZZWRnaU1ZaldFbDQ4SGJBZFpVOWNvQmVTbGt3Y01Zc3k5SE9ibWNtVk9CMUdQS2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnczc1d0OTdlbjlnUUpObFZhdGcxNjVCRE9wVmRnQkNqXzM5bVpSX3lZMGNTQkVlSTl3Z2pwbDBZZWRnaU1ZaldFbDQ4SGJBZFpVOWNvQmVTbGt3Y01Zc3k5SE9ibWNtVk9CMUdQS2xxNkw2dEtGdHhfVWwxSFNxTGExcnlkTS1XT28wMEJFdXV1anowMGxQNlZYd1BBU0piaHY1MHFic1Q2d9IBrwFBVV95cUxNbUVoVmhvakRXdTJOTVhXU1hwLWdOYm5ySjhRZjVXRG5oN1A1Q1dPY3k5b1pwcWtuVUNiOWM1WW80M3pTc0NVSkVoREo2M3IwcTh0VXp6aFpIZXQwRDR0REIyVW9Ec3B6eHJ5elJub2Frb3ppamZEYm5QeVdDaUF2T2c1MF9jcHJPeDRHd3k3NmpGVk9yamhlYkhuNmVBOTJpSUc2ZVY0YlhqS2lnOFJN?oc=5",
         "type": "rss"
       }
     ]
@@ -1521,6 +1614,48 @@
     ]
   },
   {
+    "id": "lg_elec-2026-09-21-037",
+    "date": "2026-09-21",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display launches 720Hz gaming OLED panel built specifically for Esports - notebookcheck.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX0Z5T0VjWTBnYVlSZG9KQUl3QUo5Q3l0ZHBNTHlCN1dUUE1xaXNZUURoMGRBbjFUV3Atel9YdkV0Q0FWdnAybVpzVXRFQU1CLUV4RWI0QjNtSnpna1dJQnRlWGJqc2ZfcjhfNERNbF",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX0Z5T0VjWTBnYVlSZG9KQUl3QUo5Q3l0ZHBNTHlCN1dUUE1xaXNZUURoMGRBbjFUV3Atel9YdkV0Q0FWdnAybVpzVXRFQU1CLUV4RWI0QjNtSnpna1dJQnRlWGJqc2ZfcjhfNERNbFZDalRxVWI4VmpRa2lFWHkzUGxkMjJTYWxiT3AzLU5VZC01YThsSXNNcGNncjl5dnU2T09xM2Mwcjc2MFlfUlpKMUx1ZDdOVXhBbEU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-21-038",
+    "date": "2026-09-21",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display launches 24.5-inch 720Hz Gaming OLED Panel - nwitimes.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQT2pXNVYzVVktQUl2YnFPdWtrRkRKUkI2Q1BVZk9xZUM0ZkxTT3NXVWxlTHBRN0R1dkwwYU1mcGFrZ2Z5bnZnNkR3YURjMjRrWG5NSUU5TnA5WG54cTBiT011Sm9sTmN1ZnR2cjR0em",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT2pXNVYzVVktQUl2YnFPdWtrRkRKUkI2Q1BVZk9xZUM0ZkxTT3NXVWxlTHBRN0R1dkwwYU1mcGFrZ2Z5bnZnNkR3YURjMjRrWG5NSUU5TnA5WG54cTBiT011Sm9sTmN1ZnR2cjR0emNMVk51OGl3b3pERW5xOEZsNURySTY2WjFJeVpadTg4bThTSnVVOXppbE5Sa1p2WDgwYm9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-09-20-001",
     "date": "2026-09-20",
     "companies": [
@@ -1747,6 +1882,24 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMW1zb1BRN0FBVmZtdEU0amFmb2gwWEloV2QzeUhvc1JTelRhSnhhdDlDWkdtNmlkMmNrZHdGbmYzLTlfWEpVSVN5NTBtWUZ4R21wbzlTNzAyT29KMjJlQUQ2X0hObVVpVm1GQk1vQXVfZ1hDbG1EaTBHVXM2T1NscVptWUdYYmtpb2Y5TDAyNUFYYWgwdGxJeXc1X1VibGc2M0M2dFVFUmg4MXdLVnZoTkxnZzh0Q3ktaHBsalVLSHc5YlYweGdjXzlMb2tUX0NkWUxaWmJuN25tRUpvT241VnZoNUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-20-013",
+    "date": "2026-09-20",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GLW Investors Have Opportunity to Join Corning Incorporated Fraud Investigation with SBS Law - businesswire.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQmVNdUg4ZmRfY3dtRVEwXzZfQkM2dHRodG5DX0FNaVRxeGp2SXoyV3VuWkVOeGh5blI1cmJEbTNRQ0F3Z1JvTEtPM1lkVEdZNFkwZldOUGFTQzZBVXloTzRUclFhQ281LUltRThGbE",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQmVNdUg4ZmRfY3dtRVEwXzZfQkM2dHRodG5DX0FNaVRxeGp2SXoyV3VuWkVOeGh5blI1cmJEbTNRQ0F3Z1JvTEtPM1lkVEdZNFkwZldOUGFTQzZBVXloTzRUclFhQ281LUltRThGbENDWlEyYXRJNkNzcDNEZkJnYnMxeVdMeU43aGNVMGVpMzdSTXJjRTRUb3BlOU1QTWdCdjhZRVFNSmVhSXVGenhGVEdKM1Y0clRjTHJtSHVmdFJiWUUtRHZYaEVucUd1S3VPTERReHozTkVlajhGQmhfXzBlUQ?oc=5",
         "type": "rss"
       }
     ]

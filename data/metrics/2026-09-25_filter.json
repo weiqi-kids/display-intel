@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 21,
+  "gate2_fail": 23,
+  "passed": 8,
+  "gate2_samples": [
+    "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Corning Incorporate",
+    "Corning faces securities fraud investigation af... - Pluang",
+    "Bronstein, Gewirtz & Grossman, LLC Initiates an Investigation into Allegations Against Corning Incor",
+    "Corning Inc Stock (GLW) Moved Down by 3.63% on Sep 23: What Investors Need To Know - TradingKey",
+    "Photonics leaders Corning and Marvell face pres... - Pluang"
+  ]
+}
