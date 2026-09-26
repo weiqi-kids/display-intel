@@ -1,0 +1,147 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T12:41:38.423121Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_elec-2026-09-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung looks to Halftone Black PDL to reduce the cost of its polarizer-free AMOLED process",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "panel_price",
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/samsung-looks-halftone-black-pdl-reduce-cost-its-polarizer-free-amoled-process"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hisense U7SE 65-inch smart TV review: A feature-packed Mini LED TV - The Times of India",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFc5ZGZ6Vi1abndMVGxWQ1JuQnQyX3NaVmV1TTZOR0o5NnROWEdFdE96eG9sQllOeTV5Qkh3VWh1ekRaVUVMaGNucklhOHFiOVlNb0lVdE1VaWtHNFVyaWpod1JpTWJtSGhjelpmWlZHcXlhNHBmdVFfbUFVekphT3E2eU1JMjR4elhMZ3VNVGJleDVDNGgxZUNJeDgzdmFIN0puTFZEM19TUzBSTGtBR3IyVThDdWY5RkRtUnY1cExldDRZNG9fTVliTF9tQWFnOFk1ek1UeDh1Z2FqMHBJ0gHkAUFVX3lxTE5CbTV3ZWFOTGdCX2h5NVFPUmE0V3IxYUt5Mndnd1A4ZXpyOEx3MHNMMjBZQkZnTkhZZUFtSFpIY3l2ZDdQVnNfYUMzMXV2SUREZFl2TnY1WFlrMEtxd0FRRTBDYUNvQ0p5eWlpaDdWNHlMWV80TkN5U2NRMHR1Vk90LV9SUW9MZ3NaUWtYTEFlTHZnNHVxMTdMYnQtSzlTcURiUVk3VmM0c2dNeE5pMEN6Qzl0UnFTbWNpclN0VVhzbVU4bWJ4eFkyVFN3bk1ZbU1JQWI2WFRuamM5b0otbzNnZmptSQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "panel_price",
+        "count": 1
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 135,
+    "too_old": 166,
+    "gate1_blocked": 19,
+    "gate2_blocked": 16,
+    "passed": 13,
+    "pass_rate": "6.1%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Corning Incorporated (GLW) Is Benefitting from Accelerating Data Centre Buildout - Yahoo Finance",
+      "Bronstein, Gewirtz & Grossman, LLC Encourages Corning Incorporated (GLW) Stockholders to Inquire abo",
+      "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Corning Incorporate",
+      "Corning faces securities fraud investigation af... - pluang.com",
+      "Corning Inc Stock (GLW) Moved Down by 3.63% on Sep 23: What Investors Need To Know - TradingKey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為三星電子相關動態：「Samsung looks to Halftone Black PDL to reduce the cost of...」。主要關注主題為面板價格、OLED 滲透率、Mini LED，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Samsung looks to Halftone Black PDL to reduce the cost of its polarizer-free ...（面板價格、OLED 滲透率）",
+        "level": "green"
+      },
+      {
+        "text": "Hisense U7SE 65-inch smart TV review: A feature-packed Mini LED TV - The Time...（Mini LED）",
+        "level": "green"
+      },
+      {
+        "text": "面板價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

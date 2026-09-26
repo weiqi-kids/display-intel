@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 135,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 19,
+  "gate2_fail": 16,
+  "passed": 13,
+  "gate2_samples": [
+    "Corning Incorporated (GLW) Is Benefitting from Accelerating Data Centre Buildout - Yahoo Finance",
+    "Bronstein, Gewirtz & Grossman, LLC Encourages Corning Incorporated (GLW) Stockholders to Inquire abo",
+    "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Corning Incorporate",
+    "Corning faces securities fraud investigation af... - pluang.com",
+    "Corning Inc Stock (GLW) Moved Down by 3.63% on Sep 23: What Investors Need To Know - TradingKey"
+  ]
+}

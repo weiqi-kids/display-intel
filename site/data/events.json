@@ -1,5 +1,44 @@
 [
   {
+    "id": "samsung_elec-2026-09-26-001",
+    "date": "2026-09-26",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "panel_price",
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung looks to Halftone Black PDL to reduce the cost of its polarizer-free AMOLED process",
+    "summary": "<p>Polarizer-free OLEDs were introduced a few years ago, as they enable higher-efficiency, and also a thinner form factor. The demand for these OLEDs is increasing - <a href=\"https://www.oled-info.com",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-looks-halftone-black-pdl-reduce-cost-its-polarizer-free-amoled-process",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-26-002",
+    "date": "2026-09-26",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Hisense U7SE 65-inch smart TV review: A feature-packed Mini LED TV - The Times of India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFc5ZGZ6Vi1abndMVGxWQ1JuQnQyX3NaVmV1TTZOR0o5NnROWEdFdE96eG9sQllOeTV5Qkh3VWh1ekRaVUVMaGNucklhOHFiOVlNb0lVdE1VaWtHNFVyaWpod1JpTWJtSGhjelpmWl",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFc5ZGZ6Vi1abndMVGxWQ1JuQnQyX3NaVmV1TTZOR0o5NnROWEdFdE96eG9sQllOeTV5Qkh3VWh1ekRaVUVMaGNucklhOHFiOVlNb0lVdE1VaWtHNFVyaWpod1JpTWJtSGhjelpmWlZHcXlhNHBmdVFfbUFVekphT3E2eU1JMjR4elhMZ3VNVGJleDVDNGgxZUNJeDgzdmFIN0puTFZEM19TUzBSTGtBR3IyVThDdWY5RkRtUnY1cExldDRZNG9fTVliTF9tQWFnOFk1ek1UeDh1Z2FqMHBJ0gHkAUFVX3lxTE5CbTV3ZWFOTGdCX2h5NVFPUmE0V3IxYUt5Mndnd1A4ZXpyOEx3MHNMMjBZQkZnTkhZZUFtSFpIY3l2ZDdQVnNfYUMzMXV2SUREZFl2TnY1WFlrMEtxd0FRRTBDYUNvQ0p5eWlpaDdWNHlMWV80TkN5U2NRMHR1Vk90LV9SUW9MZ3NaUWtYTEFlTHZnNHVxMTdMYnQtSzlTcURiUVk3VmM0c2dNeE5pMEN6Qzl0UnFTbWNpclN0VVhzbVU4bWJ4eFkyVFN3bk1ZbU1JQWI2WFRuamM5b0otbzNnZmptSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-09-25-001",
     "date": "2026-09-25",
     "companies": [
@@ -33,6 +72,100 @@
       {
         "name": "himax",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0NrVnpocTNBdmIwMEhhOHJ3cGtUblNIZnFLWEU5RjNGNGxWNlVRZl9sNU14N3dzR2lvOVZzTHAzQ2Q5N1ExTU9fWkNzMmNqLWNmd0MyY0hwcUtaZmUtXzNpbHJaNjV4NS14cmJLNWg5VXpHaE8yTFZnWGJOMm9XUjVQYWtvY184Nm1zRTJIVzFyWVNjcG84bWFSM2lUSE1SZjRWaWp0a0lnQ1JBa09qeGZ3QUN5UWNsUWtzZ2k1TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-09-25-003",
+    "date": "2026-09-25",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) grants its CEO 4,797 stock units, with vesting tied to continued service - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQNjdsM1VIb2hDaGd5akFoUUtfa2lnQXBKZzBqNUVpY1U0WkZrdGg4VU5semNzWVdiTHlXbUJ6YU9yaU15djRLY090aGVZZGZXa1FxRHd1MEVlb1lTejNwUGxodlpGdEVvTUZra0Z3LS",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNjdsM1VIb2hDaGd5akFoUUtfa2lnQXBKZzBqNUVpY1U0WkZrdGg4VU5semNzWVdiTHlXbUJ6YU9yaU15djRLY090aGVZZGZXa1FxRHd1MEVlb1lTejNwUGxodlpGdEVvTUZra0Z3LS1GRmk4cWd4eTlwdnQ2Tk5Cay1SS1k5MGxkbkNMUWxvd0pCcGVJbDk3aWkta2NDeTVqZlQwZnZhYi1TZndJeTJ6TzZycW5zLVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-09-25-004",
+    "date": "2026-09-25",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Form 4 Himax Technologies For: 25 September By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNVFVNMHNhT0IwdmVJV2FXS2dtdVJtdWt4VmEzQ2FsSkxUbTVZalU0ZGp6eVp1aEhfMkNBcXVYMjhNY1d3Q0ZINDgtN1F3d19hVnhWS1R5WFppNVFpRU9OUkZVb2ZPNkl1dnhxN3U3X3",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVFVNMHNhT0IwdmVJV2FXS2dtdVJtdWt4VmEzQ2FsSkxUbTVZalU0ZGp6eVp1aEhfMkNBcXVYMjhNY1d3Q0ZINDgtN1F3d19hVnhWS1R5WFppNVFpRU9OUkZVb2ZPNkl1dnhxN3U3X3B3X3NsUnA0bnpVaTFJaFRYZzVHMUt3Mk5jMnRBUXlSOFRLMHptNWZULU1sVWw5N1Zyd0F1akln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-25-005",
+    "date": "2026-09-25",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "LG starts mass production of 720Hz Gaming OLED panel - KitGuru",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOajZNbG1HRWhsNFBJbzhRMUlCQmliMmo2SkJwMjhjY3Vtc09kVjhaOU1Sd2VHMExweVJHMFItUlJJRzVXdVdBVUZ3cUtUd1pBeXJDbmkxY0ZXcDlrejRSWVh4V3hLZGZEOEF4YkhTek",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOajZNbG1HRWhsNFBJbzhRMUlCQmliMmo2SkJwMjhjY3Vtc09kVjhaOU1Sd2VHMExweVJHMFItUlJJRzVXdVdBVUZ3cUtUd1pBeXJDbmkxY0ZXcDlrejRSWVh4V3hLZGZEOEF4YkhTek5jOWNJalVtMFY1ZUpDNUM0Skg1dlF3UEV0eV9LZHhlcU9uR3pYenUzVHpXdUdCNHZpUU54Nzh3WUp3TGQxQUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-25-006",
+    "date": "2026-09-25",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL A400U adds Mini LED and 144Hz gaming to its art TV lineup - wftv.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ0dGR1pKdWxPWE04MUZyTmxEV2FWZEJBYVVUZlhIbFd2NTlVYUh3MzdueHIwZW1rcXdxbVJPYVo1azF3MlJXdThHUGh3anVzLXBvdmdPNnhSQjduTVpGcEhyaTh3MVNabzYxWEZfem",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ0dGR1pKdWxPWE04MUZyTmxEV2FWZEJBYVVUZlhIbFd2NTlVYUh3MzdueHIwZW1rcXdxbVJPYVo1azF3MlJXdThHUGh3anVzLXBvdmdPNnhSQjduTVpGcEhyaTh3MVNabzYxWEZfem9lbFhMYjFqRlBGb28zLURmcnBqcUJ2RjFNUElXXzF0UUdDVy0yS2lCTUNCVkVFR2FwODNfd0ZYOVY2bl95S2xNMjBYTkzSAcgBQVVfeXFMUHltbVdyYzI2MUtzRW02RGtxVWtva192bTd3ekRnM3V1Z3VGVEhEWGxOU1dQVl8xeFBQV3NWSEJqckdJMTkxUUlQRm9fUVk4dGRNMWZEal9idXhVUnI4WUtzOFBCWG9MaVJlU0xxMko3eHFwZ0NMR01MRVZ3a1BDNE80M2pYbjJUSkEwQTVMZmNkcUQzcnlmbUpnV1M5S0JTNmM0bWVxZmpJZTZpZjNUeWRGVDFZOWJ2R0dyd0lHVlpZU3RrbHJRNmk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "applied_materials-2026-09-25-007",
+    "date": "2026-09-25",
+    "companies": [
+      "applied_materials"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Comparing A7 CFET and A10 Nanosheet FETs From Parasitics to Chip Reliability (TUM, UNIMORE, Applied Materials)",
+    "summary": "<p>Researchers at the TU Munich, University of Modena and Reggio Emilia, and Applied Materials published a technical paper titled “System-Technology Co-Evaluation of A7 CFET and A10 NSFET Technologies",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials/",
         "type": "rss"
       }
     ]
@@ -177,6 +310,24 @@
       {
         "name": "semi_engineering",
         "url": "https://semiengineering.com/autonomy-levels-for-design-agents-l1-to-l5-explained/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-09-24-009",
+    "date": "2026-09-24",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax, Power Integrations, MACOM, onsemi, and Microchip Technology Shares Are Falling, What You Need To Know - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1BLZmlnbDVJSlRxSzh2bFF1bThjUmJ2Q2VpeklDZWQ5azZRQWk0VHpSbXBGXzhVUXZOcmwxdUdyNTFDQ2R3UWJ2LTBBTUsyWW0wSE45akFLbzVtbmJKMjVzYldDSTBaa2dfTHpmYV",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1BLZmlnbDVJSlRxSzh2bFF1bThjUmJ2Q2VpeklDZWQ5azZRQWk0VHpSbXBGXzhVUXZOcmwxdUdyNTFDQ2R3UWJ2LTBBTUsyWW0wSE45akFLbzVtbmJKMjVzYldDSTBaa2dfTHpmYVlrdUVUQ0Fqak1iS0Uxel9xV2pKbWVoYXZRa1h3VFVybzVlT2tIVE5WeGNlNEJZc2d1dldjTA?oc=5",
         "type": "rss"
       }
     ]
@@ -600,6 +751,45 @@
     ]
   },
   {
+    "id": "lg_elec-2026-09-23-023",
+    "date": "2026-09-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display (NYSE: LPL) calls off auto display transfer. The unit’s heft on its balance sheet may surprise investors. - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNelAxTXR0eFdPYV9NaFJJVkpkNkJoTkhkT1V6RHNYWHdXb0FnRkhVdXY1Tk9wR0lCZTFnQ19kUzhlMi1kbFNldXRkWVA2NjNTeDdsem5XYWNzYjJBakZHSUx4WFB1cENIX3dJLUM1ek",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNelAxTXR0eFdPYV9NaFJJVkpkNkJoTkhkT1V6RHNYWHdXb0FnRkhVdXY1Tk9wR0lCZTFnQ19kUzhlMi1kbFNldXRkWVA2NjNTeDdsem5XYWNzYjJBakZHSUx4WFB1cENIX3dJLUM1ekNFaVR4dndtVk5pYWNyNWtqZTBtdTFib0p4cFpZN0I0ekIya25LNnI0R1hFal96aF9kUlhNbVBpOXE4a2VBQkIyaW1FeWphamNoVXJrWVlyYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-23-024",
+    "date": "2026-09-23",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung’s 65-inch Mini LED 4K smart TV is on sale for $50 off - al.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPYTJGOUswZEUzQzd1S3dxTUZjZDdnMEo5Z3VOUmJsQjBGUmVWMXBsZkw4NXd1emxUWWZIcWhEZ29mUnBKMHF2d2xPeDZBWFhaUkRPNFdpMkpJaUVqcDh5RUlrMVFma25CTHFtNlhnRH",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYTJGOUswZEUzQzd1S3dxTUZjZDdnMEo5Z3VOUmJsQjBGUmVWMXBsZkw4NXd1emxUWWZIcWhEZ29mUnBKMHF2d2xPeDZBWFhaUkRPNFdpMkpJaUVqcDh5RUlrMVFma25CTHFtNlhnRHItaXpsRUFzSUtpNUtFVWdscUJIZTFoQ3h4dzIwUElkMXRSQUphUTdORzVhaFRORkhGbXhVN09GNXBmSUpFbDBFZDJScmdOUdIBtgFBVV95cUxPYTJGOUswZEUzQzd1S3dxTUZjZDdnMEo5Z3VOUmJsQjBGUmVWMXBsZkw4NXd1emxUWWZIcWhEZ29mUnBKMHF2d2xPeDZBWFhaUkRPNFdpMkpJaUVqcDh5RUlrMVFma25CTHFtNlhnRHItaXpsRUFzSUtpNUtFVWdscUJIZTFoQ3h4dzIwUElkMXRSQUphUTdORzVhaFRORkhGbXhVN09GNXBmSUpFbDBFZDJScmdOUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-09-22-001",
     "date": "2026-09-22",
     "companies": [
@@ -875,6 +1065,24 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnczc1d0OTdlbjlnUUpObFZhdGcxNjVCRE9wVmRnQkNqXzM5bVpSX3lZMGNTQkVlSTl3Z2pwbDBZZWRnaU1ZaldFbDQ4SGJBZFpVOWNvQmVTbGt3Y01Zc3k5SE9ibWNtVk9CMUdQS2xxNkw2dEtGdHhfVWwxSFNxTGExcnlkTS1XT28wMEJFdXV1anowMGxQNlZYd1BBU0piaHY1MHFic1Q2d9IBrwFBVV95cUxNbUVoVmhvakRXdTJOTVhXU1hwLWdOYm5ySjhRZjVXRG5oN1A1Q1dPY3k5b1pwcWtuVUNiOWM1WW80M3pTc0NVSkVoREo2M3IwcTh0VXp6aFpIZXQwRDR0REIyVW9Ec3B6eHJ5elJub2Frb3ppamZEYm5QeVdDaUF2T2c1MF9jcHJPeDRHd3k3NmpGVk9yamhlYkhuNmVBOTJpSUc2ZVY0YlhqS2lnOFJN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-016",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Haier M70 Mini LED TV 65-inch review: Bright display, powerful sound and value for money - India Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOVNRcW1UU0V5eVpkcWE2a01TZFJ6MER5c0Z2NnYxQmJLcGZVYndMbjd2cmxXZ0hqVUFFbUdHN09td2V1S2lianhVeUpDYzRhcXRIUldzbUR0cW5OamFJS09lX0ZxZ0E0clhZemtNaE",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOVNRcW1UU0V5eVpkcWE2a01TZFJ6MER5c0Z2NnYxQmJLcGZVYndMbjd2cmxXZ0hqVUFFbUdHN09td2V1S2lianhVeUpDYzRhcXRIUldzbUR0cW5OamFJS09lX0ZxZ0E0clhZemtNaElTRmtadFlIeFdHcFQ4U1UzMnFLVlppbG5FbGM3RW9zSF9pSHpLNXN0NHdseGVCNnB1YkRsY2w0RGNMYjBQMmFQb2NmZmg1dU9nbWM1MVRTdUhBbXVmN2g0WEFiY19pNUVSLTQ3UjZCTGxNTGpHYm1PenpGNDVFOUh3aGZCNdIB8gFBVV95cUxQZjIyeVQtTjNaNlB2UjA2aTJaX2ZveXJGYjJuWkRKWHZ0Vi15NnZJcDAwdVlnd2RHYnlFS0hSU2p5cGtjN3Z4X3Rzb0phXzg2SFZoOFJvSmhXWVFMSkhsNUNuVjFrc1kwM3BDWVM1UlBvMmpCd1pWUjVsZWdndnRUWUhCQUx2Zjd5Z0FiZEhOTUlzZUlEcE1UbjlEb2RqMzctdDJnbXZGM2pGN240RVBPRVhKakRPVGIyVV9NZlYyeEFHNHVHTnoxSmVfX2FsMXZ0ZWt0SkZaYjhzbU1zclg0SllqV1dfaWo1RkRMRWl6ck9WUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1651,6 +1859,47 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT2pXNVYzVVktQUl2YnFPdWtrRkRKUkI2Q1BVZk9xZUM0ZkxTT3NXVWxlTHBRN0R1dkwwYU1mcGFrZ2Z5bnZnNkR3YURjMjRrWG5NSUU5TnA5WG54cTBiT011Sm9sTmN1ZnR2cjR0emNMVk51OGl3b3pERW5xOEZsNURySTY2WjFJeVpadTg4bThTSnVVOXppbE5Sa1p2WDgwYm9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-21-039",
+    "date": "2026-09-21",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "LG Display starts mass production of 24.5-inch 720Hz OLED panel for ASUS ROG - videocardz.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPOUlKaU1MQ05yTUZXVzhOMUYzQ3VuMS1NRVAxWURCS19hVHhIYXd0T1BjU05La1ptWHg2SEkzZThQM3RJX3hoU1dOell1cEZGWXBTRmRoOFNMVHVIVTdDZ2VmOXV6Q19uZkxGMUJkNE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOUlKaU1MQ05yTUZXVzhOMUYzQ3VuMS1NRVAxWURCS19hVHhIYXd0T1BjU05La1ptWHg2SEkzZThQM3RJX3hoU1dOell1cEZGWXBTRmRoOFNMVHVIVTdDZ2VmOXV6Q19uZkxGMUJkNEp3M3FHMmpZX3Z0dExnRG1qNnBaTm9wTGVwQjd3NFdhX1Y5ekxsUFZndXdwbHNIc2h6UHRubi1wTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-21-040",
+    "date": "2026-09-21",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Unveils First 720Hz OLED Panel And ASUS ROG Is First In Line - hothardware.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2lRNGoyV1lybkxFSEFBMnhvTElQanZFLTIyRW9xekRHTVRYcG9fYzhUMV9BUDBfRDk3MUpEc0hDR2p1ekVRTXdWbVlYNDRyRkdFRWI5c2xUakJ4eTBDRHBtb0xId3JNdkVmcG14Ul",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2lRNGoyV1lybkxFSEFBMnhvTElQanZFLTIyRW9xekRHTVRYcG9fYzhUMV9BUDBfRDk3MUpEc0hDR2p1ekVRTXdWbVlYNDRyRkdFRWI5c2xUakJ4eTBDRHBtb0xId3JNdkVmcG14Ul9PdDJkU0dKaDZBVHByaGhUNTNGVkRvOU1faFk5enpB?oc=5",
         "type": "rss"
       }
     ]
