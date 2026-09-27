@@ -1,5 +1,65 @@
 [
   {
+    "id": "lg_elec-2026-09-27-001",
+    "date": "2026-09-27",
+    "companies": [
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "S.Korean Apple suppliers, including Samsung, LG, face profit squeeze despite iPhone Duo debut - KED Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQVNzemtmNHM1OW1jUy1SLXN6OGhpaUNFRFlqeXVDeEFld0M0cVJxcHJpSzVHVUx5LTA2WkpMeHJoNmMwVVdwZ0lTbE95cFM3R2phNnl1SDR3SGx3b0ZBdkhBTnBkLTN1UW1ialE3Yw",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQVNzemtmNHM1OW1jUy1SLXN6OGhpaUNFRFlqeXVDeEFld0M0cVJxcHJpSzVHVUx5LTA2WkpMeHJoNmMwVVdwZ0lTbE95cFM3R2phNnl1SDR3SGx3b0ZBdkhBTnBkLTN1UW1ialE3Yw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-09-27-002",
+    "date": "2026-09-27",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "LG Display Enters Growth Trajectory on Advanced OLED Technology as Jeong Cheol-dong Bets Big - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE95UC0wcmtsY3lkSFl3NjgtQzFSYzMteVoxc3hZbG5qbFEwLVR4OUViYXdtRmdSNlFZRndtWGZzUVB2bFQ0YnhfTGhkbDZiMEptc1VWN2xTQmRwamdfOS1FNk8zQXE3LVg4cWVHTWhTa0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95UC0wcmtsY3lkSFl3NjgtQzFSYzMteVoxc3hZbG5qbFEwLVR4OUViYXdtRmdSNlFZRndtWGZzUVB2bFQ0YnhfTGhkbDZiMEptc1VWN2xTQmRwamdfOS1FNk8zQXE3LVg4cWVHTWhTa0xUS3FjcWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-27-003",
+    "date": "2026-09-27",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "The OLED Marketplace now lists a unique 4.01\" flexible touch strip AMOLED display",
+    "summary": "<p>We are happy to update that the <a href=\"https://marketplace.oled-info.com/\">OLED Marketplace</a> now lists a unique new display - a <a href=\"https://marketplace.oled-info.com/view/289/VSX401-19296",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/oled-marketplace-now-lists-unique-401-flexible-amoled-strip-display-touch",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung_elec-2026-09-26-001",
     "date": "2026-09-26",
     "companies": [
@@ -34,6 +94,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFc5ZGZ6Vi1abndMVGxWQ1JuQnQyX3NaVmV1TTZOR0o5NnROWEdFdE96eG9sQllOeTV5Qkh3VWh1ekRaVUVMaGNucklhOHFiOVlNb0lVdE1VaWtHNFVyaWpod1JpTWJtSGhjelpmWlZHcXlhNHBmdVFfbUFVekphT3E2eU1JMjR4elhMZ3VNVGJleDVDNGgxZUNJeDgzdmFIN0puTFZEM19TUzBSTGtBR3IyVThDdWY5RkRtUnY1cExldDRZNG9fTVliTF9tQWFnOFk1ek1UeDh1Z2FqMHBJ0gHkAUFVX3lxTE5CbTV3ZWFOTGdCX2h5NVFPUmE0V3IxYUt5Mndnd1A4ZXpyOEx3MHNMMjBZQkZnTkhZZUFtSFpIY3l2ZDdQVnNfYUMzMXV2SUREZFl2TnY1WFlrMEtxd0FRRTBDYUNvQ0p5eWlpaDdWNHlMWV80TkN5U2NRMHR1Vk90LV9SUW9MZ3NaUWtYTEFlTHZnNHVxMTdMYnQtSzlTcURiUVk3VmM0c2dNeE5pMEN6Qzl0UnFTbWNpclN0VVhzbVU4bWJ4eFkyVFN3bk1ZbU1JQWI2WFRuamM5b0otbzNnZmptSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-26-003",
+    "date": "2026-09-26",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning stock at USD 156.70 on September 25, 2026 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZC1fbTdLdmpNY2xUWFdwTW5HaWtrSVd1RVQweHBRd25IN2psY2R4SXNwZENBajViRGJRLTFuZ2o5VzE5Y3ZOVGtJbXFMTjZzTGpvUUR3VGpmMnlaM3hHYUk3WkRVc2ZHaEpjLVE2aW",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZC1fbTdLdmpNY2xUWFdwTW5HaWtrSVd1RVQweHBRd25IN2psY2R4SXNwZENBajViRGJRLTFuZ2o5VzE5Y3ZOVGtJbXFMTjZzTGpvUUR3VGpmMnlaM3hHYUk3WkRVc2ZHaEpjLVE2aWN6YzRFWjhLaXpvdmhtelZMeDZtMlBROUhIdi15eUlyYVpIZFBNaWkzMHgyOFRFRmYzUFR4aHMxR1M0UQ?oc=5",
         "type": "rss"
       }
     ]
@@ -166,6 +244,26 @@
       {
         "name": "semi_engineering",
         "url": "https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-09-25-008",
+    "date": "2026-09-25",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL A400U adds Mini LED and 144Hz gaming to its art TV lineup - WFTV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ0dGR1pKdWxPWE04MUZyTmxEV2FWZEJBYVVUZlhIbFd2NTlVYUh3MzdueHIwZW1rcXdxbVJPYVo1azF3MlJXdThHUGh3anVzLXBvdmdPNnhSQjduTVpGcEhyaTh3MVNabzYxWEZfem",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ0dGR1pKdWxPWE04MUZyTmxEV2FWZEJBYVVUZlhIbFd2NTlVYUh3MzdueHIwZW1rcXdxbVJPYVo1azF3MlJXdThHUGh3anVzLXBvdmdPNnhSQjduTVpGcEhyaTh3MVNabzYxWEZfem9lbFhMYjFqRlBGb28zLURmcnBqcUJ2RjFNUElXXzF0UUdDVy0yS2lCTUNCVkVFR2FwODNfd0ZYOVY2bl95S2xNMjBYTkzSAcgBQVVfeXFMUHltbVdyYzI2MUtzRW02RGtxVWtva192bTd3ekRnM3V1Z3VGVEhEWGxOU1dQVl8xeFBQV3NWSEJqckdJMTkxUUlQRm9fUVk4dGRNMWZEal9idXhVUnI4WUtzOFBCWG9MaVJlU0xxMko3eHFwZ0NMR01MRVZ3a1BDNE80M2pYbjJUSkEwQTVMZmNkcUQzcnlmbUpnV1M5S0JTNmM0bWVxZmpJZTZpZjNUeWRGVDFZOWJ2R0dyd0lHVlpZU3RrbHJRNmk?oc=5",
         "type": "rss"
       }
     ]
@@ -328,6 +426,24 @@
       {
         "name": "himax",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1BLZmlnbDVJSlRxSzh2bFF1bThjUmJ2Q2VpeklDZWQ5azZRQWk0VHpSbXBGXzhVUXZOcmwxdUdyNTFDQ2R3UWJ2LTBBTUsyWW0wSE45akFLbzVtbmJKMjVzYldDSTBaa2dfTHpmYVlrdUVUQ0Fqak1iS0Uxel9xV2pKbWVoYXZRa1h3VFVybzVlT2tIVE5WeGNlNEJZc2d1dldjTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-24-010",
+    "date": "2026-09-24",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Corning Expands Polarcor Glass Polarizer Production Capacity and Signs Long-term Supply Agreement - Bitget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wUUh6SWhlazJKLWl4UmxRWVo5Q0g1SHRJaW44NmJlSFFhYmJWZk0wWkNKRkFkT3BnbGw3T0tZR3J5V19XcHg4bGl3VW9pTy1yeTF3TC1FWVA4cmYweHlxTWVQWdIBY0FVX3lxTE9wUU",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wUUh6SWhlazJKLWl4UmxRWVo5Q0g1SHRJaW44NmJlSFFhYmJWZk0wWkNKRkFkT3BnbGw3T0tZR3J5V19XcHg4bGl3VW9pTy1yeTF3TC1FWVA4cmYweHlxTWVQWdIBY0FVX3lxTE9wUUh6SWhlazJKLWl4UmxRWVo5Q0g1SHRJaW44NmJlSFFhYmJWZk0wWkNKRkFkT3BnbGw3T0tZR3J5V19XcHg4bGl3VW9pTy1yeTF3TC1FWVA4cmYweHlxTWVQWQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1083,6 +1199,42 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOVNRcW1UU0V5eVpkcWE2a01TZFJ6MER5c0Z2NnYxQmJLcGZVYndMbjd2cmxXZ0hqVUFFbUdHN09td2V1S2lianhVeUpDYzRhcXRIUldzbUR0cW5OamFJS09lX0ZxZ0E0clhZemtNaElTRmtadFlIeFdHcFQ4U1UzMnFLVlppbG5FbGM3RW9zSF9pSHpLNXN0NHdseGVCNnB1YkRsY2w0RGNMYjBQMmFQb2NmZmg1dU9nbWM1MVRTdUhBbXVmN2g0WEFiY19pNUVSLTQ3UjZCTGxNTGpHYm1PenpGNDVFOUh3aGZCNdIB8gFBVV95cUxQZjIyeVQtTjNaNlB2UjA2aTJaX2ZveXJGYjJuWkRKWHZ0Vi15NnZJcDAwdVlnd2RHYnlFS0hSU2p5cGtjN3Z4X3Rzb0phXzg2SFZoOFJvSmhXWVFMSkhsNUNuVjFrc1kwM3BDWVM1UlBvMmpCd1pWUjVsZWdndnRUWUhCQUx2Zjd5Z0FiZEhOTUlzZUlEcE1UbjlEb2RqMzctdDJnbXZGM2pGN240RVBPRVhKakRPVGIyVV9NZlYyeEFHNHVHTnoxSmVfX2FsMXZ0ZWt0SkZaYjhzbU1zclg0SllqV1dfaWo1RkRMRWl6ck9WUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-22-017",
+    "date": "2026-09-22",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Here's How Much You'd Have If You Invested $1000 in Corning a Decade Ago - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNWktJc05wWEJMaHF5YWthOVJzdVBsVUpBRi1hekNURkRTbkJINjVFSlFGMXY1VTcycU5kRXFoM2ZnZndvTU9RbGVWZ21qM0NvUi1JV2FHX3ZLZnlUM0p3S3BQWTN1bjFVeTBSODJVUj",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWktJc05wWEJMaHF5YWthOVJzdVBsVUpBRi1hekNURkRTbkJINjVFSlFGMXY1VTcycU5kRXFoM2ZnZndvTU9RbGVWZ21qM0NvUi1JV2FHX3ZLZnlUM0p3S3BQWTN1bjFVeTBSODJVUjY4RXVLSUZzckVTNXJmeGQxb1Y2V25nakI2aXhGY1JmeW5WaXFpYmE4a3pn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-09-22-018",
+    "date": "2026-09-22",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "BOE Unveils 15:1 Aspect Ratio Through-Glass Via Substrate, Prepares Carrier Mass Production Investment - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9yUWZwd2JRMVNjSE45S0JNeTJ1S3ZuM09GbnNEWXoweWNSUEdKaWFYUEJiT0gwSGVhbFBzRDN3VngydnRMal9BYUtOWFdCMlIwUkxwekhYNk8xQy1rblpud1NxaHJlazBYQ3NKRUZRLU",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yUWZwd2JRMVNjSE45S0JNeTJ1S3ZuM09GbnNEWXoweWNSUEdKaWFYUEJiT0gwSGVhbFBzRDN3VngydnRMal9BYUtOWFdCMlIwUkxwekhYNk8xQy1rblpud1NxaHJlazBYQ3NKRUZRLUdQX0F6d0E?oc=5",
         "type": "rss"
       }
     ]
