@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-28",
+  "total_events": 10,
+  "by_company": {
+    "corning": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "tcl": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "oled_penetration": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "mini_led": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "samsung_elec",
+      "to": "tcl",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "mini_led"
+      ]
+    }
+  ]
+}

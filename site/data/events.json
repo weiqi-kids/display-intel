@@ -1,5 +1,193 @@
 [
   {
+    "id": "corning-2026-09-28-001",
+    "date": "2026-09-28",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning stock falls 2.37 percent as fiber deal reshapes outlook - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQWkNPZmRvT21sdENrelVVaEp6ajREZ19HamM2WWI0UnVmTERLZkttOXRyWkI1TEF3Nm1hS2tzNlZYcVYxZDlkM01BTm13LXUzNy1GTWVTYTdWalZtd24tS3ViNk5ZSlZKeGlHZnRaM0",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWkNPZmRvT21sdENrelVVaEp6ajREZ19HamM2WWI0UnVmTERLZkttOXRyWkI1TEF3Nm1hS2tzNlZYcVYxZDlkM01BTm13LXUzNy1GTWVTYTdWalZtd24tS3ViNk5ZSlZKeGlHZnRaM0VGWHBreGdfY2hrVUpnVFQtTWg1X1N0cWFpb2tEM1hHV3dnQUVPNGRkcVNheDAxNUFpb1FfcmNvbmlwYmFBY0dRNTRiQ0x5OFBsVW90bHlwZjJrN2Rh?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-28-002",
+    "date": "2026-09-28",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLEDs Overtake LCDs as Mid-Range Smartphones Adopt - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVZpU0VQVWQyWVlWaDB6SXVwczgzR1E2WFE5SmJzQ0hzV0p3Ry1lRU9Ec3BrckxDal81aUo5RHlhRktYY0FLYkFLZlcySzNhb3RGdXktRC1GMjdYMEstbERKdlpJV1hJMGNRTmNTVU",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVZpU0VQVWQyWVlWaDB6SXVwczgzR1E2WFE5SmJzQ0hzV0p3Ry1lRU9Ec3BrckxDal81aUo5RHlhRktYY0FLYkFLZlcySzNhb3RGdXktRC1GMjdYMEstbERKdlpJV1hJMGNRTmNTVUxCYnM5VGs1S3BlaTJvXzg5QlFfQ3lqTURS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-28-003",
+    "date": "2026-09-28",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "OLED Surpasses LCD, Claims 60% Market Share - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYy1EQzRMYWU5bXlZWG01X3I1OVBUeDZoUXRuT3NMb0xCMm5aTFBmNDdzUDZfeGlPcS1QaXlBcmNVTUZDUlNlVFItQWJmNlZaaWNiUE80aEM1T2lfNmNKR01GTXF1VUktbC1nVFhWY3",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYy1EQzRMYWU5bXlZWG01X3I1OVBUeDZoUXRuT3NMb0xCMm5aTFBmNDdzUDZfeGlPcS1QaXlBcmNVTUZDUlNlVFItQWJmNlZaaWNiUE80aEM1T2lfNmNKR01GTXF1VUktbC1nVFhWY3NXNlR1c3phSEpfMVBYX1M5RGRFa0NtYWZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-28-004",
+    "date": "2026-09-28",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Art Store Debuts First-Ever Cinematic Collection for Samsung TVs",
+    "summary": "Samsung Art Store has announced its first-ever cinematic collection, featuring 38 stills from acclaimed films produced by studio A24. Available on supported Samsung Art TVs worldwide, the collection a",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-art-store-debuts-first-ever-cinematic-collection-for-samsung-tvs",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-28-005",
+    "date": "2026-09-28",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung, SK Telecom, and Hana Financial Group Build Korea’s First Private 5G Smart Office in the Financial Sector",
+    "summary": "Samsung Electronics today announced that the company serves as the sole vendor to deliver its private 5G network solutions, powering a smart office at Hana Financial Group’s new headquarters in Incheo",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-sk-telecom-and-hana-financial-group-buildkoreas-first-private-5g-smart-office-in-the-financial-sector",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-28-006",
+    "date": "2026-09-28",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "A Walk Down Memory Lane - Q4 2026: OLED History from 20, 10, and 5 Years Ago",
+    "summary": "<p>It's time for another stroll through our <a href=\"https://www.oled-info.com/walk-down-memory-lane-q3-2026-oled-history-20-10-and-5-years-ago\">OLED history article series</a>, in which we look back ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/walk-down-memory-lane-q4-2026-oled-history-20-10-and-5-years-ago",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-28-007",
+    "date": "2026-09-28",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "South Korea pays steep price for LCD retreat as China closes in on OLED - IT조선",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE95WS1wWnJVMDZuS0JkY2QxLVppc1o5WEtjNHNVNlFtQmNkU2Z3UG9jRDZaZG5yOUNoUFJwMVc4cTdlTE9xa1FtV1hpRGlQSmxzSlZpVVJYQ2Vkdm1EUzc2cHNoSzFnTTkwMmpwakN0Yz",
+    "sources": [
+      {
+        "name": "google_news_display",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95WS1wWnJVMDZuS0JkY2QxLVppc1o5WEtjNHNVNlFtQmNkU2Z3UG9jRDZaZG5yOUNoUFJwMVc4cTdlTE9xa1FtV1hpRGlQSmxzSlZpVVJYQ2Vkdm1EUzc2cHNoSzFnTTkwMmpwakN0YzdTYklo0gF0QVVfeXFMT3lZLXBaclUwNm5LQmRjZDEtWmlzWjlYS2M0c1U2UW1CY2RTZndQb2NENlpkbnI5Q2hQUnAxVzhxN2VMT3FrUW1XWGlEaVBKbHNKVmlVUlhDZWR2bURTNzZwc2hLMWdNOTAyanBqQ3RjN1NiSWg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-28-008",
+    "date": "2026-09-28",
+    "companies": [
+      "samsung_elec",
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL sues Samsung in US over ‘Mini LED’ TVs, alleges false advertising - The Statesman",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTU5RdmdEMTcxd2lVZlRGX3kzSVROSTNlLXB3WWVuZjFsN0hkMWRuSk4wbUY1NkV6cUk2LTNzTHNuWG9KVkdSWjl0ZFlMVkJXTG12Q1dkZElYU3VLdjdiMnpSTzE1aHh3V19UVTJQbU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTU5RdmdEMTcxd2lVZlRGX3kzSVROSTNlLXB3WWVuZjFsN0hkMWRuSk4wbUY1NkV6cUk2LTNzTHNuWG9KVkdSWjl0ZFlMVkJXTG12Q1dkZElYU3VLdjdiMnpSTzE1aHh3V19UVTJQbURfaTR3MDN6UDd5VDZLQWxGMjFpYkhUajljQ3diZFM2R1RhUFNZSU9SaV9US2ZCVzFjdVFTTmF0QXlDWDF5Q1ZMZ05vV3NodmNy0gG-AUFVX3lxTFBwdi1pME1fQzZ1QTJyeld2NjgyZ3VEZDNnV21TeGZ0QUZtNkQ4MU1DSUNGV0lVMEVhWU9yY05VN21nQ21XREZGS25RTm15THlLaUpqNjdzQzZHalFZSkZMcERScGZzTjIxdFNQaWtXNHhpaXZYWkwzQmFtM01zWm9iRzBjMkhvTWplMTNETnhoa1JVd2RWdmJYd1BwUmRFWVVaQXBWTUxkOEJKcmRad3N6ZUZpRUZkeVRVZUh2OUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-28-009",
+    "date": "2026-09-28",
+    "companies": [
+      "samsung_elec",
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL sues Samsung over false 'Mini LED' TV advertising in US, Samsung to defend its case 'vigorously' - Deccan Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbVY2WjNMamszNnc4LW1lRGp0MmRWZnA3T2FpendrRWNvR2J4QUdmLWl6eGN5YXBodlN0OFVTQUExT1JVa3JSTlpoS0tEbXpzM1RzU0ZGMTROdXpIQlVkQkNZbktmN0p2V3AtVDlCMj",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbVY2WjNMamszNnc4LW1lRGp0MmRWZnA3T2FpendrRWNvR2J4QUdmLWl6eGN5YXBodlN0OFVTQUExT1JVa3JSTlpoS0tEbXpzM1RzU0ZGMTROdXpIQlVkQkNZbktmN0p2V3AtVDlCMjVKRG9xakhsTXdrYVVmTHpnM2JkMW03amdpWnVUR3E3LUVVRVpzTzdxam0ySnpLNHkyTnNmSVFmM0pTcVluejBuUkxVWXcyejdEcjBDU2ZuSzBXbDQtNldQMTNNRkRxRXg3clNrMDNKTmNWemtmeVEzY2JmSE9OZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-28-010",
+    "date": "2026-09-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Elista Unveils New Mini-LED PRO QLED 4K Google TVs In 55” And 65” Screen Sizes - outlookbusiness.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQcHVRZWlDbWhBblFZYW5hU3QzYkJpaGktRW1XUlBoNjREMG5ReUZmQllYWVVHUWxEZzhraHUzRGlrU2ZSeGVrcHh0MWJjdTAwajd4T041Z3dVQjA3QXo5dU9uenliMW1VZUE0TnhUaX",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcHVRZWlDbWhBblFZYW5hU3QzYkJpaGktRW1XUlBoNjREMG5ReUZmQllYWVVHUWxEZzhraHUzRGlrU2ZSeGVrcHh0MWJjdTAwajd4T041Z3dVQjA3QXo5dU9uenliMW1VZUE0TnhUaXhSUGNYaHJJcEotZzVqdHZnb3A5dWxxajIxWlIxVkZHRFFPN255MTJJaE91RXlSVFFCUEctekp1VXpNOGRUQkZReFQ2MlBlT0VnTHFfUE9VTzhxUUkzUGNF0gHUAUFVX3lxTFBZYnFwQTR4ZHlOUzVmMTRET09UVWdvUVFVSUMwcm9GTlZMSVg4aHlpM1VyUTRQYk51NXlCLWhwd29jbEhHVG9WQXhoU1A4dlh1THdfQmdKazZ1Ti1LV0xiRVFkNVRJT24xUk84ZWY1UkJ6R3RBLWY0RkNGcHphN3luNGFWT3R2eFJUdkM0MWNKR3kzN3VkRDVyakUzNzM5VkU3OVBVOWo1aWdYRmRfcVN6U1VHeTlXMW0ta3NLU1R6d1QxM1hUNGlaVTlVbDZtVzN2dGxW?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-09-27-001",
     "date": "2026-09-27",
     "companies": [

@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:27:26.228550Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-09-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Corning stock falls 2.37 percent as fiber deal reshapes outlook - AD HOC NEWS",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWkNPZmRvT21sdENrelVVaEp6ajREZ19HamM2WWI0UnVmTERLZkttOXRyWkI1TEF3Nm1hS2tzNlZYcVYxZDlkM01BTm13LXUzNy1GTWVTYTdWalZtd24tS3ViNk5ZSlZKeGlHZnRaM0VGWHBreGdfY2hrVUpnVFQtTWg1X1N0cWFpb2tEM1hHV3dnQUVPNGRkcVNheDAxNUFpb1FfcmNvbmlwYmFBY0dRNTRiQ0x5OFBsVW90bHlwZjJrN2Rh?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-28-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Elista Unveils New Mini-LED PRO QLED 4K Google TVs In 55” And 65” Screen Sizes - outlookbusiness.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcHVRZWlDbWhBblFZYW5hU3QzYkJpaGktRW1XUlBoNjREMG5ReUZmQllYWVVHUWxEZzhraHUzRGlrU2ZSeGVrcHh0MWJjdTAwajd4T041Z3dVQjA3QXo5dU9uenliMW1VZUE0TnhUaXhSUGNYaHJJcEotZzVqdHZnb3A5dWxxajIxWlIxVkZHRFFPN255MTJJaE91RXlSVFFCUEctekp1VXpNOGRUQkZReFQ2MlBlT0VnTHFfUE9VTzhxUUkzUGNF0gHUAUFVX3lxTFBZYnFwQTR4ZHlOUzVmMTRET09UVWdvUVFVSUMwcm9GTlZMSVg4aHlpM1VyUTRQYk51NXlCLWhwd29jbEhHVG9WQXhoU1A4dlh1THdfQmdKazZ1Ti1LV0xiRVFkNVRJT24xUk84ZWY1UkJ6R3RBLWY0RkNGcHphN3luNGFWT3R2eFJUdkM0MWNKR3kzN3VkRDVyakUzNzM5VkU3OVBVOWo1aWdYRmRfcVN6U1VHeTlXMW0ta3NLU1R6d1QxM1hUNGlaVTlVbDZtVzN2dGxW?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_elec-2026-09-28-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "TCL sues Samsung in US over ‘Mini LED’ TVs, alleges false advertising - The Statesman",
+      "companies": [
+        "samsung_elec",
+        "tcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTU5RdmdEMTcxd2lVZlRGX3kzSVROSTNlLXB3WWVuZjFsN0hkMWRuSk4wbUY1NkV6cUk2LTNzTHNuWG9KVkdSWjl0ZFlMVkJXTG12Q1dkZElYU3VLdjdiMnpSTzE1aHh3V19UVTJQbURfaTR3MDN6UDd5VDZLQWxGMjFpYkhUajljQ3diZFM2R1RhUFNZSU9SaV9US2ZCVzFjdVFTTmF0QXlDWDF5Q1ZMZ05vV3NodmNy0gG-AUFVX3lxTFBwdi1pME1fQzZ1QTJyeld2NjgyZ3VEZDNnV21TeGZ0QUZtNkQ4MU1DSUNGV0lVMEVhWU9yY05VN21nQ21XREZGS25RTm15THlLaUpqNjdzQzZHalFZSkZMcERScGZzTjIxdFNQaWtXNHhpaXZYWkwzQmFtM01zWm9iRzBjMkhvTWplMTNETnhoa1JVd2RWdmJYd1BwUmRFWVVaQXBWTUxkOEJKcmRad3N6ZUZpRUZkeVRVZUh2OUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_elec-2026-09-28-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "TCL sues Samsung over false 'Mini LED' TV advertising in US, Samsung to defend its case 'vigorously' - Deccan Herald",
+      "companies": [
+        "samsung_elec",
+        "tcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbVY2WjNMamszNnc4LW1lRGp0MmRWZnA3T2FpendrRWNvR2J4QUdmLWl6eGN5YXBodlN0OFVTQUExT1JVa3JSTlpoS0tEbXpzM1RzU0ZGMTROdXpIQlVkQkNZbktmN0p2V3AtVDlCMjVKRG9xakhsTXdrYVVmTHpnM2JkMW03amdpWnVUR3E3LUVVRVpzTzdxam0ySnpLNHkyTnNmSVFmM0pTcVluejBuUkxVWXcyejdEcjBDU2ZuSzBXbDQtNldQMTNNRkRxRXg3clNrMDNKTmNWemtmeVEzY2JmSE9OZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-28-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "OLED Surpasses LCD, Claims 60% Market Share - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYy1EQzRMYWU5bXlZWG01X3I1OVBUeDZoUXRuT3NMb0xCMm5aTFBmNDdzUDZfeGlPcS1QaXlBcmNVTUZDUlNlVFItQWJmNlZaaWNiUE80aEM1T2lfNmNKR01GTXF1VUktbC1nVFhWY3NXNlR1c3phSEpfMVBYX1M5RGRFa0NtYWZR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "samsung_elec",
+      "to": "tcl",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "mini_led"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 4
+      },
+      {
+        "id": "tcl",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 136,
+    "too_old": 169,
+    "gate1_blocked": 18,
+    "gate2_blocked": 16,
+    "passed": 10,
+    "pass_rate": "4.7%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Corning Inc Stock (GLW) Moved Down by 3.28% on Sep 28: Drivers Behind the Movement - TradingKey",
+      "Corning Incorporated (GLW) Is Benefitting from Accelerating Data Centre Buildout - Yahoo Finance",
+      "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Corning Incorporate",
+      "Corning faces securities fraud investigation af... - Pluang",
+      "Bronstein, Gewirtz & Grossman, LLC Encourages Corning Incorporated (GLW) Stockholders to Inquire abo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為三星電子、TCL Technology、康寧相關動態：「Corning stock falls 2.37 percent as fiber deal reshapes o...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Corning stock falls 2.37 percent as fiber deal reshapes outlook - AD HOC NEWS（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Elista Unveils New Mini-LED PRO QLED 4K Google TVs In 55” And 65” Screen Size...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
