@@ -1,5 +1,150 @@
 [
   {
+    "id": "corning-2026-09-29-001",
+    "date": "2026-09-29",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning stock gains 1.49 percent in Lang & Schwarz trading - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFJRRmtGRUtJVm5tQm9HWjJra0VGb210c0daN3N3X0hWMWZfdW1lR01CdndBaDN0TEtmbUZEUllDNFVJWHc1ZlFMQzN5Yllha1BPZ0x1Z0FKX2JIUlZiNzdXMElGRVpVbENidjh3Qk",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFJRRmtGRUtJVm5tQm9HWjJra0VGb210c0daN3N3X0hWMWZfdW1lR01CdndBaDN0TEtmbUZEUllDNFVJWHc1ZlFMQzN5Yllha1BPZ0x1Z0FKX2JIUlZiNzdXMElGRVpVbENidjh3QkxrcXItWWdITkRHMEhMdURUb3gyYlg3MVZCcEYxR3ZkbzhWS2huSk9OU2k0NkhSSDd5bmNnU1RyWXVBaTcxTG56ZkxLRkdJeVM5N19ZcjVQSmY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-29-002",
+    "date": "2026-09-29",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Next-Generation Porsche Sports Car to Feature Key LG Components - thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmb3Z5XzRYQWZCWlZOUkZUdzRNYU5pVmljQUJoelRZUk8tM2xNN0Y1MmY4NVBxalBlUU5uX1FxbFNyX2dvZjVOeUU3b2thaFR5LS10XzhXckxBWEpneEhZLV9talMxcG8?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmb3Z5XzRYQWZCWlZOUkZUdzRNYU5pVmljQUJoelRZUk8tM2xNN0Y1MmY4NVBxalBlUU5uX1FxbFNyX2dvZjVOeUU3b2thaFR5LS10XzhXckxBWEpneEhZLV9talMxcG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-29-003",
+    "date": "2026-09-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung To Invest USD 1 Billion in AI Infrastructure Company Helix",
+    "summary": "Samsung Electronics, Samsung C&T, Samsung SDS, Samsung SDI, Samsung Life Insurance and Samsung Fire & Marine Insurance today announced they are investing a combined USD 1 billion in Helix Digital Infr",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-004",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Honor launches its Watch 6 Pro smartwatch, the world's first product to sport an OLED display produced using a lithography process",
+    "summary": "<p>Honor just announced its latest smartwatch, the <a href=\"https://www.oled-info.com/honor-watch-6-pro\">Watch 6 Pro</a> which sports a 1.5\" 466 x 466 5,500 nits (peak brightness) tandem AMOLED. The h",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/new-honor-watch-6-pro-smartwatch-sports-tandem-vip-amoled-visionox",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-29-005",
+    "date": "2026-09-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung reshuffles DRAM roadmap, prioritizing B1b hybrid bonding for D0a, HBM5",
+    "summary": "Samsung Electronics is reshaping its next-generation dynamic random-access memory (DRAM) roadmap, elevating its B1b wafer-to-wafer (W2W) hybrid bonding technology from a project-specific development t",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260929PD238/samsung-dram-roadmap-technology-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-09-29-006",
+    "date": "2026-09-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung Electro-Mechanics to invest US$5 billion in ABF substrate expansion",
+    "summary": "Samsung Electro-Mechanics said it will invest KRW6.78 trillion (about US$5 billion) in South Korea and Vietnam to expand ABF substrate production for AI servers and high-performance computing (HPC) ma",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20260929PD231/semco-abf-substrate-nvidia-capacity-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-007",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "[Insight] TrendForce Releases 2026 Global Mini LED Backlight Market Trends and TV Brand Shipment Analysis Report - LEDinside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAtMU9BQ0d2SG5EX1lWUnYzRjkxdEQ1TEVGclB6OGNQOGRITVRqSm82NkNMX1F2OXlkbDZyZVRYc3Jic2ppX1U3aTFaR1JFUXU3WDU5OUo4ZGdoODBLZ1FXdy1oZVBlY200S3F5NmVmSU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtMU9BQ0d2SG5EX1lWUnYzRjkxdEQ1TEVGclB6OGNQOGRITVRqSm82NkNMX1F2OXlkbDZyZVRYc3Jic2ppX1U3aTFaR1JFUXU3WDU5OUo4ZGdoODBLZ1FXdy1oZVBlY200S3F5NmVmSUZOdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-008",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "[Insight] Newly Released，2027 Global LED Video Wall Market Outlook and Price Cost Analysis - LEDinside",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBiOENmVkhiNHpkVGhZNHptTU9oVjFuU3ItMzJ2YnVRc2x1SzhlTmJEaDRqNWN5N3hBWTFqTnRCRUVCaHJzSG1OYk9WU1NXMDdDbnV0OVh4SGtnRjNQM0JWS1pDc2lzejdQWV9aSTdNTm",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiOENmVkhiNHpkVGhZNHptTU9oVjFuU3ItMzJ2YnVRc2x1SzhlTmJEaDRqNWN5N3hBWTFqTnRCRUVCaHJzSG1OYk9WU1NXMDdDbnV0OVh4SGtnRjNQM0JWS1pDc2lzejdQWV9aSTdNTmhRNi00djYweQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-09-28-001",
     "date": "2026-09-28",
     "companies": [
@@ -183,6 +328,43 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcHVRZWlDbWhBblFZYW5hU3QzYkJpaGktRW1XUlBoNjREMG5ReUZmQllYWVVHUWxEZzhraHUzRGlrU2ZSeGVrcHh0MWJjdTAwajd4T041Z3dVQjA3QXo5dU9uenliMW1VZUE0TnhUaXhSUGNYaHJJcEotZzVqdHZnb3A5dWxxajIxWlIxVkZHRFFPN255MTJJaE91RXlSVFFCUEctekp1VXpNOGRUQkZReFQ2MlBlT0VnTHFfUE9VTzhxUUkzUGNF0gHUAUFVX3lxTFBZYnFwQTR4ZHlOUzVmMTRET09UVWdvUVFVSUMwcm9GTlZMSVg4aHlpM1VyUTRQYk51NXlCLWhwd29jbEhHVG9WQXhoU1A4dlh1THdfQmdKazZ1Ti1LV0xiRVFkNVRJT24xUk84ZWY1UkJ6R3RBLWY0RkNGcHphN3luNGFWT3R2eFJUdkM0MWNKR3kzN3VkRDVyakUzNzM5VkU3OVBVOWo1aWdYRmRfcVN6U1VHeTlXMW0ta3NLU1R6d1QxM1hUNGlaVTlVbDZtVzN2dGxW?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-28-011",
+    "date": "2026-09-28",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED Tops LCD in Smartphone Displays - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVZpU0VQVWQyWVlWaDB6SXVwczgzR1E2WFE5SmJzQ0hzV0p3Ry1lRU9Ec3BrckxDal81aUo5RHlhRktYY0FLYkFLZlcySzNhb3RGdXktRC1GMjdYMEstbERKdlpJV1hJMGNRTmNTVU",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVZpU0VQVWQyWVlWaDB6SXVwczgzR1E2WFE5SmJzQ0hzV0p3Ry1lRU9Ec3BrckxDal81aUo5RHlhRktYY0FLYkFLZlcySzNhb3RGdXktRC1GMjdYMEstbERKdlpJV1hJMGNRTmNTVUxCYnM5VGs1S3BlaTJvXzg5QlFfQ3lqTURS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-09-28-012",
+    "date": "2026-09-28",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Same Group, Opposite Fortunes: LG Electronics Up 116%, LG Display Down 30% - 한국금융신문",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9rMHZmVmZneTBROW91RDFXemVQZGlWUzBKVHE4SnVDZ1hXYmdab3B0YWVYV0dLUDNHS01ISDlmOE9jV0FkS1JGdnZ0cVd3TmJoWEdyekZUa1UzVDFEcUMwS2FsZHdjVlowMDRKVU5Yam",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rMHZmVmZneTBROW91RDFXemVQZGlWUzBKVHE4SnVDZ1hXYmdab3B0YWVYV0dLUDNHS01ISDlmOE9jV0FkS1JGdnZ0cVd3TmJoWEdyekZUa1UzVDFEcUMwS2FsZHdjVlowMDRKVU5YamItbHF1c3ZMN0p6cGg?oc=5",
         "type": "rss"
       }
     ]

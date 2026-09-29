@@ -1,0 +1,228 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:37:26.156973Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-29-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "[Insight] Newly Released，2027 Global LED Video Wall Market Outlook and Price Cost Analysis - LEDinside",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiOENmVkhiNHpkVGhZNHptTU9oVjFuU3ItMzJ2YnVRc2x1SzhlTmJEaDRqNWN5N3hBWTFqTnRCRUVCaHJzSG1OYk9WU1NXMDdDbnV0OVh4SGtnRjNQM0JWS1pDc2lzejdQWV9aSTdNTmhRNi00djYweQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-09-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corning stock gains 1.49 percent in Lang & Schwarz trading - AD HOC NEWS",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFJRRmtGRUtJVm5tQm9HWjJra0VGb210c0daN3N3X0hWMWZfdW1lR01CdndBaDN0TEtmbUZEUllDNFVJWHc1ZlFMQzN5Yllha1BPZ0x1Z0FKX2JIUlZiNzdXMElGRVpVbENidjh3QkxrcXItWWdITkRHMEhMdURUb3gyYlg3MVZCcEYxR3ZkbzhWS2huSk9OU2k0NkhSSDd5bmNnU1RyWXVBaTcxTG56ZkxLRkdJeVM5N19ZcjVQSmY?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-09-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Next-Generation Porsche Sports Car to Feature Key LG Components - thelec.net",
+      "companies": [
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmb3Z5XzRYQWZCWlZOUkZUdzRNYU5pVmljQUJoelRZUk8tM2xNN0Y1MmY4NVBxalBlUU5uX1FxbFNyX2dvZjVOeUU3b2thaFR5LS10XzhXckxBWEpneEhZLV9talMxcG8?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_elec-2026-09-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung To Invest USD 1 Billion in AI Infrastructure Company Helix",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/samsung-to-invest-usd-1-billion-in-ai-infrastructure-company-helix"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Honor launches its Watch 6 Pro smartwatch, the world's first product to sport an OLED display produced using a lithography process",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/new-honor-watch-6-pro-smartwatch-sports-tandem-vip-amoled-visionox"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 139,
+    "too_old": 163,
+    "gate1_blocked": 36,
+    "gate2_blocked": 21,
+    "passed": 10,
+    "pass_rate": "4.3%",
+    "gate2_block_rate": "9.1%",
+    "gate2_samples": [
+      "AT&T and Corning Team Up to Engineer the Connected World with Fiber - PR Newswire",
+      "Corning Inc Stock (GLW) Moved Up by 4.96% on Sep 29: What Investors Need To Know - TradingKey",
+      "Corning Incorporated (GLW) Is Benefitting from Accelerating Data Centre Buildout - Yahoo Finance",
+      "Corning Incorporated to celebrate 175th anniversary with community fireworks celebration - WENY News",
+      "Corning Slides as Investors Weigh Potential Dilution Against Ongoing AI Growth Plans - Quiver Quanti"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為三星電子、康寧、LG電子相關動態：「[Insight] Newly Released，2027 Global LED Video Wall Marke...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "[Insight] Newly Released，2027 Global LED Video Wall Market Outlook and Price ...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Corning stock gains 1.49 percent in Lang & Schwarz trading - AD HOC NEWS",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

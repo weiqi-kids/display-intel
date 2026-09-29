@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 36,
+  "gate2_fail": 21,
+  "passed": 10,
+  "gate2_samples": [
+    "AT&T and Corning Team Up to Engineer the Connected World with Fiber - PR Newswire",
+    "Corning Inc Stock (GLW) Moved Up by 4.96% on Sep 29: What Investors Need To Know - TradingKey",
+    "Corning Incorporated (GLW) Is Benefitting from Accelerating Data Centre Buildout - Yahoo Finance",
+    "Corning Incorporated to celebrate 175th anniversary with community fireworks celebration - WENY News",
+    "Corning Slides as Investors Weigh Potential Dilution Against Ongoing AI Growth Plans - Quiver Quanti"
+  ]
+}
