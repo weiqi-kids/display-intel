@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 39,
+  "gate2_fail": 22,
+  "passed": 22,
+  "gate2_samples": [
+    "Corning to receive $1.8 million for warehouse conversion after NYPA trustees approve funding - North",
+    "AT&T and Corning Team Up to Engineer the Connected World with Fiber - AT&T Newsroom",
+    "Corning Incorporated (GLW) Is Benefitting from Accelerating Data Centre Buildout - finance.yahoo.com",
+    "Corning Incorporated (GLW) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Shareholders",
+    "Corning Incorporated to celebrate 175th anniversary with community fireworks celebration - WENY News"
+  ]
+}

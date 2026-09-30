@@ -1,0 +1,230 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T14:36:56.892493Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tcl-2026-09-30-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Hanul Materials Science Subsidiary Registers as TCL CSOT Supplier… Reviewing Local Production in China - finance.biggo.com",
+      "companies": [
+        "tcl",
+        "csot"
+      ],
+      "related": {
+        "customers": [
+          "tcl"
+        ],
+        "suppliers": [
+          "csot"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UZHB1WDZFZmp4eWZjdURxUDdsTUtJUDlpQjRoNGdSWEJFYTJTRU1CSVJqWjJNMEpQRjdfQzd6Y3FDY09OSHpCOEtfQ1gwU0VZc1phczZnbzdTS0ktblZTMTlncEQ1Z21iYW9oVkpTQkJURDFzbEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-30-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Leisure vehicles become Eurocharm's largest segment with capacity expanding in Vietnam, North America",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260930PD224/taiwan-revenue-north-america-capacity-oem.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "himax-2026-09-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax Technologies CEO Jordan Wu Reports Vesting of 13,612 RSUs on September 30, 2026 - Kalkine Media",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSUhXMldWSmxIb0NOSDFXTFpZbUd1SW9YcjlCRE5DaXBOTHIxTVMwaDE4V2dXOUo5ODBSb2F6d1JpSDNhT0p2R1NvMGt5d3Rsc3VyMEVDVUk0UTRpSWlHdG5HVkZTNzVia0lqZnZYRE8tQmJ1YTZrSGNDSGJ0Z0lUWDVtbUgyN0w5STVUN3loOEt3d1BvTU1zVHlyNlNuanNtWTVJaVI3YVJjaG8tYjV3TWxqaW84b0hZR0NBc1QwRU1JZGdUT0xGY3VR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "himax-2026-09-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Stock grants settle into 13,612 shares for Himax Technologies (HIMX) CEO Jordan Wu. - Stock Titan",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPemh2YjM1bldEUkZabjRGaHFwdmlSbFNXTnpfQk5yVUZIN2lQQThmbm5iNUQ3MkZzWWQwWlVHd2tGNmdjWkdEZEh2TGFxN1ZELWh1OE83YUtLT0tncHVXWTNrbkxrZzR3V011Mk5nT2NvanRNbzFMdVNnZXltd01yLTR0VXk0TFVhZlRXdlIxNG9ueVZoUUdkRWw2cmI5bGgybmNSYzV0NUdET0hGeDhneVRIcXBSTHc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_elec-2026-09-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG quietly slashes $1,200 off its massive 100-Inch QNED mini-LED TV - geekspin.co",
+      "companies": [
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQmJfaVJfSUZaSXRuX01KU1B4MEVDZXFFbXlPblJQMXkyWGFxRUZta1lIOUVfejJxem9EUmNlTkxsX05OMzZ0b2JVbFVOTzlYdkk1dUdlaEIyb0JSUzV1djBtb1VNa1p4VThBcWkwbzM5elRKRk9MTlBsQ0RqM3VDNlpjUlVQLXlnNWlGZGU5VQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 3
+      },
+      {
+        "id": "himax",
+        "count": 2
+      },
+      {
+        "id": "tcl",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "csot",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 4
+      },
+      {
+        "id": "mini_led",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 121,
+    "too_old": 166,
+    "gate1_blocked": 39,
+    "gate2_blocked": 22,
+    "passed": 22,
+    "pass_rate": "8.8%",
+    "gate2_block_rate": "8.8%",
+    "gate2_samples": [
+      "Corning to receive $1.8 million for warehouse conversion after NYPA trustees approve funding - North",
+      "AT&T and Corning Team Up to Engineer the Connected World with Fiber - AT&T Newsroom",
+      "Corning Incorporated (GLW) Is Benefitting from Accelerating Data Centre Buildout - finance.yahoo.com",
+      "Corning Incorporated (GLW) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Shareholders",
+      "Corning Incorporated to celebrate 175th anniversary with community fireworks celebration - WENY News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為LG電子、Himax Technologies、TCL Technology相關動態：「Hanul Materials Science Subsidiary Registers as TCL CSOT ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hanul Materials Science Subsidiary Registers as TCL CSOT Supplier… Reviewing ...",
+        "level": "red"
+      },
+      {
+        "text": "Leisure vehicles become Eurocharm's largest segment with capacity expanding i...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
