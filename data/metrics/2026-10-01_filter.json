@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 21,
+  "gate2_fail": 24,
+  "passed": 17,
+  "gate2_samples": [
+    "AT&T and Corning Team Up to Engineer the Connected World with Fiber - PR Newswire",
+    "Corning Incorporated (GLW) Is Benefitting from Accelerating Data Centre Buildout - Yahoo Finance",
+    "Corning Incorporated to celebrate 175th anniversary with community fireworks celebration - WENY News",
+    "Corning to receive $1.8 million for warehouse conversion after NYPA trustees approve funding - North",
+    "Corning Incorporated and At&T Inc. Enter into Multi-Year Agreement Valued At More Than $3 Billion to"
+  ]
+}

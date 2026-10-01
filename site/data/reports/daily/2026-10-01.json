@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T15:05:43.829022Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_elec-2026-10-01-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung, LG Display Call Displays a National Security Asset, Demand Tax Credit Extension and Direct Refund System in South Korea - finance.biggo.com",
+      "companies": [
+        "samsung_elec",
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec",
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PYWhTZmxGenVhd2I3ek5OaWNWcDhsT2ZoM2d2S3JKRFl3UE1KOHduYVVJSjBEUldWcnNCSUJjei10bm1DUFlybEVMckJrRlZVZDVhaGc4OXhlUkRSYnJqQ2xwUmRsWXRtakZ2dUpjbUJ4cDc3MlE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-10-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AT&T and Corning partner to expand fibre across the US - capacityglobal.com",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1RKZ0hXb09tdGx1bXo2WHpPeVdoVG5NWTdBWVBvYmtqSmtUNXQweDRFcTVOTE0yQjlHU2xMaUdMNGVZa1dRUjFUQkxhZmNBYzRSaThjS3pYTkY2WHNheF9hb010Uko0M0o4YTV0MERaNWtuMWYxanl4S3hScFBPT0pZQTJlWE9WVHlyQ3Y3dw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "canon-2026-10-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Canon launches Connected Value Platform to deliver AI-powered feature enhancements for printing products - Canon Global",
+      "companies": [
+        "canon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnai1SZU84OEsycXpHQ3FJdGIzRWhvZF9KWjVPbjJYRmhMVENuaWNsX3VCVzlEX3FOakw4MThBd2MwbjF1VFBmdE43RGotUlJSbHFmQlBDMjVIeWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "canon-2026-10-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Canon Launches Connected Value Platform to Deliver AI-powered Feature Enhancements for Select Printing Products - The Manila Times",
+      "companies": [
+        "canon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNODg0QlR2aDBSb1o3YUVISDFTXzZZLWR0WDhOLVdSWlY0bXNscDdfYVVBUmpjR2lRSmN6TEdDVDdFRUR4U3h4VWlDVHZWTUp1ellUcDZxcW5GRFRiNmFiNjRmcjF0b3lNYURoUk1teEJiZFhwSnNlbHlSMC1KNDU4QUJWLTBVb1BhcGo2ZHFXQlNOUE5DWjFHLUJWRUpWZ19jVFZhQ284cXczaXAxaV9GZGRmOXM4ZmdTa3k4dFVPLV80cXVqMmdXVll5T3hObzl3SFRUNmpjSFpzeFNJVFlTSnFZNFRNbENLY01HN0lQMGFIczdRWWxUMVI0V0xmeDhvWDRNLV9iemlkcDFoVmZmTzFJUdIBmAJBVV95cUxQYUFsY3A4NE01SWwxbHFlU0hhaUR1ZlJPUlBpUHJiQmdVS0pydWpzN1ZPNmNvd3lpUmQzMGhqNDBNLTZ6bklXUXJ2cGxZVDlpTGxUc05BdmNVOVJGVGppQm5jRUc1dGxmUEk0OEF6RktiU211OGd6YlFwdkhRLTRZb2xoSWRCOTExTVh4UnJIQi1vZTFodTJJczB6Y05XdW5LVmV4cEpGeEtDN1RBRUpSdE4wVjlGSkdQS0R0TkwwSnBVOEwwOFQtd2drN21iYXZuYURuQmJLeGtzdExCRTd2ZDFUSXpmbzVEWDlsaEhWY3FrOGJ5NHNCbDFzNFdzTHEwSFBOVGJ3N0s2MUp4c0MwcExlc0ZWTWxn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-10-01-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lee Kun-Hee Collection Expands to Europe With Opening of ‘Korea’ Exhibition at the British Museum",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.samsung.com/global/lee-kun-hee-collection-expands-to-europe-with-opening-of-korea-exhibition-at-the-british-museum"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "canon",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 123,
+    "too_old": 164,
+    "gate1_blocked": 21,
+    "gate2_blocked": 24,
+    "passed": 17,
+    "pass_rate": "7.5%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "AT&T and Corning Team Up to Engineer the Connected World with Fiber - PR Newswire",
+      "Corning Incorporated (GLW) Is Benefitting from Accelerating Data Centre Buildout - Yahoo Finance",
+      "Corning Incorporated to celebrate 175th anniversary with community fireworks celebration - WENY News",
+      "Corning to receive $1.8 million for warehouse conversion after NYPA trustees approve funding - North",
+      "Corning Incorporated and At&T Inc. Enter into Multi-Year Agreement Valued At More Than $3 Billion to"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為三星電子、佳能、康寧相關動態：「Samsung, LG Display Call Displays a National Security Ass...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung, LG Display Call Displays a National Security Asset, Demand Tax Credi...",
+        "level": "red"
+      },
+      {
+        "text": "AT&T and Corning partner to expand fibre across the US - capacityglobal.com",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
