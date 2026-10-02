@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 22,
+  "gate2_fail": 25,
+  "passed": 14,
+  "gate2_samples": [
+    "AT&T and Corning Team Up to Engineer the Connected World with Fiber - AT&T Newsroom",
+    "Corning Inc Stock (GLW) Moved Up by 4.36% on Oct 1: What Signal Does It Send? - TradingKey",
+    "[News] Lumentum, Qualcomm, and Corning to Demonstrate High-Density 1060 nm VCSEL Optical D2D Connect",
+    "Corning to receive $1.8 million for warehouse conversion after NYPA trustees approve funding - north",
+    "Corning Incorporated and At&T Inc. Enter into Multi-Year Agreement Valued At More Than $3 Billion to"
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T14:27:36.159267Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-10-02-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Shareholders can submit questions before LG Display (LPL) holds its October 22 earnings call. - Stock Titan",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmYzX0QxTjJlWUxPYV9xbzVoQmxBV0dMM0htSkZYT1ZBdGpxVW95T1dmVFEyXzUtSnVxck5MYXExZmkybDNfeGhtMm1JWlBIeXB6UlQwdUdMd2lVd2RzTU5rSV83dkZUWVNsekJUTDBET1dCWFJadXlzUGVqaGdzTUVJWVA1U2JlQkx5M3pieGRwOUF4V1E4RXRacko4eTZUT19oMWZDUDZXV2xDd2VUOHV3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_display-2026-10-02-004",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display (LPL) schedules earnings for October 22, 2026, with the date subject to change. - Stock Titan",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUGpHeU50WlFwWXJnZnUzMl9DWVFBZE4tOUc0cVowZTg4ZlJ1eGNxYVBZcklMOUpEMUxNNDF5clNEU3F2ZVVmZWNNX3VEMFRFaFJIaG1VUzFpdktIUktyYmhzY29XVjRJUnExaEd6RzlXdlBqMDBwN0dlalZtNWwxLVJpSmpxOHlZYVpnVEE4OWFVajhObWZhX1FtVXczR1kzTVdZWTF6UUVVbmM0UWQ3aTN3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_display-2026-10-02-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Daishin cuts target for LG Display stock to KRW 12,000 - AD HOC NEWS",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdWx1Ym9ZVXdIZVpBaDdHeW9qT05ybEJoNGxPaHdJVjRnMUtSX2k0dWhLbGZuUmQ3MkwzYmkzMnJzVlBOSVcxaDR3eUgzWUNPa19SMGJWTzFlYkZIVjBYQkRfbnh4amFxVnJzZUw4VHVTSjQxdlJhNEM2cUxsdE9KeGNVdWlMbHdvb2tYMTFwQXRHRm42WDJEbEFfSmtPdXduOTY5UHdOV0dxNHJaS3BvVVh3VQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tcl-2026-10-02-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "TCL is right to question Samsung’s use of the term “Mini LED” - arstechnica.com",
+      "companies": [
+        "tcl",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcnQ2VFk0WGxweFRnN1V6YTB1ZjJ3dG1UaG1KMmlRVEpLVzJNbnlCWFBoVDJWS3U2cm85Qzg3ekllWkxLTy1LNlAyakY1eDhHRDRpQWJLSFBoZ3Jobk1ha3FkdmNodTM3c3JLZ0Vyc1laSHl5Y2cyWHJ0UjNFa3FCbzRvOEwteFM2VmN6SXJRY3RGZFBGY0hCSDZvck9rbDhU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "corning-2026-10-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bronstein, Gewirtz & Grossman, LLC Initiates an Investigation into Allegations Against Corning Incorporated (GLW) And Encourages Investors to Reach Out - ACCESS Newswire",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRzU5VU1sdTNMWFd6MDl5d3J4NGJXY1pQSXgtVmtHYnRxaXFmUE5Zal9CZkRIc0hOYlBZTlV4ejk3ekk1RHJrSUFuTW5kTUgyYWlrelpuNVpnZ0VaOTRKeHJxMjVwUEdzTjdzYlVhR0lqdjlSZzZXbHFTRnJKbnpPYTZYWnZ1bThXQUFFZTVidThqZEQzLWJSbTRwTVR5Qy1nYXZRSVNCUEhfTUhCa1FGanJTVWcxVmN6OUtQSUsxcngyUUpjektHN3hubzBLZ05VQXJsQlJpOHhxZ0N4X21KMktEVmY?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_display",
+        "count": 3
+      },
+      {
+        "id": "lg_elec",
+        "count": 3
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "canon",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 121,
+    "too_old": 167,
+    "gate1_blocked": 22,
+    "gate2_blocked": 25,
+    "passed": 14,
+    "pass_rate": "6.1%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "AT&T and Corning Team Up to Engineer the Connected World with Fiber - AT&T Newsroom",
+      "Corning Inc Stock (GLW) Moved Up by 4.36% on Oct 1: What Signal Does It Send? - TradingKey",
+      "[News] Lumentum, Qualcomm, and Corning to Demonstrate High-Density 1060 nm VCSEL Optical D2D Connect",
+      "Corning to receive $1.8 million for warehouse conversion after NYPA trustees approve funding - north",
+      "Corning Incorporated and At&T Inc. Enter into Multi-Year Agreement Valued At More Than $3 Billion to"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為LGD、LG電子、康寧相關動態：「Shareholders can submit questions before LG Display (LPL)...」。主要關注主題為法說會、OLED 滲透率、Mini LED，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Shareholders can submit questions before LG Display (LPL) holds its October 2...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display (LPL) schedules earnings for October 22, 2026, with the date subje...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
