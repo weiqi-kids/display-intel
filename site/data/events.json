@@ -1,5 +1,61 @@
 [
   {
+    "id": "corning-2026-10-03-001",
+    "date": "2026-10-03",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Corning agrees to more than $3 billion AT&T deal: what it means for Corning stock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ0k4dUdSbDBWVHU0VTZjTTRvb1JmV25MZjNaclY2M0RRRjZibHZ4dHRQeHNMX2ROTVVQWk5yTlJYN3JKMG9fNjhYSnYwUFJRMTZuT1R3WVpfOVpKVmVlS214YTdkc3VmY1UwODBYZk",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ0k4dUdSbDBWVHU0VTZjTTRvb1JmV25MZjNaclY2M0RRRjZibHZ4dHRQeHNMX2ROTVVQWk5yTlJYN3JKMG9fNjhYSnYwUFJRMTZuT1R3WVpfOVpKVmVlS214YTdkc3VmY1UwODBYZkZGc0VLMVJBeE5hN2NGcnU4TTZ5N3didm5QZ3VoNUlTSDcxUjk0SnhlSW5kWkdXTl9JbGlyd1l1SXRaZS0xamRUUThudEV6YXc4Tzc1V0I1WGE4dmVaaGZCMkFVak8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-10-03-002",
+    "date": "2026-10-03",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies (NASDAQ:HIMX) Share Price Crosses Above 200-Day Moving Average - What's Next? - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSDlpcG9KNGw1OTBlbXlUTkc3Rm9XZG9xODRhNVNpR3lpal83NGctUlFYY2pZZXFzUUJVTGpGTG1rUTliVDhROVl3S0hBYzRHTXNVNTNDRm5YVW9NTnctMGNnVlhTaW9SZl9XUDVkY2",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSDlpcG9KNGw1OTBlbXlUTkc3Rm9XZG9xODRhNVNpR3lpal83NGctUlFYY2pZZXFzUUJVTGpGTG1rUTliVDhROVl3S0hBYzRHTXNVNTNDRm5YVW9NTnctMGNnVlhTaW9SZl9XUDVkY2FJRWF1MV9RZHU1QnFKVWRsRURla3ZlSUQxUl9hVEFXRHM2UDBsZ2FsTEozYXBla0VrdEt3LTg5V2pNSFNSQUdwM0JVcWFvM2RNU2pGZFBmdkxyZ2hTN0JYcEtUUS13U2cxQkZCanhsbGhxcUR1UzFCbUJZc1M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-03-003",
+    "date": "2026-10-03",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Researchers develop an ultrathin, skin-like transparent OLED with 80.7% transmittance",
+    "summary": "<p>Researchers from China's Northeast Normal University and Jilin Normal University have developed an ultrathin, skin-like transparent OLED. The 2.3 µm thick device transmits 80.7% of light (at 550 nm",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/researchers-develop-ultrathin-skin-transparent-oled-807-transmittance",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-10-02-001",
     "date": "2026-10-02",
     "companies": [
@@ -146,6 +202,63 @@
     ],
     "impact": "neutral",
     "title": "TCL is right to question Samsung’s use of the term “Mini LED” - arstechnica.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQcnQ2VFk0WGxweFRnN1V6YTB1ZjJ3dG1UaG1KMmlRVEpLVzJNbnlCWFBoVDJWS3U2cm85Qzg3ekllWkxLTy1LNlAyakY1eDhHRDRpQWJLSFBoZ3Jobk1ha3FkdmNodTM3c3JLZ0Vyc1",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcnQ2VFk0WGxweFRnN1V6YTB1ZjJ3dG1UaG1KMmlRVEpLVzJNbnlCWFBoVDJWS3U2cm85Qzg3ekllWkxLTy1LNlAyakY1eDhHRDRpQWJLSFBoZ3Jobk1ha3FkdmNodTM3c3JLZ0Vyc1laSHl5Y2cyWHJ0UjNFa3FCbzRvOEwteFM2VmN6SXJRY3RGZFBGY0hCSDZvck9rbDhU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-02-009",
+    "date": "2026-10-02",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning and AT&T's $3 Billion Fiber Deal Reveals Where AI Spending Goes Next - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbS1iM2MxNlNQOXhCSXZkcTZqS2NIY3ZqMHBmWC0wNndRUU0zd2xWRU56QVpwOV9TVWJHcFlPUHNnRHJtZFpKS0htVEpBcDlZbmo1US16LU1TNG5qemJFc0Vncnd2T3RaQ05idUo3Vk",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbS1iM2MxNlNQOXhCSXZkcTZqS2NIY3ZqMHBmWC0wNndRUU0zd2xWRU56QVpwOV9TVWJHcFlPUHNnRHJtZFpKS0htVEpBcDlZbmo1US16LU1TNG5qemJFc0Vncnd2T3RaQ05idUo3VkZnY1BJTVlHYy1qZE1WZ3hGVUhsRWFzaGhuaHlPbmdIaVF2REZ2V1AzM0NrYVNLejN3VVRoaDBIRk85WHdBUEg5YVRJZm1kbnlxXzZNOUhvZzRXaWstWHBiUVVsclRFVUlVWXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-10-02-010",
+    "date": "2026-10-02",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies Inc (HIMX) Shares Surge 5.5% -- What GF Score of 69 Tells Investors - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNVXI0SUdVMkR2MVFVal8xQmtrSkE0NF83YzNURGNWT190REh6WGVQTDNjTlZlS3NQSlJ5eEszeVU1QnliM2RNV2ZNRDZjVUt6U3lLal9YV19tUUJMSkFPVTI2UHdFY3VsZHFnTk5CZV",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVXI0SUdVMkR2MVFVal8xQmtrSkE0NF83YzNURGNWT190REh6WGVQTDNjTlZlS3NQSlJ5eEszeVU1QnliM2RNV2ZNRDZjVUt6U3lLal9YV19tUUJMSkFPVTI2UHdFY3VsZHFnTk5CZVJTd0d3SVJMcFA3eU9vZHhXSFczUmI4cHN4a0pJNDloSmdlLU9JM25OZDFjOGN4bThhOGtYMjNKak1KWTFLeHB4N2VWV01EX2VhM2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-10-02-011",
+    "date": "2026-10-02",
+    "companies": [
+      "tcl",
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL is right to question Samsung’s use of the term “Mini LED” - Ars Technica",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQcnQ2VFk0WGxweFRnN1V6YTB1ZjJ3dG1UaG1KMmlRVEpLVzJNbnlCWFBoVDJWS3U2cm85Qzg3ekllWkxLTy1LNlAyakY1eDhHRDRpQWJLSFBoZ3Jobk1ha3FkdmNodTM3c3JLZ0Vyc1",
     "sources": [
       {
@@ -357,6 +470,60 @@
       {
         "name": "jdi",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZnJ2ejN6REp1Sy1NUjF4ZEprc1o1MTBReHd3d29rUG5MNmFJUWxhRkplX2R1VkFGR0lCeEVDdGd4NHh6QXI1ajdOOTdnblV2clFseU5KM1BrQUJnRjJ5ajF5eFhSZXN6WUt3YU5uYTJlTWN1eDV5Z2hmbWc5Y0lob0dENlQ3amw3NDI5Y0xWUUU4SXNyWU5GekRZWHFTcERLNVh2bHNEeXpNYlZrbGRvdC1sdTBMZS1YNFptNzdHbUVLZ2piV1UwT2QxMEVUTGljRlhRekpUNlk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-01-012",
+    "date": "2026-10-01",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Business Leaders, NAM Honor Corning CEO Wendell Weeks - National Association of Manufacturers - NAM",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE42d3RvSHFaVXpLaTNLLXF5N0tVVWpXVEoxYzd1b3JXSHdsMTZqTU1jOVp6cGpGRDRhNUZGLUZkcjdyNTVCZS1tSDVMRkhIS0JvVWk4U3pCTkNka3lweXp2T3hMLUtQQTdDc202al8zZ1",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42d3RvSHFaVXpLaTNLLXF5N0tVVWpXVEoxYzd1b3JXSHdsMTZqTU1jOVp6cGpGRDRhNUZGLUZkcjdyNTVCZS1tSDVMRkhIS0JvVWk4U3pCTkNka3lweXp2T3hMLUtQQTdDc202al8zZ19uU3g4MTNzag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-01-013",
+    "date": "2026-10-01",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning faces securities fraud probe after $2B stock offering announcement triggers 13.7% share drop - pluang.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXZHRmhzR0tRbkh4T0lqTFJZYjItZUFIRmtJQUJoZ1BoWDZzTDBhOUhJUTBwLVdfNWJuRVZxZVlZZjhXZjRPNy1lNFNwaGtYT1YyYTdyajBaY2cteGQtTG81XzBYMUxmRnMyTWtKa1",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXZHRmhzR0tRbkh4T0lqTFJZYjItZUFIRmtJQUJoZ1BoWDZzTDBhOUhJUTBwLVdfNWJuRVZxZVlZZjhXZjRPNy1lNFNwaGtYT1YyYTdyajBaY2cteGQtTG81XzBYMUxmRnMyTWtKa1UyMVhsbkpKRTVZdTZFRTVaczFyUWxKbUFHbHpwVE0zOWRGc1J4S09N?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-10-01-014",
+    "date": "2026-10-01",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Launches Connected Value Platform to Deliver AI-powered Feature Enhancements for Select Printing Products - The Daily Tribune News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAJBVV95cUxPNHR6YmR6bWxGdHVpbGpDa2NUMjVIS0p4WDlzcTV4VTIwVU9yWmJ2WVQ3Q2I3WkV3Sm15ZllOQ0c1dDZrYWFRb3laQ3RjdGZFaDVZMlVlRUlDTHAtdzJWTTFnWmJHZ0k0SF82dFhzVk",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPNHR6YmR6bWxGdHVpbGpDa2NUMjVIS0p4WDlzcTV4VTIwVU9yWmJ2WVQ3Q2I3WkV3Sm15ZllOQ0c1dDZrYWFRb3laQ3RjdGZFaDVZMlVlRUlDTHAtdzJWTTFnWmJHZ0k0SF82dFhzVkphMWNvbWRWbFVIOWVxTEVSbGJLcnBZMTF4MWhsVVlUYXozM3VzclFfY2dfaHZIYVM1U2FyZDM3T3ZOR3JuSmh4Z2RCWUNmb24za0lmWDdQNmhvVnRIaHN3ZDVOaERvOEJDajBxODBlMUROcHVZWm9QWTVtaHBtOXFZS3JYZG1oZ2YxMnVOUk9hSkhzbU5jOGF0ZENFa3NyanhaVXk3Z2M0U1VxemtxckhyU2FVVzlDaGEtX2w3WXU5ckh5MlVpVVIwMzVTUTdnbWE1d1o3bGlRd0UydW0?oc=5",
         "type": "rss"
       }
     ]
@@ -1138,6 +1305,24 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xcUk0MWFrT3ZWOWNkaG1NeFpKRnVPYzFYLWJtbmpDQkJNRml2UzllNFg1SElwVmpiOEtiM0x2cmxSLTZOU2RFWnRPelF1M2Y0OUp6c0dnMzdFelpLSEROUnhYNzcwSkxtSVFERS1B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-29-020",
+    "date": "2026-09-29",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning stock rises on $3B AT&T fiber deal - ca.finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5xd2lSOHpZblpxeGdYeUF5NEpOUC05Z2V0ZW9oZjItdllPd1JwOHNRT056dnBQQkFFc0pSTDNFTGI1T1JWTkFSTVZzRHljNEJkZ1c1MjgtNHFTdG5BQ01mSTZkeHYyY2lrQVQ1Q2Q0cl",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xd2lSOHpZblpxeGdYeUF5NEpOUC05Z2V0ZW9oZjItdllPd1JwOHNRT056dnBQQkFFc0pSTDNFTGI1T1JWTkFSTVZzRHljNEJkZ1c1MjgtNHFTdG5BQ01mSTZkeHYyY2lrQVQ1Q2Q0cl8yM2hoUWtiMTZJcURydw?oc=5",
         "type": "rss"
       }
     ]

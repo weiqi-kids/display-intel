@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T13:02:54.540776Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-10-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corning agrees to more than $3 billion AT&T deal: what it means for Corning stock - AD HOC NEWS",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automotive_display"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ0k4dUdSbDBWVHU0VTZjTTRvb1JmV25MZjNaclY2M0RRRjZibHZ4dHRQeHNMX2ROTVVQWk5yTlJYN3JKMG9fNjhYSnYwUFJRMTZuT1R3WVpfOVpKVmVlS214YTdkc3VmY1UwODBYZkZGc0VLMVJBeE5hN2NGcnU4TTZ5N3didm5QZ3VoNUlTSDcxUjk0SnhlSW5kWkdXTl9JbGlyd1l1SXRaZS0xamRUUThudEV6YXc4Tzc1V0I1WGE4dmVaaGZCMkFVak8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "himax-2026-10-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax Technologies (NASDAQ:HIMX) Share Price Crosses Above 200-Day Moving Average - What's Next? - marketbeat.com",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSDlpcG9KNGw1OTBlbXlUTkc3Rm9XZG9xODRhNVNpR3lpal83NGctUlFYY2pZZXFzUUJVTGpGTG1rUTliVDhROVl3S0hBYzRHTXNVNTNDRm5YVW9NTnctMGNnVlhTaW9SZl9XUDVkY2FJRWF1MV9RZHU1QnFKVWRsRURla3ZlSUQxUl9hVEFXRHM2UDBsZ2FsTEozYXBla0VrdEt3LTg5V2pNSFNSQUdwM0JVcWFvM2RNU2pGZFBmdkxyZ2hTN0JYcEtUUS13U2cxQkZCanhsbGhxcUR1UzFCbUJZc1M?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Researchers develop an ultrathin, skin-like transparent OLED with 80.7% transmittance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/researchers-develop-ultrathin-skin-transparent-oled-807-transmittance"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "himax",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automotive_display",
+        "count": 1
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 348,
+    "dup_title": 128,
+    "too_old": 167,
+    "gate1_blocked": 21,
+    "gate2_blocked": 22,
+    "passed": 10,
+    "pass_rate": "4.5%",
+    "gate2_block_rate": "10.0%",
+    "gate2_samples": [
+      "AT&T and Corning Team Up to Engineer the Connected World with Fiber - PR Newswire",
+      "Corning Inc Stock (GLW) Moved Up by 4.36% on Oct 1: What Signal Does It Send? - TradingKey",
+      "Corning to receive $1.8 million for warehouse conversion after NYPA trustees approve funding - North",
+      "Corning Incorporated and At&T Inc. Enter into Multi-Year Agreement Valued At More Than $3 Billion to",
+      "Corning Incorporated (GLW) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Shareholders"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為康寧、Himax Technologies相關動態：「Corning agrees to more than $3 billion AT&T deal: what it...」。主要關注主題為車用面板、OLED 滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Corning agrees to more than $3 billion AT&T deal: what it means for Corning s...（車用面板）",
+        "level": "green"
+      },
+      {
+        "text": "Himax Technologies (NASDAQ:HIMX) Share Price Crosses Above 200-Day Moving Ave...",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
