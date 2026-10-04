@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-04",
+  "date_range": {
+    "start": "2026-09-28",
+    "end": "2026-10-04"
+  },
+  "generated_at": "2026-10-04T13:41:34.288540Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lg_display-2026-10-02-003",
+      "date": "2026-10-02",
+      "title": "Shareholders can submit questions before LG Display (LPL) holds its October 22 earnings call. - Stock Titan",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "samsung_elec",
+      "company_b": "tcl",
+      "co_mention_count": 4,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 6,
+      "last_week": 9,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "oled_penetration": {
+      "this_week": 13,
+      "last_week": 32,
+      "week_over_week_change": "-59%",
+      "sentiment_this_week": 0.08
+    },
+    "mini_led": {
+      "this_week": 9,
+      "last_week": 6,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.05
+    },
+    "panel_price": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "automotive_display": {
+      "this_week": 2,
+      "last_week": 5,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "corning": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 3
+    },
+    "samsung_elec": {
+      "event_count": 13,
+      "sentiment_avg": 0.08,
+      "rank": 1
+    },
+    "tcl": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "lg_elec": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "himax": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "csot": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "canon": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "lg_display": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "boe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 93,
+        "last": 106,
+        "change_pct": -12.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-28",
+      "event_count": 12,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-09-29",
+      "event_count": 21,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-30",
+      "event_count": 24,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-10-01",
+      "event_count": 18,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-10-02",
+      "event_count": 11,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-03",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-04",
+      "event_count": 2,
+      "sentiment_avg": 0.25
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-28 ~ 2026-10-04）共 93 則事件，重點為「Shareholders can submit questions before LG Dis...」。OLED 滲透率、Mini LED、法說會為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "康寧",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星電子",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "TCL Technology",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

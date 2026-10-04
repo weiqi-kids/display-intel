@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 22,
+  "gate2_fail": 18,
+  "passed": 10,
+  "gate2_samples": [
+    "AT&T and Corning Team Up to Engineer the Connected World with Fiber - PR Newswire",
+    "Corning Inc Stock (GLW) Moved Up by 4.36% on Oct 1: What Signal Does It Send? - TradingKey",
+    "Corning to receive $1.8 million for warehouse conversion after NYPA trustees approve funding - North",
+    "Corning Incorporated and At&T Inc. Enter into Multi-Year Agreement Valued At More Than $3 Billion to",
+    "Corning Inc Stock (GLW) Moved Up by 4.96% on Sep 29: What Investors Need To Know - TradingKey"
+  ]
+}
