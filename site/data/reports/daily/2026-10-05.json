@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:47:47.864149Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-05-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Foxconn September revenue tops NT$1 trillion for first time on AI, ICT demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261005PD249/foxconn-revenue-demand-electronics-growth.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-05-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "CHPT posts record quarterly revenue as chip test demand rises",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261005PD234/chpt-ic-testing-interface-demand-revenue-2026.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "himax-2026-10-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Himax Technologies to Hold Third Quarter 2026 Earnings Conference Call on November 5 - quiverquant.com",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQm1yN1Awa2hLYUx4dm83VlItYnk3WndhUm5ZWVJGRWNjZEtIcjdMZzdqVVlSTVdmWlBjVkNSY2xQTm1KZ1gtemFRSUJIY0xKVXhUanpYdWVUM21xTW56Ny0xZlFJSkM1Z21FRXdBZVpXeHpLWG1yZkVfNEp2V0dvOXF2TlBrRDNrR1F5ZFJXQWJOM2RkX2pNQXRUbTM5SWoyU0dVYTZaZzFHcHFaMXBwbGQ3VnBKTGRV?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-05-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "3 Top Insider Backed Growth Stocks With Revenue Growth Over 25% - Simply Wall Street",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPT2ZMXzNvSzhMN2RCRXhXV0hwTlNGbXRKdHBkLWRfN3JBejVYd1M1OWZiZzZVMlNwYTBZbHdLWnZsR0x5amxrd3UwekM2d19CTVlMd2FCM0NpamNmUDJweVMydzBHaklCRXFEZ0NxVVR3U09vanQxMFduUGFOdzdaQUN4NG52WmR0Zk5hNXk3eS1jc3VCa2hZVlFPMXBSTk1JRFl2UE1JMlZjUkt1VmM4bVpEbEtsZVB0TWtRZVlVZTVEbE93d0REbE85QVVxdFVCcUFNZWhhekRmZ9IB3wFBVV95cUxPNXp4WlZobVc5VVprZERmaWJXNlJSQmUtcklDalFtV3ByTTVNSmdkeWFmOXhnYzFZMi1keDhxLXo4RGgzWjU0ZHFhcHhkY0hISTA1bFU3SmRYVm43RzJVbDRKeHJQa2ROTGRPSk5IQXdLcUt5Sk9OS2hpWWxtUTFHUHVBdFQ3cFZlOXItS21BejlRVUZyRmFzc3g5MGdOX0UwdHRRZHBPN3E3RmFNclQ3U2FzczYySHZOVVhpdDJaVDhFM1l4SGE1WG9salhLNnNMc2RqeUc0RThBa29ZbHNV?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "himax-2026-10-05-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Himax Technologies schedules Q3 2026 earnings call for Nov 5 - scanx.trade",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaEI0Z3gwWTFGbk9pMWxwZWgtMmthN0FTbVpmLTVldnUtR0lJcmtyR1pCcERjc1l6Q0tYVTNGLUZHdy0tSC1LRzlaNzU4SlBlMjdLTUpKMnBWRXlrb0psWFlZRHdyei0xek8wRVJ1THlkQ1JoM01QUFdRdWRkcEVfMnd1UERuRUp2MnB3bnhEVGkxZlJvbG5LcXExYnB1VVpvX2Fqa3cyWUhvUEhxMmI4MHRTVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.4,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "himax",
+        "count": 3
+      },
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "sony",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 131,
+    "too_old": 168,
+    "gate1_blocked": 36,
+    "gate2_blocked": 19,
+    "passed": 15,
+    "pass_rate": "6.3%",
+    "gate2_block_rate": "8.0%",
+    "gate2_samples": [
+      "Corning Inc Stock (GLW) Moved Up by 4.36% on Oct 1: What Signal Does It Send? - TradingKey",
+      "AT&T and Corning Team Up to Engineer the Connected World with Fiber - PR Newswire",
+      "Corning to receive $1.8 million for warehouse conversion after NYPA trustees approve funding - North",
+      "Breakthrough T1D Strengthens Cybersecurity and IT Resilience with Managed IT Services from Canon and",
+      "Novatek Microelectronics stock reports strong Q2 growth - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為Himax Technologies、康寧、索尼相關動態：「Foxconn September revenue tops NT$1 trillion for first ti...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Foxconn September revenue tops NT$1 trillion for first time on AI, ICT demand（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "CHPT posts record quarterly revenue as chip test demand rises（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

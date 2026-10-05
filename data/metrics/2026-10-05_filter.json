@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 36,
+  "gate2_fail": 19,
+  "passed": 15,
+  "gate2_samples": [
+    "Corning Inc Stock (GLW) Moved Up by 4.36% on Oct 1: What Signal Does It Send? - TradingKey",
+    "AT&T and Corning Team Up to Engineer the Connected World with Fiber - PR Newswire",
+    "Corning to receive $1.8 million for warehouse conversion after NYPA trustees approve funding - North",
+    "Breakthrough T1D Strengthens Cybersecurity and IT Resilience with Managed IT Services from Canon and",
+    "Novatek Microelectronics stock reports strong Q2 growth - AD HOC NEWS"
+  ]
+}
