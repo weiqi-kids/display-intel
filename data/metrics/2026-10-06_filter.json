@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 175,
+  "gate1_fail": 37,
+  "gate2_fail": 22,
+  "passed": 19,
+  "gate2_samples": [
+    "Corning Inc Stock (GLW) Moved Up by 4.18% on Oct 6: A Full Analysis - TradingKey",
+    "Leaders from Corning, General Motors Join Manufacturing Leadership Council Board of Governors - Qual",
+    "AT&T and Corning Team Up to Engineer the Connected World with Fiber - PR Newswire",
+    "Corning Inc Stock (GLW) Moved Up by 4.36% on Oct 1: What Signal Does It Send? - TradingKey",
+    "Corning stock falls 2.38 percent before October 27 results - AD HOC NEWS"
+  ]
+}

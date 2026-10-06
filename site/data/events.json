@@ -1,5 +1,245 @@
 [
   {
+    "id": "lg_display-2026-10-06-001",
+    "date": "2026-10-06",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Q3 Preview: The Profitable Season Is Coming, But It Changes Nothing (NYSE:LPL) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenJpTFFNU1pzbFdudFRSaXlHQ0JFTHBxYmNXTFo2MzhXUjA3NnBHVUQ4eUhRdklZMDBaRmNGVGZfTTAzNUFlZ0c3akU4U1dGczBYSWdTRDBoWHZxMUV2WWFfcXRqTWlkcl9ZY2hxOG",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOenJpTFFNU1pzbFdudFRSaXlHQ0JFTHBxYmNXTFo2MzhXUjA3NnBHVUQ4eUhRdklZMDBaRmNGVGZfTTAzNUFlZ0c3akU4U1dGczBYSWdTRDBoWHZxMUV2WWFfcXRqTWlkcl9ZY2hxOGdUSDVsYXlfaHUwbGp5N2JQZUkzVnUzcF9TT1BvQ2kwajBEb1B0X205QlNaOU9DNy1EclJYM20wN2RqMHhOODRKRlFTNU1uRlBI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-06-002",
+    "date": "2026-10-06",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Hyundai Motor, Nvidia, LG Forge 2028 Autonomous Driving Alliance, Challenging Tesla's FSD - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE14WDNQcFM3bzR4ZHVBdDh5dkc5bVpWX3NSUFItTkpIcUdOaDZmMGNlV0EwLWo5cmxmQXkzSzRfWDVNVENSQ3NmU1pWRkYzaEZfTXNTMG1XY3RSUGJvYUdZODRKTmRySGEyNGFDdHQ2d0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14WDNQcFM3bzR4ZHVBdDh5dkc5bVpWX3NSUFItTkpIcUdOaDZmMGNlV0EwLWo5cmxmQXkzSzRfWDVNVENSQ3NmU1pWRkYzaEZfTXNTMG1XY3RSUGJvYUdZODRKTmRySGEyNGFDdHQ2d0RuZWFMbVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-10-06-003",
+    "date": "2026-10-06",
+    "companies": [
+      "boe",
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE chief set for Korea visit as Samsung boosts panel orders - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UalNLTGZac2V2bkxCcG5QNnhaOFF2RVIyUEV5NFBtS0ItaXlHZWF0NGlPZzFvTnhidS1EYnd1bTIxVlZrYlFZaXMyeUhkUE1aeC1JRHlNRQ?oc=5\" target=\"_blank\">BOE chief",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UalNLTGZac2V2bkxCcG5QNnhaOFF2RVIyUEV5NFBtS0ItaXlHZWF0NGlPZzFvTnhidS1EYnd1bTIxVlZrYlFZaXMyeUhkUE1aeC1JRHlNRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-06-004",
+    "date": "2026-10-06",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung Art Store Expands Its Collection With 30 Exclusive Works From the British Museum",
+    "summary": "Samsung Electronics today announced that it is adding a new exclusive British Museum collection consisting of 30 artworks to Samsung Art Store. Available on compatible Samsung Art TVs, the curated sel",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-art-store-expands-its-collection-with-30-exclusive-works-from-the-british-museum",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-06-005",
+    "date": "2026-10-06",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung Introduces ‘SmartThings Now’ in New Platform Update That Brings More Intuitive User Experiences",
+    "summary": "Samsung Electronics today announced the latest update to SmartThings, its global connected living platform now serving 470 million registered users and supporting 430+ Works with SmartThings (WWST)-ce",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-introduces-smartthings-now-in-new-platform-update-that-brings-more-intuitive-user-experiences",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-06-006",
+    "date": "2026-10-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "ADATA posts record 3Q revenue as memory prices rise",
+    "summary": "ADATA Technology reported record consolidated revenue of NT$53.03 billion(NT$53.03 billion)in the third quarter of 2026, topping NT$50 billion for the period as tighter memory supply and higher prices",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261006PD243/revenue-2026-dram-demand-memory-module.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-06-007",
+    "date": "2026-10-06",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "LG lands 5GW North American data center cooling deal",
+    "summary": "LG Electronics has signed a long-term agreement to supply chillers for data center projects totaling more than 5GW of capacity in the US and Canada, giving the South Korean company greater visibility ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261006VL220/lg-electronics-data-center-cooling-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-06-008",
+    "date": "2026-10-06",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Chinese LCD panel makers tighten supply to lift prices &mdash; Taiwan suppliers eye order shifts",
+    "summary": "Chinese panel makers moved to cut production during the National Day holiday after issuing their first price increase notices in September, combining pricing signals with supply controls to stabilize ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261006PD233/panel-taiwan-production-tv-price.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-06-009",
+    "date": "2026-10-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "China's 15th five-year plan elevates PCB role in AI supply chains",
+    "summary": "China's Ministry of Industry and Information Technology and the National Development and Reform Commission have released the 15th Five-Year Plan for the development of the electronic information manuf",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261006PD227/pcb-it-materials-electronics-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-06-010",
+    "date": "2026-10-06",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung secures customer backing for US$5B substrate expansion",
+    "summary": "Samsung Electro-Mechanics is investing KRW6.78 trillion (approx. US$5 billion) to expand FCBGA capacity in South Korea and Vietnam. The projects are backed by customer funding and medium- to long-term",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261006VL215/substrate-semco-expansion-capacity-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-06-011",
+    "date": "2026-10-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Drone share tops 10% as Calin Technology eyes LEO optics, auto growth",
+    "summary": "Optical lens maker Calin Technology is seeing its new business ventures bear fruit. Revenue from its drone camera module segment has surpassed 10% of total sales in 2026 and is targeting over 15%, mak",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261006PD225/calin-leo-optics-drone-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-06-012",
+    "date": "2026-10-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Arcadyan September revenue hits record on mobile communications strength",
+    "summary": "As the networking market enters its traditional peak season, customer demand is gradually recovering. Arcadyan Technology announced on October 5 its September revenue, which reached NT$5.06 billion (a",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261006PD218/revenue-arcadyan-market-mobile-communications.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-06-013",
+    "date": "2026-10-06",
+    "companies": [
+      "samsung_elec",
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Are Samsung’s M70H, M80H and M90H Really Mini-LED TVs? TCL Says No and Is Suing - eCoustics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1rMUtESzFNUWZ5OXljUmQ3dUZZZFJWNHdqWWpyM2dEUnFrVkJVLTZPcVR1ckZCWmN2MXpvQVA0eF8yZTZndjhjazJJRnlSNUNvdlBoRDZ4blVEbk82Rno3dFdValpOeWpvQ0NxMmFSWH",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rMUtESzFNUWZ5OXljUmQ3dUZZZFJWNHdqWWpyM2dEUnFrVkJVLTZPcVR1ckZCWmN2MXpvQVA0eF8yZTZndjhjazJJRnlSNUNvdlBoRDZ4blVEbk82Rno3dFdValpOeWpvQ0NxMmFSWHhmUnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-10-05-001",
     "date": "2026-10-05",
     "companies": [
@@ -252,6 +492,62 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNVVaVzBOQ0x2VFBocUhCSkVQZGNheE5RZE85VlFDYVVoT2JQZTJ6ODNaUGkzWjZ1dEJkNHVVNTY3aE5vc2lNdWYwdXlOTEI4NDNKM0diNi1lV0xmZlNWSUd0U0ZMc1ZBZlh1Z2Y5ckp5blNIRmhyNkZPd2VWLVU2bXdwZHl0cUxKWUJWVmpmcFhZbWtWajRoSTlYSWFteVBCWWhiVl9Sek1ZR3lNWWVCV3NmeHppX21pYjJBcGZ2MFdvSVRZTUZvUEJMNV8yelFSV1ljaU02UEhJMG9NX3fSAd4BQVVfeXFMTzVVWlcwTkNMdlRQaHFIQkpFUGRjYXhOUWRPOVZRQ2FVaE9iUGUyejgzWlBpM1o2dXRCZDR1VTU2N2hOb3NpTXVmMHV5TkxCODQzSjNHYjYtZVdMZmZTVklHdFNGTHNWQWZYdWdmOXJKeW5TSEZocjZGT3dlVi1VNm13cGR5dHFMSllCVlZqZnBYWW1rVmo0aEk5WElhbXlQQlloYlZfUnpNWUd5TVllQldzZnh6aV9taWIyQXBmdjBXb0lUWU1Gb1BCTDVfMnpRUldZY2lNNlBISTBvTV93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-10-05-015",
+    "date": "2026-10-05",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies, Inc. Schedules Third Quarter 2026 Financial Results Conference Call on Thursday, November 5, 2026 at 8:00 AM EST - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxPeHEyTXRza01SSlNPSHdMakFxblZ5Wk5hSDRCRUYzVUs2NkxjT3ZFWTVGM3NuQWdXTW1FbnlHRnlwdmNvc1MtUEJEaWJKXy13b0lCb3lnMFNOblcyeW1KLXh4TFhkM3RaT0FYWUZQY1",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPeHEyTXRza01SSlNPSHdMakFxblZ5Wk5hSDRCRUYzVUs2NkxjT3ZFWTVGM3NuQWdXTW1FbnlHRnlwdmNvc1MtUEJEaWJKXy13b0lCb3lnMFNOblcyeW1KLXh4TFhkM3RaT0FYWUZQY1JMNWVJVG5xZ2o1LXl2dldoMEFDeEZzNmNaQm9vbGV3Q3h4N3J5X2dBdXFhdVhIVkl2Wm4wR2xlSVh6My1BeHZvVTBmUDJHNG5welBTd0FFU2t3Vm82QmVBNG5oanNpOHZmUklILVc1aXM3dU1neUxoXzRjZTFpaVFqc0Z0ZDFZdnNZc3l1ZE5CTGpBWmx2dHRVcm84RHVoSWYwNm9VNG9FRnpxX012UVdQUE1Oc3AxcjEtTHJNdzdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-10-05-016",
+    "date": "2026-10-05",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies to Hold Third Quarter 2026 Earnings Conference Call on November 5 - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQm1yN1Awa2hLYUx4dm83VlItYnk3WndhUm5ZWVJGRWNjZEtIcjdMZzdqVVlSTVdmWlBjVkNSY2xQTm1KZ1gtemFRSUJIY0xKVXhUanpYdWVUM21xTW56Ny0xZlFJSkM1Z21FRXdBZV",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQm1yN1Awa2hLYUx4dm83VlItYnk3WndhUm5ZWVJGRWNjZEtIcjdMZzdqVVlSTVdmWlBjVkNSY2xQTm1KZ1gtemFRSUJIY0xKVXhUanpYdWVUM21xTW56Ny0xZlFJSkM1Z21FRXdBZVpXeHpLWG1yZkVfNEp2V0dvOXF2TlBrRDNrR1F5ZFJXQWJOM2RkX2pNQXRUbTM5SWoyU0dVYTZaZzFHcHFaMXBwbGQ3VnBKTGRV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-05-017",
+    "date": "2026-10-05",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Carbon Nanotubes as NIR OLED emissive layers",
+    "summary": "<p>This lecture by Dr. Shabnam Ahadzadeh from Hasselt University, discusses the use of carbon nanotube thin films as an emissive layer in near-infrared (NIR) OLED devices. The talk discusses why CNTs ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/videos/carbon-nanotubes-nir-oled-emissive-layers",
         "type": "rss"
       }
     ]
@@ -950,6 +1246,24 @@
     ]
   },
   {
+    "id": "corning-2026-10-01-019",
+    "date": "2026-10-01",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "AT&T and Corning partner to expand fibre across the US - Capacity Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1RKZ0hXb09tdGx1bXo2WHpPeVdoVG5NWTdBWVBvYmtqSmtUNXQweDRFcTVOTE0yQjlHU2xMaUdMNGVZa1dRUjFUQkxhZmNBYzRSaThjS3pYTkY2WHNheF9hb010Uko0M0o4YTV0ME",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1RKZ0hXb09tdGx1bXo2WHpPeVdoVG5NWTdBWVBvYmtqSmtUNXQweDRFcTVOTE0yQjlHU2xMaUdMNGVZa1dRUjFUQkxhZmNBYzRSaThjS3pYTkY2WHNheF9hb010Uko0M0o4YTV0MERaNWtuMWYxanl4S3hScFBPT0pZQTJlWE9WVHlyQ3Y3dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-09-30-001",
     "date": "2026-09-30",
     "companies": [
@@ -1397,6 +1711,24 @@
     ]
   },
   {
+    "id": "jdi-2026-09-30-025",
+    "date": "2026-09-30",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Japan Display to Sell Mobara Plant to Shinko Electric, ¥51.4 Billion Gain to Eliminate Negative Net Worth - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBwSUZsYTZTckRzTWFTU1Q1ckhjU3pZWC16eF95UmNVZWd0RmpvT050bGk4VmQwN0ZkM3JmVUtSNm1sVC12ZVo0TTBub1YxZkp5ajFHMm5OeWQ1NElxZzlJUHQ2MGRSZi10bXUtTnF3NF",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwSUZsYTZTckRzTWFTU1Q1ckhjU3pZWC16eF95UmNVZWd0RmpvT050bGk4VmQwN0ZkM3JmVUtSNm1sVC12ZVo0TTBub1YxZkp5ajFHMm5OeWQ1NElxZzlJUHQ2MGRSZi10bXUtTnF3NFlNLVdnb3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-09-29-001",
     "date": "2026-09-29",
     "companies": [
@@ -1780,6 +2112,24 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xd2lSOHpZblpxeGdYeUF5NEpOUC05Z2V0ZW9oZjItdllPd1JwOHNRT056dnBQQkFFc0pSTDNFTGI1T1JWTkFSTVZzRHljNEJkZ1c1MjgtNHFTdG5BQ01mSTZkeHYyY2lrQVQ1Q2Q0cl8yM2hoUWtiMTZJcURydw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-09-29-022",
+    "date": "2026-09-29",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning stock rises on $3B AT&T fiber deal - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSTNMZElUdWJMWGNxNGRvTk8ya2tZb05LMDhTODN1aFpEZ0hJUnUwNzduWm5rYXdSNmdEYnBndkwxTFdNd3BTWUtQN1QtU09PSW5Qd1BTdHB2WWNJaHc4VWVzZU81YnRlai1DZWFnTn",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSTNMZElUdWJMWGNxNGRvTk8ya2tZb05LMDhTODN1aFpEZ0hJUnUwNzduWm5rYXdSNmdEYnBndkwxTFdNd3BTWUtQN1QtU09PSW5Qd1BTdHB2WWNJaHc4VWVzZU81YnRlai1DZWFnTnVaanpRYVpIUkk4TkdfNzM0dGpQZFRMVnFjdFRDckxrb08yMGs?oc=5",
         "type": "rss"
       }
     ]
