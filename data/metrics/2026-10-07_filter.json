@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 25,
+  "gate2_fail": 22,
+  "passed": 16,
+  "gate2_samples": [
+    "Bronstein, Gewirtz & Grossman, LLC Is Investigating Corning Incor - The National Law Review",
+    "Why Corning (GLW) Stock Is Up Today - Quiver Quantitative",
+    "Corning Inc Stock (GLW) Moved Up by 4.18% on Oct 6: A Full Analysis - TradingKey",
+    "Leaders from Corning, General Motors Join Manufacturing Leadership Council Board of Governors - Qual",
+    "Corning stock pre-market at EUR 149.67: minus 0.37 percent - AD HOC NEWS"
+  ]
+}

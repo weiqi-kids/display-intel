@@ -1,0 +1,284 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T15:04:57.488575Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-10-07-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display stock faces a weaker third-quarter profit outlook - AD HOC NEWS",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb2V4eU1Da3V1T1BQMV9TaWVwOFJmUjhHc0RwVGsycE9ETm93dG1kdXFWQnNDT3YxRGtqSjRjTXUwWjhwS24zMTNMZDR4Q0dKUlNSZkg0MmdoaFBqbXFIc3Q0a0N0bmVCc0RUd2hES2pqbkJ4MGptVUJlNHFpbkN5djVTYXd5eldaVmllOXRqenVRa3pweVdzU2FmMkllZEtGTE1OUy1ocDJSSVRmMVY0NW80OERUVURVWlJN?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-10-07-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Spotlight on LG Display - the WOLED pioneer, Apple's second OLED supplier, and its new bet on maskless OLED production",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/spotlight-lg-display-woled-pioneer-apples-second-oled-supplier-and-its-new-bet"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-10-07-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Shinhan cuts target for LG Display stock to KRW 13,000.00 - AD HOC NEWS",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaUxOYXE3UjZ4N1YwSWxzU0hUWHFFSGl6a1d4c2pKaHdjRDhIVjhIN1NYVTFNU2ZUWDNGY3ZSSkZOX3BjVDRqd3pwel9RMlpaWmwxcG9TQnVadnRRbG1acFlqM1RqaFRaNjRpMW55OVhvYl95NDk3YnFJbWliRnV2djBRcU1RMGh1SGFJVnlvc3dqT2VLZGxfMU81WGZHMTlvZFN0MzE0LUs4ZnZOYTVuRUMzUjRUTk0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tcl-2026-10-07-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "TCL Takes Samsung To Court Over What Really Counts As A Mini-LED TV - ChannelNews.com.au",
+      "companies": [
+        "tcl",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automotive_display"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWkItM1NqbUZGRE1aUXVyejFTaHRfMUpFaG1iWElkZDU4SFhIWmRmaHJvbWpINVpneE43V0VvYmZwVnc0WUVnMUlqU3Z5eWxvQmlyQ1ZCaFNscWhZVlFKNV85c19FOUFfVzdydl9tRTJHbEU4T3UxOWpTZGRGY2pWdW5GSFpiOGRVYWhUdjZ5bFR5ZVFyOUcwbndNZ2R3eTZZ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_elec-2026-10-07-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "LG vs Samsung 55-inch TVs: Which one should you pick when prices drop in the Amazon sale? | Technology News\n(HT Tech) - Hindustan Times",
+      "companies": [
+        "lg_elec",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUDlpYWpBdkI1QVNYRmxaaFNGSG8xZGhoMUEzcTBYMGZvOW4wUU5pd0RBV1ZZR2ViSnE3ZTJBZ2R6MEFoSHRTVHQ5OFQ5aFo2QzYxVHkzOUhFVVJUNEVqdml4aDkyWFdFcnVVcU5DSm1Oa25UME5NUENZdjRxNEVMQ0dVaEZqVHhpX2l0UjJBeW91VGl1ZWNtNzl5MXZzSDVCRlZfOVdTU2E1SmdpX0JseWV2THMzRG1sQTdXai14a0dEbEp2VWxQV0FBNXB6SGZISW1udXpROVktWldJbWVKRWh0S0XSAeoBQVVfeXFMUE9tc1Y0d3JGUXY5U2VNZS1FSTNROW8tX2tPY1ZXUmUyQkNpNnZmdmV4Zk9PTFQtR0lRdEZDSDBmWEZtRE9CNlo1SzZEMkxpQ2RSVDVXaGR1Y3RLYnFWLWpwUk1wYjlvWG5KbkY5RnYwdHc3eWRPcWF1MnlZSjd1YjNpNWc3TURQZDh4VUxJZnJDcWY5eF8tRDI0UmhJLWt1NWRRUmdmZWxBdHhjYlIyTFZ6X1FJVDVTMUNfb1VyYTdSaVdYaGM1M0ZORy10cEFxVXc1cVNQc3FFUV9ZZWZnRFAwVmlkWnl1T0t3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 5
+      },
+      {
+        "id": "lg_display",
+        "count": 3
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "himax",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 113,
+    "too_old": 174,
+    "gate1_blocked": 25,
+    "gate2_blocked": 22,
+    "passed": 16,
+    "pass_rate": "6.8%",
+    "gate2_block_rate": "9.3%",
+    "gate2_samples": [
+      "Bronstein, Gewirtz & Grossman, LLC Is Investigating Corning Incor - The National Law Review",
+      "Why Corning (GLW) Stock Is Up Today - Quiver Quantitative",
+      "Corning Inc Stock (GLW) Moved Up by 4.18% on Oct 6: A Full Analysis - TradingKey",
+      "Leaders from Corning, General Motors Join Manufacturing Leadership Council Board of Governors - Qual",
+      "Corning stock pre-market at EUR 149.67: minus 0.37 percent - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為LG電子、LGD、三星電子相關動態：「LG Display stock faces a weaker third-quarter profit outl...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LG Display stock faces a weaker third-quarter profit outlook - AD HOC NEWS（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Spotlight on LG Display - the WOLED pioneer, Apple's second OLED supplier, an...（OLED 滲透率、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
