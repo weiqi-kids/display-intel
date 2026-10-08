@@ -1,0 +1,16 @@
+{
+  "total_raw": 359,
+  "dup_title": 118,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 29,
+  "gate2_fail": 20,
+  "passed": 16,
+  "gate2_samples": [
+    "Corning Inc Stock (GLW) Closed Down by 3.39% on Oct 7: What Signal Does It Send? - TradingKey",
+    "Why Corning (GLW) Stock Is Up Today - Quiver Quantitative",
+    "Bronstein, Gewirtz & Grossman, LLC Encourages Corning Incorporate - The National Law Review",
+    "Corning Surges 93% Year to Date: How to Play the Stock - Yahoo Finance Singapore",
+    "Corning Inc Stock (GLW) Moved Up by 4.18% on Oct 6: A Full Analysis - TradingKey"
+  ]
+}

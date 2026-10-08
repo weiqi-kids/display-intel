@@ -1,0 +1,283 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T15:13:18.524354Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-10-08-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "What LG Display Holders Got Wrong Before The Slide - Simply Wall Street",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQnVMSGdjLWJRT0tZeHNhUk9rRWNMeEFHSmotcUxmUUVBdXVHSDRPclhweldlbHVFZEczQ1RSQ2d1MTdhVU91VTZtTVF3N2RRRDI4ZFJ5clJvUFpudFhCRmFsT2RCZWdjdXNnMUpZOW01YWxhWnZLTWpSVGcxSGFtTE1nb1A0cmloV3hsc3JXdXRsSXNjYmpmT2xTZGk4ZlFMazNKSW1JR3FwVUlSZTVIZldpMWFydUFuVWFqc3JpX1jSAcYBQVVfeXFMTmFYcDJvcmJOSWRqZlpfZ3Jvc3pwVGpadXJEdlItNjVNS09UcER4Q01SNUNRbGxHYnBwYmNCcGxEX2dPX0llN1VMUEQzS1RjUnJ6cHd0ZUFGVm8xRXlKVTROMWxzMUM2U3ZkajFPTkd6cnJlRlNoMDhwa2hpSjctNGFOc1VFVmZfaWE2YldwYmR3THpBck5Wd0FmUzBZQnNvSnM3TWhRa2ZKUHNjYzVCa0M5Tl9VbWhIaG54bnpQV1VQWnZKR1pR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-10-08-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "South Korea's LG Display Target Price Cut to ₩12,500 on Triple Whammy of FX, Panel Prices, Demand - BigGo Finance",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "panel_price"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44RjVrNFNPOWRlUXNFQlZVa21tMlF1LVBvNGItcnRZc1hHek92TjBpZ0xtbG1WV2FvaHd3V3d1SlJVck9zN3VyWEMwVWQtZEo3bVN2SW5rVnIyWGl6bHg5SDBFMjVSTjhXdWl3NkpPNk1sNjdRdEE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-08-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Ledlink hits record revenue as automotive optics and AI server components fuel growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20261008PD225/automotive-revenue-growth-ledlink-optics-lighting.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-08-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "TSMC's third-quarter revenue rises 51% to NT$1.49 trillion as September sales stay near record",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261008VL218/tsmc-revenue-2026-2025-digitimes.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-10-08-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Samsung to exit in-house automotive AP, focus on high-margin chips",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20261007PD249/samsung-lsi-automotive-ap-exynos.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "panel_price"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 3
+      },
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "lg_display",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "panel_price",
+        "count": 2
+      },
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 359,
+    "dup_title": 118,
+    "too_old": 176,
+    "gate1_blocked": 29,
+    "gate2_blocked": 20,
+    "passed": 16,
+    "pass_rate": "6.6%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "Corning Inc Stock (GLW) Closed Down by 3.39% on Oct 7: What Signal Does It Send? - TradingKey",
+      "Why Corning (GLW) Stock Is Up Today - Quiver Quantitative",
+      "Bronstein, Gewirtz & Grossman, LLC Encourages Corning Incorporate - The National Law Review",
+      "Corning Surges 93% Year to Date: How to Play the Stock - Yahoo Finance Singapore",
+      "Corning Inc Stock (GLW) Moved Up by 4.18% on Oct 6: A Full Analysis - TradingKey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為LG電子、三星電子、LGD相關動態：「What LG Display Holders Got Wrong Before The Slide - Simp...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "What LG Display Holders Got Wrong Before The Slide - Simply Wall Street",
+        "level": "red"
+      },
+      {
+        "text": "South Korea's LG Display Target Price Cut to ₩12,500 on Triple Whammy of FX, ...（面板價格）",
+        "level": "red"
+      },
+      {
+        "text": "面板價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
