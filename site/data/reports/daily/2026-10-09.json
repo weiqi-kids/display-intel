@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T14:58:35.503973Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-10-09-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "BOE shipped 13 million smartphone OLED panels to Apple in Q3 2026, starts verification tests to supply panels for the upcoming iPhone 18",
+      "companies": [
+        "lg_elec",
+        "boe",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec",
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "boe"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.oled-info.com/boe-shipped-13-million-smartphone-oled-panels-apple-q3-2026-starts-verification"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-09-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Innodisk, Apacer post September 2026 revenue growth on AI demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20261007PD243/apacer-innodisk-memory-module-revenue-demand-2026.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-09-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Advantech tops US$1 billion in third-quarter revenue as edge AI orders climb",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20261007PD245/advantech-revenue-growth-2026-taiwan.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-09-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "WinWay tops NT$10 billion in revenue as AI demand lifts third-quarter results",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261007PD247/revenue-demand-2026-sales-shipments.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "novatek-2026-10-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novatek reported 25.00 percent revenue growth: Novatek stock sits 12.38 percent below its high - AD HOC NEWS",
+      "companies": [
+        "novatek"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRjZEOWpJamR5ZzBGVDZ0ZThQa1E0ei00ZHhVTTVDSjB6YnpTMEVJb284SXlhVHFDR1JibkVLWUFBRnlTVnVUQjYwODJWQmYwcEdTUDAtcUtoSUw3NVo2eDVpcjVPVGN3eTRDaFg2a2xYWG95TXZRaHFxMjcwSHlTU3h1ZVpqN0pKUExpVWpmTERtRjBzVDBLcVJrS3VZX0JhemNUbUVLWGJ6dGlCZ1RoM2h2bU5JU3M5ZktJaXkzRDlZUXlOazVsQS1kVXEzZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.42,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_elec",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 4
+      },
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "boe",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "novatek",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "oled_penetration",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 120,
+    "too_old": 177,
+    "gate1_blocked": 36,
+    "gate2_blocked": 18,
+    "passed": 18,
+    "pass_rate": "7.2%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "Why Corning (GLW) Stock Is Up Today - Quiver Quantitative",
+      "Bronstein, Gewirtz & Grossman, LLC Encourages Corning Incorporate - The National Law Review",
+      "Corning Inc Stock (GLW) Moved Down by 3.42% on Oct 8: A Full Analysis - TradingKey",
+      "Corning Surges 93% Year to Date: How to Play the Stock - Yahoo Finance Singapore",
+      "Corning Inc Stock (GLW) Moved Up by 4.18% on Oct 6: A Full Analysis - TradingKey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為LG電子、三星電子、BOE Technology相關動態：「BOE shipped 13 million smartphone OLED panels to Apple in...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BOE shipped 13 million smartphone OLED panels to Apple in Q3 2026, starts ver...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Innodisk, Apacer post September 2026 revenue growth on AI demand（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

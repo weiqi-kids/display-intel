@@ -1,5 +1,271 @@
 [
   {
+    "id": "corning-2026-10-09-001",
+    "date": "2026-10-09",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning stock declares USD 0.28 quarterly dividend; pre-market at EUR 138.67, plus 1.23 percent - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPM3c4SFlaRHVhWHg1bHNjbFdtcG9DZ214M0gyRWNacEtIb203ODR4VTg4XzNrLXpQMmw5R3RtNnU4RUNTeGV1LWVYNW5weVdVZmZnU2RfcFVabFlMRmNINkZRaHV3dl9TeldERFZVU2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM3c4SFlaRHVhWHg1bHNjbFdtcG9DZ214M0gyRWNacEtIb203ODR4VTg4XzNrLXpQMmw5R3RtNnU4RUNTeGV1LWVYNW5weVdVZmZnU2RfcFVabFlMRmNINkZRaHV3dl9TeldERFZVU2xmQUpwUVhrWVpXUUVPSjQ3dVR6ZGl5Z2t6d2xocGJKV3NUb0kwWndyVTVyeS1xb2RSZ3REanJ1X1BjWV9SVmtOa1h1LXMyRmhSSE1wODVZVjBid29R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-10-09-002",
+    "date": "2026-10-09",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Novatek reported 25.00 percent revenue growth: Novatek stock sits 12.38 percent below its high - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQRjZEOWpJamR5ZzBGVDZ0ZThQa1E0ei00ZHhVTTVDSjB6YnpTMEVJb284SXlhVHFDR1JibkVLWUFBRnlTVnVUQjYwODJWQmYwcEdTUDAtcUtoSUw3NVo2eDVpcjVPVGN3eTRDaFg2a2",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRjZEOWpJamR5ZzBGVDZ0ZThQa1E0ei00ZHhVTTVDSjB6YnpTMEVJb284SXlhVHFDR1JibkVLWUFBRnlTVnVUQjYwODJWQmYwcEdTUDAtcUtoSUw3NVo2eDVpcjVPVGN3eTRDaFg2a2xYWG95TXZRaHFxMjcwSHlTU3h1ZVpqN0pKUExpVWpmTERtRjBzVDBLcVJrS3VZX0JhemNUbUVLWGJ6dGlCZ1RoM2h2bU5JU3M5ZktJaXkzRDlZUXlOazVsQS1kVXEzZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-09-003",
+    "date": "2026-10-09",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Electronics says it supplies the OLED displays to the Genesis GV90, but is it using SDC's panels - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMS1TNmVIOUVuWkptNDJwd0NwejR5UnRaSk15Tk9vRC1sUkZ3UnJuVTFJMGE2cEV0Zk1kUDNzYkoteWRzS3ZFa0dCTkUtTElfM2FxRmNiNVNNOTRuZ0tqQVBVRFBOUTJPdnF4WE9wRF",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMS1TNmVIOUVuWkptNDJwd0NwejR5UnRaSk15Tk9vRC1sUkZ3UnJuVTFJMGE2cEV0Zk1kUDNzYkoteWRzS3ZFa0dCTkUtTElfM2FxRmNiNVNNOTRuZ0tqQVBVRFBOUTJPdnF4WE9wRFRpeFNJNnRnOFNqeW1JR3RSVXB0cXhxSnlrNDhyUGNjeExvSXlrMnBZV3dOR1VKenBqcjI0aDVBS3k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-09-004",
+    "date": "2026-10-09",
+    "companies": [
+      "lg_elec",
+      "samsung_elec",
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "TCL Takes Aim At Samsung And LG As OLED Monitor Prices Continue To Fall - ChannelNews.com.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHk1YlprNU1tWVJLRU1TaU45eXBSYlJxTDZhRVNSY2JPTGU1X3Brc2lsaGxCTDZyWjd2djRtcklSa18yRnJHLWVJNzFtbnhLZENfNzQ3NUZZNnVDVGpQX3JtNHdZVE1RbjRQQndUZ2",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHk1YlprNU1tWVJLRU1TaU45eXBSYlJxTDZhRVNSY2JPTGU1X3Brc2lsaGxCTDZyWjd2djRtcklSa18yRnJHLWVJNzFtbnhLZENfNzQ3NUZZNnVDVGpQX3JtNHdZVE1RbjRQQndUZ2lrU180S0VMdkQzR2NVQlo2QXFwSDRhdWNuei1qR0dYSmRWZy03UnVfeEFGU3JhcGgwSWZXbHZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-10-09-005",
+    "date": "2026-10-09",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ESWIN Computing lists in Hong Kong at HK$32.6B as BOE founder lands third IPO - Dealroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzk2ZnRNVlpVNFNYUVM4cEk0QjZIUFlQN2JDSjdiREdfQmh0SWhVdjRWTHFTUTdOWUQ1cTJCZjRDcnRqSTZhUFpFNWs2d3A1S3B0X2ZrRDlYZ0VSbkxKRlltcmZfOXRUV3JjZF8ybW",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSzk2ZnRNVlpVNFNYUVM4cEk0QjZIUFlQN2JDSjdiREdfQmh0SWhVdjRWTHFTUTdOWUQ1cTJCZjRDcnRqSTZhUFpFNWs2d3A1S3B0X2ZrRDlYZ0VSbkxKRlltcmZfOXRUV3JjZF8ybWVqc3JoYktMejdza3FIU0NCdklqMzRGQXVpWlA5bkl5SmFWN1NuUjlOYUtiTzFxOXRQNVhxeHA1Mnl2RVk1T0x0WQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-09-006",
+    "date": "2026-10-09",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Electronics says it supplies the OLED displays to the Genesis GV90, but is it using SDC's panels",
+    "summary": "<p>In August 2026 Genesis <a href=\"https://www.oled-info.com/genesis-introduces-its-flagship-gv90-ev-suv-sliding-246-main-oled-display\">introduced its flagship GV90 EV SUV</a>, based on its new eMP pl",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/lg-electronics-says-it-supplies-oled-displays-genesis-gv90-it-using-sdcs-panels",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-09-007",
+    "date": "2026-10-09",
+    "companies": [
+      "lg_elec",
+      "boe",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "BOE shipped 13 million smartphone OLED panels to Apple in Q3 2026, starts verification tests to supply panels for the upcoming iPhone 18",
+    "summary": "<p>According to UBI Research, in the third quarter of 2026, BOE shipped 13 million smartphone OLED panels to Apple, for the iPhone 14, 15, 16 and 17 series. BOE's B11 factory, which is mostly dedicate",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/boe-shipped-13-million-smartphone-oled-panels-apple-q3-2026-starts-verification",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-008",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "MediaTek 3Q26 revenue beats forecast, maintains peak-season momentum",
+    "summary": "MediaTek reported its September and third-quarter 2026 revenue results, with September revenue of NT$55.40 billion (approx. US$1.74 billion), down 13.69% from the previous month and up 1.97% from a ye",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261008PD255/mediatek-revenue-forecast-2026-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-09-009",
+    "date": "2026-10-09",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung HBM4E wins NVIDIA nod for AI accelerator push",
+    "summary": "Samsung Electronics' next-generation 12-layer HBM4E product, a type of high-bandwidth memory (HBM), has reportedly cleared customer quality validation from Nvidia and major hyperscale data center oper",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261008PD231/samsung-hbm-production-data-data-center.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "applied_materials-2026-10-09-010",
+    "date": "2026-10-09",
+    "companies": [
+      "applied_materials"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Applied Materials, Intel target AI chip bottlenecks with interconnect scaling and Foveros 3D",
+    "summary": "AI chip manufacturing demands are accelerating development of advanced logic and packaging technologies, prompting Applied Materials and Intel to expand their collaboration on next-generation transist",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261007PD242/applied-materials-intel-ai-chip-manufacturing-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-011",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Innodisk, Apacer post September 2026 revenue growth on AI demand",
+    "summary": "Memory module makers Innodisk and Apacer both reported year-over-year and month-over-month revenue growth for September 2026, supported by steady demand from industrial control, edge computing and AI ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261007PD243/apacer-innodisk-memory-module-revenue-demand-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-012",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Ample revenue slips in September as passive component demand stays strong",
+    "summary": "<p>Ample Electronic, a supplier of conductive paste materials for the passive components industry, reported September 2026 revenue of NT$304 million (approx. US$9.6 million), down 0.4% from August but",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261007PD244/passive-ample-electronic-revenue-supplier-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-013",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Advantech tops US$1 billion in third-quarter revenue as edge AI orders climb",
+    "summary": "Advantech reported on October 7 that third-quarter consolidated revenue reached NT$32.44 billion (approx. US$1.02 billion), a record high as demand for edge AI, semiconductor equipment, and robotics s",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261007PD245/advantech-revenue-growth-2026-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-014",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "WinWay tops NT$10 billion in revenue as AI demand lifts third-quarter results",
+    "summary": "Semiconductor test interface maker WinWay Technology said AI and high-performance computing (HPC) demand, along with production-efficiency gains on some lines, drove shipments higher in 2026. The comp",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261007PD247/revenue-demand-2026-sales-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-10-08-001",
     "date": "2026-10-08",
     "companies": [
@@ -224,6 +490,64 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20261007PD249/samsung-lsi-automotive-ap-exynos.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-08-013",
+    "date": "2026-10-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning Incorporated's Q3 2026 Earnings: What to Expect - inkl",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXBDaV9fbkdPOF9UOTBuV1d3bjBxVjFfZ0FCLVRlT2RJRlk1VDliZGRoR0NyTEpYMjh0MFN3WmpTbDR0R09VNDJoWVhaYnQ3U21kckg5aDdIekEyczJ1cVRaVnFPdFN4bWsxS2ViYX",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXBDaV9fbkdPOF9UOTBuV1d3bjBxVjFfZ0FCLVRlT2RJRlk1VDliZGRoR0NyTEpYMjh0MFN3WmpTbDR0R09VNDJoWVhaYnQ3U21kckg5aDdIekEyczJ1cVRaVnFPdFN4bWsxS2ViYXlNRGlINGFtRWphOHNrR1FIeTFoelo0UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-10-08-014",
+    "date": "2026-10-08",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies Inc (HIMX) Shares Fall 5.9% -- GF Value Says Still Overvalued - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNTmxvNlZUeGpUWjAzbkRqTXVETmdTdFVWbUVkR2szRjNSekFNMXJVRVBlcVhMc1NrenlLdzhORWc0MjRNZDh5QzFaRkIzSGdfSEhTNmcycUJPY2hIX25BSjJuQ3BaVkt6SDJhMnpLcm",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTmxvNlZUeGpUWjAzbkRqTXVETmdTdFVWbUVkR2szRjNSekFNMXJVRVBlcVhMc1NrenlLdzhORWc0MjRNZDh5QzFaRkIzSGdfSEhTNmcycUJPY2hIX25BSjJuQ3BaVkt6SDJhMnpLcmJWNWFfNmg4S3RqMVN3SVk2OENXWC03TTNhOTV2XzFscFl2QzRaUnY3SDJXRVdpSjF0UWR0Y2J0YW9reUtiaFAyQ0NR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-10-08-015",
+    "date": "2026-10-08",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Japan Display Inc. R (1J4.DU) Q2 FY2025 earnings call transcript - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNREE2Q2xVU0F5N3NGdnJpcUUyWUZJZ2M3SFdMbXVKNmR1c0pVbE5uOVlDRmhhQjNCZVZIMHF4VS1WeFhsc19rNkxWdFdCQWNVZ3AyYnBuQlhwdUZDMEJzYzZPSEszbU5ucTE1MlRIWT",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREE2Q2xVU0F5N3NGdnJpcUUyWUZJZ2M3SFdMbXVKNmR1c0pVbE5uOVlDRmhhQjNCZVZIMHF4VS1WeFhsc19rNkxWdFdCQWNVZ3AyYnBuQlhwdUZDMEJzYzZPSEszbU5ucTE1MlRIWThwd0pBQXk2TFRpQWRxd3ZDRER4SzRUZ3NPSXlDbmNCcXhha3M?oc=5",
         "type": "rss"
       }
     ]
@@ -472,6 +796,24 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/kaist-researchers-develop-transparent-oled-glasses-attempt-and-treat-alzheimers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-07-014",
+    "date": "2026-10-07",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Declares Quarterly Dividend, Payable on December 11, 2026 - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQWG9iY19xc2QtRkRrQWI5aGFHRXlfc3hEdm40LUVLSlF5YVZCMjRCMUxoc2VpRnl1TEdYYW0wblJoN0pDVmk2dlJpaUoxM3B0djdEdE9NcDhwOVZiWGV5TFlsUVh1NGZTeFQxVGtLaX",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWG9iY19xc2QtRkRrQWI5aGFHRXlfc3hEdm40LUVLSlF5YVZCMjRCMUxoc2VpRnl1TEdYYW0wblJoN0pDVmk2dlJpaUoxM3B0djdEdE9NcDhwOVZiWGV5TFlsUVh1NGZTeFQxVGtLaXZiekt5emZ5LVdSR245eDdzQ0QtM1poNXVFalM2bjdaNnpPcGxGVlMxQktmZVhiMlg4Vk9zcEJRSFNYT2k1ZlB2MlJxU0JWNHc?oc=5",
         "type": "rss"
       }
     ]
