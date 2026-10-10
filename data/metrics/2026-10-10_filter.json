@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 175,
+  "gate1_fail": 37,
+  "gate2_fail": 24,
+  "passed": 7,
+  "gate2_samples": [
+    "Corning faces securities fraud probe after stoc... - Pluang",
+    "Bronstein, Gewirtz & Grossman, LLC Is Investigating Corning Incor - The National Law Review",
+    "Why Corning (GLW) Stock Is Up Today - Quiver Quantitative",
+    "Corning Inc Stock (GLW) Moved Down by 3.42% on Oct 8: A Full Analysis - TradingKey",
+    "Corning Incorporated (GLW) latest stock news and headlines - Yahoo Finance UK"
+  ]
+}

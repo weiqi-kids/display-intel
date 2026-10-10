@@ -1,5 +1,82 @@
 [
   {
+    "id": "boe-2026-10-10-001",
+    "date": "2026-10-10",
+    "companies": [
+      "boe",
+      "samsung_elec"
+    ],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "negative",
+    "title": "165Hz high-refresh screens become the new smartphone battleground as BOE and Samsung Display team up with device makers to offset panel price pressure - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE16SlVJYzEtRkJNS2xhR1dXdlo5Z0hDZzctM215WURnSjVydFJURkpPMjFTZzg4Z2tOejk1VkwxTXJXMjAzbTlLYzc2SzRjRWlQbFRQZ2RISmJuWnlxcENBVUtvSmZKNU5yb1FSWU1zVG",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16SlVJYzEtRkJNS2xhR1dXdlo5Z0hDZzctM215WURnSjVydFJURkpPMjFTZzg4Z2tOejk1VkwxTXJXMjAzbTlLYzc2SzRjRWlQbFRQZ2RISmJuWnlxcENBVUtvSmZKNU5yb1FSWU1zVGpkdmVrTHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-10-002",
+    "date": "2026-10-10",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Pictiva Displays and Samsung settle their two OLED patent disputes",
+    "summary": "<p>In 2025, <a href=\"https://www.oled-info.com/pictiva-displays\">Pictiva Displays</a> sued Samsung Electronics in the Texas Federal Court, saying that the Korean company infringes two of its US patent",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/pictiva-displays-and-samsung-settle-their-two-oled-patent-disputes",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-10-003",
+    "date": "2026-10-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Phison posts record September revenue as AI tops half of sales",
+    "summary": "Phison Electronics reported record September consolidated revenue of NT$30.639 billion (US$959 million), up 8% from August and 370% from a year earlier. The Taiwanese storage chipmaker said AI-related",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261008PD250/phison-revenue-demand-data-medical.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-10-004",
+    "date": "2026-10-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Zhen Ding posts record September sales on mobile demand and AI applications",
+    "summary": "Zhen Ding Technology said September 2026 consolidated revenue reached NT$26.358 billion (US$825.13 million), up 36.13% year over year and 27.54% from August, setting a monthly record. The PCB maker sa",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261008PD249/zhen-ding-revenue-mobile-2026-communications.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-10-09-001",
     "date": "2026-10-09",
     "companies": [
@@ -261,6 +338,44 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20261007PD247/revenue-demand-2026-sales-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-10-09-015",
+    "date": "2026-10-09",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax (HIMX): Buy, Sell, or Hold Post Q2 Earnings? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQcUpvc3NORk5PaWxZVUxfQkUzYkJtQ291b0taengxZmFMYUk1cE9BWEJyVHNEOElwM0Mtb3pFQkY2aVhTQUhNNDNCUlpMT0tySVBvSE5SUi1lSTFOUmtXamgwNE0yTG1jUi1STE5IS1",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcUpvc3NORk5PaWxZVUxfQkUzYkJtQ291b0taengxZmFMYUk1cE9BWEJyVHNEOElwM0Mtb3pFQkY2aVhTQUhNNDNCUlpMT0tySVBvSE5SUi1lSTFOUmtXamgwNE0yTG1jUi1STE5IS1FVLWJJNEpNemhKU09nQnJJd3NOVTkxaW1wc3Bjc1lKYVNodWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-10-09-016",
+    "date": "2026-10-09",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Japan Display Repays 10 Billion Yen Loan to Ichigo Trust - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNMWdKUVJhdXEyS0pvbzU4S2dfZVhwVlJwclhBWGdEYk83WlBlRW1Bd2pTOUxiWS1BNVhCOUtCc3JrLVVZZC1UZWxPYXlGNDBDVXh3MHF2cjB0cGJ2MVZMSUJvNnNEUGo0bHJUUW1yM1",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMWdKUVJhdXEyS0pvbzU4S2dfZVhwVlJwclhBWGdEYk83WlBlRW1Bd2pTOUxiWS1BNVhCOUtCc3JrLVVZZC1UZWxPYXlGNDBDVXh3MHF2cjB0cGJ2MVZMSUJvNnNEUGo0bHJUUW1yM1FfY24yVXRfY3dUV0hjMnRfZzRIenQ2VWllVExlRUlId0F3dkY0TjdSbTZhbE1fTTE0dFE?oc=5",
         "type": "rss"
       }
     ]
@@ -548,6 +663,26 @@
       {
         "name": "jdi",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNREE2Q2xVU0F5N3NGdnJpcUUyWUZJZ2M3SFdMbXVKNmR1c0pVbE5uOVlDRmhhQjNCZVZIMHF4VS1WeFhsc19rNkxWdFdCQWNVZ3AyYnBuQlhwdUZDMEJzYzZPSEszbU5ucTE1MlRIWThwd0pBQXk2TFRpQWRxd3ZDRER4SzRUZ3NPSXlDbmNCcXhha3M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-08-016",
+    "date": "2026-10-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning Incorporated's Q3 2026 Earnings: What to Expect - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmZFTDltYkg5Um5rZzM4ZHI0Z2FLaUZuNnZiWEhSV1ZzRFhYa0RnTnVfcms0eEFvZklyTldZQTdiVmVMcnZEMVpDNV9VUF9vc0RtaHcyWHNmTUFuZEFienk1VFBSaWUxSnctckpLdE",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMmZFTDltYkg5Um5rZzM4ZHI0Z2FLaUZuNnZiWEhSV1ZzRFhYa0RnTnVfcms0eEFvZklyTldZQTdiVmVMcnZEMVpDNV9VUF9vc0RtaHcyWHNmTUFuZEFienk1VFBSaWUxSnctckpLdEs5RGpfWi1TcE1MM1hKNDVscjY0TXNEZFVzeld1ZFdYQmhHX19kSEtHRTVLazQ4X1JocVh0YkJn?oc=5",
         "type": "rss"
       }
     ]
