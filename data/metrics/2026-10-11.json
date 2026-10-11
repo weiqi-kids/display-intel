@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-11",
+  "total_events": 14,
+  "by_company": {
+    "lg_display": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 10,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "novatek": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "it_panel_demand": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.42
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 9,
+      "topics": [
+        "it_panel_demand",
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "lg_elec",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ]
+}

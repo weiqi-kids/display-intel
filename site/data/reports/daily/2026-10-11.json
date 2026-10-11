@@ -1,0 +1,285 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:38:32.914936Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-10-11-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display's FLiPP Overcomes OLED Size, Resolution Constraints - 조선일보",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzJjZUhFd3lTVUFZeTVpWFVfZTBCbmZpTjBKdUtpVnVZYzZhRTh1RkRkM2RJdkxWOGNNa2RuNVFjeHZ2TzQyWmc2NGNfZTdXSHJmWG1ieWZKTnVaRXZhYmp1WjhJY2syWEM5c0JTV2xTMHlPMXZWZkh6WVpqd3lDSy1zaXE1U1dI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_display-2026-10-11-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Unveils FLiPP, Eliminating Fine Metal Masks — 24% Productivity Gain, Scalable to 100 Inches - BigGo Finance",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLYklhbEptWmJLMG5LY2VWNVQweGJHenVUNVJwWXBLXy1qenQ3U2JYN1RrZV9KUkRzRmRzSXZuWkxhRjRuWWgzSUdnSTFLb1hoVjNUdGtRZXhkNjFNSGlYVnh5dXZ0Z1VndFkzWGVPUnlyZkoxdUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_display-2026-10-11-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display’s bold move: Making OLED using semiconductor technology - 매일경제",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtdThUQ3VSTVR1UlAwdXBwVnhfZXJEeDhYVFd3SVdxalh2SE05aTJkTHRQTmJnYkMxSzUzVFZVZk9qSTZYMlR5UDZmX2NlOFJhaGJj?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_display-2026-10-11-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Unveils New OLED Process, Lifting Output 24% - Seoul Economic Daily",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYWJUVW5oZGtNb1NRa0xMM3dyMU1kb0VSa3loeWpqWHhkZjZWdjhKYWwyZ2dhZmV4TGhjZUd5TlY5THJuVUhDSEFFdzE5WkZhNFZZajNkZFRscTAzcHdrNEs2LXczQTl4VkpmZWxZWUxQUWd3dEJuS0RfcUVMenJsWjVHQ1AzMUphUW5CU1o4dmloRlJIa3NVX3p5RQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_display-2026-10-11-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display develops 'FLiPP' OLED process without cutting glass substrate, seeks first use in IT panels - 디지털투데이",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration",
+        "it_panel_demand"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbjdwc1pzcVFHS0JxanlwS1BWbDlfTFJDdkRzQVVuLWJWdlRkRV9kdjNyOXZaTTM5RG51N2hRbVdLbXZJekp6WGtGR0JUeWNyYVhqaklWS1lPUEZIdTQzWE82M1NoN2pfNFdvbWo4NUVmVkVXSUlhWDBiSGtiNWhaaDczcnhYY1ljdlE5Ty01MlFMN0d3cVFBMEVSVzcyNVBKWUFHaXZhcWloT3Q3a1J1MUQ4c2I4bFZvMlpNeHZDOFZtMlg2X05OVEExWU5FeGI3R2xZQmc4T1hiYlNwaWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.42,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 9,
+      "topics": [
+        "it_panel_demand",
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "lg_elec",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 10
+      },
+      {
+        "id": "lg_display",
+        "count": 9
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "novatek",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 113,
+    "too_old": 177,
+    "gate1_blocked": 39,
+    "gate2_blocked": 21,
+    "passed": 19,
+    "pass_rate": "7.4%",
+    "gate2_block_rate": "8.2%",
+    "gate2_samples": [
+      "Corning Inc Share Price - GLW, RNS News, Articles, Quotes, & Charts (NYSE:GLW) - Proactive financial",
+      "Corning faces securities fraud probe after stoc... - Pluang",
+      "Bronstein, Gewirtz & Grossman, LLC Is Investigating Corning Incor - The National Law Review",
+      "Why Corning (GLW) Stock Is Up Today - Quiver Quantitative",
+      "Corning Inc Stock (GLW) Moved Down by 3.42% on Oct 8: A Full Analysis - TradingKey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為LG電子、LGD、三星電子相關動態：「LG Display's FLiPP Overcomes OLED Size, Resolution Constr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display's FLiPP Overcomes OLED Size, Resolution Constraints - 조선일보（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display Unveils FLiPP, Eliminating Fine Metal Masks — 24% Productivity Gai...",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

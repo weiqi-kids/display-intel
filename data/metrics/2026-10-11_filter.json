@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 113,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 39,
+  "gate2_fail": 21,
+  "passed": 19,
+  "gate2_samples": [
+    "Corning Inc Share Price - GLW, RNS News, Articles, Quotes, & Charts (NYSE:GLW) - Proactive financial",
+    "Corning faces securities fraud probe after stoc... - Pluang",
+    "Bronstein, Gewirtz & Grossman, LLC Is Investigating Corning Incor - The National Law Review",
+    "Why Corning (GLW) Stock Is Up Today - Quiver Quantitative",
+    "Corning Inc Stock (GLW) Moved Down by 3.42% on Oct 8: A Full Analysis - TradingKey"
+  ]
+}
