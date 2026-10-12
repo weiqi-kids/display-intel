@@ -1,0 +1,16 @@
+{
+  "total_raw": 359,
+  "dup_title": 110,
+  "no_date": 0,
+  "too_old": 176,
+  "gate1_fail": 31,
+  "gate2_fail": 17,
+  "passed": 25,
+  "gate2_samples": [
+    "Lumentum, Astera Labs, and Corning to Demonstrate 1060 nm VCSEL-Based PCIe over Optics for AI Rack-S",
+    "Corning Inc Share Price - GLW, RNS News, Articles, Quotes, & Charts (NYSE:GLW) - Proactive financial",
+    "Corning faces securities fraud probe after stoc... - Pluang",
+    "Bronstein, Gewirtz & Grossman, LLC Is Investigating Corning Incor - The National Law Review",
+    "Why Corning (GLW) Stock Is Up Today - Quiver Quantitative"
+  ]
+}
