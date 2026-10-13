@@ -1,5 +1,182 @@
 [
   {
+    "id": "novatek-2026-10-13-001",
+    "date": "2026-10-13",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Novatek reports September growth: what it means for Novatek stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQRDdkRWZtX01ueWljNm42Q1dOSzVxZm0tdXhUb0QzRUJ0Vzh0VEdzOFVBUzhDNkFhVk5XclozT05QLXllcDNnWG1tbVVJQ2NZbVZtQlRaRml2Q0xDZTVpLVhGc1VKQ3JVZzI0TEt4Xz",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRDdkRWZtX01ueWljNm42Q1dOSzVxZm0tdXhUb0QzRUJ0Vzh0VEdzOFVBUzhDNkFhVk5XclozT05QLXllcDNnWG1tbVVJQ2NZbVZtQlRaRml2Q0xDZTVpLVhGc1VKQ3JVZzI0TEt4XzczUXlvMW9wUElENldPZjlsUkpfVEF6bmcycVZEMDM0Znc5VXo0VUpwMHllVDVOVWI4d1JUTzg1X0Etc29xT2ZFN21xT3NlUG5YOFdjdkdvck9BUjk0aHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-13-002",
+    "date": "2026-10-13",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display’s FLiPP: The Dream Technology Completed with OLED Leadership - LG Display Newsroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdF9RLWFIaDlhS3FmN2dfWnI2MUw3M3h0RlZKRE9nUXM2QmVzMXBabUx4Q3pQUHRHd01IQVFNQXFlNWM1Mm5DeEV1TUU3LW9BSUxFczZoU1ZPMXg5dlVTYmhHdWlmTWc0VGh4WEhmdT",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdF9RLWFIaDlhS3FmN2dfWnI2MUw3M3h0RlZKRE9nUXM2QmVzMXBabUx4Q3pQUHRHd01IQVFNQXFlNWM1Mm5DeEV1TUU3LW9BSUxFczZoU1ZPMXg5dlVTYmhHdWlmTWc0VGh4WEhmdThDcFE1RWM0Uk9wdl9YWjB6TmpiNWlKcHQ5Q3ZNVW9fLTRFVms0MDUyNEtGVkpRVnlJQ1dQSV9Xc3NGR0hF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-13-003",
+    "date": "2026-10-13",
+    "companies": [
+      "samsung_elec",
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung, LG Display reportedly supply OLED panels for seven Nvidia RTX Spark laptops - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUhTVmZOU3JrRVZCM29KZjVmWVdrMzNRVXBzdTZGTjA2Qml4QzRaUW80LVZ5OUJsZDAwRUxOdWdnVEtxbUwxeXItVkozdkVpbWFIWlNEcE85Z1Y4QkhlazlxUllDbUpsOXVlZW1HUm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUhTVmZOU3JrRVZCM29KZjVmWVdrMzNRVXBzdTZGTjA2Qml4QzRaUW80LVZ5OUJsZDAwRUxOdWdnVEtxbUwxeXItVkozdkVpbWFIWlNEcE85Z1Y4QkhlazlxUllDbUpsOXVlZW1HUmtsUVpGVmZWamFpUE04a3VOdDhTaEJBQm55U2szUng2WQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-004",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Charts: ASE tops NT$200B revenue in 3Q26 on AI OSAT demand",
+    "summary": "ASE reported September revenue of NT$88.13 billion (US$2.7 billion), up 7.15% month-over-month and 45.52% year-over-year, marking a record high for the third consecutive month. Third-quarter consolida",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261013PD249/revenue-ase-osat-forecast-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "innolux-2026-10-13-005",
+    "date": "2026-10-13",
+    "companies": [
+      "innolux",
+      "auo"
+    ],
+    "topics": [
+      "panel_price",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Taiwan panel makers enter semiconductor fight as structural challenges persist",
+    "summary": "Entering the fourth quarter of 2026, panel makers face pressure from rising component costs and weakening demand. However, price hikes and production cuts led by Chinese panel manufacturers are expect",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261013PD230/panel-revenue-2026-price-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-13-006",
+    "date": "2026-10-13",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung sends yield engineers to Texas ahead of 2nm production ramp",
+    "summary": "Samsung Electronics has begun dispatching advanced-process yield engineers from South Korea to its Taylor, Texas, foundry ahead of planned 2nm chip volume production in 2027, South Korea's <em>Financi",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261013VL222/samsung-production-texas-2nm-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-13-007",
+    "date": "2026-10-13",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Samsung's US$9B chip expansion faces funding, supply hurdles",
+    "summary": "Samsung affiliates plan to invest a combined KRW12.26 trillion (approx. US$9.18 billion) in semiconductor operations across South Korea and Vietnam, but the projects face different financial and suppl",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261013VL215/samsung-expansion-funding-investment-testing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-008",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ATE Energy revenue jumps 132% on Philippines energy projects",
+    "summary": "ATE Energy International Co. Ltd. reported consolidated revenue of NT$6.667 billion (US$209.0 million) for the first three quarters of 2026, up 132.52% from a year earlier, driven by the continued pro",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261013PD227/revenue-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-13-009",
+    "date": "2026-10-13",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "A Closer Look at What Samsung’s Mini LED TVs Bring to the Screen - Adaderana Biz English",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWZ1ZGdYOTZESFFTSWMwcFNORnF4S2VqeXk2ZjYwZUsydnN6bEgwVVNOQWMteW9xOHMzMUtEcU1JbU5Qdk9Mb2RhVDl1M3FudUI2T2tYb21SaWJsWGZ0S0thYXR0S0tuNVRaY1VNNU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWZ1ZGdYOTZESFFTSWMwcFNORnF4S2VqeXk2ZjYwZUsydnN6bEgwVVNOQWMteW9xOHMzMUtEcU1JbU5Qdk9Mb2RhVDl1M3FudUI2T2tYb21SaWJsWGZ0S0thYXR0S0tuNVRaY1VNNURMT0t2cF80TVBkSmxrand1VF9YdlVxankxRkpLVk9lNGUteUtZaGhSNUpaVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-10-12-001",
     "date": "2026-10-12",
     "companies": [
@@ -317,6 +494,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kRHVRV3VuZmFXbUZnT0tJMkZBTFhkbkRkZ2xqTjY5aU9ObUVqLWlDYWZxUDM4Q0VhS1AyMWVsUWFYRkEzZGZocTBJSzZGVF9MdjdfSGx3RTRfdXZLLVg4dDZnOHdyUkl2VEcxV2FtcmZ5MnBYUHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-018",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Display Market to Reach USD 137.83 Billion by 2032, Growing at 3.9% CAGR, Says MarketsandMarkets™ - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOcF9yR05QbjhnNWl2Sk5mdWhyVVNPMzFuNlJCcjBsekVLdVMzOEM4QTZOM1ZfX3UzWk0zUGFUNW5HU2did1lEOHdERWVBSVFNa1NyaFV2M3lJNXhpQkRsWjVUaC1UaE1iQjZ6QThudV",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcF9yR05QbjhnNWl2Sk5mdWhyVVNPMzFuNlJCcjBsekVLdVMzOEM4QTZOM1ZfX3UzWk0zUGFUNW5HU2did1lEOHdERWVBSVFNa1NyaFV2M3lJNXhpQkRsWjVUaC1UaE1iQjZ6QThudVlYeXVNRXAtb0hNM0VDdU9yaUJ5emFfQnJEUTlDd05OMGdCQkU?oc=5",
         "type": "rss"
       }
     ]

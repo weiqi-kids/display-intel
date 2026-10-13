@@ -1,0 +1,16 @@
+{
+  "total_raw": 349,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 175,
+  "gate1_fail": 39,
+  "gate2_fail": 18,
+  "passed": 10,
+  "gate2_samples": [
+    "[News] Lumentum, Astera Labs, and Corning to Demonstrate 1060 nm VCSEL-Based PCIe over Optics for AI",
+    "Corning Inc Share Price - GLW, RNS News, Articles, Quotes, & Charts (NYSE:GLW) - Proactive financial",
+    "Corning faces securities fraud probe after stoc... - Pluang",
+    "Bronstein, Gewirtz & Grossman, LLC Encourages Corning Incorporated (GLW) Shareholders to Inquire abo",
+    "Corning Incorporated (GLW) Options Chain - Yahoo! Finance Canada"
+  ]
+}
