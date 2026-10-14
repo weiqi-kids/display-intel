@@ -1,0 +1,16 @@
+{
+  "total_raw": 368,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 41,
+  "gate2_fail": 20,
+  "passed": 21,
+  "gate2_samples": [
+    "Law firm probes Corning over possible securitie... - Pluang",
+    "Corning Drops 6.7% Amid Sector-Wide Selling - AlphaStreet",
+    "Corning Inc Share Price - GLW, RNS News, Articles, Quotes, & Charts (NYSE:GLW) - Proactive financial",
+    "Corning stock sits 20.30 percent below Truist target - ad-hoc-news.de",
+    "Corning faces securities fraud probe after stoc... - Pluang"
+  ]
+}

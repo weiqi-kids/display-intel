@@ -1,5 +1,319 @@
 [
   {
+    "id": "himax-2026-10-14-001",
+    "date": "2026-10-14",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax WiseEye Ultralow Power AI Adopted in Alibaba’s Latest Qwen Glasses - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxORkxpcWdjQ0ZNdElSLXdtUUFCVld5bks2TzV5M3BrRnNyNnlEemN6MGVKQ3lfT0lLU3ppV1Bxd2JBRVF3aUQzRnJ2UHdMSU4zTTNtRG9iaVluVTlIUGhFOXFGZFlZTkhjVXBNVVVfSV",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORkxpcWdjQ0ZNdElSLXdtUUFCVld5bks2TzV5M3BrRnNyNnlEemN6MGVKQ3lfT0lLU3ppV1Bxd2JBRVF3aUQzRnJ2UHdMSU4zTTNtRG9iaVluVTlIUGhFOXFGZFlZTkhjVXBNVVVfSVAwc3AxQmhHZWhKb2loTFhUVk9zd1hnc3dEdld4b2NmUzFVQll2NWZDMGVLLUpmRkxqaGVLaElhdVpicVk5TmNPeE5IaHBRMFJIWDZvQTEzUXFPNFJrV1Z4elRHbXRhczdaRnBZX2tTVlVSNVlrOW1MVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-10-14-002",
+    "date": "2026-10-14",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies, Inc. Announces WiseEye Ultralow Power AI Processor Integration Into Alibaba Qwen Glasses N1 Series - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOHVhZlh0TklYMGpvZU13Y2owSWo4QmkxMkJCajI2aVEzWkhlc1AxZ0FoS2RMOXBMX3B5Rl91RWtZSzFaQTJEcXZSYzR0RTd5Um5lTnV5M2RZem9zYVhjblFKQTdPbDdsS0RCSzdaOU",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOHVhZlh0TklYMGpvZU13Y2owSWo4QmkxMkJCajI2aVEzWkhlc1AxZ0FoS2RMOXBMX3B5Rl91RWtZSzFaQTJEcXZSYzR0RTd5Um5lTnV5M2RZem9zYVhjblFKQTdPbDdsS0RCSzdaOUFWOGRtWDd0U1FER1FmVmpjU3MxVnFzcEtCRzFJZ0xueFJiYzh3YzlfN1QtZnRtbjY0SlR1UUhxak9OWTg0NVhmVVZtOU5EczlDM2wtaW44UGdDN3dhSlREX2xaRkxQZmNzbXVZV3FLNXBub1JzZWFCeGZjQUc0Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-10-14-003",
+    "date": "2026-10-14",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies Inc. R (H6Q.HM) Q4 FY2025 earnings call transcript - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORnJGQndhQWl3OW1rSGx4dVpiMVNtdU5lSHIyT1FUQUljMTQwZTVfbGI2M2JoX2ZGNnlVdHlEQUZwbHAxOWRKcVRxalE3WDRyNktLclNvLUR5cGNDTWktOGFqZ0MzbkxiMDZGMmMwb2",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORnJGQndhQWl3OW1rSGx4dVpiMVNtdU5lSHIyT1FUQUljMTQwZTVfbGI2M2JoX2ZGNnlVdHlEQUZwbHAxOWRKcVRxalE3WDRyNktLclNvLUR5cGNDTWktOGFqZ0MzbkxiMDZGMmMwb2ZxX1JZc2dadlgwNEtwMU83cERXQU1nODcwclFMM3lSYWlVdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-10-14-004",
+    "date": "2026-10-14",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Alibaba selects Himax’s WiseEye chip for next-generation AI glasses - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPN1RjU3FtamlpSWZBWWI4WDcyNmpxd29vbF9HRm50UmVRMGJxY0xBSlV3bU1lQjVKcXMwSHpvT0E1NjcycXVNcVBnTkQyYVpmbm40aUZyM25Sb3RMQVljaXZveXVSaGpHNG8zXy1Tbn",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN1RjU3FtamlpSWZBWWI4WDcyNmpxd29vbF9HRm50UmVRMGJxY0xBSlV3bU1lQjVKcXMwSHpvT0E1NjcycXVNcVBnTkQyYVpmbm40aUZyM25Sb3RMQVljaXZveXVSaGpHNG8zXy1Tbnp0WlFhU0VjMmQwWE1UaVVFMThJT3ZXTXA0bGV0ckVVMWFQNVJ1WnllUUloMk5kanBVZGZuRFdNLTZkekdFSkhmU1hZbmVUdDZxSGFXajA5dUhoZmMxOUJtMXB3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-14-005",
+    "date": "2026-10-14",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Former LG Energy Solution CEO's Home Raided Over Alleged $7.5 Million in Consulting Fees to China Firm Tied to Family - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5va1lXUHFZcy1wdVJpa2FkeWlMSW5aYzN5V0RESmZLZi1USjlRckhDYks3aDd5ckJlbEtsSDdlWE8yT2hUMnB6UnJXcXlGOGFVdzNnOU4zRms3T2d3OE54ZnBpTS1oV0pVbXlDM1N6SE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5va1lXUHFZcy1wdVJpa2FkeWlMSW5aYzN5V0RESmZLZi1USjlRckhDYks3aDd5ckJlbEtsSDdlWE8yT2hUMnB6UnJXcXlGOGFVdzNnOU4zRms3T2d3OE54ZnBpTS1oV0pVbXlDM1N6SEpvLU1kWmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-14-006",
+    "date": "2026-10-14",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Ex-President Accused of 10 Billion Won Breach of Trust - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSlJ4Wk5BVVI5bEFzNXpOQ3E0dVhadi1PaU5sY0JVbE1seXVtVVY1UUJmb1lsYTJxR2s0NlFrSW1fR1htSGFzM3dvdDlwOFM4U01FVjRyTGtrcVlDSmttYmNLZGw4TVNpQjZ3TWhQd0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSlJ4Wk5BVVI5bEFzNXpOQ3E0dVhadi1PaU5sY0JVbE1seXVtVVY1UUJmb1lsYTJxR2s0NlFrSW1fR1htSGFzM3dvdDlwOFM4U01FVjRyTGtrcVlDSmttYmNLZGw4TVNpQjZ3TWhQd0h1TEZMREt2bnNBclNUd2hVc0lTaVA5NzdM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-14-007",
+    "date": "2026-10-14",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG units sue ex-executive Lee in Korea over 7.5 billion won duty breach - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOX0VIdTVsWlZiOGxTek5TYS04SDU2eUZ6SzllcjVaZW91YXU1X1JabnE4cnJLLV80M2tUT1RuaHdZbHJ4UjB1czFZMGw3SkVjSkNuOTl2NjBPYm54MHUyX0ZwUWdmNWM0aDVfb2hLRF",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX0VIdTVsWlZiOGxTek5TYS04SDU2eUZ6SzllcjVaZW91YXU1X1JabnE4cnJLLV80M2tUT1RuaHdZbHJ4UjB1czFZMGw3SkVjSkNuOTl2NjBPYm54MHUyX0ZwUWdmNWM0aDVfb2hLRFc0aWVVSTJ4UGF6bnZNRlh5b1J30gGWAUFVX3lxTE9xYm8zMkJkTUdHXzlDazhvTU53T19iUUtoLTFwd2JFaVp3dEZqMFNnc2Q1N3JmYTBGSE81Y0xPYWg3WmNROFhYcDN1RFhaenFLN2owcmdjOFBHSWdwVThOSVUwYTlIZnpBQ2t2ZlVBZ2h3TWVIOTdoYVdrdDR0aHpmOHJ4R3FOQ1drZU8yTllkLXZHZlJEQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-10-14-008",
+    "date": "2026-10-14",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Zhongtai upgrades BOE Technology stock to Buy - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2VFU1MtWHBMU0lWekJ0NVV4UV9RQTNLX1pKN0ZnUmFpZUQxbFhDWmdJczVXTlJVU3VtdFNyRUQwcl9abnZ3Q3RTOFhWRmxQU09IN2drdDZrYjg3NVBkLV9UVU5MVzI4ZlY5aXJvYk",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2VFU1MtWHBMU0lWekJ0NVV4UV9RQTNLX1pKN0ZnUmFpZUQxbFhDWmdJczVXTlJVU3VtdFNyRUQwcl9abnZ3Q3RTOFhWRmxQU09IN2drdDZrYjg3NVBkLV9UVU5MVzI4ZlY5aXJvYkloYlFPLXN4MTU5aWpWWVhESW5iNlFqQWFxYjlPMHNLcmM4am5iMUlOdkhIZTlZUXY2UDRad29Vcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-14-009",
+    "date": "2026-10-14",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Samsung Health Makes Sleep Coaching Easier To Start and Tailors Weekly Guidance",
+    "summary": "Samsung Electronics today announced a major update to the Samsung Health app, making Sleep Coaching even easier to start by lowering the data requirement to begin. The update also delivers more person",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-health-makes-sleep-coaching-easier-to-start-and-tailors-weekly-guidance",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-10-14-010",
+    "date": "2026-10-14",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "BOE struggles with glass substrate cracking at its 8.6-Gen B16 OLED line, which could hurt its chances to win Apple's iPad orders",
+    "summary": "<p>According to a new report from Korea, BOE has been struggling for about six months with glass substrate cracking at its <a href=\"https://www.oled-info.com/boe-officially-starts-mass-producing-it-am",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/boe-struggles-glass-substrate-cracking-its-86-gen-b16-oled-line-which-could",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-011",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Here is Universal Display's UVJC Novajet commercial vapor jet deposition system",
+    "summary": "<p>In &nbsp;2025, Universal Display Corporation (UDC) established a new Singapore-based subsidiary, <a href=\"https://www.oled-info.com/universal-vapor-jet-corporation\">Universal Vapor Jet Corporation<",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/here-universal-displays-uvjc-novajet-commercial-vapor-jet-deposition-system",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-012",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED display backplanes, part 7 of 7: OTFTs and silicon CMOS microdisplays",
+    "summary": "<p>This is the seventh and final article in our <a href=\"https://www.oled-info.com/oled-display-backplanes-part-1-7-introduction-pmoled\">OLED display backplane series</a>. In the previous parts we cov",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/oled-display-backplanes-part-7-7-organic-tfts-otft-and-silicon-cmos",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-10-14-013",
+    "date": "2026-10-14",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "BOE struggles with glass breakage at US$9.4 billion OLED plant as it seeks Apple iPad orders",
+    "summary": "<p class=\"P1\" data-pm-slice=\"1 1 []\">China's BOE has spent approximately six months trying to resolve recurring glass substrate breakage at its Gen 8.6 OLED plant in Chengdu, raising concerns about pr",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261014VL215/boe-glass-substrate-production-ipad.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-014",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Tsang Yow's semiconductor revenue share reaches 12%",
+    "summary": "Automotive drivetrain manufacturer Tsang Yow reported consolidated revenue of NT$86.36 million (US$2.69 million) in September 2026, down 2.3% month-over-month and 1.24% year-over-year as demand from t",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261014PD240/tsang-yow-revenue-equipment-2026-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-015",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ubiqconn satellite revenue jumps 175% as 3Q26 operations recover",
+    "summary": "Ubiqconn Technology reported September 2026 consolidated revenue of NT$142 million (US$4.4 million), up 32.4% month-on-month and 6.7% year-on-year. Third-quarter revenue rose 9.6% sequentially to NT$4",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261014PD239/revenue-ubiqconn-2026-market-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-016",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "negative",
+    "title": "Largan chairman casts doubt on Micro LED links for AI data centers",
+    "summary": "Largan Precision chairman En-ping Lin has questioned the viability of Micro LED-based optical links for AI data centers, citing concerns over power consumption, size, and transmission efficiency. Indu",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261014PD227/largan-precision-microled-transmission-data-center-communications.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-017",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan IC substrate maker Xinxing halts some machinery after fatal workplace accident",
+    "summary": "IC substrate maker Xinxing experienced a fatal workplace accident at its Yangmei plant on October 13, prompting the Taoyuan City Labor Inspection Office to order a partial shutdown in the affected are",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261014PD236/ic-substrate-plant-investigation-production-inspection.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "novatek-2026-10-13-001",
     "date": "2026-10-13",
     "companies": [
@@ -172,6 +486,66 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQWZ1ZGdYOTZESFFTSWMwcFNORnF4S2VqeXk2ZjYwZUsydnN6bEgwVVNOQWMteW9xOHMzMUtEcU1JbU5Qdk9Mb2RhVDl1M3FudUI2T2tYb21SaWJsWGZ0S0thYXR0S0tuNVRaY1VNNURMT0t2cF80TVBkSmxrand1VF9YdlVxankxRkpLVk9lNGUteUtZaGhSNUpaVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-10-13-010",
+    "date": "2026-10-13",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to order its first FLiPP deposition system from YAS, suggesting the process is not based on Applied’s MAX OLED - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPejVsaFE4cFVRTEczdnZ1Z1dDSGdod0pMNUlNai1BYURFZDJiU3ZTdTA3d2daVDAzUEdUNXFfR05hdm5rU3RRd0NKemtUQkFTaWlsRGhHeHEwMF9EenpRQlJFOVJmdGw1TEdkdFJYT1",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPejVsaFE4cFVRTEczdnZ1Z1dDSGdod0pMNUlNai1BYURFZDJiU3ZTdTA3d2daVDAzUEdUNXFfR05hdm5rU3RRd0NKemtUQkFTaWlsRGhHeHEwMF9EenpRQlJFOVJmdGw1TEdkdFJYT1dpZEdULUI4bU9OMkJqUjV3RFdOU1ZkZmVJeEZfNlk5T0JjM3BkOFRIWkhmbG43RG92RmlmM3ln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-10-13-011",
+    "date": "2026-10-13",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display to order its first FLiPP deposition system from YAS, suggesting the process is not based on Applied’s MAX OLED",
+    "summary": "<p>According to reports from Korea, LG Display is preparing to order a deposition system from Korea-based <a href=\"https://www.oled-info.com/yas\">YAS</a> for its <a href=\"https://www.oled-info.com/lg-",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/lg-display-order-its-first-flipp-deposition-system-yas-suggesting-process-not",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-012",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "KTC \"M27P6S\" QD-Mini LED Gaming Monitor with 4K 160Hz / FHD 320Hz Support to Launch in November - ASCII.jp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pQWp6a3h5Tl8teUxaS0FJTkc0RnhtVzRaTGpQakxxNDNWZWtFTE5DamlhbGJYSDVjVDM3Vm92R3JCSjZSSWRieVRwdnhTLTNWNExKSVhHTWg?oc=5\" target=\"_blank\">KTC \"M27",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pQWp6a3h5Tl8teUxaS0FJTkc0RnhtVzRaTGpQakxxNDNWZWtFTE5DamlhbGJYSDVjVDM3Vm92R3JCSjZSSWRieVRwdnhTLTNWNExKSVhHTWg?oc=5",
         "type": "rss"
       }
     ]
@@ -900,6 +1274,27 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcHA0RVBjeFVkaGpBTU4yVjhWWnR6QXNPZHllNVZYMmVJRURaNzZVWEczb0loLUZNeWNCN3BXdDRHT0U4X1h2Z0p1Z2x4M3lRb25TZWFrbXhMcFEyQmw2RUNUWkt1bC1neFNSdGN4N1JfRmNFN0d5YlNPQ09XMmJpdlJBZzBpQ0N0cnBrYXMtb0JxMmlWZThleDYyaHJLRHZaVVFKbEpmaTlqMVdKc1FNNm5DQkFVR05kdXlXMkZNUW80b1hKWi1LRlZhSFA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-10-11-020",
+    "date": "2026-10-11",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display's FLiPP Overcomes OLED Limitations - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzJjZUhFd3lTVUFZeTVpWFVfZTBCbmZpTjBKdUtpVnVZYzZhRTh1RkRkM2RJdkxWOGNNa2RuNVFjeHZ2TzQyWmc2NGNfZTdXSHJmWG1ieWZKTnVaRXZhYmp1WjhJY2syWEM5c0JTV2",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzJjZUhFd3lTVUFZeTVpWFVfZTBCbmZpTjBKdUtpVnVZYzZhRTh1RkRkM2RJdkxWOGNNa2RuNVFjeHZ2TzQyWmc2NGNfZTdXSHJmWG1ieWZKTnVaRXZhYmp1WjhJY2syWEM5c0JTV2xTMHlPMXZWZkh6WVpqd3lDSy1zaXE1U1dI?oc=5",
         "type": "rss"
       }
     ]
