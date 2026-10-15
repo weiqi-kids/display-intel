@@ -1,0 +1,16 @@
+{
+  "total_raw": 359,
+  "dup_title": 122,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 29,
+  "gate2_fail": 25,
+  "passed": 24,
+  "gate2_samples": [
+    "Corning Drops 5.3% Amid Sector-Wide Selling - AlphaStreet",
+    "Law firm probes Corning over possible securitie... - Pluang",
+    "Corning Inc Share Price - GLW, RNS News, Articles, Quotes, & Charts (NYSE:GLW) - Proactive financial",
+    "[News] Lumentum, Astera Labs, and Corning to Demonstrate 1060 nm VCSEL-Based PCIe over Optics for AI",
+    "Canon U.S.A., Inc. Expands imageFORCE Portfolio with New imageFORCE C1700 Series Desktop Color Print"
+  ]
+}

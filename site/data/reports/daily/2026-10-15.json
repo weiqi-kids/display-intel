@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T13:05:26.427961Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-10-15-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Premium PC demand fuels tandem OLED race between Samsung Display, LG Display - digitimes",
+      "companies": [
+        "lg_display",
+        "samsung_elec",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec",
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration",
+        "it_panel_demand"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdS1BZ01YZmtHY0N1Mi1kNGxURVFLR054VF9DcEk5YXM3SmNTV1pyQlVGTVBFb1Nrc21iWi1IbTVXajNCeDM4eXlwMXFqb3RKdDYyNnQ0QWp0OHRqSU1yemR1ZmVmVGg0dUZEaDhGSm53anExVjNzdUFQX0t2cmxxZGhrNEpKLVh3dHJzTjYtRQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-15-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Jilin OLED Material Tech to post a $25-30 million profit in the first three quarters of 2026, as its OLED equipment, components and material business sees higher demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.oled-info.com/jilin-oled-material-tech-post-25-30-million-profit-first-three-quarters-2026"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-15-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Luxnet posts record 3Q profit as capacity expansion fuels growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20261015PD236/profit-2026-communications-capacity-expansion-growth.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-15-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Aurotek posts record 3Q26 revenue, up 58% on automation demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261015PD241/revenue-demand-automation-growth-equipment.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-15-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "AI server tracker: AIC accelerates as Taiwan's connector and chassis suppliers post uneven growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20261014VL219/taiwan-revenue-connector-aic-growth.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.31,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.29,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 11,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 4
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "canon",
+        "count": 1
+      },
+      {
+        "id": "novatek",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "oled_penetration",
+        "count": 6
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 359,
+    "dup_title": 122,
+    "too_old": 159,
+    "gate1_blocked": 29,
+    "gate2_blocked": 25,
+    "passed": 24,
+    "pass_rate": "10.1%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Corning Drops 5.3% Amid Sector-Wide Selling - AlphaStreet",
+      "Law firm probes Corning over possible securitie... - Pluang",
+      "Corning Inc Share Price - GLW, RNS News, Articles, Quotes, & Charts (NYSE:GLW) - Proactive financial",
+      "[News] Lumentum, Astera Labs, and Corning to Demonstrate 1060 nm VCSEL-Based PCIe over Optics for AI",
+      "Canon U.S.A., Inc. Expands imageFORCE Portfolio with New imageFORCE C1700 Series Desktop Color Print"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為三星電子、康寧、佳能相關動態：「Premium PC demand fuels tandem OLED race between Samsung ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Premium PC demand fuels tandem OLED race between Samsung Display, LG Display ...（OLED 滲透率、IT 面板需求）",
+        "level": "red"
+      },
+      {
+        "text": "Jilin OLED Material Tech to post a $25-30 million profit in the first three q...（OLED 滲透率、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
