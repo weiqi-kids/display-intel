@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-16",
+  "total_events": 11,
+  "by_company": {
+    "novatek": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "himax": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "oled_penetration": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "mini_led": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T13:01:46.237588Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "novatek-2026-10-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novatek reports TWD 30 billion revenue. Novatek stock sits 4.79 percent below its high - ad-hoc-news.de",
+      "companies": [
+        "novatek"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTDZUVWZZZmpweDEzangycnBQdmRNQmw5VGdvR0U0cnNLZ24xMlU1bllrYllBb0QzLWFjbkstOE02aWtpblltZDZuU0poMm5LMDc5UnlzT2FnTjZXaUZ3UGsySGxvMVJBTWU0eEhFWUZtMHBfMXVpeHdXUGVPMUw3S0tncnZGWHZBcVJ3OUdWZmcxWGRTbHdCdm02eE9nSUZVMzFsRFB2MXhhcGFidy1PeFQxOFA5ZktpRENmUVZlU0wzZVNHNmpTcVZaRVd0Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-16-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI server tracker: semiconductor testing and design services rally on compute demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261016VL215/ic-testing-interface-ic-design-ai-server-demand-revenue-growth.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-16-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Holtek targets higher-value MCU markets with AI server cooling orders set to lift 2027 revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261016PD222/holtek-mcu-ai-server-cooling-2027.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "himax-2026-10-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax Technologies (HIMX) Could Be 60% Undervalued On Alibaba Smart Glasses Win - Simply Wall Street",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdzVDUWNCM1RYVnBSQ05MZ3I1QklzWkltamdJMHNnMEo5cGRvTG0wUXJ0X2luQ0tLdF9jV2twSjg4WWhoUDZGRUlCRkJ5VmVzOGlkNVBISVRSbFh0WHNwcHNWNmxLNFFRd0tTeTJiVGxva1Z0NGluOGFJQ2JhS3l1eEhrX1o4Q3l6ZXVqZWR4Y2l4WTF4RVYxVnRRQjIyX3YwWEVNbk5sUXNtZTBNUXAxWHlxZ1FkMjdwbElMMW5taFNhdmxrRlFhQ2hfS1BTVkxvVmNZV210ZVI5SVHSAeABQVVfeXFMTkpNLUluMmVMSHJkUUxTeWpCWnNKYm9qMzVGVnQ0Q1Q2NXFKU09HOEhVQWRuVy1Ba2FSMWZuYzhLalFfLWZJU3NHQTlabXVTRHdJZ3NjTmdzQWxPd1Y1UEMtRnozcW1FZlpRR19ueXlWbXlRd041N3VES204SjFjQ3Fqb3FUUGZWT3k3VUFXazMwZGx2UzlLcExoSE5xQjRSUzlaMEwyWjU5M3FXdDNrdkp2NGlOeVlqdGhaN2tfeHNqbkp1QnJCUUV0WURrdUNlSmJxMjV0cndjQl85X2k4TGQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Raontech and SN Display to develop perovskite QD color conversion for OLED microdisplays",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.oled-info.com/raontech-and-sn-display-develop-perovskite-color-conversion-micro-oled"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 4
+      },
+      {
+        "id": "novatek",
+        "count": 1
+      },
+      {
+        "id": "himax",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "oled_penetration",
+        "count": 3
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 128,
+    "too_old": 157,
+    "gate1_blocked": 39,
+    "gate2_blocked": 26,
+    "passed": 19,
+    "pass_rate": "7.9%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "Corning Drops 5.3% Amid Sector-Wide Selling - AlphaStreet",
+      "Law firm probes Corning over possible securitie... - Pluang",
+      "A live demo will show AI computers sending data over fiber, with Corning among three partners. - Sto",
+      "UBS raises target for Corning stock from USD 196.00 to USD 201.00 - ad-hoc-news.de",
+      "Canon wins Grand Award for Aquilion Rise CT scanner and Gold Award for F1.4 L VCM mirrorless RF lens"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為三星電子、Novatek Microelectronics、Himax Technologies相關動態：「Novatek reports TWD 30 billion revenue. Novatek stock sit...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Novatek reports TWD 30 billion revenue. Novatek stock sits 4.79 percent below...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "AI server tracker: semiconductor testing and design services rally on compute...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
