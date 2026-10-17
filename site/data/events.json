@@ -1,5 +1,62 @@
 [
   {
+    "id": "corning-2026-10-17-001",
+    "date": "2026-10-17",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning stock closes at EUR 119.76 as dividend date nears - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPanVDcXd6VmlRSzRrbU1WRFlQOWU1c0tjbHV0WkI0MTg1aWxCcDdTdGlrNkVpRXZrcUtCdUxCQmNnMkRmaUJ0dnVkbGtsREtFZmJSRjU2cnFwNmkwTGZuMVZJUTJLdlFGVlU4TXV6M0",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPanVDcXd6VmlRSzRrbU1WRFlQOWU1c0tjbHV0WkI0MTg1aWxCcDdTdGlrNkVpRXZrcUtCdUxCQmNnMkRmaUJ0dnVkbGtsREtFZmJSRjU2cnFwNmkwTGZuMVZJUTJLdlFGVlU4TXV6M0JTQkZjbjZkVVMwdlQ0QTNGYTZQTlZVa3BUak50SnNfeEJPTFZqRWZ5c0NWSHJVWlJkN1JyX2VMSEdubTlIU2FiYnE0Q3dpODQ3RkZKUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-17-002",
+    "date": "2026-10-17",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Preview: LG Display to Report Financial Results on October 22 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ3Z1bldwWWhpR0hNMmhMMjVISkNQbkpWN1d3RkNvd0ctYmFRSjI5WWM0d254QlRBYTR4LWcwTWF4R1FjbUV6OHMtMGtVaGszbHg0a2xMNG54bnpBcVFOOXFTRzFEYmlRMlVMQVprVE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ3Z1bldwWWhpR0hNMmhMMjVISkNQbkpWN1d3RkNvd0ctYmFRSjI5WWM0d254QlRBYTR4LWcwTWF4R1FjbUV6OHMtMGtVaGszbHg0a2xMNG54bnpBcVFOOXFTRzFEYmlRMlVMQVprVEtDbk5TX282a29ldmpOV2xqNWt1MDhjMUZkYVJiV21RcjF5ZGtRMnJhRmY5SHU5UG13QUp5ZFdaamFnbWRSbVdJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-17-003",
+    "date": "2026-10-17",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung Electro-Mechanics' US$5.1 billion expansion faces equipment supply constraints",
+    "summary": "Samsung Electro-Mechanics (Semco) faces potential equipment procurement bottlenecks in its KRW6.78 trillion (approx. US$5.1 billion) expansion of semiconductor substrate production for AI servers, as ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261016VL216/equipment-semco-expansion-production-substrate.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "novatek-2026-10-16-001",
     "date": "2026-10-16",
     "companies": [
@@ -197,6 +254,98 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNc3ZwMnIzNVBmV0h5M1hUbEUyQ1N6MTdmQUl5eDh2Z3AwU2k3U1VPUDViYmNVYnk0QlhhMThJUnpmdDB4a3lRSXFBZ0RnUWRudkJxQkkyeE5wbjFReXRBOE9nLVhzSC1uTXZiR2lLMk5XcHhkTmxhc1hxU1pjMXZhbExPZmlScTZoUGpFSURwc3ZOMGpBSW5ydVRQSFVja29oSm9fMGNNVmdCZlcxYkQ0b1A4VU9jYTdyb1NIcVdNZ043clZ6ZFp2MHVhTDA0akRPRjZzMWR1T2RaY0ZCcEs3R3hldjE0V2JyWlR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-16-012",
+    "date": "2026-10-16",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Inc Stock (GLW) Moved Down by 3.26% on Oct 16: Facts Behind the Movement - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNcVNla1ZXdG5YSEpKcE9NYUNTOEhBOGxtZDR4V1pVMk5xdDZCUW9zM2ZobDNBX0g1LW94UEF1b2tIX1dqRXZPeVRJTW1OaDI1RTN6eVZlVmM3ajVydGxHZEdSMF81MmR1eDdGbHVObU",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcVNla1ZXdG5YSEpKcE9NYUNTOEhBOGxtZDR4V1pVMk5xdDZCUW9zM2ZobDNBX0g1LW94UEF1b2tIX1dqRXZPeVRJTW1OaDI1RTN6eVZlVmM3ajVydGxHZEdSMF81MmR1eDdGbHVObUVwNGV6enEwQ1AzZU54Zk40cWs3b240SzRscXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-10-16-013",
+    "date": "2026-10-16",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Inc (CNNA.DU) stock price, news, quote and history - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3VVZYeDBlNjVGLTJHQjZLenZMaWotOTRsWmVMdGd4VE9oNXc3ZWQ4bFJ0NDZRczFkT1dFTDdVWUc4cC1aaElhbHNEV014cEEyQjJQSzBR?oc=5\" target=\"_blank\">Canon Inc (",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3VVZYeDBlNjVGLTJHQjZLenZMaWotOTRsWmVMdGd4VE9oNXc3ZWQ4bFJ0NDZRczFkT1dFTDdVWUc4cC1aaElhbHNEV014cEEyQjJQSzBR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-16-014",
+    "date": "2026-10-16",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG 32GX870B-B Review - RTINGS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RdHdQWVJKZmltOXVfOEJVY0Nsd0lER2pvZkx2RUdvSEljM3BsUjJPclhXdW1MWGs4eFZ5djAtalA1SEpIN19xTERscTFhcjJzMkc5SkxyQmpSNnNGNExBb1p3?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RdHdQWVJKZmltOXVfOEJVY0Nsd0lER2pvZkx2RUdvSEljM3BsUjJPclhXdW1MWGs4eFZ5djAtalA1SEpIN19xTERscTFhcjJzMkc5SkxyQmpSNnNGNExBb1p3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-16-015",
+    "date": "2026-10-16",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG's next-gen 'FliPP' OLED screen tech for brighter, more efficient pixels gets a rough release date, and it's not too far in the future — great news for monitors and laptops, but TV fans need to hold tight - TechRadar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOamxhRld4bWlOVnZOal9kVTZrYVZ1NE13Ynl2RmxTb05mZ3pxUFUtTVBSTHBSdEs0OFRsN0I2Sk82eHlBVEF5b01iQnlxMC1QdWtsWXhKS2pWNi1EZVpnejBtNGxMTzlnVDItT292S0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOamxhRld4bWlOVnZOal9kVTZrYVZ1NE13Ynl2RmxTb05mZ3pxUFUtTVBSTHBSdEs0OFRsN0I2Sk82eHlBVEF5b01iQnlxMC1QdWtsWXhKS2pWNi1EZVpnejBtNGxMTzlnVDItT292S0lDc0s5NVN2Wkt2YnJhTS00WUZ3N0UzdzBLMzNpRG5KTEN1aFpNaVR4Z1ZMSFNPeTBBNTY1WW9aX2VFcHRZN0pQYVhRbXM5TWNxUlR0Rnoxc0VSVzAzMnY2WEFsUm9oRFRSN3RjQWR6dnZHNFd3MVlqMFhrOHBSUmxlTV95ZWRaNnhOcjNaYXpOY3Y1dFdtcm1nWFlnMVh0VVlrYzU1ZUdGanNzWnZfQ00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-016",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Interview: SEMI CEO sees US$3 trillion chip industry by 2035, as trusted partners reshape supply chain",
+    "summary": "The semiconductor industry reached the US$1 trillion revenue milestone several years earlier than originally forecast, and with growth driven by AI and quantum computing, reaching US$2 trillion by 203",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261015PD238/semi-supply-chain-2035-ceo-taiwan.html",
         "type": "rss"
       }
     ]
@@ -1035,6 +1184,26 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX0VIdTVsWlZiOGxTek5TYS04SDU2eUZ6SzllcjVaZW91YXU1X1JabnE4cnJLLV80M2tUT1RuaHdZbHJ4UjB1czFZMGw3SkVjSkNuOTl2NjBPYm54MHUyX0ZwUWdmNWM0aDVfb2hLRFc0aWVVSTJ4UGF6bnZNRlh5b1J30gGWAUFVX3lxTE9xYm8zMkJkTUdHXzlDazhvTU53T19iUUtoLTFwd2JFaVp3dEZqMFNnc2Q1N3JmYTBGSE81Y0xPYWg3WmNROFhYcDN1RFhaenFLN2owcmdjOFBHSWdwVThOSVUwYTlIZnpBQ2t2ZlVBZ2h3TWVIOTdoYVdrdDR0aHpmOHJ4R3FOQ1drZU8yTllkLXZHZlJEQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-10-14-023",
+    "date": "2026-10-14",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Showcases 2026 SQD Mini LED TVs and Smart Home Innovations forNigeria at West Africa Regional Launch in Côte d’Ivoire - Techpoint Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5wU0ZncWlrX1RzOVI0UFVzdWNJczI5czI1MWl3UjhXc0xUR2lybG9BYjBBQWtnTko4NG5mSHVjZTJBT3VRMXZHZnJJMU9PcEJuQnR3c2Z4NVZ2T2VpS2FfZTNYc05DakU4LW84Yk1STm",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wU0ZncWlrX1RzOVI0UFVzdWNJczI5czI1MWl3UjhXc0xUR2lybG9BYjBBQWtnTko4NG5mSHVjZTJBT3VRMXZHZnJJMU9PcEJuQnR3c2Z4NVZ2T2VpS2FfZTNYc05DakU4LW84Yk1STmZMNjQxQ3RnenM1UjE?oc=5",
         "type": "rss"
       }
     ]
