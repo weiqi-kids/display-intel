@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 37,
+  "gate2_fail": 27,
+  "passed": 4,
+  "gate2_samples": [
+    "Corning: The Right AI Builder, Just Not A Buy Yet (NYSE:GLW) - Seeking Alpha",
+    "Corning Incorporated (NYSE:GLW) Secures AT&T Fibre Agreement as Optical Sales Expand - Kalkine",
+    "Law firm probes Corning over possible securitie... - Pluang",
+    "A live demo will show AI computers sending data over fiber, with Corning among three partners. - Sto",
+    "Corning: Not Worth The AI Risk (Rating Downgrade) - Seeking Alpha"
+  ]
+}

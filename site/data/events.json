@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-10-18-001",
+    "date": "2026-10-18",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "QLED, Mini LED or standard LED? Here are 5 43-inch TVs to compare before upgrading your home entertainment setup - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMFItRkU0aU9EN0Y2Q3dzUGFXU3owUnFOTDl2VkNfbEk5aE9xYlplQTJqemVEbEs1T0tvUFBvbmNPT0NBRmxYUjR3SHM4b082cWJtaHFGd1BBakZ6eXFMMmxIcEw2ckh4SWhCQVRhWC",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMFItRkU0aU9EN0Y2Q3dzUGFXU3owUnFOTDl2VkNfbEk5aE9xYlplQTJqemVEbEs1T0tvUFBvbmNPT0NBRmxYUjR3SHM4b082cWJtaHFGd1BBakZ6eXFMMmxIcEw2ckh4SWhCQVRhWC1NZXZGbnVpTnVCV3BDYnd2eS1hR19mSEszSTg5YzZ6VW1aVC1Dd2VoYnEwOUZkR3RYS2Y4c1dHLVhabUZOQk9wcHlsaEd1dDVYNlJ2b3FXN2RCUVdOT25SbDRzeFhidXBJZmw0TDl1QVNaZ2FZejdLYkxSQi01Uk55SzlQenZ3dGtNNjc3ZDBRX2Yxaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-10-17-001",
     "date": "2026-10-17",
     "companies": [
@@ -52,6 +70,45 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20261016VL216/equipment-semco-expansion-production-substrate.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-17-004",
+    "date": "2026-10-17",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG's Next-Gen OLED Displays Could Be As Big (Or Small) As You Want - BGR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE8tOGdPWklpQTctNGZGY2wtc29zQnFEdDNwZjV2Z2VyOHNNLVZFTUdZX2M4aEpnRWM2N1c2ZDljWW1KOFEycVlwTFZVQVlYd291bFBYT1AwVkpaR3ZHTmphb3JmX2ZWdExCRTUweUJzUQ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tOGdPWklpQTctNGZGY2wtc29zQnFEdDNwZjV2Z2VyOHNNLVZFTUdZX2M4aEpnRWM2N1c2ZDljWW1KOFEycVlwTFZVQVlYd291bFBYT1AwVkpaR3ZHTmphb3JmX2ZWdExCRTUweUJzUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-10-17-005",
+    "date": "2026-10-17",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display stock has a USD 4.08 consensus target 55.13 percent higher - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFl4dWZacTNOQTFiTFdnWDI0dWhGWWt1dDdwTWpZV3lmUE1oR0ZlNzhtVUNFYUJhcjVpTnFpeHFVMmJKam5BQlNwVmJSVzRndGV6VTN1UWJCQWpMc1YyOWlmdU9MVjFyamFLVTdHRE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSFl4dWZacTNOQTFiTFdnWDI0dWhGWWt1dDdwTWpZV3lmUE1oR0ZlNzhtVUNFYUJhcjVpTnFpeHFVMmJKam5BQlNwVmJSVzRndGV6VTN1UWJCQWpMc1YyOWlmdU9MVjFyamFLVTdHRENjVTBRWFRXNnhOcy1wWWJ5aVhvVWxmQmpTT1dIeEF2NU4xVHJGMmtJQkxTWlZZODBpaC1wNFFZYWtXOHU3YWZ0MXpnY0xNS05iZUtVX1NDaVBydmROb0RN?oc=5",
         "type": "rss"
       }
     ]
@@ -777,6 +834,24 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NQzJXZFIwZ2tCX3h4LW0xb0VqYTRKUS1UZUktS29pbGd0UHZxWFVySTBabURuRVkzZFFNd25XYTY5XzlvWG1TR2QwWnZHN183dVZmRG9zQnZiZzllelIyVkxiZjVVTFc4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-10-15-024",
+    "date": "2026-10-15",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon recognized as a “Leader” for second time in the Worldwide Sustainability Programs and Services Hardcopy by IDC MarketScape - The Daily Tribune News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxPaktBeDJvSERtdk55Mnpnb1p3dklzaG1yOVBJVzRLcU0yZ0tGRnRNb3lseEs0clJIQVVPU01TbmpIdWlISkhrbjZPUHZmVVFUZ19XX2k1Q3NIbXpRUzlMMFZqd3hYLVd3QVZzdUlnWW",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPaktBeDJvSERtdk55Mnpnb1p3dklzaG1yOVBJVzRLcU0yZ0tGRnRNb3lseEs0clJIQVVPU01TbmpIdWlISkhrbjZPUHZmVVFUZ19XX2k1Q3NIbXpRUzlMMFZqd3hYLVd3QVZzdUlnWW1hNXRRVU5JbHlEdW1naUpSRlJLd3Z2OXN5QW40c1hxQWNURFlOdHNyV1V2SldlX1BEM0U0ZTh4ZUhyVzVjdzJPTGkwX1VpbC1xVmV4amZ2LThzQllzbEdRZU1tUDljS1N1NVJaTnIxNXBNOHNKX2dPQmdtYzJScWZCWXBFUVAyMTVxWjhkRERoRnpfWkN6c0g2MGJVV2xycG12Tzk5OTFDSjV1N1FXY0lIMVBKeEliQzdCbnMzck5vVjBCbk1OXzVHVTA0?oc=5",
         "type": "rss"
       }
     ]

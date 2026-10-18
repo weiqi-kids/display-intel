@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T12:27:10.182782Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "QLED, Mini LED or standard LED? Here are 5 43-inch TVs to compare before upgrading your home entertainment setup - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMFItRkU0aU9EN0Y2Q3dzUGFXU3owUnFOTDl2VkNfbEk5aE9xYlplQTJqemVEbEs1T0tvUFBvbmNPT0NBRmxYUjR3SHM4b082cWJtaHFGd1BBakZ6eXFMMmxIcEw2ckh4SWhCQVRhWC1NZXZGbnVpTnVCV3BDYnd2eS1hR19mSEszSTg5YzZ6VW1aVC1Dd2VoYnEwOUZkR3RYS2Y4c1dHLVhabUZOQk9wcHlsaEd1dDVYNlJ2b3FXN2RCUVdOT25SbDRzeFhidXBJZmw0TDl1QVNaZ2FZejdLYkxSQi01Uk55SzlQenZ3dGtNNjc3ZDBRX2Yxaw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 139,
+    "too_old": 162,
+    "gate1_blocked": 37,
+    "gate2_blocked": 27,
+    "passed": 4,
+    "pass_rate": "1.7%",
+    "gate2_block_rate": "11.7%",
+    "gate2_samples": [
+      "Corning: The Right AI Builder, Just Not A Buy Yet (NYSE:GLW) - Seeking Alpha",
+      "Corning Incorporated (NYSE:GLW) Secures AT&T Fibre Agreement as Optical Sales Expand - Kalkine",
+      "Law firm probes Corning over possible securitie... - Pluang",
+      "A live demo will show AI computers sending data over fiber, with Corning among three partners. - Sto",
+      "Corning: Not Worth The AI Risk (Rating Downgrade) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Mini LED相關動態：「QLED, Mini LED or standard LED? Here are 5 43-inch TVs to...」。主要關注主題為Mini LED，市場情緒中性。",
+    "signals": [
+      {
+        "text": "QLED, Mini LED or standard LED? Here are 5 43-inch TVs to compare before upgr...（Mini LED）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
