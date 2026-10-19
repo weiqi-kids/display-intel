@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 36,
+  "gate2_fail": 33,
+  "passed": 9,
+  "gate2_samples": [
+    "Corning Is Moving Beyond Fiber Cables. Can AI Networking Pay Off? - Yahoo Finance",
+    "Corning: The Right AI Builder, Just Not A Buy Yet (NYSE:GLW) - Seeking Alpha",
+    "Corning stock: Truist lifts target for Corning stock from USD 175.00 to USD 182.00 - ad-hoc-news.de",
+    "Corning Incorporated (NYSE:GLW) Secures AT&T Fibre Agreement as Optical Sales Expand - Kalkine",
+    "Law firm probes Corning over possible securitie... - Pluang"
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:17:22.667528Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-10-19-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung, LG Display gear up for Apple's next OLED wave - The Korea Herald",
+      "companies": [
+        "lg_display",
+        "lg_elec",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec",
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53ZGxfdmgwVXlFd05KOHltOEp5Rkdycm0zdVFrRnRRNDc3elZZZzFNTV9qNk5ObF9lT0RRN3JkbFgtTW81Z01HbWRsUnFYWlVoR0tMTlAyYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "novatek-2026-10-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novatek revenue tops TWD 30 billion. Novatek Microelectronics stock sits 3.47 percent below high. - ad-hoc-news.de",
+      "companies": [
+        "novatek"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeE1YUFRhV3A3X01mNmxvNzRBdGF4X3VNN2ZudjNpUFZuMDFiQnU0U0M0a01EV2NsZkVTOHdxODV4Sl9QNWNKNWM5SDMzUi13N216VmRnYnZFZ0JQUkgtM3lSclJKdFozZ0wxWUVoU2tjWV8zVVktNjF3U2k3V2lQd1Y1SXJRWkJXWUVScXF5endnVDJKeEhtc25ObzM4R2VBOU1ZcHdnN09iSWhISzNCVEZaSnEycUk5QXVRclktdk1STjJ6MlRsNlZmVG1CdDhrQ2drQUR4a0xhWXM0aVNMY25jSmFmRkMwOC1kUmUxRQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-19-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Sanan Optoelectronics faces corp governance turmoil amid Micro LED breakthroughs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261019VL207/sanan-optoelectronics-governance-market-xiamen-display.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "corning-2026-10-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corning declares a USD 0.28 dividend for Corning stock - ad-hoc-news.de",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOF85SlhhNGJVMFlxZDVJYVF0RGpCTWMxWjhtQ0NfU1NCUWlwSDRqS1hvY1BibXk1aHk3amJnbzJwUEgwc0MwM0hZN1RXM1o1OGstcE5TYzY5dUFNRWNqY05IUEk4TXgxRGxoUHBqR3hBU1paR3VncWdfRkc1YmpvNlEtNVI2LUpMWldkcXdNMzVEQ0doN1dockU3SV82WjVYWEhkejY5SWhJRW1tbTlmanV4WDF0MzJT?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-10-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung targets Exynos 2700 expansion as Huawei advances Kirin chips",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261019PD247/samsung-exynos-kirin-huawei-chips.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "novatek",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "mini_led",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 134,
+    "too_old": 157,
+    "gate1_blocked": 36,
+    "gate2_blocked": 33,
+    "passed": 9,
+    "pass_rate": "3.8%",
+    "gate2_block_rate": "14.0%",
+    "gate2_samples": [
+      "Corning Is Moving Beyond Fiber Cables. Can AI Networking Pay Off? - Yahoo Finance",
+      "Corning: The Right AI Builder, Just Not A Buy Yet (NYSE:GLW) - Seeking Alpha",
+      "Corning stock: Truist lifts target for Corning stock from USD 175.00 to USD 182.00 - ad-hoc-news.de",
+      "Corning Incorporated (NYSE:GLW) Secures AT&T Fibre Agreement as Optical Sales Expand - Kalkine",
+      "Law firm probes Corning over possible securitie... - Pluang"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為三星電子、康寧、Novatek Microelectronics相關動態：「Samsung, LG Display gear up for Apple's next OLED wave - ...」。主要關注主題為Mini LED、法說會、OLED 滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Samsung, LG Display gear up for Apple's next OLED wave - The Korea Herald（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Novatek revenue tops TWD 30 billion. Novatek Microelectronics stock sits 3.47...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
