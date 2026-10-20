@@ -1,5 +1,271 @@
 [
   {
+    "id": "corning-2026-10-20-001",
+    "date": "2026-10-20",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning declared a USD 0.28 dividend: Corning stock fell 4.16 percent - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQTXM0Y1NNRERIU01pN3ozODFZejZyREdPTDdMUElwQlB6TXpVUVZNS0VNYTVKbTN1RzFPNE1GZlVUV0Mzb2JlVU5qQkEzMUx3MGxlbi1jR1UtNFRZam1DdDdUY1RDLWd6VnVaeE5lMk",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTXM0Y1NNRERIU01pN3ozODFZejZyREdPTDdMUElwQlB6TXpVUVZNS0VNYTVKbTN1RzFPNE1GZlVUV0Mzb2JlVU5qQkEzMUx3MGxlbi1jR1UtNFRZam1DdDdUY1RDLWd6VnVaeE5lMkl5NTN2ZS1pT0UwNXJOR0RGTUo5VzhTM3JoNFJjMHlnX1dKdEktaXJwSmd1Z050VEpkOWt0a3ZOMmt3Xzc0UWRSWXk4cHhRcndjem9NM3UyM0l3NFNjZERQMUc5RQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-20-002",
+    "date": "2026-10-20",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Co Ltd expected to post earnings of 2 cents a share - Earnings Preview - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOFNzbHdvTmxfMUphVkR4eUFyeWt4X2xtcFJKVEZaNDEwMk5pMFlmQWI3bHJwa1djOHhHVXFmZlp1RkpHU3RWaFRLV0pwOHFFZ0pvOVdXRllSeWZvLVczNlQtZXlpcDIwZDVWQjFGZk",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOFNzbHdvTmxfMUphVkR4eUFyeWt4X2xtcFJKVEZaNDEwMk5pMFlmQWI3bHJwa1djOHhHVXFmZlp1RkpHU3RWaFRLV0pwOHFFZ0pvOVdXRllSeWZvLVczNlQtZXlpcDIwZDVWQjFGZkN1ekRqUkd6TTJ0d3JfWHR4SkdLeU5DVkc2RkFyNzhPMklDS1p2cV9nbGJBSlVVQXZwX1ZRLXF0cUMtYWJLTUZMeTdfYVJtbVdnUlRRQnRLNUdKcHgydTFuNXVUSmJDMllMeTdVbnNwRDN0cktkRGliTjRXWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-20-003",
+    "date": "2026-10-20",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "MiCo Ceramics to Buy LG Display Plant for 150 Billion Won Amid Semiconductor Boom - THE ELEC, Korea Electronics Industry Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCbFpGUWZTWUtkX3RtcXZYLWV4Ml9LVmM5dmVnRzY1TVZ4ZHNxaW5mLTJJS1dwaGc3Q0lRTGpuZFN6dXo0YnU3X3Q4TGh2aUozTWJhZGlURjVUQ3U1a2dOamRoTktDbDQ?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCbFpGUWZTWUtkX3RtcXZYLWV4Ml9LVmM5dmVnRzY1TVZ4ZHNxaW5mLTJJS1dwaGc3Q0lRTGpuZFN6dXo0YnU3X3Q4TGh2aUozTWJhZGlURjVUQ3U1a2dOamRoTktDbDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-20-004",
+    "date": "2026-10-20",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display to Sell Idle Gumi Plant for 150 Billion Won - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0tFYVo1M0lVVWdrX0tfLWpHWWJJaGx2VTJjZFJyWmprU0ltRlIzUmVsRW92dlNfTUtjVzZzR1o1SGJnRUZhYXNOdUxVU09nWWZsczZPZkdsSFJFS1d6RTUzMlk0cUEzc1VNLWI1WG",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0tFYVo1M0lVVWdrX0tfLWpHWWJJaGx2VTJjZFJyWmprU0ltRlIzUmVsRW92dlNfTUtjVzZzR1o1SGJnRUZhYXNOdUxVU09nWWZsczZPZkdsSFJFS1d6RTUzMlk0cUEzc1VNLWI1WGZtUlRfWnhVbE1SLVd3ZFpWOG1ieW1QVjlVb3F3Y3Z2TFhBWnFPNS1WYzdKOGY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-20-005",
+    "date": "2026-10-20",
+    "companies": [
+      "lg_elec",
+      "samsung_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple OLED Push Sparks New Samsung, LG Display Battle - ChannelNews.com.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHRYbW5zdGRwRVZSVGc4M3c4RnEtbXVMRGFCLXdONmwzd2xCQ0JmNXNzOXNLRGpVaGFNUFVmY2xQTm5MNnJ3YnpFaHpDbTJVNnJlSE1jYmxhUmprUHBZci1ERzE2N2k2UWZKbmFpdk",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHRYbW5zdGRwRVZSVGc4M3c4RnEtbXVMRGFCLXdONmwzd2xCQ0JmNXNzOXNLRGpVaGFNUFVmY2xQTm5MNnJ3YnpFaHpDbTJVNnJlSE1jYmxhUmprUHBZci1ERzE2N2k2UWZKbmFpdk1PeUtoM3RyRHoxZjFFeEt1djFLSW1lNkhsY3dvTw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-006",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Boeing Asks Hanwha Systems to Develop Fighter Jet OLED Displays - www.thelec.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Mb19DMWllc1A1SjgwZFFBU196WFhRMFVKSmstcmJiTU5ZZEhwcVVMSk1mQ0NkZ2d6LW1NTXdsQ0wtZWp3S2lWMjNOSno1Y3NnSjFnR3ljdmMwellmYldDOEJDejRjUUE?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Mb19DMWllc1A1SjgwZFFBU196WFhRMFVKSmstcmJiTU5ZZEhwcVVMSk1mQ0NkZ2d6LW1NTXdsQ0wtZWp3S2lWMjNOSno1Y3NnSjFnR3ljdmMwellmYldDOEJDejRjUUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-10-20-007",
+    "date": "2026-10-20",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED glass faults threaten iPad plans for BOE Technology stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNWGxqTEQtZzNaY29tWDMxMmFjMW9lX190bjEzWTNNeUxKYmZMeUI2Tm51cWFzSlpRdHFmeGxZVkFra3FfM0xRZi1NSV9sZDc1eC1EbHBubVRyb2Q4OS1oZzIycHdkVXVGMkFhT1lpbW",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWGxqTEQtZzNaY29tWDMxMmFjMW9lX190bjEzWTNNeUxKYmZMeUI2Tm51cWFzSlpRdHFmeGxZVkFra3FfM0xRZi1NSV9sZDc1eC1EbHBubVRyb2Q4OS1oZzIycHdkVXVGMkFhT1lpbW1SUDk1WmlmbWl0alMyQmVrT09Sd1p6MGoxeUhIUkc0bVhYcUxVMlVwZXBsc0UwclVnUGpuajNqNnBRV0otOFRzcDF4WUFuS3UyUnlFcER3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-20-008",
+    "date": "2026-10-20",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Art Store Unveils Curated Collection From Art Basel Paris 2026",
+    "summary": "Samsung Electronics, a global display leader and provider of the Official Art TV of Art Basel, today announced the expansion of its Art Basel collection on Samsung Art Store with 19 new artworks from ",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-art-store-unveils-curated-collection-from-art-basel-paris-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-009",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Yousee Display offers customizable AMOLED display modules from 1.1\" to 27\", backed by an integrated supply chain",
+    "summary": "<p>As demand for customized AMOLED displays grows across smart wearables, automotive systems, industrial equipment and premium consumer electronics, standard display modules often struggle to meet a p",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/yousee-display-offers-customizable-amoled-display-modules-11-27-backed",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-20-010",
+    "date": "2026-10-20",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display pursues a two-pronged FMM-less strategy, as its MPO lithography process advances alongside inkjet printing",
+    "summary": "<p>Samsung Display is pursuing two different paths to replace fine metal mask (FMM) deposition. Just a day after Korea's ETNews <a href=\"https://www.oled-info.com/samsung-display-build-inkjet-printed-",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-pursues-two-pronged-fmm-less-strategy-its-mpo-lithography",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "innolux-2026-10-20-011",
+    "date": "2026-10-20",
+    "companies": [
+      "innolux",
+      "auo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AUO selects glass substrate specs for semiconductor processes, not size rivalry",
+    "summary": "AUO is tailoring its glass core substrate specifications specifically to semiconductor process requirements rather than competing on panel dimensions with Innolux, according to Chairman and CEO Paul P",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261020PD237/auo-substrate-lcd-packaging-osat.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-012",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Thermaltake expands AI workstation lineup on edge AI demand",
+    "summary": "Thermaltake is targeting the growing edge AI market with a new workstation lineup. Chairman Kenny Lin said the company has transformed from a gaming components maker into an AI PC and workstation syst",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261020PD232/thermaltake-workstation-gaming-market-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-20-013",
+    "date": "2026-10-20",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Samsung's HBM4 supply lock-in exposes limits of China's CXMT as Apple and Tesla seek DRAM alternatives",
+    "summary": "Samsung Electronics is expected to enter 2027 with approximately 80% of its planned memory production secured under long-term contracts, reinforcing its pricing position while China's ChangXin Memory ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261020VL218/samsung-cxmt-dram-hbm4.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-014",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hygon's revenue jumps 58% on AI chip demand, but growth slows amid 51% stock slump",
+    "summary": "China's Hygon Information Technology reported a 57.58% increase in revenue for the first nine months of 2026, reflecting sustained demand for domestic high-performance processors and AI computing chip",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261020VL213/revenue-ai-chip-demand-earnings-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-10-19-001",
     "date": "2026-10-19",
     "companies": [
@@ -145,6 +411,63 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdHB3NktNRlVhdXBVNklYSHNTZlBzNGp5M0xrSFdFYXA4MHdNSVA2MFU1bjRFc2V3bUluZnM4Q2dZbkw4Q1dBR2pib3VVWTl4NVdhVlJvak5ELXEwRnJWZmxSbWN3TjBpYlBMU1FNRFFQbHllN09CSVBNLVpiMXByYllSSmZ1bVlDcEd4Sm95eDhZd0I3c2RiNlpkTTJsM1h3NFBHUklaNERSVWNiVGZhc3BkOWlTWVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-19-009",
+    "date": "2026-10-19",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration",
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display to build an inkjet-printed OLED pilot line, as the race to replace FMM deposition heats up",
+    "summary": "<p><strong>Update (October 20, 2026):</strong> <em>A day after this report, THE ELEC reported that Samsung is also progressing with MPO, its in-house lithography-based FMM-free process, and is develop",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-build-inkjet-printed-oled-pilot-line-race-replace-fmm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-010",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Get this 144Hz 55-inch QD-Mini LED 4K TV at a better price, thanks to a $100 Amazon discount - PC Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMEZWY0NMVEVIR0NKcTEwdTZiMnJsWlZrMW5kTFVFRDN5ckZwQ0FKdkRWNHpwdHJsZlpLQzZxQ1pOeVlBMzMyZmlFQXFHa21BQk9pNUpaSmtWSXdpVDZBZmViZHhOU0I4ZzM2THZ6MD",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMEZWY0NMVEVIR0NKcTEwdTZiMnJsWlZrMW5kTFVFRDN5ckZwQ0FKdkRWNHpwdHJsZlpLQzZxQ1pOeVlBMzMyZmlFQXFHa21BQk9pNUpaSmtWSXdpVDZBZmViZHhOU0I4ZzM2THZ6MDlsSS1KZzM2dzFpYWdnRVBkMlZqWG1Da3RHQzZMUkcxLTFOclZQMHFXUTB3YzV6X0Z2cTRueEdKUHp0ZjJWWURKSnQ4WGxfc1g1OFFWSEl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "applied_materials-2026-10-19-011",
+    "date": "2026-10-19",
+    "companies": [
+      "applied_materials"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
+    "summary": "\n\t\t\t\t\t\t<p>Following the unveiling of its EPIC Center, Applied Materials revealed strong financial projections. We look at how it all ties together and feature a new video interview with CEO Gary Dicke",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/",
         "type": "rss"
       }
     ]
@@ -573,6 +896,24 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20261015PD238/semi-supply-chain-2035-ceo-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-017",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Cinema, sport, and gaming: Why SQD-Mini LED TV handles every screen moment without compromise - Gulf News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNc3ZwMnIzNVBmV0h5M1hUbEUyQ1N6MTdmQUl5eDh2Z3AwU2k3U1VPUDViYmNVYnk0QlhhMThJUnpmdDB4a3lRSXFBZ0RnUWRudkJxQkkyeE5wbjFReXRBOE9nLVhzSC1uTXZiR2lLMk",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNc3ZwMnIzNVBmV0h5M1hUbEUyQ1N6MTdmQUl5eDh2Z3AwU2k3U1VPUDViYmNVYnk0QlhhMThJUnpmdDB4a3lRSXFBZ0RnUWRudkJxQkkyeE5wbjFReXRBOE9nLVhzSC1uTXZiR2lLMk5XcHhkTmxhc1hxU1pjMXZhbExPZmlScTZoUGpFSURwc3ZOMGpBSW5ydVRQSFVja29oSm9fMGNNVmdCZlcxYkQ0b1A4VU9jYTdyb1NIcVdNZ043clZ6ZFp2MHVhTDA0akRPRjZzMWR1T2RaY0ZCcEs3R3hldjE0V2JyWlR3?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,258 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T13:19:39.626224Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-10-20-002",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Co Ltd expected to post earnings of 2 cents a share - Earnings Preview - TradingView",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOFNzbHdvTmxfMUphVkR4eUFyeWt4X2xtcFJKVEZaNDEwMk5pMFlmQWI3bHJwa1djOHhHVXFmZlp1RkpHU3RWaFRLV0pwOHFFZ0pvOVdXRllSeWZvLVczNlQtZXlpcDIwZDVWQjFGZkN1ekRqUkd6TTJ0d3JfWHR4SkdLeU5DVkc2RkFyNzhPMklDS1p2cV9nbGJBSlVVQXZwX1ZRLXF0cUMtYWJLTUZMeTdfYVJtbVdnUlRRQnRLNUdKcHgydTFuNXVUSmJDMllMeTdVbnNwRDN0cktkRGliTjRXWQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-10-20-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "MiCo Ceramics to Buy LG Display Plant for 150 Billion Won Amid Semiconductor Boom - THE ELEC, Korea Electronics Industry Media",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCbFpGUWZTWUtkX3RtcXZYLWV4Ml9LVmM5dmVnRzY1TVZ4ZHNxaW5mLTJJS1dwaGc3Q0lRTGpuZFN6dXo0YnU3X3Q4TGh2aUozTWJhZGlURjVUQ3U1a2dOamRoTktDbDQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-10-20-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display to Sell Idle Gumi Plant for 150 Billion Won - Seoul Economic Daily",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0tFYVo1M0lVVWdrX0tfLWpHWWJJaGx2VTJjZFJyWmprU0ltRlIzUmVsRW92dlNfTUtjVzZzR1o1SGJnRUZhYXNOdUxVU09nWWZsczZPZkdsSFJFS1d6RTUzMlk0cUEzc1VNLWI1WGZtUlRfWnhVbE1SLVd3ZFpWOG1ieW1QVjlVb3F3Y3Z2TFhBWnFPNS1WYzdKOGY?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_elec-2026-10-20-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Apple OLED Push Sparks New Samsung, LG Display Battle - ChannelNews.com.au",
+      "companies": [
+        "lg_elec",
+        "samsung_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec",
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHRYbW5zdGRwRVZSVGc4M3c4RnEtbXVMRGFCLXdONmwzd2xCQ0JmNXNzOXNLRGpVaGFNUFVmY2xQTm5MNnJ3YnpFaHpDbTJVNnJlSE1jYmxhUmprUHBZci1ERzE2N2k2UWZKbmFpdk1PeUtoM3RyRHoxZjFFeEt1djFLSW1lNkhsY3dvTw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-20-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thermaltake expands AI workstation lineup on edge AI demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261020PD232/thermaltake-workstation-gaming-market-revenue.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 4,
+      "topics": [
+        "earnings",
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 4
+      },
+      {
+        "id": "lg_display",
+        "count": 4
+      },
+      {
+        "id": "samsung_elec",
+        "count": 4
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 122,
+    "too_old": 166,
+    "gate1_blocked": 35,
+    "gate2_blocked": 28,
+    "passed": 18,
+    "pass_rate": "7.3%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Corning Is Moving Beyond Fiber Cables. Can AI Networking Pay Off? - Yahoo Finance",
+      "Corning: The Right AI Builder, Just Not A Buy Yet (NYSE:GLW) - Seeking Alpha",
+      "Can Meta’s Fiber Partner Corning Capitalize On Rising AI Fiber Prices? - Benzinga",
+      "Corning: Not Worth The AI Risk (Rating Downgrade) - Seeking Alpha",
+      "Corning stock: Truist lifts target for Corning stock from USD 175.00 to USD 182.00 - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為LG電子、LGD、三星電子相關動態：「LG Display Co Ltd expected to post earnings of 2 cents a ...」。主要關注主題為OLED 滲透率、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "LG Display Co Ltd expected to post earnings of 2 cents a share - Earnings Pre...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "MiCo Ceramics to Buy LG Display Plant for 150 Billion Won Amid Semiconductor ...",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
