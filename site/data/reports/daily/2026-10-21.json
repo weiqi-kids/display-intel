@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:25:57.513508Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "corning-2026-10-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Corning stock gains 2.71 percent before October 27 earnings - AD HOC NEWS",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVENaM25CUzM4OWxZX3ZOdkZLVHZOblRJVnk5UUdKYW5XUEtYNF9rajBWQnh4Zl9uTjRyXzNSSkNTVlo3Sno2SDhhUjA0OUVQU29RT0duamluenFaTmJSMXFRN0kwODhYY0VuNWZoekxPblNqU1RBU3NBbXBWd29BWWFtVEVBSTZTRFhNalNLMHNsbXhfYjhVckdWaG5SOURLM2JtWEg4OVVCcndlU213UFA2ZVA3NTZPc1J2R0otTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-21-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Micron reaches deal with Taiwan union to introduce quarterly profit bonuses in FY27",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261021PD258/micron-taiwan-profit-labor-performance.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-21-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cloud AI to drive chip growth in 2027 as Taiwan suppliers seek opportunities beyond weak consumer edge AI",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261021PD226/cloud-ai-demand-growth-taiwan-2027.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-21-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Anthropic's IPO spotlight falls on its potential US$750 billion AI compute tab",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://www.digitimes.com/news/a20261021VL212/anthropic-ipo-revenue-ai-growth.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "novatek-2026-10-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Novatek reports stronger sales: Bernstein raises target for Novatek stock - AD HOC NEWS",
+      "companies": [
+        "novatek"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOazJpcXdmUW9tVXgwTTFLY0J1U3VXOFNudkZ3ejNpNFhxaTdVWGRTVG83LUItajc4anF5ODhKTi1iM3ZibllLTzJvZXdmbWNsamJqWW54R3lISFlSZERiTW1GT3RyNUdOeFZVTDJEUHRWWW9RX3laVFRLM1A4ZnBwZ1RrMlplel9aTXBWMlpwX09pbGIwTXRNc19qcWhfd2xWTE1aNGFZajdnQTBhRUJjMFlDR2NtUjJOc1pCdllFX0k1ODFGWllvdFQxeVNRd0NW?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 4
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "novatek",
+        "count": 1
+      },
+      {
+        "id": "sony",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 368,
+    "dup_title": 119,
+    "too_old": 161,
+    "gate1_blocked": 34,
+    "gate2_blocked": 31,
+    "passed": 23,
+    "pass_rate": "9.2%",
+    "gate2_block_rate": "12.4%",
+    "gate2_samples": [
+      "Area legislators help commemorate 75th Anniversary of the Corning Museum of Glass - The New York Sta",
+      "Corning Is Moving Beyond Fiber Cables. Can AI Networking Pay Off? - Yahoo Finance",
+      "Corning: The Right AI Builder, Just Not A Buy Yet (NYSE:GLW) - Seeking Alpha",
+      "Can Meta’s Fiber Partner Corning Capitalize On Rising AI Fiber Prices? - Benzinga",
+      "Corning: Not Worth The AI Risk (Rating Downgrade) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為三星電子、康寧、Novatek Microelectronics相關動態：「Corning stock gains 2.71 percent before October 27 earnin...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Corning stock gains 2.71 percent before October 27 earnings - AD HOC NEWS（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Micron reaches deal with Taiwan union to introduce quarterly profit bonuses i...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-21",
+  "date_range": {
+    "start": "2026-10-15",
+    "end": "2026-10-21"
+  },
+  "generated_at": "2026-10-21T13:25:57.654163Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lg_elec-2026-10-17-002",
+      "date": "2026-10-17",
+      "title": "Earnings Preview: LG Display to Report Financial Results on October 22 - Moomoo",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 23,
+      "last_week": 32,
+      "week_over_week_change": "-28%",
+      "sentiment_this_week": 0.17
+    },
+    "oled_penetration": {
+      "this_week": 21,
+      "last_week": 27,
+      "week_over_week_change": "-22%",
+      "sentiment_this_week": 0.08
+    },
+    "it_panel_demand": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": -0.25
+    },
+    "mini_led": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "panel_price": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "corning": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "canon": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "novatek": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "lg_display": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "samsung_elec": {
+      "event_count": 20,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "lg_elec": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "tcl": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "applied_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 8
+    },
+    "himax": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "boe": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "innolux": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "auo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "sony": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 95,
+        "last": 120,
+        "change_pct": -20.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-15",
+      "event_count": 24,
+      "sentiment_avg": 0.18
+    },
+    {
+      "date": "2026-10-16",
+      "event_count": 17,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-10-17",
+      "event_count": 5,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-10-18",
+      "event_count": 2,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 11,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 22,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 14,
+      "sentiment_avg": -0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-15 ~ 2026-10-21）共 95 則事件，重點為「Earnings Preview: LG Display to Report Financia...」。應材表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "康寧",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Novatek Microelectronics",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "LGD",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

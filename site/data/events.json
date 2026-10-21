@@ -1,5 +1,265 @@
 [
   {
+    "id": "corning-2026-10-21-001",
+    "date": "2026-10-21",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning stock gains 2.71 percent before October 27 earnings - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQVENaM25CUzM4OWxZX3ZOdkZLVHZOblRJVnk5UUdKYW5XUEtYNF9rajBWQnh4Zl9uTjRyXzNSSkNTVlo3Sno2SDhhUjA0OUVQU29RT0duamluenFaTmJSMXFRN0kwODhYY0VuNWZoek",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVENaM25CUzM4OWxZX3ZOdkZLVHZOblRJVnk5UUdKYW5XUEtYNF9rajBWQnh4Zl9uTjRyXzNSSkNTVlo3Sno2SDhhUjA0OUVQU29RT0duamluenFaTmJSMXFRN0kwODhYY0VuNWZoekxPblNqU1RBU3NBbXBWd29BWWFtVEVBSTZTRFhNalNLMHNsbXhfYjhVckdWaG5SOURLM2JtWEg4OVVCcndlU213UFA2ZVA3NTZPc1J2R0otTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-10-21-002",
+    "date": "2026-10-21",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Novatek reports stronger sales: Bernstein raises target for Novatek stock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOazJpcXdmUW9tVXgwTTFLY0J1U3VXOFNudkZ3ejNpNFhxaTdVWGRTVG83LUItajc4anF5ODhKTi1iM3ZibllLTzJvZXdmbWNsamJqWW54R3lISFlSZERiTW1GT3RyNUdOeFZVTDJEUH",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOazJpcXdmUW9tVXgwTTFLY0J1U3VXOFNudkZ3ejNpNFhxaTdVWGRTVG83LUItajc4anF5ODhKTi1iM3ZibllLTzJvZXdmbWNsamJqWW54R3lISFlSZERiTW1GT3RyNUdOeFZVTDJEUHRWWW9RX3laVFRLM1A4ZnBwZ1RrMlplel9aTXBWMlpwX09pbGIwTXRNc19qcWhfd2xWTE1aNGFZajdnQTBhRUJjMFlDR2NtUjJOc1pCdllFX0k1ODFGWllvdFQxeVNRd0NW?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-003",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "Apple Seeks LCD iMac Development Data, Signaling a Slower OLED Transition - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5oN3FKTFdWdUFLX2NfX2FoNDJMbU52bm85anc1YThlQ2d3RmNTVmdXQ3hVUFhqX0h6V0VUaGRzelZ4Z1ZnUWQxQlUwY0FES29tZ1cyX1AxSmNlVzhoeW9FUUZ0T1B2ZTR4OHI4Mmc4dm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oN3FKTFdWdUFLX2NfX2FoNDJMbU52bm85anc1YThlQ2d3RmNTVmdXQ3hVUFhqX0h6V0VUaGRzelZ4Z1ZnUWQxQlUwY0FES29tZ1cyX1AxSmNlVzhoeW9FUUZ0T1B2ZTR4OHI4Mmc4dmI4d19FTUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-21-004",
+    "date": "2026-10-21",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "“Discover New Ways to Live Smarter”: Samsung Electronics Launches Samsung Week 2026 in 63 Countries",
+    "summary": "To mark its founding, Samsung Electronics is holding its global Samsung Week 2026 promotion from October 12 to November 1 in 63 countries. Samsung Week is Samsung’s largest annual promotion for custom",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/discover-new-ways-to-live-smarter-samsung-electronics-launches-samsung-week-2026-in-63-countries",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-21-005",
+    "date": "2026-10-21",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "panel_price",
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Omdia: foldable OLED panel shipments to jump 44% in 2026",
+    "summary": "<p>Omdia says that following the latest wide-format foldable smartphone launches by both Apple and Samsung, foldable OLED panel shipments will reach 29 million units in 2026, up 44% from 2025.</p><img",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/omdia-foldable-oled-panel-shipments-jump-44-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-006",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple's iPhone Duo sees high demand, preorders sell out within minutes and deliveries slip to late January",
+    "summary": "<p>Apple started taking preorders for its first foldable smartphone, the <a href=\"https://www.oled-info.com/apple-iphone-duo\">iPhone Duo</a>, on October 16 - and demand seems to be very strong. The in",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/apples-iphone-duo-sees-huge-demand-preorders-sell-out-within-minutes-and",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-007",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED display backplanes (OLED-Info Pro Video Podcast E4, 2026-10)",
+    "summary": "<p>Episode four of the OLED-Info Pro Video Podcast, in which we discuss OLED display backplanes, from PMOLEDs to High-Mobility Oxides - look at the advantages of challenges of each technology, the fut",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/videos/oled-display-backplanes-oled-info-pro-video-podcast-e4-2026-10",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-008",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "SK Materials JNC and SN Display to establish a mass production system for perovskite nanocrystal emitters",
+    "summary": "<p>Korea's <a href=\"https://www.oled-info.com/sk-materials-jnc\">SK Materials JNC</a> (SKMJ) announced that it has signed an MoU with SN Display to establish a mass production system for SN Display's <",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/sk-materials-jnc-and-sn-display-establish-mass-production-system-perovskite",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-009",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Micron reaches deal with Taiwan union to introduce quarterly profit bonuses in FY27",
+    "summary": "Micron Technology's labor dispute in Taiwan appears set for resolution after its Taichung union signed a labor-management agreement with the company and withdrew from the mediation session scheduled f",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261021PD258/micron-taiwan-profit-labor-performance.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-010",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cloud AI to drive chip growth in 2027 as Taiwan suppliers seek opportunities beyond weak consumer edge AI",
+    "summary": "Market expectations for cloud AI demand have generally remained bullish through 2028-2029, with order visibility extending clearly over the next two to three years. The outlook for 2027 is therefore s",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261021PD226/cloud-ai-demand-growth-taiwan-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sony-2026-10-21-011",
+    "date": "2026-10-21",
+    "companies": [
+      "sony"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sony keeps chip unit as imaging sensors, TSMC partnership drive strategy",
+    "summary": "Sony Group will not spin off its semiconductor business, which focuses on image sensors, president and CEO Hiroki Totoki said recently. The group is retaining the unit because its imaging-sensor exper",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261021PD237/sony-tsmc-production-business-partnership.html?chid=10",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-21-012",
+    "date": "2026-10-21",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung shifts M2800 modem to 2nm, frees 4nm capacity for HBM base dies",
+    "summary": "Samsung Electronics is transitioning its 4nm production capacity to HBM, with its next-generation mobile modem, the M2800, set to move to a 2nm process. The freed 4nm capacity will primarily support p",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261021PD228/samsung-4nm-hbm-modem-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-21-013",
+    "date": "2026-10-21",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration",
+      "it_panel_demand"
+    ],
+    "impact": "negative",
+    "title": "Samsung Display accelerates MPO and inkjet OLED development for laptops and monitors",
+    "summary": "Samsung Display (SDC) is reportedly advancing both micro-patterned OLED (MPO) and inkjet-printed OLED technologies in parallel, expanding its non-fine metal mask (non-FMM) RGB OLED lineup. SDC is curr",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261021PD247/sdc-oled-panel-production-visionox-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-014",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Anthropic's IPO spotlight falls on its potential US$750 billion AI compute tab",
+    "summary": "Anthropic's draft IPO prospectus captures the tension behind its rapid growth: first-half revenue surged to US$16.3 billion, while the company reported a US$80.7 billion net loss and outlined potentia",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261021VL212/anthropic-ipo-revenue-ai-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-10-20-001",
     "date": "2026-10-20",
     "companies": [
@@ -261,6 +521,157 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20261020VL213/revenue-ai-chip-demand-earnings-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-20-015",
+    "date": "2026-10-20",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Corning (GLW) Reports Next Week: Wall Street Expects Earnings Growth - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQnBncnRuWUVKeGtNaHE1MjhrNUFxLW1McVcxbXRPbi1rTFB1NlpTZlhuZlI3eDVFZHVNNUNDSlc5YXNkM1daSm9EOGViQmNyNGVISW5NZjc3eklGU0l0U0RwSVVaeVp3eVNmbUkxYn",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQnBncnRuWUVKeGtNaHE1MjhrNUFxLW1McVcxbXRPbi1rTFB1NlpTZlhuZlI3eDVFZHVNNUNDSlc5YXNkM1daSm9EOGViQmNyNGVISW5NZjc3eklGU0l0U0RwSVVaeVp3eVNmbUkxYnNoWFh3LS1JWXE2aG5JNVVSYUNBMGZ6OWVVZ2NLdUh4YU1aTUczX0s4U09B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-10-20-016",
+    "date": "2026-10-20",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon U.S.A. and DigiTech Launch Texas ST2/X1 UV LED - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxOakx4Q1REYkJJUEt1TWRHZ0pkN05MVGxJOVNwdk9NeV94NEZEVmxXV1B1YjNpRTlDc3JMalo4cG5OaW5RdG01LTVidlppRFlDeWtrclpHUHdqUDAtT3c0YUxDd0RWU0ZnU2hlMGdBR0",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOakx4Q1REYkJJUEt1TWRHZ0pkN05MVGxJOVNwdk9NeV94NEZEVmxXV1B1YjNpRTlDc3JMalo4cG5OaW5RdG01LTVidlppRFlDeWtrclpHUHdqUDAtT3c0YUxDd0RWU0ZnU2hlMGdBR0E3b3ptMWFicDk1M2dUOGc4ZnBTazM2X215bnU0VE5HZm9nYktZdVlnVTRYMlkwOXl6SFZQX3VwMTNFYmdid2Q3Y2NzODU4amNpdm1YdmtvWUduOFc5eUpLUG1xOVhyVEtCcnNueXA3dXlYWktYbDdjMi1jOWx0VVA1WjZ0ZF9PSXVUbVN5cVNYcVRnWkF0V244bk5XTlAtYml6a0xhS2RKUGYzbXphYnF6cDhQQWpR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-10-20-017",
+    "date": "2026-10-20",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Financhill cites USD 30.20 target for Himax Technologies stock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNSDdENUkxNjVkSG1vSUN0YVZ1eTNQMGJ5YkVTZ0t6eHpISmpCNVlMbVhYZHJlY21ZbTYyTDRsZlJJMXRNTi1ieXFQamduMmtVQmc5YjRYbm1YeWFVU3Z4eDU4TWF4a19hd0JyS3dMNn",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSDdENUkxNjVkSG1vSUN0YVZ1eTNQMGJ5YkVTZ0t6eHpISmpCNVlMbVhYZHJlY21ZbTYyTDRsZlJJMXRNTi1ieXFQamduMmtVQmc5YjRYbm1YeWFVU3Z4eDU4TWF4a19hd0JyS3dMNnhoc0kyY1psdnpFLU00MnNUQ3hYN3EwRmI5NC1TWVZFOHQ1bDYxc0FjQmQ2cGp4Vnh4UWxKNDBNaGdZdGFpRjNhUkN1ZmY4ZXUxcmlPY2t3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-018",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED gaming monitors emerge as shining light in dim display market - Korea JoongAng Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHBnbFFFeGFQN3RvQzAzOFhWZTlnNm5IU3BOYmlFdk9uUEk4LU1wa1I2X2RpLXB0bV9WalR1Y3dNeHR1bVJFbkhZTGZUZy1yazVNZkpIQ1psYU1uZWVxYWMtSHY3Mk00WHJUNm9nbE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTHBnbFFFeGFQN3RvQzAzOFhWZTlnNm5IU3BOYmlFdk9uUEk4LU1wa1I2X2RpLXB0bV9WalR1Y3dNeHR1bVJFbkhZTGZUZy1yazVNZkpIQ1psYU1uZWVxYWMtSHY3Mk00WHJUNm9nbE10WV93cU5SdnF2XzUyYlp1VkQ2Y19kZzVFa0ZubGg2c1JQVmM3QkhxQ0RwaEM4eDU0YWtEWVBiMmJPbmJIRGM0UnZiMVB0SDFiV2F3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-019",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Boeing Asks Hanwha Systems to Develop Fighter Jet OLED Displays - THE ELEC, Korea Electronics Industry Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Mb19DMWllc1A1SjgwZFFBU196WFhRMFVKSmstcmJiTU5ZZEhwcVVMSk1mQ0NkZ2d6LW1NTXdsQ0wtZWp3S2lWMjNOSno1Y3NnSjFnR3ljdmMwellmYldDOEJDejRjUUE?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Mb19DMWllc1A1SjgwZFFBU196WFhRMFVKSmstcmJiTU5ZZEhwcVVMSk1mQ0NkZ2d6LW1NTXdsQ0wtZWp3S2lWMjNOSno1Y3NnSjFnR3ljdmMwellmYldDOEJDejRjUUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-10-20-020",
+    "date": "2026-10-20",
+    "companies": [
+      "lg_display",
+      "lg_elec",
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "HKC evaluates large-area WOLED line for TVs and monitors panel production",
+    "summary": "<p>According to UBI Research, China's <a href=\"https://www.oled-info.com/hkc\">HKC</a> is evaluating an investment in a third OLED project, called H8, following its H6 and H7 projects. While the first ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/hkc-evaluates-third-oled-project-likely-large-area-woled-line-tvs-and-monitors",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-021",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "RGB Mini LED vs. OLED TVs: Which One Is The Best? - RTINGS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrY1pPbnhlZjY2NFlid0ZjeHBzM1Z3bzFwS0JOWnBZY2lldVdBdkdNMVd3OHpNR25lSmlpelNSRHpubVg3ajJrNURYd3RJNmZobXpOTDBMX1NJQUQzSnJtM0hB?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrY1pPbnhlZjY2NFlid0ZjeHBzM1Z3bzFwS0JOWnBZY2lldVdBdkdNMVd3OHpNR25lSmlpelNSRHpubVg3ajJrNURYd3RJNmZobXpOTDBMX1NJQUQzSnJtM0hB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-022",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple's Touchscreen OLED MacBook Pro: Everything We Know - MacRumors",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFakV4emttSFlyZFd2MWd1ZzBWQ1Z3cHZ6c1ZSMHBxTExxQl9JSDE5cmpRTU5Pc1JHNGY4ajNOTVNlTEFVY2N6clBYbzVtWXlDOE5RVXlRTURsRTV0elBUbWJrQUZCOWs?oc=5\" targ",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFakV4emttSFlyZFd2MWd1ZzBWQ1Z3cHZ6c1ZSMHBxTExxQl9JSDE5cmpRTU5Pc1JHNGY4ajNOTVNlTEFVY2N6clBYbzVtWXlDOE5RVXlRTURsRTV0elBUbWJrQUZCOWs?oc=5",
         "type": "rss"
       }
     ]
@@ -1790,6 +2201,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wU0ZncWlrX1RzOVI0UFVzdWNJczI5czI1MWl3UjhXc0xUR2lybG9BYjBBQWtnTko4NG5mSHVjZTJBT3VRMXZHZnJJMU9PcEJuQnR3c2Z4NVZ2T2VpS2FfZTNYc05DakU4LW84Yk1STmZMNjQxQ3RnenM1UjE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-10-14-024",
+    "date": "2026-10-14",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Controlling Shareholder Raises Stake to 3.46% in 100 Million Yuan Deal - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQdW51U2tLTnZ2dlJsQjZWNXNYMWRWTEcweUhsZHduUm1kTG1EeDRuTDJkelpCUnB0dkxDeEVxVEVZemdyT2VtQ2gtOUVUYzJKYmJQOXJCZG9OX0lmYlhwUS1uR1pidGs3N21ic3dQNW",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdW51U2tLTnZ2dlJsQjZWNXNYMWRWTEcweUhsZHduUm1kTG1EeDRuTDJkelpCUnB0dkxDeEVxVEVZemdyT2VtQ2gtOUVUYzJKYmJQOXJCZG9OX0lmYlhwUS1uR1pidGs3N21ic3dQNW9QQWRPWmxtWmN1ZjVCUGg4bVVJVVlVWlk0NVZGT2RkVEoxSW1sU281TEpYUnhGNDNMZWJObzlJOWwza2g2aVgxQzk5SUdLeDdZTC1iV3l3b0hndVpxdWhtTEwzYzFJUmM?oc=5",
         "type": "rss"
       }
     ]
