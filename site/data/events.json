@@ -1,5 +1,505 @@
 [
   {
+    "id": "canon-2026-10-22-001",
+    "date": "2026-10-22",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon to Boost Lithography Equipment Production in 2027 - JIJI PRESS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE93bGRvYVFXbXBQSFVCdzdjUW5FUEZUNlRYckVLaGR4NVcyM1NYRF9DUGJRWnBZTGpDNUV2ZkNoWG5IZWszTHh6YkNpSGNTUTU0ZHpIZm8zMzlhZUk?oc=5\" target=\"_blank\">Cano",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93bGRvYVFXbXBQSFVCdzdjUW5FUEZUNlRYckVLaGR4NVcyM1NYRF9DUGJRWnBZTGpDNUV2ZkNoWG5IZWszTHh6YkNpSGNTUTU0ZHpIZm8zMzlhZUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-002",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display swings to Q3 profit, but earnings fall 42% on year - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCWjFFbkIxd3NBTTQtTm9xb0x6WmFQQkhscWRDV0lzZHJmaHFKUEdBcU1QRU44cDZISnBfVEFialBjZWFVdU5NbGdlcGM2V095SnZ6cmtNOA?oc=5\" target=\"_blank\">LG Displa",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCWjFFbkIxd3NBTTQtTm9xb0x6WmFQQkhscWRDV0lzZHJmaHFKUEdBcU1QRU44cDZISnBfVEFialBjZWFVdU5NbGdlcGM2V095SnZ6cmtNOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-003",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display’s Q3 Operating Profit Falls 42% on Year - THE ELEC, Korea Electronics Industry Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iV0NlUy1nTlRNN3AxM3RCTFJqZHZUSmlEY09PUk4yWk51dk9ra0dVQldJNmh0ZmdEUnBrVThHZjFzVlBvWFBDZk1nRDRrMGdRc0M2TzAxc05qTlZJYUloRkI1MVN6QU0?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iV0NlUy1nTlRNN3AxM3RCTFJqZHZUSmlEY09PUk4yWk51dk9ra0dVQldJNmh0ZmdEUnBrVThHZjFzVlBvWFBDZk1nRDRrMGdRc0M2TzAxc05qTlZJYUloRkI1MVN6QU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-004",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display: OLED lifted Q3 mix and shipments, while FX, chipflation and demand risks cloud the outlook - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOd1h0dEZqOWdUckRNZWt6SXRnVURma0hIZUhmaFk4dUhzb0lnOTh2TlZleFNNWDBvcFdVejEwalUwMlF6XzVtUG5LaXI2YzJYU0RONDBBa1FfdURCUlNBMllhc0tSZnd5ci1GN09XMi",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOd1h0dEZqOWdUckRNZWt6SXRnVURma0hIZUhmaFk4dUhzb0lnOTh2TlZleFNNWDBvcFdVejEwalUwMlF6XzVtUG5LaXI2YzJYU0RONDBBa1FfdURCUlNBMllhc0tSZnd5ci1GN09XMi1sQ3RyS2FRNF91SDQ5U3hTTDMtZEU1WjBSWTZtemR3R0hSdGFGT2NiUWRuTEM3V1BiLWJUcHNqbnNZUWJfLWlrdEsxalY4WmJORmtJcFVmMFp4UW9paGJ0UWl1d1dTRnpCaFVwRFBxS2h0eUR2NEF3SWFQUGk0ZlBqVTFHQm84SWc1ODN6Rk9ES1NSQlJQTDhMRlR2b1FCMV9Cb2lCaTg2MnhaMjg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-005",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Q3 Earnings Up, Revenue Down - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNd25kOUYxNWtvWHQ4elpreWp5a1dIeW92ZXJZZEduYVdINGxyYnh6dGZYZ3FqeGZWWGZkWkdvSGhYWWJKYmZXQm5oMC1kSHdrR0dmbTd5WGNPTnpnRWJtUkt4amlEQ1I4Q3VfZU1Dbj",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd25kOUYxNWtvWHQ4elpreWp5a1dIeW92ZXJZZEduYVdINGxyYnh6dGZYZ3FqeGZWWGZkWkdvSGhYWWJKYmZXQm5oMC1kSHdrR0dmbTd5WGNPTnpnRWJtUkt4amlEQ1I4Q3VfZU1DbjNnLWF3MHNFallRTUNTODE1dlRpNkMyLTlOLVltWTUzdF9rdk5FalE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-006",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Sees Foldable Phone Market Outgrowing Forecasts as Apple's 'iPhone Duo' Preorders Lift Sentiment - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4yX3p2MjBLTF9zVFF5YmpmbzlYR1FfNDFESWdLQWMwd1JwM1B6MmN5ZHViTnN1TkRkNHdOc0VPVVdiLVNUZk1MQ0w0RWExcXVpb2xGQnVNaVpKN3ZWQmxFcld0azN3WDVhUTR3ZHdFRW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yX3p2MjBLTF9zVFF5YmpmbzlYR1FfNDFESWdLQWMwd1JwM1B6MmN5ZHViTnN1TkRkNHdOc0VPVVdiLVNUZk1MQ0w0RWExcXVpb2xGQnVNaVpKN3ZWQmxFcld0azN3WDVhUTR3ZHdFRWJ4bWNfVmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-007",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Returns to Profit on OLED Shipments - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT0t3WXFlUlZZMmk0aExtbUw2eXlGajhfSFNFamlTLWJ6SEhUekpNSk1DbFBOb3hYMWZ5ZUdxQ0pFUGI2UEhmNUVLVnp3NXRzaTREX1dqeUZ6OWxrSE9xZmdjb05nVTZkdHExQlgybj",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT0t3WXFlUlZZMmk0aExtbUw2eXlGajhfSFNFamlTLWJ6SEhUekpNSk1DbFBOb3hYMWZ5ZUdxQ0pFUGI2UEhmNUVLVnp3NXRzaTREX1dqeUZ6OWxrSE9xZmdjb05nVTZkdHExQlgybjJSamJLWUlUSkdYNndyWVFZN19JSUQ0czF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-008",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "(LEAD) LG Display swings to profit in Q3 on strong S. Korean won - Yonhap News Agency",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE95ckluRGVVaG1tU3NreG03aklKSFVXeldDSC16VmNnbk1fNURPcGpVTmkxdG9UV21QYks4SVF6eUQ5Vk1EZ3EtWDNXWklxYVczSllUYkN1RXhkUQ?oc=5\" target=\"_blank\">(LEAD",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95ckluRGVVaG1tU3NreG03aklKSFVXeldDSC16VmNnbk1fNURPcGpVTmkxdG9UV21QYks4SVF6eUQ5Vk1EZ3EtWDNXWklxYVczSllUYkN1RXhkUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-009",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What LG Display (LPL) Said on Its Q3 Earnings Call - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV1lJamMwNkFjeHUzX0o4REtwVFJTUzNPUTZ4UDg3T1h3VFp5RHlTQ0JmNVlWR2sxa3RSNElEd1o5dHRjd216N251bmxjbTNUZXY5bGlWeEd0cThYN2tPYThtMFJLa0V1ZGRLUUVOTX",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV1lJamMwNkFjeHUzX0o4REtwVFJTUzNPUTZ4UDg3T1h3VFp5RHlTQ0JmNVlWR2sxa3RSNElEd1o5dHRjd216N251bmxjbTNUZXY5bGlWeEd0cThYN2tPYThtMFJLa0V1ZGRLUUVOTXZmbmdkenZwMDZBZnZISzMzeTdvQjljbDFpRW5jWFZDQWxTVnp1T0FRVzUwdFh0MkVLVkJ5OUVVcFRGY3ZqcVB2Wi1nSEJvWERlMG91eHJXbTEzc0NIQkN1WlYycGpiQlc5cGdVSW8zZjNxaUNnWnhSeEN3MjVlQmNuSVFzX3d3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-010",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display announced on the 22nd that its consolidated provisional operating profit in the third qua.. - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lWHhPY3hwUmVNaW1CSkx4RmF0blpXOHJHNlZwVElVcVdFWlpyNGgwdU1TaG5rLVZ2NU5mVnJxQjN6aXl1NlE4MGFxWC1YTGs?oc=5\" target=\"_blank\">LG Display announced",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lWHhPY3hwUmVNaW1CSkx4RmF0blpXOHJHNlZwVElVcVdFWlpyNGgwdU1TaG5rLVZ2NU5mVnJxQjN6aXl1NlE4MGFxWC1YTGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-011",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Q3 2026 Earnings Call Is Live - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOY3djTWFuQURMRWMyMTZUdXM4a1U4M3ZyTWRjSjZlMmpmZzlFTFg3MmZuRk1UcHlpUHZ0MHpvRE9nc2Fnb3pOWDVBajJWTjF6NGIyTmlsTDN1cXVsX0xJTDhGc0ZWSTFwRFNEQzk5Q2",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY3djTWFuQURMRWMyMTZUdXM4a1U4M3ZyTWRjSjZlMmpmZzlFTFg3MmZuRk1UcHlpUHZ0MHpvRE9nc2Fnb3pOWDVBajJWTjF6NGIyTmlsTDN1cXVsX0xJTDhGc0ZWSTFwRFNEQzk5Q29GOVluNVA5SWNuOGljdjhaQVRzV3VRRUI3LUNJWThzWElLOUFyb1Z0TzRYQk9aclVESzd3TmNvSmY5VC10Z0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-012",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "[LG디스플레이 Q3 2026 Earnings Call] LG Display posts record 67% OLED revenue share but operating profit falls 42% on strong won, chipflation - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xdkl0d1VCbW9kemM1M2Fya0c2eTFhRldPcUFYcTd0aWcxVXJDaTBZTHdNY3hsTS1jUW9xNjJlVVFzcnBWMTFUbzAzdXZPSXRyelRDS0VybGw3ckFnSXI2ZkQyRG0?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xdkl0d1VCbW9kemM1M2Fya0c2eTFhRldPcUFYcTd0aWcxVXJDaTBZTHdNY3hsTS1jUW9xNjJlVVFzcnBWMTFUbzAzdXZPSXRyelRDS0VybGw3ckFnSXI2ZkQyRG0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-013",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display lifts OLED mix but profit drops as chipflation hits Korea sales - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPV3dhWTFDYmNuWlFYQlFBSWZBbS1lejhWWkJjZEtJenQ4dDJsakhvLTljV3FqLTJaal92R1gtSmZfazRmSEowczlQWExIQWUzcnY3U3hsdUItUE1na25MLXBQMVFsYjl3aGFqOTMzZW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV3dhWTFDYmNuWlFYQlFBSWZBbS1lejhWWkJjZEtJenQ4dDJsakhvLTljV3FqLTJaal92R1gtSmZfazRmSEowczlQWExIQWUzcnY3U3hsdUItUE1na25MLXBQMVFsYjl3aGFqOTMzZWEwM1NLWTA2WEdFMmN6VjVNbmk0aGd1NU1MNy1hUldn0gGOAUFVX3lxTE9Xd2FZMUNiY25aUVhCUUFJZkFtLWV6OFZaQmNkS0l6dDh0MmxqSG8tOWNXcWotMlpqX3ZHWC1KZl9rNGZISjBzOVBYTEhBZTNydjdTeGx1Qi1QTWdrbkwtcFAxUWxiOXdoYWo5MzNlYTAzU0tZMDZYR0UyY3pWNU1uaTRoZ3U1TUw3LWFSV2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-014",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display: OLED-led shipments restored profit, while revenue remained down 10% YoY - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPS3RLMU5ZaHExaEl6ZmZKejBJNXhRV0kySHkzME16RktwS295MG5TRGJ3b29GbUFiVC13WGhvb2I3c0JKSFV2U0xNSW9iVEZ1dDFySE1ZLUZ5UG8wMFdGMG4tc2xEaXluQmZpVW5oSS",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPS3RLMU5ZaHExaEl6ZmZKejBJNXhRV0kySHkzME16RktwS295MG5TRGJ3b29GbUFiVC13WGhvb2I3c0JKSFV2U0xNSW9iVEZ1dDFySE1ZLUZ5UG8wMFdGMG4tc2xEaXluQmZpVW5oSS1Gak1qb3dOaHdkN3NzTWJmT3R0VWhCMDFEZUloak9vTTVQNGhVd2VJV09vQUJtTUlDU3REZlhVdk5sSXRJX2FDam16M183b3F3Y3F1eGR3em1aRk5UQXVPRlZHQlJDcC00WS1nMjhHMWVlS2ljRG42Q3BoeXRXZVNWZVBHMm1hbzZwMDZPZWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-015",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "LG Display warns smartphone OLED growth limits profit, pursues tech-led cost cuts - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQLXRHWnF1dFRKY1pLdVRtTDRncTRxUFJGNXBPb1FMV0RDUlRCQ1pqY043NS1ZT3JrSC13ZlMwOVJTeGVieEloXzdHeDJxdlZEUzQ5TG1WeU4tN2ZLSFZLU24xWE9sbnlDTkpwYXotVU",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLXRHWnF1dFRKY1pLdVRtTDRncTRxUFJGNXBPb1FMV0RDUlRCQ1pqY043NS1ZT3JrSC13ZlMwOVJTeGVieEloXzdHeDJxdlZEUzQ5TG1WeU4tN2ZLSFZLU24xWE9sbnlDTkpwYXotVUZOR0RHMExJN253cW5iRmZwc1FuV1d5ZUQtU0gyU2ZR0gGOAUFVX3lxTFAtdEdacXV0VEpjWkt1VG1MNGdxNHFQUkY1cE9vUUxXRENSVEJDWmpjTjc1LVlPcmtILXdmUzA5UlN4ZWJ4SWhfN0d4MnF2VkRTNDlMbVZ5Ti03ZktIVktTbjFYT2xueUNOSnBhei1VRk5HREcwTEk3bndxbmJGZnBzUW5XV3llRC1TSDJTZlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-016",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display returns to profit but posts 42% YoY drop in Q3 operating income - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1KeTk4TVJ4d2hTeGwzOWJmWTJ1Mml6cVRUYkJLY3I4dlNVN1RZUXRJWGY1NGFPNjV0d1MxX3dVbnhHS2FSUWNHakgtbUc3cFhmX05CVFNJajIyUUNmYWZHT1gzNHRxOTdIM0hoRkw0bX",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KeTk4TVJ4d2hTeGwzOWJmWTJ1Mml6cVRUYkJLY3I4dlNVN1RZUXRJWGY1NGFPNjV0d1MxX3dVbnhHS2FSUWNHakgtbUc3cFhmX05CVFNJajIyUUNmYWZHT1gzNHRxOTdIM0hoRkw0bXZRbzhWem5neEJ30gGOAUFVX3lxTFBXcWFyV0p1NW8yNHBiYWdzY3Flc2VmOFFsaUtubVJVQjFpQ0lIbFJ6WGNyQlRldFRZRWhCY0preFJubFZfRlR0WmNLVHJWNFJhb1k5VExodEdESGIxSmRCUl91UEZNMGx1THJOU3NDR2hpX3V4Ykk2OHpzZGo4VDdQTnV3MjBKUFp3LWg1UWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-017",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display forecasts Q4 panel shipment area to rise 10% amid demand risks - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUQzbkNhNFlpVGN6RVp3eU1vMVhwVzJsU3g5V05JTXJscXVvZnd4aDJjekwta1lQSzNabTVKSGVQQmVmU3NKWmQtcTZJeDEwXzdqeUVxM3UzNjhxUUhST0xfNER0NEJJd2lwTDJqZk",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUQzbkNhNFlpVGN6RVp3eU1vMVhwVzJsU3g5V05JTXJscXVvZnd4aDJjekwta1lQSzNabTVKSGVQQmVmU3NKWmQtcTZJeDEwXzdqeUVxM3UzNjhxUUhST0xfNER0NEJJd2lwTDJqZkNUaU9rWGNJNFg0YXdJLXd3cWZlRUxQazJMZ242STNn0gGOAUFVX3lxTE15RDNuQ2E0WWlUY3pFWnd5TW8xWHBXMmxTeDlXTklNcmxxdW9md3hoMmN6TC1rWVBLM1ptNUpIZVBCZWZTc0paZC1xNkl4MTBfN2p5RXEzdTM2OHFRSFJPTF80RHQ0Qkl3aXBMMmpmQ1RpT2tYY0k0WDRhd0ktd3dxZmVFTFBrMkxnbjZJM2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-018",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Sunic System supplies an OLED R&D deposition system to Merck",
+    "summary": "<p>Korea-based OLED deposition equipment maker <a href=\"https://www.oled-info.com/sunic-system\">Sunic System</a> disclosed that it is supplying an OLED research deposition system to <a href=\"https://w",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/sunic-system-supplies-oled-rd-deposition-system-merck",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-019",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Micron overhauls pay in Taiwan as unions push for profit sharing",
+    "summary": "Micron is overhauling how it pays employees, promising quarterly profit-sharing bonuses and better pay and benefits for its Taiwan staff. The changes follow a labor dispute with the company's unions i",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261022VL223/micron-taiwan-labor-staff-samsung.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-020",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PSMC raises mature-node prices again, targets 20% increase in 2027",
+    "summary": "Powerchip Semiconductor Manufacturing (PSMC) reported third-quarter 2026 revenue of NT$21.3 billion (US$654.3 million), up 23% quarter-over-quarter, as higher foundry prices, a stronger average sellin",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261022PD248/psmc-2027-capacity-2026-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-021",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Tesla's Megapack boom meets AI power crunch, but margin gains raise questions",
+    "summary": "While Tesla is expanding its ambitions in autonomous transportation and embodied AI, developments in its energy-storage business are drawing attention following a mixed set of financial results in the",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261022VL215/tesla-electricity-infrastructure-transportation-demand-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-022",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Texas Instruments posts rising Q3 sales across data centers, cars, industry",
+    "summary": "Texas Instruments reported strong revenue growth in its third-quarter earnings call due to strong demand across its industrial, automotive, and data center businesses. The company said it is facing a ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261022VL219/texas-instruments-sales-data-growth-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-22-023",
+    "date": "2026-10-22",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Samsung reportedly overhauls DRAM, NAND R&amp;D incentives to retain talent and accelerate next-gen memory chips",
+    "summary": "Samsung Electronics is reportedly restructuring its semiconductor research operations and performance-based compensation system to accelerate next-generation DRAM and NAND flash development, bringing ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261022VL214/samsung-dram-incentives-nand-talent.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-024",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiwan's Aero Win expands role in next-gen engine programs amid global aircraft backlog",
+    "summary": "Taiwan's aerospace components maker Aero Win Technology is positioning itself for a new growth cycle, capitalizing on robust aircraft engine demand while expanding its role in next-generation developm",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261022PD230/taiwan-aircraft-production-development-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-025",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Why RGB-Mini LED was Always a Compromise, & How SQD-Mini LED TV Solves the Problems it Could Never Fix Itself - ITP.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVDRkU2I0T1RTcWFMb0Jpc3BOS2dVSENZUjRXclZHbHFENmFBUjRGcnlieEFmSmFpN05wQzV4NjQySEY0SUhrRElFNGhScXEwUGhfNkkyNzd3NW9RMFVJTFp5d0JRUFlsVk5Vb2JRUn",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVDRkU2I0T1RTcWFMb0Jpc3BOS2dVSENZUjRXclZHbHFENmFBUjRGcnlieEFmSmFpN05wQzV4NjQySEY0SUhrRElFNGhScXEwUGhfNkkyNzd3NW9RMFVJTFp5d0JRUFlsVk5Vb2JRUnRuVmtPbEUyQkVzNjNiYlZ4bWZvSzd4QmtRMjg2TTlLVlIta3VSQXVlUTZMMFhRQjVGRlQ5ckVuSlR5QUlOeDQ2NXc2blRURklLZW8wczR5QWhWU2tjMmlsZGM0dzFQWW5VU1JNV2lGQjFSQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-10-21-001",
     "date": "2026-10-21",
     "companies": [
@@ -255,6 +755,82 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20261021VL212/anthropic-ipo-revenue-ai-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-21-015",
+    "date": "2026-10-21",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning approves major Wilmington expansion after local incentives - Wilmington Star-News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnVKY1VJcEtBYXlEbkZUQzVXTmJBT21nS0VKY2NkR0F3NWRGdWNqUmsxY3dUeXlIQUJHbkQ1eFkxa2ZUazRYS1VuTkN1UFNPT3Q3MFJIbEJVRjBuc0hIZzhwc2lsNXI5SGhjQW8za2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnVKY1VJcEtBYXlEbkZUQzVXTmJBT21nS0VKY2NkR0F3NWRGdWNqUmsxY3dUeXlIQUJHbkQ1eFkxa2ZUazRYS1VuTkN1UFNPT3Q3MFJIbEJVRjBuc0hIZzhwc2lsNXI5SGhjQW8za2tMQTZ4Z2lENXFzUUFNQmpOMXd6T3AxWG1GNUlnZ1I4MFBvdzA0MHF1bzluSENVaEwwZHh4am40M1pVRWlhV3htdlZjaEowQUY4ZHZBdzJKdEI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-21-016",
+    "date": "2026-10-21",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning announces $585 million Wilmington expansion, adding 414 jobs - WWAYTV3",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPOVNmT3JvQ21hRVp4OFhTQ29fZXVSU2dWS3E4UTZ0M21zdTVneHZLTVVJUzNTaEFfZ3VyU3Y4OVE4ZlVUTDZHMGxtSkFWMW1pSmtVYWk5WDFGbnhxNm9YZTdJZVp5WmwzV2JhLWJVMl",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOVNmT3JvQ21hRVp4OFhTQ29fZXVSU2dWS3E4UTZ0M21zdTVneHZLTVVJUzNTaEFfZ3VyU3Y4OVE4ZlVUTDZHMGxtSkFWMW1pSmtVYWk5WDFGbnhxNm9YZTdJZVp5WmwzV2JhLWJVMldPQ2M0eW5NbFdPRy1tcDdpVHhmVV9MaGd0NWpwTVlHZkljRXE5VHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-21-017",
+    "date": "2026-10-21",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display’s Profit Slid As Forex And LCD Shipments Weighed - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQY3V2bUJ1alhFQzFheUVIQmpBZWhXTTNqbEZHZTgyS0UzYWJpUXZfUm8yOTlqQ25uMGQ4Ym1PcVR0dWNveVdTemIxZWZTeW1tdFhFNWNJWXFkUlBKcER0Yk0wSmdKZExMamE2amE1cV",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY3V2bUJ1alhFQzFheUVIQmpBZWhXTTNqbEZHZTgyS0UzYWJpUXZfUm8yOTlqQ25uMGQ4Ym1PcVR0dWNveVdTemIxZWZTeW1tdFhFNWNJWXFkUlBKcER0Yk0wSmdKZExMamE2amE1cVFCVElVQUdEaWxCa2QwTkNwT0FlZ1pBQ093Q3RFVGx3WXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-018",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "positive",
+    "title": "MicroLED-Connect 2026 in review: 25% growth, top keynotes and what our attendees said",
+    "summary": "<p>Last month we held <a href=\"https://www.microled-info.com/microled-connect-2026-concludes-record-attendance-and-strong-interest-optical\">MicroLED-Connect 2026</a> in Eindhoven, together with AR/VR ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/microled-connect-2026-review-25-growth-top-keynotes-and-what-our-attendees-said",
         "type": "rss"
       }
     ]
@@ -672,6 +1248,26 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFakV4emttSFlyZFd2MWd1ZzBWQ1Z3cHZ6c1ZSMHBxTExxQl9JSDE5cmpRTU5Pc1JHNGY4ajNOTVNlTEFVY2N6clBYbzVtWXlDOE5RVXlRTURsRTV0elBUbWJrQUZCOWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-10-20-023",
+    "date": "2026-10-20",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED glass faults threaten iPad plans for BOE Technology stock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNWGxqTEQtZzNaY29tWDMxMmFjMW9lX190bjEzWTNNeUxKYmZMeUI2Tm51cWFzSlpRdHFmeGxZVkFra3FfM0xRZi1NSV9sZDc1eC1EbHBubVRyb2Q4OS1oZzIycHdkVXVGMkFhT1lpbW",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWGxqTEQtZzNaY29tWDMxMmFjMW9lX190bjEzWTNNeUxKYmZMeUI2Tm51cWFzSlpRdHFmeGxZVkFra3FfM0xRZi1NSV9sZDc1eC1EbHBubVRyb2Q4OS1oZzIycHdkVXVGMkFhT1lpbW1SUDk1WmlmbWl0alMyQmVrT09Sd1p6MGoxeUhIUkc0bVhYcUxVMlVwZXBsc0UwclVnUGpuajNqNnBRV0otOFRzcDF4WUFuS3UyUnlFcER3?oc=5",
         "type": "rss"
       }
     ]
@@ -1774,6 +2370,26 @@
       {
         "name": "canon",
         "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPaktBeDJvSERtdk55Mnpnb1p3dklzaG1yOVBJVzRLcU0yZ0tGRnRNb3lseEs0clJIQVVPU01TbmpIdWlISkhrbjZPUHZmVVFUZ19XX2k1Q3NIbXpRUzlMMFZqd3hYLVd3QVZzdUlnWW1hNXRRVU5JbHlEdW1naUpSRlJLd3Z2OXN5QW40c1hxQWNURFlOdHNyV1V2SldlX1BEM0U0ZTh4ZUhyVzVjdzJPTGkwX1VpbC1xVmV4amZ2LThzQllzbEdRZU1tUDljS1N1NVJaTnIxNXBNOHNKX2dPQmdtYzJScWZCWXBFUVAyMTVxWjhkRERoRnpfWkN6c0g2MGJVV2xycG12Tzk5OTFDSjV1N1FXY0lIMVBKeEliQzdCbnMzck5vVjBCbk1OXzVHVTA0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-10-15-025",
+    "date": "2026-10-15",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Novatek reports TWD 30 billion revenue. Investors value Novatek stock at TWD 343.8 billion - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMTZuSEt4QXFsSmZJSm1rbllJNk15b3p4OWNwbUJzb0JObnVhX2FnODlIOWUzNGxIQWNaMW5GZjFDNVpRVVltV0JQVzREbWhwRjUtTnlpWjd4QjQzcjB4TkxUWmwxM1VVbDByWElwej",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMTZuSEt4QXFsSmZJSm1rbllJNk15b3p4OWNwbUJzb0JObnVhX2FnODlIOWUzNGxIQWNaMW5GZjFDNVpRVVltV0JQVzREbWhwRjUtTnlpWjd4QjQzcjB4TkxUWmwxM1VVbDByWElwejdBUGNidVVzTmlieHpJQVhvTU1seGUtQkUtT1Fxd1UxQ3RjS1lBTG5ycmhWOXdLT3EtY2tSUjU4d1FBSzFKZjBETHE5eW5McnAwOTdxQW84ZGZiWlBuUkdhNHhPYlI2aUx3dVFpWkRQU1NPNURBcUN0TGZoLTJWQnM?oc=5",
         "type": "rss"
       }
     ]
