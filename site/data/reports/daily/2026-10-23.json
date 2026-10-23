@@ -1,0 +1,291 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T13:05:13.406309Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-10-23-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display returns to profit in Q3 2026 as OLED reaches a record 67% of revenue, raises its large OLED shipment outlook and plans to restart idle lines - OLED-Info",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbjhZRVpCMW9kREF3ZXIwZ0JGbG5vaFYxZkk1WlhRclM2dDZITWpGT0RjSzdRcXl6eDNMR2hac1pxcU1hX0Q2blFoZmpGZGtWY2dHWGJ6V1dNR0J2Q0VOLWNyT2ZKMVVKbHVJQzdrRXFqaUxiSnAtMThjVDNIOV9pSTVpeldTQlplSzBDYU1EX3hXRmxDQkg3RlFKTmlERzhWb3lv?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-10-23-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display ADR earnings beat by $0.39, revenue fell short of estimates - Investing.com UK",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "automotive_display",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMFloZFJjRmhiMHVDWnI4WUFKUmgxd1pMSk45U0EycGR2WjNqQ0NHOGVKMXJxUGJxMEQ0MU9fdGFMLTRNRC1Oak5sLTl1cEM1eko4NExYZV9ndWQ5bjV6WllOQkhudF9PX1V6bGk2X2s0YjY1M092eGo0dXZ5OXRXd29hT0xLcWR6UENkTmVCYVFQeWx1eW5zUVVXQ2VmWnVtejlJVlB1eExPNTNaWEJzdnJwQWs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-10-23-004",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display returns to profit as OLED mix offsets chipflation drag - digitimes",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUERyYUdadGwtSG4tN2ticmY4YWhvcmdoRVpjekRzRkZKSjNTd08xTnNFQmFWTnZrSk9tNFFyZmU5Q0tXWE10TXZsSTAxS3dZTVBGV0ZFeHYyLS1OYTJFWS1fVzBNM0I3RFhuTmdHWTFRQjJKd2RKeHYxaks0UG1oY3JPS3JsSkFnRVBlSTQ4MjdwMVhFcjZsei1YTUpqMmp4cnpXQ3RkRQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_elec-2026-10-23-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display returns to profit in Q3 2026 as OLED reaches a record 67% of revenue, raises its large OLED shipment outlook and plans to restart idle lines",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/lg-display-returns-profit-q3-2026-oled-reaches-record-67-revenue-raises-its"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_elec-2026-10-23-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display sees foldables growing faster than expected, but Apple's first foldable panels reportedly go to a rival - digitimes",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaVctdkZabVl5RHhLbVJOekFWZjlqclRFNzA0VnFyVDhSdHB6c05MZ0huMDFFb2QwRHY2V3FxR3pKOVVEMmpUX2tBYWNZTXozb2xCRVctOVJVX3JLaGpFZGYyMklXY1dqWVJBUEkzeUFRc2NQZG5hclNPdTRRU1ozbGpuTjVySV9PS0JsYnloVzA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.3,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 6,
+      "topics": [
+        "automotive_display",
+        "earnings",
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 6
+      },
+      {
+        "id": "lg_display",
+        "count": 6
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 349,
+    "dup_title": 124,
+    "too_old": 162,
+    "gate1_blocked": 22,
+    "gate2_blocked": 26,
+    "passed": 15,
+    "pass_rate": "6.7%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "Area legislators help commemorate 75th Anniversary of the Corning Museum of Glass - The New York Sta",
+      "Corning Is Moving Beyond Fiber Cables. Can AI Networking Pay Off? - Yahoo Finance",
+      "Corning: The Right AI Builder, Just Not A Buy Yet (NYSE:GLW) - Seeking Alpha",
+      "Can Meta’s Fiber Partner Corning Capitalize On Rising AI Fiber Prices? - Benzinga",
+      "Corning: Not Worth The AI Risk (Rating Downgrade) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為LG電子、LGD相關動態：「LG Display returns to profit in Q3 2026 as OLED reaches a...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display returns to profit in Q3 2026 as OLED reaches a record 67% of reven...（OLED 滲透率、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display ADR earnings beat by $0.39, revenue fell short of estimates - Inve...（車用面板、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

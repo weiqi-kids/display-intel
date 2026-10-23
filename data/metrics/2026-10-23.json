@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-23",
+  "total_events": 8,
+  "by_company": {
+    "lg_elec": {
+      "count": 6,
+      "sentiment_avg": 0.25
+    },
+    "lg_display": {
+      "count": 6,
+      "sentiment_avg": 0.25
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 5,
+      "sentiment_avg": 0.3
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "automotive_display": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mini_led": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 6,
+      "topics": [
+        "automotive_display",
+        "earnings",
+        "oled_penetration"
+      ]
+    }
+  ]
+}
