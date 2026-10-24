@@ -1,14 +1,14 @@
 {
   "corning": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6742,
+    "latest": "2026-10-23",
+    "count": 6743,
     "history_complete": true
   },
   "applied_materials": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-22",
-    "count": 6742,
+    "latest": "2026-10-23",
+    "count": 6743,
     "history_complete": true
   },
   "canon": {
@@ -19,26 +19,26 @@
   },
   "novatek": {
     "earliest": "2002-08-27",
-    "latest": "2026-10-22",
-    "count": 5975,
+    "latest": "2026-10-23",
+    "count": 5976,
     "history_complete": true
   },
   "himax": {
     "earliest": "2006-03-31",
-    "latest": "2026-10-22",
-    "count": 5173,
+    "latest": "2026-10-23",
+    "count": 5174,
     "history_complete": true
   },
   "auo": {
     "earliest": "2000-09-11",
-    "latest": "2026-10-22",
-    "count": 6486,
+    "latest": "2026-10-23",
+    "count": 6487,
     "history_complete": true
   },
   "innolux": {
     "earliest": "2006-10-24",
-    "latest": "2026-10-22",
-    "count": 4902,
+    "latest": "2026-10-23",
+    "count": 4903,
     "history_complete": true
   },
   "lg_display": {
@@ -85,8 +85,8 @@
   },
   "etf_soxx": {
     "earliest": "2001-07-13",
-    "latest": "2026-10-22",
-    "count": 6357,
+    "latest": "2026-10-23",
+    "count": 6358,
     "history_complete": true
   }
 }

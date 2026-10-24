@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T12:28:02.546671Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-10-24-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "LGES Poland plant nears breakeven as utilization rebounds",
+      "companies": [
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261023PD204/lges-plant-poland-2026-europe.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bosch to spin off automotive business as Asian rivals intensify pressure",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261023PD244/bosch-business-automotive-subsidiary-revenue.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-24-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "OLEDWorks and Audi celebrate 10 years of OLED lighting in production cars, as Audi launches its Q9 with curved OLED taillights",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.oled-info.com/oledworks-and-audi-celebrate-10-years-oled-lighting-production-cars-audi"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 371,
+    "dup_title": 132,
+    "too_old": 162,
+    "gate1_blocked": 34,
+    "gate2_blocked": 29,
+    "passed": 14,
+    "pass_rate": "5.9%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "State leaders celebrate Corning Museum of Glass - Star-Gazette",
+      "Area legislators help commemorate 75th Anniversary of the Corning Museum of Glass - The New York Sta",
+      "Corning Is Moving Beyond Fiber Cables. Can AI Networking Pay Off? - Yahoo Finance",
+      "Can Meta’s Fiber Partner Corning Capitalize On Rising AI Fiber Prices? - Benzinga",
+      "Corning: The Right AI Builder, Just Not A Buy Yet (NYSE:GLW) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為LG電子相關動態：「LGES Poland plant nears breakeven as utilization rebounds」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LGES Poland plant nears breakeven as utilization rebounds（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Bosch to spin off automotive business as Asian rivals intensify pressure（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

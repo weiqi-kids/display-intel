@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-24",
+  "total_events": 3,
+  "by_company": {
+    "lg_elec": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": -0.75
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

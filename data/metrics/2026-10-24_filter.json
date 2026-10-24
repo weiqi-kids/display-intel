@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 34,
+  "gate2_fail": 29,
+  "passed": 14,
+  "gate2_samples": [
+    "State leaders celebrate Corning Museum of Glass - Star-Gazette",
+    "Area legislators help commemorate 75th Anniversary of the Corning Museum of Glass - The New York Sta",
+    "Corning Is Moving Beyond Fiber Cables. Can AI Networking Pay Off? - Yahoo Finance",
+    "Can Meta’s Fiber Partner Corning Capitalize On Rising AI Fiber Prices? - Benzinga",
+    "Corning: The Right AI Builder, Just Not A Buy Yet (NYSE:GLW) - Seeking Alpha"
+  ]
+}

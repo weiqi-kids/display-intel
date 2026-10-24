@@ -1,5 +1,61 @@
 [
   {
+    "id": "unknown-2026-10-24-001",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "OLEDWorks and Audi celebrate 10 years of OLED lighting in production cars, as Audi launches its Q9 with curved OLED taillights",
+    "summary": "<p><a href=\"https://www.oled-info.com/oledworks\">OLEDWorks</a> and Audi celebrated 10 years of OLED lighting in production vehicles, at an event hosted by Audi in Ingolstadt, Germany on October 15, 20",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/oledworks-and-audi-celebrate-10-years-oled-lighting-production-cars-audi",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-24-002",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Bosch to spin off automotive business as Asian rivals intensify pressure",
+    "summary": "Bosch Group plans to establish Bosch Mobility as a wholly owned, legally independent subsidiary in August 2027, separating the business that generated about 60% of group revenue. The move will complet",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261023PD244/bosch-business-automotive-subsidiary-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-24-003",
+    "date": "2026-10-24",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "LGES Poland plant nears breakeven as utilization rebounds",
+    "summary": "LG Energy Solution (LGES)'s Wroclaw plant in Poland, long viewed as a major drag on the business, is nearing profitability after posting an operating loss of nearly KRW600 billion (approximately US$43",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261023PD204/lges-plant-poland-2026-europe.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-10-23-001",
     "date": "2026-10-23",
     "companies": [
@@ -159,6 +215,198 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbkc0cG1SZGRwSDdneEpFcDhxb21ucVpiZGlLQ1pwZWxtUF93dTJCWjRlQVBJbXZJNWpveGlQckRZeVZjalFOMkxWRnZ6aHB4bE9Td3drWElObENUVFhRRmdMVGY0LVlndGk0cVB2M2w2bjNlMGFwLXAtYTFyTDlTcG1ram14QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-23-009",
+    "date": "2026-10-23",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning adds 414 jobs in its biggest expansion ever in Wilmington - Spectrum News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQmVQYlZ1TFlaZ3RyR3lyZzdhc1VWWFQtRWZTNjZyb1FobGp6OUc0TWhSTldyUjB2UjVycE5OWjJkdjlZbzlpNmdzUUlvb3J3U1J5YW1LOTVwdFlLSVpUV1NCVE94cGEzVll2ME9Xcn",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQmVQYlZ1TFlaZ3RyR3lyZzdhc1VWWFQtRWZTNjZyb1FobGp6OUc0TWhSTldyUjB2UjVycE5OWjJkdjlZbzlpNmdzUUlvb3J3U1J5YW1LOTVwdFlLSVpUV1NCVE94cGEzVll2ME9XcnR2RFU1QU1nUDB3WnBfS1BUWFZHT3pLQlY2ZmxROFdIdWpHY2tUYzI4aThsSDJIZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-23-010",
+    "date": "2026-10-23",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning Incorporated expected to post earnings of 88 cents a share - Earnings Preview - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcWtCR3lESkROR3BxWWl0SVRYOGtYZHlXaGdLbTlxajVIYmJCTjY3T1JFZW5CVV9mcG84V2pVdUQ3SWpQbDQ3aGpoZngyc29HZXktbnRheXJjMGtrckpYd0VqbDlpdmhnVDhTSG44N3",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcWtCR3lESkROR3BxWWl0SVRYOGtYZHlXaGdLbTlxajVIYmJCTjY3T1JFZW5CVV9mcG84V2pVdUQ3SWpQbDQ3aGpoZngyc29HZXktbnRheXJjMGtrckpYd0VqbDlpdmhnVDhTSG44N3o0cXBzN1dXWnlVWHk1aElSVnNxRWU2WGZxeGhsa0JZYVpkV0NVVTlqSVZEWFVNT2Rad2h4dXd1ZjZQLXEyZC1LbXo1ekNfT1hjWldfenhrR2sxTV9hajdJQ3FhZ1R4OXItNzBjdEtrSWxpYlg5SURRMFJYZWIxNzFr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-23-011",
+    "date": "2026-10-23",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Corning Stock a Smart Investment Option Before Q3 Earnings Release? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLXFuOC04V29uMVFtNUQxQXlMM0IxdHY2N0ZtRld3N1FxLURBek05V0dpbVJzRUpLdy1td2tDYjR2cEh3T1VxOXNKZnNCdVFCZkotc3Q4c1Y4TkViRFF1dDAyLUJiTm5Ob0x2VGVaQ2",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLXFuOC04V29uMVFtNUQxQXlMM0IxdHY2N0ZtRld3N1FxLURBek05V0dpbVJzRUpLdy1td2tDYjR2cEh3T1VxOXNKZnNCdVFCZkotc3Q4c1Y4TkViRFF1dDAyLUJiTm5Ob0x2VGVaQ2FpT0p0NlRUYXF1bDNLel9BUzEtYnNlQmwzWGZ6b2k3N1dOOVpQUnhLRlFuOVVsY1RmalFmcDJkMGp3RjVyVnpEMXpvbDRkS1I1VkczN0g4V2dzdk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-23-012",
+    "date": "2026-10-23",
+    "companies": [
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung's next-gen OLED tech might arrive before LG's, bringing better brightness and efficiency - TechRadar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxPUXZOdk1nU2FnbDVPbG5LN09Ya2FGU25ma1FUaV96YVlQS0x3aWJDUkdmbjBmSl9xVEhEdUJhSlRaTDVhdzZUUHlmMjRrUXZlbUhTODZ3MEdUUUlXUHRvOEdBY0E2am9BT2JYeDB0TE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPUXZOdk1nU2FnbDVPbG5LN09Ya2FGU25ma1FUaV96YVlQS0x3aWJDUkdmbjBmSl9xVEhEdUJhSlRaTDVhdzZUUHlmMjRrUXZlbUhTODZ3MEdUUUlXUHRvOEdBY0E2am9BT2JYeDB0TEFpZVdaQV9va0hEczdDWHhObG0wZmU5NE9RMm1OU2NCWkI2T3QtVFlsc3ZrRzA2WGFaMFZTWW9maHFiV1dfYVZnMDJMLXMtVE83VG9UV1psbVBUZURheVRSNXZ0MDBVcnlLNnF4UDR0a3BBNDhLN2N5RTg3SkJBVHo4ZWFRRUdDOVhPNENqaTVqUnVnaDJORi05QTVmUzBrWXJpaG9vbHBYU21MN3pZTldwOGhJUFFFME5zMGg2dTV1cWNvUVpJZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-23-013",
+    "date": "2026-10-23",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Semco's 61-week MLCC lead times give suppliers upper hand in AI supply chain",
+    "summary": "Samsung Electro-Mechanics (Semco) is gaining pricing power as AI server demand extends multilayer ceramic capacitor (MLCC) lead times beyond a year. Shortages now span consumer, automotive and industr",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261023VL202/semco-mlcc-ai-server-2027-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-014",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lenovo mounts AI comeback with Nvidia Vera Rubin NVL72 deliveries and US plant expansion",
+    "summary": "More than 30 years ago, Lenovo set out with a vision to bring personal computers into every household. Today, Chairman and CEO Yuanqing Yang has defined a new mission for the 42-year-old tech giant: b",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261023PD225/lenovo-nvidia-infrastructure-rubin-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-23-015",
+    "date": "2026-10-23",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung reportedly orders final tools for first Taylor fab as Texas site nears 2nm output cap",
+    "summary": "Samsung Electronics has ordered additional equipment to fill the remaining space at its first foundry fab in Taylor, Texas, a move that would lift the plant's 2nm capacity to 20,000 wafers per month i",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261023VL219/samsung-texas-2nm-fab.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-10-23-016",
+    "date": "2026-10-23",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple reportedly taps BOE for LCD iMac development, keeps OLED timetable in question",
+    "summary": "Apple has reportedly asked BOE Technology and other panel makers for technical information on LCD panels for a future iMac, raising questions about the pace of its OLED transition. The potential LCD m",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261023VL208/apple-boe-lcd-imac-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-017",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Commentary: How long can the humanoid robot bubble last? Unitree's valuation correction puts physical AI to the test",
+    "summary": "Concerns over a potential AI bubble are intensifying. From large language models (LLMs) and AI data centers to humanoid robots, investors are increasingly questioning when massive capital investments ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261023PD214/physical-ai-humanoid-robot-financing-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-10-23-018",
+    "date": "2026-10-23",
+    "companies": [
+      "boe",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Chinese phone brands beat Samsung, Apple to high-refresh OLED",
+    "summary": "Chinese smartphone brands have brought high-refresh-rate OLED displays to market ahead of Samsung Electronics and Apple, with Visionox and BOE supplying 185Hz panels for the iQOO Neo 12 and RedMagic 1",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261023PD203/smartphone-samsung-apple-panel-visionox.html",
         "type": "rss"
       }
     ]
@@ -1760,6 +2008,26 @@
       {
         "name": "eetimes",
         "url": "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-10-19-012",
+    "date": "2026-10-19",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Novatek revenue tops TWD 30 billion. Novatek Microelectronics stock sits 3.47 percent below high. - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeE1YUFRhV3A3X01mNmxvNzRBdGF4X3VNN2ZudjNpUFZuMDFiQnU0U0M0a01EV2NsZkVTOHdxODV4Sl9QNWNKNWM5SDMzUi13N216VmRnYnZFZ0JQUkgtM3lSclJKdFozZ0wxWUVoU2",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeE1YUFRhV3A3X01mNmxvNzRBdGF4X3VNN2ZudjNpUFZuMDFiQnU0U0M0a01EV2NsZkVTOHdxODV4Sl9QNWNKNWM5SDMzUi13N216VmRnYnZFZ0JQUkgtM3lSclJKdFozZ0wxWUVoU2tjWV8zVVktNjF3U2k3V2lQd1Y1SXJRWkJXWUVScXF5endnVDJKeEhtc25ObzM4R2VBOU1ZcHdnN09iSWhISzNCVEZaSnEycUk5QXVRclktdk1STjJ6MlRsNlZmVG1CdDhrQ2drQUR4a0xhWXM0aVNMY25jSmFmRkMwOC1kUmUxRQ?oc=5",
         "type": "rss"
       }
     ]
