@@ -1,5 +1,122 @@
 [
   {
+    "id": "lg_elec-2026-10-25-001",
+    "date": "2026-10-25",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "More details emerge on LG Display's and Hanwha Systems' fighter jet OLED project, as Boeing asks to adopt OLEDs in its F-15 jets - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNbVF4a0lSWkc1OW5mdGdfQ0VlQVprZEtweW9DNzFWU2JYODFGQVNaVk5lVGY3Tnl1WFlDMl9hUXY0bWFQSU81T1hDYlZiZ0VnNWNiUnYySUpodmFYMXRTb2hqYXE5amxuUG5rV29oa0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbVF4a0lSWkc1OW5mdGdfQ0VlQVprZEtweW9DNzFWU2JYODFGQVNaVk5lVGY3Tnl1WFlDMl9hUXY0bWFQSU81T1hDYlZiZ0VnNWNiUnYySUpodmFYMXRTb2hqYXE5amxuUG5rV29oa0NXQ2F4R2NWNG9fRUo5TC1BVC1hMVNUUVhwN2wycnNFRWVFczVmdUtCOXduQzBMYmZCNXVV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-002",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Everdisplay's revenues drop 20% in Q3 2026, as demand for its AMOLED products remain weak",
+    "summary": "<p><a href=\"https://www.oled-info.com/everdisplay-oled\">Everdisplay</a> (EDO) announced its financial results for Q3 2026. Revenues in the quarter were $159 million, down 19.8% from Q3 2025, and the c",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/everdisplays-revenues-drop-20-q3-2026-company-continues-post-losses",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-25-003",
+    "date": "2026-10-25",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "More details emerge on LG Display's and Hanwha Systems' fighter jet OLED project, as Boeing asks to adopt OLEDs in its F-15 jets",
+    "summary": "<p>Last month we <a href=\"https://www.oled-info.com/lg-team-hanwha-systems-develop-amoled-displays-fighter-jets\">reported</a> that Korea's Ministry of Trade, Industry and Resources is planning an R&am",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/more-details-emerge-lg-displays-and-hanwha-systems-fighter-jet-oled-project",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-25-004",
+    "date": "2026-10-25",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Namuga expands beyond Samsung with humanoid robot camera modules",
+    "summary": "South Korean image-sensing module maker Namuga is accelerating its physical AI strategy after securing a supply deal with a global humanoid robot company. The company is preparing for shipments and ma",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261023PD237/robot-camera-samsung-production-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-005",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Texas Instruments sees up to $1,000 in chip content per humanoid robot as analog supply tightens",
+    "summary": "Texas Instruments (TI) held its latest earnings call this week, projecting fourth-quarter 2026 revenue of US$5.8 billion to US$6.3 billion. The midpoint of its guidance is broadly in line with third-q",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261023PD218/texas-instruments-robot-earnings-2026-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-006",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Magnate Technology sees aerospace, semiconductor growth opportunities",
+    "summary": "Magnate Technology expects rising aircraft engine demand and semiconductor equipment opportunities to support growth as it expands production capacity, with implications for global aviation and chip s",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261023PD207/growth-revenue-aircraft-demand-equipment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-10-24-001",
     "date": "2026-10-24",
     "companies": [],
@@ -51,6 +168,78 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20261023PD204/lges-plant-poland-2026-europe.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-24-004",
+    "date": "2026-10-24",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Alfred Student Discovers Career Possibilities at Corning - Alfred University",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNYmlmTk85SmpUUy1PUWtOUjVHME5GSkFUc1U4bnljeUUteHVtYzdrRk1fMXJKOFZjMmVEbVFPdy1USWdGdWVDNElMR2xoVThaVjNiQ1VDdWxGWmFNcnBGajJ2WjhicWhOQVlrQXhDTW",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYmlmTk85SmpUUy1PUWtOUjVHME5GSkFUc1U4bnljeUUteHVtYzdrRk1fMXJKOFZjMmVEbVFPdy1USWdGdWVDNElMR2xoVThaVjNiQ1VDdWxGWmFNcnBGajJ2WjhicWhOQVlrQXhDTW9uUF85cDloMVlBQ0dQSTFzVVpoVHE5UE9wWDhrMlpaUTVucUlvTS1RZFJBVkQtMG5R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-10-24-005",
+    "date": "2026-10-24",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Did Alibaba Smart Glasses Win Just Shift Himax Technologies (HIMX) Investment Narrative? - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0tBNGJSQTNZLWVMZDhmRHRrSWRHdzFOUnh2TmRyU2ltQVVXZE5jZWVuMFdKamRpQVNLUlRkZnliUkY1Z3h0ZTRaNUFfcEU2YW10UWlzU2x2MkI5T2o2d3NldldzeldKbmZhYTBkQ0",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0tBNGJSQTNZLWVMZDhmRHRrSWRHdzFOUnh2TmRyU2ltQVVXZE5jZWVuMFdKamRpQVNLUlRkZnliUkY1Z3h0ZTRaNUFfcEU2YW10UWlzU2x2MkI5T2o2d3NldldzeldKbmZhYTBkQ0J0OWlDcmh2R01JS0FBLVBqbWpRZ0xOTkdtVV9kckxteXJSeWNsa2V1YnlrSTJGcVQxMW5LbDNDd043WFEwWFI1QnlxMzhyeE5ZV2dOdUQzZl9CN0dGV0xZNU9GT1BNak8zTjRxc3g0QTY4UdIB3wFBVV95cUxQUXJxdzFaTzFKWlB1NDF1V1AxbEZoMlRnbldfektSaVBmd04tMkdnOGNISlBMa0NCMWE4dWZ1NG1ZQWhVNE1KNFZOUFZnLUV6N0pHYXd6Si1iZmxXbTB0bGhFbHVKQjVsdGNmTVJScTlVcmFKb240MTdOa1lNN3BUWVpPdV9NbG5SaWZyU210VmRram1JM3puRlFTTWhzT0xyZGhXeS1Pamw4dDV1SzN4SlFTN1pCR1h3akthaHBuaGpwNzhhWVh1a3RjNEdiRk1HdnhOV19BMkp4VkcyM2U0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-10-24-006",
+    "date": "2026-10-24",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies Inc (H6Q.HA) Valuation Measures & Financial Statistics - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aTzlaUTJHbjg1QXZkOW5uUjVuZk9MU1FZbHRsT3Y2NVU2ZDBuelhjSmN5LU5jLVhDOU5EM3ZIOVc5YVlXWi1YNFVsQWVoS2VpTFJvTjJkX1JmV0RjQVhvMGZ4WjlOMTRZ?oc=5\" tar",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aTzlaUTJHbjg1QXZkOW5uUjVuZk9MU1FZbHRsT3Y2NVU2ZDBuelhjSmN5LU5jLVhDOU5EM3ZIOVc5YVlXWi1YNFVsQWVoS2VpTFJvTjJkX1JmV0RjQVhvMGZ4WjlOMTRZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-10-24-007",
+    "date": "2026-10-24",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies Inc (H6Q.HA) analyst ratings, estimates and forecasts - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Oa0NlSHk1RVhKd3VBMl9BRFhnZG5KVTBDVUM1UzRpTG9TTlJfRm5xSXZBUjh4R2s0T3p1T01EVVktNDNuTmg1RlZHbU1ZaWJHQkQ4RFV1TWlKTGJxb05fdA?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Oa0NlSHk1RVhKd3VBMl9BRFhnZG5KVTBDVUM1UzRpTG9TTlJfRm5xSXZBUjh4R2s0T3p1T01EVVktNDNuTmg1RlZHbU1ZaWJHQkQ4RFV1TWlKTGJxb05fdA?oc=5",
         "type": "rss"
       }
     ]
@@ -407,6 +596,26 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20261023PD203/smartphone-samsung-apple-panel-visionox.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-23-019",
+    "date": "2026-10-23",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Corning Stock a Smart Investment Option Before Q3 Earnings Release? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQMk9TOTZ6bWUzYmw2Y2RfVFU4YUpUM2dkbjRHdjBqZGM3TUhIdk5teWVpcEo2MWd0VnczUUJxZlBSOXN0RlVrWThMOWw1VURhRGJ5dkkxYlIyNGU4Q0tBdXpFaEtxaU1mZjdLeFd1Z1",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMk9TOTZ6bWUzYmw2Y2RfVFU4YUpUM2dkbjRHdjBqZGM3TUhIdk5teWVpcEo2MWd0VnczUUJxZlBSOXN0RlVrWThMOWw1VURhRGJ5dkkxYlIyNGU4Q0tBdXpFaEtxaU1mZjdLeFd1Z1dfem1oV0F0SUhydUZuTkh4c09TSlhYSlpZUnBCbTIwLVJZaWRENHdiT1RzaUJCZF94djlfYQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1009,6 +1218,65 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlZSb1V1OUdzdUVKSTd3aGhnWFdNb2lSX2M0V2VlWk8wM2JscTRCeU8tT0FBamNLczRLZFhGTmRVeU5IcmRMUVYyS1ZaWHVDN0lVdWVxai1kcXM4MTl6ZWxHZzdzWWE1WDZCdUR3OGVrZnM1V0Jfd1BBUkZ1d00zWjVuVWhTTkZGM3JvcWE1dEpBbFVRVnpuWWlkTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-031",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "LG Display Q3 2026 slides: returns to profit as OLED hits record 67% - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZGpISmdINzBTV1Vvc2c3clc5TVk3YzdXczJHRVZyajdEa2E3YWN6M0NDbFc4RWxwZW91Y2ZQWS1hWDJXbi1MVUFFNkZwREI1RGRHbHlTcGt3ajEzWXA0N0tXd1VtUE0wN3Rld05GLX",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZGpISmdINzBTV1Vvc2c3clc5TVk3YzdXczJHRVZyajdEa2E3YWN6M0NDbFc4RWxwZW91Y2ZQWS1hWDJXbi1MVUFFNkZwREI1RGRHbHlTcGt3ajEzWXA0N0tXd1VtUE0wN3Rld05GLXR2R1NMb3B1NWduQmJtcjRmTEZ5NnpoZ0tUR2FObXliaDIyaG10dXpBXzZ1YjRLMmtCU24tMDhVWFlDN3Z1SUttNWhwUXMxU204ZklnUkM5QlQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-22-032",
+    "date": "2026-10-22",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display projects foldable phone surge while tablet demand stays resilient - CHOSUNBIZ - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1US2pQMGJKYlF1N2I3cjVuVUpkVFRJTDYzdHNWS0w1UHZZa252eXZucnNIdnNoaE5ubzRoNHpqdGpqc2RHanhhR0R0SDNCYW5lRUQxUy03U0lXTGRPMWRvcHZNQkVZRlJ4cWc1VzBtU0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1US2pQMGJKYlF1N2I3cjVuVUpkVFRJTDYzdHNWS0w1UHZZa252eXZucnNIdnNoaE5ubzRoNHpqdGpqc2RHanhhR0R0SDNCYW5lRUQxUy03U0lXTGRPMWRvcHZNQkVZRlJ4cWc1VzBtU0haem1Yb0dteGdn0gGOAUFVX3lxTE1ReElsaUR3R3VfalppVDRBT01xT1pRd1hYeWowZU1Bd0pBM3A5emRaQU53U09HVzNEZWp6WVQ5Q2dvci16NW0zTVVqMUd1YjAtbFZTTE1LcjZMNW44SjBMT0pSY0R4dU1oQ1NpekF6Uk1XWjR3a1ZLc05HU1kyVDBsWXliTjNOYXlacTVQMHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-033",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "The 4 Best Mini LED Monitors of 2026 - RTINGS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sSDdPeW8wRk44SWdOeVdmU21BT2VMVXRSLV9iQnFCMlplQW9fTGhQU2hrNHhhUWp0cHltRHhuTmVyaHpwck5QSHY0ZER2eFF0U2p6YWtIcXhmci1jb0FGTThn?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sSDdPeW8wRk44SWdOeVdmU21BT2VMVXRSLV9iQnFCMlplQW9fTGhQU2hrNHhhUWp0cHltRHhuTmVyaHpwck5QSHY0ZER2eFF0U2p6YWtIcXhmci1jb0FGTThn?oc=5",
         "type": "rss"
       }
     ]
@@ -1801,6 +2069,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ISFpFYWhTT05VQkgyclRfZFhIUVJEeU1VM3ZkSVJYamo3cTIxekxMQ0U4Zk9KeGZVbjFUeUl6NWt4RElmbGpQdXF0RDRDWkIxTTMwcTN6QmJ1b09yNGJURDJR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-10-20-025",
+    "date": "2026-10-20",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon U.S.A. and DigiTech Launch Texas ST2/X1 UV LED Flatbed Printer to Deliver Big-Shop Capability in a Compact Footprint - FinancialContent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNWDFHVUd2NTcwSVVHMXRWd0FZSkg1cWg5b3BGMTdpSW9WUWxXMTJpYU80ZkdNWkVlWUk4eXNjWVdnV0ZyOE9xSHJpMS15eFBVYTJ3azJCNTZNSzV3ZUFRdDA1UlBjLTAyZ2NtZDlCb3",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWDFHVUd2NTcwSVVHMXRWd0FZSkg1cWg5b3BGMTdpSW9WUWxXMTJpYU80ZkdNWkVlWUk4eXNjWVdnV0ZyOE9xSHJpMS15eFBVYTJ3azJCNTZNSzV3ZUFRdDA1UlBjLTAyZ2NtZDlCb3I2dEhKSDdUQy1WU3NtZjN3ZWFBNUVSM05RNUVpYjJJcXpnVm1wb0llRC1NdURIcUNsVWZLaUpmM0FQWWJPdm4wOGlzSzVkdWQzcWt4S00tVDJHWlBZR08yY3dhbEd1enBnRHdhWE9rUlhwVUdnbjlBSFFKeVBNX3FaZWF4QVFBdElDUWc2NWZia0NrdHNXSzZYU3N1aTdDbw?oc=5",
         "type": "rss"
       }
     ]
