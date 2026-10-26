@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 39,
+  "gate2_fail": 20,
+  "passed": 12,
+  "gate2_samples": [
+    "Area legislators help commemorate 75th Anniversary of the Corning Museum of Glass - The New York Sta",
+    "State leaders celebrate Corning Museum of Glass - Star-Gazette",
+    "Corning Incorporated Estimates – NYSE:GLW - TradingView",
+    "Corning Is Moving Beyond Fiber Cables. Can AI Networking Pay Off? - Yahoo Finance",
+    "Japan’s Canon plans up to twofold rise in chipmaking equipment output - Nation Thailand"
+  ]
+}

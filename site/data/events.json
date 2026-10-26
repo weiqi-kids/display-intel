@@ -1,5 +1,115 @@
 [
   {
+    "id": "unknown-2026-10-26-001",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Update: Qingyue's IPO sponsor, auditor and actual controller set up a 370 million RMB fund to compensate investors",
+    "summary": "<p>On October 23, 2026, <a href=\"https://www.oled-info.com/qingyue\">Qingyue Technology</a>'s IPO sponsor GF Securities announced that it has set up a 370 million RMB (around $55.5 million USD) special",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/update-qingyues-ipo-sponsor-auditor-and-actual-controller-set-370-million-rmb",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-002",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Counterpoint: laptop mini-LED shipments to drop 75% within two years, as OLED takes over the premium laptop market",
+    "summary": "<p>According to new estimates from Counterpoint Research (DSCS), global shipments of mini-LED panels for laptops will decrease by 38% in 2026, and by a further 60% in 2027 - so 2027 shipments will rea",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/counterpoint-laptop-mini-led-shipments-drop-75-within-two-years-oled-takes-over",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-003",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Meta prioritizes high-margin AI inference as Wiwynn, Quanta eye CPU server demand",
+    "summary": "Meta has become the first of the four major US hyperscale cloud providers to report its latest earnings, with supply chain players closely monitoring changes in the company's capital expenditure plans",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261023PD222/meta-quanta-cpu-demand-wiwynn.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-26-004",
+    "date": "2026-10-26",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp",
+    "summary": "Following TSMC's third-quarter 2026 earnings call, DIGITIMES analyst Luke Lin provided in a podcast additional analysis of several details that received limited attention in market coverage, including",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261023PD235/tsmc-3nm-demand-samsung-hbm.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-005",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "MacBook Pro's Switch to OLED Could Spell Trouble for Mini-LED Industry - MacRumors",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQMHpjWUVXZHpvN0hjdWNwcTVBZm1BcWJLYWJ0emtZbFNnc3pNWTlDRWJqYjZiNGxBRlRxVVYtd1NFbXVyZ2FPUVpEX3E1WTN2SGtNSE84a0pub3VfYUY0Rnl3dTJBcHlFUXp0WWczRU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMHpjWUVXZHpvN0hjdWNwcTVBZm1BcWJLYWJ0emtZbFNnc3pNWTlDRWJqYjZiNGxBRlRxVVYtd1NFbXVyZ2FPUVpEX3E1WTN2SGtNSE84a0pub3VfYUY0Rnl3dTJBcHlFUXp0WWczRUs0bVdTZWpFaUpuN3BzUWNISjV2SXZmNzZiNXU1VzlsV2Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-006",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "SKYWORTH’s QD-Mini LED tech makes the ultimate picture quality affordable - Stuff South Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNcG00UFVTRWdvYWJIMm1BcVVta1JMMkhuUlBReE05QjVXT3JraXgteWRSdW5pdWx1bDFKX3RJbmJEcU91OFctbTNBN3dQc052U2hiNlg2d1BhY0lRLTl0c1lRMktZZmV1YjhvMWU0WE",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcG00UFVTRWdvYWJIMm1BcVVta1JMMkhuUlBReE05QjVXT3JraXgteWRSdW5pdWx1bDFKX3RJbmJEcU91OFctbTNBN3dQc052U2hiNlg2d1BhY0lRLTl0c1lRMktZZmV1YjhvMWU0WERrMk1wRklQMjlyUmUtU1ktaUVmbmh5YVRLbUxNdDNpa2ZnbFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_elec-2026-10-25-001",
     "date": "2026-10-25",
     "companies": [
@@ -112,6 +222,24 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20261023PD207/growth-revenue-aircraft-demand-equipment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-007",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Panasonic Avionics sold over 500,000 Astrova 4K OLED in-flight entertainment screens, expands its production capacity sixfold",
+    "summary": "<p>Panasonic Avionics announced that it has sold 500,000 of its Astrova 4K OLED in-flight entertainment (IFE) screens. Since its launch in 2022, Astrova has been selected by more than 45 airlines acro",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/panasonic-avionics-has-sold-500000-astrova-4k-oled-flight-entertainment-screens",
         "type": "rss"
       }
     ]
@@ -240,6 +368,28 @@
       {
         "name": "himax",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Oa0NlSHk1RVhKd3VBMl9BRFhnZG5KVTBDVUM1UzRpTG9TTlJfRm5xSXZBUjh4R2s0T3p1T01EVVktNDNuTmg1RlZHbU1ZaWJHQkQ4RFV1TWlKTGJxb05fdA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-24-008",
+    "date": "2026-10-24",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "LG Display Co Ltd (LPL) Q3 2026 Earnings Call Highlights: Record OLED Revenue Share of 67% ... - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPalpSM2xpQnFfWVp2WTJMME5QbER0S3Y2X2hiT2N3U3hfaE1fTF82VzAzYzZDZnYtMFhvQThuTmw4QzBiOTB6b1VlQlhBQ2pXdkkzeEgwTDVtOHN0STdYY1dUVGRWV2VPd2RjeEx2Y3",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPalpSM2xpQnFfWVp2WTJMME5QbER0S3Y2X2hiT2N3U3hfaE1fTF82VzAzYzZDZnYtMFhvQThuTmw4QzBiOTB6b1VlQlhBQ2pXdkkzeEgwTDVtOHN0STdYY1dUVGRWV2VPd2RjeEx2Y3ZmZGJDY2RKX1VrSl9oT19QcFZZbjNNV1FpRWVDQXp0cw?oc=5",
         "type": "rss"
       }
     ]
@@ -616,6 +766,64 @@
       {
         "name": "corning",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMk9TOTZ6bWUzYmw2Y2RfVFU4YUpUM2dkbjRHdjBqZGM3TUhIdk5teWVpcEo2MWd0VnczUUJxZlBSOXN0RlVrWThMOWw1VURhRGJ5dkkxYlIyNGU4Q0tBdXpFaEtxaU1mZjdLeFd1Z1dfem1oV0F0SUhydUZuTkh4c09TSlhYSlpZUnBCbTIwLVJZaWRENHdiT1RzaUJCZF94djlfYQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-23-020",
+    "date": "2026-10-23",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Incorporated (GLW) Stock Forecasts - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjlLcmlBb2YxVlBNajdWSnRBdGpOUWwydXVxOHRRaUhkM045dGlsWmtMOWJiaWN1V2VWd083Y0dHc2VmcFhZTEsxaUxEZEZOeUhZeEdUNV9ZZ1M1cEtmUnNHM2FaM2k1d3lqV29hel",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjlLcmlBb2YxVlBNajdWSnRBdGpOUWwydXVxOHRRaUhkM045dGlsWmtMOWJiaWN1V2VWd083Y0dHc2VmcFhZTEsxaUxEZEZOeUhZeEdUNV9ZZ1M1cEtmUnNHM2FaM2k1d3lqV29helg2OEYtV2tjRXVmdFEta3NSeGdMNlk5VXl2UXQ2Tg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-23-021",
+    "date": "2026-10-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LG Display ADR earnings beat by $0.39, revenue fell short of estimates - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ01lOHJfM0wtTS1uRFN2LWV6aWNtcThUQk9pUjVaNjVMRmFEdy1TSFpLZWpVMGR5QmVQVTd4VFNsRkdYYzIxWXd4OWxqWlRMYzZEZTFfWGVyZ0FOUGN3SmgwMU1YM3JQNnoyVTlDY1",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ01lOHJfM0wtTS1uRFN2LWV6aWNtcThUQk9pUjVaNjVMRmFEdy1TSFpLZWpVMGR5QmVQVTd4VFNsRkdYYzIxWXd4OWxqWlRMYzZEZTFfWGVyZ0FOUGN3SmgwMU1YM3JQNnoyVTlDY1dWQ3BvTjZoNEhvcVFEcUtBVFpuR3dSYXRuekQtVHhFQU9odE03ZU9rRFgySm8tZ3BKRm1qV3MxOGp5emY3SFk1ZV81a2ZoUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-23-022",
+    "date": "2026-10-23",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Shinhan Investment Adjusts LG Display's Price Target to 11,000 Won - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeXI3cXJQdWFyZHhRUEhKRWlTbzhEcWJPdlpIRHhSYnNuV0o3ZmZNZ040bFJVVU5lZ3BWbzdpTnpaLTFKUktTaFpaQ1E5Ulhfd3ppeFozQ0NNNEJCeGhaeUdoTThXcVdVbVNkZXVzN2",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeXI3cXJQdWFyZHhRUEhKRWlTbzhEcWJPdlpIRHhSYnNuV0o3ZmZNZ040bFJVVU5lZ3BWbzdpTnpaLTFKUktTaFpaQ1E5Ulhfd3ppeFozQ0NNNEJCeGhaeUdoTThXcVdVbVNkZXVzN2lQeWtnVjNHTTM3YnFFbEJEeDRYeTJJdVVkQXpoMVNpMUt6M0QzREVMQWZuUWFORXhRcjVhZ3ZVa2U?oc=5",
         "type": "rss"
       }
     ]
@@ -1277,6 +1485,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sSDdPeW8wRk44SWdOeVdmU21BT2VMVXRSLV9iQnFCMlplQW9fTGhQU2hrNHhhUWp0cHltRHhuTmVyaHpwck5QSHY0ZER2eFF0U2p6YWtIcXhmci1jb0FGTThn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-034",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "EARNINGS_CALL_TRANSCRIPT_TITLE_FORMATTED - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlZSb1V1OUdzdUVKSTd3aGhnWFdNb2lSX2M0V2VlWk8wM2JscTRCeU8tT0FBamNLczRLZFhGTmRVeU5IcmRMUVYyS1ZaWHVDN0lVdWVxai1kcXM4MTl6ZWxHZzdzWWE1WDZCdUR3OG",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlZSb1V1OUdzdUVKSTd3aGhnWFdNb2lSX2M0V2VlWk8wM2JscTRCeU8tT0FBamNLczRLZFhGTmRVeU5IcmRMUVYyS1ZaWHVDN0lVdWVxai1kcXM4MTl6ZWxHZzdzWWE1WDZCdUR3OGVrZnM1V0Jfd1BBUkZ1d00zWjVuVWhTTkZGM3JvcWE1dEpBbFVRVnpuWWlkTQ?oc=5",
         "type": "rss"
       }
     ]

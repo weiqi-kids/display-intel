@@ -1,0 +1,210 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T14:51:10.168682Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-26-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Meta prioritizes high-margin AI inference as Wiwynn, Quanta eye CPU server demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261023PD222/meta-quanta-cpu-demand-wiwynn.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_elec-2026-10-26-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261023PD235/tsmc-3nm-demand-samsung-hbm.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Update: Qingyue's IPO sponsor, auditor and actual controller set up a 370 million RMB fund to compensate investors",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/update-qingyues-ipo-sponsor-auditor-and-actual-controller-set-370-million-rmb"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Counterpoint: laptop mini-LED shipments to drop 75% within two years, as OLED takes over the premium laptop market",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/counterpoint-laptop-mini-led-shipments-drop-75-within-two-years-oled-takes-over"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "MacBook Pro's Switch to OLED Could Spell Trouble for Mini-LED Industry - MacRumors",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMHpjWUVXZHpvN0hjdWNwcTVBZm1BcWJLYWJ0emtZbFNnc3pNWTlDRWJqYjZiNGxBRlRxVVYtd1NFbXVyZ2FPUVpEX3E1WTN2SGtNSE84a0pub3VfYUY0Rnl3dTJBcHlFUXp0WWczRUs0bVdTZWpFaUpuN3BzUWNISjV2SXZmNzZiNXU1VzlsV2Q?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 132,
+    "too_old": 166,
+    "gate1_blocked": 39,
+    "gate2_blocked": 20,
+    "passed": 12,
+    "pass_rate": "5.1%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Area legislators help commemorate 75th Anniversary of the Corning Museum of Glass - The New York Sta",
+      "State leaders celebrate Corning Museum of Glass - Star-Gazette",
+      "Corning Incorporated Estimates – NYSE:GLW - TradingView",
+      "Corning Is Moving Beyond Fiber Cables. Can AI Networking Pay Off? - Yahoo Finance",
+      "Japan’s Canon plans up to twofold rise in chipmaking equipment output - Nation Thailand"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為三星電子相關動態：「Meta prioritizes high-margin AI inference as Wiwynn, Quan...」。主要關注主題為OLED 滲透率、法說會、Mini LED，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Meta prioritizes high-margin AI inference as Wiwynn, Quanta eye CPU server de...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
