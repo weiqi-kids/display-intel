@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-27",
+  "total_events": 16,
+  "by_company": {
+    "corning": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "canon": {
+      "count": 5,
+      "sentiment_avg": -0.17
+    },
+    "lg_elec": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "lg_display": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "boe": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 9,
+      "sentiment_avg": -0.15
+    },
+    "oled_penetration": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T13:57:05.768450Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-10-27-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display boosts pride and profits as Korea office serves OLED-themed lunch - Chosunbiz",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QUHoxWWVwWUJqeFRMam1XeFVxbHJ3QWs0TDk1VGxRZUtTbk82MS1scTRsdEF2TEQyV3VuYm83QnhnVjdWSmhXTUkxeVpsaExadEN0OUxYU19mdW5IZlRlbTdKV3FEdWtuS0hnWHVuTjAzWWtFQXd2N2R30gGOAUFVX3lxTE1zVDhUNnQ5TXhMRmVKbE1uRFVQQW0yWV9xTDJGb3l6M05CT2pzUXdqNUNkdWFPTXhIWjl4d21tQjdmQjRTRGticzVwWDFFbW9sMTBPYV9xdXNpZDhrTi1kQndsNDFKV1BPQWZJZXJiZFgxUkxZVVdiWHdRTXZDZy1nQ3ZpOVNFeEROUU9HaVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_display-2026-10-27-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Is LG planning to start producing 97\" and 111\" OLED panels?",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/lg-planning-start-producing-97-and-111-oled-panels"
+    },
+    {
+      "rank": 3,
+      "event_id": "corning-2026-10-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Corning: Q3 Earnings Snapshot - Yahoo Finance",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTAwaWpES0NEZnY0S0gwQ2tpQjZZTFExbExMU2FEbElaM0hmdFlrUnpIb3FRcjVlaTFpSUMxVlYwd1ZJdXpyOXVMNVdYa2pud1FxOFF1OXFuc2dsUm5LZGxpeG9xRUZxRmJTRklsak5tRE5OQ25KMGplWGl3bVd1amVrRV9lRE1fTlpxQXVDdFZNSnZJeVRhXw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "corning-2026-10-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Corning Q3 Revenue Rises 19% to $5.08 Billion - grafa.com",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObTZOaTZHLUhydk1PeExZelRybFBrdXhRMUFyRGdMTDlVak96b2Q4WUdxVEJDT3hZdjQtMjB3S3pQUWdkeWk5UEJtM3llTms1LVN3ZnVHWm1yNkppN0F1V1hzaFpXc3cybGlfbFItZUdjemoyRnpqMHN4cnB6eUo1X2F1TW1DbnUtakd3bTNKMzdaY3FxbFpxVXpJWmtPQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "corning-2026-10-27-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "(GLW) Corning Incorporated Expects Q4 Revenue Range $5.2B - $5.3B - marketscreener.com",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdDlDSl9vZXhtUEhZbldkaTk3ZEIwY0o4Q2k2dnF3SkVwMGwzbDhUMEt1VElQZGtvUmppZEQwYUZmQTZwTzJxc1c3SWszVVNrcl9DM21SdmQwQkwyRGw4VHhFWG9ZWk9iZzctamkwb1NpRWV1VnZ1NWRUUTVBOXFEcmhaRDRWNUxJS3lYck1sRjBWUEozR1h1aThZTHQwZEM2NGZDVkJQcHk5cVRsaXZmVHFn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.15,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 5
+      },
+      {
+        "id": "canon",
+        "count": 5
+      },
+      {
+        "id": "lg_elec",
+        "count": 3
+      },
+      {
+        "id": "lg_display",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "oled_penetration",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 117,
+    "too_old": 150,
+    "gate1_blocked": 26,
+    "gate2_blocked": 31,
+    "passed": 27,
+    "pass_rate": "11.5%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "Corning (NYSE:GLW) misses Q3 2026 sales expectations - Yahoo Finance",
+      "Corning Inc Stock (GLW) Moved Up by 3.45% on Oct 26: What Signal Does It Send? - TradingKey",
+      "Corning Incorporated : Third Quarter 2026 Financial Statement & Exhibits - www.marketscreener.com",
+      "(GLW) Corning Incorporated Expects Q4 Adjusted EPS Range $0.96 - $1.00 - marketscreener.com",
+      "Corning Incorporated Estimates – NYSE:GLW - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為康寧、佳能、LG電子相關動態：「LG Display boosts pride and profits as Korea office serve...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LG Display boosts pride and profits as Korea office serves OLED-themed lunch ...（OLED 滲透率、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Is LG planning to start producing 97\" and 111\" OLED panels?（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

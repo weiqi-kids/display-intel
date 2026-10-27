@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 117,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 26,
+  "gate2_fail": 31,
+  "passed": 27,
+  "gate2_samples": [
+    "Corning (NYSE:GLW) misses Q3 2026 sales expectations - Yahoo Finance",
+    "Corning Inc Stock (GLW) Moved Up by 3.45% on Oct 26: What Signal Does It Send? - TradingKey",
+    "Corning Incorporated : Third Quarter 2026 Financial Statement & Exhibits - www.marketscreener.com",
+    "(GLW) Corning Incorporated Expects Q4 Adjusted EPS Range $0.96 - $1.00 - marketscreener.com",
+    "Corning Incorporated Estimates – NYSE:GLW - TradingView"
+  ]
+}
