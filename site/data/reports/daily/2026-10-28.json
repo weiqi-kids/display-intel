@@ -1,0 +1,302 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T14:52:05.150777Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-10-28-002",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display passes 50 million large OLED panel sales, as OLED TVs help LG Electronics' TV business return to profit - OLED-Info",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM2VyUS1QX3JPUWN6Y1pTNkU5bFRLbGhBcUdjcjBQWVpaZUozUDhNWU9faXBYSGVtS19WNTlBZFpTdldMZWRSRmpsWWNrRzB0LVBNSUpsdW9OSy1oMmltQ0pyeHhGR2g1U09jbC1Sa3U1TFJtZk5zLU1fM2k5SWg4Z1E2clhDNFlWbFBTMVdvdUtHcGtZcThRR0lR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_display-2026-10-28-007",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "13 years of perseverance pays off… LG Display surpasses 50 million WOLED units - 머니투데이",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0Tlk0V2lZTWJaS3NTdWdqSlBFZjFySHk0LUhlTm95Uk5FdUV4RmJwMTNxaElmZWZubThoVzZJRU1yLXFhQm51Zlhfb042SnpHMlUwM2ZwZlBoTlpuMzMySmNUYUdHMC1rTG1mLVVZNEI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_display-2026-10-28-011",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display passes 50 million large OLED panel sales, as OLED TVs help LG Electronics' TV business return to profit",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "panel_price",
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/lg-display-passes-50-million-large-oled-panel-sales-oled-tvs-help-lg"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_display-2026-10-28-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Tops 50 Million OLED Sales - Businesskorea",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Yd0ZhRjNWMjBJQVpGZnNVWXdhVllib1IwZWo5NnZTUWJ2WTB2SjRrblc1aFUxWmlKOFQzSWZhZjBQUGdIaDAxLVpjTURnNC1HcWZxNUQ5anNGMWtFdE1VMkNhaTBya0tKU0xjQnBsOXNtUTRp?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_display-2026-10-28-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Tops 50 Million Cumulative Large OLED Panels, a Milestone 13 Years in the Making - BigGo Finance",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRcjAwRHlRQk9fQ0I2Y3ZiQV9mT3Q3SHNMbkZIbnVYM0g2eHp3enFKdEJqRkpXanhOU0JUM3EzMGJBbnVKTVpKM1RBMUEzWFVHV0xadFBIU2JGTmg4QlhraEtETC1qSmJBM0F1REVLdFduWHFKR1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 8,
+      "topics": [
+        "oled_penetration",
+        "earnings",
+        "panel_price"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 10
+      },
+      {
+        "id": "lg_display",
+        "count": 8
+      },
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      },
+      {
+        "id": "auo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 359,
+    "dup_title": 107,
+    "too_old": 150,
+    "gate1_blocked": 44,
+    "gate2_blocked": 27,
+    "passed": 31,
+    "pass_rate": "12.3%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "Corning’s American Tradition of Knowledge in Materials Science - Bismarck Brief",
+      "Corning Raises Growth Ambitions With $40 Billion Sales Target by 2030 - TradingView",
+      "Corning (NYSE:GLW) misses Q3 2026 sales expectations - Yahoo Finance",
+      "Corning Incorporated : Third Quarter 2026 Financial Statement & Exhibits - www.marketscreener.com",
+      "Canon Q3 2026 Results: Strong Imaging Sales Driven by Network Cameras - Canon Rumors"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為LG電子、LGD、Himax Technologies相關動態：「LG Display passes 50 million large OLED panel sales, as O...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display passes 50 million large OLED panel sales, as OLED TVs help LG Elec...（OLED 滲透率、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "13 years of perseverance pays off… LG Display surpasses 50 million WOLED unit...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

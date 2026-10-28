@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-28",
+  "total_events": 20,
+  "by_company": {
+    "himax": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lg_display": {
+      "count": 8,
+      "sentiment_avg": 0.19
+    },
+    "lg_elec": {
+      "count": 10,
+      "sentiment_avg": 0.15
+    },
+    "samsung_elec": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "auo": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 12,
+      "sentiment_avg": 0.17
+    },
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.25
+    },
+    "panel_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mini_led": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 8,
+      "topics": [
+        "oled_penetration",
+        "earnings",
+        "panel_price"
+      ]
+    }
+  ]
+}

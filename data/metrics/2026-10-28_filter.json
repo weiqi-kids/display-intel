@@ -1,0 +1,16 @@
+{
+  "total_raw": 359,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 44,
+  "gate2_fail": 27,
+  "passed": 31,
+  "gate2_samples": [
+    "Corning’s American Tradition of Knowledge in Materials Science - Bismarck Brief",
+    "Corning Raises Growth Ambitions With $40 Billion Sales Target by 2030 - TradingView",
+    "Corning (NYSE:GLW) misses Q3 2026 sales expectations - Yahoo Finance",
+    "Corning Incorporated : Third Quarter 2026 Financial Statement & Exhibits - www.marketscreener.com",
+    "Canon Q3 2026 Results: Strong Imaging Sales Driven by Network Cameras - Canon Rumors"
+  ]
+}
