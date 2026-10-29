@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 124,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 37,
+  "gate2_fail": 24,
+  "passed": 28,
+  "gate2_samples": [
+    "Corning’s American Tradition of Knowledge in Materials Science - Bismarck Brief",
+    "Corning Inc Stock (GLW) Moved Up by 3.42% on Oct 28: A Full Analysis - TradingKey",
+    "Corning Incorporated : Third Quarter 2026 Financial Statement & Exhibits - www.marketscreener.com",
+    "Corning (NYSE:GLW) misses Q3 2026 sales expectations - Yahoo Finance",
+    "(GLW) Corning Incorporated Expects Q4 Adjusted EPS Range $0.96 - $1.00 - marketscreener.com"
+  ]
+}

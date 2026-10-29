@@ -1,5 +1,359 @@
 [
   {
+    "id": "himax-2026-10-29-001",
+    "date": "2026-10-29",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) Expected to Release Earnings on Thursday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQWDk1QTY5VDNSRnRMYVNiODRYcEs2eThqNjFSWUxPMWtObWtUeWNtM1Nlc1NqdUpvMTJYSDQ2S1FJUkxZSmhYZUJNbmtaelV1Rk01enNsYXNKTW1oOEdUb09kMXItNi1yeUM3elU5bT",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWDk1QTY5VDNSRnRMYVNiODRYcEs2eThqNjFSWUxPMWtObWtUeWNtM1Nlc1NqdUpvMTJYSDQ2S1FJUkxZSmhYZUJNbmtaelV1Rk01enNsYXNKTW1oOEdUb09kMXItNi1yeUM3elU5bTQ4TFpRU3NHdm1VdXRWRkp4aVBMVzRPRlJIdlZXQW5OMVlyMVJ5WGYwaXNEVkZuY21GZ3M2NmRROVNpcjVtb3RVSnpOdUVEYjAtSThWR2swOHVpT29FU3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-002",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "111\" OLED TVs could be on the horizon - FlatpanelsHD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9FazBpR3Q3aW5BTjdOOTVudDFIa0tKUzJaUU1nTjJmUFVNako4TXczWmZaTVVaU1VLVEhBeDdmM29xOFhBQUJzdEh2V0hvWUJWNVdvQ3BqYmJGTk1DX1pfRDZfUlhyQVc0UmdIVlFFOE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FazBpR3Q3aW5BTjdOOTVudDFIa0tKUzJaUU1nTjJmUFVNako4TXczWmZaTVVaU1VLVEhBeDdmM29xOFhBQUJzdEh2V0hvWUJWNVdvQ3BqYmJGTk1DX1pfRDZfUlhyQVc0UmdIVlFFOEdVN1JSQjZiNmt3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-10-29-003",
+    "date": "2026-10-29",
+    "companies": [
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LGD invests in Guangzhou for world's first 111-inch OLED line - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPYktlbVFJbEpOODZQVGJXQlBoX1RyaEplQTJ1Zk9HaElNUVF0UUJYLUYxeTNqY2tWYTM5UnZxU2RQaXVieGVzNm8tTGg5OU5wN0QwcjRCNkt5V1lFZXpsVHVsa2FwaUNkcUZIX19Xak",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYktlbVFJbEpOODZQVGJXQlBoX1RyaEplQTJ1Zk9HaElNUVF0UUJYLUYxeTNqY2tWYTM5UnZxU2RQaXVieGVzNm8tTGg5OU5wN0QwcjRCNkt5V1lFZXpsVHVsa2FwaUNkcUZIX19Xakw2cWowSmtGcllyRTlnUWZGZHZHSHUwWGFiT25OREFRbVBSMEV1THJlWnRYek1kd2c5RGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-29-004",
+    "date": "2026-10-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Samsung Electronics Announces Third Quarter 2026 Results",
+    "summary": "Samsung Electronics today reported financial results for the third quarter ended Sept. 30, 2026. The Company posted KRW 195.3 trillion in consolidated revenue, another all-time quarterly high, represe",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-005",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Tianma to expand its TM18 6-Gen flexible AMOLED line in Xiamen by 50%, to 48,000 monthly substrates",
+    "summary": "<p>A report from China says that <a href=\"https://www.oled-info.com/tianma-oled\">Tianma</a> is planng to expand its TM18 6-Gen flexible AMOLED production line in Xiamen. The expansion, already approve",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/tianma-expand-its-tm18-6-gen-flexible-amoled-line-xiamen-50-48000-monthly",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-006",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple announces its first OLED laptop, the MacBook Pro with PROLED XDR Display",
+    "summary": "<p>As expected, Apple announced its first laptop to sport an AMOLED display, the <a href=\"https://www.oled-info.com/apple-macbook-pro-proled-xdr-display\">MacBook Pro with PROLED XDR Display</a> (yes, ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/apple-announces-its-first-oled-laptop-macbook-pro-proled-xdr-display",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-007",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Universal Display reports its financial results for Q3 2026, with a 14% increase in revenues from Q3 2025",
+    "summary": "<p><a href=\"https://www.oled-info.com/universal_display_udc\">Universal Display Corporation</a> reported its financial results for the third quarter of 2026, with $160.4 million in revenues (up from $1",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/universal-display-reports-its-financial-results-q3-2026-14-increase-revenues-q3",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-008",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "UMT reports 71% revenue growth as LEO satellite demand drives expansion",
+    "summary": "UMT's revenue increased 71% year-over-year in the first three quarters of 2026 as global demand for low Earth orbit (LEO) satellite deployments lifted sales of millimeter-wave communications products.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261029PD240/umt-revenue-leo-demand-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-009",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "ADATA posts record 2026 profit as AI demand intensifies memory supply pressure",
+    "summary": "ADATA Technology reported record results for the third quarter and first nine months of 2026, driven by strong demand for memory and storage products as global artificial intelligence (AI) infrastruct",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261029PD241/2026-demand-profit-eps-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-10-29-010",
+    "date": "2026-10-29",
+    "companies": [
+      "auo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TSMC buys AUO Taichung plant for NT$38.8B; Quanta deal scrapped",
+    "summary": "AUO has approved the sale of its Taichung Plant Phase II facilities and related infrastructure to TSMC for NT$38.8 billion (US$1.2 billion), excluding taxes, and has terminated a planned NT$19.7 billi",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261029PD237/auo-tsmc-plant-infrastructure-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-29-011",
+    "date": "2026-10-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Analysis: Samsung's record quarter came from higher prices, not more chips; expects buyers to get no relief before 2028",
+    "summary": "Samsung Electronics' third-quarter profit came almost entirely from charging more for memory chips, not from selling more of them. On its earnings call, the company also told investors the shortage be",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261029VL217/samsung-hbm-chips-profit-2028.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-012",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Server CPU shipments set to surge 46% in 2027, with AMD eyeing revenue crown",
+    "summary": "Global server CPU shipments are projected to surpass the 50 million-unit milestone for the first time in 2027, reaching 52.6 million units as demand accelerates alongside the industry-wide shift from ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261029PD226/ai-server-cpu-shipments-amd-revenue-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-013",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "KLA: wafer fab equipment market exceeding US$200B in 2027",
+    "summary": "KLA expects global wafer fabrication equipment (WFE) spending to exceed US$200 billion in 2027, as semiconductor manufacturers accelerate investments in advanced logic, DRAM and high-bandwidth memory ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261029VL214/kla-equipment-wafer-market-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "applied_materials-2026-10-29-014",
+    "date": "2026-10-29",
+    "companies": [
+      "applied_materials",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "SDC chief meets Applied Materials executives amid FMM-free OLED push",
+    "summary": "Samsung Display (SDC) President Lee Chung-hwan recently met with senior executives from US equipment maker Applied Materials as SDC accelerates development of fine metal mask (FMM)-free OLED technolog",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261029PD206/sdc-applied-materials-equipment-technology-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-015",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "UMC targets 10% ASP growth in 2027 as AI revenue share heads toward 25% within three years",
+    "summary": "United Microelectronics Corporation (UMC) expects wafer foundry pricing to continue rising in 2027, with CEO Jason Wang projecting approximately 10% year-over-year growth in the company's full-year av",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261029PD218/umc-2027-growth-revenue-asp.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-016",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple's New MacBook Pro Display Explained: What's So Special About PrOLED XDR? - Gizbot",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2lJNHZBRlh0MnEwSk9wWXZfeXBhaGNpanNZUGFac01nQnlNUExMUVNJOGVGd0NsLXFVZVRvSkJJZ1ltMXd2OC1ELXhlV1ZtOWNpdHhYMXZ1dS1ndUxTLWxZQ3R1VnVzSXFXOGZyRm",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2lJNHZBRlh0MnEwSk9wWXZfeXBhaGNpanNZUGFac01nQnlNUExMUVNJOGVGd0NsLXFVZVRvSkJJZ1ltMXd2OC1ELXhlV1ZtOWNpdHhYMXZ1dS1ndUxTLWxZQ3R1VnVzSXFXOGZyRmlSU05VbVNWVlQzS1Eta3hWc0NYRmdidG1PcUQzY01n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-017",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Discover the new Xiaomi TV S Mini LED 2026 Series - Manila Bulletin",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0V2TFpRYmhBQlNkcXNJMmI1Y2NlMVUyT081cFJ6MjBEcjczV3VlRmcxWmIzTXdOYWxZWE5LdkJRVERPT1BHWjA5Ym4yUE13bDZEN0YwaWhIMDNqaENySC1jeVdHVG9uZlJyd0x5SF",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0V2TFpRYmhBQlNkcXNJMmI1Y2NlMVUyT081cFJ6MjBEcjczV3VlRmcxWmIzTXdOYWxZWE5LdkJRVERPT1BHWjA5Ym4yUE13bDZEN0YwaWhIMDNqaENySC1jeVdHVG9uZlJyd0x5SFlnQkVKMnM5RUZFUnhzQ1NmUXpfQ04?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-018",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "STMicroelectronics Weighs Developing More Powerful MCUs, MPUs for Humanoid Robots",
+    "summary": "\n\t\t\t\t\t\t<p>With humanoid robot designs still evolving and volumes low, STMicroelectronics is watching how the market develops before deciding what to build.</p>\n<p>The post <a href=\"https://www.eetimes",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/stmicroelectronics-weighs-developing-more-powerful-mcus-mpus-for-humanoid-robots/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-019",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Scaling Autonomous Root Cause Analysis For Regression Triage",
+    "summary": "<p>Solving difficult bugs while intelligently deciding what to investigate, what to rerun, and where to spend compute. </p>\n<p>The post <a href=\"https://semiengineering.com/scaling-autonomous-root-cau",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/scaling-autonomous-root-cause-analysis-for-regression-triage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-10-28-001",
     "date": "2026-10-28",
     "companies": [
@@ -387,6 +741,123 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmltQlB2aHpDNzhkY0E5R2N6bmZZM2VsdUxxMWVzZ3pyS0FoV1ItWkF4OG9WTC1fTjM4LXk4bmE1UmxNSllUNVFKTmRNMGJHVlFWSDZPSGsxVkUxQWNyOVB1NUhCTU5Rbk9FVFJNSHdYTF9PN1FkVkpzOWdKY2tsb2xuc9IBiAFBVV95cUxQZWkzNGVxUTd5ME4wZ0kwcTVlZEh5NzZZNjd3Z3NXQ3ZLMkkzREtjMlZXYkcxTDNQTjVydkpES1FuQ1o5UHRoeXpQZDVvdFlxdUl3VndmVEtuN21DRG95QmJPcVJ5a05ERE1MOFpzNjdEUDNFT2lXS2VXZThuVnFCeXd0bEsxY3ZH?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-28-021",
+    "date": "2026-10-28",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The Invisible AI Backbone: Corning's AI Fiber Play - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzlOaXZYQlhKc25HWUFXRUdJVkNqVUNqNlVFYkxBNHJGUGlaTUdSeXhWYkMtVGRzUFlaRXJudkdOZ3hqcThHMnF4ZHNSRHpjOWJ1VHJEbld3QmJXWDY3aWQwS3BjQkFlTDA4WDdzOE",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzlOaXZYQlhKc25HWUFXRUdJVkNqVUNqNlVFYkxBNHJGUGlaTUdSeXhWYkMtVGRzUFlaRXJudkdOZ3hqcThHMnF4ZHNSRHpjOWJ1VHJEbld3QmJXWDY3aWQwS3BjQkFlTDA4WDdzOExFLXlBSm5LRmxXSTg2dmRVcnowX1ZTckptRUZObTJiSEtOQ3N4WTVxZjg5U3ZLazZZY2x0LW1weVpXUFFkQl9F?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-28-022",
+    "date": "2026-10-28",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display’s Cumulative WOLED Panel Sales Top 50 Million Units - THE ELEC, Korea Electronics Industry Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kbmZlT2tsZ2ZKWEVNMnN0a0tjaTV2NmJuZnhxUHE1dmtXSG82aXN4QW5YZnJoR0RDSmtPc0EyN2Jld3ZVYmxLYlItQm0yWjFNZDQzTWlSUEQzcTJqcUV1bXc2Q3F4X3c?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kbmZlT2tsZ2ZKWEVNMnN0a0tjaTV2NmJuZnhxUHE1dmtXSG82aXN4QW5YZnJoR0RDSmtPc0EyN2Jld3ZVYmxLYlItQm0yWjFNZDQzTWlSUEQzcTJqcUV1bXc2Q3F4X3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-28-023",
+    "date": "2026-10-28",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "LG Display's WOLED panels surpass 50 million units sold, 13 years after launch - 헤럴드경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xOEsyUnRaQzZQYVNYWi1rWDg4OUhWX3ZnZER4NGcxeW4zZlZMSzFvYWF6QnEySEtzRXFGZk93UDkxdWdUY3FjSlBRTFo0MFVkbjNURDdDaw?oc=5\" target=\"_blank\">LG Displa",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xOEsyUnRaQzZQYVNYWi1rWDg4OUhWX3ZnZER4NGcxeW4zZlZMSzFvYWF6QnEySEtzRXFGZk93UDkxdWdUY3FjSlBRTFo0MFVkbjNURDdDaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-28-024",
+    "date": "2026-10-28",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Targets 111-Inch OLED TVs In $200 Million Manufacturing Push - ChannelNews.com.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPVThaNnRkT09mOTBPZ3JBczg1VEF2VkduMEJQNWdpaEROOG1LcTFuTVRNNWNNb0xWZVlRd1ZBcGREazg0MG1pcW96MTE3bGNfd1hzX2p1S2xYVno4aWY4QWFsMlVzNkttRFlBTE02X1",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVThaNnRkT09mOTBPZ3JBczg1VEF2VkduMEJQNWdpaEROOG1LcTFuTVRNNWNNb0xWZVlRd1ZBcGREazg0MG1pcW96MTE3bGNfd1hzX2p1S2xYVno4aWY4QWFsMlVzNkttRFlBTE02X1EtZ0xkclJvZmdQUFc0SkRSRDZnZW9KMU9STk1iNWRwNElYOGNrR3FUMG1vbXNiS2xhUmNzNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-28-025",
+    "date": "2026-10-28",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "This huge 65-inch Samsung smart TV is now less than $380 at Amazon - The Register-Guard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSlN5QkNCaHE4eXplNmNkZUNFZzhRMm9LOEdLd0hxc0ZXZFlzUTVNc3JqY3AzSWVkUzRfVlZpS283aGRYS1F2U052QW4tX1NPbkdnTi1EdlNiSDA3QjVFbV9VSmV1TGsxRFJfTjREeW",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSlN5QkNCaHE4eXplNmNkZUNFZzhRMm9LOEdLd0hxc0ZXZFlzUTVNc3JqY3AzSWVkUzRfVlZpS283aGRYS1F2U052QW4tX1NPbkdnTi1EdlNiSDA3QjVFbV9VSmV1TGsxRFJfTjREeW1QbVJjVFd6bWhLLURCOURTOXF4YmZkQWJ2OFJTM0IweGNDOUtJQzdZZmdJX3Q5TnF3ZDB2YUJMdzF5WnVkVFRlQ1d4MWxQZ210TEtxVS16eWIyZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-28-026",
+    "date": "2026-10-28",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "MacBook Pro with PROLED XDR vs MacBook Pro: Here’s every difference - 9to5Mac",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNX0x3aS1LcWNoTWcxazl4V21wTmZ2aExnSmFVRllDZDJoSlVoUjgwV0ZlYXVDS0d2cUNOUVJMRERVdzRhTjJXM2VuTmhTbURRWTZ5ajJraXEzUjNsNEd1T25Ta01mTDd3cm82OFJPc1",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX0x3aS1LcWNoTWcxazl4V21wTmZ2aExnSmFVRllDZDJoSlVoUjgwV0ZlYXVDS0d2cUNOUVJMRERVdzRhTjJXM2VuTmhTbURRWTZ5ajJraXEzUjNsNEd1T25Ta01mTDd3cm82OFJPc1ZRZzJjaU1PNTRoX3BOaEt0SUlrSkJDR01JNG9md1NXVVNDNjZtMXpQNGNnUFBxdw?oc=5",
         "type": "rss"
       }
     ]
@@ -906,6 +1377,45 @@
     ]
   },
   {
+    "id": "corning-2026-10-27-027",
+    "date": "2026-10-27",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Flash (GLW) Corning Incorporated Posts Q3 Adjusted EPS $0.91 per Share, vs. FactSet Est of $0.88 - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbVA4a2FoU0prNWJpbmFxY28xcG1QZ21fb19DalphMXUzR2JodjJwejhSUHhkVVhMZFA1aGduVXZxdjFGUG9Uc09BWEJOZG5EVE5xaWZpeDBZVHpLOGFxazd3UFNuTjlTLVdacnVTMl",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbVA4a2FoU0prNWJpbmFxY28xcG1QZ21fb19DalphMXUzR2JodjJwejhSUHhkVVhMZFA1aGduVXZxdjFGUG9Uc09BWEJOZG5EVE5xaWZpeDBZVHpLOGFxazd3UFNuTjlTLVdacnVTMlo2dHdwZmpBVkZULWtnaFJVSTNiNS1BTjJibjh3dnI5T2tuQzVNSk9nRTZBbE1hRDlXUW5VaWNnTkxfVzZiT0dOZTIybUdtUlpjRGRUd1ktNXNURWVQTGZZX2VlU1hkdHBEd1h3c2c3SkxoUEh0VzN3ag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-27-028",
+    "date": "2026-10-27",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Co. Ltd. ADR Research & Ratings | LPL - Barron's",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOeU01YWRlamtQQkdsaW1fbkFyanY4QTdRdEM3MVhGZS10RFVVbDhsMEhXU3JKdXU4SkVYUjNxcnNjMGtmUzJlejU4WEdPUjZxN2dpM3h0amRmSUo4ZVprdjVVckdtMUdCRnJ2R1NUMG",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeU01YWRlamtQQkdsaW1fbkFyanY4QTdRdEM3MVhGZS10RFVVbDhsMEhXU3JKdXU4SkVYUjNxcnNjMGtmUzJlejU4WEdPUjZxN2dpM3h0amRmSUo4ZVprdjVVckdtMUdCRnJ2R1NUMG9CeDJOX2M2Wmo4d2p4ancySUg0cndIQk1QcDF3a3h0NzBHTmF6emxpMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-10-26-001",
     "date": "2026-10-26",
     "companies": [],
@@ -1297,6 +1807,25 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/panasonic-avionics-has-sold-500000-astrova-4k-oled-flight-entertainment-screens",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-25-008",
+    "date": "2026-10-25",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Innotek Reportedly May Acquire LCD Plant from LG Display - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQOFNKOW56YV9nLVFxNS1ubVJRem5KM21LdFFMSGJpOWpnUzZzaGJKREpFSmRCSzFuRE9sQkVna3pvOFlWYzdiV0NMTjFTNHJPd05FQjVyaFpYdzViRG82SU5kNTNpSzltMDFqMGtid0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOFNKOW56YV9nLVFxNS1ubVJRem5KM21LdFFMSGJpOWpnUzZzaGJKREpFSmRCSzFuRE9sQkVna3pvOFlWYzdiV0NMTjFTNHJPd05FQjVyaFpYdzViRG82SU5kNTNpSzltMDFqMGtid0JPWGVNamcxVGhtNFhDQ19mRDZmZzZfcnR2c05LNmh0Q1E5cG1LSGRaS080cTg5QTFKa00xT3ZsVHdWa1lYUFlqQ0J3?oc=5",
         "type": "rss"
       }
     ]
