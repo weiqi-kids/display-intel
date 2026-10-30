@@ -1,0 +1,249 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:50:05.454690Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-10-30-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Strengthens Workplace Safety with Contractors and Subcontractors in Cooperation with the Ministry of Employment and Labor - 아시아경제",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rdkxxMWZLbV9lX0pwbllPNF9mOWlHMVVScHpFUm5LVUV2ZUZVUHIzell4ekhTS0NaR2otcUhWcHNqcXBaUFFjV3J3T1RrdGFZVW1DNFRhRmlJNWpyRFpUMUcyaVk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "csot-2026-10-30-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung Electronics to acquire Samsung Display's entire stake in TCL CSOT for $960 million",
+      "companies": [
+        "csot",
+        "samsung_elec",
+        "tcl"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec",
+          "tcl"
+        ],
+        "suppliers": [
+          "csot"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/samsung-electronics-acquire-samsung-displays-entire-stake-tcl-csot-960-million"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_elec-2026-10-30-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Samsung Display posts higher profits in Q3 2026 on high-end smartphone and gaming monitor OLED demand, but expects limited improvement in Q4",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.33
+      },
+      "source_url": "https://www.oled-info.com/samsung-display-posts-higher-profits-q3-2026-high-end-smartphone-and-gaming"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-30-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Realtek targets 30% AI revenue share by 2030",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261030PD239/realtek-revenue-2030-business-2027.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-30-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "HHTD 26: Mitsubishi Electric Mobility to join Foxconn in 2027, targeting JPY1T revenue by 2030",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261030PD243/mitsubishi-electric-foxconn-2027-revenue-cybersecurity.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.22,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      },
+      {
+        "id": "csot",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "oled_penetration",
+        "count": 3
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 367,
+    "dup_title": 126,
+    "too_old": 161,
+    "gate1_blocked": 41,
+    "gate2_blocked": 23,
+    "passed": 16,
+    "pass_rate": "6.6%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "Corning Incorporated (GLW) Seasonal returns chart - Yahoo Finance Singapore",
+      "Neil deGrasse Tyson will be featured speaker at Corning event in April - Corning Leader",
+      "Corning’s American Tradition of Knowledge in Materials Science - Bismarck Brief",
+      "Corning Inc Stock (GLW) Moved Up by 3.42% on Oct 28: A Full Analysis - TradingKey",
+      "Corning Incorporated (GLW) Seasonal returns chart - Yahoo Finance Australia"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為三星電子、LGD、LG電子相關動態：「LG Display Strengthens Workplace Safety with Contractors ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display Strengthens Workplace Safety with Contractors and Subcontractors i...",
+        "level": "red"
+      },
+      {
+        "text": "Samsung Electronics to acquire Samsung Display's entire stake in TCL CSOT for...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

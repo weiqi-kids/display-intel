@@ -1,0 +1,16 @@
+{
+  "total_raw": 367,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 41,
+  "gate2_fail": 23,
+  "passed": 16,
+  "gate2_samples": [
+    "Corning Incorporated (GLW) Seasonal returns chart - Yahoo Finance Singapore",
+    "Neil deGrasse Tyson will be featured speaker at Corning event in April - Corning Leader",
+    "Corning’s American Tradition of Knowledge in Materials Science - Bismarck Brief",
+    "Corning Inc Stock (GLW) Moved Up by 3.42% on Oct 28: A Full Analysis - TradingKey",
+    "Corning Incorporated (GLW) Seasonal returns chart - Yahoo Finance Australia"
+  ]
+}

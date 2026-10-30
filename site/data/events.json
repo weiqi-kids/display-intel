@@ -1,5 +1,195 @@
 [
   {
+    "id": "lg_display-2026-10-30-001",
+    "date": "2026-10-30",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Strengthens Workplace Safety with Contractors and Subcontractors in Cooperation with the Ministry of Employment and Labor - 아시아경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rdkxxMWZLbV9lX0pwbllPNF9mOWlHMVVScHpFUm5LVUV2ZUZVUHIzell4ekhTS0NaR2otcUhWcHNqcXBaUFFjV3J3T1RrdGFZVW1DNFRhRmlJNWpyRFpUMUcyaVk?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rdkxxMWZLbV9lX0pwbllPNF9mOWlHMVVScHpFUm5LVUV2ZUZVUHIzell4ekhTS0NaR2otcUhWcHNqcXBaUFFjV3J3T1RrdGFZVW1DNFRhRmlJNWpyRFpUMUcyaVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "csot-2026-10-30-002",
+    "date": "2026-10-30",
+    "companies": [
+      "csot",
+      "samsung_elec",
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Electronics to acquire Samsung Display's entire stake in TCL CSOT for $960 million",
+    "summary": "<p>Samsung Electronics announced that it will acquire <a href=\"https://www.oled-info.com/samsung-oled\">Samsung Display</a>'s entire stake in China-based <a href=\"https://www.oled-info.com/csot-oled\">T",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-electronics-acquire-samsung-displays-entire-stake-tcl-csot-960-million",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-30-003",
+    "date": "2026-10-30",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Samsung Display posts higher profits in Q3 2026 on high-end smartphone and gaming monitor OLED demand, but expects limited improvement in Q4",
+    "summary": "<p>Samsung Electronics announced its financial results for Q3 2026, with record revenues of $146 billion, up 14% from the previous quarter, and an operating profit of $80 billion. These results were m",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-posts-higher-profits-q3-2026-high-end-smartphone-and-gaming",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-004",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple acknowledges the iPhone Duo inner display issue and offers replacements, as hinge supplier Fine M-Tec denies its parts are at fault",
+    "summary": "<p>Earlier this week we reported that owners of Apple's first foldable smartphone, the <a href=\"https://www.oled-info.com/apple-iphone-duo\">iPhone Duo</a>, are finding that <a href=\"https://www.oled-i",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/apple-acknowledges-iphone-duo-inner-display-issue-and-offers-replacements-hinge",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-005",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Realtek targets 30% AI revenue share by 2030",
+    "summary": "Realtek Semiconductor quantified its AI business for the first time at an investor conference on October 29, setting a target for high-performance computing (HPC) and edge AI revenue&mdash;including a",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261030PD239/realtek-revenue-2030-business-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-006",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "HHTD 26: Mitsubishi Electric Mobility to join Foxconn in 2027, targeting JPY1T revenue by 2030",
+    "summary": "Speaking at Hon Hai Tech Day (HHTD 26), Kazunori Tanaka, Representative Director and President of Mitsubishi Electric Mobility, emphasized that the company's core competitiveness in EV platforms has d",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261030PD243/mitsubishi-electric-foxconn-2027-revenue-cybersecurity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-007",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Eutelsat eyes EUR10B revenue from IRIS2 as EU seeks homegrown answer to Starlink",
+    "summary": "Eutelsat said that it predicts at least EUR10 billion (US$11.2 billion) in revenue from 2032 to 2040 as it leads the EU's low Earth orbit (LEO) network initiative IRIS2. The European satellite player ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261030VL226/revenue-eu-starlink-leo-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-008",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "China's memory module bellwethers post record profits as 3Q26 momentum fades",
+    "summary": "China's listed memory module makers, whose results offer an early read on how the global memory upcycle is reaching the country's storage supply chain, reported net profit gains of more than 300-fold ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261030VL212/memory-module-profit-revenue-sina-inventory.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-30-009",
+    "date": "2026-10-30",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Samsung SDI posts 12-quarter high in 3Q26 operating profit",
+    "summary": "Samsung SDI, a major South Korean battery maker, posted strong results in the third quarter of 2026 as rising energy storage system (ESS) battery demand lifted operating profit to its highest level in",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261030PD207/samsung-sdi-operating-profit-2026-lfp-battery-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-010",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Buyers urged to Look beyond mini LED TV labels - Daily News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9BUWR3SWZTR2NXeTNpRXVWM3BIZGtNVUhJeVVtbkZ5Y0xkclBlN0xWNkhtQ0c2d2hWUWZrMXcxYlNTMFcwNURMN0k5QVdlaGxyZlBmalpmZ1cxaWtBeHNzRGpHdUZHUnhRQ1lEN05qZz",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BUWR3SWZTR2NXeTNpRXVWM3BIZGtNVUhJeVVtbkZ5Y0xkclBlN0xWNkhtQ0c2d2hWUWZrMXcxYlNTMFcwNURMN0k5QVdlaGxyZlBmalpmZ1cxaWtBeHNzRGpHdUZHUnhRQ1lEN05qZzdvSUplN25NUFRyOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-10-29-001",
     "date": "2026-10-29",
     "companies": [
@@ -349,6 +539,100 @@
       {
         "name": "semi_engineering",
         "url": "https://semiengineering.com/scaling-autonomous-root-cause-analysis-for-regression-triage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-29-020",
+    "date": "2026-10-29",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Neil deGrasse Tyson coming to Corning and SUNY CCC next year - WENY News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNmdqb0F5NFN0N2RCWHI1S0lxVl9Ia2pTcjIwd3hlVVV6bldidTBMZDJhQmhpcjVrOUtzUzVfb1JmdmlXYzlCUFlBZWpwX3ZjUkJMRzRCMkNXZDVLc091NDAtOG5jWnZQZ2kyNXBfT1",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNmdqb0F5NFN0N2RCWHI1S0lxVl9Ia2pTcjIwd3hlVVV6bldidTBMZDJhQmhpcjVrOUtzUzVfb1JmdmlXYzlCUFlBZWpwX3ZjUkJMRzRCMkNXZDVLc091NDAtOG5jWnZQZ2kyNXBfT1RHQi0xR21WSXNGNUZhWVhaYnBTRUZGVjZLX1NCTG1haU03OF9talVITURHelRmYzlKV0pIVFlQQ25EWWd5NGNMWDlDN0NxU2NiazZxX1JmRlJDSUlxbFc2U2RwQjBLTTBVU0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-29-021",
+    "date": "2026-10-29",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corning 3Q 2026: Revenue $4.86B, EPS $0.78— 10-Q Summary - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQaFJMb3NNYzZGRDNaS2RBaFpzQjJRcThVMjkwZVdnU2JYSU90UUhUTW1DVlp1RXJZZk52bHc3c0ZnSDhYRVBkN2VySDl1Y3A3REQzVnVsN3QyZHF1UUpTb1N5QTlEaFBCbzdFVml4d3",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaFJMb3NNYzZGRDNaS2RBaFpzQjJRcThVMjkwZVdnU2JYSU90UUhUTW1DVlp1RXJZZk52bHc3c0ZnSDhYRVBkN2VySDl1Y3A3REQzVnVsN3QyZHF1UUpTb1N5QTlEaFBCbzdFVml4d3JUU1IyclN2RUxOSF8zYnY4SEJhbmtwYXdzeFJSTFRCNm1LZjdwcENwZHJoN0NFa0JQdHlmd0ZEZlVwV21DU1lBVXRLSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-29-022",
+    "date": "2026-10-29",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Q3 Sales Jump 19% as AI Optical Demand and Margins Accelerate - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzJtNFA2a1h5Wnp2RUs0WUVaRUtqeE53amQ2TmNLMm1wQ0l4dzVZc2RzOERzaVR3YnVkSUdxYXNhZk9FSUI3Nmh1eWMydFhSeU5SUm1EX0F1S3g1c0tDRi1jbThzaXNZOTFadEt1OX",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzJtNFA2a1h5Wnp2RUs0WUVaRUtqeE53amQ2TmNLMm1wQ0l4dzVZc2RzOERzaVR3YnVkSUdxYXNhZk9FSUI3Nmh1eWMydFhSeU5SUm1EX0F1S3g1c0tDRi1jbThzaXNZOTFadEt1OXpYOWd0N0VxblY5LU5GQ0VfVjh4b0hObTJEWFVfNHBzY2pOdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-023",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "What is Mini LED? Three things to check before buying your next TV - Citizen Digital",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTFNoUm9KY2tqNjh2eTBzdldmV3Q2SE9uenAwVUhtTy1QQnlmdkthSHEwYThZOUJKbXk5c1RHUjJGQThuTW9WVTNPV1JLWWJZX29ZUmluU1FXR1NCd2E4Nk52ZjZyUmIyb2h5U05ldT",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTFNoUm9KY2tqNjh2eTBzdldmV3Q2SE9uenAwVUhtTy1QQnlmdkthSHEwYThZOUJKbXk5c1RHUjJGQThuTW9WVTNPV1JLWWJZX29ZUmluU1FXR1NCd2E4Nk52ZjZyUmIyb2h5U05ldTZWSk1KcnRNWU0tSDU1ME1zSE1OUGFyM05INENhVVBGaW00RTg1RFcxRVlqNzlZcjN2eWxaT1VDRmo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-29-024",
+    "date": "2026-10-29",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
+    "summary": "\n\t\t\t\t\t\t<p>Samsung reported third-quarter operating profit of $80 billion, but rising component prices caused an operating loss in mobile.</p>\n<p>The post <a href=\"https://www.eetimes.com/samsung-elect",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/",
         "type": "rss"
       }
     ]
@@ -1411,6 +1695,26 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeU01YWRlamtQQkdsaW1fbkFyanY4QTdRdEM3MVhGZS10RFVVbDhsMEhXU3JKdXU4SkVYUjNxcnNjMGtmUzJlejU4WEdPUjZxN2dpM3h0amRmSUo4ZVprdjVVckdtMUdCRnJ2R1NUMG9CeDJOX2M2Wmo4d2p4ancySUg0cndIQk1QcDF3a3h0NzBHTmF6emxpMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-10-27-029",
+    "date": "2026-10-27",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Canon: Q3 Earnings Snapshot - KTVB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWhKWlI0aUVHZVZFUlE5b2NkaWlpOHdMaXlxb1N3bFVBWDFXc1VNY0ZtaWdzeHBCak81b1MzOFdfSGJ6NEQ0bG96UzN3aF9TM1IwU1FSbHhEUmw5dUg5VFc1aDR4NXhDZGhPTkNBOW",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWhKWlI0aUVHZVZFUlE5b2NkaWlpOHdMaXlxb1N3bFVBWDFXc1VNY0ZtaWdzeHBCak81b1MzOFdfSGJ6NEQ0bG96UzN3aF9TM1IwU1FSbHhEUmw5dUg5VFc1aDR4NXhDZGhPTkNBOWZ0UnhpX2dQUlVCVDJaOWJnX3dsQ2prTzBjSGdPaXFFWmV2MWk0Y0hMVWhYbmlDbmVyVThaNXVlZGVsT3F4MWxqMkUweW9keV9sOFVKMlJrOVRodw?oc=5",
         "type": "rss"
       }
     ]
