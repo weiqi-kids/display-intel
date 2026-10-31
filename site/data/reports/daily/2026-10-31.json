@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T14:18:05.954076Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Apple’s New MacBook Pro Gets a Touchscreen, OLED Display, and a Glowing Logo - Fossbytes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2cUpjOWJBWlA2SGFjVk9udVVMUHMxVGF0dWNjWnZXTzdVYzlHNkNTUXJtMk9XQUpPSkVOU3g5QVpKNVd1dThYV1BxSWZNdDRNemREdUhrcnNTN3A2c01VSVhIX0Rhb0VWRXdvdkROLUhUM29HS3c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 339,
+    "dup_title": 126,
+    "too_old": 166,
+    "gate1_blocked": 22,
+    "gate2_blocked": 16,
+    "passed": 9,
+    "pass_rate": "4.2%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Corning’s American Tradition of Knowledge in Materials Science - Bismarck Brief",
+      "Corning Falls 14.1% in the Past Month: Is the Pullback a Buying Chance? - TradingView",
+      "Corning Incorporated (GLW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "Corning Incorporated (GLW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "Corning Incorporated (GLW) Seasonal returns chart - Yahoo Finance Australia"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為OLED 滲透率相關動態：「Apple’s New MacBook Pro Gets a Touchscreen, OLED Display,...」。主要關注主題為OLED 滲透率，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Apple’s New MacBook Pro Gets a Touchscreen, OLED Display, and a Glowing Logo ...（OLED 滲透率）",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

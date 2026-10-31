@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-10-31-001",
+    "date": "2026-10-31",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple’s New MacBook Pro Gets a Touchscreen, OLED Display, and a Glowing Logo - Fossbytes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB2cUpjOWJBWlA2SGFjVk9udVVMUHMxVGF0dWNjWnZXTzdVYzlHNkNTUXJtMk9XQUpPSkVOU3g5QVpKNVd1dThYV1BxSWZNdDRNemREdUhrcnNTN3A2c01VSVhIX0Rhb0VWRXdvdkROLU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2cUpjOWJBWlA2SGFjVk9udVVMUHMxVGF0dWNjWnZXTzdVYzlHNkNTUXJtMk9XQUpPSkVOU3g5QVpKNVd1dThYV1BxSWZNdDRNemREdUhrcnNTN3A2c01VSVhIX0Rhb0VWRXdvdkROLUhUM29HS3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_display-2026-10-30-001",
     "date": "2026-10-30",
     "companies": [
@@ -185,6 +203,138 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BUWR3SWZTR2NXeTNpRXVWM3BIZGtNVUhJeVVtbkZ5Y0xkclBlN0xWNkhtQ0c2d2hWUWZrMXcxYlNTMFcwNURMN0k5QVdlaGxyZlBmalpmZ1cxaWtBeHNzRGpHdUZHUnhRQ1lEN05qZzdvSUplN25NUFRyOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-30-011",
+    "date": "2026-10-30",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED TVs over 100 inches might finally be coming, and it might help bring the price of 77 and 83-inch sizes down too — LG Display and its partner are reportedly investing 1 billion extra yuan to upgrade large OLED panel production - TechRadar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxQMEhfTHNNN3R1SnFlSnROUUktbU5qSjFQTW50am9QUjdRcVpNSjRIR1FvZG5BN3EzWmoxZzAtVGxEOGJZeWRFUzVoN2FIZWttUHVYRDNDZTRKbGpEU3pRUmxoeWNFMnE1WEY2UTZEOD",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQMEhfTHNNN3R1SnFlSnROUUktbU5qSjFQTW50am9QUjdRcVpNSjRIR1FvZG5BN3EzWmoxZzAtVGxEOGJZeWRFUzVoN2FIZWttUHVYRDNDZTRKbGpEU3pRUmxoeWNFMnE1WEY2UTZEODZtTXdWTzU2ZWRHa05VZnZRZXpaTEFrRVJ3c3ltNmQtaEVNbWNraUVFc2VONmxrTTVIWGtwMHhCcURKLXNZdTk2RXNScGdfRWJWcHlrWl9IOXdBLTQ2MzNKdExaOXNHanFWYnJySWlFejI0RVF5MnhtQ2pHUEJRX3hNWTQxUHVGZkViSnhqcElYZ19vWGRBMUYzSHV2bW04SUhsdXZrNVRiTURlUXV2NE5C?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-10-30-012",
+    "date": "2026-10-30",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display (NYSE:LPL) Reaches New 52-Week Low - Should You Sell? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQjVlZTl3a3E5SkR6dFp5LTFaTWhJRFFyVWZtXzhTRVBOcmM2UC10U1Q1bjBhelIzR3RFOUNGMlJIdGh5ODRIX3BwX0ZESHJuUDNHUUJnSWR2cjhxNWlZcko0Undhb0pkckQ2UTBNdE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQjVlZTl3a3E5SkR6dFp5LTFaTWhJRFFyVWZtXzhTRVBOcmM2UC10U1Q1bjBhelIzR3RFOUNGMlJIdGh5ODRIX3BwX0ZESHJuUDNHUUJnSWR2cjhxNWlZcko0Undhb0pkckQ2UTBNdE1nWDF1WExSNmVoa0hKUHdZTnBIc0NHUW9FQi1EQ0tkQkNCQ2o1ZzVJdG9TQ3lKaHg0V1VvdGsxZFJIMDkybk43TF9yTUs5bUxjS1JZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-10-30-013",
+    "date": "2026-10-30",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Group Company Limited (200725.SZ) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fRWZjZ1RCV0ZJS2R3QTBpalhQSGw1emZKUjNxVXZOQjdHM2FEOUs4dWJCZ0pDeER3TmZwSjZackk3cFdtNlcyV19YYXNOczVWT0tIZW5vdm4zV2Z1T1RTdVVkR3pDbm1u?oc=5\" tar",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fRWZjZ1RCV0ZJS2R3QTBpalhQSGw1emZKUjNxVXZOQjdHM2FEOUs4dWJCZ0pDeER3TmZwSjZackk3cFdtNlcyV19YYXNOczVWT0tIZW5vdm4zV2Z1T1RTdVVkR3pDbm1u?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-10-30-014",
+    "date": "2026-10-30",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "BOE Technology Group Company: Q3 display headwinds and investment losses drove a RMB996m shareholder net loss - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxOZm5SNU12bWtsY1hpSi1nbjhZQUVzX3F1VGplaFJ5N244Ui16UHowRjhjZ0I3dS1RWlM1aHFzTlVzU0RjSm5zSVYwU1FiTnR3MWhmOXZMUVdNYVVrSm9JZHBmeTJpN0p4ZFBTWUtHdH",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZm5SNU12bWtsY1hpSi1nbjhZQUVzX3F1VGplaFJ5N244Ui16UHowRjhjZ0I3dS1RWlM1aHFzTlVzU0RjSm5zSVYwU1FiTnR3MWhmOXZMUVdNYVVrSm9JZHBmeTJpN0p4ZFBTWUtHdHZsYmNaYjlzaWw2UHpralU1M0hFR1hmeUdWbWVxNEV3SzJ3c1dMTEd2dGQ3UmpTSUlnSGVDbC0zVDJya1hNNjBkdWg2TmZKSDhrUUhEdHlXc09hbWM0dzFHamc2WHExR25SRFg0eWhHTUR3cHFiemFDSUhmM25IT1E2NFQ5YnVPNTlHVkl4SDdFQ1pvUUczYmk2dHJCTGxXbXp4U1BzRHNvYkY1NjlrM3FNaWg4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-10-30-015",
+    "date": "2026-10-30",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "BOE Technology Q3 Net Loss At 996.3 Million Yuan - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOY0FxeTJkd1hIY2FuR2tNSjBVYXNJazVza1pyaXZLNUNtTDl6eHdSUWFPaFFRbzJvUUpkWE9WdUlNN2FydGtmY0E0ZWs5VG1PZnNiOFFfSFlsOVlZQkxac0lyT3ZTOEN1QzZQY3NxYX",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY0FxeTJkd1hIY2FuR2tNSjBVYXNJazVza1pyaXZLNUNtTDl6eHdSUWFPaFFRbzJvUUpkWE9WdUlNN2FydGtmY0E0ZWs5VG1PZnNiOFFfSFlsOVlZQkxac0lyT3ZTOEN1QzZQY3NxYXZ0VDJWVk44WGdIOVFhRGdSMF9GTzRPYzNFcTUxQU1XUS0xZXpJQWlHSWhjWFNiZ3hjSFY2ckdQbEpOd1l3cnNBUFhXNktkeWVpeHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-30-016",
+    "date": "2026-10-30",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung’s 55-inch Mini LED TV drops to under $300 during rare sale at Walmart - MassLive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNMW5qZjJJeC1iWXRTaF9FRlJJb1NMN19OVFZZVm5qNWU2dzVLcEVjRlFTa2dqTV9VM1RaTGgzakJUSHNRUi1ZUnAyU2hJREljUktSb0FqMmtaSDBIMEc2akEyV1hBd0Z6ejhHZFh6aT",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMW5qZjJJeC1iWXRTaF9FRlJJb1NMN19OVFZZVm5qNWU2dzVLcEVjRlFTa2dqTV9VM1RaTGgzakJUSHNRUi1ZUnAyU2hJREljUktSb0FqMmtaSDBIMEc2akEyV1hBd0Z6ejhHZFh6aTNWcEpvU0x2Z1NTVXhiRzBEeHBQcWtQQ0w2UzJITFlwSjRTTWlQZ0poVkFoMkg4TVlNaDFwUUQ5eWMxM1EtWmRMYUYyZkZUZXVnMVl5Wnd5SkF4Yml4TzJv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-10-30-017",
+    "date": "2026-10-30",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amazon just dropped 60% off this 65-inch TCL Mini-LED 4K TV - USA Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQMldSUjF6enhJQ0wzUGYyNXFwNi1uWWdrclpLdG1oYmV5WXJVZXNjdmVWMUJieFFqNzFkdFBBVTJOSGp1R1oyV3RYRGhoakZIcGRzUEV2cFJhTmdyMGxaNUw0Q3F4R3l2VlpCNGlwei",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMldSUjF6enhJQ0wzUGYyNXFwNi1uWWdrclpLdG1oYmV5WXJVZXNjdmVWMUJieFFqNzFkdFBBVTJOSGp1R1oyV3RYRGhoakZIcGRzUEV2cFJhTmdyMGxaNUw0Q3F4R3l2VlpCNGlwei04alZZN2JBUGZvN3hlQ2w4RnJYUTNPc0R0eG5rMDdhTVR1ZVRMQkJQTFZBdS1QRDBXQTE2U0duNnpuT3dEcko1bGVEWmxWdFJaMENkdkhGOVp5ODQwNXBj?oc=5",
         "type": "rss"
       }
     ]
@@ -1715,6 +1865,26 @@
       {
         "name": "canon",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWhKWlI0aUVHZVZFUlE5b2NkaWlpOHdMaXlxb1N3bFVBWDFXc1VNY0ZtaWdzeHBCak81b1MzOFdfSGJ6NEQ0bG96UzN3aF9TM1IwU1FSbHhEUmw5dUg5VFc1aDR4NXhDZGhPTkNBOWZ0UnhpX2dQUlVCVDJaOWJnX3dsQ2prTzBjSGdPaXFFWmV2MWk0Y0hMVWhYbmlDbmVyVThaNXVlZGVsT3F4MWxqMkUweW9keV9sOFVKMlJrOVRodw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-10-27-030",
+    "date": "2026-10-27",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings call transcript: Corning beats Q3 2026 estimates, stock slips - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPakZncUFBaFJwTVYzOS1udkNhV1NDZGg1cWNZN2tFU2N5b005TUlWVGV4OUIzemYyR3RUV2FpbHdPa3Q0Z1dVaU9fSExvc2VZLWR2UkljQUJxWE1oaFJfbTVFR1BRM016OFdRZFhydm",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPakZncUFBaFJwTVYzOS1udkNhV1NDZGg1cWNZN2tFU2N5b005TUlWVGV4OUIzemYyR3RUV2FpbHdPa3Q0Z1dVaU9fSExvc2VZLWR2UkljQUJxWE1oaFJfbTVFR1BRM016OFdRZFhydmJRV2hQeGFxeENvdzF0QjRKb1RyOVhsS2hJUXNSRDFtU1BWVkt4bl9KeFdjTlFrYlM3RDVQY2dtRVVTd0pwbE5mbTR2bkpOQjhFT2lLTGltSlJoZw?oc=5",
         "type": "rss"
       }
     ]

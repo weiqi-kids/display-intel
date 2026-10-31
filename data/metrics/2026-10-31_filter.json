@@ -1,0 +1,16 @@
+{
+  "total_raw": 339,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 22,
+  "gate2_fail": 16,
+  "passed": 9,
+  "gate2_samples": [
+    "Corning’s American Tradition of Knowledge in Materials Science - Bismarck Brief",
+    "Corning Falls 14.1% in the Past Month: Is the Pullback a Buying Chance? - TradingView",
+    "Corning Incorporated (GLW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "Corning Incorporated (GLW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Corning Incorporated (GLW) Seasonal returns chart - Yahoo Finance Australia"
+  ]
+}
