@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T14:44:19.496777Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "csot-2026-11-01-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "TCL CSOT starts moving equipment into its T8 8.6-Gen inkjet printed OLED line, aims for mass production in Q4 2027",
+      "companies": [
+        "csot",
+        "tcl"
+      ],
+      "related": {
+        "customers": [
+          "tcl"
+        ],
+        "suppliers": [
+          "csot"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.oled-info.com/tcl-csot-starts-moving-equipment-its-t8-86-gen-inkjet-printed-oled-line-aims"
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-11-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SUNY Corning Announces Free Neil deGrasse Tyson Speaking Event - Finger Lakes Daily News",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ25LbHNkV0dncklOUFMyUzJLR080ZHY4RlZ6QWkyZUloYk42NlRXWWhLTklBRVBCbmIzdENXcWNRMWtOeU1qeVVCVjhNUEo4cG5TeERNY2NjTE0tRlJiMGNmZjVfZndYRWpjN29faDFIYl91N2lJdW5CVzBjQkQtU3dXY0R5ODJjSlZzbmdFLVRxRkYxY2xyTWJjMjVNb0FaNHVqdkY4OERyQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_elec-2026-11-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Amazon deal has knocked this Samsung 65″ Mini LED TV down to its lowest ever price - PC Guide",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYkpMMTZnT2MtSXJtaF9HLXdtOFJiSWJJc3hQMU1CckN4Rk5yZEI0d3gzTGpUdVE5VnpWNkg5U3B1VW1ZeG9WYTFOV1duX1lnaWxIc3ZEQ2JVdjUxdmxrYTBIMXJuLVQtZHhxSGxnMlpzMUtYS2hOMTdWRmpOeFFkYllzNXBxR2hxWnRpM2lQbGdVVFphc0pBdnVubDZJSUZId1dsejlyVjVtWjB3bmNSWi1R?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Mini LED Mirage: How a Lack of Industry Standards Sparked a High-Stakes TV Lawsuit - Vocal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT0hiOXltaS1EdjFNcDZNTVBLWUJsLThnNXFNZnZsczlrUlNCd2tuNzdfemlYOFFwcUVPWnpQWHBvaktVRnFmdm1kcXNRTDZFQ1FoNTlDT1BKQ25ldC13LXk5ZDdkR2FOTXo0c0dKQ3F5b3JYU1ZMV3hEUi1mWVhGVDJPSDE4bVhXRkxCWlgtMWMyX3duTU9ZVUg2aFBsTjUyUkE1ekhLODU2YzFR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "csot",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      },
+      {
+        "id": "samsung_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "mini_led",
+        "count": 2
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 350,
+    "dup_title": 115,
+    "too_old": 183,
+    "gate1_blocked": 21,
+    "gate2_blocked": 19,
+    "passed": 12,
+    "pass_rate": "5.1%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "About Corning (Stove Tokenized Stock) - Coinbase",
+      "Corning Falls 14.1% in the Past Month: Is the Pullback a Buying Chance? - TradingView",
+      "Corning Incorporated (GLW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "Corning Incorporated (GLW) Seasonal returns chart - Yahoo Finance Australia",
+      "Corning Incorporated (GLW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為康寧、CSOT、TCL Technology相關動態：「TCL CSOT starts moving equipment into its T8 8.6-Gen inkj...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "TCL CSOT starts moving equipment into its T8 8.6-Gen inkjet printed OLED line...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "SUNY Corning Announces Free Neil deGrasse Tyson Speaking Event - Finger Lakes...",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

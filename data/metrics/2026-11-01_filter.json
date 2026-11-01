@@ -1,0 +1,16 @@
+{
+  "total_raw": 350,
+  "dup_title": 115,
+  "no_date": 0,
+  "too_old": 183,
+  "gate1_fail": 21,
+  "gate2_fail": 19,
+  "passed": 12,
+  "gate2_samples": [
+    "About Corning (Stove Tokenized Stock) - Coinbase",
+    "Corning Falls 14.1% in the Past Month: Is the Pullback a Buying Chance? - TradingView",
+    "Corning Incorporated (GLW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "Corning Incorporated (GLW) Seasonal returns chart - Yahoo Finance Australia",
+    "Corning Incorporated (GLW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
+  ]
+}
