@@ -1,0 +1,235 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T17:48:37.079569Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-11-02-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "South Korea's LG Display Fined 8 Million Won for Disclosing Ex-Executive's Embezzlement Allegations 8 Months Late - BigGo Finance",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5md1kzMXF6MEFvbm1qYWRoMlZDdFk5dThGZ3hTQWVyYlgyTWVBNFdHbTFVaU5hbXNyLThaNmNOZDBMU0FzVjkydU9uLU5EZE9ZUFZIVVpGS0RENGo5ODJOOElCSVJ3d1pIcGtQTDJXTnRlRmlRaVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-11-02-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "KRX fines LG Display for 8-month delay on ex-executive breach disclosure - Chosunbiz",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KdlpJdU9iQTl2VjJmYXR6Z1djSkNxZk9DMWEwWDdsM1NIMTQtR1puZnRCZ0lobkU0cUtEMkVQMEJzMGtkbjF6VTNwMWJLbkNrajJiTmNxUF94TG9ralVLUVdLR3ZQZ2lxZHhPQWxQaTV4ODlzTlFEb3V30gGOAUFVX3lxTE5vWFJuYTVJaG9WdGhKcFJub3RHWXY3alNGcTc5X2loQWVySkdSTXlxbTUzb2gxelJ2SFpIRDBjWXNwWUx2N1dyREdZVWdldi1GT1dYeTU5OFRkNmRUdmtVakRFWXotVU1JZ1gzV3ByOUlaeXBiTmtfVExxX1FZdm1IeEo1M2Foeml5eExCY1E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "auo-2026-11-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Garmin Fenix 9 microLED possible: AUO unveils planned display upgrades - Notebookcheck",
+      "companies": [
+        "auo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration",
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVVVnQWNDNFBGRldMNzFJczQ0S0N4RV85TU92NzNSUEEydGNMRHliZXg2cjJ3bzZNQUNnV0kxem4wWE5vQnduMVQyLXMya3RsUU9ra1g4ckxNWmJoWE9BX1ZyYU1UX0NpWnVXOVhvRGdBSldTVklNX2F4VnJCOFRoSzFkQUlzMkNfbVN6UGhPRWhGQ1hTXzFBdlE3amdpd1BPUVNkTWd3MEZXMUdwdWdrSmRkMDM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_elec-2026-11-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung Champions Young Olympians at Dakar 2026, First-Ever Olympic Event on African Continent",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/samsung-champions-young-olympians-at-dakar-2026-first-ever-olympic-event-on-african-continent"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-11-02-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Li Auto to deliver some new Mega MPVs with LCD displays, due to a shortage of Samsung's 29-inch automotive OLED panels",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/li-auto-deliver-some-new-mega-mpvs-lcd-displays-due-shortage-samsungs-29-inch"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": []
+    }
+  ],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "lg_display",
+        "count": 2
+      },
+      {
+        "id": "auo",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 3
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 348,
+    "dup_title": 120,
+    "too_old": 177,
+    "gate1_blocked": 23,
+    "gate2_blocked": 11,
+    "passed": 17,
+    "pass_rate": "7.5%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "Corning Inc Stock (GLW) Moved Up by 3.42% on Oct 28: A Full Analysis - TradingKey",
+      "Corning (NYSE:GLW) misses Q3 2026 sales expectations - Yahoo Finance",
+      "Canon Inc. (7751.T) Seasonal returns chart - Yahoo Finance Australia",
+      "Canon Q3 2026 Results: Strong Imaging Sales Driven by Network Cameras - Canon Rumors",
+      "Novatek Microelectronics Corp. (3034.TW) Seasonal returns chart - Yahoo Finance Australia"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為三星電子、LG電子、LGD相關動態：「South Korea's LG Display Fined 8 Million Won for Disclosi...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "South Korea's LG Display Fined 8 Million Won for Disclosing Ex-Executive's Em...",
+        "level": "red"
+      },
+      {
+        "text": "KRX fines LG Display for 8-month delay on ex-executive breach disclosure - Ch...",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

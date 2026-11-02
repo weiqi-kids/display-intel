@@ -1,5 +1,140 @@
 [
   {
+    "id": "auo-2026-11-02-001",
+    "date": "2026-11-02",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Garmin Fenix 9 microLED possible: AUO unveils planned display upgrades - Notebookcheck",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNVVVnQWNDNFBGRldMNzFJczQ0S0N4RV85TU92NzNSUEEydGNMRHliZXg2cjJ3bzZNQUNnV0kxem4wWE5vQnduMVQyLXMya3RsUU9ra1g4ckxNWmJoWE9BX1ZyYU1UX0NpWnVXOVhvRG",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVVVnQWNDNFBGRldMNzFJczQ0S0N4RV85TU92NzNSUEEydGNMRHliZXg2cjJ3bzZNQUNnV0kxem4wWE5vQnduMVQyLXMya3RsUU9ra1g4ckxNWmJoWE9BX1ZyYU1UX0NpWnVXOVhvRGdBSldTVklNX2F4VnJCOFRoSzFkQUlzMkNfbVN6UGhPRWhGQ1hTXzFBdlE3amdpd1BPUVNkTWd3MEZXMUdwdWdrSmRkMDM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-02-002",
+    "date": "2026-11-02",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "South Korea's LG Display Fined 8 Million Won for Disclosing Ex-Executive's Embezzlement Allegations 8 Months Late - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5md1kzMXF6MEFvbm1qYWRoMlZDdFk5dThGZ3hTQWVyYlgyTWVBNFdHbTFVaU5hbXNyLThaNmNOZDBMU0FzVjkydU9uLU5EZE9ZUFZIVVpGS0RENGo5ODJOOElCSVJ3d1pIcGtQTDJXTn",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5md1kzMXF6MEFvbm1qYWRoMlZDdFk5dThGZ3hTQWVyYlgyTWVBNFdHbTFVaU5hbXNyLThaNmNOZDBMU0FzVjkydU9uLU5EZE9ZUFZIVVpGS0RENGo5ODJOOElCSVJ3d1pIcGtQTDJXTnRlRmlRaVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-02-003",
+    "date": "2026-11-02",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "KRX fines LG Display for 8-month delay on ex-executive breach disclosure - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9KdlpJdU9iQTl2VjJmYXR6Z1djSkNxZk9DMWEwWDdsM1NIMTQtR1puZnRCZ0lobkU0cUtEMkVQMEJzMGtkbjF6VTNwMWJLbkNrajJiTmNxUF94TG9ralVLUVdLR3ZQZ2lxZHhPQWxQaT",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KdlpJdU9iQTl2VjJmYXR6Z1djSkNxZk9DMWEwWDdsM1NIMTQtR1puZnRCZ0lobkU0cUtEMkVQMEJzMGtkbjF6VTNwMWJLbkNrajJiTmNxUF94TG9ralVLUVdLR3ZQZ2lxZHhPQWxQaTV4ODlzTlFEb3V30gGOAUFVX3lxTE5vWFJuYTVJaG9WdGhKcFJub3RHWXY3alNGcTc5X2loQWVySkdSTXlxbTUzb2gxelJ2SFpIRDBjWXNwWUx2N1dyREdZVWdldi1GT1dYeTU5OFRkNmRUdmtVakRFWXotVU1JZ1gzV3ByOUlaeXBiTmtfVExxX1FZdm1IeEo1M2Foeml5eExCY1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-02-004",
+    "date": "2026-11-02",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Champions Young Olympians at Dakar 2026, First-Ever Olympic Event on African Continent",
+    "summary": "Samsung Electronics, a Worldwide Olympic and Paralympic Partner, today announced that it is bringing Galaxy technology and athlete-centered programming to the Youth Olympic Games Dakar 2026 to enrich ",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsung-champions-young-olympians-at-dakar-2026-first-ever-olympic-event-on-african-continent",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-02-005",
+    "date": "2026-11-02",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Li Auto to deliver some new Mega MPVs with LCD displays, due to a shortage of Samsung's 29-inch automotive OLED panels",
+    "summary": "<p>Chinese automaker Li Auto says that it is facing a shortage of the custom <a href=\"https://www.oled-info.com/li-auto-launches-2026-mega-home-mpv-29-6k-amoled-display\">29-inch 6K automotive OLED dis",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/li-auto-deliver-some-new-mega-mpvs-lcd-displays-due-shortage-samsungs-29-inch",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-02-006",
+    "date": "2026-11-02",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Rumor: Samsung is developing a 17-inch foldable OLED device that folds down to 8 inches",
+    "summary": "<p>A new rumor suggests that <a href=\"https://www.oled-info.com/samsung-oled\">Samsung</a> is developing a large foldable OLED device that offers a 17-inch display when fully open and folds down to an ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/rumor-samsung-developing-17-inch-foldable-oled-device-folds-down-8-inches",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-02-007",
+    "date": "2026-11-02",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL's Vic Shen on its UAE monitor launch and pricing - Tbreak UAE",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IOUlHQ0JjNEplakpoMFdTVlpHamptR1F1eVMxU3lZWTNSNDBpMFg3QVZKcHVJVWFzblB4aUhvc09kNWhVSndSNHpTS1hSWVJONEMzQTV4VXJvd2ZqZG9lb19OSmVUQQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IOUlHQ0JjNEplakpoMFdTVlpHamptR1F1eVMxU3lZWTNSNDBpMFg3QVZKcHVJVWFzblB4aUhvc09kNWhVSndSNHpTS1hSWVJONEMzQTV4VXJvd2ZqZG9lb19OSmVUQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-11-01-001",
     "date": "2026-11-01",
     "companies": [
@@ -77,6 +212,26 @@
     ]
   },
   {
+    "id": "lg_elec-2026-11-01-005",
+    "date": "2026-11-01",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Giant 111-Inch OLED TVs Could Be Coming As LG Expands Production - ChannelNews.com.au",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWc0azhNTlFYMjZZekxzOUpyOTBiS0tNcTlXNWE4TGtIekgyaGlmQjRtMk41RktMRDJZd190aXRTTktJaTd1YW93MUlpRFlnMUI2ZmhvZzlYZ3B4WnpVUld6czN3ZkVXN1pTbDBaLT",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWc0azhNTlFYMjZZekxzOUpyOTBiS0tNcTlXNWE4TGtIekgyaGlmQjRtMk41RktMRDJZd190aXRTTktJaTd1YW93MUlpRFlnMUI2ZmhvZzlYZ3B4WnpVUld6czN3ZkVXN1pTbDBaLTJmWHMwNFhSVXB5dzF2VmJrLTRCNm9nb0NSYTZPMzlGdldFcFVRMFhOcVI3OFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-10-31-001",
     "date": "2026-10-31",
     "companies": [],
@@ -127,6 +282,24 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/qingyues-revenues-drop-35-q3-2026-four-former-executives-are-fined-and-banned",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "auo-2026-10-31-004",
+    "date": "2026-10-31",
+    "companies": [
+      "auo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TSMC-AUO Taichung plant deal: AUO approves sale - NeoTeo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOaFlCQkY0b0VFbmIyeUNMdDFhV1ZkZ2FGMFdMTlJJanJRc3RiRzBINE8wU1YyN3RrcENaN2V6VUdYWlFKN3cyYUVSMk9Oa3VhZFZ0MjBiUWdBZ182c0QyeGxnSHlCRUs5QUdMWThOMU",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaFlCQkY0b0VFbmIyeUNMdDFhV1ZkZ2FGMFdMTlJJanJRc3RiRzBINE8wU1YyN3RrcENaN2V6VUdYWlFKN3cyYUVSMk9Oa3VhZFZ0MjBiUWdBZ182c0QyeGxnSHlCRUs5QUdMWThOMUJaa3VYdndIRVA2YUduZHZZYVdXSFFuM1k?oc=5",
         "type": "rss"
       }
     ]
@@ -490,6 +663,138 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUnFXSV9QSlBMYm1BR0FPWDFaMWtzNVRyTThYbTlHdDFQR1dqaElYeFgtd1gtLVlDd2JSMzljaUM1U2hHYjB4MzJ6NXpHeGx0MWNrZlJPUk9SZ3dZMThMd3ZteTNKejFWTk5xTXktQTNHalhOcl9KdXpJSl9HTzNUTWExVnRpWlloejh1T0ZwaTBkaUpuaUt4ZmJKbmlPWDdsTGFBZk5uVVU4REVYQ0tmVW1uU0kxQUVTdzhYZXNpWlNLVVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-10-30-020",
+    "date": "2026-10-30",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Canon Marketing Japan Inc. Revises Consolidated Earnings Guidance for the Fiscal Year Ending December 31, 2026 - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTUg4bFhmSV8yNnpMLTBXUERKb1NKbUxtTmhmOXJFOWtRenhTdm41MEtLZV9Ob2tSRVVHOUp0OGZ6Rm92amtyNnFlT0p2V1hkS0NjX2JDd0cxenlxWnc3LUlLNmVaRkV6alBVNEdGN0",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTUg4bFhmSV8yNnpMLTBXUERKb1NKbUxtTmhmOXJFOWtRenhTdm41MEtLZV9Ob2tSRVVHOUp0OGZ6Rm92amtyNnFlT0p2V1hkS0NjX2JDd0cxenlxWnc3LUlLNmVaRkV6alBVNEdGN0k2eFJPT0pUclc5bFIzM0pCVTlzZTVEampacE5RSHhPQXZFdGVSNkxYbkNmVWtqd3A3WGhya3ZXSURzM0JmTjMwUDV3cVhNNG9tcmRkRUNvdGVTelMzbDA0SzJpdXV2cW1lcjNwOWlYZXk0MkxJSlZMUWlGckktTXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-10-30-021",
+    "date": "2026-10-30",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Inc. Announces Second Quarter End Dividend for the Fiscal Year Ending December 31, 2026 - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTll3MHA5OHA4MUdkcFFSdE1lbkhoM0lYZENwZWd1TmFxQ2hScktSS0JPNkVCZ3dTaGZuMlJDNE5nVWREQmpvSnAtakZOcWYwY0Y3OUJLb2ZoUzVQU3hVNm04OUMwZVgyZEZET0VPaW",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTll3MHA5OHA4MUdkcFFSdE1lbkhoM0lYZENwZWd1TmFxQ2hScktSS0JPNkVCZ3dTaGZuMlJDNE5nVWREQmpvSnAtakZOcWYwY0Y3OUJLb2ZoUzVQU3hVNm04OUMwZVgyZEZET0VPaWRvYzZmblVSeWhMMVVCT0tYZ3pIRm5xdUw1dDVBbTQxZ0NUUm0xdE15b0JGT25JdmFFd21icVJsN01tc1NQbVpkWm9CODBUWURzcnVKSm5kZjMyNjdCeTRmbFR3Q0tra3FVTHRPX0NpelFCU1E2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-10-30-022",
+    "date": "2026-10-30",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Inc. (CAJPY) Seasonal Returns Chart - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kekFVM0YxVURPTmFRb1ZwX2tNSk1WTWpKakJSalhuc2NmNEV1TVIxZFBLT2FvMUxxSjdfZk0wUTVxZUV6dG1KYTdmV1JvTkJVTGNnYl9pMFZoaEF3VmNwTEM0TQ?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kekFVM0YxVURPTmFRb1ZwX2tNSk1WTWpKakJSalhuc2NmNEV1TVIxZFBLT2FvMUxxSjdfZk0wUTVxZUV6dG1KYTdmV1JvTkJVTGNnYl9pMFZoaEF3VmNwTEM0TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-10-30-023",
+    "date": "2026-10-30",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Inc. (CAJFF) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IbFZ0anYtRzBNODlCc2JfbGtHYWw2TlhKZ1pnOGNFOVhfMUZ2NXJWc2tBODNvYUVmNjA4Ukw5VFF5RHJPVmRJVnhwbHJSQ096dGJQV05PcnJfbm9pNXVKQmdWNA?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IbFZ0anYtRzBNODlCc2JfbGtHYWw2TlhKZ1pnOGNFOVhfMUZ2NXJWc2tBODNvYUVmNjA4Ukw5VFF5RHJPVmRJVnhwbHJSQ096dGJQV05PcnJfbm9pNXVKQmdWNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-10-30-024",
+    "date": "2026-10-30",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Inc. (CANO.NE) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NMjdRaE1SMUhqd2dlcXJBNlFxZDVNbVFOcDlvOGI1WnRvOHlITmZLRzllejVDMFd1LTBTeWJPM3owVTVnUnNrdHhEbE80U2pmR3hzZnE1VXJFaWZXemVMOFp4YzB4dw?oc=5\" targe",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NMjdRaE1SMUhqd2dlcXJBNlFxZDVNbVFOcDlvOGI1WnRvOHlITmZLRzllejVDMFd1LTBTeWJPM3owVTVnUnNrdHhEbE80U2pmR3hzZnE1VXJFaWZXemVMOFp4YzB4dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-10-30-025",
+    "date": "2026-10-30",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BOE Technology Group Company Limited Reports Earnings Results for the Nine Months Ended September 30, 2026 - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVW0zNWxDVTFneE0zT3NRNVNHdWJLSGtTbDdjOVo4bWFrNTZEWVR0X01VZ3hoTGNnYm03QVR5RzNoWHlaaWFGZV9RTmpsN2N6dFFjekxFLVRrVGRXcUxxaHloZVpVX09QMlZJWjFHQk",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVW0zNWxDVTFneE0zT3NRNVNHdWJLSGtTbDdjOVo4bWFrNTZEWVR0X01VZ3hoTGNnYm03QVR5RzNoWHlaaWFGZV9RTmpsN2N6dFFjekxFLVRrVGRXcUxxaHloZVpVX09QMlZJWjFHQkxyUXBuekQ2NEdPSkprZnNGWTBOV0F1aUZWVFNIbFJtY1h3OG1jLVA0c19hV2FXYjBNOFo2WDRKUGd1ZHduZ0xscGxuQUZaWDdydEdnWHlELVZYTVBrS1lFTm9WOVQ0b1NYczZrenpXeS1wTlMxTWJVN3E2d1hPVTJK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-10-30-026",
+    "date": "2026-10-30",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung’s 55-inch Mini LED TV drops to under $300 during rare sale at Walmart - MassLive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNMW5qZjJJeC1iWXRTaF9FRlJJb1NMN19OVFZZVm5qNWU2dzVLcEVjRlFTa2dqTV9VM1RaTGgzakJUSHNRUi1ZUnAyU2hJREljUktSb0FqMmtaSDBIMEc2akEyV1hBd0Z6ejhHZFh6aT",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMW5qZjJJeC1iWXRTaF9FRlJJb1NMN19OVFZZVm5qNWU2dzVLcEVjRlFTa2dqTV9VM1RaTGgzakJUSHNRUi1ZUnAyU2hJREljUktSb0FqMmtaSDBIMEc2akEyV1hBd0Z6ejhHZFh6aTNWcEpvU0x2Z1NTVXhiRzBEeHBQcWtQQ0w2UzJITFlwSjRTTWlQZ0poVkFoMkg4TVlNaDFwUUQ5eWMxM1EtWmRMYUYyZkZUZXVnMVl5Wnd5SkF4Yml4TzJv?oc=5",
         "type": "rss"
       }
     ]
@@ -994,6 +1299,26 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2lJNHZBRlh0MnEwSk9wWXZfeXBhaGNpanNZUGFac01nQnlNUExMUVNJOGVGd0NsLXFVZVRvSkJJZ1ltMXd2OC1ELXhlV1ZtOWNpdHhYMXZ1dS1ndUxTLWxZQ3R1VnVzSXFXOGZyRmlSU05VbVNWVlQzS1Eta3hWc0NYRmdidG1PcUQzY01n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-10-29-028",
+    "date": "2026-10-29",
+    "companies": [
+      "canon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings ratio of Canon Inc. Shs Sponsored Canadian Depository Receipt Hedged Reg S – NEO:CANO - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNktILXdua1ROMThQWUNVSkN3WVk2eFc5dU1IaloyX0c1QTV2eU8xbE5FSlNuUDV0ZkxTOW9FVGRDNlRDNUZwMXUyWm51WnE3ZGxSOUhRZlVNUUpjV2ZhcGx3Skp0YkpVd2xxaHRDYW",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNktILXdua1ROMThQWUNVSkN3WVk2eFc5dU1IaloyX0c1QTV2eU8xbE5FSlNuUDV0ZkxTOW9FVGRDNlRDNUZwMXUyWm51WnE3ZGxSOUhRZlVNUUpjV2ZhcGx3Skp0YkpVd2xxaHRDYWZzYzVNRFVNN0NSMFNlU1dXdi1QU0lYcXgxTmloT3BybXhVSWxkNmtiQQ?oc=5",
         "type": "rss"
       }
     ]

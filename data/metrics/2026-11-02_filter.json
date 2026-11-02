@@ -1,0 +1,16 @@
+{
+  "total_raw": 348,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 23,
+  "gate2_fail": 11,
+  "passed": 17,
+  "gate2_samples": [
+    "Corning Inc Stock (GLW) Moved Up by 3.42% on Oct 28: A Full Analysis - TradingKey",
+    "Corning (NYSE:GLW) misses Q3 2026 sales expectations - Yahoo Finance",
+    "Canon Inc. (7751.T) Seasonal returns chart - Yahoo Finance Australia",
+    "Canon Q3 2026 Results: Strong Imaging Sales Driven by Network Cameras - Canon Rumors",
+    "Novatek Microelectronics Corp. (3034.TW) Seasonal returns chart - Yahoo Finance Australia"
+  ]
+}
