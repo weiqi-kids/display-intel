@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-03",
+  "total_events": 13,
+  "by_company": {
+    "raydium": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "himax": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "lg_display": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "tcl": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "oled_penetration": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "mini_led": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ]
+    }
+  ]
+}

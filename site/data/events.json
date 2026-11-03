@@ -1,5 +1,252 @@
 [
   {
+    "id": "raydium-2026-11-03-001",
+    "date": "2026-11-03",
+    "companies": [
+      "raydium"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Raydium Semiconductor Corporation Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTk1YZjJtTFNuWFlMalJBdHpZVVYzaC1RcFdUSmg3RkdUc3E4aUF0RkRNX2VSRzFQUDZkeExuNm5BYkRmSWpKMGNvWDRrcHEzRjFnbEtueWZQeDFBUDA3RGxoY1Q3NC1wcXhXR0MwY0",
+    "sources": [
+      {
+        "name": "raydium",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTk1YZjJtTFNuWFlMalJBdHpZVVYzaC1RcFdUSmg3RkdUc3E4aUF0RkRNX2VSRzFQUDZkeExuNm5BYkRmSWpKMGNvWDRrcHEzRjFnbEtueWZQeDFBUDA3RGxoY1Q3NC1wcXhXR0MwY0RiWDVpTE9oTEFNYkxIQWVYSVZqN2lPVzd4c0VWQy1UNXFpQTlwbWpqMVhSbXJ6VE5tdmh6WlF1Szktd2tHZWJNMkhDM1FzS0dQWU14WDMwMUhEMkJGeENCMWk5V3Nha0NpaTFnZ3AtWGVYS2dnbzFiTnlfNEU0cE5l?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-11-03-002",
+    "date": "2026-11-03",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Opens Pre-orders for WiseGuard™ Smart Sensor Evaluation Kit Through DigiKey, Bringing Ultralow Power Edge AI Sensing to Security Applications - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS0J6MThjazFUVEV1YjV0VDRZeks1ckw5Z3h5bE1mODJXS1MtYl9iRDJaUmJ0SThhM0x5Mm5TNDNhRVZnVjVUTUNQVV83OGt0SjBRRUo2dDhBZ3Z0dzhXUXN1VTBLWWdZelR1bWEwTU",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS0J6MThjazFUVEV1YjV0VDRZeks1ckw5Z3h5bE1mODJXS1MtYl9iRDJaUmJ0SThhM0x5Mm5TNDNhRVZnVjVUTUNQVV83OGt0SjBRRUo2dDhBZ3Z0dzhXUXN1VTBLWWdZelR1bWEwTUMyRGRwMlpldkdMVzVvTnp4a0JfY1pHS241bVp5SmhHS19XNi1EYmJ1c3lSRWRqQV9ySFgybEt5TmIzM0g0WXEwemxqbnFZOWt2N2xpaXdpc2w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-03-003",
+    "date": "2026-11-03",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple may adopt 'sputtering' OLED manufacture for brighter displays - AppleInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQaWlmTEx0Tnk4Q0pleXlZbnVnR0NqQkE1a3Y1cHlHMHhQeWhleEpJZ1pWSXppbEJJRWRrMnJndzJSc2MwSEYxcWdnblVXYjBWcTB5QTdhTjRYNTJrZkFsZ2hFUTlLN1JYQnB0VDJGZ0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaWlmTEx0Tnk4Q0pleXlZbnVnR0NqQkE1a3Y1cHlHMHhQeWhleEpJZ1pWSXppbEJJRWRrMnJndzJSc2MwSEYxcWdnblVXYjBWcTB5QTdhTjRYNTJrZkFsZ2hFUTlLN1JYQnB0VDJGZ0FhTUsxLTZFeW82aFhMZENOSHRncUdiQy1SazlCOVZHdzktSmF4R0xfWDg1YmNBanJIS2FMVEpnT0JjdTB0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-03-004",
+    "date": "2026-11-03",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Partners With National Institute of Ecology on Ecosystem Conservation - THE ELEC, Korea Electronics Industry Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9McTlVVF81R0h4QU1fME5LSVlBOVBOWHd3NWlvbkY0R2xkSVFobWQ2dlZGekk5ZE5OSV9GUzItTGdRdkxQRlJBeE5sVVpCc3FRak43QTg3WDVjVl9BUHUxY0hac1g2QW8?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9McTlVVF81R0h4QU1fME5LSVlBOVBOWHd3NWlvbkY0R2xkSVFobWQ2dlZGekk5ZE5OSV9GUzItTGdRdkxQRlJBeE5sVVpCc3FRak43QTg3WDVjVl9BUHUxY0hac1g2QW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-03-005",
+    "date": "2026-11-03",
+    "companies": [
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung and LG Navigate China LCD Dilemma - Businesskorea",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1DVTlHRHQ1TEJabFdkTDFGS1lnRTFacVBDTmc2UDlhSGljY2RkRGtMdUNLZDlIOUNfTFAwdW5LeF9GblM5ajNWX0tydjV2LUxubERlamFVYkh6RGN2Wnh1ejBlSGVvd25mTDFST0VNWT",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DVTlHRHQ1TEJabFdkTDFGS1lnRTFacVBDTmc2UDlhSGljY2RkRGtMdUNLZDlIOUNfTFAwdW5LeF9GblM5ajNWX0tydjV2LUxubERlamFVYkh6RGN2Wnh1ejBlSGVvd25mTDFST0VNWTJOUWU1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-03-006",
+    "date": "2026-11-03",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "“Black rice, profits back in the black...” LG Display employees’ unusual love for OLED - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVcDlEUE5ESlFGR2ZsdS1SRmgyLWZxdGNFR3pIeVdkaFNVb2N6dEtucFFLbGhpSmZZeGZiY1M0dXRodlc5YzhDTmVvZWNEcUtuTE1F?oc=5\" target=\"_blank\">“Black rice, pr",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVcDlEUE5ESlFGR2ZsdS1SRmgyLWZxdGNFR3pIeVdkaFNVb2N6dEtucFFLbGhpSmZZeGZiY1M0dXRodlc5YzhDTmVvZWNEcUtuTE1F?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-03-007",
+    "date": "2026-11-03",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display partners with National Institute of Ecology to restore endangered species near Paju plant - 헤럴드경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DU0xIblU1WHJDakhuSFJKcThNZUY4WV9IQUZ4ajRBTXZ4QURfdzg3Ykd6UjBfNmVoQlA5TFJuRjBYVE9HLUc1X1ZydUlCTGxwUlU4eGd0SQ?oc=5\" target=\"_blank\">LG Displa",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DU0xIblU1WHJDakhuSFJKcThNZUY4WV9IQUZ4ajRBTXZ4QURfdzg3Ykd6UjBfNmVoQlA5TFJuRjBYVE9HLUc1X1ZydUlCTGxwUlU4eGd0SQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-03-008",
+    "date": "2026-11-03",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Upgraded Sleep Apnea Feature Now Available on Galaxy Ring Following Regulatory Approvals From US FDA and Korea MFDS",
+    "summary": "Samsung Electronics today announced that its updated Sleep Apnea feature is now available on Galaxy Watch and Ring. Following United States Food and Drug Administration (FDA) clearance in July, the up",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/upgraded-sleep-apnea-feature-now-available-on-galaxy-ring-following-regulatory-approvals-from-us-fda-and-korea-mfds",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-03-009",
+    "date": "2026-11-03",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Apple's iPhone Duo launch lifts Samsung Galaxy Z Fold 8 sales in South Korea",
+    "summary": "Samsung Electronics' Galaxy Z Fold 8 weekly sales in South Korea increased by more than 20% in the week after Apple launched its first foldable iPhone Duo, according to <em>Seoul Economic Daily</em> a",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261103PD227/samsung-galaxy-iphone-duo-sales-launch.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-03-010",
+    "date": "2026-11-03",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung reportedly plans Galaxy-style TV lineup for 2027",
+    "summary": "Samsung Electronics is considering a major overhaul of its TV lineup for 2027, replacing technology-based product names with three tiers modeled on its Galaxy smartphones as it looks to increase shipm",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261103VL220/samsung-tv-2027-lcd-qled.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-03-011",
+    "date": "2026-11-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Onsemi's AI data center revenue surges 175% as 3Q26 earnings outpace sales growth",
+    "summary": "Onsemi reported stronger-than-expected third-quarter 2026 results, driven by accelerating demand for power management solutions in AI data centers and industrial applications, as the semiconductor sup",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261103VL219/onsemi-data-center-demand-growth-revenue-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-03-012",
+    "date": "2026-11-03",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Gigantic TCL 98″ QD-mini LED 4K TV is worth a look at its best price in 30 days - PC Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNWFI4YmJuT1ZDSEE0b0pHQU9telQzUDV1YkkxT2pmNFdTN3BzNW16YTI3U0RXMThxUDJ5cWhpbXI0OTJQc1ZoNmZyaTZYWG5iQVlWdDkxZFBfVy1RMVRxUEVyY0NtZjJIa1RfcDZ3cm",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWFI4YmJuT1ZDSEE0b0pHQU9telQzUDV1YkkxT2pmNFdTN3BzNW16YTI3U0RXMThxUDJ5cWhpbXI0OTJQc1ZoNmZyaTZYWG5iQVlWdDkxZFBfVy1RMVRxUEVyY0NtZjJIa1RfcDZ3cm04MzFoYm8wTDc4enBVMjVPcFMwNVhWaGUxeGFLWjdTdXBzLV9OZGI1eVEzenh6My14X0M4N0JEb3E1NjZhN0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-03-013",
+    "date": "2026-11-03",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL urges consumers to look beyond Mini LED Labels when buying TVs - Ghana News Agency",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQR2VvSU5aSDlDeFRkSF8tQ3BESjJLQXJCbVpvZHpFMUdqd3J6bWRPNFRocmprc0hvaS1nWks3ekxYaS1Wamc3cXZYVTYwSmlfZ0Y0NTZtcHBaQ25Id3lDand4V1BIWGpsRmEwYlFNTE",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR2VvSU5aSDlDeFRkSF8tQ3BESjJLQXJCbVpvZHpFMUdqd3J6bWRPNFRocmprc0hvaS1nWks3ekxYaS1Wamc3cXZYVTYwSmlfZ0Y0NTZtcHBaQ25Id3lDand4V1BIWGpsRmEwYlFNTEZfaF9KcUc4ZGdHQm04MlNCZkNhTENveWlManlaUTFoOFhFZ2ZLWWhtSmN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "auo-2026-11-02-001",
     "date": "2026-11-02",
     "companies": [
@@ -135,6 +382,46 @@
     ]
   },
   {
+    "id": "boe-2026-11-02-008",
+    "date": "2026-11-02",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BOE Technology Posts Q3 Attributable Profit, Revenue Up - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVhkQzZrb2NSMFRlUzdqV0x4MmhDSjd6VmFLVDRHa1hWVFF5aWRMcV91LUcxbnFSY2Njd0lldkwzX1RPQzhMWTdfUnpnYXBxR3lFZGRLMFBkWXVObERuMjF4YU1pNnRKWG9LX1BRNW",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYVhkQzZrb2NSMFRlUzdqV0x4MmhDSjd6VmFLVDRHa1hWVFF5aWRMcV91LUcxbnFSY2Njd0lldkwzX1RPQzhMWTdfUnpnYXBxR3lFZGRLMFBkWXVObERuMjF4YU1pNnRKWG9LX1BRNWFYNTduc1g0M2RXTWo0Z281LWFsS2RmTzVvYzlyYW1vcjgtVXRlQlBzaFhmYUFlUFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-11-02-009",
+    "date": "2026-11-02",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BOE Technology Posts Q3 Attributable Profit, Revenue Up - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQTVNd2FNWEdkNTJBSVFuc0VQUkY1dE52RzBIYmVFNGVzb2lzQ1NPTGtiRHFJVnRNZmd6Sk5FaWxDSUpsTVlrb1Z6bV8yMmlldjkxT0xPaUFNc21WNllDRVA4bEVHcGNZcVg1WS0zVm",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQTVNd2FNWEdkNTJBSVFuc0VQUkY1dE52RzBIYmVFNGVzb2lzQ1NPTGtiRHFJVnRNZmd6Sk5FaWxDSUpsTVlrb1Z6bV8yMmlldjkxT0xPaUFNc21WNllDRVA4bEVHcGNZcVg1WS0zVmY5ckY2WXBhWlRMQVpsX3hYUlFBMko0OVVTUE0wV0pyOXJ4ak4zeTZUT0NxbnhVOTE1Tzd5VmpmTHdzRHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-11-01-001",
     "date": "2026-11-01",
     "companies": [
@@ -227,6 +514,24 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWc0azhNTlFYMjZZekxzOUpyOTBiS0tNcTlXNWE4TGtIekgyaGlmQjRtMk41RktMRDJZd190aXRTTktJaTd1YW93MUlpRFlnMUI2ZmhvZzlYZ3B4WnpVUld6czN3ZkVXN1pTbDBaLTJmWHMwNFhSVXB5dzF2VmJrLTRCNm9nb0NSYTZPMzlGdldFcFVRMFhOcVI3OFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-11-01-006",
+    "date": "2026-11-01",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Group Company Limited (200725.SZ) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4Tmd3TU5KcF9DTkQ2dF9sc2k1T3ZoNnFXUFRZakNNNWx5WGdCZU1MeDVIOEpnYWxFUFE0UEJSNl9HWFV1bHVkX0NKVnd0ZjIxWkpkaXlRb2FDU2MtSXZUV084ckgxVklN?oc=5\" tar",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4Tmd3TU5KcF9DTkQ2dF9sc2k1T3ZoNnFXUFRZakNNNWx5WGdCZU1MeDVIOEpnYWxFUFE0UEJSNl9HWFV1bHVkX0NKVnd0ZjIxWkpkaXlRb2FDU2MtSXZUV084ckgxVklN?oc=5",
         "type": "rss"
       }
     ]
@@ -800,6 +1105,26 @@
     ]
   },
   {
+    "id": "auo-2026-10-30-027",
+    "date": "2026-10-30",
+    "companies": [
+      "auo"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AU Optronics (AUOTY) Q3 2026 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBSb2VpYXl5cVFENGtXVnVHZ19faTR6X21CLUp6bXNmdGc1Z2FVRmE3eUE3T0ttM0pZOEg2aEkwX3BlLW8yOU5TQUxkakRUS2NvQW9mYU1TV0EwVHJGWDVsSDU1VW1GenpSLS1ITmtn?o",
+    "sources": [
+      {
+        "name": "auo",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSb2VpYXl5cVFENGtXVnVHZ19faTR6X21CLUp6bXNmdGc1Z2FVRmE3eUE3T0ttM0pZOEg2aEkwX3BlLW8yOU5TQUxkakRUS2NvQW9mYU1TV0EwVHJGWDVsSDU1VW1GenpSLS1ITmtn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-10-29-001",
     "date": "2026-10-29",
     "companies": [
@@ -1319,6 +1644,24 @@
       {
         "name": "canon",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNktILXdua1ROMThQWUNVSkN3WVk2eFc5dU1IaloyX0c1QTV2eU8xbE5FSlNuUDV0ZkxTOW9FVGRDNlRDNUZwMXUyWm51WnE3ZGxSOUhRZlVNUUpjV2ZhcGx3Skp0YkpVd2xxaHRDYWZzYzVNRFVNN0NSMFNlU1dXdi1QU0lYcXgxTmloT3BybXhVSWxkNmtiQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-10-29-029",
+    "date": "2026-10-29",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies Inc (H6Q.HA) company profile and facts - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ENUtob1BoUFpBeW9pbUZuWm8tSWNvbnJvZDh3b0djNWg2SUw1dERreUZUWWNmQ1RIMXp0bWF5N0s5SVpLU1hKUm8xQlNvTmdYWFZxX20zZFBTNC1RdDBj?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ENUtob1BoUFpBeW9pbUZuWm8tSWNvbnJvZDh3b0djNWg2SUw1dERreUZUWWNmQ1RIMXp0bWF5N0s5SVpLU1hKUm8xQlNvTmdYWFZxX20zZFBTNC1RdDBj?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,16 @@
+{
+  "total_raw": 370,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 42,
+  "gate2_fail": 34,
+  "passed": 18,
+  "gate2_samples": [
+    "Corning Incorporated’s (GLW) Q3 Selloff Shows How Forced Selling Can Swamp Strong Fundamentals - Yah",
+    "Corning Falls 14.1% in the Past Month: Is the Pullback a Buying Chance? - TradingView",
+    "Corning Incorporated (GLW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "Corning Incorporated (GLW.BA) Seasonal returns chart - Yahoo Finance Australia",
+    "Corning Incorporated (GLW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
+  ]
+}

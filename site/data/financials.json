@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T17:48:34.484855Z",
-  "quarter": "2026-06-30, 2026-07-31",
+  "updated_at": "2026-11-03T15:48:50.214300Z",
+  "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
       "id": "applied_materials",
@@ -41,17 +41,17 @@
       "name": "京東方",
       "ticker": "000725.SZ",
       "currency": "CNY",
-      "ar": 35294653880,
-      "ar_prev": 31800918705,
-      "ar_qoq": "+11%",
+      "ar": 33151684691,
+      "ar_prev": 35294653880,
+      "ar_qoq": "-6%",
       "ar_period": "QoQ",
-      "inventory": 26880611634,
-      "inv_prev": 25523938823,
-      "inv_qoq": "+5%",
+      "inventory": 29491482359,
+      "inv_prev": 26880611634,
+      "inv_qoq": "+10%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "canon",
@@ -228,17 +228,17 @@
       "name": "TCL科技",
       "ticker": "000100.SZ",
       "currency": "CNY",
-      "ar": 19982086000,
-      "ar_prev": 20244993133,
-      "ar_qoq": "-1%",
+      "ar": 23964232658,
+      "ar_prev": 19982086000,
+      "ar_qoq": "+20%",
       "ar_period": "QoQ",
-      "inventory": 22977466000,
-      "inv_prev": 20357706451,
-      "inv_qoq": "+13%",
+      "inventory": 25328162578,
+      "inv_prev": 22977466000,
+      "inv_qoq": "+10%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     }
   ]
 }

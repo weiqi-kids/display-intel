@@ -1,0 +1,265 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T15:48:53.651618Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-11-03-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "“Black rice, profits back in the black...” LG Display employees’ unusual love for OLED - 매일경제",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVcDlEUE5ESlFGR2ZsdS1SRmgyLWZxdGNFR3pIeVdkaFNVb2N6dEtucFFLbGhpSmZZeGZiY1M0dXRodlc5YzhDTmVvZWNEcUtuTE1F?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-11-03-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Partners With National Institute of Ecology on Ecosystem Conservation - THE ELEC, Korea Electronics Industry Media",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9McTlVVF81R0h4QU1fME5LSVlBOVBOWHd3NWlvbkY0R2xkSVFobWQ2dlZGekk5ZE5OSV9GUzItTGdRdkxQRlJBeE5sVVpCc3FRak43QTg3WDVjVl9BUHUxY0hac1g2QW8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-11-03-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display partners with National Institute of Ecology to restore endangered species near Paju plant - 헤럴드경제",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DU0xIblU1WHJDakhuSFJKcThNZUY4WV9IQUZ4ajRBTXZ4QURfdzg3Ykd6UjBfNmVoQlA5TFJuRjBYVE9HLUc1X1ZydUlCTGxwUlU4eGd0SQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "raydium-2026-11-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Raydium Semiconductor Corporation Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
+      "companies": [
+        "raydium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTk1YZjJtTFNuWFlMalJBdHpZVVYzaC1RcFdUSmg3RkdUc3E4aUF0RkRNX2VSRzFQUDZkeExuNm5BYkRmSWpKMGNvWDRrcHEzRjFnbEtueWZQeDFBUDA3RGxoY1Q3NC1wcXhXR0MwY0RiWDVpTE9oTEFNYkxIQWVYSVZqN2lPVzd4c0VWQy1UNXFpQTlwbWpqMVhSbXJ6VE5tdmh6WlF1Szktd2tHZWJNMkhDM1FzS0dQWU14WDMwMUhEMkJGeENCMWk5V3Nha0NpaTFnZ3AtWGVYS2dnbzFiTnlfNEU0cE5l?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-03-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Onsemi's AI data center revenue surges 175% as 3Q26 earnings outpace sales growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261103VL219/onsemi-data-center-demand-growth-revenue-sales.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 4
+      },
+      {
+        "id": "samsung_elec",
+        "count": 4
+      },
+      {
+        "id": "lg_display",
+        "count": 3
+      },
+      {
+        "id": "tcl",
+        "count": 2
+      },
+      {
+        "id": "raydium",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 370,
+    "dup_title": 111,
+    "too_old": 165,
+    "gate1_blocked": 42,
+    "gate2_blocked": 34,
+    "passed": 18,
+    "pass_rate": "6.9%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "Corning Incorporated’s (GLW) Q3 Selloff Shows How Forced Selling Can Swamp Strong Fundamentals - Yah",
+      "Corning Falls 14.1% in the Past Month: Is the Pullback a Buying Chance? - TradingView",
+      "Corning Incorporated (GLW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "Corning Incorporated (GLW.BA) Seasonal returns chart - Yahoo Finance Australia",
+      "Corning Incorporated (GLW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為LG電子、三星電子、LGD相關動態：「“Black rice, profits back in the black...” LG Display emp...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "“Black rice, profits back in the black...” LG Display employees’ unusual love...（OLED 滲透率、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display Partners With National Institute of Ecology on Ecosystem Conservat...",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
