@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-04",
+  "total_events": 19,
+  "by_company": {
+    "corning": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "canon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "raydium": {
+      "count": 2,
+      "sentiment_avg": -0.62
+    },
+    "himax": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "boe": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "tcl": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "csot": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lg_display": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": 0.12
+    },
+    "oled_penetration": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "it_panel_demand": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "samsung_elec",
+      "to": "tcl",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "csot",
+      "to": "tcl",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": []
+    },
+    {
+      "from": "csot",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": []
+    }
+  ]
+}

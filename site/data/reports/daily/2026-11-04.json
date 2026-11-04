@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T15:58:22.187445Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "boe-2026-11-04-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Memory price hikes hit small- and mid-sized displays; BOE swings to a Q3 loss of over 1 billion yuan as large-size LCD becomes the profit anchor - BigGo Finance",
+      "companies": [
+        "boe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMbU9JemhSSmQwZ1dkSzdzc1NDam8wdXZCYW1MNjluM1laY0N5SThKTUs0SUxmUUN2b2VEMGNzTGZLMnM1Zno5aXljRkJGUkVUenJTYlVqN3BnQ2pReXA5X3ZlZXZ6M0V1RGpkZ0t5WkpCLXZDd1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tcl-2026-11-04-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung Electronics acquires 10.16% stake in TCL CSOT - electronics.economictimes.indiatimes.com",
+      "companies": [
+        "tcl",
+        "samsung_elec",
+        "csot"
+      ],
+      "related": {
+        "customers": [
+          "tcl",
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "csot"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLXgwN29QRFZxb01sYk5xOE5QWDNmbnk3ZllZLTZfME56dDhmaEY4WWUyNmZoTmNKVy1nTG5DbWJOLXl0OHdHOHhyU3pPa2VSWXl5REtvN2tNclgwajBLeVotVDdmdFlZLWNFYnBnUVFDZHk3OEF1N2ZyNTlOVElxbDJiVUdUMzVZOUhCNTIzc3BOdXFEcGlkWmxuR0pzNTR6SXZTQ3UxNFpoYTIwcGtlOXBEZEZiWUpIWVJSeFRnRVJkWXRGalZlV25mUEZhbXhVZ0HSAdYBQVVfeXFMUEIxeklsT3ljdXpFblJDSkdLWjRseHhWbzdFVmVRVTR5bnBCUmlOSWtNaHFxcGxidkdldVV3Wi1DWXVrTE0ySVhXUmxnUEhZaERjdWlWYzhpOEdLU18tLVhLUGJjOGdPZHdldGNaTGZxTXVSNTFmYUdVOVNlR2lpRWNNZTJCN2M5bU5KSHp3Rk82UXJ5STFxQW9vbHB3UWxNekJDSzBPbmxPeUlYSFZfR1pNQTZHUHBsQUIyUF96Mi1VVTRlbmt5Q0FpczdEXzY3UEE5ZnpxQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-11-04-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Is OLED inkjet printing coming back? TCL's projects, Samsung's return, and the signals that will tell us whether printing finally wins",
+      "companies": [
+        "lg_elec",
+        "tcl",
+        "samsung_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec",
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/inkjet-printing-coming-back-printed-oleds-perovskites-and-signals-will-tell-us"
+    },
+    {
+      "rank": 4,
+      "event_id": "raydium-2026-11-04-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Raydium faces 4Q26 slowdown after AI capacity fears fuel customer stockpiling",
+      "companies": [
+        "raydium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20261104PD244/driver-ic-raydium-demand-capacity-revenue.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-04-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Weblink International posts record 3Q26 profit on AI demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261104PD250/weblink-profit-demand-2026-sales.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "samsung_elec",
+      "to": "tcl",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "csot",
+      "to": "tcl",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": []
+    },
+    {
+      "from": "csot",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": []
+    }
+  ],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 12,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 5
+      },
+      {
+        "id": "tcl",
+        "count": 3
+      },
+      {
+        "id": "corning",
+        "count": 2
+      },
+      {
+        "id": "raydium",
+        "count": 2
+      },
+      {
+        "id": "himax",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 357,
+    "dup_title": 103,
+    "too_old": 178,
+    "gate1_blocked": 35,
+    "gate2_blocked": 15,
+    "passed": 26,
+    "pass_rate": "10.2%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "Corning Inc Stock (GLW) Moved Up by 3.93% on Nov 3: What Signal Does It Send? - TradingKey",
+      "Corning Incorporated’s (GLW) Q3 Selloff Shows How Forced Selling Can Swamp Strong Fundamentals - Yah",
+      "Corning opens optical connectivity manufacturing facility in Pune - Manufacturing Today India",
+      "About Corning (Stove Tokenized Stock) - Coinbase",
+      "Corning: 3 Key Takeaways for Long-Term Investors - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為三星電子、TCL Technology、康寧相關動態：「Memory price hikes hit small- and mid-sized displays; BOE...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Memory price hikes hit small- and mid-sized displays; BOE swings to a Q3 loss...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Samsung Electronics acquires 10.16% stake in TCL CSOT - electronics.economict...",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
