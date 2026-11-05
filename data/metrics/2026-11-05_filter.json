@@ -1,0 +1,16 @@
+{
+  "total_raw": 357,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 179,
+  "gate1_fail": 33,
+  "gate2_fail": 18,
+  "passed": 24,
+  "gate2_samples": [
+    "Corning Incorporated’s (GLW) Q3 Selloff Shows How Forced Selling Can Swamp Strong Fundamentals - Yah",
+    "Corning Inc Stock (GLW) Moved Up by 3.93% on Nov 3: What Signal Does It Send? - TradingKey",
+    "About Corning (Stove Tokenized Stock) - Coinbase",
+    "Corning opens optical connectivity manufacturing facility in Pune - Manufacturing Today India",
+    "Corning advances optical connectivity manufacturing in Pune - tele.net"
+  ]
+}

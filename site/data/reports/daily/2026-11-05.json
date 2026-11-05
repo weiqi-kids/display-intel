@@ -1,0 +1,234 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T16:05:25.962459Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "canon-2026-11-05-013",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Counterpoint: display equipment capex to fall 49% in 2027, Sunic System becomes the market's top supplier",
+      "companies": [
+        "canon",
+        "applied_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/counterpoint-display-equipment-capex-fall-49-2027-sunic-system-becomes-markets"
+    },
+    {
+      "rank": 2,
+      "event_id": "raydium-2026-11-05-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "【Raydium Semiconductor FY2026 Q3 Earnings Call】Automotive and Industrial Revenue Share Tops 23% for First Record High; Taiwan's Raydium Posts Q3 EPS of NT$4.11, Down 9.3% YoY; Chairman Huang Yu-Kuo: Next Year We'll Break Out on Rising OL - finance.biggo.com",
+      "companies": [
+        "raydium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KSUJNQlg1Zlh1THdwZG1lRk1taS1FQmJ6b2IxbmtYMGNNZHhySERHVlN1aGFPRGFlOFdmT0lzb2JmU24xU2FNb0pkdTVoSnM1eGM0NWlhRmowWXUydTRZUVh3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-11-05-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Targets Chinese Gamers With Fourth-Generation Tandem WOLED - THE ELEC, Korea Electronics Industry Media",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zbHpkT2NiY3MtajFzRmsyY0NvTWRLMXloQUw0ZHpKWE93ZWFlRzZEaWk5QUhTMFI1eUJLYWkwWEh0cjQ3X2VtcTYxb2VxMjE2WG5tY19mN3pLQ1ZhODRHaDZORmRVVlk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-05-019",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "AI demand lifts Kyocera revenue as company raises forecast again",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261105PD200/kyocera-revenue-demand-forecast-electronics.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-05-021",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Qisda revenue rises 13% in October as AI businesses accelerate",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20261105PD225/revenue-qisda-healthcare-2026-infrastructure.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.13,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 15,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "himax",
+        "count": 6
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "novatek",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 17
+      },
+      {
+        "id": "oled_penetration",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 357,
+    "dup_title": 103,
+    "too_old": 179,
+    "gate1_blocked": 33,
+    "gate2_blocked": 18,
+    "passed": 24,
+    "pass_rate": "9.4%",
+    "gate2_block_rate": "7.1%",
+    "gate2_samples": [
+      "Corning Incorporated’s (GLW) Q3 Selloff Shows How Forced Selling Can Swamp Strong Fundamentals - Yah",
+      "Corning Inc Stock (GLW) Moved Up by 3.93% on Nov 3: What Signal Does It Send? - TradingKey",
+      "About Corning (Stove Tokenized Stock) - Coinbase",
+      "Corning opens optical connectivity manufacturing facility in Pune - Manufacturing Today India",
+      "Corning advances optical connectivity manufacturing in Pune - tele.net"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為Himax Technologies、LG電子、三星電子相關動態：「Counterpoint: display equipment capex to fall 49% in 2027...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Counterpoint: display equipment capex to fall 49% in 2027, Sunic System becom...（OLED 滲透率、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "【Raydium Semiconductor FY2026 Q3 Earnings Call】Automotive and Industrial Reve...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
