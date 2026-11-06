@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T16:05:21.263089Z",
+  "updated_at": "2026-11-06T15:40:12.239319Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "康寧",
       "ticker": "GLW",
       "currency": "USD",
-      "ar": 2932000000,
-      "ar_prev": 2676000000,
-      "ar_qoq": "+10%",
+      "ar": 3101000000,
+      "ar_prev": 2932000000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 3426000000,
-      "inv_prev": 3279000000,
-      "inv_qoq": "+4%",
+      "inventory": 3646000000,
+      "inv_prev": 3426000000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "himax",

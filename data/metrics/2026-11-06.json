@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-06",
+  "total_events": 19,
+  "by_company": {
+    "novatek": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "himax": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "lg_elec": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "lg_display": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 9,
+      "sentiment_avg": 0.01
+    },
+    "oled_penetration": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "panel_price": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "it_panel_demand": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "mini_led": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_elec",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration",
+        "it_panel_demand",
+        "panel_price"
+      ]
+    },
+    {
+      "from": "lg_display",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration",
+        "it_panel_demand",
+        "panel_price"
+      ]
+    },
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration",
+        "it_panel_demand",
+        "panel_price"
+      ]
+    }
+  ]
+}

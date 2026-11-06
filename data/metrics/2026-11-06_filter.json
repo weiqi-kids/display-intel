@@ -1,0 +1,16 @@
+{
+  "total_raw": 357,
+  "dup_title": 96,
+  "no_date": 0,
+  "too_old": 175,
+  "gate1_fail": 35,
+  "gate2_fail": 20,
+  "passed": 31,
+  "gate2_samples": [
+    "Do Wall Street Analysts Like Corning Stock? - Barchart.com",
+    "Corning Incorporated’s (GLW) Q3 Selloff Shows How Forced Selling Can Swamp Strong Fundamentals - Yah",
+    "Mary C. Pryslopski Obituary (2026) - Corning, NY - Acly-Stover Funeral Home - Corning - Legacy | Obi",
+    "Corning Inc Stock (GLW) Moved Up by 3.93% on Nov 3: What Signal Does It Send? - TradingKey",
+    "Corning advances optical connectivity manufacturing in Pune - tele.net"
+  ]
+}
