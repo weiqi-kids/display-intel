@@ -1,5 +1,140 @@
 [
   {
+    "id": "himax-2026-11-07-001",
+    "date": "2026-11-07",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Wall Street Zen Upgrades Himax Technologies (NASDAQ:HIMX) to \"Buy\" - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxObm5xMGZkN2dpWlZSdzYtT0dzazlKX3UxQWhhem96OC1fb0otWXhEczBteWRPZ0NKLUJVQkJuSE9RZjZZY3hMYzRmNGZET2dBQTJCMFNsUVg4alRfVmhoT3czTHB4LV9DSUlYQlIwb3",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObm5xMGZkN2dpWlZSdzYtT0dzazlKX3UxQWhhem96OC1fb0otWXhEczBteWRPZ0NKLUJVQkJuSE9RZjZZY3hMYzRmNGZET2dBQTJCMFNsUVg4alRfVmhoT3czTHB4LV9DSUlYQlIwb3RBdUxoaWNWMXo3aW56SGc1UnRtM1RBNjVqUVAxZDBnRzZZT3hycFEtd3p1eXdTa1BrdEdnS0FRQlJIOEp0OVkycS1tU2liZHRCZWl2djJrTkdqQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-07-002",
+    "date": "2026-11-07",
+    "companies": [
+      "lg_elec",
+      "lg_display",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Kyulux raises $53.7 million in a Series D round backed by LG Display and Samsung, signs a joint development agreement with LGD - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNS1B4YW53Y0lFd0ZjZ0c0Y2QtaDRnNWxld2g2WEI0Y1lQRjlEQmdLQ3ZLSzNwYXJiREZtd2E5X1NHeS1abU56eXN0bTRtZ0FKOFY4eXZjOGNFV1g0Z2JPNUxUWHR4SDFfanRLWG8teV",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS1B4YW53Y0lFd0ZjZ0c0Y2QtaDRnNWxld2g2WEI0Y1lQRjlEQmdLQ3ZLSzNwYXJiREZtd2E5X1NHeS1abU56eXN0bTRtZ0FKOFY4eXZjOGNFV1g0Z2JPNUxUWHR4SDFfanRLWG8teVV6c0RGRkk0QjFoaVRJN0hmUU81dTllODZUTXUxN0RjR0ZLRklzZ0Q3dkZwN05KX1dUd3pmYg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-07-003",
+    "date": "2026-11-07",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Researchers develop a record-efficiency white OLED that uses a single MR-TADF emitter molecule",
+    "summary": "<p>Researchers from China's Jilin University and Ji Hua Laboratory have developed a warm-white OLED that uses a single light-emitting molecule (a single dopant). The new emitter, called Th-DBN, is a m",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/researchers-develop-record-efficiency-white-oled-uses-single-mr-tadf-emitter",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-07-004",
+    "date": "2026-11-07",
+    "companies": [
+      "lg_elec",
+      "lg_display",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Kyulux raises $53.7 million in a Series D round backed by LG Display and Samsung, signs a joint development agreement with LGD",
+    "summary": "<p>Japan-based TADF and Hyperfluorescence OLED emitter developer <a href=\"https://www.oled-info.com/kyulux\">Kyulux</a> has raised 8.5 billion Yen (about $53.7 million USD) in a Series D funding round,",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/kyulux-raises-537-million-series-d-round-backed-lg-display-and-samsung-signs",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-07-005",
+    "date": "2026-11-07",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "DS Neolux's OLED materials revenue jumps 36% in Q3 2026, driven by new foldable and iPhone models",
+    "summary": "<p>Korea-based OLED materials maker <a href=\"https://www.oled-info.com/ds-neolux\">DS Neolux</a> (Duksan Neolux) reported its preliminary financial results for Q3 2026. Revenues reached $79.2 million, ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/ds-neoluxs-oled-materials-revenue-jumps-36-q3-2026-driven-new-foldable-and",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-07-006",
+    "date": "2026-11-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Quantum computing company IonQ raises 2026 revenue forecast above US$500 million on commercial growth",
+    "summary": "IonQ raised its 2026 revenue forecast to US$505 million-US$515 million after reporting record third-quarter revenue of US$173.8 million, as its quantum computing business expanded across data centers,",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261106PD235/revenue-2026-forecast-commercial-skywater.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-07-007",
+    "date": "2026-11-07",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Global AI memory crunch drives Taiwan to launch advanced memory initiative",
+    "summary": "The boom in AI demand has triggered a global memory crunch, creating persistent supply shortages and price hikes. The market is currently dominated by Samsung Electronics, SK Hynix, and Micron Technol",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261106PD231/memory-chips-demand-taiwan-government-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "novatek-2026-11-06-001",
     "date": "2026-11-06",
     "companies": [
@@ -356,6 +491,124 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcG93YTFLc0lGMVZZZFVJM3JZZ24wd1lsVzRmNTlFZUUzcUpmVHU4enNVSFozZzlVVzNfY09TZjRFX0F0UXVRalVwVEdUZm5EbnRxZUoweTIzWEZvQVhxZ09jNEZ0c3N0dnMxYWlqMnoxcHJsOVZQTW5PRk9DTkduUUk2aXplM1R3UVkybWp3bW1IaW9uUU9RT3AxMlhBV1RWdHcyYkR2blhvYXctd1BUeFNWeGE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-11-06-020",
+    "date": "2026-11-06",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan's Novatek Q3 EPS NT$9.99; President Wang Shou-jen Sees Q4 Revenue Down Up to 9.6%, Foundry and Packaging Quotes to Keep Rising Next Year - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcmlOWjF5bXV0Q1hGSjR5SjNPR09Way01QUluSU9JRVVCSDB1S19WVFNGa0UzTlZIUFV4YXRnVDhBak4zT3drZEh3Rm00WGJhYWExeFlnakVJbTRsTTRkSTZpay1uRm1zWHF5WEFOWW",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcmlOWjF5bXV0Q1hGSjR5SjNPR09Way01QUluSU9JRVVCSDB1S19WVFNGa0UzTlZIUFV4YXRnVDhBak4zT3drZEh3Rm00WGJhYWExeFlnakVJbTRsTTRkSTZpay1uRm1zWHF5WEFOWWJqTUxVQmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-11-06-021",
+    "date": "2026-11-06",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Novatek Microelectronics Corporation Earnings Call - November 6, 2026 - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQLUx3R0E5dHZnR1JlVGRwNHF3S2o4MWxpOE1GeFBYbmd4bmJPdDZacU9tRFRsS3BMUzRuZnY5VWwtNmJCcjdCV0JoaHNtVFBDQzBGdHV4UG1rNTUxSUF2aDJqV29TNEI3d0lCTWQzX3",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLUx3R0E5dHZnR1JlVGRwNHF3S2o4MWxpOE1GeFBYbmd4bmJPdDZacU9tRFRsS3BMUzRuZnY5VWwtNmJCcjdCV0JoaHNtVFBDQzBGdHV4UG1rNTUxSUF2aDJqV29TNEI3d0lCTWQzX3RZZnNUNVozNzNwYWctZ0djMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-06-022",
+    "date": "2026-11-06",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG's New 'FLiPP' OLED Tech Could Double TV Lifespans - Here's How - BGR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5HRmM4NTZHR3o5TE42dzF1NnkyWmdYNDFFclJJSXRhMVNtdGhSam50TndvN3hJRWdoWVkyVF9yc1BpQzJyVHhkYUtsTkNibkdnQ3NKTGxSbjM5R3lQODhDUzdsVjJ1VGNsWFJxdXZCQQ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HRmM4NTZHR3o5TE42dzF1NnkyWmdYNDFFclJJSXRhMVNtdGhSam50TndvN3hJRWdoWVkyVF9yc1BpQzJyVHhkYUtsTkNibkdnQ3NKTGxSbjM5R3lQODhDUzdsVjJ1VGNsWFJxdXZCQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-023",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Edge Rot Plagues WOLED TVs: Burn-In Isn't OLED's Only Problem - RTINGS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE41OHBLQTJTaHhPV0J5UUFEajJvOGtHZXJ4RGZNQ0thMXpDZjVkV3ZXWGk1ZmZWdUJfeHRndjgzTGFoNTg3WV94b1VWUk4tdDZUenM2TGttdm1kX3otMlJaN1hiXzJsYm1JalVyYmVyM0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41OHBLQTJTaHhPV0J5UUFEajJvOGtHZXJ4RGZNQ0thMXpDZjVkV3ZXWGk1ZmZWdUJfeHRndjgzTGFoNTg3WV94b1VWUk4tdDZUenM2TGttdm1kX3otMlJaN1hiXzJsYm1JalVyYmVyM0ViNGd0LWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "vizio-2026-11-06-024",
+    "date": "2026-11-06",
+    "companies": [
+      "vizio"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vizio Holding Corp. (VZIO) Stock Price, News, Earnings & Company Profile - RTTNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE56MURjemtETk94ODVjLVRhbXUyRlBub0hCeVpGRWIwcXU3Rjgyc2pNdVhkVkhWZkZ0VGdSQ2dtUjJJS1FTcW1OY0V6d2dkQWNOa0Rwcllvam9PbERHU0p5MF9aQXRTSG4xVzZSaFU5Q2",
+    "sources": [
+      {
+        "name": "vizio",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56MURjemtETk94ODVjLVRhbXUyRlBub0hCeVpGRWIwcXU3Rjgyc2pNdVhkVkhWZkZ0VGdSQ2dtUjJJS1FTcW1OY0V6d2dkQWNOa0Rwcllvam9PbERHU0p5MF9aQXRTSG4xVzZSaFU5Q2o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-06-025",
+    "date": "2026-11-06",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Mini LED Smart TV has unique tech for ‘intelligently refined lifelike realism’ and it’s $300 off - Cleveland.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVEJmV2F0d09naldRUmZjWG95dDBiY3JVN01UOVhUZUctTXN3aWZXQ3dENDRRdzF2R1FkRUJyTUdXMTFWZTdlZ3ZiNWk4VWpuZEo5b2lRNTBWSDROYmYyLWlac21xTmpqMmdqQUlabz",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVEJmV2F0d09naldRUmZjWG95dDBiY3JVN01UOVhUZUctTXN3aWZXQ3dENDRRdzF2R1FkRUJyTUdXMTFWZTdlZ3ZiNWk4VWpuZEo5b2lRNTBWSDROYmYyLWlac21xTmpqMmdqQUlabzFIMEF0dEd2eVpYZWRORWdkTWwySldQel94QS1pYXFBc3Q2N1BHQ3h5UUtUeFc1eWxqa21XX3YzUEg4N0NfUHF6LUxqRVpRTjBmX1Y4Tzg2ckFKR3ZUT0lsam0tb1lLUGJxakx6N1FYN3prOTQtemZ0RXVR?oc=5",
         "type": "rss"
       }
     ]
@@ -995,6 +1248,26 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/raydiums-oled-driver-sales-dip-q3-it-expects-memory-prices-speed-shift-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-11-05-034",
+    "date": "2026-11-05",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "No surprises in Himax’s (NASDAQ:HIMX) Q3 sales numbers but stock drops 22% - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFRjUTNjTVBjQVR3Um9UQ3Mwb2QwZGRubFpwNzBRLVhDbGVqYzRlaXlpS0tLR2lXOUVsV2JKSHItZmtVQW5tWFhYU1BCNFYxVnhibzNRcnhudnNxYXJQYTd2UFVNNF9kWnh3bUlqeG",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFRjUTNjTVBjQVR3Um9UQ3Mwb2QwZGRubFpwNzBRLVhDbGVqYzRlaXlpS0tLR2lXOUVsV2JKSHItZmtVQW5tWFhYU1BCNFYxVnhibzNRcnhudnNxYXJQYTd2UFVNNF9kWnh3bUlqeGN3SC1MbmxKOGlMWkNMX1h5bTBCZUN4QmZ2V1UzVkhMTTR0T3czWEhMeTV1Zw?oc=5",
         "type": "rss"
       }
     ]
@@ -1758,6 +2031,44 @@
       {
         "name": "boe",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGJYd3FjWERHcXgzUmNxQkNzbXQ0UEJvT3NVdDR5RTQ0N29pZUJIcVBGVnBLS05wbFAtbUFLNjZOb0o1SmYzaUlNSTA1RjE1Q01lRXdSR3h0LVgwQmlVT09xQVhRUW14VWZkM3Zacm9KOU1JQVR3Vm1yeWVDN1BHS3JLTFIya3BLSmx5V2wySlc3SzdTb2pFRnZ3bmxGYi1RVHRVb0lZVWg2NUJYYjFrRm9sTG1WQWFZTjdF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-11-03-021",
+    "date": "2026-11-03",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BOE Technology Group Company Limited Earnings Missed Analyst Estimates: Here's What Analysts Are Forecasting Now - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNN2tOSDlvYXJhOTBNNVRYQVE3bnZ4ZmN2REgtdVpObm9rVWppMVpjOXJFUm1wZFVQSUdVaVRMV2RnU0dYSTFnV2ZSdDFUZUxPTjNrLVNJdnpKN2tDd2hTYWFDTExvbDVxMUV5M09EcU",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN2tOSDlvYXJhOTBNNVRYQVE3bnZ4ZmN2REgtdVpObm9rVWppMVpjOXJFUm1wZFVQSUdVaVRMV2RnU0dYSTFnV2ZSdDFUZUxPTjNrLVNJdnpKN2tDd2hTYWFDTExvbDVxMUV5M09EcUtFOUFxZXRPdTdOVGZpbGY5bGlVQnFGdGIzSi1HdHBpWlFZQWxmNkJKWkt6VG5fYkluOVItMHVGanc2QzRrTzV1ekZVbU9MczZTSlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-03-022",
+    "date": "2026-11-03",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "EcoStar’s QD Mini LED lineup brings cinema, sports and gaming to life with Your world, your way - The Nation (Pakistan )",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZLTGtQTmN1NWNBTFc5TkE1cG5yUmMwVVlFVTg0SVhpNU5vNDJRSE9CajdnMUR4TnZwaTU1emR2bE1CZWdoOWV5aHFWZjI3V082aWl0dXBWZmVNWHNzcU91N1NZMzQ3MEd1VkllY0",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZLTGtQTmN1NWNBTFc5TkE1cG5yUmMwVVlFVTg0SVhpNU5vNDJRSE9CajdnMUR4TnZwaTU1emR2bE1CZWdoOWV5aHFWZjI3V082aWl0dXBWZmVNWHNzcU91N1NZMzQ3MEd1VkllY0NKeHBRQ2NJX1dLTFdsWVNDdHRrekVRV2pncFBhNWJvQ0dTdjFjSGVxZE1ySmFDMlBZRXBTNDJYdE5LaUZqUmc?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,16 @@
+{
+  "total_raw": 357,
+  "dup_title": 110,
+  "no_date": 0,
+  "too_old": 178,
+  "gate1_fail": 36,
+  "gate2_fail": 17,
+  "passed": 16,
+  "gate2_samples": [
+    "Corning Incorporated (GLW.VI) Seasonal Returns Chart - Yahoo! Finance Canada",
+    "Corning Incorporated’s (GLW) Q3 Selloff Shows How Forced Selling Can Swamp Strong Fundamentals - Yah",
+    "Corning opens optical connectivity manufacturing facility in Pune - Manufacturing Today India",
+    "Do Wall Street Analysts Like Corning Stock? - Yahoo Finance",
+    "Corning stock gains as optical sales jump 44% in Q3 - ad-hoc-news.de"
+  ]
+}
