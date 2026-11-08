@@ -1,0 +1,16 @@
+{
+  "total_raw": 357,
+  "dup_title": 118,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 40,
+  "gate2_fail": 20,
+  "passed": 7,
+  "gate2_samples": [
+    "Corning Incorporated’s (GLW) Q3 Selloff Shows How Forced Selling Can Swamp Strong Fundamentals - Yah",
+    "Do Wall Street Analysts Like Corning Stock? - Yahoo Finance",
+    "Corning stock gains as optical sales jump 44% in Q3 - ad-hoc-news.de",
+    "Corning Incorporated (GLW) latest stock news and headlines - Yahoo Finance Australia",
+    "Corning: 3 Key Takeaways for Long-Term Investors - Yahoo Finance"
+  ]
+}

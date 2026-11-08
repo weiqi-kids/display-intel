@@ -1,5 +1,47 @@
 [
   {
+    "id": "himax-2026-11-08-001",
+    "date": "2026-11-08",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies (NASDAQ:HIMX) Posts Earnings Results, Beats Expectations By $0.02 EPS - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTWRlVmI3RGhNWGZNRzRzVG9jWWJsdjRSdWJLNmRUeFN5UHNjc3Rac2gxb1huMmw5d01NczF2T2tNaXhQVjBjeGNvdWVzMUpEOVZBdzVfYlJZaXVHZmM5UXN1OGJ6aElRQWxCdVdEcE",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTWRlVmI3RGhNWGZNRzRzVG9jWWJsdjRSdWJLNmRUeFN5UHNjc3Rac2gxb1huMmw5d01NczF2T2tNaXhQVjBjeGNvdWVzMUpEOVZBdzVfYlJZaXVHZmM5UXN1OGJ6aElRQWxCdVdEcExEZkpmeGY0b1lGaTNwMGdTdjVSQUVGRW1MUDR4VEhnY2JnTHZMM1FDMTBndG1jOS16bWctclNjOVllN0NNOWJDT1M3eDQtd1dZc0dwTER1dkpJSWhLNU15eDlqZGgtbXF2ajVUWWxyVnRhRTRxWHZV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-11-08-002",
+    "date": "2026-11-08",
+    "companies": [
+      "lg_display",
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display and Samsung Invest in Hyperfluorescence OLED: Kyulux Closes $53.7M Series D - Tech Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQNDBCWlFMT2QtMU1JTVVmQS1rZUhOd3FUdERmQmJWUmp6OG55ZnQzVXV1OUpVQnhxaTA2Tm9UVlR2a18wLTY5Y1JUQXotd3NUSDN5d0NfNU5nQ1ZhSG1OYURIRHNGV09xSERvUl9oZX",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNDBCWlFMT2QtMU1JTVVmQS1rZUhOd3FUdERmQmJWUmp6OG55ZnQzVXV1OUpVQnhxaTA2Tm9UVlR2a18wLTY5Y1JUQXotd3NUSDN5d0NfNU5nQ1ZhSG1OYURIRHNGV09xSERvUl9oZXB0SGliYTJ6WXhmYmJKU2F4UUxIc1hXY0dwbHNUSDFyVTA1TjhWeHR3dFlhdjFBaTlOOGpMZ0xEdXd0ZUpldDVHbUR0U1g0Vkd4dVQ5cDVUcENjazZkV0dRXy1FTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-11-07-001",
     "date": "2026-11-07",
     "companies": [
@@ -130,6 +172,47 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20261106PD231/memory-chips-demand-taiwan-government-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-07-008",
+    "date": "2026-11-07",
+    "companies": [
+      "tcl",
+      "csot"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "TCL CSOT Inkjet OLED t8 Factory Begins Equipment Installation Phase - TechPowerUp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPbEJUSUdaZDR1NjFjWlZ3U3BPU2c3TEVYZzcyYWhLVmIwOVBkeVU1QjVSYkkyc0ZRbVd2bWluNzhhcVVmTmxaMFFaeXF2anJEMHlDSnNNX2J2RDhZUUo0MENDdl9OTXFoS0hydnRXUl",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbEJUSUdaZDR1NjFjWlZ3U3BPU2c3TEVYZzcyYWhLVmIwOVBkeVU1QjVSYkkyc0ZRbVd2bWluNzhhcVVmTmxaMFFaeXF2anJEMHlDSnNNX2J2RDhZUUo0MENDdl9OTXFoS0hydnRXUlY5QTFoWHlVelJlblJhSHZVd3BnRFdaZXdLLTQ1VUZRR1ZpeXI2TU5BQlBFdkFnZFV0SHpodtIBqgFBVV95cUxQdFVqM2hGR0NYcFhBWHlNWW5SaWFqaXdDM0hBSXMyZ1lqblhCUkl1ekNrV2R5WTR3NmdHallYMnF4dm84Mkh3RkZqOW1pNTVFd2FYN25vVWI0MWFpWFRoaHFvZDM4SkUtZzNGQlF3eWZzSU5yVzRla3lFbDhlZWtjOUlzRkZnQmliNWZiNnNZYkhBY0Y2Qlh5cFR6YndLWF9GYUdNMEZCQlVCdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-07-009",
+    "date": "2026-11-07",
+    "companies": [
+      "samsung_elec",
+      "tcl",
+      "csot"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Electronics To Acquire Direct 10.16% Stake In TCL CSOT Through Share Transfer From Samsung Display - Pulse 2.0",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbGlWd28xUVdhbkFhMnpYVjJ4UDlWLTI2dHdmcl94bTVOdU5HS3JlQlhSNG1YNmZBNExHdmh3bzMwOC1uNW9IUkFWN0d4TE1LVzdWdGV3ejkyVkt1QkVUTE1vdGVybWpBVi1IdWlwRk",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbGlWd28xUVdhbkFhMnpYVjJ4UDlWLTI2dHdmcl94bTVOdU5HS3JlQlhSNG1YNmZBNExHdmh3bzMwOC1uNW9IUkFWN0d4TE1LVzdWdGV3ejkyVkt1QkVUTE1vdGVybWpBVi1IdWlwRkJjZGxGSGxOanZoWm5scXpzQmluQmRPNHY2dWNnUnMwcVh3cU05ekUyM1hrd1RZVk1ibGdUSTJHdEszTXpRdXpIUEdWbUMyOXNfWkZleXdkeUNLNDQ?oc=5",
         "type": "rss"
       }
     ]
@@ -609,6 +692,26 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVEJmV2F0d09naldRUmZjWG95dDBiY3JVN01UOVhUZUctTXN3aWZXQ3dENDRRdzF2R1FkRUJyTUdXMTFWZTdlZ3ZiNWk4VWpuZEo5b2lRNTBWSDROYmYyLWlac21xTmpqMmdqQUlabzFIMEF0dEd2eVpYZWRORWdkTWwySldQel94QS1pYXFBc3Q2N1BHQ3h5UUtUeFc1eWxqa21XX3YzUEg4N0NfUHF6LUxqRVpRTjBmX1Y4Tzg2ckFKR3ZUT0lsam0tb1lLUGJxakx6N1FYN3prOTQtemZ0RXVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-11-06-026",
+    "date": "2026-11-06",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Technologies, Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:HIMX) 2026-11-05 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUQzUUJUT29YTXlKc2hyNVZMbjdSdHV1a3hObFhORTVjSWlQRjBlOGJqQlBLZm94cHZSZjBQVVJIa0tmWFlNRk1paFZ2cTZFRElFME1acHVxN096QnVBOFBObmNicDZlZFFsa09tV1",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUQzUUJUT29YTXlKc2hyNVZMbjdSdHV1a3hObFhORTVjSWlQRjBlOGJqQlBLZm94cHZSZjBQVVJIa0tmWFlNRk1paFZ2cTZFRElFME1acHVxN096QnVBOFBObmNicDZlZFFsa09tV1A0bld5N2Q2bEtVV3E1bENyMm1TZnJheXg3Vjdzcm9ieUhLZm1XRG55REdqN3lZbGh6Qk1TS3NUREJYdw?oc=5",
         "type": "rss"
       }
     ]
@@ -1268,6 +1371,44 @@
       {
         "name": "himax",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFRjUTNjTVBjQVR3Um9UQ3Mwb2QwZGRubFpwNzBRLVhDbGVqYzRlaXlpS0tLR2lXOUVsV2JKSHItZmtVQW5tWFhYU1BCNFYxVnhibzNRcnhudnNxYXJQYTd2UFVNNF9kWnh3bUlqeGN3SC1MbmxKOGlMWkNMX1h5bTBCZUN4QmZ2V1UzVkhMTTR0T3czWEhMeTV1Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-11-05-035",
+    "date": "2026-11-05",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Blames 'Abrupt and Significant Correction' in Auto Chip Demand as Stock Crashes Nearly 30%. Is Now the Time to Buy? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPM2Q0RjVkQ01OdzZnUk5JSUtFemgwR2RaX1owakJOdjBQeTFoUFdIdDk4VloydktMX3VKdUY5Rms0cEtGY0FXODUzZ0xkbzlzNTRfS2tleUpTT0lMajdlTUE0blBEdlg2THByblB4UU",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPM2Q0RjVkQ01OdzZnUk5JSUtFemgwR2RaX1owakJOdjBQeTFoUFdIdDk4VloydktMX3VKdUY5Rms0cEtGY0FXODUzZ0xkbzlzNTRfS2tleUpTT0lMajdlTUE0blBEdlg2THByblB4UUlUNlBRYVliV2VEQjhQSnVIc1o1TXNESDVJVFI4dHVESDBtZFcwaE11bVVlNldzZFhRQmFudjJIOWF3Wi1kZXg3bE5nQlhGX0M0azRyYllnNGh5WS1GMlV5eURyR19TTGpJbjljNHo0M0o5NEZUeVVIcG5UdnUyT01leGlxcUVLSEM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-11-05-036",
+    "date": "2026-11-05",
+    "companies": [
+      "himax"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Himax Techs Q3 2026 Earnings Call Transcript - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNbDFZbC13QVZsUTlNZGdEYVl2b2VPRXh1bGhrcVloY1JleUZROXpjUEwwZ1VKMjZ5S09yeU5qa3liRExaSWdJaVhhV05pZldHalo1MHhISkNfTmlTZ0pPT01WQkNJQ1ZRcnV3ZVpqQ1",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbDFZbC13QVZsUTlNZGdEYVl2b2VPRXh1bGhrcVloY1JleUZROXpjUEwwZ1VKMjZ5S09yeU5qa3liRExaSWdJaVhhV05pZldHalo1MHhISkNfTmlTZ0pPT01WQkNJQ1ZRcnV3ZVpqQ1dmcllJRVMyRXllaFlSdmJBVVYzLTEtemlwU0dkanpaTTRMTnc?oc=5",
         "type": "rss"
       }
     ]
