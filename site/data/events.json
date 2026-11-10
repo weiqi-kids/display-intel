@@ -1,5 +1,532 @@
 [
   {
+    "id": "canon-2026-11-10-001",
+    "date": "2026-11-10",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Canon launches FPA-6400ES6a KrF semiconductor lithography system with high throughput and industry-leading overlay accuracy - Canon Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE44UG8tbjkybk5HdFc1WjFtZnJ5eFd0blcxQ3ZLRFJnRlRhYzZtazBibDRlaHMyRE1OYmhvNmJjeW52WVhQSjIxQWw4LTVNOV9Tc2VoYlRtZFFtRTg?oc=5\" target=\"_blank\">Cano",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44UG8tbjkybk5HdFc1WjFtZnJ5eFd0blcxQ3ZLRFJnRlRhYzZtazBibDRlaHMyRE1OYmhvNmJjeW52WVhQSjIxQWw4LTVNOV9Tc2VoYlRtZFFtRTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-11-10-002",
+    "date": "2026-11-10",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Novatek faces AI infrastructure squeeze, pins growth ramp-up on new products - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjRZaHNVN1FGLWJtS0dtS25CS2JFcmNEVnZqaW1JUzhvTVgxRTl6Z2toeGJSZ3BDbnlmZ1l3cUxlaDFGX3Q4WWdUdzJVTDB1MkQyOG5RODBvZk9xdFh2RHFjM3EtYjgzc0tvTDVwVU",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjRZaHNVN1FGLWJtS0dtS25CS2JFcmNEVnZqaW1JUzhvTVgxRTl6Z2toeGJSZ3BDbnlmZ1l3cUxlaDFGX3Q4WWdUdzJVTDB1MkQyOG5RODBvZk9xdFh2RHFjM3EtYjgzc0tvTDVwVUlzbFJTMHlwTkNwOEhCeV85d3dYdkZBS0FVVzFWcDZITVhaSG1sOGFJazZzbEhvQW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-10-003",
+    "date": "2026-11-10",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Wins Multiple CES 2027 Display Innovation Awards—Including For A New ‘Wallpaper’ OLED With Agentic AI - Forbes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR0N5UjEwV0dyRGJpTFJlNEJKWlYwVEc5VnFjbEpjMndCYUNHUGJQbEFybEpIOW5QN05nMmFpaGF0cG9SZXNhemlWOUNzQ2lKZXBJSGYxMUM4VkRkQkl4ZGtGTm4xYmstYTZHQnhIR0",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR0N5UjEwV0dyRGJpTFJlNEJKWlYwVEc5VnFjbEpjMndCYUNHUGJQbEFybEpIOW5QN05nMmFpaGF0cG9SZXNhemlWOUNzQ2lKZXBJSGYxMUM4VkRkQkl4ZGtGTm4xYmstYTZHQnhIR0E0bElCdjBtRTNNeFFKQXM0Y1BzZW44eVFkd0tVSUtRNlgyUnBwY3VfM3EtaF94WTNvTGxXVTdheGM2MHNfa2ZpZmt4OEd0MTM4a3lyWGJIQTl3SmtseXJaWktlYkY1RlI1YlVRcG1UREhQVmIxRUsyTU9QUzB1UkxBc2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-10-004",
+    "date": "2026-11-10",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Best of CES 2027: LG’s transparent OLED, wallpaper TV, and record-fast gaming monitor - The Gadgeteer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQVRtRUVaMjJxTmo5LU5wTWxrS3lPSXpaTnAzYmRzQm96S3UxdVBsVk9yTXJ4dkFYaDhIdnV1Slp5b3ZYak1mS1Fzc0pQUnpHNVhrcEs2VC1wVFVQWENuWmhJUXNPV293ekpXOEhjN1",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQVRtRUVaMjJxTmo5LU5wTWxrS3lPSXpaTnAzYmRzQm96S3UxdVBsVk9yTXJ4dkFYaDhIdnV1Slp5b3ZYak1mS1Fzc0pQUnpHNVhrcEs2VC1wVFVQWENuWmhJUXNPV293ekpXOEhjN1FnM0pZZFRxMFRkTFZRZDlyRmZ4WmpCSHp6NDRqU3hjcVNDQVNSMkttSV9qRnliUkc4blZxNjB6cy15Ynh5anBZRVF6aVRnSEYtQUtN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-11-10-005",
+    "date": "2026-11-10",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "RTINGS found edge rot, dead pixels along the screen edges, on 14 of the 16 LG Display WOLED TVs it tested for 18,000 hours - Make Tech Easier",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9kd0otVFgwQVNGX2NoTEdVVDMtQUJLbFNpRnZHZzB1eTNoU3RrWWJ6M1laUkdNVlZXWlVoLWZqREk1MGxlSDJUSk5xbkRyR0VxLUdCMURRVEc4Mnd3Vk5ZZGZHYURwcTVXcnNVbA?oc=",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kd0otVFgwQVNGX2NoTEdVVDMtQUJLbFNpRnZHZzB1eTNoU3RrWWJ6M1laUkdNVlZXWlVoLWZqREk1MGxlSDJUSk5xbkRyR0VxLUdCMURRVEc4Mnd3Vk5ZZGZHYURwcTVXcnNVbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-11-10-006",
+    "date": "2026-11-10",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "South Korea's LG Display Wins Top Patent Award for Circuit Design That Cuts OLED TV Bezels by 34% - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFAya0VwV2tzZVUteVZVM2ZuQkJ2QmZEamlCWlM4VVhGZlcwbHhIMTdaUTBnRXM1ZWtQN3lPUVdjYUpjQVpfR2IwTlJiRTlUTHpPVXI4VHcyaDhBaGc0X29zSlc1N2lPZm5abjVYQjlKZm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAya0VwV2tzZVUteVZVM2ZuQkJ2QmZEamlCWlM4VVhGZlcwbHhIMTdaUTBnRXM1ZWtQN3lPUVdjYUpjQVpfR2IwTlJiRTlUTHpPVXI4VHcyaDhBaGc0X29zSlc1N2lPZm5abjVYQjlKZmZicUJza0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-11-10-007",
+    "date": "2026-11-10",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display wins top Korea patent award for OLED TV bezel-shrinking tech - Chosunbiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9vMGdZZXZLdU1mZXZWcVBCN3RCcHpwTXdQa1VqQWk2cWh6NEx3U25uanpKV19JenVvblFpVEc3TVVBSkxfNlBja3RraFFJYXRGQWxLTkdSVW8zb2ZaRTVUVmVucmFteG9KQTNDVEZFbV",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vMGdZZXZLdU1mZXZWcVBCN3RCcHpwTXdQa1VqQWk2cWh6NEx3U25uanpKV19JenVvblFpVEc3TVVBSkxfNlBja3RraFFJYXRGQWxLTkdSVW8zb2ZaRTVUVmVucmFteG9KQTNDVEZFbVRoMkIzZFJWeVVn0gGOAUFVX3lxTE8yRndhRnBIOHZkaG50NkFiU3VwUHVhZXVKS24zWUJDWEg1YVFOSFhFc3UtbkNrSTZKNTRUT2lYS28xQ3pzamEtaTZVZDNlbUd6QmsyQ20yNG5wd3ExTlJxMkhiQ3pyUW1xbVBIbjFUZVBHd0J3dnl5aGdQVjBwak50VFNQcDQwdExTNkpXdlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-11-10-008",
+    "date": "2026-11-10",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Wins Top Patent Award for Slimming OLED TV Bezels 34% - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2lfdGpHZjI3eHNtVDJLMEJrM3ZIY1lPa2lndk13OU5ybFRma2RCQ2prRmc1TTNna0pVTjFrdnhSTHdIT3UxLW9Jd2YwNldKQjNfQmJkaW8zYkxicFZ4OG5jaUF1WHRURmwxOGs4OX",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2lfdGpHZjI3eHNtVDJLMEJrM3ZIY1lPa2lndk13OU5ybFRma2RCQ2prRmc1TTNna0pVTjFrdnhSTHdIT3UxLW9Jd2YwNldKQjNfQmJkaW8zYkxicFZ4OG5jaUF1WHRURmwxOGs4OXJUclN0eHZmN1lmaDQ3ODQxVlRUcmRXdEdMMEg5dm9FQThxZjBqVFRSdTFpV0g?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-10-009",
+    "date": "2026-11-10",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Sweeps CES 2027 Innovation Awards; OLED TV Wins Top Honor for 5th Straight Year - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1jX0szVUtOdDZHVWVhUEhnMnlQNWN2ajlzbVFZUHlqa0k0ZU9rem9ybnpTa3hIS0ViVmFELTBQUFh0R25mOUVUdXJPQXpicE5BOGhmVlRSQTFBdk1fbzVxejlzWXpRMHRLX1dCbEpJaW",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jX0szVUtOdDZHVWVhUEhnMnlQNWN2ajlzbVFZUHlqa0k0ZU9rem9ybnpTa3hIS0ViVmFELTBQUFh0R25mOUVUdXJPQXpicE5BOGhmVlRSQTFBdk1fbzVxejlzWXpRMHRLX1dCbEpJaWhRS0ExLVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-11-10-010",
+    "date": "2026-11-10",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display wins Sejong the Great award with patent cutting bezel by 34 percent - 디지털투데이",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM0MtNHNtVF9MZERKSVg2Yy1qTkZaOHlmdVNyeGtnM1VocHRqZDJOWUEwYUtJakVVN2RnZWdicC0ydkRnUHFJeG1SWVBhN2dLQnVLZ20zejR0dnZLVk1vSmJJeTN4UWV0OVRRcE1KUV",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM0MtNHNtVF9MZERKSVg2Yy1qTkZaOHlmdVNyeGtnM1VocHRqZDJOWUEwYUtJakVVN2RnZWdicC0ydkRnUHFJeG1SWVBhN2dLQnVLZ20zejR0dnZLVk1vSmJJeTN4UWV0OVRRcE1KUVAyLWtEaWltMmt3cDY3U1JoaXIzU21Bd2JLZzdweG5qcVA5ZjVmdXZyV2JwQms1dER1ZDlVV3djVUlyOHZyWDVTTC1IZHJvQVU1Z2RqNFRuenZOZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-11-10-011",
+    "date": "2026-11-10",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Co., Ltd. wins the ‘King Sejong Award’ for its ultra-slim OLED TV bezel technology - 파이낸셜뉴스",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxeHBUS0pCcWN6UUNGOU9ydzNCNXpTaGVORTNyUHdjYVBtLWRTS2J0T19uQTBQNmFoT1hOMmJhVGV2Z2JUWW5VUndSLVBBajNIa3lwNnJOVEg?oc=5\" target=\"_blank\">LG Displ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxeHBUS0pCcWN6UUNGOU9ydzNCNXpTaGVORTNyUHdjYVBtLWRTS2J0T19uQTBQNmFoT1hOMmJhVGV2Z2JUWW5VUndSLVBBajNIa3lwNnJOVEg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-10-012",
+    "date": "2026-11-10",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "Case study: Yousee Display uses flexible AMOLED and \"Zero-Dead-Angle\" 3D curved bonding to create expressive robot faces",
+    "summary": "<p>Humanoid robots are quickly moving from research labs into hotels, shopping malls, classrooms and homes, and a robot's face is fast becoming its most important interface. A display built into the f",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/case-study-yousee-display-uses-flexible-amoled-and-zero-dead-angle-3d-curved",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-10-013",
+    "date": "2026-11-10",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Cyan is emerging as a signal for autonomous driving: UDC, OLEDWorks and Audi to evaluate light-blue OLED lighting",
+    "summary": "<p><a href=\"https://www.oled-info.com/universal-display\">Universal Display</a> (UDC) and <a href=\"https://www.oled-info.com/oledworks\">OLEDWorks</a> announced a collaboration to evaluate cyan OLED lig",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/universal-display-and-oledworks-evaluate-cyan-oled-lighting-automated-driving",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-10-014",
+    "date": "2026-11-10",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "HKC's 6-Gen OLED fab in Mianyang falls behind schedule, no major equipment has been ordered yet",
+    "summary": "<p>China's <a href=\"https://www.oled-info.com/hkc\">HKC</a> is reportedly falling behind schedule with its plan to build a 6-Gen OLED production line (H7) in Mianyang, Sichuan Province. HKC originally ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/hkcs-6-gen-oled-fab-mianyang-falls-behind-schedule-no-major-equipment-has-been",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-10-015",
+    "date": "2026-11-10",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display earns automotive cybersecurity certifications for its automotive OLED displays",
+    "summary": "<p><a href=\"https://www.oled-info.com/samsung-oled\">Samsung Display</a> announced that it has earned two automotive cybersecurity certifications, ISO/SAE 21434 and ENX VCS. The company says that it is",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/samsung-display-earns-isosae-21434-and-enx-vcs-automotive-cybersecurity",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-10-016",
+    "date": "2026-11-10",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL unveils Australian Christmas guide for premium TVs - FutureFive Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPNVk1UjhoODdaOGpPdWhSbjc4SE5rV2dRb1dXZzNwYXRaN01oQ0l3T2hDU3N1V09PdE9XRjJCOWZGYmE3LXhUV1g4OUQ3MXZpd0JxdUZTWngyX1BEbUJoak8zdktiQ2tHbEVLSURma2",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNVk1UjhoODdaOGpPdWhSbjc4SE5rV2dRb1dXZzNwYXRaN01oQ0l3T2hDU3N1V09PdE9XRjJCOWZGYmE3LXhUV1g4OUQ3MXZpd0JxdUZTWngyX1BEbUJoak8zdktiQ2tHbEVLSURma2NNX0h1UlMteGtrenAteUxCN2U0djdKb2pkMVlMSzl0Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-11-09-001",
+    "date": "2026-11-09",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Corning stock at EUR 96.90 as Q4 growth outlook stays in focus - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcEJ1V2RvMkxOaE5PX05wbkFEWk9FdUI1eXlXLVRVMmF5akdReXdUME1NaGpVREhrcmFzSndLLXJUUDlMRFdxYjVJdWdqdGU1eS16Yk0xQ1ZXZF95Q3hfVDA5eVVJYU40OUtUc3NFQn",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcEJ1V2RvMkxOaE5PX05wbkFEWk9FdUI1eXlXLVRVMmF5akdReXdUME1NaGpVREhrcmFzSndLLXJUUDlMRFdxYjVJdWdqdGU1eS16Yk0xQ1ZXZF95Q3hfVDA5eVVJYU40OUtUc3NFQnFEWnRqeUUtZkktOHRLUHQwLXFiUmk3cDdqSjhtR3NMNEhxVTN4OVpmTmhXb0M4RlE4RHUzbWJXUkpkNmgyYzM3dDlYaDZ5a0NGT3RrbmJ0U1FCU0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-09-002",
+    "date": "2026-11-09",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "LG-backed Japanese startup eyes mass production of new OLED material - Nikkei Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZVRKZW5JQmZSNlJqVVZidGZaU2ptdFd0cGpEaC1hZE5xbjU1YVdWUnoxYW15UGFnR0ZGTHowZU8tRGNaLUQ3UTRCQXB5ZkpuQnB0Mm1wdV8yTmJHMmJZMmxMcDI0UjFONEkwaGhWMl",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZVRKZW5JQmZSNlJqVVZidGZaU2ptdFd0cGpEaC1hZE5xbjU1YVdWUnoxYW15UGFnR0ZGTHowZU8tRGNaLUQ3UTRCQXB5ZkpuQnB0Mm1wdV8yTmJHMmJZMmxMcDI0UjFONEkwaGhWMlNpZDZubDA3YXYzSXNJYzhhVWJIbWJqNUNXUjhKT2dfTHN4V0hpdUF6NXdTdnYzVFNtejNXQzRlMlMtalg3VTRCbFlDMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-09-003",
+    "date": "2026-11-09",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Long-Term Test Finds 'Edge Rot' Dead Pixels on Most Older LG OLED TVs - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5YeVFfMHkydVFiOXE2RWpEczN4MFptV2UzWDhsaU1ZUmVuaDhYRmc1LUxDRWlFOUx4a2N3WTRBR1JIWktPZWU1ejFsNkYyQW42MldLTHFVRGRyeEJoTnVsTENrN2l6ejFMM3BqaUtLMz",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YeVFfMHkydVFiOXE2RWpEczN4MFptV2UzWDhsaU1ZUmVuaDhYRmc1LUxDRWlFOUx4a2N3WTRBR1JIWktPZWU1ejFsNkYyQW42MldLTHFVRGRyeEJoTnVsTENrN2l6ejFMM3BqaUtLMzJDVE9YWXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-09-004",
+    "date": "2026-11-09",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG OLED Smart TVs suffer from edge rot, some models are immune according to long-term test - Notebookcheck",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNVFdLR3JoVTVpLWlyNXdqdmg4Y1Q5ekZrcnkwSnVscDIzdllpY1R5UUpWb3VsRUoycDdSWHp3NGtKRVN6SlFSc3pJVHdfUnBxZl9GYTBoRHBOYnc5R1MxWUFNaFZGbTBBbGhxRjNEVl",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVFdLR3JoVTVpLWlyNXdqdmg4Y1Q5ekZrcnkwSnVscDIzdllpY1R5UUpWb3VsRUoycDdSWHp3NGtKRVN6SlFSc3pJVHdfUnBxZl9GYTBoRHBOYnc5R1MxWUFNaFZGbTBBbGhxRjNEVlp6TTdxYkF4NGljY3E5YnBrczM2RUFTQXpMMUV4NXhjVlNGaWhLNF9oRmJQd1UySTFTLVpWOWVlTkptMVkzSkN3VEx0dmhSd2JBY3MwWWx2T3ZzTWZEQ2xKY29DN2tJT0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-005",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Older WOLED TVs suffer from \"edge rot\" as test finds dead pixels in 14 of 16 sets - TechSpot",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQRm5oMjVDd1pMeV8yRVZkbmlvcjg5SElzQlJXd21oY09GNWRQdk9lVVFlTnNDT3YzLVNieFRxMkJKNHd5YkNIVXl6em9oSU1UcFJ1UGJrOFF6aDUtNDk2VWhRR3M3aXRUbkl6STQzQU",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRm5oMjVDd1pMeV8yRVZkbmlvcjg5SElzQlJXd21oY09GNWRQdk9lVVFlTnNDT3YzLVNieFRxMkJKNHd5YkNIVXl6em9oSU1UcFJ1UGJrOFF6aDUtNDk2VWhRR3M3aXRUbkl6STQzQUZ5a0NzcmRvcmZQUjJHTTJ4Z2NySTNFQzdFanBPdQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-11-09-006",
+    "date": "2026-11-09",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "BOE Technology Group's (SZSE:000725) Weak Earnings May Only Reveal A Part Of The Whole Picture - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOOHh1MWNGa3VlTURCMjE1eXByQTZ6TmU4anA2cE9jd0FJR1ZmSDlVMWVsOVZYZmlVQThmRzZ6clo1eTlTRUhERXAwUmVaME5WNUZsb0VZR1lWSUZOWTZndlJUcFhWWVFGQlR1YkF4Qm",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOHh1MWNGa3VlTURCMjE1eXByQTZ6TmU4anA2cE9jd0FJR1ZmSDlVMWVsOVZYZmlVQThmRzZ6clo1eTlTRUhERXAwUmVaME5WNUZsb0VZR1lWSUZOWTZndlJUcFhWWVFGQlR1YkF4QmNHb0U2Vm81UWpvN2ptUzQzTVk1WlFpUjV3ZWlFTWtCRHVlVEw3Rm5NTVk1bVl4MEc5dXRz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-007",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Cheaper OLEDs might be here even quicker than we thought - PC Gamer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxQM1lPODNxeFhSMnlVX1pRWUZkelE1WFdldk9WalpJMUtST056UnN1cGhuY0xucXQ2YzFERUlUdnZ3S3B3MlQ5S2RHaW9Ja04xSDNLQXAyaFhkN29xSVF3a3VZb0dqV3FUZVYyVVpndm",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQM1lPODNxeFhSMnlVX1pRWUZkelE1WFdldk9WalpJMUtST056UnN1cGhuY0xucXQ2YzFERUlUdnZ3S3B3MlQ5S2RHaW9Ja04xSDNLQXAyaFhkN29xSVF3a3VZb0dqV3FUZVYyVVpndmVnaEswUnJST1FxeTkwWlFKeU51ZlZWSURPTEZkaTJ2cW80UnJQQWhHX1l5b2NELUhiczN4NGtMN0lmM1k4ZU9zeEZUdl9haGkxZnJ0YXJzXzZJRkxBYVQ4UnA0dmNjUXI4TDNUckx6ZXUyU1Joc0c2SnR1VzRmWmJPYWtLY2RnNXRqRDNuUkVaSlI4RGVFcVJoTE1Yd0VjVU90RjlJNEVPNU1rZnNZNHlybnBERW1Qc1lKd0ZZVjMyOXBmdEFMTUREci1N?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-09-008",
+    "date": "2026-11-09",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Jilin OLED files to invalidate an LG Chem OLED material patent in Korea, the first such challenge by a Chinese company",
+    "summary": "<p>According to industry sources in Korea, China's <a href=\"https://www.oled-info.com/jilin-OLED-material-tech\">Jilin OLED Material Tech</a> asked Korea's Intellectual Property Trial and Appeal Board ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/jilin-oled-files-invalidate-lg-chem-oled-material-patent-korea-first-such",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-009",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Homways (formerly Metaways) starts production at its second 12-inch OLED microdisplay fab, in Chuzhou",
+    "summary": "<p>China-based OLED microdisplay producer <a href=\"https://www.oled-info.com/metaways\">Homways</a> (previously Metaways) announced that it has started production at its second 12-inch OLED microdispla",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/homways-formerly-metaways-starts-production-its-second-12-inch-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-09-010",
+    "date": "2026-11-09",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "What OLED developers should know about microLED wearables: a new white paper details the status and roadmap",
+    "summary": "<p>If you are developing OLED displays or materials, it is worth following the progress of microLED - and especially in wearables, the first market in which the two technologies compete directly in a ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/what-oled-developers-should-know-about-microled-wearables-new-white-paper",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "csot-2026-11-09-011",
+    "date": "2026-11-09",
+    "companies": [
+      "csot",
+      "lg_elec",
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Naintech to supply substrate transfer equipment for TCL CSOT's 8.6-Gen inkjet printed OLED line",
+    "summary": "<p>Korea-based equipment maker <a href=\"https://www.oled-info.com/naintech\">Naintech</a> announced that it will supply substrate transfer equipment for <a href=\"https://www.oled-info.com/csot-oled\">TC",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/naintech-supply-substrate-transfer-equipment-tcl-csots-86-gen-inkjet-printed",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-11-08-001",
     "date": "2026-11-08",
     "companies": [
@@ -37,6 +564,63 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNDBCWlFMT2QtMU1JTVVmQS1rZUhOd3FUdERmQmJWUmp6OG55ZnQzVXV1OUpVQnhxaTA2Tm9UVlR2a18wLTY5Y1JUQXotd3NUSDN5d0NfNU5nQ1ZhSG1OYURIRHNGV09xSERvUl9oZXB0SGliYTJ6WXhmYmJKU2F4UUxIc1hXY0dwbHNUSDFyVTA1TjhWeHR3dFlhdjFBaTlOOGpMZ0xEdXd0ZUpldDVHbUR0U1g0Vkd4dVQ5cDVUcENjazZkV0dRXy1FTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-11-08-003",
+    "date": "2026-11-08",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Is Corning (NYSE:GLW) Becoming A Key AI Infrastructure Supplier? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVEZTVDE4V0tNNzg4T1lYU1JLWFNwM1pmcVJYdzJ3dDN4aTdNOXNmX2FjVzRMX0hUUWIzRTRGeGhTazRuajAxdDBUc3RsUGdDLS1ITldUaGJ5Z3hTYU50VTdaaTRFR0h0MXFJVGNidH",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVEZTVDE4V0tNNzg4T1lYU1JLWFNwM1pmcVJYdzJ3dDN4aTdNOXNmX2FjVzRMX0hUUWIzRTRGeGhTazRuajAxdDBUc3RsUGdDLS1ITldUaGJ5Z3hTYU50VTdaaTRFR0h0MXFJVGNidHBFLTB0ajR1enc3dkZvLUl6dDlBWWxwcHAxNUY2ek9HLWFNZm5xaXhfcV9QNkM3d21fQWN2ZS04OHJwUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-08-004",
+    "date": "2026-11-08",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Avaco posts its third straight quarterly loss, but expects a strong Q4 as OLED equipment shipments begin",
+    "summary": "<p>Korea-based OLED equipment maker <a href=\"https://www.oled-info.com/avaco\">Avaco</a> reported its financial results for Q3 2026, with revenues of 47.3 billion won (about $34.8 million USD), down 6%",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/avaco-posts-its-third-straight-quarterly-loss-expects-strong-q4-oled-equipment",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-08-005",
+    "date": "2026-11-08",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "negative",
+    "title": "TCL 65-inch QM7L Mini LED TV is back at its lowest price ever on Amazon - PC Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTkVpal9SMWZyblBieVJJbElnOFcwdDk3NHVYR2hQbFdLcDhMTDNxSlowazNNdjFnVjdJVzFtVVlmV1BKZzR6QUJIY3ZiNDZhMUx4R21VaUd4WDYyazBjbjVyRXU0RTlNZWl0WmNxYl",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTkVpal9SMWZyblBieVJJbElnOFcwdDk3NHVYR2hQbFdLcDhMTDNxSlowazNNdjFnVjdJVzFtVVlmV1BKZzR6QUJIY3ZiNDZhMUx4R21VaUd4WDYyazBjbjVyRXU0RTlNZWl0WmNxYlZXT2loNFAyakMyeUNzQ3BEcmhDMW9kbndtSVpfYThEX2k2am1SSEpVT2ZnbUhmTUxiWHBfWg?oc=5",
         "type": "rss"
       }
     ]
@@ -712,6 +1296,44 @@
       {
         "name": "himax",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUQzUUJUT29YTXlKc2hyNVZMbjdSdHV1a3hObFhORTVjSWlQRjBlOGJqQlBLZm94cHZSZjBQVVJIa0tmWFlNRk1paFZ2cTZFRElFME1acHVxN096QnVBOFBObmNicDZlZFFsa09tV1A0bld5N2Q2bEtVV3E1bENyMm1TZnJheXg3Vjdzcm9ieUhLZm1XRG55REdqN3lZbGh6Qk1TS3NUREJYdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-11-06-027",
+    "date": "2026-11-06",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Incorporated (GLW.F) stock price, news, quote and history - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPQVNwb1Jqck1IUGFQN3dXSnBiOXNlenVudDNCNmFFX2FsME9zdDloQmp1T014YkZubWc4UzE0WjE2MXBvWmFDanRIbDQxZWxCMmoyUUVnTnVNZXY1QnJVdmpCSQ?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPQVNwb1Jqck1IUGFQN3dXSnBiOXNlenVudDNCNmFFX2FsME9zdDloQmp1T014YkZubWc4UzE0WjE2MXBvWmFDanRIbDQxZWxCMmoyUUVnTnVNZXY1QnJVdmpCSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "novatek-2026-11-06-028",
+    "date": "2026-11-06",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Novatek Microelectronics: Q3 growth was strong, but seasonal Q4 weakness and rising input costs pressure the outlook - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxNalplT1g2NzZVZkZyb0h6V21kd3dfQmtYUDV2Q25CX2RscThjb240djFCb2FCSXFvY0lpU0RrQWNIbkc4NzAzdjNmbGx3T0dXSFhkdjQ0QlpPNEc2Wm1NbjJPZUlBR0NqV0hCQ2JmaH",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNalplT1g2NzZVZkZyb0h6V21kd3dfQmtYUDV2Q25CX2RscThjb240djFCb2FCSXFvY0lpU0RrQWNIbkc4NzAzdjNmbGx3T0dXSFhkdjQ0QlpPNEc2Wm1NbjJPZUlBR0NqV0hCQ2JmaHNXZk5CX2hQWlVFbzRjVVlCejQ4Z2lyYzM4OHhiU2lJakgyQ1l4bndTNjcyaTMzQ09ULTR3Z3BBUi1naktRcEVvSWtzM1prVXYyTXhmM2NTamUxc25UMzlNQTIxVjlYU3hJSE5VODN2ZkFkMXJ2SUN4U2dTd01zdkhOeW9HZ0t0SlgyZ1lRNGpYMnRYNUlra3ROcnphcV9fS19RTXdZd0xYdFdpTEMtNkhhZWIwbVQ1WExxM0JOcjFsWg?oc=5",
         "type": "rss"
       }
     ]
@@ -2210,6 +2832,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlZLTGtQTmN1NWNBTFc5TkE1cG5yUmMwVVlFVTg0SVhpNU5vNDJRSE9CajdnMUR4TnZwaTU1emR2bE1CZWdoOWV5aHFWZjI3V082aWl0dXBWZmVNWHNzcU91N1NZMzQ3MEd1VkllY0NKeHBRQ2NJX1dLTFdsWVNDdHRrekVRV2pncFBhNWJvQ0dTdjFjSGVxZE1ySmFDMlBZRXBTNDJYdE5LaUZqUmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-11-03-023",
+    "date": "2026-11-03",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology Group Co., Ltd. (000725.SZ) maintains its global leadership in shipment volumes across five major application areas and for automotive LCD panels. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUxzNEJGNUFRY2ozbjRiQmtERFczMkVGMTVlZ0dFS2p0bnNIczhDdjFzWllWMjdDR3FWRzJhMS1BTVFHTWVNdlpSVGdNcUplM2NIbDRDandrUEJreDVBOENBeDhVWW41bzJQNVJZSl",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUxzNEJGNUFRY2ozbjRiQmtERFczMkVGMTVlZ0dFS2p0bnNIczhDdjFzWllWMjdDR3FWRzJhMS1BTVFHTWVNdlpSVGdNcUplM2NIbDRDandrUEJreDVBOENBeDhVWW41bzJQNVJZSllUdmpKLXdDbE1VOVZYOTFETExPRnp4dlVrZnFiMWxfVDV3a2M4MVl4NW9XNkxUbWJDcFNJ?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,16 @@
+{
+  "total_raw": 338,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 26,
+  "gate2_fail": 15,
+  "passed": 33,
+  "gate2_samples": [
+    "Corning Inc Stock (GLW) Moved Up by 3.93% on Nov 3: What Signal Does It Send? - TradingKey",
+    "Corning Incorporated’s (GLW) Q3 Selloff Shows How Forced Selling Can Swamp Strong Fundamentals - Yah",
+    "Corning Incorporated (GLW) stock price, news, quote and history - Yahoo Finance Singapore",
+    "Corning: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "Canon Inc. (CAJFF) stock price, news, quote and history - Yahoo Finance UK"
+  ]
+}

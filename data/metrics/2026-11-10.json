@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-10",
+  "total_events": 16,
+  "by_company": {
+    "canon": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "novatek": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "lg_elec": {
+      "count": 9,
+      "sentiment_avg": 0.11
+    },
+    "lg_display": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tcl": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 12,
+      "sentiment_avg": 0.04
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 6,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ]
+}
