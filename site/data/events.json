@@ -1,5 +1,335 @@
 [
   {
+    "id": "novatek-2026-11-11-001",
+    "date": "2026-11-11",
+    "companies": [
+      "novatek"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Novatek stock targets new products as AI pressure builds - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPc3JaTWE2VEFYbXU0RHU4M2hYVXlzUW5zbTVNUVUtY21rZ2l6aVhyZHBaUzRBOWUzQ0FqVWZnNUxsenBZMUdHRWRxeE1vYnlJVU1FSjJNTy10ZU5VZ0YwWHFvT19BRWJBRkt1TlBpb3",
+    "sources": [
+      {
+        "name": "novatek",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc3JaTWE2VEFYbXU0RHU4M2hYVXlzUW5zbTVNUVUtY21rZ2l6aVhyZHBaUzRBOWUzQ0FqVWZnNUxsenBZMUdHRWRxeE1vYnlJVU1FSjJNTy10ZU5VZ0YwWHFvT19BRWJBRkt1TlBpb3dCaGFZVkNIUVdwTU5GN3ZmblV2SUstZ0pQRUtvYUp0TERNZnZrR2FoWmNDdG1tVmRZTlRLaFBzZ0dhckQxN1l5c0JOVk43Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-11-002",
+    "date": "2026-11-11",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display Wins Top Patent Award for Slimmer OLED TV Bezels - THE ELEC, Korea Electronics Industry Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFdlJNUkpMYTc5dHpWam5pZzc0ZV9CbjdHanBtOVVxeGZqMk5CcHNmYzFuS3NFNzZidGZ6Wk41akJYbnRveHdoOW9fMVA1XzB1UHFmT05acEtNMWUyOVNzemlnM0dFeG8?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFdlJNUkpMYTc5dHpWam5pZzc0ZV9CbjdHanBtOVVxeGZqMk5CcHNmYzFuS3NFNzZidGZ6Wk41akJYbnRveHdoOW9fMVA1XzB1UHFmT05acEtNMWUyOVNzemlnM0dFeG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-11-003",
+    "date": "2026-11-11",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG's 97-inch OLED panel getting major upgrade in 2027 - FlatpanelsHD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1zZWUwdXE3NUhIS001MVBWOWdBcl8tek5BRk5TSGxrampyeWVwaVJoaHBzcTFKcUs0MWNMRHlhUHNIaHJHVndmcHg2YUNJUWc1V0tTZGlYVU9iOVJGUVBvdVExLUtVRFBlM29YbWFDWm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zZWUwdXE3NUhIS001MVBWOWdBcl8tek5BRk5TSGxrampyeWVwaVJoaHBzcTFKcUs0MWNMRHlhUHNIaHJHVndmcHg2YUNJUWc1V0tTZGlYVU9iOVJGUVBvdVExLUtVRFBlM29YbWFDWmIzZ0lCY3poYzVB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-11-004",
+    "date": "2026-11-11",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display's Turnaround Under CEO Jeong Cheol-dong - THE ELEC, Korea Electronics Industry Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wckZzWWJhLS1obTcwQUJqVUtJNVBNQm4zVk1GTVdnaG9SSzhYZk5wVWR6NlFnbFg0c1dmbEpIU0NwdktzbWhjY19RYWlQSjFKR0VPbzhpOXY0Tnc1bWlMS2UtZVczRkE?oc=5\" targ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wckZzWWJhLS1obTcwQUJqVUtJNVBNQm4zVk1GTVdnaG9SSzhYZk5wVWR6NlFnbFg0c1dmbEpIU0NwdktzbWhjY19RYWlQSjFKR0VPbzhpOXY0Tnc1bWlMS2UtZVczRkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-11-11-005",
+    "date": "2026-11-11",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology's Controlling Shareholder Boosts Stake to 14.43% via Gratuitous Transfer - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmJ2eFFSSld1REFoU09HcVlZWjNFbWp4NDlnSG1jOWlhQ0hobjJUdEc0REJYZmhJSjJiVlJFZHFXWGsyYmY0VDZpMjhjMFV4WUZNWGk0RUktb3l3dHBVbGR5VVdxd0JxUmRQSEo1Qm",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmJ2eFFSSld1REFoU09HcVlZWjNFbWp4NDlnSG1jOWlhQ0hobjJUdEc0REJYZmhJSjJiVlJFZHFXWGsyYmY0VDZpMjhjMFV4WUZNWGk0RUktb3l3dHBVbGR5VVdxd0JxUmRQSEo1Qm1jVWxhZUR5UWQ4a19uc1VfTWRMYklmU0tXanVMYldYeGljMnJ1Y2JuLUwyaWZQcEs2dzZyMG12S0NtLVdGcWNGSUJva2hYRURjeVhFMWZGYXo2THRiLTJidzZOZlBsT3owRUk2MEln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-006",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Researchers design flexible, metal-free TADF molecules for efficient orange-to-red OLEDs",
+    "summary": "<p>Researchers from Japan's University of Osaka, working with partners in Poland, Denmark and the UK, have developed metal-free orange-to-red <a href=\"https://www.oled-info.com/tadf\">TADF</a> emitters",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/researchers-design-flexible-metal-free-tadf-molecules-efficient-orange-red",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-007",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "OLED Emitter Systems, Part 2: Phosphorescence - 100% efficiency, still waiting on blue",
+    "summary": "<p>The OLED emitter is the material at the heart of every pixel, the organic molecule that actually turns electricity into light. Everything else in the stack exists to deliver charge to it. The emitt",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/oled-emitter-systems-part-2-phosphorescence-100-efficiency-still-waiting-blue",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-008",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI server tracker: Beyond GPUs, chassis, power supplies, rail kits and cooling capture a bigger growth story",
+    "summary": "Taiwan's AI server component suppliers are surpassing last year's revenue well before December. Eleven of the 13 companies tracked across chassis, power supplies, rail kits and thermal management had ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261111VL220/ai-server-revenue-chassis-2025-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-009",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Buima battery orders stretch six months as LEO projects advance",
+    "summary": "Buima Energy reported a slight month-on-month increase but a year-on-year decline in October 2026 revenue, as construction projects entered completion and acceptance phases while battery module shipme",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261111PD254/buima-leo-revenue-business-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-11-010",
+    "date": "2026-11-11",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung reportedly buys four silicon photonics patents from Rockley",
+    "summary": "Samsung Electronics acquired four US silicon photonics patents from UK-based Rockley Photonics in September 2026, South Korea's <em>Shinailbo</em> reported on November 11, citing US Patent and Tradema",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261111VL219/samsung-silicon-photonics-2026-cpo.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-11-11-011",
+    "date": "2026-11-11",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon to launch KrF lithography scanner rated at 400 wafers per hour in December",
+    "summary": "Canon Inc. said on November 10, 2026, that it will launch the FPA-6400ES6a, a krypton fluoride (KrF) scanner for manufacturing memory and logic semiconductors, in early December 2026. The company's re",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261111PR200/canon-launch-scanner-2026-wafer.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-11-012",
+    "date": "2026-11-11",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung targets early 2027 for first 3D Cube-H design kit",
+    "summary": "Samsung Electronics aims to complete its first 3D Cube-H design kit, a hybrid copper bonding technology for vertically stacked logic chips, in early 2027, with prospective customer evaluations to foll",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261111VL210/samsung-3d-design-2027-technology.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-013",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "OpenAI 3Q26 revenue tops US$10B as losses persist",
+    "summary": "OpenAI's revenue reached US$10 billion in the third quarter of 2026, up nearly 50% quarter-on-quarter, driven by demand from enterprises and new model products. However, its adjusted operating loss wi",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261111PD256/openai-revenue-2026-loss-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-014",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Dynamic Holding posts record 3Q26 revenue and profit on mix, price hikes",
+    "summary": "PCB maker Dynamic Holding reported October 2026 consolidated revenue of NT$10.637 billion (approx. US$323.6 million), down slightly from NT$10.648 billion in September as extended holidays reduced wor",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261111PD257/dynamic-pcb-revenue-profit-price.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-015",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Infineon says data center orders already exceed target as factory output sets ceiling",
+    "summary": "Infineon Technologies told analysts that demand is no longer what limits its growth. On a November 10 call to discuss its fiscal 2026 results, the German chipmaker said orders for its data center powe",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261111VL218/infineon-demand-data-center-growth-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-016",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Ingentec revenue jumps 79% in first 10 months",
+    "summary": "Ingentec&rsquo;s consolidated revenue reached NT$1.329 billion (US$40.4 million) from January to October 2026, up 79.32% from the same period in 2025. However, October revenue fell 8.59% month-over-mo",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261111PD216/revenue-2025-shipments-2026-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-017",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AI's grip on capacitor supply leaves consumer electronics facing steeper price hikes",
+    "summary": "Nichidenbo Corporation said successive AI server generations, designed for higher power consumption and voltages, are increasing demand for high-end capacitors offering high capacitance and resistance",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261111PD244/ndb-price-electronics-ai-server-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-018",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Infineon's record quarter shows power chips moving from cyclical recovery to AI-led growth",
+    "summary": "Infineon Technologies ended fiscal 2026 with its strongest quarter ever, and the shape of the result says more than its size: profitability rose much faster than sales, and the German chipmaker now pl",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261111VL217/infineon-power-semiconductors-data-growth-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-11-10-001",
     "date": "2026-11-10",
     "companies": [
@@ -307,6 +637,63 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNVk1UjhoODdaOGpPdWhSbjc4SE5rV2dRb1dXZzNwYXRaN01oQ0l3T2hDU3N1V09PdE9XRjJCOWZGYmE3LXhUV1g4OUQ3MXZpd0JxdUZTWngyX1BEbUJoak8zdktiQ2tHbEVLSURma2NNX0h1UlMteGtrenAteUxCN2U0djdKb2pkMVlMSzl0Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-11-10-017",
+    "date": "2026-11-10",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Funds from operations of BOE Technology Group Co., Ltd. Class A – SZSE:000725 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlhVblBjS2JVNjBSY09oRWNVWDA2dkJKWjdGbkhHaUxIcG5Yc1NNZ0kxdzFzMHhPMDVCOWoxWlFHV3VBV2Raa3loTUl3ejVabkpiRjNWYVlWSlhpd204dTBOcWNSMHhmSFZJc1hzeF",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlhVblBjS2JVNjBSY09oRWNVWDA2dkJKWjdGbkhHaUxIcG5Yc1NNZ0kxdzFzMHhPMDVCOWoxWlFHV3VBV2Raa3loTUl3ejVabkpiRjNWYVlWSlhpd204dTBOcWNSMHhmSFZJc1hzeFhzWmp3ZmNOamZ2OXdGY0hXSzdmLWdveUxOME13S1VkMkxWUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-10-018",
+    "date": "2026-11-10",
+    "companies": [
+      "tcl",
+      "csot"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Large-Scale Printed OLED Manufacturing: TCL CSOT Advances Inkjet OLED Production with New… - Trend Hunter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1yQk91Y01RdGpCQUZQa3ljQTQxT2YtVDh5emJzOGQxWjAtN211S1dyVFdHSGhaVlB4V3dsc1NLN01RWExPQ2xzem9kSFJ5Ym9DNkJONWdQb0xkOTZGRk1NTVFoSnJzTWtaSEJjTHJLTT",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yQk91Y01RdGpCQUZQa3ljQTQxT2YtVDh5emJzOGQxWjAtN211S1dyVFdHSGhaVlB4V3dsc1NLN01RWExPQ2xzem9kSFJ5Ym9DNkJONWdQb0xkOTZGRk1NTVFoSnJzTWtaSEJjTHJLTTFYdGgwaFUxc3VUSDRjQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-10-019",
+    "date": "2026-11-10",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "Counterpoint: smartphone OLED panel shipments to decline 3% in 2026, while foldable OLED shipments to grow 23%",
+    "summary": "<p>Counterpoint Research says that global smartphone OLED panel shipments will decline by almost 3% in 2026, from 894 million units in 2025 to 829 million, as the memory supply crisis and rising produ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/counterpoint-smartphone-oled-panel-shipments-decline-3-2026-while-foldable-oled",
         "type": "rss"
       }
     ]

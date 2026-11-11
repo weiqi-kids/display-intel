@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T16:04:48.732048Z",
+  "updated_at": "2026-11-11T15:51:35.236830Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -177,17 +177,17 @@
       "name": "聯詠",
       "ticker": "3034.TW",
       "currency": "TWD",
-      "ar": 20396313000,
-      "ar_prev": 17923851000,
-      "ar_qoq": "+14%",
+      "ar": 22724148000,
+      "ar_prev": 20396313000,
+      "ar_qoq": "+11%",
       "ar_period": "QoQ",
-      "inventory": 13310220000,
-      "inv_prev": 10851128000,
-      "inv_qoq": "+23%",
+      "inventory": 18054550000,
+      "inv_prev": 13310220000,
+      "inv_qoq": "+36%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "samsung_elec",

@@ -1,0 +1,16 @@
+{
+  "total_raw": 358,
+  "dup_title": 122,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 36,
+  "gate2_fail": 10,
+  "passed": 21,
+  "gate2_samples": [
+    "Corning Incorporated (GLW.VI) Seasonal Returns Chart - Yahoo! Finance Canada",
+    "Corning stock rises 5.26% as optical growth stays in focus - ad-hoc-news.de",
+    "Novatek Microelectronics Corp. (3034.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Sing",
+    "Raydium Semiconductor Corporation (3592.TW) Seasonal returns chart - Yahoo Finance UK",
+    "Raydium Semiconductor Corporation (3592.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance S"
+  ]
+}

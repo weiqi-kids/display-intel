@@ -1,0 +1,243 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T15:51:39.038881Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-11-11-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Wins Top Patent Award for Slimmer OLED TV Bezels - THE ELEC, Korea Electronics Industry Media",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFdlJNUkpMYTc5dHpWam5pZzc0ZV9CbjdHanBtOVVxeGZqMk5CcHNmYzFuS3NFNzZidGZ6Wk41akJYbnRveHdoOW9fMVA1XzB1UHFmT05acEtNMWUyOVNzemlnM0dFeG8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-11-11-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display's Turnaround Under CEO Jeong Cheol-dong - THE ELEC, Korea Electronics Industry Media",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wckZzWWJhLS1obTcwQUJqVUtJNVBNQm4zVk1GTVdnaG9SSzhYZk5wVWR6NlFnbFg0c1dmbEpIU0NwdktzbWhjY19RYWlQSjFKR0VPbzhpOXY0Tnc1bWlMS2UtZVczRkE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-11-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "AI server tracker: Beyond GPUs, chassis, power supplies, rail kits and cooling capture a bigger growth story",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20261111VL220/ai-server-revenue-chassis-2025-taiwan.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-11-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "OpenAI 3Q26 revenue tops US$10B as losses persist",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261111PD256/openai-revenue-2026-loss-growth.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-11-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Dynamic Holding posts record 3Q26 revenue and profit on mix, price hikes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261111PD257/dynamic-pcb-revenue-profit-price.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 9,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 3
+      },
+      {
+        "id": "lg_display",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "novatek",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "oled_penetration",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 358,
+    "dup_title": 122,
+    "too_old": 169,
+    "gate1_blocked": 36,
+    "gate2_blocked": 10,
+    "passed": 21,
+    "pass_rate": "8.9%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Corning Incorporated (GLW.VI) Seasonal Returns Chart - Yahoo! Finance Canada",
+      "Corning stock rises 5.26% as optical growth stays in focus - ad-hoc-news.de",
+      "Novatek Microelectronics Corp. (3034.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Sing",
+      "Raydium Semiconductor Corporation (3592.TW) Seasonal returns chart - Yahoo Finance UK",
+      "Raydium Semiconductor Corporation (3592.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance S"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為LG電子、LGD、三星電子相關動態：「LG Display Wins Top Patent Award for Slimmer OLED TV Beze...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LG Display Wins Top Patent Award for Slimmer OLED TV Bezels - THE ELEC, Korea...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display's Turnaround Under CEO Jeong Cheol-dong - THE ELEC, Korea Electron...",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
