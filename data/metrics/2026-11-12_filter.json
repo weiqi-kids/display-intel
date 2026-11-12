@@ -1,0 +1,16 @@
+{
+  "total_raw": 357,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 169,
+  "gate1_fail": 36,
+  "gate2_fail": 11,
+  "passed": 27,
+  "gate2_samples": [
+    "Corning Incorporated (GLW.VI) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Corning in focus as Jefferies starts with Buy rating (GLW:NYSE) - Seeking Alpha",
+    "Corning stock rises 5.26% as optical growth stays in focus - ad-hoc-news.de",
+    "Raydium Semiconductor Corporation (3592.TW) Seasonal returns chart - Yahoo Finance UK",
+    "Himax Technologies (HIMX) Stock Could Be Cheap Despite Its 59% Run - Yahoo Finance"
+  ]
+}

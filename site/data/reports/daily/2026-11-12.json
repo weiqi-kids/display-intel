@@ -1,0 +1,321 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T16:34:09.767063Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-11-12-007",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Seeks Breakthrough Amid China's Push; President Jeong Cheoldong: \"We Must Keep Taking on More Difficult Challenges\" - 아시아경제",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00TEV5aWlyUnNmMUkwaVFJejZtZTJvR0xzNTRaR1NabHVWUEExYklDUFQ5QjJjWVFOcVpTSHJ3amJiNVNyRzI4a0dFcFQ3a2R0TWk5bVlmSl9nLTU0Y015cmhMY24?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung_elec-2026-11-12-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung Display, LG Display Plan OLED Monitor Panel Price Hikes in 2027 - THE ELEC, Korea Electronics Industry Media",
+      "companies": [
+        "samsung_elec",
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec",
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "panel_price",
+        "oled_penetration",
+        "it_panel_demand"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IU3Jfb2lQNk5yN3RnbFJHTW9OUWxxSUZ0NWp0eWxUNVhKV1Q4V3NieFl2UUNUbGlORS05T3hNYVVaM2g5VzNGbnN4V1pLSWFGYmpSWTd6RUdGMWhfSjc2Y1BLVnhvcEk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-11-12-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "South Korea's LG Display Hosts First Internal Tech Workshop 'TechX,' Unveils Next-Gen OLED Patterning Technology FLiPP - BigGo Finance",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1odXZHbUtNd2hjYU43UV9UMlI5OEFOOXFILUN5UUpLVnZPeXBYUUhJTTNtcGJVaTdQWmg3RjNWUUM3NGZsclkxTkZNTnpUWkxTWUVhNUt3X3FMTHNuNV95RTR2RTlVQnNSRlp0ekQyNVdaSVdwQWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_elec-2026-11-12-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display hosts Tech X to showcase next-gen OLED and AI initiatives - Chosunbiz",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54RHoxUk5sRGJFWUVLMTcyWW5hQ1Y2R2Rhb1plQmRYSUtjdGxFc1RZSlRmWldBWGJlNXJ3OGliQmlvTFJhVmxMRUtva0pVSEJOZ2dUNXFhNFFxWGdwZm9Ed3J4V0lERy1CeEkxa1M4OFI0MUc1YWwyWVBn0gGOAUFVX3lxTE1ZNHotdERaYXRUblh0ZDBEUmVHaDUybGJ1TGdCNDRTMUs1R25nSHhQaGtESlVoU3J0TTJ2MlE0eXBQLVZ1M2RVNnlObWZQOHBoVzlpcDhMbjVKWlY2MXN5aEJHc29SdjBsczMxSkZuWUhPMEEtb01CdEhfN1pNbW5YM3NSN01ya1U2aS1qUmc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_elec-2026-11-12-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display holds first TechX technology workshop - 디지털투데이",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa1ptMmQxQ0o4REdOTW1fS0lINHZ0UUVuUkNzaW9tbHlJbEE4STJmd0w2b1g2eWRnM2FQVGxQWi1NUHRlc3R6UFhHNUNsWUVoZ21yUFUxRHB0dlNjTjV6VzlmMXFiUS1GY28xLUM5NHNQd1Rya3JXOGxzZXdfanI3Z0xodUZvaFIzaUJPRWlHZzZGMGFWNjdFbl9n?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.21,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 7,
+      "topics": [
+        "it_panel_demand",
+        "panel_price",
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 15,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 7
+      },
+      {
+        "id": "lg_display",
+        "count": 7
+      },
+      {
+        "id": "samsung_elec",
+        "count": 5
+      },
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "oled_penetration",
+        "count": 7
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 1
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 357,
+    "dup_title": 114,
+    "too_old": 169,
+    "gate1_blocked": 36,
+    "gate2_blocked": 11,
+    "passed": 27,
+    "pass_rate": "11.1%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "Corning Incorporated (GLW.VI) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Corning in focus as Jefferies starts with Buy rating (GLW:NYSE) - Seeking Alpha",
+      "Corning stock rises 5.26% as optical growth stays in focus - ad-hoc-news.de",
+      "Raydium Semiconductor Corporation (3592.TW) Seasonal returns chart - Yahoo Finance UK",
+      "Himax Technologies (HIMX) Stock Could Be Cheap Despite Its 59% Run - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為LG電子、LGD、三星電子相關動態：「LG Display Seeks Breakthrough Amid China's Push; Presiden...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LG Display Seeks Breakthrough Amid China's Push; President Jeong Cheoldong: \"...",
+        "level": "red"
+      },
+      {
+        "text": "Samsung Display, LG Display Plan OLED Monitor Panel Price Hikes in 2027 - THE...（面板價格、OLED 滲透率、IT 面板需求）",
+        "level": "red"
+      },
+      {
+        "text": "面板價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
