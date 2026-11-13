@@ -1,0 +1,287 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T15:56:04.560197Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tcl-2026-11-13-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "TCL CSOT’s Inkjet-printed OLED displays are ready for their close-up - Trusted Reviews",
+      "companies": [
+        "tcl",
+        "csot"
+      ],
+      "related": {
+        "customers": [
+          "tcl"
+        ],
+        "suppliers": [
+          "csot"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWExBTkQyZ0Z3bWhtQmVQVnZzcnB2SklWekZjMU9hUGF1Sl81bTU5eVZtTVcxV2gtdTZIdmltMGx6N0RNZ0NFWXB6SWtDU0NRM0NqZlBtX1FHQXNDSHF5Q1lRQmh0Mk1hbnlhNVZZTVVvcF8teXc0TUk0LXVaWUR2bmFlOTBTVGpyUzJKX3B4VFhxelVrUWo0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_display-2026-11-13-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Sigmaintell: Samsung Display and LG Display to raise OLED monitor panel prices in 2027, as memory costs surge",
+      "companies": [
+        "lg_display",
+        "lg_elec",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec",
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "panel_price",
+        "oled_penetration",
+        "it_panel_demand"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/sigmaintell-samsung-display-and-lg-display-raise-oled-monitor-panel-prices-2027"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-11-13-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "TCL CSOT reveals its inkjet printed OLED material supply chain, as LG Electronics considers printed OLED monitors for 2028-2029",
+      "companies": [
+        "lg_elec",
+        "tcl",
+        "csot"
+      ],
+      "related": {
+        "customers": [
+          "tcl"
+        ],
+        "suppliers": [
+          "csot"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/tcl-csot-reveals-its-inkjet-printed-oled-material-supply-chain-lg-electronics"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-13-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Solus Advanced Materials reports record quarterly OLED material sales in Q3 2026, up 26% from Q2",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.oled-info.com/solus-advanced-materials-reports-record-quarterly-oled-material-sales-q3-2026"
+    },
+    {
+      "rank": 5,
+      "event_id": "innolux-2026-11-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Innolux's First Three Quarters Profit Surges to NT$13.8 Billion, Up More Than 50-Fold Year-on-Year; Fourth-Quarter Panel Market Outlook Dims - BigGo Finance",
+      "companies": [
+        "innolux"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EbWhjVG84Rk81UGszRkpaOThHWFphZHBkU0pseWdYNUFUNk5ZajhuMFZhNlhvSVdIWV9pU0R6REY3c3F2clp4Z09wSmJUSWdnM0dCdHRzUVVkNjhLU3FPTnhpbG52bllzY0R3cE9QOGVwclNqQkE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "csot",
+      "to": "tcl",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tcl",
+        "count": 3
+      },
+      {
+        "id": "csot",
+        "count": 2
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "innolux",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 338,
+    "dup_title": 125,
+    "too_old": 166,
+    "gate1_blocked": 26,
+    "gate2_blocked": 11,
+    "passed": 10,
+    "pass_rate": "4.7%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "Corning in focus as Jefferies starts with Buy rating (GLW:NYSE) - Seeking Alpha",
+      "Corning stock rises 5.26% as optical growth stays in focus - ad-hoc-news.de",
+      "Corning Incorporated (GLW.VI) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "Raydium Semiconductor Corporation (3592.TW) Seasonal returns chart - Yahoo Finance UK",
+      "Himax Technologies (HIMX) Stock Could Be Cheap Despite Its 59% Run - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為TCL Technology、CSOT、LG電子相關動態：「TCL CSOT’s Inkjet-printed OLED displays are ready for the...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "TCL CSOT’s Inkjet-printed OLED displays are ready for their close-up - Truste...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Sigmaintell: Samsung Display and LG Display to raise OLED monitor panel price...（面板價格、OLED 滲透率、IT 面板需求）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
