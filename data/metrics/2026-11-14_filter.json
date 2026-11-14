@@ -1,0 +1,16 @@
+{
+  "total_raw": 359,
+  "dup_title": 120,
+  "no_date": 0,
+  "too_old": 178,
+  "gate1_fail": 31,
+  "gate2_fail": 11,
+  "passed": 19,
+  "gate2_samples": [
+    "Corning in focus as Jefferies starts with Buy rating (GLW:NYSE) - Seeking Alpha",
+    "Union Chill Corning: Dispensary Near the Corning Museum of Glass - stupidDOPE",
+    "Corning stock rises 5.26% as optical growth stays in focus - ad-hoc-news.de",
+    "Himax Technologies, Inc. (HIMX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Himax Technologies (HIMX) Stock Could Be Cheap Despite Its 59% Run - Yahoo Finance"
+  ]
+}

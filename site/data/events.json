@@ -1,5 +1,138 @@
 [
   {
+    "id": "tcl-2026-11-14-001",
+    "date": "2026-11-14",
+    "companies": [
+      "tcl",
+      "csot"
+    ],
+    "topics": [
+      "oled_penetration",
+      "it_panel_demand"
+    ],
+    "impact": "neutral",
+    "title": "TCL CSOT shows four-subpixel dual-mode OLED prototypes, including an RGBB panel with a blue phosphorescent subpixel",
+    "summary": "<p><a href=\"https://www.oled-info.com/csot-oled\">TCL CSOT</a> showed three four-subpixel \"dual-mode\" OLED prototypes at its annual DTC 2026 event, held yesterday Wuhan. These are FMM-evaporated RGB OL",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/tcl-csot-shows-four-subpixel-dual-mode-oled-prototypes-including-rgbb-panel",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-11-14-002",
+    "date": "2026-11-14",
+    "companies": [
+      "boe",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "After settling with Samsung, Pictiva Displays sues BOE for OLED patent infringement",
+    "summary": "<p>Ireland-based patent licensing company <a href=\"https://www.oled-info.com/pictiva-displays\">Pictiva Displays</a>, together with its parent company Key Patent Innovations, filed an OLED patent infri",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/days-after-settling-samsung-pictiva-displays-sues-boe-oled-patent-infringement",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-003",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Gemtek returns to profitability on direct-supply expansion, eyes AI infrastructure and optical module growth in 2027",
+    "summary": "Taiwan-based networking equipment maker Gemtek Technology is gaining momentum in its business recovery following a challenging business-model transition, returning to operating profitability in the th",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261112PD222/gemtek-networking-ic-equipment-business-growth-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-004",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Etron plans strategic stake in Powerchip Innovation Investment",
+    "summary": "Memory IC designer Etron Technology reported strong Q3 2026 results on robust memory demand and rising product prices, with revenue reaching NT$6.792 billion (US$206.6 million), up 38.6% quarter-over-",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261112PD224/etron-ic-2026-revenue-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-005",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Pegatron sees networking recovery in 2027 as consumer electronics growth eases after peak",
+    "summary": "Pegatron held an online earnings call on November 12, providing updates and an outlook for its product lines beyond servers. The company said revenue from all three major product lines of information ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261112PD249/pegatron-electronics-growth-2027-recovery.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-006",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI server tracker: Aspeed tops NT$2 billion as cable suppliers diverge",
+    "summary": "Aspeed Technology posted its highest monthly revenue in records dating back to January 2019. BizLink's October sales also rose sharply, partly reflecting its first full month of consolidating Interple",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261111VL224/aspeed-bizlink-growth-revenue-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-007",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI lifts Foxconn profits as ROE targets 12%",
+    "summary": "Foxconn (Hon Hai) expects continued operational growth in 2027 as AI demand expands, chairman Young Liu said at the company's third-quarter 2026 earnings briefing on November 12. However, he warned th",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261113PD207/foxconn-demand-2025-2027-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-11-13-001",
     "date": "2026-11-13",
     "companies": [
@@ -139,6 +272,179 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/solus-advanced-materials-reports-record-quarterly-oled-material-sales-q3-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-11-13-008",
+    "date": "2026-11-13",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why is Corning stock down 6.1% today? - Traders Union",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQakx1ZnJNZW5Sc3c5NUo3dUhfNm1TdlhQaDZDODFtaXQ3cVJrdVh2R3JWWFRfU2l5UGVwQ01ycUtnQjlXTUF1YUpIQ01mcUc2clVSdEoteElSdGxhbC0zU1o0ZlFDd25oWGlDRzNBLW",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQakx1ZnJNZW5Sc3c5NUo3dUhfNm1TdlhQaDZDODFtaXQ3cVJrdVh2R3JWWFRfU2l5UGVwQ01ycUtnQjlXTUF1YUpIQ01mcUc2clVSdEoteElSdGxhbC0zU1o0ZlFDd25oWGlDRzNBLWI5cmFHbkwycmh3cWNlY0tjRjl0djAtejRVTDBtX19QMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-11-13-009",
+    "date": "2026-11-13",
+    "companies": [
+      "lg_display",
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [
+      "panel_price",
+      "oled_penetration",
+      "it_panel_demand"
+    ],
+    "impact": "neutral",
+    "title": "Sigmaintell: Samsung Display and LG Display to raise OLED monitor panel prices in 2027, as memory costs surge - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxONEh1ZUVwWHRkcHVKWkNESFJyYXRNQXBzc0RKRTZTR0hZNmlMZHlJQmhIb21RNjc1VG1WMjM4TTJ2UU9oU2hnbXN0RGt6WVdFZWpnVHpnZDhSa3dXTFlEN2VnMThDZ0M3TWJfa3RUVm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONEh1ZUVwWHRkcHVKWkNESFJyYXRNQXBzc0RKRTZTR0hZNmlMZHlJQmhIb21RNjc1VG1WMjM4TTJ2UU9oU2hnbXN0RGt6WVdFZWpnVHpnZDhSa3dXTFlEN2VnMThDZ0M3TWJfa3RUVm1wQjN2OXFVOVhoc29jNVF4Ylc4djdDbmZ6aXl4Qm9zcnlTNmtkVGNBVGxNMlBySHA4Rlh3U3FUd1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-13-010",
+    "date": "2026-11-13",
+    "companies": [
+      "tcl",
+      "csot"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "TCL CSOT shows off new IJP OLED laptop display with super-slim bezels at DTC 2026 - Notebookcheck",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUhSbXFYNko5UjBJU0hMR2ZkOTB6QVA1NHdNVWl2UnZsLVF2ZDZrOG5WZ1dDVlJSQXNZd0x4SkRIQnFNMV8tSTB3cVNCc1loRGllR3hwbzVrZC02cF9BWW50RTJiWVJsNnR1Tnh1M0",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQUhSbXFYNko5UjBJU0hMR2ZkOTB6QVA1NHdNVWl2UnZsLVF2ZDZrOG5WZ1dDVlJSQXNZd0x4SkRIQnFNMV8tSTB3cVNCc1loRGllR3hwbzVrZC02cF9BWW50RTJiWVJsNnR1Tnh1M0VyZ3FLWkhlaDQ1UW92bUY0czBNUldNUXgyVUNpQ2RtckFJNm1EQVcxT0YzRlRVdHBpZV91N0NmUlo0b2pBTDhPQ0lkSU5NdVo5MExFR0l3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-011",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Some users of Apple's new OLED MacBook Pro report eye strain and dizziness, blame the display's 240Hz PWM dimming",
+    "summary": "<p>Apple started shipping its <a href=\"https://www.oled-info.com/apple-announces-its-first-oled-laptop-macbook-pro-proled-xdr-display\">first OLED laptop, the MacBook Pro with PROLED XDR Display</a>, o",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/some-users-apples-new-oled-macbook-pro-report-eye-strain-and-dizziness-blame",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-012",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Commentary: From industry definer to industry participant? Nvidia's 2035 outlook in post-Jensen Huang Era",
+    "summary": "When Jensen Huang's resignation took effect on November 12, most of the market's attention turned to who would be Nvidia's next CEO. However, a better starting point for judging what Nvidia will look ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261113VL234/2035-nvidia-jensen-huang-ai-outlook.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-013",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "E Ink targets 2027 revenue from PTFE materials for AI data centers",
+    "summary": "E Ink Holdings is expanding into materials for AI data centers through a partnership with Taiflex Scientific. The electronic paper maker expects its first revenue from polytetrafluoroethylene (PTFE) m",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261113PD230/materials-e-ink-revenue-2027-data-center.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-014",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Mars Semiconductor posts slight revenue growth, expects eBMC orders in 2H27",
+    "summary": "Mars Semiconductor's cumulative revenue for the first three quarters of 2026 edged up from the same period in 2025, while quarterly results rose steadily and EPS growth was significant, company Vice P",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261113PD208/mars-semiconductor-revenue-growth-2026-ddr.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-13-015",
+    "date": "2026-11-13",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Samsung weighs separating memory and mobile leadership",
+    "summary": "Samsung Electronics may appoint separate heads of its memory and mobile businesses in an upcoming executive reshuffle, as record semiconductor profits contrast with losses in its consumer electronics ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261113VL233/samsung-mobile-development-revenue-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-016",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Cerebras Systems 3Q26 earnings: macro resilience, sector performance, and future outlook",
+    "summary": "Cerebras Systems reported third-quarter 2026 results, delivering record core revenue of US$231 million, up 10% sequentially and 70% year-over-year, and positive core net income of US$30 million, its f",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261113VL231/cerebras-2026-performance-earnings-revenue.html",
         "type": "rss"
       }
     ]
@@ -622,6 +928,24 @@
     ]
   },
   {
+    "id": "boe-2026-11-12-026",
+    "date": "2026-11-12",
+    "companies": [
+      "boe"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BOE Technology to Pay Interest on 1 Billion Yuan Bonds - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTRDTW0xOU1KUUJtc1NDMmdTZFBya2hhMjNUbWtpd3NrZEh1UHRXb0lpT2dnY1BacExmSG1TZ1R3ZTc5ZWRoU3ZYd3ZqaXNvT1pPZVJTY3lIWV8xd1M0VE5ZZHEwUGpNUmpQcEJocT",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTRDTW0xOU1KUUJtc1NDMmdTZFBya2hhMjNUbWtpd3NrZEh1UHRXb0lpT2dnY1BacExmSG1TZ1R3ZTc5ZWRoU3ZYd3ZqaXNvT1pPZVJTY3lIWV8xd1M0VE5ZZHEwUGpNUmpQcEJocTRBc0JMc3J0b1BiYmtsdEJBbWtvZGZyVnlGQklJdnBpMWVuMUdlSll4Z080bjV1OG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "novatek-2026-11-11-001",
     "date": "2026-11-11",
     "companies": [
@@ -1043,6 +1367,26 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd1V0aGRlTmxMU1E5RjhpWFV2MTA4VmlscU5nR1hfN2Jibkt5TEEzbUFPTUNpOEx1RDZlSU5tSDZiSTBNbk92Z1JsZE5TRS1KMFBfNXBNM0F3d0p4eVZMenByNTUyVE40MXFDTUd5N1k4T3J2QW42YjR0N29PZFMwLUI2azB4Q1NiU3FCcHc2WmFWUDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-11-024",
+    "date": "2026-11-11",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Monitor market sidesteps chipflation as LG OLED expands to mid-sized manufacturers - 매일경제",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kaEMwdzhKcUZuQTZNWS1DSmk2QnRiNElKMVg3Ung5TWRtWnJ2V2ZhWExsUW9reURvVW9NcGZaTlBrSm5SQzR6cXZmYUxDamVaSFhj?oc=5\" target=\"_blank\">Monitor market ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kaEMwdzhKcUZuQTZNWS1DSmk2QnRiNElKMVg3Ung5TWRtWnJ2V2ZhWExsUW9reURvVW9NcGZaTlBrSm5SQzR6cXZmYUxDamVaSFhj?oc=5",
         "type": "rss"
       }
     ]
@@ -1627,6 +1971,27 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/naintech-supply-substrate-transfer-equipment-tcl-csots-86-gen-inkjet-printed",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-09-012",
+    "date": "2026-11-09",
+    "companies": [
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [
+      "panel_price"
+    ],
+    "impact": "neutral",
+    "title": "Rising memory and LCD prices squeeze Samsung and LG's TV businesses from both sides - 머니투데이",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB3Y2I3Zm5OTnVUNlg1LWVaMEtrbXYxM00wanJOaDFIdzVEODNEaXRKT3ZqN0ptcUhpQXQ1NHZsZmNDOXZLLU9XdGtCOW5tX04tdGpRVUdpbkk0bUdIcUc1YVhmQVpqVUM1cXktX1NKbm",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3Y2I3Zm5OTnVUNlg1LWVaMEtrbXYxM00wanJOaDFIdzVEODNEaXRKT3ZqN0ptcUhpQXQ1NHZsZmNDOXZLLU9XdGtCOW5tX04tdGpRVUdpbkk0bUdIcUc1YVhmQVpqVUM1cXktX1NKbms?oc=5",
         "type": "rss"
       }
     ]

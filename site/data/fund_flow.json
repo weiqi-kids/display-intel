@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-13T15:56:01",
+  "updated_at": "2026-11-14T14:46:30",
   "etfs": {
     "SMH": {
       "name": "VanEck Semiconductor ETF",
-      "latest_price": 476.5,
-      "daily_change_pct": -5.03,
-      "flow_5d": 508468592,
-      "flow_20d": -1807436982,
+      "latest_price": 486.75,
+      "daily_change_pct": -2.99,
+      "flow_5d": 429602179,
+      "flow_20d": -1886303395,
       "flow_trend": "inflow",
       "daily_flow": [
         {
@@ -179,24 +179,24 @@
         },
         {
           "date": "2026-11-12",
-          "flow": -53216819,
-          "volume": 10175300,
+          "flow": -53399869,
+          "volume": 10210300,
           "change_pct": -1.03
         },
         {
           "date": "2026-11-13",
-          "flow": -106806487,
-          "volume": 4233313,
-          "change_pct": -5.03
+          "flow": -185489850,
+          "volume": 12382500,
+          "change_pct": -2.99
         }
       ]
     },
     "SOXX": {
       "name": "iShares Semiconductor ETF",
-      "latest_price": 146.16,
-      "daily_change_pct": -6.55,
-      "flow_5d": 359415613,
-      "flow_20d": -7804933157,
+      "latest_price": 149.3,
+      "daily_change_pct": -4.55,
+      "flow_5d": 284764582,
+      "flow_20d": -7879584188,
       "flow_trend": "inflow",
       "daily_flow": [
         {
@@ -375,18 +375,18 @@
         },
         {
           "date": "2026-11-13",
-          "flow": -252402406,
-          "volume": 24624625,
-          "change_pct": -6.55
+          "flow": -327053437,
+          "volume": 45999077,
+          "change_pct": -4.55
         }
       ]
     },
     "SOXQ": {
       "name": "Invesco PHLX Semiconductor ETF",
-      "latest_price": 77.91,
-      "daily_change_pct": -5.8,
-      "flow_5d": 20269516,
-      "flow_20d": -61809942,
+      "latest_price": 79.85,
+      "daily_change_pct": -3.46,
+      "flow_5d": 17228651,
+      "flow_20d": -64850807,
       "flow_trend": "inflow",
       "daily_flow": [
         {
@@ -565,9 +565,9 @@
         },
         {
           "date": "2026-11-13",
-          "flow": -1933819,
-          "volume": 402879,
-          "change_pct": -5.8
+          "flow": -4974684,
+          "volume": 1739400,
+          "change_pct": -3.46
         }
       ]
     }
