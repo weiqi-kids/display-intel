@@ -1,0 +1,228 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T15:18:54.250425Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung_elec-2026-11-15-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Prevalent Display sues Samsung over four former Innolux AMOLED patents",
+      "companies": [
+        "samsung_elec",
+        "innolux"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "innolux"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/prevalent-display-sues-samsung-over-four-former-innolux-oled-patents-names"
+    },
+    {
+      "rank": 2,
+      "event_id": "tcl-2026-11-15-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "TCL CSOT shows world's first OLED smartphone displays with blue PSF emitters",
+      "companies": [
+        "tcl",
+        "csot"
+      ],
+      "related": {
+        "customers": [
+          "tcl"
+        ],
+        "suppliers": [
+          "csot"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/tcl-csot-shows-what-it-calls-worlds-first-blue-phosphorescent-smartphone-oled"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung_elec-2026-11-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea Ranks No. 1 Worldwide with 4,207 High-Resolution Flexible Display Patents; Samsung Display Leads with 2,070 - BigGo Finance",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QRDlMU09rVnpWLWFlOHRjR294Q2VmYU5FY3JaZ2NBVWtublpxV29XdEpPcUtwNTRfWDdYTVJaY1NDMGFVRktSZWwwMVpvSHJQQ05vLXEyNHlHTXJsNkI2MERWdXUxM2JnYUZOaXU0NjZiNGlMM1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_elec-2026-11-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung’s Latest Products Recognized by Consumer Technology Association Ahead of CES 2027",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/samsungs-latest-products-recognized-by-consumer-technology-association-ahead-of-ces-2027"
+    },
+    {
+      "rank": 5,
+      "event_id": "boe-2026-11-15-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The OLED Marketplace reaches 200 displays with BOE's 48\" ultra-wide transparent OLED as our 200th listing",
+      "companies": [
+        "boe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/oled-marketplace-reaches-200-displays-boes-48-ultra-wide-transparent-oled-our"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "innolux",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      },
+      {
+        "id": "csot",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 3
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 357,
+    "dup_title": 119,
+    "too_old": 184,
+    "gate1_blocked": 32,
+    "gate2_blocked": 12,
+    "passed": 10,
+    "pass_rate": "4.2%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "Corning in focus as Jefferies starts with Buy rating (GLW:NYSE) - Seeking Alpha",
+      "Corning stock rises 5.26% as optical growth stays in focus - ad-hoc-news.de",
+      "Himax Technologies (HIMX) Stock Could Be Cheap Despite Its 59% Run - Yahoo Finance",
+      "What Himax Technologies Bulls Got Right - Simply Wall St",
+      "AUO Mobility Solutions to showcase next-gen smart cockpit at CES 2027 - digitimes"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為三星電子、Innolux、TCL Technology相關動態：「Prevalent Display sues Samsung over four former Innolux A...」。主要關注主題為OLED 滲透率、Mini LED，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Prevalent Display sues Samsung over four former Innolux AMOLED patents（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "TCL CSOT shows world's first OLED smartphone displays with blue PSF emitters（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

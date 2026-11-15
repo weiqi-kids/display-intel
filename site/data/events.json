@@ -1,5 +1,123 @@
 [
   {
+    "id": "samsung_elec-2026-11-15-001",
+    "date": "2026-11-15",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "South Korea Ranks No. 1 Worldwide with 4,207 High-Resolution Flexible Display Patents; Samsung Display Leads with 2,070 - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1QRDlMU09rVnpWLWFlOHRjR294Q2VmYU5FY3JaZ2NBVWtublpxV29XdEpPcUtwNTRfWDdYTVJaY1NDMGFVRktSZWwwMVpvSHJQQ05vLXEyNHlHTXJsNkI2MERWdXUxM2JnYUZOaXU0Nj",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QRDlMU09rVnpWLWFlOHRjR294Q2VmYU5FY3JaZ2NBVWtublpxV29XdEpPcUtwNTRfWDdYTVJaY1NDMGFVRktSZWwwMVpvSHJQQ05vLXEyNHlHTXJsNkI2MERWdXUxM2JnYUZOaXU0NjZiNGlMM1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-15-002",
+    "date": "2026-11-15",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung’s Latest Products Recognized by Consumer Technology Association Ahead of CES 2027",
+    "summary": "Samsung Electronics, a global leader in technology, today announced that a range of its products and services have been recognized by the Consumer Technology Association (CTA)® as part of the CES Inno",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/samsungs-latest-products-recognized-by-consumer-technology-association-ahead-of-ces-2027",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-15-003",
+    "date": "2026-11-15",
+    "companies": [
+      "samsung_elec",
+      "innolux"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Prevalent Display sues Samsung over four former Innolux AMOLED patents",
+    "summary": "<p>US-based Prevalent Display LLC, an IP company (a non-practicing entity,. or NPE), has filed a lawsuit against <a href=\"https://www.oled-info.com/samsung-oled\">Samsung Display</a>, Samsung Electroni",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/prevalent-display-sues-samsung-over-four-former-innolux-oled-patents-names",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-15-004",
+    "date": "2026-11-15",
+    "companies": [
+      "tcl",
+      "csot"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "TCL CSOT shows world's first OLED smartphone displays with blue PSF emitters",
+    "summary": "<p><a href=\"https://www.oled-info.com/csot-oled\">TCL CSOT</a> showed its first PSF emitter powered OLED displays at its DTC 2026 event. The company says that these are the world's first blue phosphore",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/tcl-csot-shows-what-it-calls-worlds-first-blue-phosphorescent-smartphone-oled",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-11-15-005",
+    "date": "2026-11-15",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "The OLED Marketplace reaches 200 displays with BOE's 48\" ultra-wide transparent OLED as our 200th listing",
+    "summary": "<p>We are happy to announce a milestone: the <a href=\"https://marketplace.oled-info.com/\">OLED Marketplace</a>, OLED-Info's free catalog of commercial OLED displays, now lists 200 displays! Fittingly,",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/oled-marketplace-reaches-200-displays-boes-48-ultra-wide-transparent-oled-our",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-15-006",
+    "date": "2026-11-15",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Impressive 75-inch LG mini LED TV drops to its lowest price yet in Amazon deal ahead of Black Friday sale - PC Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSi1LT1hSSE9NMkFHdHB2a1lkRGlSaUZURG50ek42U2U1b1NqUEVxbDltZTRMNjJxbTBvM1RKTVNsQVZhRzZ3RWpzWG80Zi16MmpRZVNCRmF5dy1KTXI5LUFqdzA2UUZQeEd5N1duQX",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSi1LT1hSSE9NMkFHdHB2a1lkRGlSaUZURG50ek42U2U1b1NqUEVxbDltZTRMNjJxbTBvM1RKTVNsQVZhRzZ3RWpzWG80Zi16MmpRZVNCRmF5dy1KTXI5LUFqdzA2UUZQeEd5N1duQXNJdjdLVFc3X3VDcWk0RWxJcV9mSU1VY2VqYjlCdDdyMjlIZUszb25EQ2YtWmxYMlZCYW9pdDZSdFZGa19naDhIYkxwWHF2ckhlUTFlSkMtRWJkd3EwYl9kMlFTWlozU3BVaFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tcl-2026-11-14-001",
     "date": "2026-11-14",
     "companies": [
@@ -128,6 +246,67 @@
       {
         "name": "digitimes_display",
         "url": "https://www.digitimes.com/news/a20261113PD207/foxconn-demand-2025-2027-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-14-008",
+    "date": "2026-11-14",
+    "companies": [
+      "tcl",
+      "csot"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL CSOT showcases wall-sized TVs with up to a 163-inch Micro LED panel - Notebookcheck",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOeHREM0lPR01UYTYzRFkxR2I1WEUwcjhKUGZLNF96WlBaR0JyV19UbEZVenJSSU5hQWZvdDRaQzEzWnVTZ0NUVVVUcjhOWE5ac09oRlpSdXQ3WVFCM0tmWmlmWUpYNTAzZHRBV0NFOH",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeHREM0lPR01UYTYzRFkxR2I1WEUwcjhKUGZLNF96WlBaR0JyV19UbEZVenJSSU5hQWZvdDRaQzEzWnVTZ0NUVVVUcjhOWE5ac09oRlpSdXQ3WVFCM0tmWmlmWUpYNTAzZHRBV0NFOHlqU2U2NE9jMXkzUjJOR1c1VXZCb25uam5UN3dJMUNQaFl1ZnlLSlVSVHFiUHhvSl9DWWN6QVZyRDg4d1I4UEh4dmdxbHBubUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-14-009",
+    "date": "2026-11-14",
+    "companies": [
+      "tcl",
+      "samsung_elec",
+      "csot"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "TCL CSOT shows a 360Hz 16-inch inkjet printed OLED laptop panel, surpassing Samsung's 300Hz display",
+    "summary": "<p><a href=\"https://www.oled-info.com/csot-oled\">TCL CSOT</a> showed a 16\" inkjet printed (IJP) OLED laptop panel with a refresh rate of 360Hz at its DTC 2026 event, held on November 13 in Wuhan. TCL ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/tcl-csot-shows-360hz-16-inch-inkjet-printed-oled-laptop-panel-surpassing",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-010",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lite-On sees AI server orders through 2028 as 800V DC reshapes power market",
+    "summary": "Lite-On expects AI-related revenue to account for 40%&ndash;50% of total revenue by 2027, driven by strong growth in high-end AI power systems. As US cloud customers continue expanding AI infrastructu",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261112PD231/lite-on-market-2028-ai-server-revenue.html",
         "type": "rss"
       }
     ]
@@ -941,6 +1120,24 @@
       {
         "name": "boe",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTRDTW0xOU1KUUJtc1NDMmdTZFBya2hhMjNUbWtpd3NrZEh1UHRXb0lpT2dnY1BacExmSG1TZ1R3ZTc5ZWRoU3ZYd3ZqaXNvT1pPZVJTY3lIWV8xd1M0VE5ZZHEwUGpNUmpQcEJocTRBc0JMc3J0b1BiYmtsdEJBbWtvZGZyVnlGQklJdnBpMWVuMUdlSll4Z080bjV1OG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-11-12-027",
+    "date": "2026-11-12",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Japan Display narrows first-half net loss after restructuring - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWM4UFRJMjFBb2YxRnNSN3hSYmFPNmdzQ0lpTzJlUklhdkFGZWw2NlFfc3hVUDVoTmRxYXNhQnRZSEwzTUhCbDE5aHRPQXY0RVlVX2F5UWRLOWRBWmFfNDVYU3NuSEljTV85WGFKN1",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWM4UFRJMjFBb2YxRnNSN3hSYmFPNmdzQ0lpTzJlUklhdkFGZWw2NlFfc3hVUDVoTmRxYXNhQnRZSEwzTUhCbDE5aHRPQXY0RVlVX2F5UWRLOWRBWmFfNDVYU3NuSEljTV85WGFKN1FHYXZZTVl0ZlkzRDBHQlNmRUwyRFFCSjlPTnhYV2hsYlk2d3dyTXh3Tmhnay1CVjZqRlN1dzV1MUFGVTRUcnJRajYxSUtYZ0xFbmc?oc=5",
         "type": "rss"
       }
     ]
