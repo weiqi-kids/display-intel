@@ -1,0 +1,298 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T17:55:30.068359Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "csot-2026-11-16-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "TCL CSOT Showcases Latest IJP OLED Developments and Display Innovations at DTC2026 - TechPowerUp",
+      "companies": [
+        "csot",
+        "tcl"
+      ],
+      "related": {
+        "customers": [
+          "tcl"
+        ],
+        "suppliers": [
+          "csot"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUFQ3SE51Qjg0dGlPcVBxZ3hXRHBFSzMwYWs4b1Zub21pbHpuZlJWcnQyd1E0Tmd2UnBlN1htZ1ZJRkd5cWJrek9XN3E2VlE0bnhxdHBoSjZLejhDWDJtZm9QRWVlUGQwQWdrenc1NW5lX2VJZll1NVBSSlZ4dE9DS0JfM1ZFajZGcllQUXNpOG0xeW9yVWJpeS1FT0FTVGE5dEZLS0lMR2d0SWZ5WE9wai1jSzljOHZa0gG-AUFVX3lxTE1EWjFLal9xV1RNZUZYTVRfdmp2MURROUJOaU4wMXVRd05zZ3BuSlRfYmltZlhDS2hXLUdzQW5vM0RfYldweUlra3ktWV8tVEc3cS1Zd0ktQ3lxQncwU21qXzllMWZJYV9udHRsYXlsbkFTU1NRSzRlYjQwNWo5VlRsSlBQck9FcXFuRzlsTVNXWFJPRFZUdUd4U3RUZXh0TURLLS15T1hQNGVUYmRDVDdRSm0tWGd2Q0QyNXhaLUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "csot-2026-11-16-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "TCL CSOT showcases three 10.95-inch OLED tablet displays with RGBX - Mezha.net",
+      "companies": [
+        "csot",
+        "tcl"
+      ],
+      "related": {
+        "customers": [
+          "tcl"
+        ],
+        "suppliers": [
+          "csot"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc1M4X1d0dFlaZHVHaXdLYVJIN0dKa0tSV3ZhTHdkbkhDZEtKMVJmVEtLUXNvQThtWFhlQ05XNEgxeTRnQ2lwZDZ1Szc0YXZPWTNpZFVJT0FjajJ0NHdoeFJqdXVTcG1DeFAwdG9Ld1FkWU1aMjhuMzlTX01ZRWRJb2xYMA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "csot-2026-11-16-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "TCL CSOT's 13-year printed OLED push reaches turning point with 70% yield, 2027 expansion - digitimes",
+      "companies": [
+        "csot",
+        "tcl"
+      ],
+      "related": {
+        "customers": [
+          "tcl"
+        ],
+        "suppliers": [
+          "csot"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcV9Fek9RT19HWXh2YnBkcVczXzdNUEt4RVdFSGJINjVTcE4xMHE1NlN3VGppMUJfUjZfd3R3YzBOa0I1ZXNvMHVTbzd5WVRnR0xlRm1ROEVhN1ZRcDNVVE9DTlk0SWdpcElRRG1tN0hQX091Uy0wWmdlNGRTWFh2QWVsU25uVmdRbUltMUpzcw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "csot-2026-11-16-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "TCL CSOT Shows 10.95-inch OLED Tablet Displays With RGBX Technology - news.lavx.hu",
+      "companies": [
+        "csot",
+        "tcl"
+      ],
+      "related": {
+        "customers": [
+          "tcl"
+        ],
+        "suppliers": [
+          "csot"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0REU3NhLWVBYUNNTk1yeDVkZW5zYlVEbGRRYzRERTlTT2pPSFpRTFNIOGdIOF9pWkJCMkNSMmZURnNuQTdPSDN1eUpwTHpSX2xaM2Z6WWVwVmY3YV9ocnJXMUZ3LWlwVTctQ0twZWxnb0VQZ0I0MnFuQ2gzQmdwV1ZsZGZjWWpacVpudUE2aFI4Y0F3aXl5OEY4M2o?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_elec-2026-11-16-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "China's gamer population hits 680 million… Samsung and LG target OLED monitor market : Business/Industry : JKN - 재경일보",
+      "companies": [
+        "lg_elec",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYYzRSZ0NFQmpRTGJiMUxTZ0hFRFU5NXU3WFF0MlZvckozUnNHRVlId0xHQUM2ZWtsU2tGY0U4LXlwTWQzVEtLTU0yZUx5ZWhseEwyOFRPTVhwb2ZUYWg1N1Rn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "csot",
+      "to": "tcl",
+      "relation": "supplier_customer",
+      "co_mention_count": 4,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "lg_elec",
+      "to": "samsung_elec",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tcl",
+        "count": 6
+      },
+      {
+        "id": "csot",
+        "count": 4
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 8
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 1
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 113,
+    "too_old": 178,
+    "gate1_blocked": 22,
+    "gate2_blocked": 14,
+    "passed": 10,
+    "pass_rate": "4.5%",
+    "gate2_block_rate": "6.2%",
+    "gate2_samples": [
+      "Corning in focus as Jefferies starts with Buy rating (GLW:NYSE) - Seeking Alpha",
+      "Corning stock rises 5.26% as optical growth stays in focus - ad-hoc-news.de",
+      "Canon U.S.A., Inc. Welcomes Jericho High School Journalism Students for an Inside Look at the Future",
+      "Himax Technologies (HIMX) Stock Could Be Cheap Despite Its 59% Run - Yahoo Finance",
+      "Himax Technologies (Nasdaq:HIMX) - Stock Analysis - Simply Wall St"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為TCL Technology、CSOT、LG電子相關動態：「TCL CSOT Showcases Latest IJP OLED Developments and Displ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "TCL CSOT Showcases Latest IJP OLED Developments and Display Innovations at DT...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "TCL CSOT showcases three 10.95-inch OLED tablet displays with RGBX - Mezha.net（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
