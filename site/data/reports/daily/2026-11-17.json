@@ -1,0 +1,244 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T17:23:02.075617Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-11-17-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung, LG Display bet on China's gaming OLED boom - The Korea Herald",
+      "companies": [
+        "lg_display",
+        "lg_elec",
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec",
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80R1dTWkpSbl9kX21TWmhiQ29HVDNUTV92ZjROcXRleDEzTDFZVkxGUlJneEFKRzI5QmpqVFlBSElfLXBNM1V0Vk1WTVkzcjZfSmxLWThHSQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tcl-2026-11-17-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "TCL CSOT shows off a new inkjet OLED monitor that hits 500 Hz - PC Gamer",
+      "companies": [
+        "tcl",
+        "csot"
+      ],
+      "related": {
+        "customers": [
+          "tcl"
+        ],
+        "suppliers": [
+          "csot"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVXdXMXVCcy1uVFI1SDJuQnczdnZCdFlrQkFiQ1V4b2VMVmZEemRpREppeXMzS05DWDZTcE5vNXF0NmxvVGtvaEw0NkprcnFqWWRuYzZNZ1pOY3ZyWUs3S0M2eGJWNGdTLXRNb3RCWlF5SUZ6VElua1l5SXZaYUJWZGlVelp1ZjFtTkx3TnB1Sk10N3F1NkU1MTA2NzFZSHFnYUFYMVZpWWoyNzBEWXMyekFQaktoXzhGcTNQOGp6NDRoNHNncmVIeTFqMm5UUDVPdkRsUnVLdEFsYmFETXRTa2ZSdktkSDNUMm5sc1JEd1A2Y0UtMXQ2b2RhLWlibnlqODZzMWpoZm0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "corning-2026-11-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Altnets adds Corning optical fibre technology to its portfolio to support high-performance UK networks - SussexWorld",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYi15ZkJpQlF1TDBnNTFjQjdYd0FHVGlYdTRMekFrajlTdWRnUjJfd1pYbE1KOVVVVlJFcURxZXhmX213UDh3Z1I4eC1QdERhMTJMQjhoN3U1M05uWTA1UU1xNEl4azFUdzNQdktod3R5cjVmVi1meEdUVE5zamhlQ1lRZm8waFhvenI0OTJIY19zcHBkR0RLaGNKRGtoT0gzdVFvNlY1U2xEYTFtSmJwdjRYb0dYTnIwZ3FtU3ZhVkMzSXlSRWd6bzRjNy1yTzVEcElnWWZHVGhRMmV6T0k5VHhLQzJSbVds?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "himax-2026-11-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax Technologies (NASDAQ:HIMX) Shares Gap Up - Still a Buy? - MarketBeat",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTU05TXdPVmJvVmhqc1E1MW5uMHVkNE50Q0tJRXpIemV5eTBjUDV6S1MyOFlfVkhQZG8wQ244YXhPMlFjNGVGV29DLUMzU0ViSVZSX195Tkd5VURKSWZWNUZwWjhPZEY5YlZ1NFJqUVlGS3pQaGtraU4xVXQ0MVBneEh5ZnlYcl93VlFVS0c2NGdKWnZ4SVllbW9zXzBsdVNQX2hRUTlVUVYwR202YVgzRHhIX0JLeDQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tandem WOLED vs. WOLED: Which Monitor Panel Is Better? - RTINGS.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "panel_price",
+        "oled_penetration",
+        "it_panel_demand"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuTFlLQ2o3Y1FxT0NLUUFHV1hXdzh1UUUySnNjUTVSRW5KdndUcjhBcFltTVpPNm0wYVYtWTZaNHlPN2FzdEpoTE02YzVDVWFDOFhwVTdCV0lWNmVIckNBcmgteExoRDVQMVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "panel_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "it_panel_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jdi",
+        "count": 2
+      },
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 7
+      },
+      {
+        "id": "panel_price",
+        "count": 2
+      },
+      {
+        "id": "it_panel_demand",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 116,
+    "too_old": 174,
+    "gate1_blocked": 22,
+    "gate2_blocked": 12,
+    "passed": 13,
+    "pass_rate": "5.9%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "Corning in focus as Jefferies starts with Buy rating (GLW:NYSE) - Seeking Alpha",
+      "Corning stock rises 5.26% as optical growth stays in focus - ad-hoc-news.de",
+      "Raydium Semiconductor Corporation (3592.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance ",
+      "Himax Technologies (HIMX) Stock Could Be Cheap Despite Its 59% Run - Yahoo Finance",
+      "Himax Technologies (Nasdaq:HIMX) - Stock Analysis - Simply Wall St"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為JDI、康寧、Himax Technologies相關動態：「Samsung, LG Display bet on China's gaming OLED boom - The...」。主要關注主題為OLED 滲透率、面板價格、IT 面板需求，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Samsung, LG Display bet on China's gaming OLED boom - The Korea Herald（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "TCL CSOT shows off a new inkjet OLED monitor that hits 500 Hz - PC Gamer（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "面板價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

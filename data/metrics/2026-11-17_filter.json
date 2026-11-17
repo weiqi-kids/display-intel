@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 22,
+  "gate2_fail": 12,
+  "passed": 13,
+  "gate2_samples": [
+    "Corning in focus as Jefferies starts with Buy rating (GLW:NYSE) - Seeking Alpha",
+    "Corning stock rises 5.26% as optical growth stays in focus - ad-hoc-news.de",
+    "Raydium Semiconductor Corporation (3592.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance ",
+    "Himax Technologies (HIMX) Stock Could Be Cheap Despite Its 59% Run - Yahoo Finance",
+    "Himax Technologies (Nasdaq:HIMX) - Stock Analysis - Simply Wall St"
+  ]
+}

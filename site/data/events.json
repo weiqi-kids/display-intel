@@ -1,5 +1,182 @@
 [
   {
+    "id": "corning-2026-11-17-001",
+    "date": "2026-11-17",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Altnets adds Corning optical fibre technology to its portfolio to support high-performance UK networks - SussexWorld",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYi15ZkJpQlF1TDBnNTFjQjdYd0FHVGlYdTRMekFrajlTdWRnUjJfd1pYbE1KOVVVVlJFcURxZXhmX213UDh3Z1I4eC1QdERhMTJMQjhoN3U1M05uWTA1UU1xNEl4azFUdzNQdktod3",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYi15ZkJpQlF1TDBnNTFjQjdYd0FHVGlYdTRMekFrajlTdWRnUjJfd1pYbE1KOVVVVlJFcURxZXhmX213UDh3Z1I4eC1QdERhMTJMQjhoN3U1M05uWTA1UU1xNEl4azFUdzNQdktod3R5cjVmVi1meEdUVE5zamhlQ1lRZm8waFhvenI0OTJIY19zcHBkR0RLaGNKRGtoT0gzdVFvNlY1U2xEYTFtSmJwdjRYb0dYTnIwZ3FtU3ZhVkMzSXlSRWd6bzRjNy1yTzVEcElnWWZHVGhRMmV6T0k5VHhLQzJSbVds?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "himax-2026-11-17-002",
+    "date": "2026-11-17",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies (NASDAQ:HIMX) Shares Gap Up - Still a Buy? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNTU05TXdPVmJvVmhqc1E1MW5uMHVkNE50Q0tJRXpIemV5eTBjUDV6S1MyOFlfVkhQZG8wQ244YXhPMlFjNGVGV29DLUMzU0ViSVZSX195Tkd5VURKSWZWNUZwWjhPZEY5YlZ1NFJqUV",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTU05TXdPVmJvVmhqc1E1MW5uMHVkNE50Q0tJRXpIemV5eTBjUDV6S1MyOFlfVkhQZG8wQ244YXhPMlFjNGVGV29DLUMzU0ViSVZSX195Tkd5VURKSWZWNUZwWjhPZEY5YlZ1NFJqUVlGS3pQaGtraU4xVXQ0MVBneEh5ZnlYcl93VlFVS0c2NGdKWnZ4SVllbW9zXzBsdVNQX2hRUTlVUVYwR202YVgzRHhIX0JLeDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-003",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "oled_penetration",
+      "it_panel_demand"
+    ],
+    "impact": "neutral",
+    "title": "Tandem WOLED vs. WOLED: Which Monitor Panel Is Better? - RTINGS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBuTFlLQ2o3Y1FxT0NLUUFHV1hXdzh1UUUySnNjUTVSRW5KdndUcjhBcFltTVpPNm0wYVYtWTZaNHlPN2FzdEpoTE02YzVDVWFDOFhwVTdCV0lWNmVIckNBcmgteExoRDVQMVE?oc=5\" ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuTFlLQ2o3Y1FxT0NLUUFHV1hXdzh1UUUySnNjUTVSRW5KdndUcjhBcFltTVpPNm0wYVYtWTZaNHlPN2FzdEpoTE02YzVDVWFDOFhwVTdCV0lWNmVIckNBcmgteExoRDVQMVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-11-17-004",
+    "date": "2026-11-17",
+    "companies": [
+      "lg_display",
+      "lg_elec",
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung, LG Display bet on China's gaming OLED boom - The Korea Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE80R1dTWkpSbl9kX21TWmhiQ29HVDNUTV92ZjROcXRleDEzTDFZVkxGUlJneEFKRzI5QmpqVFlBSElfLXBNM1V0Vk1WTVkzcjZfSmxLWThHSQ?oc=5\" target=\"_blank\">Samsung, ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80R1dTWkpSbl9kX21TWmhiQ29HVDNUTV92ZjROcXRleDEzTDFZVkxGUlJneEFKRzI5QmpqVFlBSElfLXBNM1V0Vk1WTVkzcjZfSmxLWThHSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-005",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "oled_penetration",
+      "it_panel_demand"
+    ],
+    "impact": "neutral",
+    "title": "Tandem WOLED vs. QD-OLED: Which Monitor Panel Is Better? - RTINGS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9YZXRGZXEyZldNLXlNeEwtZDU4M3hib01JVUlHMVVFajRjdWZSOHFKVzlaek1nOHotUGF6RDFPQU9kUnB4aWhVbFB5cXk5Zkl2U2JaNEJrQzFJTDBURks0TE1DSkQtYWMyQ3o3OA?oc=",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YZXRGZXEyZldNLXlNeEwtZDU4M3hib01JVUlHMVVFajRjdWZSOHFKVzlaek1nOHotUGF6RDFPQU9kUnB4aWhVbFB5cXk5Zkl2U2JaNEJrQzFJTDBURks0TE1DSkQtYWMyQ3o3OA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-11-17-006",
+    "date": "2026-11-17",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Japan Display sells its former OLED fab in Mobara to Shinko Electric Industries - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNcm00Y3ZLR1RZc1pTOGlkM1FvdzNtdmpZaW1HbFpEcGxPRnF4NVBvU1I0WFV4Zy1MMVdCRDRfdjhmTUtrREtZRGJBVVFhTktKOEdESklCc21yc1RwNDV3TjVjVFMyMFg1X3RIZXNxRk",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcm00Y3ZLR1RZc1pTOGlkM1FvdzNtdmpZaW1HbFpEcGxPRnF4NVBvU1I0WFV4Zy1MMVdCRDRfdjhmTUtrREtZRGJBVVFhTktKOEdESklCc21yc1RwNDV3TjVjVFMyMFg1X3RIZXNxRkFzdmdSTWtZS3lNem1SbEwxdFYwek5CU3RBRVJUWW9XYXJDT3pLM0c1a05Zd0p6OFhUOHhqVDBB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-17-007",
+    "date": "2026-11-17",
+    "companies": [
+      "tcl",
+      "csot"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "TCL CSOT shows off a new inkjet OLED monitor that hits 500 Hz - PC Gamer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVXdXMXVCcy1uVFI1SDJuQnczdnZCdFlrQkFiQ1V4b2VMVmZEemRpREppeXMzS05DWDZTcE5vNXF0NmxvVGtvaEw0NkprcnFqWWRuYzZNZ1pOY3ZyWUs3S0M2eGJWNGdTLXRNb3RCWl",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVXdXMXVCcy1uVFI1SDJuQnczdnZCdFlrQkFiQ1V4b2VMVmZEemRpREppeXMzS05DWDZTcE5vNXF0NmxvVGtvaEw0NkprcnFqWWRuYzZNZ1pOY3ZyWUs3S0M2eGJWNGdTLXRNb3RCWlF5SUZ6VElua1l5SXZaYUJWZGlVelp1ZjFtTkx3TnB1Sk10N3F1NkU1MTA2NzFZSHFnYUFYMVZpWWoyNzBEWXMyekFQaktoXzhGcTNQOGp6NDRoNHNncmVIeTFqMm5UUDVPdkRsUnVLdEFsYmFETXRTa2ZSdktkSDNUMm5sc1JEd1A2Y0UtMXQ2b2RhLWlibnlqODZzMWpoZm0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-11-17-008",
+    "date": "2026-11-17",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Japan Display sells its former OLED fab in Mobara to Shinko Electric Industries",
+    "summary": "<p>On September 30, 2026, <a href=\"https://www.oled-info.com/japan-display\">Japan Display</a> (JDI) signed a definitive agreement to sell the Mobara fab, in Chiba Prefecture, to Shinko Electric Indust",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/japan-display-returns-positive-net-assets-it-sells-its-former-oled-fab-mobara",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-009",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Apple's new OLED MacBook Pro draws user complaints of eye strain and headaches - 디지털투데이",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOYllIM0tYOVJHS0s2VG9MN2RkSjhMY2pETGF2dXEzZjNiS3EtUUVJV0h1ZDFYS0FObFpoUDNYNXZHalExMzMzWlhFdVV4dlVmcEJ0M0lvb2JnTUFrZUdvaWhhb2pnMktTcUNsTkd6UU",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYllIM0tYOVJHS0s2VG9MN2RkSjhMY2pETGF2dXEzZjNiS3EtUUVJV0h1ZDFYS0FObFpoUDNYNXZHalExMzMzWlhFdVV4dlVmcEJ0M0lvb2JnTUFrZUdvaWhhb2pnMktTcUNsTkd6UUh6dGlTZlZGUFlyR0g4cWZtMDBxa3o2V0ZmcGRkbnRPdkl4RGJtT1VvWWpiYnZ6T2dDMlZCZzF4Z3U2eHpFY3BCUTh1Y1ZFdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-11-16-001",
     "date": "2026-11-16",
     "companies": [
@@ -199,6 +376,82 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10WkNLZHk0VzNSbkM2Rnd5TW9ZQXU5SUpscmpla1M4UXNJS0s2UEhBZTFESmRTbE5XdXpGdTdJaTJaRjBwelRGeThGdTI5cjRoOF9WR3JpaTFKNU1qRFRwTjZxeFRfVG5saEtkQmZ4aEs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-11-16-011",
+    "date": "2026-11-16",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Corning Germanium Supply Chain Risk 2026 - Rare Earth Exchanges",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5BcTdaUHF1Tzk5MDFaYXFXSzVSNXhaN3hadzNUMnM3THpSYVhKVFk0UnNrQXFaX213N09qSEliMEdrdEdDeVpRTmFTb2RmWGYzM3RwUzRXNnVfYmFvRWZncFNsZ3JSM0xkWWluRS1OeE",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BcTdaUHF1Tzk5MDFaYXFXSzVSNXhaN3hadzNUMnM3THpSYVhKVFk0UnNrQXFaX213N09qSEliMEdrdEdDeVpRTmFTb2RmWGYzM3RwUzRXNnVfYmFvRWZncFNsZ3JSM0xkWWluRS1OeE1kM2hqODFuM05saUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-11-16-012",
+    "date": "2026-11-16",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon U.S.A., Inc. Welcomes Jericho High School Journalism - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxNc2ZtRHZ0eW1NV05HdXZZdS1fODVxbXhSd2RzbmVrTThNT19nODRUUDRHbldUMTZXYjB0OFJVamxsZ3ZPMUNlMG5sbHpFRlV1eVRrbDVJZHVyQzA3NGRVVnRuV3FQalZabGFfOFAxMG",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNc2ZtRHZ0eW1NV05HdXZZdS1fODVxbXhSd2RzbmVrTThNT19nODRUUDRHbldUMTZXYjB0OFJVamxsZ3ZPMUNlMG5sbHpFRlV1eVRrbDVJZHVyQzA3NGRVVnRuV3FQalZabGFfOFAxMGdvTWMzNXJwcTdySjVPY0ttME9yTVJDc0N6WVdZeFNVQjlBckQ2dUo3SVFrb2pNZTFpU3I1em5seVU5YmpkUUFxU29XVDVRWnlzME5WQlFVQTdpdTRDelVpeW9YR0pXMU43ZGpCWnZNeGdfc2tYeDJkMjN4QzRjd2RaeklWaVNneEJDVlo5SXIwc0RLaUVnYmJLdW5HWEx5RGxiOGM5X293dzI3YnZ6VXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-11-16-013",
+    "date": "2026-11-16",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display: I've Lost Patience With The Turnaround (Rating Downgrade) (NYSE:LPL) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdV9nbjVGakdPUkVLLWVWVUg4RDE3NWhaSkVPZ3pYQ2l1bnlWRExuZUxaeG9TcHkxMG1LVVBsVEVrTmRhbWdKdVFTX3oyLVh1S1dCRFdYekZ3ZEFIbTBhc1NTOHFrRjRROUZHRTBvcj",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdV9nbjVGakdPUkVLLWVWVUg4RDE3NWhaSkVPZ3pYQ2l1bnlWRExuZUxaeG9TcHkxMG1LVVBsVEVrTmRhbWdKdVFTX3oyLVh1S1dCRFdYekZ3ZEFIbTBhc1NTOHFrRjRROUZHRTBvcjhybjRuTDdlLVRnUUwtZ0xJVWlRTWN5WWhzb2wyNU5EVzJTT2daQU1ZWXh4d3BjOTZRZ0FQUkI2WjE2Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-16-014",
+    "date": "2026-11-16",
+    "companies": [
+      "lg_elec",
+      "csot"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "negative",
+    "title": "LG is reportedly considering using Inkjet OLED manufacturing from CSOT to boost manufacturing efficiency - TweakTown",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeFpYZW1wVmd4aEc5Ykw2UkRMYlZSNUI4UFVJaVRHZFRnWHc2R2VQdmktVklEa0RhVWtJd0syZEJqOTJUeEdsdHIyN2dvOVJheUxfMlNYWWJOd3RsMUFqZFJ5b3Z5NVBVZ0RvVnlVUU",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeFpYZW1wVmd4aEc5Ykw2UkRMYlZSNUI4UFVJaVRHZFRnWHc2R2VQdmktVklEa0RhVWtJd0syZEJqOTJUeEdsdHIyN2dvOVJheUxfMlNYWWJOd3RsMUFqZFJ5b3Z5NVBVZ0RvVnlVUUN0LWhDa0k1ZHJzX0ZfU2Itc1V6cmJlRlBTWTBFd3RueU0yRURiT2U4eWVSd2tONmhjM0RleFltNThXOW0tS2txWXNWMGtyM2pSMTZZZGdCREFKTThFSTluWkExc0JzLW9ObzFCZkhFWGdaTXVKclJScGllTFlsTnZt?oc=5",
         "type": "rss"
       }
     ]
