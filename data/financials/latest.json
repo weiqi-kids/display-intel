@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T17:22:58.884561Z",
+  "updated_at": "2026-11-18T16:57:15.622722Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -143,17 +143,17 @@
       "name": "樂金顯示",
       "ticker": "034220.KS",
       "currency": "KRW",
-      "ar": 2202521000000,
-      "ar_prev": 2181682000000,
-      "ar_qoq": "+1%",
+      "ar": 2110915000000,
+      "ar_prev": 2202521000000,
+      "ar_qoq": "-4%",
       "ar_period": "QoQ",
-      "inventory": 3092258000000,
-      "inv_prev": 2786911000000,
-      "inv_qoq": "+11%",
+      "inventory": 3194541000000,
+      "inv_prev": 3092258000000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "lg_elec",

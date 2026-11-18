@@ -1,0 +1,293 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T16:57:20.265023Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-11-18-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Earnings Call Highlights OLED Growth and Risks - TipRanks",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVlBHWFR5dEtLUjNpaDZrTXNBZmJ0OEhGaDJhZzYyQmFIOG84a0hnaW1CM2UybHFBM19qU0lLVmlGak1pWnpCNjYtQmpxNDRFbWVBclBZdTVNcl90LVhMb0VwVGV4M2dVODNxNFRfMTZYaVZSbGJKR1ZORlIwajVhYUlXQ3NnZHBTYk80M0V2MDZScVE4MGRJZ25xa2daU3NZZlV3QlFFdDA5aFljbVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-11-18-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung Display, LG Display to start OLED production for Apple's 2027 iPhones - digitimes",
+      "companies": [
+        "lg_elec",
+        "samsung_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec",
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeDhiMUUtYWhWRVphcTY2eXdsRXNVM1Y1cmtSYWRHRWpvYWJwVUUxSFBLWG1SdzhYbzc4Mm1tQmRkaDJzQXl0bDkyYkpjQ1dwc0JIWDBMY3VzM1NTUUlyVkN2WTZhS09sZnIwN1hRczNyMG95WXA5OXNURW1MLUlrUE1QcHRyQnUzRVF3Vlcyemc4OFU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-11-18-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung Display and LG Display to start producing panels for Apple's iPhone 18 and iPhone Air 2 - OLED-Info",
+      "companies": [
+        "lg_elec",
+        "samsung_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec",
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZk5iRUFRZ1ZsVTNBajlLczl5SFh3LXR4a0YzeDJjbnZ3Z3ZXOXNQdnlzaWsweXBPUVlZRDVJV3dxNTFva3VMSjk5VkpnckFWdVlpT3AyVVB0VlBpNTBBejZYUkVGZi11RGxfYmNNNE9TbzFMcGFnT2VTRWRRSnQ0ZDVab3JDWnNDaWNwcV91U0R5ekJqZXRaRGxUSXVhMjdhdjhVNU5jQUc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_elec-2026-11-18-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung Display and LG Display to start producing panels for Apple's iPhone 18 and iPhone Air 2",
+      "companies": [
+        "lg_elec",
+        "samsung_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec",
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.oled-info.com/samsung-display-and-lg-display-start-producing-panels-apples-spring-2027-iphone"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_elec-2026-11-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Korea's LG Group to Announce Executive Appointments on Nov. 19, Deploying AI and Bio Tech Talent to Front Lines - BigGo Finance",
+      "companies": [
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tUHRVZUJ5MzRYeFBia1VKZmxGVXlZSms0V2VnYlJDMHNpem5XdDJJUDlnamgwdmw1SmxlZUJwanZHV2ZvWDYybjEtU2hXSTJwXzR5MEFDSnN2TVJncnhQaDh4bjlBRmZyMzNKZ3ROQjVTWFhYRXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 4,
+      "topics": [
+        "earnings",
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "lg_elec",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "lg_display",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 5
+      },
+      {
+        "id": "samsung_elec",
+        "count": 5
+      },
+      {
+        "id": "lg_display",
+        "count": 4
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 337,
+    "dup_title": 116,
+    "too_old": 175,
+    "gate1_blocked": 22,
+    "gate2_blocked": 12,
+    "passed": 12,
+    "pass_rate": "5.4%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "Corning: Better Price, Worse Risk (Rating Downgrade) (NYSE:GLW) - Seeking Alpha",
+      "Is Corning A Buy After The Disastrous Performance Recently? Absolutely (Upgrade) (GLW) - Seeking Alp",
+      "Corning in focus as Jefferies starts with Buy rating (GLW:NYSE) - Seeking Alpha",
+      "Canon U.S.A., Inc., and Jericho High School Celebrate the 2026 Future Authors Project and Release of",
+      "Raydium Semiconductor Corporation (3592.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為LG電子、三星電子、LGD相關動態：「LG Display Earnings Call Highlights OLED Growth and Risks...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display Earnings Call Highlights OLED Growth and Risks - TipRanks（OLED 滲透率、法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Samsung Display, LG Display to start OLED production for Apple's 2027 iPhones...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

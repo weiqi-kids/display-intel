@@ -1,0 +1,16 @@
+{
+  "total_raw": 337,
+  "dup_title": 116,
+  "no_date": 0,
+  "too_old": 175,
+  "gate1_fail": 22,
+  "gate2_fail": 12,
+  "passed": 12,
+  "gate2_samples": [
+    "Corning: Better Price, Worse Risk (Rating Downgrade) (NYSE:GLW) - Seeking Alpha",
+    "Is Corning A Buy After The Disastrous Performance Recently? Absolutely (Upgrade) (GLW) - Seeking Alp",
+    "Corning in focus as Jefferies starts with Buy rating (GLW:NYSE) - Seeking Alpha",
+    "Canon U.S.A., Inc., and Jericho High School Celebrate the 2026 Future Authors Project and Release of",
+    "Raydium Semiconductor Corporation (3592.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance "
+  ]
+}
