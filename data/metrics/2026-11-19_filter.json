@@ -1,0 +1,16 @@
+{
+  "total_raw": 357,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 35,
+  "gate2_fail": 10,
+  "passed": 29,
+  "gate2_samples": [
+    "How Much Of Corning Stock’s Rise Came From Sales? - Trefis",
+    "Jim Cramer’s Trust Scored With Corning, but Buying Back Had a Condition - Yahoo Finance",
+    "Corning: Better Price, Worse Risk (Rating Downgrade) (NYSE:GLW) - Seeking Alpha",
+    "Is Corning A Buy After The Disastrous Performance Recently? Absolutely (Upgrade) (GLW) - Seeking Alp",
+    "Raydium Semiconductor Corporation (3592.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance "
+  ]
+}

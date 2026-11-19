@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-19",
+  "date_range": {
+    "start": "2026-11-13",
+    "end": "2026-11-19"
+  },
+  "generated_at": "2026-11-19T17:03:26.658683Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tcl-2026-11-14-009",
+      "date": "2026-11-14",
+      "title": "TCL CSOT shows a 360Hz 16-inch inkjet printed OLED laptop panel, surpassing Samsung's 300Hz display",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 17,
+      "last_week": 30,
+      "week_over_week_change": "-43%",
+      "sentiment_this_week": 0.25
+    },
+    "oled_penetration": {
+      "this_week": 39,
+      "last_week": 34,
+      "week_over_week_change": "+15%",
+      "sentiment_this_week": 0.05
+    },
+    "panel_price": {
+      "this_week": 5,
+      "last_week": 3,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": -0.1
+    },
+    "it_panel_demand": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.0
+    },
+    "mini_led": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.33
+    },
+    "automotive_display": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "corning": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "innolux": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "tcl": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "csot": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "lg_display": {
+      "event_count": 16,
+      "sentiment_avg": 0.03,
+      "rank": 3
+    },
+    "lg_elec": {
+      "event_count": 22,
+      "sentiment_avg": -0.02,
+      "rank": 1
+    },
+    "samsung_elec": {
+      "event_count": 17,
+      "sentiment_avg": 0.12,
+      "rank": 2
+    },
+    "boe": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "himax": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "jdi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 96,
+        "last": 124,
+        "change_pct": -22.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-13",
+      "event_count": 16,
+      "sentiment_avg": 0.19
+    },
+    {
+      "date": "2026-11-14",
+      "event_count": 10,
+      "sentiment_avg": 0.24
+    },
+    {
+      "date": "2026-11-15",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-16",
+      "event_count": 14,
+      "sentiment_avg": -0.14
+    },
+    {
+      "date": "2026-11-17",
+      "event_count": 13,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-18",
+      "event_count": 10,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-11-19",
+      "event_count": 27,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-13 ~ 2026-11-19）共 96 則事件，重點為「TCL CSOT shows a 360Hz 16-inch inkjet printed O...」。OLED 滲透率、法說會、面板價格為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "康寧",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "TCL Technology",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "CSOT",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-19",
+  "total_events": 27,
+  "by_company": {
+    "corning": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 11,
+      "sentiment_avg": -0.09
+    },
+    "lg_display": {
+      "count": 10,
+      "sentiment_avg": -0.05
+    },
+    "samsung_elec": {
+      "count": 4,
+      "sentiment_avg": 0.38
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 9,
+      "sentiment_avg": 0.17
+    },
+    "oled_penetration": {
+      "count": 9,
+      "sentiment_avg": 0.06
+    },
+    "panel_price": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "mini_led": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 9,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ]
+}

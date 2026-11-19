@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T17:03:26.558182Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-11-19-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display cancels 3 trillion won investment plan on OLED production facility - WNWN-FM",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkc0d3REaUx0OTFhR3lvX3R5d3ZRV0xaTmFTWkZ3MndGOGlRT0VZcmxsbTRkbEptZUJlelZ2X25zVDhJWDRScXRxbjNvTTlJR1lNdEZZNlZrZ204Mi1CNTF3UWFmWnNsWTVwaDd5Vkd5ZV96Mkp3QzhpOEg4TVc3OHBiMkQyMFpEcW5XdlFmMGN5V0pKOFFYWm9FdVFTcTVpQ3A4NkFub1QyeFNnVVpMcmNB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-11-19-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display cancels 3 trillion won investment plan on OLED production facility - marketscreener.com",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbFFrWTVqd0QtWVlnN2tJdWk2Y0FTMjk3a3h4Zkd3cV9XZGQ0UDF6RWdBTUhsdlpXenJ3WXQxOUUtNkdJSDhSVElXbGd6Zy13bnE5WFNEZWpSX1MtS09pZGdTbjN0TEVPZjVrUWZTMHlaVUh5QW9mWEdvMm5CNXdCT1JGUUpPWThtS2xwMF9ITW9qNElTdzVvaGxxbjBYdHN0YzJwLWd3dzJxbjd0RUNrdzMwRnZpc3dtY2N0UmRjQTVXRkMwQ0IyU2lB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-11-19-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Withdraws 3 Trillion Won OLED Investment: Why? - Businesskorea",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5dzVtWmFQOEUwdXFRRG1wa2RNZmpMNnREbHBuR0sxT3VrekM3dGlYWFp1WFY2NnM0UWNHR0hlYkEyZjA3NnM5VWUyYmpIQkI2TnhvY1ZnZFBONnlaX0RJQ3NYSTNVRWJURXJRTEZnUEdSM3dO?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_elec-2026-11-19-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display scraps $2.25 bil. OLED investment plan - The Korea Times",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ2VjckkxaXctUDBBMWlwWm13SmV3M3FEaS1WQW04QVpjUFlSSlNON2otMlZnbFFEWHhRdWEtbExpNTVmekhrdDVSU3pNYzZHbmFGd1poRkYtanlveVJGTVBiNkJ5WDRfV3gwY0wzallMSERFUWRRdlhuaktFeEtmSk1hcUtwQmtZdXhlTFVvbm1Sbi11dlBOOGlaaFdSWkZFeGhINFBR0gGrAUFVX3lxTE85aEtabU5RYkVJOWNiclNWVEc1a2pGNFA0a1NjQmo5d3FHOVJYTElvMEZtdjk2ZGJYTnQ1aW9maWhnenJRZm9oeEc2QUdmM3VyMVZ2UnBJa3FCTTlMSE05VWkyWDlMTVZwVlg0UEN0a1BMaTVaTFNLRU5penJvS0FTVk5lVU55U0VfdVhSc0NCeEZvWThCckdqVi1UVk9fZmg2bldza2hZRncxMA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_elec-2026-11-19-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "South Korea's LG Display Scraps 3 Trillion Won 10.5th-Generation OLED Facility Investment - BigGo Finance",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QZmxUVkVtYTlsT3pzTERfTWtDMjI2NXlId2JpRzhfM0tCNlhaZnpBWE1TeHowbXBycVZTZW1tRkd6OU5zSDJYYXZOMkpFeVFMS0J5c1ZiQ2ppbl9MMmhfb1RkcmplNThzRkhlRndtcHFQVTJoZWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "panel_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 9,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 18,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 11
+      },
+      {
+        "id": "lg_display",
+        "count": 10
+      },
+      {
+        "id": "samsung_elec",
+        "count": 4
+      },
+      {
+        "id": "corning",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "oled_penetration",
+        "count": 9
+      },
+      {
+        "id": "panel_price",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 357,
+    "dup_title": 109,
+    "too_old": 174,
+    "gate1_blocked": 35,
+    "gate2_blocked": 10,
+    "passed": 29,
+    "pass_rate": "11.7%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "How Much Of Corning Stock’s Rise Came From Sales? - Trefis",
+      "Jim Cramer’s Trust Scored With Corning, but Buying Back Had a Condition - Yahoo Finance",
+      "Corning: Better Price, Worse Risk (Rating Downgrade) (NYSE:GLW) - Seeking Alpha",
+      "Is Corning A Buy After The Disastrous Performance Recently? Absolutely (Upgrade) (GLW) - Seeking Alp",
+      "Raydium Semiconductor Corporation (3592.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為LG電子、LGD、三星電子相關動態：「LG Display cancels 3 trillion won investment plan on OLED...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display cancels 3 trillion won investment plan on OLED production facility...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display cancels 3 trillion won investment plan on OLED production facility...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

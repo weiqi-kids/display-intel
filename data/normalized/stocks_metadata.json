@@ -1,92 +1,92 @@
 {
   "corning": {
     "earliest": "2000-01-03",
-    "latest": "2026-11-18",
-    "count": 6761,
+    "latest": "2026-11-19",
+    "count": 6762,
     "history_complete": true
   },
   "applied_materials": {
     "earliest": "2000-01-03",
-    "latest": "2026-11-18",
-    "count": 6761,
+    "latest": "2026-11-19",
+    "count": 6762,
     "history_complete": true
   },
   "canon": {
     "earliest": "2000-01-04",
-    "latest": "2026-11-18",
-    "count": 6704,
+    "latest": "2026-11-19",
+    "count": 6705,
     "history_complete": true
   },
   "novatek": {
     "earliest": "2002-08-27",
-    "latest": "2026-11-18",
-    "count": 5993,
+    "latest": "2026-11-19",
+    "count": 5994,
     "history_complete": true
   },
   "himax": {
     "earliest": "2006-03-31",
-    "latest": "2026-11-18",
-    "count": 5192,
+    "latest": "2026-11-19",
+    "count": 5193,
     "history_complete": true
   },
   "auo": {
     "earliest": "2000-09-11",
-    "latest": "2026-11-18",
-    "count": 6504,
+    "latest": "2026-11-19",
+    "count": 6505,
     "history_complete": true
   },
   "innolux": {
     "earliest": "2006-10-24",
-    "latest": "2026-11-18",
-    "count": 4920,
+    "latest": "2026-11-19",
+    "count": 4921,
     "history_complete": true
   },
   "lg_display": {
     "earliest": "2004-07-23",
-    "latest": "2026-11-18",
-    "count": 5529,
+    "latest": "2026-11-19",
+    "count": 5530,
     "history_complete": true
   },
   "boe": {
     "earliest": "2001-01-12",
-    "latest": "2026-11-18",
-    "count": 6367,
+    "latest": "2026-11-19",
+    "count": 6368,
     "history_complete": true
   },
   "jdi": {
     "earliest": "2014-03-19",
-    "latest": "2026-11-18",
-    "count": 3116,
+    "latest": "2026-11-19",
+    "count": 3117,
     "history_complete": true
   },
   "samsung_elec": {
     "earliest": "2000-01-04",
-    "latest": "2026-11-18",
-    "count": 6717,
+    "latest": "2026-11-19",
+    "count": 6718,
     "history_complete": true
   },
   "lg_elec": {
     "earliest": "2002-04-24",
-    "latest": "2026-11-18",
-    "count": 6116,
+    "latest": "2026-11-19",
+    "count": 6117,
     "history_complete": true
   },
   "sony": {
     "earliest": "2000-01-04",
-    "latest": "2026-11-18",
-    "count": 6704,
+    "latest": "2026-11-19",
+    "count": 6705,
     "history_complete": true
   },
   "tcl": {
     "earliest": "2004-01-30",
-    "latest": "2026-11-18",
-    "count": 5572,
+    "latest": "2026-11-19",
+    "count": 5573,
     "history_complete": true
   },
   "etf_soxx": {
     "earliest": "2001-07-13",
-    "latest": "2026-11-18",
-    "count": 6376,
+    "latest": "2026-11-19",
+    "count": 6377,
     "history_complete": true
   }
 }

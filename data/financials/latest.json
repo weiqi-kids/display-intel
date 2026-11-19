@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T16:57:15.622722Z",
+  "updated_at": "2026-11-19T17:03:21.264701Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -194,17 +194,17 @@
       "name": "三星電子",
       "ticker": "005930.KS",
       "currency": "KRW",
-      "ar": 96408968000000,
-      "ar_prev": 82285029000000,
-      "ar_qoq": "+17%",
+      "ar": 106097351000000,
+      "ar_prev": 96408968000000,
+      "ar_qoq": "+10%",
       "ar_period": "QoQ",
-      "inventory": 71389118000000,
-      "inv_prev": 58278373000000,
-      "inv_qoq": "+22%",
+      "inventory": 71995171000000,
+      "inv_prev": 71389118000000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "sony",
