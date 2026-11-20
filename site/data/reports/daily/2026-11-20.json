@@ -1,0 +1,293 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T16:42:12.800295Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-11-20-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display scraps $2.2 bn OLED investment as large-size panel market slows - KED Global",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qZG1JdXI5azdtNS1TZEw3Z1g4NG5hMjh2bGR4UXpxTGt4OG9wTk5YNmxGdVMyX2tjYXEwT05panY2YWhwN3ZfOEJEUTFIcE80Mmx4VGN3SUgyOTN6TkRJYXQ2WlEyYlF2YnRtUndDSQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-11-20-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Merges Large and Mid-Sized Display Divisions, Retains CEO - THE ELEC, Korea Electronics Industry Media",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fSGdTaV9HTG9oNFdMMXFqVTdYb0ZHLXlnSG05NVRRbDQ3eUY1Y2ZSN19zNHZPMkdNWVIta3lHVUFHR0Q1TTF0a3dhODJfdGYzZ2FxOUtnR3RSdnpHSktMNEZUYmxjMlU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-11-20-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display officially cancels its $2.25 billion 10.5-Gen OLED TV line investment at its P10 fab - OLED-Info",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTllXcWs2TlZkOVZsZW82SExLTG82Z0Q5SW5ISnJ0ejctVUF4TnVqVFRWQkpIc0xHN2t3WkNWS2k3cHA4QlFGN0pQMkpmYVBnVFBnSGNXSEJGUHNWSjVfaVpRTm5QOUpObDR1SDlKTkxxbWdQbFBkRFo2UVpvbG1ELWd5T3FhWkZSTUdzQWJONVFJZUtHR1JFeHRILXpwZkpKMEZKZDJB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_elec-2026-11-20-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display scraps US$2.24 billion Gen 10.5 OLED project after seven years as market priorities shift - digitimes",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcUNWRWhZVDE5b1NKQ3JwbTJsUllDYU0wRlJfSDVfYkoyMm9GOHV5cVpNX3lEMWlxS2VvRzFTeXUyV2FTd3MxT3hRZk1HT2NWNVBTRGVUY19nYlozREVpSjhfa1R4Ql9aVEJiS3B5by1Lc3NwdjNsaGJUXzF4Wm5ZZUZhcTZQTUp6Rm5Fekw2QmxnY09aYTlMWHRpemxfcDNhQ1JR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_elec-2026-11-20-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Scraps KRW3 Trillion OLED Investment Plan - www.marketscreener.com",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjFQZVk3VnBfbjBJSk5tVXRHTlNTSFdZMlVhNF9BM0oway1aUlBuam1uYTdpTHdDbndVVC1yUHREN3NxUm5CSldMdV9lQWE5YjVtWGFJei15S0lMVUNJUG1QenctR09wRXhIejludDV2Um0tdnBRaVJpT3JJVEJpa1gtaFN2eElNMWxSZHlCcmI0NkpiM01WR08ySmpmY3N6dlRzZlU4R0Q?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 7,
+      "topics": [
+        "automotive_display",
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 12,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 8
+      },
+      {
+        "id": "lg_display",
+        "count": 7
+      },
+      {
+        "id": "corning",
+        "count": 3
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 7
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 358,
+    "dup_title": 118,
+    "too_old": 176,
+    "gate1_blocked": 38,
+    "gate2_blocked": 9,
+    "passed": 17,
+    "pass_rate": "7.1%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "Corning Glass: Copper-To-Fiber And Potential Global AI Buildout Bode Well (Rating Upgrade) - Seeking",
+      "Jim Cramer’s Trust Scored With Corning, but Buying Back Had a Condition - Yahoo Finance",
+      "Corning: Better Price, Worse Risk (Rating Downgrade) (NYSE:GLW) - Seeking Alpha",
+      "Is Corning A Buy After The Disastrous Performance Recently? Absolutely (Upgrade) (GLW) - Seeking Alp",
+      "Raydium Semiconductor Corporation (3592.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為LG電子、LGD、康寧相關動態：「LG Display scraps $2.2 bn OLED investment as large-size p...」。主要關注主題為OLED 滲透率、車用面板、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "LG Display scraps $2.2 bn OLED investment as large-size panel market slows - ...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display Merges Large and Mid-Sized Display Divisions, Retains CEO - THE EL...",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
