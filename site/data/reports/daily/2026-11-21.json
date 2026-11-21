@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T15:55:29.132961Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tcl-2026-11-21-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG's 1000 Hz UltraGear Uses a TCL CSOT Panel, Inkjet OLED Monitors Could Follow - TechPowerUp",
+      "companies": [
+        "tcl",
+        "csot",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "tcl"
+        ],
+        "suppliers": [
+          "csot"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeXVHRGxnZ0Juc1lVY3pIZTYxQXlGWldsaDJwakliVTcyUFBLeG1xeERTYzJJS1pkVG9UWVA2WEg1RTdST1M2WVdFSWJ6cEROeEh5WWQtTU9zcnlDVk16NER5dmY5amVVbXYzeUp4ZlpqQWNXalhtLURuNmxFZWhTOXlqWGUzSDkwQUNpaHdDcFRxQXlaUGUzZ3IwTTJVNU9wUmZZY2ZuYkRyUHNpYzhVN0ln0gG3AUFVX3lxTE1QbzJMQzhzR0I4Ymg2OVVKWV90RjVRUnVHS2hDbWxLMUdqcEFtdVJaajAtNFJpOUJBZUZqNDZMdF9iS2lvMDJHcEMtOU85SVl4YlpmYzR4ZTBwbmxBX2RoaHVadDI2SGoxVW1SOEE2Q2ZFaDBfV01xWVQ1RjhfM0ozQVBuV2dXSnBHdzhYNVIzV0xRS09JSUNtOEozTEUycXdpZ2tKbG1VQVVlZlFiMVV6OUNjbjFTVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-21-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Nextlink launches AI transformation project as revenue reaches record high",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20261119PD221/revenue-demand-business-growth-adoption.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-21-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SolidWizard sees AI, semiconductor orders through 2027",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261118PD209/semiconductors-2027-investment-software-demand.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Axiomtek restructures for physical AI, expands global customer reach",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261118PD235/axiomtek-pc-ipc-physical-ai-2026.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "tcl-2026-11-21-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TCL Triples Seongsu-dong Pop-up Size, Targets Premium Market with 'SQD Mini LED' - BigGo Finance",
+      "companies": [
+        "tcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53enlTYldRcWFyYUhJNUFjY1R5aExxdklXaGZuSDFCQ2NHVUxRaUNGUkFPay1oWEI5RmpocmJHX0ZuYnZhc0NpMEZDTjZzenNYS0oyQjdlSUgyYUFkMmdnUzR0ME1sZWdJdHFBMUc5djZUZEZvbGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.42,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tcl",
+        "count": 2
+      },
+      {
+        "id": "csot",
+        "count": 1
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 357,
+    "dup_title": 127,
+    "too_old": 167,
+    "gate1_blocked": 39,
+    "gate2_blocked": 12,
+    "passed": 12,
+    "pass_rate": "5.2%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "Jim Cramer’s Trust Scored With Corning, but Buying Back Had a Condition - Yahoo Finance",
+      "Corning: Better Price, Worse Risk (Rating Downgrade) (NYSE:GLW) - Seeking Alpha",
+      "Is Corning A Buy After The Disastrous Performance Recently? Absolutely (Upgrade) (GLW) - Seeking Alp",
+      "Corning Glass: Copper-To-Fiber And Potential Global AI Buildout Bode Well (Rating Upgrade) - Seeking",
+      "Raydium Semiconductor Corporation (3592.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為TCL Technology、CSOT、LG電子相關動態：「LG's 1000 Hz UltraGear Uses a TCL CSOT Panel, Inkjet OLED...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG's 1000 Hz UltraGear Uses a TCL CSOT Panel, Inkjet OLED Monitors Could Foll...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Nextlink launches AI transformation project as revenue reaches record high（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

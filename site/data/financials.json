@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T16:42:08.557608Z",
+  "updated_at": "2026-11-21T15:55:25.142602Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -160,17 +160,17 @@
       "name": "LG電子",
       "ticker": "066570.KS",
       "currency": "KRW",
-      "ar": 12478874000000,
-      "ar_prev": 12428017000000,
-      "ar_qoq": "+0%",
+      "ar": 12695656000000,
+      "ar_prev": 12478874000000,
+      "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 12186506000000,
-      "inv_prev": 11660164000000,
-      "inv_qoq": "+5%",
+      "inventory": 12449285000000,
+      "inv_prev": 12186506000000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "novatek",

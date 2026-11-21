@@ -1,0 +1,16 @@
+{
+  "total_raw": 357,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 39,
+  "gate2_fail": 12,
+  "passed": 12,
+  "gate2_samples": [
+    "Jim Cramer’s Trust Scored With Corning, but Buying Back Had a Condition - Yahoo Finance",
+    "Corning: Better Price, Worse Risk (Rating Downgrade) (NYSE:GLW) - Seeking Alpha",
+    "Is Corning A Buy After The Disastrous Performance Recently? Absolutely (Upgrade) (GLW) - Seeking Alp",
+    "Corning Glass: Copper-To-Fiber And Potential Global AI Buildout Bode Well (Rating Upgrade) - Seeking",
+    "Raydium Semiconductor Corporation (3592.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance "
+  ]
+}

@@ -1,5 +1,101 @@
 [
   {
+    "id": "tcl-2026-11-21-001",
+    "date": "2026-11-21",
+    "companies": [
+      "tcl",
+      "csot",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG's 1000 Hz UltraGear Uses a TCL CSOT Panel, Inkjet OLED Monitors Could Follow - TechPowerUp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOeXVHRGxnZ0Juc1lVY3pIZTYxQXlGWldsaDJwakliVTcyUFBLeG1xeERTYzJJS1pkVG9UWVA2WEg1RTdST1M2WVdFSWJ6cEROeEh5WWQtTU9zcnlDVk16NER5dmY5amVVbXYzeUp4Zl",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeXVHRGxnZ0Juc1lVY3pIZTYxQXlGWldsaDJwakliVTcyUFBLeG1xeERTYzJJS1pkVG9UWVA2WEg1RTdST1M2WVdFSWJ6cEROeEh5WWQtTU9zcnlDVk16NER5dmY5amVVbXYzeUp4ZlpqQWNXalhtLURuNmxFZWhTOXlqWGUzSDkwQUNpaHdDcFRxQXlaUGUzZ3IwTTJVNU9wUmZZY2ZuYkRyUHNpYzhVN0ln0gG3AUFVX3lxTE1QbzJMQzhzR0I4Ymg2OVVKWV90RjVRUnVHS2hDbWxLMUdqcEFtdVJaajAtNFJpOUJBZUZqNDZMdF9iS2lvMDJHcEMtOU85SVl4YlpmYzR4ZTBwbmxBX2RoaHVadDI2SGoxVW1SOEE2Q2ZFaDBfV01xWVQ1RjhfM0ozQVBuV2dXSnBHdzhYNVIzV0xRS09JSUNtOEozTEUycXdpZ2tKbG1VQVVlZlFiMVV6OUNjbjFTVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-21-002",
+    "date": "2026-11-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Nextlink launches AI transformation project as revenue reaches record high",
+    "summary": "Sustained demand for enterprise cloud adoption and AI deployment has led to growing revenues for cloud AI solution providers. Nextlink, the cloud business subsidiary of telecom company Far EasTone Tel",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261119PD221/revenue-demand-business-growth-adoption.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-21-003",
+    "date": "2026-11-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SolidWizard sees AI, semiconductor orders through 2027",
+    "summary": "Rising investment in AI, semiconductors, and high-performance computing is driving demand for advanced software, giving 3D digital design and AI solutions provider SolidWizard Technology strong order ",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261118PD209/semiconductors-2027-investment-software-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-21-004",
+    "date": "2026-11-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Axiomtek restructures for physical AI, expands global customer reach",
+    "summary": "Industrial PC (IPC) maker Axiomtek sustained growth in Q3 2026, reporting quarterly revenue of NT$2.779 billion (US$84.6 million), up 11.5% quarter-over-quarter and 59.32% year-over-year, while its op",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261118PD235/axiomtek-pc-ipc-physical-ai-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-21-005",
+    "date": "2026-11-21",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "TCL Triples Seongsu-dong Pop-up Size, Targets Premium Market with 'SQD Mini LED' - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE53enlTYldRcWFyYUhJNUFjY1R5aExxdklXaGZuSDFCQ2NHVUxRaUNGUkFPay1oWEI5RmpocmJHX0ZuYnZhc0NpMEZDTjZzenNYS0oyQjdlSUgyYUFkMmdnUzR0ME1sZWdJdHFBMUc5dj",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53enlTYldRcWFyYUhJNUFjY1R5aExxdklXaGZuSDFCQ2NHVUxRaUNGUkFPay1oWEI5RmpocmJHX0ZuYnZhc0NpMEZDTjZzenNYS0oyQjdlSUgyYUFkMmdnUzR0ME1sZWdJdHFBMUc5djZUZEZvbGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-11-20-001",
     "date": "2026-11-20",
     "companies": [
@@ -305,6 +401,121 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZFJJOGtjcGJPdkFCVVNnSjJZLUUzN0kxY3dudUl0VWEwQXdrWE1UTzBtQWJmWUZiY0hQVU51TllEbUR4RzhzZHBDS0NZNFpUSzFQemFacWt6ZlNaX2Y3TnZGN3BaaTNQZW9NTDJlRUF2SHU1ZGF0RnlBUnFJZXBwbGtTVDdlenFodV84cU5NNU9JOXZCR3dEbUVHTGdUalpNZzVxZTNzZENzR2oyeUtzaDZpTHcyS3FreERPNVNMNEw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "corning-2026-11-20-017",
+    "date": "2026-11-20",
+    "companies": [
+      "corning"
+    ],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "neutral",
+    "title": "Corning drops 11% amid technology-led market slide (GLW:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcFg1aTMtbEZ4Ukh5a0JnQ0w1NHVzZ011Nm9sSnBONU9QUnZIanZiZUlXQmpDVGo4RXhNQjYtcnRsMlhUdTZZSkJEU19lRzItOUhoRklOd3lYX3laMHV3aHNkall0d3BJSGRrU2FtX3",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcFg1aTMtbEZ4Ukh5a0JnQ0w1NHVzZ011Nm9sSnBONU9QUnZIanZiZUlXQmpDVGo4RXhNQjYtcnRsMlhUdTZZSkJEU19lRzItOUhoRklOd3lYX3laMHV3aHNkall0d3BJSGRrU2FtX3JpZzRUVDF2UTc0aVd2WUY4RUwydk1oakNRQVpmR3cxZWdwLU12TzNIWXpndw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-11-20-018",
+    "date": "2026-11-20",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Japan Display falls 7.14% in Thursday's session - Global Banking & Finance Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUGZGT3NfQk02d1ltLTZ3cTgzcUU2Yng0Y0Y2U2ZfSkJjUGVINEY3RjVtWG5wSURsS3ZKbk9DSFo4OW5uMVcyY3pPNjZ2ZFNTMUJCZVRReGdFRF80RnRyMW5wVHJQbnJZOWd5Z2FsUV",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUGZGT3NfQk02d1ltLTZ3cTgzcUU2Yng0Y0Y2U2ZfSkJjUGVINEY3RjVtWG5wSURsS3ZKbk9DSFo4OW5uMVcyY3pPNjZ2ZFNTMUJCZVRReGdFRF80RnRyMW5wVHJQbnJZOWd5Z2FsUVVFY1hrRUtta0I3a1FINTFfbjJnUlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-20-019",
+    "date": "2026-11-20",
+    "companies": [
+      "tcl",
+      "csot"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL CSOT’s 27-Inch QHD Prototype Monitor Runs At 1250 Hz Natively, The Highest Refresh Rate Yet On A Consumer-Grade Gaming Display - Wccftech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEltU01GNXViUWZuWmhsTTAydjZ5ZWFrVDhybVZtZjVWX2lFeU43ZXUzV0dKYjVDSVo2MUdKOG9CdEI5X21iclpCNEl1d0tvc3pjZ2EwV240MEhWMzZkS1MxM2VFVkE2Q3dkOGNLMD",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEltU01GNXViUWZuWmhsTTAydjZ5ZWFrVDhybVZtZjVWX2lFeU43ZXUzV0dKYjVDSVo2MUdKOG9CdEI5X21iclpCNEl1d0tvc3pjZ2EwV240MEhWMzZkS1MxM2VFVkE2Q3dkOGNLMDZSTzljX0xSSGMzeEdqVzdrQzRGYjgyV241NzFoYmVn0gGTAUFVX3lxTE4wejE5ZTI4LV9ySldJYXA0azdnWW9Jb3RTRXExRW1ySkNfcXY5bVJPclVCUkpsSjhSa2s1UWxWN0lDT3M0R3RmbmdwbE1hT0RUckNzcUpJeWxVQk45QTY3aVd0NkVqSWczZUZJWldUVkVUUEMtajNFdl85T2JEMy0zVm9FVkJJdy00eUY2aGNUd3FtZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-20-020",
+    "date": "2026-11-20",
+    "companies": [
+      "tcl",
+      "csot"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "TCL CSOT Announces World's First Mass Production of Ultrahigh-Mobility Oxide Panels at DTC2026 - TechPowerUp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNVG9MeDVHZnpvQk9qbl95TDR2cVd1NER1OFBsZzdwNDFrZlE4VE01d0lTMm81Wm83X2ZUWVk5RHNCU28zaTN2V1NHVUVsSzIwRGF3elRsZWlqRDJRMm1fWUJBWjRycTFJTFN3QU9sRn",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVG9MeDVHZnpvQk9qbl95TDR2cVd1NER1OFBsZzdwNDFrZlE4VE01d0lTMm81Wm83X2ZUWVk5RHNCU28zaTN2V1NHVUVsSzIwRGF3elRsZWlqRDJRMm1fWUJBWjRycTFJTFN3QU9sRnJ0OTFSdkVITXgxQzBZSllEVTluRFpMbGZ2RjlxWGRuWkQwVlpHMk5YM2g2VlNQWlkzQUxoaHcwRnlZYmpEWkxFNFZqZEVhMi1iYUpFN2ZiRDFSTVV6ekhF0gHMAUFVX3lxTE5wX0h1T05yMlFqbHVtTEZPbUJlOVdRTlhoUWp6WERuOVdPb0RnQ2VUbnBsRjJ1aXN4dzFOcmpUTnl0U3JWLVoyeF9TR0x2QmYycm5MUTR1Q2tqUHVtUTY3MXRsT1pETWZMRG9RSGRjY0Q2Ri1aeGxlcnl2ZWF0N3djQnR2U1RieUFkZFNld3ZJOWRQeENsQVpueXJ4RkdwSlhlQVZkRm1yRV9IT0pFd1V2RzhxTnhRMUlFZzgwU2JUbW9rbzhIcVh5bzc2cw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-20-021",
+    "date": "2026-11-20",
+    "companies": [
+      "tcl",
+      "csot"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "TCL CSOT demos 27-inch 1,250Hz and IJP OLED 500Hz QHD gaming monitors - Notebookcheck",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOenptUHpOaW0xbmlCQ3FHMC02b0tsdkxuVlUwR2ZQaWRMa0FOSHBwRUdWX3VkUkx6Z2F3RVdVWDBhaVJGYlZDUWlpRUx2Z1AwUXlMUzZRT09HZ3JyVlhGRnR2UjkwWUVQZldaSm1UR0",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOenptUHpOaW0xbmlCQ3FHMC02b0tsdkxuVlUwR2ZQaWRMa0FOSHBwRUdWX3VkUkx6Z2F3RVdVWDBhaVJGYlZDUWlpRUx2Z1AwUXlMUzZRT09HZ3JyVlhGRnR2UjkwWUVQZldaSm1UR0otQmdvMHdhSlNNbkFuYlVpT3BWNjg4c1F5YlRadjliMVRYQU42MGVETTJJRDRYM1ZrT3MzMGV1Y0toSmpSemRfcVVzVV8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-20-022",
+    "date": "2026-11-20",
+    "companies": [
+      "tcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TCL gives Senegal’s Youth Olympic Village a 75-inch screen that runs on solar power - Techish Kenya",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFNTNWE5TmpUYnVBZmM1NWktYmhzTTFVd2l6QzZVU2lrMldPXzJpUzJCYUowV09Sb195cVowVWMxZnB3Z045UDJMck9FZURqOGhwU0hycXMtTFJvaThocnVETU9WX0JuYm15WlAwV3",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFNTNWE5TmpUYnVBZmM1NWktYmhzTTFVd2l6QzZVU2lrMldPXzJpUzJCYUowV09Sb195cVowVWMxZnB3Z045UDJMck9FZURqOGhwU0hycXMtTFJvaThocnVETU9WX0JuYm15WlAwV3FIbk5oc0RvQ01ORjlieGtFd3ZvSXJFZUF0N1RJcEVnVy14NkJUZ1pUNWpXMzdyN0VpYm0wQ3hjX0MyWmFEcE56ekpHUlBrZw?oc=5",
         "type": "rss"
       }
     ]
@@ -820,6 +1031,27 @@
       {
         "name": "eetimes",
         "url": "https://www.eetimes.com/nvidia-reports-115-8b-in-quarterly-revenue-under-interim-ceo/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-19-028",
+    "date": "2026-11-19",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "LG Display cancels 3 trillion won investment plan on OLED production facility - The Star",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXJjRTRfc21DTjJoaDE1Q1dEVWtiSzdrV2dPd1k1NTN2LXpHcVA1MVZlSlNDTHZiUmJWR2dIX3NjdEtkNjd3NEFwenFSU21qRzNIQU45ZnZseXZSbVR2VGo5MXNBV25zQ21tSS02dE",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXJjRTRfc21DTjJoaDE1Q1dEVWtiSzdrV2dPd1k1NTN2LXpHcVA1MVZlSlNDTHZiUmJWR2dIX3NjdEtkNjd3NEFwenFSU21qRzNIQU45ZnZseXZSbVR2VGo5MXNBV25zQ21tSS02dEtmNVhxR1ZpR0N0UEdYMlE4ZXFFaGd2VUNfbWpoNnQtaFpLd2FHNHEzY01oY2ZNY3lrOHdBcUktUXVxUjJ1dnhPM1UtWUtlbnhrWTN2bHg4TUYtOHNhMkhkOUtR?oc=5",
         "type": "rss"
       }
     ]
