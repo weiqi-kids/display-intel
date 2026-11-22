@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T15:55:55.049980Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "OLED materials lift Hodogaya's first-half results, as it says SFC's IPO is postponed, not abandoned",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/oled-materials-lift-hodogayas-first-half-results-it-says-sfcs-ipo-postponed-not"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 355,
+    "dup_title": 129,
+    "too_old": 178,
+    "gate1_blocked": 38,
+    "gate2_blocked": 9,
+    "passed": 1,
+    "pass_rate": "0.4%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "Jim Cramer’s Trust Scored With Corning, but Buying Back Had a Condition - Yahoo Finance",
+      "Corning: Better Price, Worse Risk (Rating Downgrade) (NYSE:GLW) - Seeking Alpha",
+      "Is Corning A Buy After The Disastrous Performance Recently? Absolutely (Upgrade) (GLW) - Seeking Alp",
+      "Corning Glass: Copper-To-Fiber And Potential Global AI Buildout Bode Well (Rating Upgrade) - Seeking",
+      "Raydium Semiconductor Corporation (3592.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為OLED 滲透率、法說會相關動態：「OLED materials lift Hodogaya's first-half results, as it ...」。主要關注主題為OLED 滲透率、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "OLED materials lift Hodogaya's first-half results, as it says SFC's IPO is po...（OLED 滲透率、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

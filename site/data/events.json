@@ -1,5 +1,24 @@
 [
   {
+    "id": "unknown-2026-11-22-001",
+    "date": "2026-11-22",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "OLED materials lift Hodogaya's first-half results, as it says SFC's IPO is postponed, not abandoned",
+    "summary": "<p>Japan-based <a href=\"https://www.oled-info.com/hodogaya-chemical\">Hodogaya Chemical</a> reported its financial results for Q3 2026. Revenues were up 17.9% to $167.6 million and operating profit mor",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/oled-materials-lift-hodogayas-first-half-results-it-says-sfcs-ipo-postponed-not",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "tcl-2026-11-21-001",
     "date": "2026-11-21",
     "companies": [
