@@ -1,0 +1,270 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T19:49:52.703463Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-11-23-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display scraps plans for 10.5G factory to build 'super-sized' OLED TVs - FlatpanelsHD",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ScmRiSTkySmFhME1Lc2pJZU1PN2RfLW8wSVBtamFJZFl5akVwNmNiMVRXZklVMVBxR3UxRlNGdHdSUkFEM1lURTNELWlMWlVidVVublZmM29zZFhuSXFTU3hsOHFpUkppNWs3S1BZYzNldDZhb2JXSnZn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-11-23-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display scraps $2.5B OLED plant for 111-inch panels - Notebookcheck",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc3hlWExNSGtYbTRyeFdLUDdYVzRVbGhydzhzU1JZQWZRdnh1T3gxbnpNTlhhcWdyNW5laUJmTi0ySktjOFdOSWd3aldILWZVeHpsZVZRTUh0YjJTdmhoMF9jR201VndSTTB3UFNBWFFOXzZvYncxelJ4bEcxV0xhb0pEdnE3WFN5Z3pRbGxyOHJmeFRuRjFhMm5OaW1IMFU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-11-23-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display abandons $2.5B OLED factory plan after delays - Mezha.net",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTjZ4NFhBeGY0ekNVdWM0blFHU1BRUm9IR1F4LUpjT3hqQm8wT0czT1BYMWJwRkZ0NWFGRFZyT2YzRlo0NHVnR3dDTENlZ1VZWFp0ZlowSlc3MDJ1bkxXY2hfdUVvLUM4RlpUQ0xJbkpJZkxmbU03Y0hpazlZT3hiLW5sOFI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tcl-2026-11-23-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "TCL CSOT unveils 115-inch 16K display with 8K 3D mode - Notebookcheck",
+      "companies": [
+        "tcl",
+        "csot"
+      ],
+      "related": {
+        "customers": [
+          "tcl"
+        ],
+        "suppliers": [
+          "csot"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzQ3RGJhQmJZa1lxVFNNcktGMkRmblowNE9XMzJxRzUxSjFsZWVQYkZlQUk4T2Y0UUVrRU1UXzlJcWRMZmlMRmNxUmJfMG5JamZzTDZLZlItTzdvY3FYU204dTc3YmRIbVhyOGV3TmZwdlZKSUdrMEpGUDkyZ1VJM29tblpQX2V5WHBRUlhMMmVLLUFYb1FMclZ3RlBmR0k?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-23-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI stock rout puts Taiwan's tech supply chain on alert, prompting government scrutiny of capital flows",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261123PD224/taiwan-government-moea-stock-market-industrial-supply-chain.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 3
+      },
+      {
+        "id": "lg_display",
+        "count": 3
+      },
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "tcl",
+        "count": 2
+      },
+      {
+        "id": "csot",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 5
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 357,
+    "dup_title": 122,
+    "too_old": 171,
+    "gate1_blocked": 41,
+    "gate2_blocked": 11,
+    "passed": 12,
+    "pass_rate": "5.1%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "Jim Cramer’s Trust Scored With Corning, but Buying Back Had a Condition - Yahoo Finance",
+      "Corning: Better Price, Worse Risk (Rating Downgrade) (NYSE:GLW) - Seeking Alpha",
+      "Corning Glass: Copper-To-Fiber And Potential Global AI Buildout Bode Well (Rating Upgrade) - Seeking",
+      "Is Corning A Buy After The Disastrous Performance Recently? Absolutely (Upgrade) (GLW) - Seeking Alp",
+      "Himax Technologies stock hits 52-week low at $6.84 - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為LG電子、LGD、三星電子相關動態：「LG Display scraps plans for 10.5G factory to build 'super...」。主要關注主題為OLED 滲透率、Mini LED、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "LG Display scraps plans for 10.5G factory to build 'super-sized' OLED TVs - F...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display scraps $2.5B OLED plant for 111-inch panels - Notebookcheck（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 357,
+  "dup_title": 122,
+  "no_date": 0,
+  "too_old": 171,
+  "gate1_fail": 41,
+  "gate2_fail": 11,
+  "passed": 12,
+  "gate2_samples": [
+    "Jim Cramer’s Trust Scored With Corning, but Buying Back Had a Condition - Yahoo Finance",
+    "Corning: Better Price, Worse Risk (Rating Downgrade) (NYSE:GLW) - Seeking Alpha",
+    "Corning Glass: Copper-To-Fiber And Potential Global AI Buildout Bode Well (Rating Upgrade) - Seeking",
+    "Is Corning A Buy After The Disastrous Performance Recently? Absolutely (Upgrade) (GLW) - Seeking Alp",
+    "Himax Technologies stock hits 52-week low at $6.84 - Investing.com"
+  ]
+}
