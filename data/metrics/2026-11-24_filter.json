@@ -1,0 +1,16 @@
+{
+  "total_raw": 356,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 37,
+  "gate2_fail": 34,
+  "passed": 14,
+  "gate2_samples": [
+    "Corning Jumped $10. Jim Cramer Had a Lower Price in Mind - Yahoo Finance",
+    "Corning carried higher by AI rally, advances 15% (GLW:NYSE) - Seeking Alpha",
+    "How Much Of Corning Stock’s Rise Came From Sales? - Trefis",
+    "Corning Incorporated (GLW80.BK) company profile and facts - Yahoo Finance UK",
+    "Corning Incorporated (GLW80.BK) Income Statement - Yahoo Finance - Yahoo! Finance Canada"
+  ]
+}

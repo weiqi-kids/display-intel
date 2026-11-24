@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T19:20:11.617519Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-11-24-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display reportedly targets 2029 for cheaper, better 'Flipp' OLEDs - FlatpanelsHD",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14V21lTHhuS0xuZkRRVnFST05KQzNKOXJCU2N6NlJ6cU8ycWV3ck1vWFpRWUZaUDdXdGc1VTZON0lnbTFBbE90WkFHTDViZmk5OTNtNUQ1UXNFTmdScVZhcElLX3BqTGV0cEs4U3VGTmxUb2xXZndHcUFB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_elec-2026-11-24-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Brings 720Hz OLED Panels to VCT EMEA Stage in 2027 - The Esports Advocate",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tWENneXVQaHdIVGdvSHQzUW9JTTJoTEk3dmhXRV9xZzRIMWljQzg2eGI1a0s0RDRwS3RmRS1TRDR1dHdHaHhKc0dnTzlJbUlHR0NSTWx4eWwwZG54cWcwbjV1SERpa2oxNnoza3o0d013UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_elec-2026-11-24-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display merges large, mid-sized divisions in OLED push - digitimes",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUnJKdkRZY2NlWE9rdGU1S3RVV1lTYUVvRWVuOTZjbVJmM0cwN0ROSF9UQkNpN0I3RFlOUVpkaGtIQU9OQThKLVJBbkt1TF8wS01yOHRLanJuZmN0ekYxQ0J3QmFjeVpjNHAzdlZQNWZ6QmFsYkVSY0JFMUZXXzBrQ3Bqc1hTdUNwbjJaejVESklKRVlCdnd1b2VhbFk1T3h5YWtxMnRGZFc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "lg_elec-2026-11-24-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display Cancels $2.5 Billion OLED Factory Plan, Shifts Focus to 111-Inch Panels - ChannelNews.com.au",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaDVaZHowSUlsc21XTXN5QzJmN0gyS2xvNGctRmo4RHpmeDIxSUktZVByMzl3ZEVnakVtN3JEdTdxeS1lSDdFSUItbldkckF2YkxGa0MzSEtJeFdmNUVFRWhoRDUzb2JlWDA1bDAzTnFLRkZwZHBTSmxtczhkS3YtQlNuc2FQZXpVREpqWkJKZEc0YTQxdDJWV0VOS0xlX0VVamFzOGdXUUtaUkhDdXBZSjVR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "canon-2026-11-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Canon Q3 Review: Lowered Guidance, But I Still See Potential In 2027 (OTCMKTS:CAJPY) - Seeking Alpha",
+      "companies": [
+        "canon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaGhRSHNLTmRKaWw5M2tCMGpvZ3dTbDJ1ZTY3TTJaSE0yYnp5OEtUaVhqNnhCYnZEWDloU1V3bkxFTzIzVy1Zcm5sa0xMbkFkcU94aGlLbFNjWjhtdHhZQzFyREVYZXlVenRsa0xhMTE0ZS15cHIzdXBoYnd6aFh3TEptNVJBTjdBRDBlckpEN2JDVmRUNldTel95NS11MGI3d3RpNm9IUFV5Z2s?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "oled_penetration": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 4,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "lg_elec",
+        "count": 4
+      },
+      {
+        "id": "lg_display",
+        "count": 4
+      },
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "canon",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 356,
+    "dup_title": 130,
+    "too_old": 141,
+    "gate1_blocked": 37,
+    "gate2_blocked": 34,
+    "passed": 14,
+    "pass_rate": "6.2%",
+    "gate2_block_rate": "15.0%",
+    "gate2_samples": [
+      "Corning Jumped $10. Jim Cramer Had a Lower Price in Mind - Yahoo Finance",
+      "Corning carried higher by AI rally, advances 15% (GLW:NYSE) - Seeking Alpha",
+      "How Much Of Corning Stock’s Rise Came From Sales? - Trefis",
+      "Corning Incorporated (GLW80.BK) company profile and facts - Yahoo Finance UK",
+      "Corning Incorporated (GLW80.BK) Income Statement - Yahoo Finance - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為LG電子、LGD、三星電子相關動態：「LG Display reportedly targets 2029 for cheaper, better 'F...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LG Display reportedly targets 2029 for cheaper, better 'Flipp' OLEDs - Flatpa...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display Brings 720Hz OLED Panels to VCT EMEA Stage in 2027 - The Esports A...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

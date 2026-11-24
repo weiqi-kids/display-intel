@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-24",
+  "date_range": {
+    "start": "2026-11-18",
+    "end": "2026-11-24"
+  },
+  "generated_at": "2026-11-24T19:20:11.756584Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lg_elec-2026-11-18-001",
+      "date": "2026-11-18",
+      "title": "LG Display Earnings Call Highlights OLED Growth and Risks - TipRanks",
+      "importance_score": 1.0
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "mini_led",
+      "subject_type": "topic",
+      "this_week_sentiment": 0.2,
+      "last_week_sentiment": -0.33,
+      "delta": 0.53,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "oled_penetration": {
+      "this_week": 32,
+      "last_week": 36,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": -0.0
+    },
+    "earnings": {
+      "this_week": 17,
+      "last_week": 25,
+      "week_over_week_change": "-32%",
+      "sentiment_this_week": 0.19
+    },
+    "automotive_display": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.25
+    },
+    "panel_price": {
+      "this_week": 1,
+      "last_week": 5,
+      "week_over_week_change": "-80%",
+      "sentiment_this_week": 0.5
+    },
+    "mini_led": {
+      "this_week": 5,
+      "last_week": 3,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.2
+    }
+  },
+  "company_7d_summary": {
+    "lg_elec": {
+      "event_count": 32,
+      "sentiment_avg": -0.05,
+      "rank": 1
+    },
+    "lg_display": {
+      "event_count": 28,
+      "sentiment_avg": -0.04,
+      "rank": 2
+    },
+    "samsung_elec": {
+      "event_count": 17,
+      "sentiment_avg": 0.17,
+      "rank": 3
+    },
+    "tcl": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "corning": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "csot": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "canon": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 91,
+        "last": 112,
+        "change_pct": -18.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-18",
+      "event_count": 10,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-11-19",
+      "event_count": 29,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-11-20",
+      "event_count": 24,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-21",
+      "event_count": 5,
+      "sentiment_avg": 0.25
+    },
+    {
+      "date": "2026-11-22",
+      "event_count": 1,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-23",
+      "event_count": 13,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-11-24",
+      "event_count": 9,
+      "sentiment_avg": -0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-18 ~ 2026-11-24）共 91 則事件，重點為「LG Display Earnings Call Highlights OLED Growth...」。OLED 滲透率、法說會、Mini LED為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "LG電子",
+        "reason": "本週出現 32 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "LGD",
+        "reason": "本週出現 28 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "三星電子",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
