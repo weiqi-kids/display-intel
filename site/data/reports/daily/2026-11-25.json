@@ -1,0 +1,263 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T18:25:58.998037Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_display-2026-11-25-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "South Korea regains global OLED lead, yet LG Display halts Gen 10.5 investment - digitimes",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUGZ2TDlMeXdzOGtlSzZLMnRpUFRPZ2pQazdDbk9TWXdrdEQwQURsSGo2bWdMNjgzY0Fsc3h6Z2Jrc0VJWnZQaVdDZVd1d1djdHZWMExlNjdGa0VVZlYySGJzSHJydjVQaUtUUDhfdGtCcGlSSjM1bFRqMFViM1RteGYtSGpKanAzdGgySzhucnVLcVM1LUY4aUFKbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lg_display-2026-11-25-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display signs official partnership with Valorant esports 2027 - 헤럴드경제",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rcFhvdzJ1OTJmd2VuMnIyakVlU2hCbXE4MGlhbVNNS0RpVkdZa2hrZGx6SjZGek1WS0stQzExSlktbGNEZTFyWDl1VGhFaFRPUkJaT1ExWQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lg_display-2026-11-25-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "A Display Built for Esports Victory: LG Display’s Tandem WOLED - LG Display Newsroom",
+      "companies": [
+        "lg_display",
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVEZZMVJUdVRBWTZhNGZPRF8weEdQdS05bjZwTTlPczJYeEd6alhCdkhtZjVhM1EtOVhreG5VNTZ1ajVfNWFfMGR6bUtaTldLYktCOWlfenNjbFVKMGJkWUdiSlRxWERhUWx0SnlmNFdRd1BYckNucF9tamtONzduNXlvdm1abFZSMGUwa28ydmlNYVJMM0tWSUFpeDJPUlpo?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-25-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Memory surge weighs on Japan's mobile market outlook through 2027",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261125PD215/market-shipments-mobile-2027-inflation.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-25-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Infrared cash cow funds Kinko Optical's push into CPO, AR, and LEO satellites",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261125PD219/kinko-optical-cpo-leo-business-ar-glasses.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "lg_display",
+      "to": "lg_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 9,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "lg_display",
+        "count": 3
+      },
+      {
+        "id": "lg_elec",
+        "count": 3
+      },
+      {
+        "id": "samsung_elec",
+        "count": 2
+      },
+      {
+        "id": "boe",
+        "count": 1
+      },
+      {
+        "id": "canon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "mini_led",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 358,
+    "dup_title": 117,
+    "too_old": 164,
+    "gate1_blocked": 36,
+    "gate2_blocked": 18,
+    "passed": 23,
+    "pass_rate": "9.5%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Corning Jumped $10. Jim Cramer Had a Lower Price in Mind - Yahoo Finance",
+      "Corning carried higher by AI rally, advances 15% (GLW:NYSE) - Seeking Alpha",
+      "Cramer Backs Boeing and Sets Corning Buy Threshold - Demokratis.co.id",
+      "Corning Glass: Copper-To-Fiber And Potential Global AI Buildout Bode Well (Rating Upgrade) - Seeking",
+      "Corning: Better Price, Worse Risk (Rating Downgrade) (NYSE:GLW) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為LGD、LG電子、三星電子相關動態：「South Korea regains global OLED lead, yet LG Display halt...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "South Korea regains global OLED lead, yet LG Display halts Gen 10.5 investmen...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "LG Display signs official partnership with Valorant esports 2027 - 헤럴드경제",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

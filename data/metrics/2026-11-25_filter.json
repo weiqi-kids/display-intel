@@ -1,0 +1,16 @@
+{
+  "total_raw": 358,
+  "dup_title": 117,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 36,
+  "gate2_fail": 18,
+  "passed": 23,
+  "gate2_samples": [
+    "Corning Jumped $10. Jim Cramer Had a Lower Price in Mind - Yahoo Finance",
+    "Corning carried higher by AI rally, advances 15% (GLW:NYSE) - Seeking Alpha",
+    "Cramer Backs Boeing and Sets Corning Buy Threshold - Demokratis.co.id",
+    "Corning Glass: Copper-To-Fiber And Potential Global AI Buildout Bode Well (Rating Upgrade) - Seeking",
+    "Corning: Better Price, Worse Risk (Rating Downgrade) (NYSE:GLW) - Seeking Alpha"
+  ]
+}
