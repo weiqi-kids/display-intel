@@ -1,0 +1,16 @@
+{
+  "total_raw": 351,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 39,
+  "gate2_fail": 18,
+  "passed": 19,
+  "gate2_samples": [
+    "Corning Incorporated (1GLW.MI) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Corning carried higher by AI rally, advances 15% (GLW:NYSE) - Seeking Alpha",
+    "Corning Jumped $10. Jim Cramer Had a Lower Price in Mind - Yahoo Finance",
+    "How Much Of Corning Stock’s Rise Came From Sales? - Trefis",
+    "Corning Incorporated (GLW80.BK) income statement - Yahoo Finance UK"
+  ]
+}

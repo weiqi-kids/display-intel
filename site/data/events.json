@@ -1,5 +1,246 @@
 [
   {
+    "id": "himax-2026-11-26-001",
+    "date": "2026-11-26",
+    "companies": [
+      "himax"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Himax Technologies (HIMX) Stock Looks Cheap Even After A 42% Gain - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTk2T05manRBOXpmWlpUYmQ3OGxnWl9Sa2c0Y1FoWG9iQjdVbThWM3pTMjJWbFpoZXRIalRfRmFrMUpjQWVOcmNkSmQySlZicFRjcl9rMkI3X1hEazByTEZCaDZjVTN2QjhydVA3dW",
+    "sources": [
+      {
+        "name": "himax",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTk2T05manRBOXpmWlpUYmQ3OGxnWl9Sa2c0Y1FoWG9iQjdVbThWM3pTMjJWbFpoZXRIalRfRmFrMUpjQWVOcmNkSmQySlZicFRjcl9rMkI3X1hEazByTEZCaDZjVTN2QjhydVA3dWZGSWw5VmdSaGNRdmQtTWZOM3lna0dyanNiZHE3WVFUVUQ2dENhU3phOEJaazdZdXd0bnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-26-002",
+    "date": "2026-11-26",
+    "companies": [
+      "lg_elec",
+      "lg_display"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "LG Display's overseas patents rise 32.5% as Chinese OLED rivals expand - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ09wZXhhN0pYTWYxb2pETlh2NG5NMi0yUm02VDdBYVJLY2JvenNtTnl4S21vQS1WU0Exd1hiZEcyYk14NzJnbFVzZ19vSXh3Wi1yZExnRGR0ZDVyd3RfdWJGcS1WeWpjQms2VFdHZ3",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ09wZXhhN0pYTWYxb2pETlh2NG5NMi0yUm02VDdBYVJLY2JvenNtTnl4S21vQS1WU0Exd1hiZEcyYk14NzJnbFVzZ19vSXh3Wi1yZExnRGR0ZDVyd3RfdWJGcS1WeWpjQms2VFdHZ3MtelU2U0xyNDA1eWxEbnZKNmN2V253S0ttbXBDVw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-11-26-003",
+    "date": "2026-11-26",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "BOE is in talks to buy Visionox as the OLED maker faces a 4.6 billion yuan test - MLQ.ai",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNRExZQzcxTTJWVzIwYlliSVFNUHZtbzJvT09uNjVQZjdJUjFxVGJMVFk5QXItS3FYalQ3cldxTk43ZFdIOWNHbWFKNnNfMDF4OERsbkZ3R1NOZVJ3UThrZEF5Z2g0Z051Rl90MXBwT0",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRExZQzcxTTJWVzIwYlliSVFNUHZtbzJvT09uNjVQZjdJUjFxVGJMVFk5QXItS3FYalQ3cldxTk43ZFdIOWNHbWFKNnNfMDF4OERsbkZ3R1NOZVJ3UThrZEF5Z2g0Z051Rl90MXBwT09IS2hfT1djUzY4bzREdnNiYjVJYW1PWEFXbXZaZkpIaFA0YmRsbUgtM09CSnY5cG1J?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-26-004",
+    "date": "2026-11-26",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Small Actions, Big Impact: Give Back This Holiday Season With the Samsung Global Goals App",
+    "summary": "The holidays are a time for giving back, and for Galaxy users, one of the easiest ways to take part may already be on their phone. The Samsung Global Goals app, launched in partnership with the United",
+    "sources": [
+      {
+        "name": "samsung_elec",
+        "url": "https://news.samsung.com/global/small-actions-big-impact-give-back-this-holiday-season-with-the-samsung-global-goals-app",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-26-005",
+    "date": "2026-11-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "DRAM contract prices stay high as supply-demand squeeze persists",
+    "summary": "The Taiwan Institute of Economic Research (TIER) said on October 25 that strong AI chip demand is keeping advanced process capacity fully utilized, while tight global DRAM supply and demand are suppor",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261126PD230/taiwan-dram-demand-capacity-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-26-006",
+    "date": "2026-11-26",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display may remain sole iPhone Duo panel supplier for five years",
+    "summary": "Samsung Display (SDC) could remain Apple's sole supplier of foldable OLED panels for at least five years, beyond the term of a reported three-year exclusive supply agreement, as rival manufacturers st",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261126VL225/sdc-apple-iphone-duo-foldable-smartphone-supplier.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-26-007",
+    "date": "2026-11-26",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung, DB HiTek eye 8-inch foundry price hikes as AI demand surges",
+    "summary": "Major semiconductor foundries using 8-inch (200mm) wafers are operating at or near full capacity and seeking further price increases as demand for power chips used in AI data centers grows and major c",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261126VL227/demand-price-samsung-production-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-26-008",
+    "date": "2026-11-26",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Micron, Samsung, SK Hynix strike multiyear memory deals",
+    "summary": "The world's three largest memory chipmakers are securing multiyear supply agreements as shortages driven by AI demand push customers to commit cash years before chips are delivered.",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261126VL222/sk-hynix-micron-chipmakers-demand-chips.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-26-009",
+    "date": "2026-11-26",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "US warns of memory glut as Samsung, SK Hynix expand",
+    "summary": "The US has warned that South Korea's government-backed memory chip expansion could lead to a glut even as AI demand strains global supplies. The findings name Samsung Electronics and SK Hynix, althoug",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261126VL217/samsung-sk-hynix-demand-investment-expansion.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-26-010",
+    "date": "2026-11-26",
+    "companies": [],
+    "topics": [
+      "automotive_display"
+    ],
+    "impact": "positive",
+    "title": "Backlighting LED Assemblies Market To 2035: Automotive Displays and Mini-LED Drive Forward Growth - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMFdHQ3RFUjNyX005YlJMMTBRVFRfYjZXRDBTbHh6bEQzYl9oNndMd3ZtTTM0RGFwcm0wVWlGSC1zMnBfQkhHQXpEU3ZIOTF3WmpLZUYxRVc1d2RsMjdadTl3cEtPLWxaV3I0WVhQYk",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMFdHQ3RFUjNyX005YlJMMTBRVFRfYjZXRDBTbHh6bEQzYl9oNndMd3ZtTTM0RGFwcm0wVWlGSC1zMnBfQkhHQXpEU3ZIOTF3WmpLZUYxRVc1d2RsMjdadTl3cEtPLWxaV3I0WVhQYklPaW1DTDZxZ0lfQk9aRmtDVWJrcnlhNDloUXB5WGliekFneU9xM1Ywb0NGRXRxdW5ucGFaM0lTaVlCZ1RtTlV4RGFmS1EwZWRiV3I1SDZSSnBQM3I1LUdzRDI4TmFXbWtKSEF0bFEzTGxlYWFwU0lv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-26-011",
+    "date": "2026-11-26",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Impressive 75-inch LG mini-LED TV drops to its lowest price in Amazon Black Friday deal - PC Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQMTd2WG5VY2Q1cDVSR0FQSjhSdXJTMno0eFVScTh6Y21nd21KVVBVMjdqVDRxejVuY3hhRERqNHJfU090VGprSE95WGQybmtDSUwzVTBIX0JXLUVCOEN6eGIzV3dWNEsteUVoaUljQ1",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMTd2WG5VY2Q1cDVSR0FQSjhSdXJTMno0eFVScTh6Y21nd21KVVBVMjdqVDRxejVuY3hhRERqNHJfU090VGprSE95WGQybmtDSUwzVTBIX0JXLUVCOEN6eGIzV3dWNEsteUVoaUljQ1ctQ2FwTnRnU3NZUUhBWFZtN21NamlvUVp0XzVVdmxiR1lDSWZKbGRSNnV4X2NlQ0JjSGo5U3lfU2ZLV3pRY3g1QXNycktfTzlvbmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-26-012",
+    "date": "2026-11-26",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Haier UltraSense AI QD-Mini LED TV Series Debuts In Malaysia With M90, M92 & M96 Models - Pokde.Net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9tdnVicVVJejJBNmkzT0x3Sk5VWmhVaWZuQk1Tc2UzaFAtWlJQYW80TDZlaFlRd0RndlBCU3pRcE1TenZYOGlNVFNOemRFZkZ1WThCSUdXcENuRVpZMTJHTUc2OHF2QzRHdFNtWVBhQQ",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tdnVicVVJejJBNmkzT0x3Sk5VWmhVaWZuQk1Tc2UzaFAtWlJQYW80TDZlaFlRd0RndlBCU3pRcE1TenZYOGlNVFNOemRFZkZ1WThCSUdXcENuRVpZMTJHTUc2OHF2QzRHdFNtWVBhQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-26-013",
+    "date": "2026-11-26",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Vivid Blacks and Brightness on a Large Screen! JAPANNEXT Launches 55-inch Mini LED Monitor \"JN-IPSM55U\" - ASCII.jp",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zNzF2RmpfUkpEeWdVMDc1SEFXM3BnXzdXY3BiWG40UEhFV3BrODBFZ0FMTUpSckprci1qZkw0bUNRanJOUUNVVkJGa2dIaXFjRmlWUlAwQ0o?oc=5\" target=\"_blank\">Vivid Bl",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zNzF2RmpfUkpEeWdVMDc1SEFXM3BnXzdXY3BiWG40UEhFV3BrODBFZ0FMTUpSckprci1qZkw0bUNRanJOUUNVVkJGa2dIaXFjRmlWUlAwQ0o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "lg_display-2026-11-25-001",
     "date": "2026-11-25",
     "companies": [
@@ -303,6 +544,84 @@
     ]
   },
   {
+    "id": "canon-2026-11-25-017",
+    "date": "2026-11-25",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon to Introduce Photon-Counting CT System - Imaging Technology News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQaW5uVXVSVDR3V0tMdW1hTXN2MTlyZzk2OTBOSGlOWDJaN2Fvc0k2eEpUT2ZOVFBOTWVDM3VYeHFXRHhZZHljMGh2czRhNzh6bGdLd1VJa2JhZW9Gc3dpbzM2a2dsSlZCdWhXVjIyWD",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaW5uVXVSVDR3V0tMdW1hTXN2MTlyZzk2OTBOSGlOWDJaN2Fvc0k2eEpUT2ZOVFBOTWVDM3VYeHFXRHhZZHljMGh2czRhNzh6bGdLd1VJa2JhZW9Gc3dpbzM2a2dsSlZCdWhXVjIyWDJjdUZUZllJV1QwYndkQURUMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-25-018",
+    "date": "2026-11-25",
+    "companies": [
+      "samsung_elec",
+      "lg_elec"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Gaming OLED Shipments Surge 14-Fold in Three Years as Samsung, LG Aim to Ride 100% Market Share Through Downturn - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9PODFocW9Kc1hNaWZiRDE0ZHpuS2liaXBhcklCTkFzcjhzaGZmUzFzUFMteVNZalE2NEJWUlg2U1BKbE12ckFUekduQ2lvMHc5aDgxM0ZxQ21sQTNGUlZOYVEwaHUtX1NDTG1faEk2S1",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PODFocW9Kc1hNaWZiRDE0ZHpuS2liaXBhcklCTkFzcjhzaGZmUzFzUFMteVNZalE2NEJWUlg2U1BKbE12ckFUekduQ2lvMHc5aDgxM0ZxQ21sQTNGUlZOYVEwaHUtX1NDTG1faEk2S1lCWXRhR2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-25-019",
+    "date": "2026-11-25",
+    "companies": [],
+    "topics": [
+      "oled_penetration",
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Hisense UR9 review: How close can RGB Mini LED get to OLED? - Digital Trends",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA2cDdFRndFY2IwRU9vYnFZV2J3QWcyOVh2UHlZWjhMZ2daQ2ZDYWpSZzNLLXlrQXVvNHV5dlg3TTNQcFMxTS03TUh3emhpSjBlVkFzVUJDeXZBZDg5T3Nxa0VWYzl4R3RyVjhNTXpabw",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2cDdFRndFY2IwRU9vYnFZV2J3QWcyOVh2UHlZWjhMZ2daQ2ZDYWpSZzNLLXlrQXVvNHV5dlg3TTNQcFMxTS03TUh3emhpSjBlVkFzVUJDeXZBZDg5T3Nxa0VWYzl4R3RyVjhNTXpabw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-25-020",
+    "date": "2026-11-25",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display Becomes Largest Shareholder of ams Osram for Micro LED Push - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY2tIbEVwdGVrajlZZkk2VDV4U2tVWk1rQXpQc0xXQk1CaE94eDVnOEtubjJySmRKdjJ4X0hKYVdaaC1JT2g2MnlZUzlUY3NBOXBoV3ZncE1FeWE3VGVydEY2WDJYWkpCdHFLZ3lrbD",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY2tIbEVwdGVrajlZZkk2VDV4U2tVWk1rQXpQc0xXQk1CaE94eDVnOEtubjJySmRKdjJ4X0hKYVdaaC1JT2g2MnlZUzlUY3NBOXBoV3ZncE1FeWE3VGVydEY2WDJYWkpCdHFLZ3lrbDg3cmxNX3BHTThCWFJlMEpfa1I0NW9IRTZy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-11-24-001",
     "date": "2026-11-24",
     "companies": [
@@ -548,6 +867,24 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQck5LRXgzd3duUWlwMmRsZjc0cWJ1QTNIWTM5bUV6Wm5CZG15cVZIM2RMcU9xeW9YYmdWREtQMHFabi15TjZUa2RxYTYzXzIwTUozYTB0dktuWVJIRkRVMkEwekljQVVLajNCQjZ3cGFlSVpVR09mYnp3b1pHcW40dTBON3NzSTVhWDV0VjVodDRyTFlMUjR6TjBkdEIyczU5RmE1b2NyaDZ0MV9xdUxzM0pEcjdOVW1hMnVwVzhHd2g4Q2xrQVV4bmw1SQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jdi-2026-11-24-014",
+    "date": "2026-11-24",
+    "companies": [
+      "jdi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Japan Display Settles Lawsuit for 300 Million Yen - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNMFRpR1FSX1R4cGpWZXF2LW5ZYTRydGhlaWh0bmZlS0xyYXJMVUdBcXRhelRjS2ZyQnlkUkJjdXREQlpHazMxcTJSZU9mbUNFVk5fSXoyYXFPZnMzbHEzbzFKTmxmQmZDVmNVWUs4Wj",
+    "sources": [
+      {
+        "name": "jdi",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMFRpR1FSX1R4cGpWZXF2LW5ZYTRydGhlaWh0bmZlS0xyYXJMVUdBcXRhelRjS2ZyQnlkUkJjdXREQlpHazMxcTJSZU9mbUNFVk5fSXoyYXFPZnMzbHEzbzFKTmxmQmZDVmNVWUs4WjJKbGZVQi1uZ2FqRDJoNERvNVRDTUxtakxnRDFGWGJ3SnBNdU1BUEljSFg4d3BOZ1ZSVWZTZg?oc=5",
         "type": "rss"
       }
     ]
@@ -841,6 +1178,24 @@
       {
         "name": "oled_info",
         "url": "https://www.oled-info.com/oled-materials-lift-hodogayas-first-half-results-it-says-sfcs-ipo-postponed-not",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-22-002",
+    "date": "2026-11-22",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "QLED vs. RGB vs. OLED and QD-OLED: Which TV Tech Is Best? - Consumer Reports",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOSktCRktqazBlYWxNX25kTE5xRjl5TVE4VWZIaWdJMEN2QmNpZjRPbzZfUnNBSG9WRHhzeWdpcEtYWGg5T01lNThDdER1V0hMQV9xcWN5WTZhQXhDMnlWbFRuNkVDejJtSFlhSHhqUG",
+    "sources": [
+      {
+        "name": "google_news_mini_led",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSktCRktqazBlYWxNX25kTE5xRjl5TVE4VWZIaWdJMEN2QmNpZjRPbzZfUnNBSG9WRHhzeWdpcEtYWGg5T01lNThDdER1V0hMQV9xcWN5WTZhQXhDMnlWbFRuNkVDejJtSFlhSHhqUGtBUkhlTXlLTFpRUEgtZEdZdVMxQnJJc0s4RDJwMXMtQUFXSUN3TFo4RS1Nam51Z282WVpMcTE1Z0NNQkIwQ0taTFlFM2g5SE93UW5nQzczTVZpQjVn?oc=5",
         "type": "rss"
       }
     ]

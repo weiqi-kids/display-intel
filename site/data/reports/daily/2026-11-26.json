@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T18:07:36.380791Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lg_elec-2026-11-26-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LG Display's overseas patents rise 32.5% as Chinese OLED rivals expand - digitimes",
+      "companies": [
+        "lg_elec",
+        "lg_display"
+      ],
+      "related": {
+        "customers": [
+          "lg_elec"
+        ],
+        "suppliers": [
+          "lg_display"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ09wZXhhN0pYTWYxb2pETlh2NG5NMi0yUm02VDdBYVJLY2JvenNtTnl4S21vQS1WU0Exd1hiZEcyYk14NzJnbFVzZ19vSXh3Wi1yZExnRGR0ZDVyd3RfdWJGcS1WeWpjQms2VFdHZ3MtelU2U0xyNDA1eWxEbnZKNmN2V253S0ttbXBDVw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-26-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DRAM contract prices stay high as supply-demand squeeze persists",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261126PD230/taiwan-dram-demand-capacity-business.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "himax-2026-11-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Himax Technologies (HIMX) Stock Looks Cheap Even After A 42% Gain - Yahoo Finance",
+      "companies": [
+        "himax"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTk2T05manRBOXpmWlpUYmQ3OGxnWl9Sa2c0Y1FoWG9iQjdVbThWM3pTMjJWbFpoZXRIalRfRmFrMUpjQWVOcmNkSmQySlZicFRjcl9rMkI3X1hEazByTEZCaDZjVTN2QjhydVA3dWZGSWw5VmdSaGNRdmQtTWZOM3lna0dyanNiZHE3WVFUVUQ2dENhU3phOEJaazdZdXd0bnc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "boe-2026-11-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BOE is in talks to buy Visionox as the OLED maker faces a 4.6 billion yuan test - MLQ.ai",
+      "companies": [
+        "boe"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRExZQzcxTTJWVzIwYlliSVFNUHZtbzJvT09uNjVQZjdJUjFxVGJMVFk5QXItS3FYalQ3cldxTk43ZFdIOWNHbWFKNnNfMDF4OERsbkZ3R1NOZVJ3UThrZEF5Z2g0Z051Rl90MXBwT09IS2hfT1djUzY4bzREdnNiYjVJYW1PWEFXbXZaZkpIaFA0YmRsbUgtM09CSnY5cG1J?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung_elec-2026-11-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Small Actions, Big Impact: Give Back This Holiday Season With the Samsung Global Goals App",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.samsung.com/global/small-actions-big-impact-give-back-this-holiday-season-with-the-samsung-global-goals-app"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automotive_display": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 5
+      },
+      {
+        "id": "lg_elec",
+        "count": 2
+      },
+      {
+        "id": "himax",
+        "count": 1
+      },
+      {
+        "id": "lg_display",
+        "count": 1
+      },
+      {
+        "id": "boe",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 3
+      },
+      {
+        "id": "mini_led",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "automotive_display",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 351,
+    "dup_title": 102,
+    "too_old": 173,
+    "gate1_blocked": 39,
+    "gate2_blocked": 18,
+    "passed": 19,
+    "pass_rate": "7.6%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "Corning Incorporated (1GLW.MI) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "Corning carried higher by AI rally, advances 15% (GLW:NYSE) - Seeking Alpha",
+      "Corning Jumped $10. Jim Cramer Had a Lower Price in Mind - Yahoo Finance",
+      "How Much Of Corning Stock’s Rise Came From Sales? - Trefis",
+      "Corning Incorporated (GLW80.BK) income statement - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為三星電子、LG電子、Himax Technologies相關動態：「LG Display's overseas patents rise 32.5% as Chinese OLED ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LG Display's overseas patents rise 32.5% as Chinese OLED rivals expand - digi...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "DRAM contract prices stay high as supply-demand squeeze persists（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
