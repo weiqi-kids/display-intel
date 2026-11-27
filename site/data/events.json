@@ -1,5 +1,44 @@
 [
   {
+    "id": "corning-2026-11-27-001",
+    "date": "2026-11-27",
+    "companies": [
+      "corning"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Will Corning stock sustain momentum amid mixed technical signals? - Traders Union",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTUhWdkx3VlRQQ3lQR3ZpSVNJT0ZCWnpyZVdNQ0MzT3p0Sjh4akNXSVRRQzFDcFEtaWQ1cnA2M0l0aFBaUDd2WTJoRVk1UkhwT2ZFTmZ2TjdwcHMycUJoRkJQMXBsSmlNRnJXT3h0T3",
+    "sources": [
+      {
+        "name": "corning",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTUhWdkx3VlRQQ3lQR3ZpSVNJT0ZCWnpyZVdNQ0MzT3p0Sjh4akNXSVRRQzFDcFEtaWQ1cnA2M0l0aFBaUDd2WTJoRVk1UkhwT2ZFTmZ2TjdwcHMycUJoRkJQMXBsSmlNRnJXT3h0T3JDTzlicjdtbExpSVluQzVsajZpZ1lBbjFCNTlzYnVvNDNGdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "csot-2026-11-27-002",
+    "date": "2026-11-27",
+    "companies": [
+      "csot",
+      "tcl"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "TCL CSOT unveils APEX and IJP OLED breakthroughs for the AI era at DTC 2026 - Android Authority",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1FRWVISWplTUpoZUxaTHFxX1RYazkzQUJhQmZlUlVKSmhyMWl1N2hLbnEtS1pqejNyQm9haThueFhMVTUxU2Jzc2haOUJwMFVWYU1uTG1rTHFOSFQxU29WSkhPUVlpa2RsR0pj?oc=5\"",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FRWVISWplTUpoZUxaTHFxX1RYazkzQUJhQmZlUlVKSmhyMWl1N2hLbnEtS1pqejNyQm9haThueFhMVTUxU2Jzc2haOUJwMFVWYU1uTG1rTHFOSFQxU29WSkhPUVlpa2RsR0pj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "himax-2026-11-26-001",
     "date": "2026-11-26",
     "companies": [
@@ -236,6 +275,28 @@
       {
         "name": "google_news_mini_led",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zNzF2RmpfUkpEeWdVMDc1SEFXM3BnXzdXY3BiWG40UEhFV3BrODBFZ0FMTUpSckprci1qZkw0bUNRanJOUUNVVkJGa2dIaXFjRmlWUlAwQ0o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-26-014",
+    "date": "2026-11-26",
+    "companies": [
+      "samsung_elec",
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display Bets approximately $223 Million on ams OSRAM; LG Display Takes Cautious Path on Micro LED - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFAxcGpXRVNoQzBiOS1Id3RqSkdfTy1WUWo3TUhzU0NLWHNYaFhRcl9oM1owbzV5UlRhOHFuOElTMnBLZjRxRklKSXdtZzRrVm1sLXBTZ0JTM19fRE1rSlZTdmJrc01Jb0t6MlBpN3dpZH",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxcGpXRVNoQzBiOS1Id3RqSkdfTy1WUWo3TUhzU0NLWHNYaFhRcl9oM1owbzV5UlRhOHFuOElTMnBLZjRxRklKSXdtZzRrVm1sLXBTZ0JTM19fRE1rSlZTdmJrc01Jb0t6MlBpN3dpZHBPejUwNlE?oc=5",
         "type": "rss"
       }
     ]

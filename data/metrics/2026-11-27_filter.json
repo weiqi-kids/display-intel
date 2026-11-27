@@ -1,0 +1,16 @@
+{
+  "total_raw": 305,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 24,
+  "gate2_fail": 10,
+  "passed": 3,
+  "gate2_samples": [
+    "Corning Jumped $10. Jim Cramer Had a Lower Price in Mind - Yahoo Finance",
+    "Corning carried higher by AI rally, advances 15% (GLW:NYSE) - Seeking Alpha",
+    "Himax Technologies (HIMX) Stock Looks Cheap Even After A 42% Gain - Yahoo! Finance Canada",
+    "HIMX: Himax Technologies, Inc. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+    "Himax Technologies stock hits 52-week low at $6.84 - Investing.com"
+  ]
+}

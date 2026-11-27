@@ -1,0 +1,135 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T17:51:02.010536Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "csot-2026-11-27-002",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "TCL CSOT unveils APEX and IJP OLED breakthroughs for the AI era at DTC 2026 - Android Authority",
+      "companies": [
+        "csot",
+        "tcl"
+      ],
+      "related": {
+        "customers": [
+          "tcl"
+        ],
+        "suppliers": [
+          "csot"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FRWVISWplTUpoZUxaTHFxX1RYazkzQUJhQmZlUlVKSmhyMWl1N2hLbnEtS1pqejNyQm9haThueFhMVTUxU2Jzc2haOUJwMFVWYU1uTG1rTHFOSFQxU29WSkhPUVlpa2RsR0pj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "corning-2026-11-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Will Corning stock sustain momentum amid mixed technical signals? - Traders Union",
+      "companies": [
+        "corning"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTUhWdkx3VlRQQ3lQR3ZpSVNJT0ZCWnpyZVdNQ0MzT3p0Sjh4akNXSVRRQzFDcFEtaWQ1cnA2M0l0aFBaUDd2WTJoRVk1UkhwT2ZFTmZ2TjdwcHMycUJoRkJQMXBsSmlNRnJXT3h0T3JDTzlicjdtbExpSVluQzVsajZpZ1lBbjFCNTlzYnVvNDNGdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "corning",
+        "count": 1
+      },
+      {
+        "id": "csot",
+        "count": 1
+      },
+      {
+        "id": "tcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 305,
+    "dup_title": 103,
+    "too_old": 165,
+    "gate1_blocked": 24,
+    "gate2_blocked": 10,
+    "passed": 3,
+    "pass_rate": "1.5%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "Corning Jumped $10. Jim Cramer Had a Lower Price in Mind - Yahoo Finance",
+      "Corning carried higher by AI rally, advances 15% (GLW:NYSE) - Seeking Alpha",
+      "Himax Technologies (HIMX) Stock Looks Cheap Even After A 42% Gain - Yahoo! Finance Canada",
+      "HIMX: Himax Technologies, Inc. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+      "Himax Technologies stock hits 52-week low at $6.84 - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為康寧、CSOT、TCL Technology相關動態：「TCL CSOT unveils APEX and IJP OLED breakthroughs for the ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "TCL CSOT unveils APEX and IJP OLED breakthroughs for the AI era at DTC 2026 -...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "Will Corning stock sustain momentum amid mixed technical signals? - Traders U...",
+        "level": "green"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
