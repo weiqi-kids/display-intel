@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-27T17:51:00",
+  "updated_at": "2026-11-28T16:38:22",
   "etfs": {
     "SMH": {
       "name": "VanEck Semiconductor ETF",
-      "latest_price": 432.71,
-      "daily_change_pct": 2.43,
-      "flow_5d": -451048503,
-      "flow_20d": -2702369720,
+      "latest_price": 440.06,
+      "daily_change_pct": 4.17,
+      "flow_5d": -382155825,
+      "flow_20d": -2633477042,
       "flow_trend": "outflow",
       "daily_flow": [
         {
@@ -185,18 +185,18 @@
         },
         {
           "date": "2026-11-27",
-          "flow": 66546362,
-          "volume": 6492328,
-          "change_pct": 2.43
+          "flow": 135439040,
+          "volume": 7695400,
+          "change_pct": 4.17
         }
       ]
     },
     "SOXX": {
       "name": "iShares Semiconductor ETF",
-      "latest_price": 131.79,
-      "daily_change_pct": 2.98,
-      "flow_5d": -967861246,
-      "flow_20d": -8776077063,
+      "latest_price": 134.07,
+      "daily_change_pct": 4.76,
+      "flow_5d": -833717230,
+      "flow_20d": -8641933047,
       "flow_trend": "outflow",
       "daily_flow": [
         {
@@ -375,18 +375,18 @@
         },
         {
           "date": "2026-11-27",
-          "flow": 103026515,
-          "volume": 27041080,
-          "change_pct": 2.98
+          "flow": 237170531,
+          "volume": 38944258,
+          "change_pct": 4.76
         }
       ]
     },
     "SOXQ": {
       "name": "Invesco PHLX Semiconductor ETF",
-      "latest_price": 71.18,
-      "daily_change_pct": 3.05,
-      "flow_5d": -12428023,
-      "flow_20d": -94704415,
+      "latest_price": 72.41,
+      "daily_change_pct": 4.84,
+      "flow_5d": -9524027,
+      "flow_20d": -91800419,
       "flow_trend": "outflow",
       "daily_flow": [
         {
@@ -565,9 +565,9 @@
         },
         {
           "date": "2026-11-27",
-          "flow": 2746950,
-          "volume": 1301872,
-          "change_pct": 3.05
+          "flow": 5650946,
+          "volume": 1691900,
+          "change_pct": 4.84
         }
       ]
     }

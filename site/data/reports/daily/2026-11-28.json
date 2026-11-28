@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T16:38:25.406053Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "boe-2026-11-28-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "After Samsung, Prevalent Display sues BOE over former Innolux OLED patents - OLED-Info",
+      "companies": [
+        "boe",
+        "samsung_elec",
+        "innolux"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "boe",
+          "innolux"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHZfZWZ3Yk9sTzF6eHoxTngwdmNMUGtJWHBGSF9WdE5PRjNPM19nYk5ydFM0TEt4YV9URDVKcGlZS1Z5Q3c4cFVSc0h5eHFLY19XWTZtMFlLd1FXXzBQb3paNEJqdTNydmdWQ2p0LXdXZi1PT05ZeHRTbDFub0NnTlVkWnBRMEl1YVg3RnBrMVVzeXU2SWhORlgtX09MdFZxdEhJZWp3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "boe-2026-11-28-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "After Samsung, Prevalent Display sues BOE over former Innolux OLED patents",
+      "companies": [
+        "boe",
+        "samsung_elec",
+        "innolux"
+      ],
+      "related": {
+        "customers": [
+          "samsung_elec"
+        ],
+        "suppliers": [
+          "boe",
+          "innolux"
+        ]
+      },
+      "topics": [
+        "oled_penetration"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.oled-info.com/after-samsung-prevalent-display-now-sues-boe-over-former-innolux-oled-patents"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Column: Beyond lithium and rare earths, fluorspar is a hidden chokepoint for chip production",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "mini_led"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261127PD209/lithium-production-cobalt-materials-gallium.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung_elec-2026-11-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung hesitates to take on Nvidia in robot chips",
+      "companies": [
+        "samsung_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261127VL217/samsung-robot-chips-nvidia-demand.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "lg_elec-2026-11-28-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LG AI Research targets data and model bottlenecks in smart manufacturing",
+      "companies": [
+        "lg_elec"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261126PD233/data-lg-adoption-manufacturing-materials.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "oled_penetration": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "mini_led": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "boe",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "boe",
+      "to": "innolux",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "innolux",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung_elec",
+        "count": 3
+      },
+      {
+        "id": "boe",
+        "count": 2
+      },
+      {
+        "id": "innolux",
+        "count": 2
+      },
+      {
+        "id": "lg_elec",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "oled_penetration",
+        "count": 2
+      },
+      {
+        "id": "mini_led",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 321,
+    "dup_title": 107,
+    "too_old": 142,
+    "gate1_blocked": 36,
+    "gate2_blocked": 20,
+    "passed": 16,
+    "pass_rate": "7.5%",
+    "gate2_block_rate": "9.3%",
+    "gate2_samples": [
+      "Canon Inc. (CNN.F) stock major holders - Yahoo Finance UK",
+      "Price to sales forward of Canon Inc. Sponsored ADR – FWB:CNNA - TradingView",
+      "Canon Introduces FPA-6300AS6 Semiconductor Lithography System - industryanalysts.com",
+      "Canon Inc. (CNN.F) company profile and facts - Yahoo Finance Australia",
+      "Canon Inc. (CNN.F) recent insider transactions - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為三星電子、BOE Technology、Innolux相關動態：「After Samsung, Prevalent Display sues BOE over former Inn...」。主要關注主題為OLED 滲透率、Mini LED，市場情緒中性。",
+    "signals": [
+      {
+        "text": "After Samsung, Prevalent Display sues BOE over former Innolux OLED patents - ...（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "After Samsung, Prevalent Display sues BOE over former Innolux OLED patents（OLED 滲透率）",
+        "level": "red"
+      },
+      {
+        "text": "OLED 滲透率持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

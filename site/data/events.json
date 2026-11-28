@@ -1,5 +1,103 @@
 [
   {
+    "id": "boe-2026-11-28-001",
+    "date": "2026-11-28",
+    "companies": [
+      "boe",
+      "samsung_elec",
+      "innolux"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "After Samsung, Prevalent Display sues BOE over former Innolux OLED patents - OLED-Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHZfZWZ3Yk9sTzF6eHoxTngwdmNMUGtJWHBGSF9WdE5PRjNPM19nYk5ydFM0TEt4YV9URDVKcGlZS1Z5Q3c4cFVSc0h5eHFLY19XWTZtMFlLd1FXXzBQb3paNEJqdTNydmdWQ2p0LX",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHZfZWZ3Yk9sTzF6eHoxTngwdmNMUGtJWHBGSF9WdE5PRjNPM19nYk5ydFM0TEt4YV9URDVKcGlZS1Z5Q3c4cFVSc0h5eHFLY19XWTZtMFlLd1FXXzBQb3paNEJqdTNydmdWQ2p0LXdXZi1PT05ZeHRTbDFub0NnTlVkWnBRMEl1YVg3RnBrMVVzeXU2SWhORlgtX09MdFZxdEhJZWp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-11-28-002",
+    "date": "2026-11-28",
+    "companies": [
+      "boe",
+      "samsung_elec",
+      "innolux"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "After Samsung, Prevalent Display sues BOE over former Innolux OLED patents",
+    "summary": "<p>Earlier this month we <a href=\"https://www.oled-info.com/prevalent-display-sues-samsung-over-four-former-innolux-oled-patents-names\">reported</a> that Prevalent Display LLC, a US-based patent asser",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/after-samsung-prevalent-display-now-sues-boe-over-former-innolux-oled-patents",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-28-003",
+    "date": "2026-11-28",
+    "companies": [],
+    "topics": [
+      "mini_led"
+    ],
+    "impact": "neutral",
+    "title": "Column: Beyond lithium and rare earths, fluorspar is a hidden chokepoint for chip production",
+    "summary": "Debate over critical minerals has centered on metals and metalloids such as lithium, cobalt, rare earths, graphite, gallium, and germanium, as if geopolitical rivalry played out only in battery electr",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261127PD209/lithium-production-cobalt-materials-gallium.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-28-004",
+    "date": "2026-11-28",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung hesitates to take on Nvidia in robot chips",
+    "summary": "South Korea asked Samsung Electronics in October to develop a domestic alternative to Nvidia's Jetson Thor robotics computing platform, but the chipmaker expressed reservations over market demand, Sou",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261127VL217/samsung-robot-chips-nvidia-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_elec-2026-11-28-005",
+    "date": "2026-11-28",
+    "companies": [
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG AI Research targets data and model bottlenecks in smart manufacturing",
+    "summary": "LG AI Research is automating data preparation, building expert foundation models, and setting up an autonomous laboratory to ease the burden on companies that want to deploy AI and keep using it, part",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261126PD233/data-lg-adoption-manufacturing-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "corning-2026-11-27-001",
     "date": "2026-11-27",
     "companies": [
@@ -34,6 +132,80 @@
       {
         "name": "csot",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FRWVISWplTUpoZUxaTHFxX1RYazkzQUJhQmZlUlVKSmhyMWl1N2hLbnEtS1pqejNyQm9haThueFhMVTUxU2Jzc2haOUJwMFVWYU1uTG1rTHFOSFQxU29WSkhPUVlpa2RsR0pj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-11-27-003",
+    "date": "2026-11-27",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Jilin Oled Material Tech's Unit Wins Bid For BOE Technology's AMOLED Production Line Project - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdWlnY2V1WWtCWjNUbk5mNExCUUFHbzdlMUpFWGZ1Z29kQm9WUjJJa0VOeDhxcGs4ZjZqTGFtSV92TFhYdC1mVkFXcjdZVFZVN0xEeVZ2eGZFMllpcHU2SDFkNW02SjVad0g3czFyRX",
+    "sources": [
+      {
+        "name": "boe",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdWlnY2V1WWtCWjNUbk5mNExCUUFHbzdlMUpFWGZ1Z29kQm9WUjJJa0VOeDhxcGs4ZjZqTGFtSV92TFhYdC1mVkFXcjdZVFZVN0xEeVZ2eGZFMllpcHU2SDFkNW02SjVad0g3czFyRXVVcS1JQTdFWHlIMFVXSWVrdWRSMFRpODBqd0RobHMtMHMyRmtYc0dTYzVqMTFQSUhKbDlxSkhJVG1PUThueXBENUdiOVk5R0tSTW11d0RGQzV4TjZRVDk2bjB5c2xHQzVRWEJDYjE1N2MwOFk2eExuU2VXT1FuQVF0OGtQbHFZN2xDR3VZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-27-004",
+    "date": "2026-11-27",
+    "companies": [],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Black Friday at OLED-Info: our first-ever discount on OLED-Info Pro",
+    "summary": "<p>For the first time ever, we are offering a discount on <a href=\"https://www.oled-info.com/oled-info-pro\"><strong>OLED-Info Pro</strong></a>, our premium service for OLED industry professionals! Fro",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/black-friday-oled-info-our-first-ever-discount-oled-info-pro",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-27-005",
+    "date": "2026-11-27",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI cooling will progress toward removal of thermal interface materials, says Jentech president",
+    "summary": "Thermal solutions provider Jentech Precision holds an optimistic outlook for 2027 and will proceed with capacity expansion as planned, with its new plant expected to reach full utilization two to thre",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261127PD224/jentech-precision-cooling-materials-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung_elec-2026-11-27-006",
+    "date": "2026-11-27",
+    "companies": [
+      "samsung_elec"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Phone chip demand may stay weak in 2027, recovery seen in 2028",
+    "summary": "Research firms and industry sources expect the smartphone market to remain sluggish in 2027, with a more noticeable recovery potentially not arriving until 2028. Overall market conditions are expected",
+    "sources": [
+      {
+        "name": "digitimes_display",
+        "url": "https://www.digitimes.com/news/a20261127PD220/smartphone-demand-recovery-2027-2028.html",
         "type": "rss"
       }
     ]
@@ -297,6 +469,82 @@
       {
         "name": "lg_display",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxcGpXRVNoQzBiOS1Id3RqSkdfTy1WUWo3TUhzU0NLWHNYaFhRcl9oM1owbzV5UlRhOHFuOElTMnBLZjRxRklKSXdtZzRrVm1sLXBTZ0JTM19fRE1rSlZTdmJrc01Jb0t6MlBpN3dpZHBPejUwNlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canon-2026-11-26-015",
+    "date": "2026-11-26",
+    "companies": [
+      "canon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Canon Inc. (CNN.F) Recent Insider Transactions - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5ib0FQNGNocGcxWWdmMXktQ19BU2VsTWN0SnI1S1dZTEN1OGJZWlJ2ZHZheGdidjVnek9XMll2SUg3VWhHQjV2TTBiQ0tZX1ZGSTNRZGxfT1NqTFQ5bHFzRnBuTVUtWjVDSkVoM0pTTQ",
+    "sources": [
+      {
+        "name": "canon",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ib0FQNGNocGcxWWdmMXktQ19BU2VsTWN0SnI1S1dZTEN1OGJZWlJ2ZHZheGdidjVnek9XMll2SUg3VWhHQjV2TTBiQ0tZX1ZGSTNRZGxfT1NqTFQ5bHFzRnBuTVUtWjVDSkVoM0pTTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-11-26-016",
+    "date": "2026-11-26",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Co., Ltd. (LGA.F) Seasonal returns chart - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE11NS1Ycm9Xa05oS0c5MXhIaWFMeHJKYkYzZkViczJxSmtGOTVKNW96RE5mV1dIa21UUElFM2NoZ3U4eWNQb1VJVFpLUWVfQjRCdWFjNGRTT1lteVltUE5paEdLQQ?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11NS1Ycm9Xa05oS0c5MXhIaWFMeHJKYkYzZkViczJxSmtGOTVKNW96RE5mV1dIa21UUElFM2NoZ3U4eWNQb1VJVFpLUWVfQjRCdWFjNGRTT1lteVltUE5paEdLQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-26-017",
+    "date": "2026-11-26",
+    "companies": [],
+    "topics": [
+      "panel_price",
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "Omdia: sales of OLED displays with active privacy view to reach over 90 million units in 2033",
+    "summary": "<p>Market research firm Omdia forecasts that shipments of OLED displays with Active Privacy View (APV) technology - displays that can narrow their viewing angle on demand so that the screen cannot be ",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/omdia-oled-displays-active-privacy-view-reach-917-million-units-2033",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boe-2026-11-26-018",
+    "date": "2026-11-26",
+    "companies": [
+      "boe"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "positive",
+    "title": "Why is BOE interested in Visionox?",
+    "summary": "<p>We recently reported that <a href=\"https://www.oled-info.com/boe-reportedly-talks-acquire-visionox\">BOE is reportedly in talks to acquire Visionox</a>. The talks started with a single production li",
+    "sources": [
+      {
+        "name": "oled_info",
+        "url": "https://www.oled-info.com/why-boe-interested-visionox",
         "type": "rss"
       }
     ]
@@ -683,6 +931,46 @@
     ]
   },
   {
+    "id": "lg_display-2026-11-25-021",
+    "date": "2026-11-25",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Co Ltd (034220.KQ) stock price, news, quote and history - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FZGs3WHZYLUhZWHNUeWdKRFBvel9rQWRpWlA1aExfc0h0NERJWkJVWHZmUW5MM2dvTl9xcEZMVnZ0T3hVVjQxN2ZaTkFibFFqb1YyRWVTSDQ?oc=5\" target=\"_blank\">LG Displ",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FZGs3WHZYLUhZWHNUeWdKRFBvel9rQWRpWlA1aExfc0h0NERJWkJVWHZmUW5MM2dvTl9xcEZMVnZ0T3hVVjQxN2ZaTkFibFFqb1YyRWVTSDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tcl-2026-11-25-022",
+    "date": "2026-11-25",
+    "companies": [
+      "tcl",
+      "csot"
+    ],
+    "topics": [
+      "oled_penetration"
+    ],
+    "impact": "neutral",
+    "title": "The Inkjet Bet: How TCL CSOT Spent 13 Years Bringing Inkjet-Printed OLED to Market - Gizmochina",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQM1A0ejdUS053OXc0OUVTS0YwZWhPaERENFRwNldVLWRBd3d5MnhhUFBxOHhfZ1kyd0VjZnpQb0hfSnNDSmhVXzZwaUoybnFoWGt2NzNNcjhGLU9nSG9yQzVTaXNzckZtbm0yZDFLSj",
+    "sources": [
+      {
+        "name": "csot",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM1A0ejdUS053OXc0OUVTS0YwZWhPaERENFRwNldVLWRBd3d5MnhhUFBxOHhfZ1kyd0VjZnpQb0hfSnNDSmhVXzZwaUoybnFoWGt2NzNNcjhGLU9nSG9yQzVTaXNzckZtbm0yZDFLSjlaOXNhM1RadEhiNW54SWMxcUV1NHZTUWcteEFvVFQ1YkdnVjVoMm1kcmU0by12WWtWUFU4S1RGdG9kZ05paTdfNmtmU19scWs0cEpUcg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "canon-2026-11-24-001",
     "date": "2026-11-24",
     "companies": [
@@ -946,6 +1234,25 @@
       {
         "name": "jdi",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMFRpR1FSX1R4cGpWZXF2LW5ZYTRydGhlaWh0bmZlS0xyYXJMVUdBcXRhelRjS2ZyQnlkUkJjdXREQlpHazMxcTJSZU9mbUNFVk5fSXoyYXFPZnMzbHEzbzFKTmxmQmZDVmNVWUs4WjJKbGZVQi1uZ2FqRDJoNERvNVRDTUxtakxnRDFGWGJ3SnBNdU1BUEljSFg4d3BOZ1ZSVWZTZg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lg_display-2026-11-24-015",
+    "date": "2026-11-24",
+    "companies": [
+      "lg_display",
+      "lg_elec"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG Display Co Ltd (034220.KQ) latest stock news and headlines - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zSWNMbDltekdSZTRqRjZaQ1IxZTBGQ2o4QzF5M3c5dGNLeGdQMXNvUUEtSkJXNjJJUXppb0pPYnNpdjU3ZEZjRnRqV1YwWmFpVGgzTDZ4MUJVT1hZeGJ3?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "lg_display",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zSWNMbDltekdSZTRqRjZaQ1IxZTBGQ2o4QzF5M3c5dGNLeGdQMXNvUUEtSkJXNjJJUXppb0pPYnNpdjU3ZEZjRnRqV1YwWmFpVGgzTDZ4MUJVT1hZeGJ3?oc=5",
         "type": "rss"
       }
     ]

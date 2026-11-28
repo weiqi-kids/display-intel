@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-28",
+  "total_events": 5,
+  "by_company": {
+    "boe": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "samsung_elec": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "innolux": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lg_elec": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "oled_penetration": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "mini_led": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "boe",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "boe",
+      "to": "innolux",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    },
+    {
+      "from": "innolux",
+      "to": "samsung_elec",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "oled_penetration"
+      ]
+    }
+  ]
+}

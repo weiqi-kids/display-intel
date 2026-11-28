@@ -1,0 +1,16 @@
+{
+  "total_raw": 321,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 36,
+  "gate2_fail": 20,
+  "passed": 16,
+  "gate2_samples": [
+    "Canon Inc. (CNN.F) stock major holders - Yahoo Finance UK",
+    "Price to sales forward of Canon Inc. Sponsored ADR – FWB:CNNA - TradingView",
+    "Canon Introduces FPA-6300AS6 Semiconductor Lithography System - industryanalysts.com",
+    "Canon Inc. (CNN.F) company profile and facts - Yahoo Finance Australia",
+    "Canon Inc. (CNN.F) recent insider transactions - Yahoo Finance UK"
+  ]
+}
